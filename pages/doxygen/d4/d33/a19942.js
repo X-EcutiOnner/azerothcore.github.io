@@ -1,9 +1,6 @@
 var a19942 =
 [
-    [ "HandleOnEffectApply", "d4/d33/a19942.html#a6ab047004cc901331d747641f218cf6a", null ],
-    [ "HandleOnEffectRemove", "d4/d33/a19942.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
-    [ "PrepareAuraScript", "d4/d33/a19942.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
-    [ "Register", "d4/d33/a19942.html#a83b0d414a6e97b434f82492fa01ac385", null ],
-    [ "Validate", "d4/d33/a19942.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
-    [ "_drakeGUID", "d4/d33/a19942.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
+    [ "instance_nexus_InstanceMapScript", "da/db1/a19946.html", "da/db1/a19946" ],
+    [ "instance_nexus", "d4/d33/a19942.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "d4/d33/a19942.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

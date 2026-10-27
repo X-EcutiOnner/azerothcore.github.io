@@ -1,5 +1,8 @@
 var a15014 =
 [
-    [ "PrepareSpellScript", "d8/db2/a15014.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
-    [ "Register", "d8/db2/a15014.html#a99f7d0be5668d5b005400140fc9865a4", null ]
+    [ "CalcPeriodic", "d8/db2/a15014.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
+    [ "HandleEffectApply", "d8/db2/a15014.html#a4321da69ee59416bd50e621b804e5423", null ],
+    [ "HandleEffectPeriodicUpdate", "d8/db2/a15014.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
+    [ "PrepareAuraScript", "d8/db2/a15014.html#a956136be8cb484efc9af2429d8779a03", null ],
+    [ "Register", "d8/db2/a15014.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
 ];

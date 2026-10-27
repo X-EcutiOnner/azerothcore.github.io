@@ -1,8 +1,10 @@
 var a11318 =
 [
-    [ "SellItem", "d5/d08/a11318.html#a5c7bdfba6d948b9fdaea3416bce03e5e", null ],
-    [ "Read", "d5/d08/a11318.html#a7387e53c30f41dc8f5fd3ffbe4e4a347", null ],
-    [ "Count", "d5/d08/a11318.html#a0116f5d02f18bf1a315fbf81b6467239", null ],
-    [ "ItemGuid", "d5/d08/a11318.html#a92ae3a3dc04a699c4f201026c08974ca", null ],
-    [ "VendorGuid", "d5/d08/a11318.html#a13200b200096a11e93a6d23fd6122378", null ]
+    [ "Count", "d5/d08/a11318.html#a97b56650a40ff3d39c6281d43261f06f", null ],
+    [ "EntryType", "d5/d08/a11318.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
+    [ "ItemID", "d5/d08/a11318.html#a1daad03864355f94d90315fea68892d4", null ],
+    [ "Money", "d5/d08/a11318.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
+    [ "OtherTab", "d5/d08/a11318.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
+    [ "PlayerGUID", "d5/d08/a11318.html#a90e01e455d373204617b2747ca95fe04", null ],
+    [ "TimeOffset", "d5/d08/a11318.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
 ];

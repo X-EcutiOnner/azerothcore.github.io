@@ -1,9 +1,6 @@
 var a11790 =
 [
-    [ "EncryptableAndCompressiblePacket", "d8/d59/a11790.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
-    [ "CompressIfNeeded", "d8/d59/a11790.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
-    [ "NeedsCompression", "d8/d59/a11790.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
-    [ "NeedsEncryption", "d8/d59/a11790.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
-    [ "_encrypt", "d8/d59/a11790.html#a37a68eddad23001a85a4a2f77e237810", null ],
-    [ "SocketQueueLink", "d8/d59/a11790.html#a88f11ce75f439fd290bdc09156d559c2", null ]
+    [ "ClientOpcodeHandler", "d0/d42/a05127.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
+    [ "Call", "d0/d42/a05127.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
+    [ "ProcessingPlace", "d0/d42/a05127.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
 ];

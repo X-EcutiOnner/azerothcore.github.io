@@ -1,8 +1,21 @@
 var a20874 =
 [
-    [ "npc_xt002_heart", "d1/d72/a20874.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
-    [ "DoAction", "d1/d72/a20874.html#a3150ab74ea50c9de6d937b3271e782de", null ],
-    [ "JustDied", "d1/d72/a20874.html#a4f62cabc74ad43cf53f2257902982dff", null ],
-    [ "Reset", "d1/d72/a20874.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
-    [ "_instance", "d1/d72/a20874.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
+    [ "npc_expedition_commander", "d1/d72/a20874.html#a83604e0626881b572011ecbc6a848bfc", null ],
+    [ "BuildBrokenHarpoons", "d1/d72/a20874.html#a08677be5e4595be5d403637976ca3c82", null ],
+    [ "BuildHarpoon", "d1/d72/a20874.html#a20f98957ce92e8be8bc843a477faa0c0", null ],
+    [ "DestroyHarpoons", "d1/d72/a20874.html#a56bf7d8b81b390bcd84a3853cad6fb96", null ],
+    [ "DoAction", "d1/d72/a20874.html#a32dcbc62eeee1910f97c4112494044c9", null ],
+    [ "HarpoonEntry", "d1/d72/a20874.html#a99f3889057b4a6a74e83280044e0bcad", null ],
+    [ "Reset", "d1/d72/a20874.html#a83400ea0d6743e67eb8c63f4897e1b7b", null ],
+    [ "sGossipSelect", "d1/d72/a20874.html#afa66b8ce3286684a11f5b411baf30108", null ],
+    [ "StopControllers", "d1/d72/a20874.html#a18dcae2bfc09ee64aef450dc5c844b45", null ],
+    [ "UpdateAI", "d1/d72/a20874.html#aaf0bde74c1c92cff26e6c7340bcee177", null ],
+    [ "_building", "d1/d72/a20874.html#a62bb1f76b6aa129207d7d190f91bb039", null ],
+    [ "_destroyCd", "d1/d72/a20874.html#a0ada5897a6496c573c11a3e5c5bf8bc6", null ],
+    [ "_events", "d1/d72/a20874.html#a9949ed43b44a29a830e8a7d66beb39cd", null ],
+    [ "_harpoonGUIDs", "d1/d72/a20874.html#a42daa8c169fe2c52ebade14f785778d2", null ],
+    [ "_instance", "d1/d72/a20874.html#a73d41e87cdc874e98f43e8e1b2f9c398", null ],
+    [ "_is25", "d1/d72/a20874.html#a88ed8a4c0306033e7d6e97a8ee0c3cf6", null ],
+    [ "_started", "d1/d72/a20874.html#ac958ab74d2e857e5e25ef14e07e13ee2", null ],
+    [ "_stopCtrl", "d1/d72/a20874.html#a58f1cc8f6e9d8f442e0c869bdee2d6f2", null ]
 ];

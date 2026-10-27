@@ -1,7 +1,6 @@
 var a19198 =
 [
-    [ "HandleQuestComplete", "d9/d8b/a19198.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "d9/d8b/a19198.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "d9/d8b/a19198.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "d9/d8b/a19198.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "npc_captain_brandonAI", "d9/d8b/a19198.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d9/d8b/a19198.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d9/d8b/a19198.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

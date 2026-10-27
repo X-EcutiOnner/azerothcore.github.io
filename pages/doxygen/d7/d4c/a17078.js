@@ -1,6 +1,8 @@
 var a17078 =
 [
-    [ "boss_acidmawAI", "d6/d52/a17082.html", "d6/d52/a17082" ],
-    [ "boss_acidmaw", "d7/d4c/a17078.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
-    [ "GetAI", "d7/d4c/a17078.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
+    [ "npc_toc_boomkinAI", "d7/d4c/a17078.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "d7/d4c/a17078.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "d7/d4c/a17078.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "d7/d4c/a17078.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "d7/d4c/a17078.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

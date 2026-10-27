@@ -1,8 +1,8 @@
 var a21602 =
 [
-    [ "npc_mootoo_the_youngerAI", "d6/d2e/a21602.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d6/d2e/a21602.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d6/d2e/a21602.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d6/d2e/a21602.html#ac758a992ed0d62a272930c84d617b348", null ],
-    [ "WaypointReached", "d6/d2e/a21602.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_frozen_orbAI", "d6/d2e/a21602.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "d6/d2e/a21602.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "d6/d2e/a21602.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "d6/d2e/a21602.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "d6/d2e/a21602.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

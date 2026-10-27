@@ -1,6 +1,7 @@
 var a22618 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "db/d5d/a22622.html", "db/d5d/a22622" ],
-    [ "instance_auchenai_crypts", "d9/d89/a22618.html#a8b16924167c54a9d8120bac67bc10fed", null ],
-    [ "GetInstanceScript", "d9/d89/a22618.html#a99e47df95fde07d4a6e7687634805b93", null ]
+    [ "HandleScript", "d9/d89/a22618.html#a26eb647b6c938df3aeff7981571dc475", null ],
+    [ "PrepareSpellScript", "d9/d89/a22618.html#a10114d8fa956aabff64aa0df7708f635", null ],
+    [ "Register", "d9/d89/a22618.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
+    [ "Validate", "d9/d89/a22618.html#adb477d34d8012c6fb45c5548fc49e127", null ]
 ];

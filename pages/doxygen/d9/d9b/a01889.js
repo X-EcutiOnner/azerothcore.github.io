@@ -1,11 +1,11 @@
 var a01889 =
 [
-    [ "npc_bh_thalorien_dawnseeker", "da/dd9/a14149.html", "da/dd9/a14149" ],
-    [ "npc_bh_thalorien_dawnseeker::npc_bh_thalorien_dawnseekerAI", "d8/d2d/a14153.html", "d8/d2d/a14153" ],
-    [ "spell_bh_cleanse_quel_delar", "da/d7c/a14157.html", "da/d7c/a14157" ],
-    [ "npc_grand_magister_rommath", "d1/d4c/a14161.html", "d1/d4c/a14161" ],
-    [ "npc_grand_magister_rommath::npc_grand_magister_rommathAI", "d2/dd9/a14165.html", "d2/dd9/a14165" ],
-    [ "spell_gen_weapon_coating_enchant", "d8/d52/a14169.html", "d8/d52/a14169" ],
+    [ "npc_bh_thalorien_dawnseeker", "d4/df8/a14166.html", "d4/df8/a14166" ],
+    [ "npc_bh_thalorien_dawnseeker::npc_bh_thalorien_dawnseekerAI", "d9/d12/a14170.html", "d9/d12/a14170" ],
+    [ "spell_bh_cleanse_quel_delar", "d4/dc5/a14174.html", "d4/dc5/a14174" ],
+    [ "npc_grand_magister_rommath", "d7/d1e/a14178.html", "d7/d1e/a14178" ],
+    [ "npc_grand_magister_rommath::npc_grand_magister_rommathAI", "dd/dfe/a14182.html", "dd/dfe/a14182" ],
+    [ "spell_gen_weapon_coating_enchant", "db/d1b/a14186.html", "db/d1b/a14186" ],
     [ "SUNWELL_DEFENDER_NUM", "d9/d9b/a01889.html#aef5ca77e7ede1b475f9ed203d1bb6d2e", null ],
     [ "PurificationIds", "d9/d9b/a01889.html#a63b786515108536b8a2f43cd78f41a75", [
       [ "GO_QUEL_DELAR", "d9/d9b/a01889.html#a63b786515108536b8a2f43cd78f41a75a260cc488ab65b6242168ba0017320d9a", null ],

@@ -1,8 +1,9 @@
 var a27930 =
 [
-    [ "CheckProc", "d6/dcf/a27930.html#a77739dee36e546ff0e91a2a266a8e107", null ],
-    [ "HandleProc", "d6/dcf/a27930.html#a2cde3c808e4ad060bb34c30507f210b7", null ],
-    [ "PrepareAuraScript", "d6/dcf/a27930.html#a796c2a915069385cdca89cf3f7d09c82", null ],
-    [ "Register", "d6/dcf/a27930.html#af144533458a912ac19c6b772114586cd", null ],
-    [ "Validate", "d6/dcf/a27930.html#ac6bde14a034888642aa97de6b2d4a21d", null ]
+    [ "CheckCast", "d6/dcf/a27930.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "d6/dcf/a27930.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "d6/dcf/a27930.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "d6/dcf/a27930.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "d6/dcf/a27930.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "d6/dcf/a27930.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

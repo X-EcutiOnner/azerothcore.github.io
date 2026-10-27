@@ -1,10 +1,12 @@
 var a10382 =
 [
-    [ "ChaseRange", "dc/ddf/a10382.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "dc/ddf/a10382.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "dc/ddf/a10382.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "dc/ddf/a10382.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "dc/ddf/a10382.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "dc/ddf/a10382.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "dc/ddf/a10382.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "MapReference", "dc/ddf/a10382.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
+    [ "~MapReference", "dc/ddf/a10382.html#a1e93b44871737991140718322fd1cd69", null ],
+    [ "next", "dc/ddf/a10382.html#a352ef695a8968a17e921861b7d6242c1", null ],
+    [ "next", "dc/ddf/a10382.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
+    [ "nocheck_prev", "dc/ddf/a10382.html#a6cfff18295cf049ff554b0f140680890", null ],
+    [ "nockeck_prev", "dc/ddf/a10382.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
+    [ "sourceObjectDestroyLink", "dc/ddf/a10382.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
+    [ "targetObjectBuildLink", "dc/ddf/a10382.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
+    [ "targetObjectDestroyLink", "dc/ddf/a10382.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
 ];

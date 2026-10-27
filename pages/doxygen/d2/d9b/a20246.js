@@ -1,5 +1,7 @@
 var a20246 =
 [
-    [ "boss_flame_leviathan_overload_device", "d2/d9b/a20246.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
-    [ "OnSpellClick", "d2/d9b/a20246.html#a3f313a637fd95e28db1265ae84f349a8", null ]
+    [ "HandleDummyEffect", "d2/d9b/a20246.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "d2/d9b/a20246.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "d2/d9b/a20246.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "d2/d9b/a20246.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

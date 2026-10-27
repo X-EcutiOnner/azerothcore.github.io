@@ -1,10 +1,8 @@
 var a12014 =
 [
-    [ "EffectHook", "d2/d2c/a12014.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "d2/d2c/a12014.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "d2/d2c/a12014.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "d2/d2c/a12014.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "d2/d2c/a12014.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "d2/d2c/a12014.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "d2/d2c/a12014.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "ReflectEvent", "d2/d2c/a12014.html#a1669aec08a3a09143c57e4889c8fad08", null ],
+    [ "Execute", "d2/d2c/a12014.html#a37fb766d70932e8a431dba363c603531", null ],
+    [ "_caster", "d2/d2c/a12014.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
+    [ "_spellInfo", "d2/d2c/a12014.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
+    [ "_targetGUID", "d2/d2c/a12014.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
 ];

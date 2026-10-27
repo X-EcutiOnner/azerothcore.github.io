@@ -1,6 +1,8 @@
 var a17510 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d2/d3e/a17514.html", "d2/d3e/a17514" ],
-    [ "npc_pos_collapsing_icicle", "d5/d76/a17510.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "d5/d76/a17510.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "npc_hor_risen_witch_doctor", "d5/d76/a17510.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "d5/d76/a17510.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "d5/d76/a17510.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "d5/d76/a17510.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "d5/d76/a17510.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

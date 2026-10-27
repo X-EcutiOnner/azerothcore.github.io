@@ -1,15 +1,12 @@
 var a07674 =
 [
-    [ "ModifyMatchmakerRating", "d3/d5b/a07674.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
-    [ "ModifyPersonalRating", "d3/d5b/a07674.html#a34401ea82507df97e540c698fa549b5f", null ],
-    [ "Class", "d3/d5b/a07674.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
-    [ "Guid", "d3/d5b/a07674.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
-    [ "MatchMakerRating", "d3/d5b/a07674.html#ac91a344c7aecb72d17841413f5d935da", null ],
-    [ "MaxMMR", "d3/d5b/a07674.html#afc86e111a1c699254c5ea761d0dda088", null ],
-    [ "Name", "d3/d5b/a07674.html#a7917e705d8c15bbe2731c32375c34d16", null ],
-    [ "PersonalRating", "d3/d5b/a07674.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
-    [ "SeasonGames", "d3/d5b/a07674.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
-    [ "SeasonWins", "d3/d5b/a07674.html#a7239187cef3a02839fe27577ad022ec9", null ],
-    [ "WeekGames", "d3/d5b/a07674.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
-    [ "WeekWins", "d3/d5b/a07674.html#a5b9e5e02d59569080d34abd9b9728693", null ]
+    [ "damageText", "d3/d5b/a07674.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
+    [ "destroyText", "d3/d5b/a07674.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
+    [ "entry", "d3/d5b/a07674.html#a58d0395a47190698d309e80d91358bb1", null ],
+    [ "o", "d3/d5b/a07674.html#a21238943701f594e1a5346193c895d33", null ],
+    [ "type", "d3/d5b/a07674.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
+    [ "WorldState", "d3/d5b/a07674.html#a4b4881aba2d297e125443f0c8ccab618", null ],
+    [ "x", "d3/d5b/a07674.html#a80ebabba7265753a05367a4c79f6450c", null ],
+    [ "y", "d3/d5b/a07674.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
+    [ "z", "d3/d5b/a07674.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
 ];

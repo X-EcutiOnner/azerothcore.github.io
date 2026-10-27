@@ -1,7 +1,6 @@
 var a16970 =
 [
-    [ "npc_toc_warriorAI", "d6/d1c/a16970.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
-    [ "myCanCast", "d6/d1c/a16970.html#ac815e13cbbe9a8833330e15213420c65", null ],
-    [ "UpdateAI", "d6/d1c/a16970.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
-    [ "events", "d6/d1c/a16970.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
+    [ "npc_frost_sphereAI", "d3/d8c/a16974.html", "d3/d8c/a16974" ],
+    [ "npc_frost_sphere", "d6/d1c/a16970.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "d6/d1c/a16970.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

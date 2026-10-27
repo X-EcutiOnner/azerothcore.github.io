@@ -1,12 +1,6 @@
 var a13758 =
 [
-    [ "boss_kalecgos", "dc/d42/a13758.html#a9a3eaee76ada967445cc0ed3d5ed21d2", null ],
-    [ "CanAIAttack", "dc/d42/a13758.html#aa810a7eae5a6b1102e2e96022eaf5085", null ],
-    [ "CheckInRoom", "dc/d42/a13758.html#a99cf385b11044c364b23fa8fc7e755ee", null ],
-    [ "ClearPlayerAuras", "dc/d42/a13758.html#a17ffb7ec1b591acb0e5c359cb73ed2f6", null ],
-    [ "DoAction", "dc/d42/a13758.html#aaccfa519a7290eb56990e43de4beea97", null ],
-    [ "JustEngagedWith", "dc/d42/a13758.html#ab4d440dd0b66002b840bc4b3d3a8f7ef", null ],
-    [ "KilledUnit", "dc/d42/a13758.html#a9844d54a8334ae5d20689593cd8a5e1a", null ],
-    [ "Reset", "dc/d42/a13758.html#ad30cbd6d6fe343b9eb44fb96b0779551", null ],
-    [ "_sathBanished", "dc/d42/a13758.html#a595eb66eb6f820efa29fcc5d631fe159", null ]
+    [ "instance_stratholme_InstanceMapScript", "de/d26/a13762.html", "de/d26/a13762" ],
+    [ "instance_stratholme", "dc/d42/a13758.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
+    [ "GetInstanceScript", "dc/d42/a13758.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
 ];

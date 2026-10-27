@@ -1,7 +1,7 @@
 var a21586 =
 [
-    [ "HandleScriptEffect", "d2/d99/a21586.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
-    [ "PrepareSpellScript", "d2/d99/a21586.html#a73b5af95ee4f593337c3803574d190db", null ],
-    [ "Register", "d2/d99/a21586.html#a930de2343532feb50b86304f32269e4c", null ],
-    [ "Validate", "d2/d99/a21586.html#ae9bfedf7e89487217ad927459e259c04", null ]
+    [ "PrepareAuraScript", "d2/d99/a21586.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
+    [ "Register", "d2/d99/a21586.html#a7225d1f83921e4de06516c1db5a5038a", null ],
+    [ "TriggerFists", "d2/d99/a21586.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
+    [ "Validate", "d2/d99/a21586.html#a977897c569245148eb94892bb42d4ca5", null ]
 ];

@@ -1,9 +1,9 @@
 var a15674 =
 [
-    [ "boss_fankriss", "d2/d2f/a15674.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "d2/d2f/a15674.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "d2/d2f/a15674.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "d2/d2f/a15674.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "d2/d2f/a15674.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "d2/d2f/a15674.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "go_ossirian_crystalAI", "d2/d2f/a15674.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
+    [ "DoAction", "d2/d2f/a15674.html#a581436335d190466520c07fde56ad441", null ],
+    [ "GossipHello", "d2/d2f/a15674.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
+    [ "SetGUID", "d2/d2f/a15674.html#a9b4af48363a6d3194a22312fafa48587", null ],
+    [ "_instance", "d2/d2f/a15674.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
+    [ "_triggerGUID", "d2/d2f/a15674.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
 ];

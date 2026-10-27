@@ -1,6 +1,7 @@
 var a25018 =
 [
-    [ "CheckProc", "db/d4f/a25018.html#afa477049b9a4fa18594b203a6066d205", null ],
-    [ "PrepareAuraScript", "db/d4f/a25018.html#a9fff895957dfedb5d975e4a8e9588aa9", null ],
-    [ "Register", "db/d4f/a25018.html#ab0746e7fa614f09708f89ed3ef93fca9", null ]
+    [ "CalculateAmount", "db/d4f/a25018.html#a2ed00d02a1685bc8b66e9cdfd430d1ad", null ],
+    [ "Load", "db/d4f/a25018.html#a7ba8da2fdc3bf18cd9925b280e60affa", null ],
+    [ "PrepareAuraScript", "db/d4f/a25018.html#a93df43072a344485c389160306b1fecd", null ],
+    [ "Register", "db/d4f/a25018.html#a6766b6ebbba04bc595373145e4eaaa7a", null ]
 ];

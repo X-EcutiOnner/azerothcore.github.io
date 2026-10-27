@@ -1,4 +1,6 @@
 var a08842 =
 [
-    [ "operator()", "d8/d60/a08842.html#abf1eada3c86b3be6a9360e359a59930b", null ]
+    [ "DamageMax", "d8/d60/a08842.html#afc0bd7960848f6434c182a3fadc1e256", null ],
+    [ "DamageMin", "d8/d60/a08842.html#acbab962cbc25ad032c97216feac281bb", null ],
+    [ "DamageType", "d8/d60/a08842.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
 ];

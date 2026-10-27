@@ -1,6 +1,5 @@
 var a17234 =
 [
-    [ "HandleScriptEffect", "d2/d96/a17234.html#a90b13b2a093fdd430a383d7ea4126290", null ],
-    [ "PrepareSpellScript", "d2/d96/a17234.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
-    [ "Register", "d2/d96/a17234.html#a53c8d47ee21637055ad901946be1e2c2", null ]
+    [ "boss_eydisAI", "d2/d96/a17234.html#a0e97e184b2a2f610730cd3d455702955", null ],
+    [ "JustSummoned", "d2/d96/a17234.html#aa5ae64cfe003a25859364a12cb871199", null ]
 ];

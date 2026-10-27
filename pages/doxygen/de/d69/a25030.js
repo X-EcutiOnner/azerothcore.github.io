@@ -1,9 +1,8 @@
 var a25030 =
 [
-    [ "spell_gen_select_target_count", "de/d69/a25030.html#a65507c155a8746ff49c58c051b7868e4", null ],
-    [ "FilterTargets", "de/d69/a25030.html#a5de89be9ce321a0f4ac49853a700b502", null ],
-    [ "PrepareSpellScript", "de/d69/a25030.html#a42ddce15414dcdf495b572e0f75e9486", null ],
-    [ "Register", "de/d69/a25030.html#a94f86992275123e2e3989655cf077efd", null ],
-    [ "_count", "de/d69/a25030.html#acdf5daa848ae185b859c45a1271df68c", null ],
-    [ "_effTarget", "de/d69/a25030.html#a9c54508790062277c8275d2466e93fb3", null ]
+    [ "AfterApply", "de/d69/a25030.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "de/d69/a25030.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "de/d69/a25030.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "de/d69/a25030.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "de/d69/a25030.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

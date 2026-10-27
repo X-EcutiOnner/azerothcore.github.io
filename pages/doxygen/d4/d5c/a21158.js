@@ -1,6 +1,6 @@
 var a21158 =
 [
-    [ "HandleEffectPeriodic", "d4/d5c/a21158.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "d4/d5c/a21158.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "d4/d5c/a21158.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "boss_yoggsaron_descend_portal", "d4/d5c/a21158.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "d4/d5c/a21158.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "d4/d5c/a21158.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

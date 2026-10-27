@@ -1,9 +1,5 @@
 var a28586 =
 [
-    [ "npc_fireworkAI", "de/dcf/a28586.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "de/dcf/a28586.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "de/dcf/a28586.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "de/dcf/a28586.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "de/dcf/a28586.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "de/dcf/a28586.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "item_petrov_cluster_bombs", "de/dcf/a28586.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "de/dcf/a28586.html#aeecb6a7756b4af06f46951dfb51c054f", null ]
 ];

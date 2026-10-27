@@ -1,9 +1,11 @@
 var a15558 =
 [
-    [ "go_ossirian_crystalAI", "d8/d80/a15558.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
-    [ "DoAction", "d8/d80/a15558.html#a581436335d190466520c07fde56ad441", null ],
-    [ "GossipHello", "d8/d80/a15558.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
-    [ "SetGUID", "d8/d80/a15558.html#a9b4af48363a6d3194a22312fafa48587", null ],
-    [ "_instance", "d8/d80/a15558.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
-    [ "_triggerGUID", "d8/d80/a15558.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "d8/d80/a15558.html#a2ff8812cc356c73c2c428e098db2aed6", null ],
+    [ "CheckAchievementCriteriaMeet", "d8/d80/a15558.html#ac1cba4b642cd202c258b26bf9fcc24de", null ],
+    [ "Initialize", "d8/d80/a15558.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
+    [ "OnGameObjectCreate", "d8/d80/a15558.html#a1e99600992673d165382d99236e0c59f", null ],
+    [ "SetBossState", "d8/d80/a15558.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
+    [ "SetData", "d8/d80/a15558.html#a7027346ce76abd611ea8290ba7faf105", null ],
+    [ "_deepBreath", "d8/d80/a15558.html#a9d4fc540b6425150869d5760bac0864b", null ],
+    [ "_manyWhelpsCounter", "d8/d80/a15558.html#a12ae296ca9228ff62e1f564540cb2d59", null ]
 ];

@@ -1,6 +1,8 @@
 var a14042 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "d0/d6c/a14046.html", "d0/d6c/a14046" ],
-    [ "npc_bh_thalorien_dawnseeker", "db/dac/a14042.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "db/dac/a14042.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "npc_sunblade_arch_mage", "db/dac/a14042.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "db/dac/a14042.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "db/dac/a14042.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "db/dac/a14042.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "db/dac/a14042.html#aa6680f06651316996868907b1d28126c", null ]
 ];

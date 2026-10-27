@@ -1,5 +1,8 @@
 var a09306 =
 [
-    [ "creatures", "df/d6f/a09306.html#a9ae0351e4964d22bcf7c454c8b1027fe", null ],
-    [ "gameobjects", "df/d6f/a09306.html#a14fee7108cb388abd1ec2057cc7ed2a1", null ]
+    [ "VehicleSeat", "df/d6f/a09306.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
+    [ "IsEmpty", "df/d6f/a09306.html#a9f68076857cb85ee7679f04043acdedc", null ],
+    [ "Passenger", "df/d6f/a09306.html#ac334f2f573bf52f164d570f8b83fc197", null ],
+    [ "SeatAddon", "df/d6f/a09306.html#a3c46401aa5859287e4bcb24141c848cc", null ],
+    [ "SeatInfo", "df/d6f/a09306.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
 ];

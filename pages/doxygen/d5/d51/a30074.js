@@ -1,6 +1,6 @@
 var a30074 =
 [
-    [ "OffsetAttributes", "d5/d51/a30074.html#a072918c298b316823e784c2e5779be2a", null ],
-    [ "OffsetInstances", "d5/d51/a30074.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
-    [ "used", "d5/d51/a30074.html#a20a458e613639ea26255dd772824a642", null ]
+    [ "SetUp", "d5/d51/a30074.html#a99d0a8da57d413d938b9816ce0c06e7d", null ],
+    [ "_durationEntry", "d5/d51/a30074.html#ac23532b385a43c8954dc66d0c6ee2b16", null ],
+    [ "_scaleAuraInfo", "d5/d51/a30074.html#a4e299142bc5e9d844e693c0f705ade60", null ]
 ];

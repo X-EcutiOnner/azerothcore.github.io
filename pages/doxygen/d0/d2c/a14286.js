@@ -1,6 +1,8 @@
 var a14286 =
 [
-    [ "npc_the_scourge_cauldronAI", "d0/dcf/a14290.html", "d0/dcf/a14290" ],
-    [ "npc_the_scourge_cauldron", "d0/d2c/a14286.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
-    [ "GetAI", "d0/d2c/a14286.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
+    [ "HandleDummy", "d0/d2c/a14286.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
+    [ "HandleScript", "d0/d2c/a14286.html#a528ce741ebde0fb6b796431da800e439", null ],
+    [ "PrepareSpellScript", "d0/d2c/a14286.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
+    [ "Register", "d0/d2c/a14286.html#a8dea4b47777324b88c7e022f11741b25", null ],
+    [ "Validate", "d0/d2c/a14286.html#a6f49345b2beea56b4eaad390a6062118", null ]
 ];

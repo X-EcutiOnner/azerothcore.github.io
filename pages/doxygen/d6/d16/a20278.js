@@ -1,5 +1,6 @@
 var a20278 =
 [
-    [ "go_ulduar_tower", "d6/d16/a20278.html#afc1add1a0543921f52afe1eb907f5de3", null ],
-    [ "OnDestroyed", "d6/d16/a20278.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
+    [ "CastRunesEvent", "d6/d16/a20278.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "d6/d16/a20278.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "d6/d16/a20278.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

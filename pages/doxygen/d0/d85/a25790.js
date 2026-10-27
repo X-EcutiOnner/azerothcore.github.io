@@ -1,9 +1,7 @@
 var a25790 =
 [
-    [ "getMountSpellId", "d0/d85/a25790.html#afe306ed6057050baf342ee717723764d", null ],
-    [ "OnApply", "d0/d85/a25790.html#aa8bee986d413be60d00ac1d2111ef719", null ],
-    [ "OnRemove", "d0/d85/a25790.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
-    [ "PrepareAuraScript", "d0/d85/a25790.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
-    [ "Register", "d0/d85/a25790.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
-    [ "Validate", "d0/d85/a25790.html#a6868f6e88c9179efd921b266c83f6daf", null ]
+    [ "HandleProc", "d0/d85/a25790.html#a8a66eb1c15d8da265deed2c8a8a9cd50", null ],
+    [ "PrepareAuraScript", "d0/d85/a25790.html#aa2fd33ce33d6882292ba8ee588743fd3", null ],
+    [ "Register", "d0/d85/a25790.html#ab09dcc534ebda11da4a2234ee82233a2", null ],
+    [ "Validate", "d0/d85/a25790.html#a33c8ed96d3d4efd8841c10af7b7bf470", null ]
 ];

@@ -1,6 +1,6 @@
 var a23254 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "df/dfc/a23258.html", "df/dfc/a23258" ],
-    [ "instance_serpent_shrine", "dd/ded/a23254.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "dd/ded/a23254.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "PrepareSpellScript", "dd/ded/a23254.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "dd/ded/a23254.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "dd/ded/a23254.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

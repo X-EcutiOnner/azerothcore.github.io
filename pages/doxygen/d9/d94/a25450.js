@@ -1,7 +1,6 @@
 var a25450 =
 [
-    [ "OnPeriodic", "d9/d94/a25450.html#a58f13f947b4daac98651f7fa46d7d674", null ],
-    [ "PrepareAuraScript", "d9/d94/a25450.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
-    [ "Register", "d9/d94/a25450.html#ad0c688255e340c428624de7071b5df56", null ],
-    [ "Validate", "d9/d94/a25450.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
+    [ "CalculateAmount", "d9/d94/a25450.html#a66b009487462241e573ea23f081a140a", null ],
+    [ "PrepareAuraScript", "d9/d94/a25450.html#a0eee16c77a3c3cea882b67c78826a140", null ],
+    [ "Register", "d9/d94/a25450.html#afeafc6922b0a0389fec969e3c7191dda", null ]
 ];

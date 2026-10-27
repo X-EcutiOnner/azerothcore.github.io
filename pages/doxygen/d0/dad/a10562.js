@@ -1,23 +1,11 @@
 var a10562 =
 [
-    [ "LengthArray", "d0/dad/a10562.html#a20cf3df436c8fc337019cb8dbd4fc74f", null ],
-    [ "LengthType", "d0/dad/a10562.html#a5bbffaf9ea67b7747d5c0749d38162fb", null ],
-    [ "Spline", "d0/dad/a10562.html#a9aaaf0914627ffdad08de010920fd626", null ],
-    [ "clear", "d0/dad/a10562.html#a091e42262c66dff880bfa787c74a0bcc", null ],
-    [ "computeIndex", "d0/dad/a10562.html#a69a59bf415f83e6770694799e3c905b1", null ],
-    [ "computeIndexInBounds", "d0/dad/a10562.html#aa344531c5931b35d759830991174c6a0", null ],
-    [ "computeIndexInBounds", "d0/dad/a10562.html#a97b872ca05f947444945860e04bb2651", null ],
-    [ "evaluate_derivative", "d0/dad/a10562.html#ad4b8334bf969be613fdf68043b602fb1", null ],
-    [ "evaluate_derivative", "d0/dad/a10562.html#ae0801ccc74dc971248f743cfadc248a3", null ],
-    [ "evaluate_percent", "d0/dad/a10562.html#ae05046412e2825316172dc8b1cdac870", null ],
-    [ "evaluate_percent", "d0/dad/a10562.html#a249fa3aa29b3baa59a5afec0e14c7ef5", null ],
-    [ "init_cyclic_spline", "d0/dad/a10562.html#a8986ec43a095199017245bc3cf00a8e0", null ],
-    [ "init_spline", "d0/dad/a10562.html#a0aa38bde854589ea2b41b1751eaf5107", null ],
-    [ "initLengths", "d0/dad/a10562.html#ad1cdf5235b5a2a64f32125bcf9048094", null ],
-    [ "initLengths", "d0/dad/a10562.html#a708b60c2b21178db578520dfd98af6f7", null ],
-    [ "length", "d0/dad/a10562.html#aab929569bba2417387acd22f0634504d", null ],
-    [ "length", "d0/dad/a10562.html#a6791d5411365109dffcc699170f03291", null ],
-    [ "length", "d0/dad/a10562.html#a73b3a47713e07a5d07959a2eb17be87e", null ],
-    [ "set_length", "d0/dad/a10562.html#a7c5aba567e41d196c8bf0faf175ed43e", null ],
-    [ "lengths", "d0/dad/a10562.html#a307a7a746de042f0cd21f48797768afb", null ]
+    [ "EffectMovementGenerator", "d0/dad/a10562.html#a5b00ae06964d5c572bf2c6d14c82147e", null ],
+    [ "Finalize", "d0/dad/a10562.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
+    [ "GetMovementGeneratorType", "d0/dad/a10562.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
+    [ "Initialize", "d0/dad/a10562.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
+    [ "Reset", "d0/dad/a10562.html#a9627573a7206e12ff469e8e6e076862b", null ],
+    [ "Update", "d0/dad/a10562.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
+    [ "i_spline", "d0/dad/a10562.html#a35b92e440aa2af623f62d4fe8ecf216e", null ],
+    [ "m_Id", "d0/dad/a10562.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
 ];

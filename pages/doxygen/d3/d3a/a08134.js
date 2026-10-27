@@ -1,5 +1,6 @@
 var a08134 =
 [
-    [ "IsColorValid", "d3/d3a/a08134.html#a6fca3f0ea620fbef8ed532ddb26875a0", null ],
-    [ "IsTextValid", "d3/d3a/a08134.html#aef8ebbb11dc11311ba7152732a1ace58", null ]
+    [ "operator bool", "d3/d3a/a08134.html#a02878c282dfcfd2b9f4eddf99a805fa3", null ],
+    [ "tail", "d3/d3a/a08134.html#a0bd839d0c7a8b7ce84612c80f3ca84e7", null ],
+    [ "token", "d3/d3a/a08134.html#a55e214db8a01ac3c427874d03f1bda54", null ]
 ];

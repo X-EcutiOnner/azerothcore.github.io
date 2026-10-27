@@ -1,6 +1,6 @@
 var a18434 =
 [
-    [ "CheckTarget", "d2/d7a/a18434.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "d2/d7a/a18434.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "d2/d7a/a18434.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "HandleScript", "d2/d7a/a18434.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
+    [ "PrepareSpellScript", "d2/d7a/a18434.html#a68c0462bd108b04621f8288328f78b18", null ],
+    [ "Register", "d2/d7a/a18434.html#aedaec0afc414800bc481a434592ffb5d", null ]
 ];

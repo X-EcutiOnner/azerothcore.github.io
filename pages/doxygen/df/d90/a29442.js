@@ -1,7 +1,10 @@
 var a29442 =
 [
-    [ "TalentSpellPos", "df/d90/a29442.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
-    [ "TalentSpellPos", "df/d90/a29442.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
-    [ "rank", "df/d90/a29442.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
-    [ "talent_id", "df/d90/a29442.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
+    [ "ID", "df/d90/a29442.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "df/d90/a29442.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "df/d90/a29442.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "df/d90/a29442.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "df/d90/a29442.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "df/d90/a29442.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "df/d90/a29442.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

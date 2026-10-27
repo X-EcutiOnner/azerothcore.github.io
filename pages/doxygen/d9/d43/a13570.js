@@ -1,7 +1,5 @@
 var a13570 =
 [
-    [ "npc_apothecary_genericAI", "d9/d43/a13570.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "d9/d43/a13570.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "d9/d43/a13570.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "d9/d43/a13570.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "boss_yazzai", "d9/d43/a13570.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
+    [ "JustEngagedWith", "d9/d43/a13570.html#ab504de0e51a3715485eb65e006352a6f", null ]
 ];

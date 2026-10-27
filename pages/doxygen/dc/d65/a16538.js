@@ -1,7 +1,6 @@
 var a16538 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "dc/d65/a16538.html#aed531e61508d4d404827f47c6348a5e6", null ],
-    [ "JustEngagedWith", "dc/d65/a16538.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
-    [ "UpdateAI", "dc/d65/a16538.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
-    [ "_events", "dc/d65/a16538.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
+    [ "npc_anub_ar_crusher_necromancer", "dc/d65/a16538.html#a469d30b357551c4ce77f040bea79e951", null ],
+    [ "DoEngagedWith", "dc/d65/a16538.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
+    [ "DoEvent", "dc/d65/a16538.html#a67889b3a207ab26b7895e2f7996359b1", null ]
 ];

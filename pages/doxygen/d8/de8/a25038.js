@@ -1,6 +1,7 @@
 var a25038 =
 [
-    [ "CheckProc", "d8/de8/a25038.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
-    [ "PrepareAuraScript", "d8/de8/a25038.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
-    [ "Register", "d8/de8/a25038.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
+    [ "FilterTargets", "d8/de8/a25038.html#af6daf7022fc4cd18909056089c249c8a", null ],
+    [ "HandleDummy", "d8/de8/a25038.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
+    [ "PrepareSpellScript", "d8/de8/a25038.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
+    [ "Register", "d8/de8/a25038.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
 ];

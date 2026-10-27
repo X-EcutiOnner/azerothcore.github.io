@@ -1,9 +1,11 @@
 var a18522 =
 [
-    [ "FilterTargets", "d1/d10/a18522.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
-    [ "FilterTargetsSubseq", "d1/d10/a18522.html#a88a53a855e01b550fbd106ac318a891e", null ],
-    [ "PrepareSpellScript", "d1/d10/a18522.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
-    [ "Register", "d1/d10/a18522.html#a27e8768422b311f6db16757e167f4102", null ],
-    [ "Validate", "d1/d10/a18522.html#a96ef76527449a138685830b52fa95146", null ],
-    [ "_targetList", "d1/d10/a18522.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
+    [ "npc_little_oozeAI", "d1/d10/a18522.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "d1/d10/a18522.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "d1/d10/a18522.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "d1/d10/a18522.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "d1/d10/a18522.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "d1/d10/a18522.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "d1/d10/a18522.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "d1/d10/a18522.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

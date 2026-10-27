@@ -1,7 +1,9 @@
 var a11922 =
 [
-    [ "DiminishDurationLimit", "d8/de7/a11922.html#a18e94b40a8746c854b2fcca37ceb14f6", null ],
-    [ "DiminishGroup", "d8/de7/a11922.html#ad48e4fbc6984602d0196accea51867de", null ],
-    [ "DiminishMaxLevel", "d8/de7/a11922.html#a4b04f3f569b5b73d2f8a9eda429c3f5d", null ],
-    [ "DiminishReturnType", "d8/de7/a11922.html#a64a6fc19521245f1145ab6c769175803", null ]
+    [ "PreDeathAuraTickScope", "d8/de7/a11922.html#afdeb33f30b342a8136fa6f957cd83d7d", null ],
+    [ "~PreDeathAuraTickScope", "d8/de7/a11922.html#ad81f72ee399164959b6b5255f98ae7ff", null ],
+    [ "PreDeathAuraTickScope", "d8/de7/a11922.html#ae9e4cdb7224ab88142806e592c09055c", null ],
+    [ "operator=", "d8/de7/a11922.html#a0b847c45a08c8310d8244b03e3abcabe", null ],
+    [ "_caster", "d8/de7/a11922.html#a15bc270162fe815d64e31dd8e930ee8b", null ],
+    [ "_wasInTick", "d8/de7/a11922.html#ae7a69389a1ac8a7ac1c3ae073047ba03", null ]
 ];

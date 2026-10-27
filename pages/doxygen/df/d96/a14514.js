@@ -1,5 +1,6 @@
 var a14514 =
 [
-    [ "at_zulgurub_temple_speech", "df/d96/a14514.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "df/d96/a14514.html#a6176a8a2391baf320186868a2e8671ac", null ]
+    [ "instance_zulaman_InstanceMapScript", "d5/d02/a14518.html", "d5/d02/a14518" ],
+    [ "instance_zulaman", "df/d96/a14514.html#a5a81dddc07dea599e2a197737206427b", null ],
+    [ "GetInstanceScript", "df/d96/a14514.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
 ];

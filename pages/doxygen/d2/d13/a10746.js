@@ -1,6 +1,10 @@
 var a10746 =
 [
-    [ "ConditionScript", "d2/d13/a10746.html#aceb390c81ea5ba54a1ff0b8c21e69348", null ],
-    [ "IsDatabaseBound", "d2/d13/a10746.html#ac4f8325e3fa1e11437056818a0267342", null ],
-    [ "OnConditionCheck", "d2/d13/a10746.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
+    [ "QuestStatusData", "d2/d13/a10746.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "d2/d13/a10746.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "d2/d13/a10746.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "d2/d13/a10746.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "d2/d13/a10746.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "d2/d13/a10746.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "d2/d13/a10746.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

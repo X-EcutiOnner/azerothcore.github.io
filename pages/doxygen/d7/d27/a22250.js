@@ -1,6 +1,7 @@
 var a22250 =
 [
-    [ "npc_iron_watcherAI", "d7/de8/a22254.html", "d7/de8/a22254" ],
-    [ "npc_iron_watcher", "d7/d27/a22250.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
-    [ "GetAI", "d7/d27/a22250.html#af3b80b838e192737762ceed599b0be9a", null ]
+    [ "HandleDummy", "d7/d27/a22250.html#a3a0f6a1c3bad060c209e869c7c4dcd15", null ],
+    [ "PrepareSpellScript", "d7/d27/a22250.html#a4649e83f5a8449d6b17dbb5b5c56cd00", null ],
+    [ "Register", "d7/d27/a22250.html#a9e272ccbcda76df669b2c15e6d2de061", null ],
+    [ "Validate", "d7/d27/a22250.html#aec08efe15452819d923c40030e464392", null ]
 ];

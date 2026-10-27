@@ -1,8 +1,6 @@
 var a16642 =
 [
-    [ "Load", "dd/d29/a16642.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "dd/d29/a16642.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "dd/d29/a16642.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "dd/d29/a16642.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "dd/d29/a16642.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "boss_baltharus_the_warbornAI", "d0/d74/a16646.html", "d0/d74/a16646" ],
+    [ "boss_baltharus_the_warborn", "dd/d29/a16642.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "dd/d29/a16642.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

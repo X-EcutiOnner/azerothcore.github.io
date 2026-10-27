@@ -1,5 +1,6 @@
 var a28038 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "db/d4d/a28038.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "db/d4d/a28038.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "HandleOnHit", "db/d4d/a28038.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
+    [ "PrepareSpellScript", "db/d4d/a28038.html#a999b019665dec9b0690a1019be428072", null ],
+    [ "Register", "db/d4d/a28038.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
 ];

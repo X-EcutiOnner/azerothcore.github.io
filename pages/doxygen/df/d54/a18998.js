@@ -1,7 +1,9 @@
 var a18998 =
 [
-    [ "OnApply", "df/d54/a18998.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "df/d54/a18998.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "df/d54/a18998.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "df/d54/a18998.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "DelayedCastEvent", "df/d54/a18998.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
+    [ "Execute", "df/d54/a18998.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "df/d54/a18998.html#afcaeafb72df77c36b5496588c219fac4", null ],
+    [ "_originalCaster", "df/d54/a18998.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "df/d54/a18998.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "df/d54/a18998.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

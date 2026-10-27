@@ -1,5 +1,5 @@
 var a03539 =
 [
-    [ "SmartScript", "d6/d71/a06709.html", "d6/d71/a06709" ],
-    [ "SmartScript::SmartScriptFrame", "d9/d73/a06713.html", "d9/d73/a06713" ]
+    [ "SmartScript", "d0/d22/a06722.html", "d0/d22/a06722" ],
+    [ "SmartScript::SmartScriptFrame", "da/d1a/a06726.html", "da/d1a/a06726" ]
 ];

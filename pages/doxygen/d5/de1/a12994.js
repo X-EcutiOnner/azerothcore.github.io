@@ -1,7 +1,6 @@
 var a12994 =
 [
-    [ "HandleRemove", "d5/de1/a12994.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "d5/de1/a12994.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "d5/de1/a12994.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "d5/de1/a12994.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "near_scarshield_infiltrator", "d5/de1/a12994.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "d5/de1/a12994.html#a59c0e7bcddabbbbecb32f38434899144", null ],
+    [ "whisperedTargets", "d5/de1/a12994.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

@@ -1,5 +1,6 @@
 var a27998 =
 [
-    [ "achievement_bg_av_perfection", "dd/d80/a27998.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "dd/d80/a27998.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "CheckProc", "dd/d80/a27998.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
+    [ "PrepareAuraScript", "dd/d80/a27998.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
+    [ "Register", "dd/d80/a27998.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
 ];

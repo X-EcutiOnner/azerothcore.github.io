@@ -1,18 +1,8 @@
 var a20550 =
 [
-    [ "boss_ignis", "da/d6f/a20550.html#a0e254ab7aadb175bdbeac0cffd7044f7", null ],
-    [ "DoAction", "da/d6f/a20550.html#a5b93db8acc8e938ff4784858beeb44b3", null ],
-    [ "EnterEvadeMode", "da/d6f/a20550.html#a738218ee23e2e0d1f3338f958a77aabc", null ],
-    [ "GetData", "da/d6f/a20550.html#a90c4bf03b702264356f5826030ac16de", null ],
-    [ "JustDied", "da/d6f/a20550.html#ae82a27c0483beae93d2386ff9af3377f", null ],
-    [ "JustEngagedWith", "da/d6f/a20550.html#a3abac1b16ae9f42d0349d6472f2e1071", null ],
-    [ "JustReachedHome", "da/d6f/a20550.html#a07e03344eb0f47fe9791e6273c04b3ea", null ],
-    [ "KilledUnit", "da/d6f/a20550.html#a43ab13fd49fbc98fd6c81b38cd6e6f1d", null ],
-    [ "MoveInLineOfSight", "da/d6f/a20550.html#af5873189f7e2d8c27e709d04a4cbee13", null ],
-    [ "Reset", "da/d6f/a20550.html#ab3519e58bcf9feb942412a370fa0e205", null ],
-    [ "SpellHit", "da/d6f/a20550.html#af9a8dc94e2aeead55ab824dee7a63578", null ],
-    [ "UpdateAI", "da/d6f/a20550.html#af8b0ccfce6876b85b12e51328d4ec39f", null ],
-    [ "bShattered", "da/d6f/a20550.html#a4dca823efebb77be49e52df5ce45f42e", null ],
-    [ "counter", "da/d6f/a20550.html#a5efc99a75040decc5fddb83e64cb3930", null ],
-    [ "lastShatterMSTime", "da/d6f/a20550.html#a8b1e02c682f5d14fc03f439180265407", null ]
+    [ "npc_ulduar_saronite_animus", "da/d6f/a20550.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
+    [ "JustDied", "da/d6f/a20550.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
+    [ "UpdateAI", "da/d6f/a20550.html#afc7899752e25669b37ab04b50fb2d604", null ],
+    [ "_instance", "da/d6f/a20550.html#a6f2bf52c82185365efe88941b7922504", null ],
+    [ "timer", "da/d6f/a20550.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
 ];

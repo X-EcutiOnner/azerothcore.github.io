@@ -1,6 +1,6 @@
 var a27262 =
 [
-    [ "HandleFinish", "d1/da0/a27262.html#ac4c50220d86f809644e339fc578d9b4a", null ],
-    [ "PrepareSpellScript", "d1/da0/a27262.html#a5a14594ed93150e34626a7e0edb8171b", null ],
-    [ "Register", "d1/da0/a27262.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
+    [ "HandleScript", "d1/da0/a27262.html#ae81570045d4984ee5682a0333b1b142d", null ],
+    [ "PrepareSpellScript", "d1/da0/a27262.html#acb074781e07961998362349a7616fc4e", null ],
+    [ "Register", "d1/da0/a27262.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
 ];

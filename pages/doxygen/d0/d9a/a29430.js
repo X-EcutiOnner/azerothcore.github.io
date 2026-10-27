@@ -1,10 +1,11 @@
 var a29430 =
 [
-    [ "area_id", "d0/d9a/a29430.html#acbd77950bf9548d266e568640cf38458", null ],
-    [ "map_id", "d0/d9a/a29430.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
-    [ "virtual_map_id", "d0/d9a/a29430.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
-    [ "x1", "d0/d9a/a29430.html#a78967fef40841f705c2564a177cb36f3", null ],
-    [ "x2", "d0/d9a/a29430.html#a037dca812715df0b4f2551f8684b537c", null ],
-    [ "y1", "d0/d9a/a29430.html#a7f90073656e1cd00a88add9f8d881d11", null ],
-    [ "y2", "d0/d9a/a29430.html#ad8e0164952e5565488d5443f269ec79e", null ]
+    [ "ClassID", "d0/d9a/a29430.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
+    [ "DisplayInfoID", "d0/d9a/a29430.html#a87657df2ad024245ccb2192303f76b7a", null ],
+    [ "ID", "d0/d9a/a29430.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
+    [ "InventoryType", "d0/d9a/a29430.html#a6dc33fc40a299b010c18a7009aff648b", null ],
+    [ "Material", "d0/d9a/a29430.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
+    [ "SheatheType", "d0/d9a/a29430.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
+    [ "SoundOverrideSubclassID", "d0/d9a/a29430.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
+    [ "SubclassID", "d0/d9a/a29430.html#ac39254716573e335caf312f635353a2e", null ]
 ];

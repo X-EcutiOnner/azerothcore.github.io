@@ -1,6 +1,6 @@
 var a03974 =
 [
-    [ "DatabaseScript", "de/d72/a10841.html", "de/d72/a10841" ],
+    [ "DatabaseScript", "d7/dfc/a10854.html", "d7/dfc/a10854" ],
     [ "DatabaseHook", "d4/d2e/a03974.html#a5f7dd71299279ad5a845d4d4030e707e", [
       [ "DATABASEHOOK_ON_AFTER_DATABASES_LOADED", "d4/d2e/a03974.html#a5f7dd71299279ad5a845d4d4030e707ea669793dd5bb736daf7bf4e7a57422171", null ],
       [ "DATABASEHOOK_ON_AFTER_DATABASE_LOAD_CREATURETEMPLATES", "d4/d2e/a03974.html#a5f7dd71299279ad5a845d4d4030e707ea5da0ac4b05308347ca9a69286153d974", null ],

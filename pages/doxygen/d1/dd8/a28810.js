@@ -1,11 +1,13 @@
 var a28810 =
 [
-    [ "ClassID", "d1/dd8/a28810.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
-    [ "DisplayInfoID", "d1/dd8/a28810.html#a87657df2ad024245ccb2192303f76b7a", null ],
-    [ "ID", "d1/dd8/a28810.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
-    [ "InventoryType", "d1/dd8/a28810.html#a6dc33fc40a299b010c18a7009aff648b", null ],
-    [ "Material", "d1/dd8/a28810.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
-    [ "SheatheType", "d1/dd8/a28810.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
-    [ "SoundOverrideSubclassID", "d1/dd8/a28810.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
-    [ "SubclassID", "d1/dd8/a28810.html#ac39254716573e335caf312f635353a2e", null ]
+    [ "npc_spring_rabbitAI", "d1/dd8/a28810.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
+    [ "DoAction", "d1/dd8/a28810.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
+    [ "JustEngagedWith", "d1/dd8/a28810.html#a0c36f1dfc094007990f067544a940538", null ],
+    [ "Reset", "d1/dd8/a28810.html#ac0f6b47044099016dd6453674b75b2c8", null ],
+    [ "UpdateAI", "d1/dd8/a28810.html#af9da118068234755fa9219b84050d2a3", null ],
+    [ "bunnyTimer", "d1/dd8/a28810.html#a99c2923194cf6a07bee8924abf98f470", null ],
+    [ "inLove", "d1/dd8/a28810.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
+    [ "jumpTimer", "d1/dd8/a28810.html#a5c17e00187ac87b23482dfbabb89809b", null ],
+    [ "rabbitGUID", "d1/dd8/a28810.html#af838b25c8442767aaef16e95022cb062", null ],
+    [ "searchTimer", "d1/dd8/a28810.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
 ];

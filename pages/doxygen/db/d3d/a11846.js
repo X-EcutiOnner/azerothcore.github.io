@@ -1,9 +1,6 @@
 var a11846 =
 [
-    [ "SpellEvent", "db/d3d/a11846.html#abca64eb7d39df9788cef9df7e8634368", null ],
-    [ "~SpellEvent", "db/d3d/a11846.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
-    [ "Abort", "db/d3d/a11846.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
-    [ "Execute", "db/d3d/a11846.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
-    [ "IsDeletable", "db/d3d/a11846.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
-    [ "m_Spell", "db/d3d/a11846.html#a22cce1d722f5086932ae3e97c58d2921", null ]
+    [ "WorldSessionFilter", "db/d3d/a11846.html#aba91eb2dfd56201534743b2d458fa111", null ],
+    [ "~WorldSessionFilter", "db/d3d/a11846.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
+    [ "Process", "db/d3d/a11846.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
 ];

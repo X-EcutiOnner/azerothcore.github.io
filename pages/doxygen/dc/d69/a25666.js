@@ -1,9 +1,7 @@
 var a25666 =
 [
-    [ "CheckCast", "dc/d69/a25666.html#a005565dd77de97b5aa04553a1d6a0185", null ],
-    [ "HandleScript", "dc/d69/a25666.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
-    [ "Load", "dc/d69/a25666.html#aadfc8a873c72e31d65001ce00518ca45", null ],
-    [ "PrepareSpellScript", "dc/d69/a25666.html#a169b60644259855f0614271e4769f6b9", null ],
-    [ "Register", "dc/d69/a25666.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
-    [ "Validate", "dc/d69/a25666.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
+    [ "HandleScript", "dc/d69/a25666.html#a1097b1548b2785ac7ffd916ee5531fe9", null ],
+    [ "PrepareSpellScript", "dc/d69/a25666.html#a47dc9761bf10b1290963ff7eebe0121a", null ],
+    [ "Register", "dc/d69/a25666.html#a984b2af5268fbf294a0292502b8ddb44", null ],
+    [ "Validate", "dc/d69/a25666.html#a0cfbc2dcb836e7c37dd03cb3d0728621", null ]
 ];

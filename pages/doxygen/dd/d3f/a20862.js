@@ -1,5 +1,5 @@
 var a20862 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "dd/d3f/a20862.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "dd/d3f/a20862.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_12", "dd/d3f/a20862.html#adc7f5769894c59710fa70604878b1e2c", null ],
+    [ "OnCheck", "dd/d3f/a20862.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
 ];

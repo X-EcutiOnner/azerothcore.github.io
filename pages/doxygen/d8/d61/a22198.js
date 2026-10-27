@@ -1,6 +1,7 @@
 var a22198 =
 [
-    [ "npc_bushwhackerAI", "d8/d61/a22198.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "d8/d61/a22198.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "d8/d61/a22198.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "npc_plaguehound_trackerAI", "d8/d61/a22198.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d8/d61/a22198.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d8/d61/a22198.html#a67c345f49572cde76d9109a1baff6788", null ],
+    [ "WaypointReached", "d8/d61/a22198.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

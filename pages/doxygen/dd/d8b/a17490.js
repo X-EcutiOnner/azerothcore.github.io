@@ -1,9 +1,5 @@
 var a17490 =
 [
-    [ "npc_pos_after_first_bossAI", "dd/d8b/a17490.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "dd/d8b/a17490.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "dd/d8b/a17490.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "dd/d8b/a17490.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "dd/d8b/a17490.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "dd/d8b/a17490.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "at_hor_shadow_throne", "dd/d8b/a17490.html#a342808808be75079acf6a2f930afe930", null ],
+    [ "OnTrigger", "dd/d8b/a17490.html#a47deb4d6506e859d90fcf16d72e43d9c", null ]
 ];

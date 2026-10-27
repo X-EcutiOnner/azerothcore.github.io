@@ -1,8 +1,9 @@
 var a09762 =
 [
-    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "d4/d57/a09762.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
-    [ "operator()", "d4/d57/a09762.html#a08f8e473914c8a7bddbf26568294c18b", null ],
-    [ "i_obj", "d4/d57/a09762.html#a949ff3bcc3530206d83512d293647a2b", null ],
-    [ "i_owner", "d4/d57/a09762.html#a64f58427bbab3276bdc53450b33eca12", null ],
-    [ "i_range", "d4/d57/a09762.html#af52388830cec17e32b1d368739b4555a", null ]
+    [ "CreatureSearcher", "d4/d57/a09762.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
+    [ "Visit", "d4/d57/a09762.html#a50630891bfb459c6c526b3e4e7e29136", null ],
+    [ "Visit", "d4/d57/a09762.html#a503aab809be6f5d60c020e89c64dce7b", null ],
+    [ "i_check", "d4/d57/a09762.html#abc72e56d9453d798fcb457aff023d3ac", null ],
+    [ "i_object", "d4/d57/a09762.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
+    [ "i_phaseMask", "d4/d57/a09762.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
 ];

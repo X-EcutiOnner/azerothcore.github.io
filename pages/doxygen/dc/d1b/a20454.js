@@ -1,8 +1,8 @@
 var a20454 =
 [
-    [ "npc_ulduar_flash_freeze", "dc/d1b/a20454.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
-    [ "DamageTaken", "dc/d1b/a20454.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "dc/d1b/a20454.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "_instance", "dc/d1b/a20454.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
-    [ "timer", "dc/d1b/a20454.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "HandleOnEffectApply", "dc/d1b/a20454.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "dc/d1b/a20454.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "dc/d1b/a20454.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "dc/d1b/a20454.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "dc/d1b/a20454.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

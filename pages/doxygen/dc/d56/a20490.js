@@ -1,6 +1,10 @@
 var a20490 =
 [
-    [ "FilterTargets", "dc/d56/a20490.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "dc/d56/a20490.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "dc/d56/a20490.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "boss_freya_elder_brightleaf", "dc/d56/a20490.html#a7454f4dec1f1ccc471f42eeee513f272", null ],
+    [ "JustDied", "dc/d56/a20490.html#a98aed4b2a4ebf10c807d9bb54c65a273", null ],
+    [ "JustEngagedWith", "dc/d56/a20490.html#ad0f003e5b57b7c7df4b860df2f8e1e85", null ],
+    [ "KilledUnit", "dc/d56/a20490.html#a3c45c1c87f793cb4dbd447065b09d108", null ],
+    [ "Reset", "dc/d56/a20490.html#ae9687c330856da6d5e7bed9bccbe8e52", null ],
+    [ "UpdateAI", "dc/d56/a20490.html#aa53a5a5ada35c8717c58553b397d58d9", null ],
+    [ "events", "dc/d56/a20490.html#aaa459ae8f2e0f83330359d45259d9f79", null ]
 ];

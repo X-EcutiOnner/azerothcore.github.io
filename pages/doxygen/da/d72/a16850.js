@@ -1,12 +1,6 @@
 var a16850 =
 [
-    [ "npc_swarm_scarabAI", "da/d72/a16850.html#a0d0cefd52543044773e7df772f90fd37", null ],
-    [ "CanAIAttack", "da/d72/a16850.html#a95a27742f4f7fa1af45964b6270a9558", null ],
-    [ "DoAction", "da/d72/a16850.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
-    [ "JustDied", "da/d72/a16850.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
-    [ "JustEngagedWith", "da/d72/a16850.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
-    [ "Reset", "da/d72/a16850.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
-    [ "UpdateAI", "da/d72/a16850.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
-    [ "despawnTimer", "da/d72/a16850.html#a6d35e43af695ac112b972badb665f06d", null ],
-    [ "determinationTimer", "da/d72/a16850.html#af319dbf16bc1d3939602465f0a87d30c", null ]
+    [ "npc_memoryAI", "d1/d46/a16854.html", "d1/d46/a16854" ],
+    [ "npc_memory", "da/d72/a16850.html#acebf31813025d323f9486d6575a60483", null ],
+    [ "GetAI", "da/d72/a16850.html#ad8e532d029217a06d11ae39810498976", null ]
 ];

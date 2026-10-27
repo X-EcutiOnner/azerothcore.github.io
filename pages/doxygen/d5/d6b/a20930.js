@@ -1,9 +1,6 @@
 var a20930 =
 [
-    [ "OnProc", "d5/d6b/a20930.html#a94de5901e43000e99b478e9194d59ecd", null ],
-    [ "PrepareAuraScript", "d5/d6b/a20930.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
-    [ "Register", "d5/d6b/a20930.html#acc8a07807e5c306af285cb5889ef2c41", null ],
-    [ "Validate", "d5/d6b/a20930.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
-    [ "_lastOrbTime", "d5/d6b/a20930.html#a4522510d836abf625b019674c1c5281f", null ],
-    [ "OrbCooldown", "d5/d6b/a20930.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
+    [ "HandleHit", "d5/d6b/a20930.html#adbb57403c65e84ab217788ee3a9261b7", null ],
+    [ "PrepareSpellScript", "d5/d6b/a20930.html#a324717ff0843627151dd23fe565a80ab", null ],
+    [ "Register", "d5/d6b/a20930.html#a30c67c5c533add48412d6a9e1f6fc6b0", null ]
 ];

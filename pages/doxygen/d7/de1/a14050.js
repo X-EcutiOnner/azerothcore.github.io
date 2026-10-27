@@ -1,6 +1,6 @@
 var a14050 =
 [
-    [ "OnEffect", "d7/de1/a14050.html#a41903586310ec274dd10537ccb8655f3", null ],
-    [ "PrepareSpellScript", "d7/de1/a14050.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
-    [ "Register", "d7/de1/a14050.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d5/dfa/a14054.html", "d5/dfa/a14054" ],
+    [ "instance_the_stockade", "d7/de1/a14050.html#a533049c10a72da4b94f9807017f28c0d", null ],
+    [ "GetInstanceScript", "d7/de1/a14050.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
 ];

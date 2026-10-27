@@ -1,6 +1,6 @@
 var a22910 =
 [
-    [ "boss_essence_of_sufferingAI", "df/d25/a22914.html", "df/d25/a22914" ],
-    [ "boss_essence_of_suffering", "d0/d83/a22910.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d0/d83/a22910.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "PrepareSpellScript", "d0/d83/a22910.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
+    [ "Register", "d0/d83/a22910.html#aa41700bf097963c5a352442723181037", null ],
+    [ "SelectTarget", "d0/d83/a22910.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
 ];

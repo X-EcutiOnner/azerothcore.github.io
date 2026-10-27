@@ -1,9 +1,8 @@
 var a25346 =
 [
-    [ "spell_gen_lifebloom", "d9/dd1/a25346.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
-    [ "AfterRemove", "d9/dd1/a25346.html#aea962f603e56c1bd33fccaef0c89d917", null ],
-    [ "PrepareAuraScript", "d9/dd1/a25346.html#ac11134bdc3588795ce6e256c5b02055f", null ],
-    [ "Register", "d9/dd1/a25346.html#ab4a552402ee9f90834320d6fc668cff3", null ],
-    [ "Validate", "d9/dd1/a25346.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
-    [ "_spellId", "d9/dd1/a25346.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
+    [ "CheckIfCorpseNear", "d9/dd1/a25346.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "d9/dd1/a25346.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "d9/dd1/a25346.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "d9/dd1/a25346.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "d9/dd1/a25346.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

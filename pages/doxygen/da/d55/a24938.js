@@ -1,7 +1,7 @@
 var a24938 =
 [
-    [ "HandlePeriodic", "da/d55/a24938.html#abc823ccb417c7ee54b275fd765c2e9a5", null ],
-    [ "PrepareAuraScript", "da/d55/a24938.html#a51d8701f84737d91cf4367967e2c9439", null ],
-    [ "Register", "da/d55/a24938.html#a57d210027c9fa2a4a7a90c4b1fd7589b", null ],
-    [ "Validate", "da/d55/a24938.html#a507e7e61eef30115812dc5ab5ad33fea", null ]
+    [ "AfterApply", "da/d55/a24938.html#aee69eceead7e31cce2638ff252f6653d", null ],
+    [ "AfterRemove", "da/d55/a24938.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
+    [ "PrepareAuraScript", "da/d55/a24938.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
+    [ "Register", "da/d55/a24938.html#ab5f8afbfa688ebd548a5508543498b55", null ]
 ];

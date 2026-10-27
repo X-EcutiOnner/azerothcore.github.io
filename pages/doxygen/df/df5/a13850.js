@@ -1,7 +1,7 @@
 var a13850 =
 [
-    [ "FilterTargets", "df/df5/a13850.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
-    [ "HandleHit", "df/df5/a13850.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
-    [ "PrepareSpellScript", "df/df5/a13850.html#a905e1f979284a368463ad4829891b6ee", null ],
-    [ "Register", "df/df5/a13850.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
+    [ "CorruptTriggers", "df/df5/a13850.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "df/df5/a13850.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "df/df5/a13850.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "df/df5/a13850.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

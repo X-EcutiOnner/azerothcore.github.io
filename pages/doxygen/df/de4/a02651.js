@@ -1,7 +1,7 @@
 var a02651 =
 [
-    [ "StaticVMapCollisionData", "d2/dae/a10345.html", "d2/dae/a10345" ],
-    [ "DynamicVMapCollisionData", "d0/d6d/a10349.html", "d0/d6d/a10349" ],
-    [ "MMapData", "da/d7b/a10353.html", "da/d7b/a10353" ],
-    [ "MapCollisionData", "d5/d5a/a10357.html", "d5/d5a/a10357" ]
+    [ "StaticVMapCollisionData", "d5/d3b/a10358.html", "d5/d3b/a10358" ],
+    [ "DynamicVMapCollisionData", "d8/d78/a10362.html", "d8/d78/a10362" ],
+    [ "MMapData", "db/da6/a10366.html", "db/da6/a10366" ],
+    [ "MapCollisionData", "d3/da0/a10370.html", "d3/da0/a10370" ]
 ];

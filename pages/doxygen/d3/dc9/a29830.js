@@ -1,6 +1,13 @@
 var a29830 =
 [
-    [ "MakeTime", "d3/dc9/a29830.html#aafef969ff6e16b69727166c02e2d3d70", null ],
-    [ "PackAnchor", "d3/dc9/a29830.html#a3650ca0f9c8030fe4bd9ca770506e105", null ],
-    [ "OCCURENCE_MIN", "d3/dc9/a29830.html#afcc01c96e3ec426969c1f90f7b87fe5a", null ]
+    [ "attackType", "d3/dc9/a29830.html#a4715e7e37c120d791e6a32cd275b8cbd", null ],
+    [ "equippedItemClass", "d3/dc9/a29830.html#aceba901b7f666b4a3806c35b6d8697ad", null ],
+    [ "equippedItemSubClassMask", "d3/dc9/a29830.html#a3384bf3ae58fb0977f8fa81f84d940e2", null ],
+    [ "hasEquippedItem", "d3/dc9/a29830.html#a5d7780265fe18a0657f2a68d9c737fe7", null ],
+    [ "hasNoEquipRequirementAttr", "d3/dc9/a29830.html#ab754fdbbb49982e7152057341fc3e3af", null ],
+    [ "isInFeralForm", "d3/dc9/a29830.html#a3d8d88f4640c3100a88efee52ecf5822", null ],
+    [ "isPassive", "d3/dc9/a29830.html#ad56881b893a29dc5d6be193c6720c4e0", null ],
+    [ "isPlayer", "d3/dc9/a29830.html#a7de2ea9efe7606f26e2c11d8963357d0", null ],
+    [ "itemFitsRequirements", "d3/dc9/a29830.html#a760a3b39c124c3f408f0541744b6b34a", null ],
+    [ "itemIsBroken", "d3/dc9/a29830.html#a3b53871ecd10bd1f6d624431b0907b90", null ]
 ];

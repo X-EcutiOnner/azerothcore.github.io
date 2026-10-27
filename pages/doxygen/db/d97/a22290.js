@@ -1,9 +1,6 @@
 var a22290 =
 [
-    [ "HandlePeriodic", "db/d97/a22290.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "db/d97/a22290.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "db/d97/a22290.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "db/d97/a22290.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "db/d97/a22290.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "db/d97/a22290.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "npc_boneguard_footmanAI", "db/d97/a22290.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "db/d97/a22290.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "db/d97/a22290.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

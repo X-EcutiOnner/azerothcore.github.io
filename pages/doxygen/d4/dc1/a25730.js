@@ -1,7 +1,8 @@
 var a25730 =
 [
-    [ "HandleProc", "d4/dc1/a25730.html#a202ed9cca388b984f0dfebb64a512c47", null ],
-    [ "PrepareAuraScript", "d4/dc1/a25730.html#a133ff30c99bd6521d83e2de2361a5123", null ],
-    [ "Register", "d4/dc1/a25730.html#a6cab1853296da43b4a4cb39bedb20ffa", null ],
-    [ "Validate", "d4/dc1/a25730.html#a39b41d1560869ef9a1231fd39d0a652f", null ]
+    [ "CalcPeriodic", "d4/dc1/a25730.html#ab11cad89fe213256353c88c351a8743b", null ],
+    [ "HandleUpdatePeriodic", "d4/dc1/a25730.html#a096bc5640e42232f7754251daf5b6a8a", null ],
+    [ "OnApply", "d4/dc1/a25730.html#ae00430a1418a0c3e91ae340f1a33f157", null ],
+    [ "PrepareAuraScript", "d4/dc1/a25730.html#a85b849676d1c4c08921edff8d472da04", null ],
+    [ "Register", "d4/dc1/a25730.html#a75a4f12269c7684335c3c09cd5002586", null ]
 ];

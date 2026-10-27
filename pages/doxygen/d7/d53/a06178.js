@@ -1,11 +1,8 @@
 var a06178 =
 [
-    [ "AppenderDB", "d7/d53/a06178.html#af8e48076d47a06c73f6b8ae054955a83", null ],
-    [ "~AppenderDB", "d7/d53/a06178.html#a7da848083d02833acc632051a2d938bf", null ],
-    [ "_write", "d7/d53/a06178.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
-    [ "getType", "d7/d53/a06178.html#a96221ceed23435556df03c5f7ffab61e", null ],
-    [ "setRealmId", "d7/d53/a06178.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
-    [ "enabled", "d7/d53/a06178.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
-    [ "realmId", "d7/d53/a06178.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
-    [ "type", "d7/d53/a06178.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
+    [ "Statements", "d7/d53/a06178.html#adaf49f7cb45d90cb041f979b1821e4a1", null ],
+    [ "WorldDatabaseConnection", "d7/d53/a06178.html#a0c03387d2c019c86d1fe4933eca6aae5", null ],
+    [ "WorldDatabaseConnection", "d7/d53/a06178.html#a015f79a049d37f742232bc5ac10e9551", null ],
+    [ "~WorldDatabaseConnection", "d7/d53/a06178.html#a2feafa80fe8e838587d8f7b641c0ab09", null ],
+    [ "DoPrepareStatements", "d7/d53/a06178.html#a280aa4a4571581c5cef8f9967631b484", null ]
 ];

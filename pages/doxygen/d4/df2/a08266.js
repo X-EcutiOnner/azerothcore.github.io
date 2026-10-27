@@ -1,6 +1,5 @@
 var a08266 =
 [
-    [ "ConditionSourceInfo", "d4/df2/a08266.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
-    [ "mConditionTargets", "d4/df2/a08266.html#acb67deba44021698a447e8288bca0bd4", null ],
-    [ "mLastFailedCondition", "d4/df2/a08266.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
+    [ "Entry", "d4/df2/a08266.html#a057a5b8b65db8b8084b79a217a95308d", null ],
+    [ "RawGuid", "d4/df2/a08266.html#a0167a663fcde7c1de2b15e3622f90c7c", null ]
 ];

@@ -1,9 +1,9 @@
 var a09666 =
 [
-    [ "CreatureSearcher", "db/da7/a09666.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
-    [ "Visit", "db/da7/a09666.html#a50630891bfb459c6c526b3e4e7e29136", null ],
-    [ "Visit", "db/da7/a09666.html#a503aab809be6f5d60c020e89c64dce7b", null ],
-    [ "i_check", "db/da7/a09666.html#abc72e56d9453d798fcb457aff023d3ac", null ],
-    [ "i_object", "db/da7/a09666.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
-    [ "i_phaseMask", "db/da7/a09666.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
+    [ "LiquidData", "db/da7/a09666.html#ac2435178323f480d2dae449b49b39146", null ],
+    [ "DepthLevel", "db/da7/a09666.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
+    [ "Entry", "db/da7/a09666.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
+    [ "Flags", "db/da7/a09666.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
+    [ "Level", "db/da7/a09666.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
+    [ "Status", "db/da7/a09666.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
 ];

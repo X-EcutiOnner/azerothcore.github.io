@@ -1,6 +1,11 @@
 var a16678 =
 [
-    [ "HandleHealPct", "d0/dd6/a16678.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "d0/dd6/a16678.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "d0/dd6/a16678.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "boss_general_zarithrianAI", "d0/dd6/a16678.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d0/dd6/a16678.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d0/dd6/a16678.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d0/dd6/a16678.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d0/dd6/a16678.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d0/dd6/a16678.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d0/dd6/a16678.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d0/dd6/a16678.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

@@ -1,5 +1,22 @@
 var a12306 =
 [
-    [ "flag", "d4/d9f/a12306.html#ae1419ecdb46b888ad0250ff77ccb9b6e", null ],
-    [ "text", "d4/d9f/a12306.html#a87700bc5f863f448b346c2aec2152ba4", null ]
+    [ "CreatureTextMgr", "d4/d9f/a12306.html#a00cc7ebfdb0702de8af841dcbbddcc3b", null ],
+    [ "~CreatureTextMgr", "d4/d9f/a12306.html#a6f77e1f030bb16b585f9a75059a06f31", null ],
+    [ "GetLocalizedChatString", "d4/d9f/a12306.html#a169c53804fb5bf4ecd509ee90482ebf5", null ],
+    [ "GetRangeForChatType", "d4/d9f/a12306.html#aeddebd7d3fcf604ee4d11b77ff87fd53", null ],
+    [ "GetTextMap", "d4/d9f/a12306.html#a5237341864a3082126bed703d68312b2", null ],
+    [ "GetTextOptions", "d4/d9f/a12306.html#abf52920783a936f46500e158fcf0fd8c", null ],
+    [ "instance", "d4/d9f/a12306.html#a92acbdab30a8942859e01526144b9989", null ],
+    [ "LoadCreatureTextLocales", "d4/d9f/a12306.html#a826a3cd2e991c358a98fced5512297dd", null ],
+    [ "LoadCreatureTextOptions", "d4/d9f/a12306.html#a1159c9ba36268a33dbeb52a78dda72f2", null ],
+    [ "LoadCreatureTexts", "d4/d9f/a12306.html#a129039b5a7d2de067656cd6e47de43dd", null ],
+    [ "SendChat", "d4/d9f/a12306.html#a93c7fa546a0f41e7d59c6782aecee070", null ],
+    [ "SendChatPacket", "d4/d9f/a12306.html#a0b94720ae3ab22ba8bb961f26f47548b", null ],
+    [ "SendEmote", "d4/d9f/a12306.html#a8b9dc67f09242b5ade7405663ca52fda", null ],
+    [ "SendNonChatPacket", "d4/d9f/a12306.html#a2303c6343e233beb3f7a1ebda40e080e", null ],
+    [ "SendSound", "d4/d9f/a12306.html#aa36b6dd5010eea049973122bec4fceb1", null ],
+    [ "TextExist", "d4/d9f/a12306.html#aa92d99a93a387193a10eb7a30c59b86e", null ],
+    [ "mLocaleTextMap", "d4/d9f/a12306.html#a12ecf289ef6d78691b6ab23f3cdd9fd8", null ],
+    [ "mTextMap", "d4/d9f/a12306.html#ad25faab453d0f5d6270797eeeb5e2e40", null ],
+    [ "mTextOptionsMap", "d4/d9f/a12306.html#aef06823ec3f9b56e8ee25b28b453193f", null ]
 ];

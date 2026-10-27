@@ -1,6 +1,6 @@
 var a24062 =
 [
-    [ "go_beaconAI", "d1/d78/a24062.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d1/d78/a24062.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "_whelpGUIDs", "d1/d78/a24062.html#a083094ececd327c833649da6a755c635", null ]
+    [ "HandlePeriodic", "d1/d78/a24062.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
+    [ "PrepareAuraScript", "d1/d78/a24062.html#a2b809a60626119f6bcf595bd3581c2be", null ],
+    [ "Register", "d1/d78/a24062.html#a299f84e9c12406c79a56999a13de5c1c", null ]
 ];

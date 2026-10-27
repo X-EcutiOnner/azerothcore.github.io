@@ -1,6 +1,8 @@
 var a15626 =
 [
-    [ "FilterTargets", "da/db2/a15626.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
-    [ "PrepareSpellScript", "da/db2/a15626.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
-    [ "Register", "da/db2/a15626.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
+    [ "HandleScript", "da/db2/a15626.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "da/db2/a15626.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "da/db2/a15626.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "da/db2/a15626.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "da/db2/a15626.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

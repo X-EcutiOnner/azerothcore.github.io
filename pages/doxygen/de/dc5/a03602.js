@@ -1,6 +1,6 @@
 var a03602 =
 [
-    [ "AISpellInfoType", "d0/d54/a06637.html", "d0/d54/a06637" ],
+    [ "AISpellInfoType", "d1/dc9/a06650.html", "d1/dc9/a06650" ],
     [ "AI_DEFAULT_COOLDOWN", "de/dc5/a03602.html#a41c947edd84b4f2bb45133dc7aa00cad", null ],
     [ "AICondition", "de/dc5/a03602.html#ac43b18581ae7a7b66984b1003502d5af", [
       [ "AICOND_AGGRO", "de/dc5/a03602.html#ac43b18581ae7a7b66984b1003502d5afac41d9d90387a55a0b5be34e13683f9c8", null ],

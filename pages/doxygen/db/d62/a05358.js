@@ -1,4 +1,4 @@
 var a05358 =
 [
-    [ "GetBounds", "db/d62/a05358.html#a04d9251d9a67affeece303853c2c8a84", null ]
+    [ "operator()", "db/d62/a05358.html#a21f61d591d9d7b7efd797905cbb15d13", null ]
 ];

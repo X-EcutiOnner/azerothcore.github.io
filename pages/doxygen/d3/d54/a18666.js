@@ -1,6 +1,5 @@
 var a18666 =
 [
-    [ "HandleScript", "d3/d54/a18666.html#a6f9b2c00cdc050ff25ec37f5b7610c71", null ],
-    [ "PrepareSpellScript", "d3/d54/a18666.html#a5405e4547ec6cbc05acceb72d1b16530", null ],
-    [ "Register", "d3/d54/a18666.html#a172490b953b958df354394e947b7cfd0", null ]
+    [ "achievement_all_you_can_eat", "d3/d54/a18666.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "d3/d54/a18666.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

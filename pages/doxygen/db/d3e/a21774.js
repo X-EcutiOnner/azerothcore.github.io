@@ -1,6 +1,10 @@
 var a21774 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "db/d3e/a21774.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "db/d3e/a21774.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "db/d3e/a21774.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "db/d3e/a21774.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "db/d3e/a21774.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "db/d3e/a21774.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "db/d3e/a21774.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "db/d3e/a21774.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "db/d3e/a21774.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "db/d3e/a21774.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

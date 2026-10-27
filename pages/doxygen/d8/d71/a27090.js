@@ -1,7 +1,6 @@
 var a27090 =
 [
-    [ "HandleDummy", "d8/d71/a27090.html#a123ddc812fb358b7517eba60d1f90eba", null ],
-    [ "Load", "d8/d71/a27090.html#a64ca188f58b4f34827f03ae2878deef0", null ],
-    [ "PrepareSpellScript", "d8/d71/a27090.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
-    [ "Register", "d8/d71/a27090.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
+    [ "FilterTargets", "d8/d71/a27090.html#a23c7b977f7e213322b3702367d6a28c7", null ],
+    [ "PrepareSpellScript", "d8/d71/a27090.html#a7000b2fd940c914933c486e847932b62", null ],
+    [ "Register", "d8/d71/a27090.html#a870ee08d0341f6640710a87c97a6b98b", null ]
 ];

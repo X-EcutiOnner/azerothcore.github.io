@@ -1,10 +1,14 @@
 var a07794 =
 [
-    [ "BattlegroundEYCapturingPointStruct", "d0/d6e/a07794.html#a54164bcb9e4235b15d8a5d8a27fbe41c", null ],
-    [ "DespawnNeutralObjectType", "d0/d6e/a07794.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
-    [ "GraveyardId", "d0/d6e/a07794.html#a23524562fd9c875b29092ee7e7a4e44b", null ],
-    [ "MessageIdAlliance", "d0/d6e/a07794.html#af3295d59367354a4ddaac12258e793b8", null ],
-    [ "MessageIdHorde", "d0/d6e/a07794.html#a5c82eae433ee69b5bda8c96049a06422", null ],
-    [ "SpawnObjectTypeAlliance", "d0/d6e/a07794.html#aeeeecdf09990c74ffc868a135854d49b", null ],
-    [ "SpawnObjectTypeHorde", "d0/d6e/a07794.html#a4b25984504b15c7249d2e5866ad35962", null ]
+    [ "IsArena", "d0/d6e/a07794.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
+    [ "BattlemasterEntry", "d0/d6e/a07794.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
+    [ "Id", "d0/d6e/a07794.html#a0fca37318585903f68695452a95011a9", null ],
+    [ "MaxLevel", "d0/d6e/a07794.html#a790f55d480d1454a5f6e5713c04314b7", null ],
+    [ "MaxPlayersPerTeam", "d0/d6e/a07794.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
+    [ "MaxStartDistSq", "d0/d6e/a07794.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
+    [ "MinLevel", "d0/d6e/a07794.html#a49fdf96a08376830a06956fd501cfa78", null ],
+    [ "MinPlayersPerTeam", "d0/d6e/a07794.html#ac1bea263b53de8573cdb8eb890175495", null ],
+    [ "ScriptId", "d0/d6e/a07794.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
+    [ "StartLocation", "d0/d6e/a07794.html#a8477d2156c8aa5bb89da038d1a779698", null ],
+    [ "Weight", "d0/d6e/a07794.html#aa7a051e8453599a7e82da763a6f91da2", null ]
 ];

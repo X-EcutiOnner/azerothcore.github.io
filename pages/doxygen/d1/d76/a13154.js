@@ -1,7 +1,7 @@
 var a13154 =
 [
-    [ "npc_kernobeeAI", "d1/d2d/a13158.html", "d1/d2d/a13158" ],
-    [ "npc_kernobee", "d1/d76/a13154.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
-    [ "GetAI", "d1/d76/a13154.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
-    [ "OnQuestAccept", "d1/d76/a13154.html#a378653fb57a1e49703202ca4e30a6474", null ]
+    [ "HandleHit", "d1/d76/a13154.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "d1/d76/a13154.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "d1/d76/a13154.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "d1/d76/a13154.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

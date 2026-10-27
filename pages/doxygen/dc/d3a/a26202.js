@@ -1,8 +1,7 @@
 var a26202 =
 [
-    [ "HandleScript", "dc/d3a/a26202.html#ad99c741ef4bf707ec4b4726a3610d827", null ],
-    [ "Load", "dc/d3a/a26202.html#ab7aac5c557c76fdd195565a99d746dc9", null ],
-    [ "PrepareSpellScript", "dc/d3a/a26202.html#abb6e76d537d61b5b38ce4488d230d6de", null ],
-    [ "Register", "dc/d3a/a26202.html#a2f7e819dfa30f4f0d3645fde9c87408c", null ],
-    [ "Validate", "dc/d3a/a26202.html#a0767c66cbc288bee6ee0eb3a4fde315f", null ]
+    [ "HandleDummy", "dc/d3a/a26202.html#ae1321cc7d119e1f2c8c2029f8ada60a3", null ],
+    [ "PrepareSpellScript", "dc/d3a/a26202.html#a527f606fd6e583eab56146a689f73e69", null ],
+    [ "Register", "dc/d3a/a26202.html#ac34b3d95ea2888a164deaa3db6671e8b", null ],
+    [ "Validate", "dc/d3a/a26202.html#a2a414ce6309b0bbbdb3fb4612215ca03", null ]
 ];

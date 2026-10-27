@@ -1,7 +1,6 @@
 var a25250 =
 [
-    [ "CalculateAmount", "df/d09/a25250.html#a40ba021accd581745f07f2586545853c", null ],
-    [ "Load", "df/d09/a25250.html#aa963b658637360305bb5f3d59eb9d061", null ],
-    [ "PrepareAuraScript", "df/d09/a25250.html#a8fedbff305709145a7c004787ee50402", null ],
-    [ "Register", "df/d09/a25250.html#ade9b6a408a1d5a83bdadd5bd2b0fbb2a", null ]
+    [ "CheckProc", "df/d09/a25250.html#a3c4f64fc51367ebb549282b068458f4c", null ],
+    [ "PrepareAuraScript", "df/d09/a25250.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
+    [ "Register", "df/d09/a25250.html#ac84b357828094a42aab1c8bfee83d298", null ]
 ];

@@ -1,6 +1,7 @@
 var a22122 =
 [
-    [ "ChangeSummonPos", "db/d17/a22122.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "db/d17/a22122.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "db/d17/a22122.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "HandleScriptEffect", "db/d17/a22122.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "db/d17/a22122.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "db/d17/a22122.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "db/d17/a22122.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

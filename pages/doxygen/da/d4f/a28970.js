@@ -1,10 +1,12 @@
 var a28970 =
 [
-    [ "attackSpeed", "da/d4f/a28970.html#ab5242f7367e8799a556176178c72fc88", null ],
-    [ "creatureType", "da/d4f/a28970.html#a3dff9074b85261932ed8a8a550c5395b", null ],
-    [ "flags1", "da/d4f/a28970.html#a026745f2ce754d754858d69ee219b518", null ],
-    [ "ID", "da/d4f/a28970.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
-    [ "modelID_A", "da/d4f/a28970.html#a86dfa61342583d920b7d8496bce4b49d", null ],
-    [ "modelID_H", "da/d4f/a28970.html#a1ee597d6fd02507b682874929645e01d", null ],
-    [ "stanceSpell", "da/d4f/a28970.html#a08f54b905e905fb5a59e449f8c613c08", null ]
+    [ "categoryId", "da/d4f/a28970.html#a1de0e4302757f18c08b90b40e059737b", null ],
+    [ "count", "da/d4f/a28970.html#a93aac150067979467f56d9919ff665a4", null ],
+    [ "flags", "da/d4f/a28970.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
+    [ "ID", "da/d4f/a28970.html#a843fee247948d02f7aaf04144cb37ef5", null ],
+    [ "mapID", "da/d4f/a28970.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
+    [ "name", "da/d4f/a28970.html#a806cfeddc475994f1b421679bd9699e6", null ],
+    [ "points", "da/d4f/a28970.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
+    [ "refAchievement", "da/d4f/a28970.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
+    [ "requiredFaction", "da/d4f/a28970.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
 ];

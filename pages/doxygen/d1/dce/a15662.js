@@ -1,6 +1,6 @@
 var a15662 =
 [
-    [ "OnPeriodic", "d1/dce/a15662.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "d1/dce/a15662.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "d1/dce/a15662.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "HandleScript", "d1/dce/a15662.html#a7e6ec873a252106ba865bdef05f757f5", null ],
+    [ "PrepareSpellScript", "d1/dce/a15662.html#a98e80c8726c350aca850b6c87c5861da", null ],
+    [ "Register", "d1/dce/a15662.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
 ];

@@ -1,7 +1,7 @@
 var a26494 =
 [
-    [ "HandleDummy", "d0/d7b/a26494.html#a870b9834d0860a2d017b74fbf33ae668", null ],
-    [ "Load", "d0/d7b/a26494.html#ae971bd1dccc9280620b6ea44dd552bd4", null ],
-    [ "PrepareSpellScript", "d0/d7b/a26494.html#aac68e0f75f39ab25cf490dc381414b96", null ],
-    [ "Register", "d0/d7b/a26494.html#ad2840c719abd010c629747da138e9e32", null ]
+    [ "HandleDummy", "d0/d7b/a26494.html#a334563491c3cbb9daa9d97dad738e9e5", null ],
+    [ "PrepareSpellScript", "d0/d7b/a26494.html#a69fe453f3c6764c3977c539d5fc71049", null ],
+    [ "Register", "d0/d7b/a26494.html#af81469f371224a3180d73b3cf8cf001a", null ],
+    [ "Validate", "d0/d7b/a26494.html#af0ab473a4ec7f1eebb70d0f2344de8ca", null ]
 ];

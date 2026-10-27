@@ -1,6 +1,6 @@
 var a24834 =
 [
-    [ "CheckCast", "dc/d14/a24834.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
-    [ "PrepareSpellScript", "dc/d14/a24834.html#a605e7b8849186c3c2df731cac743a208", null ],
-    [ "Register", "dc/d14/a24834.html#a62533bff915db8323b53352f17c4825f", null ]
+    [ "RaiseDeadCheck", "dc/d14/a24834.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "dc/d14/a24834.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "dc/d14/a24834.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

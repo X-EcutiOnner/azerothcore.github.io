@@ -1,6 +1,5 @@
 var a08938 =
 [
-    [ "PlayerClassLevelInfo", "df/d6e/a08938.html#a60153094e3179bfc6c028d2b76775805", null ],
-    [ "basehealth", "df/d6e/a08938.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
-    [ "basemana", "df/d6e/a08938.html#a939a8d8739a553c919d84e399ce17d22", null ]
+    [ "ObjectGuidGenerator", "df/d6e/a08938.html#a1d917989d9bf681546d0e3e9b20593e0", null ],
+    [ "Generate", "df/d6e/a08938.html#ae863a6f3ad3b71ab0ca19c60e4f7d862", null ]
 ];

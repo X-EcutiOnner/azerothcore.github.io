@@ -1,6 +1,7 @@
 var a18626 =
 [
-    [ "LichKingDeathEvent", "d6/d4e/a18626.html#a9aa328b60358034355b1eed5caacb9f8", null ],
-    [ "Execute", "d6/d4e/a18626.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
-    [ "_owner", "d6/d4e/a18626.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
+    [ "HandleScript", "d6/d4e/a18626.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "d6/d4e/a18626.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "d6/d4e/a18626.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "d6/d4e/a18626.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

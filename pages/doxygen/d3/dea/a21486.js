@@ -1,6 +1,9 @@
 var a21486 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "de/db2/a21490.html", "de/db2/a21490" ],
-    [ "instance_violet_hold", "d3/dea/a21486.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "d3/dea/a21486.html#ab459840bcb0c8bcc58d20e658be0f63a", null ]
+    [ "CastTheNextTwoSpells", "d3/dea/a21486.html#a70a154ea5c19c36630e94c5214ee6722", null ],
+    [ "OnPeriodic", "d3/dea/a21486.html#ac9b99d9328affec2787691f80e0cc9c3", null ],
+    [ "PrepareAuraScript", "d3/dea/a21486.html#ac7450be0713ce98e7986d322a58289f6", null ],
+    [ "PushBackTheNextTwoSpells", "d3/dea/a21486.html#a9e470116c80cf56b425e344d73e44533", null ],
+    [ "Register", "d3/dea/a21486.html#ad948e7cb5a64ed5bd202c10b28285d9c", null ],
+    [ "_summonSpells", "d3/dea/a21486.html#a578dbb8c828e3acf36b21a38628c94e1", null ]
 ];

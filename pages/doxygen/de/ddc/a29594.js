@@ -1,5 +1,5 @@
 var a29594 =
 [
-    [ "auraHasDisableProcAttr", "de/ddc/a29594.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
-    [ "triggeringSpellIsProcDisabled", "de/ddc/a29594.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
+    [ "Duration", "de/ddc/a29594.html#a20417b0f394c08c779fd3851c2cde87d", null ],
+    [ "ID", "de/ddc/a29594.html#a04f9304093a15b4b7f6596993f2e86d9", null ]
 ];

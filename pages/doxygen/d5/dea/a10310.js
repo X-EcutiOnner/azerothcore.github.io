@@ -1,7 +1,7 @@
 var a10310 =
 [
-    [ "LFGUpdateRequest", "d5/dea/a10310.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
-    [ "call", "d5/dea/a10310.html#a15258001db5870a0f52bb0c72cba3587", null ],
-    [ "m_diff", "d5/dea/a10310.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
-    [ "m_updater", "d5/dea/a10310.html#a1bb4423241495aebab83ebc1acf66510", null ]
+    [ "ZRangeBoundary", "d5/dea/a10310.html#ab9c77783e059de4478625f7c97713c49", null ],
+    [ "IsWithinBoundaryArea", "d5/dea/a10310.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
+    [ "_maxZ", "d5/dea/a10310.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
+    [ "_minZ", "d5/dea/a10310.html#aee142d5bc4cfae80584b84ae451da05c", null ]
 ];

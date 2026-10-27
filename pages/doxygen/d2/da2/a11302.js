@@ -1,9 +1,5 @@
 var a11302 =
 [
-    [ "SwapItem", "d2/da2/a11302.html#a603871bfd69a2bcc2083de350f48875a", null ],
-    [ "Read", "d2/da2/a11302.html#a475122a155c96446ecad1b92ef5c7a19", null ],
-    [ "DestinationBag", "d2/da2/a11302.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
-    [ "DestinationSlot", "d2/da2/a11302.html#a0cf0b21ebfccb843ee23831e17982081", null ],
-    [ "SourceBag", "d2/da2/a11302.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
-    [ "SourceSlot", "d2/da2/a11302.html#ab080d55f63eb07c8db090123260bee23", null ]
+    [ "Icon", "d2/da2/a11302.html#ae47c09144b18e42aa48499de3e3fe276", null ],
+    [ "Name", "d2/da2/a11302.html#a19c79529bbfe25701c9f8253f3e0f9d8", null ]
 ];

@@ -1,7 +1,13 @@
 var a12254 =
 [
-    [ "PlayerDumpReader", "d2/d45/a12254.html#ad630b61e298fb1ddf165481c9a14e077", null ],
-    [ "LoadDump", "d2/d45/a12254.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
-    [ "LoadDumpFromFile", "d2/d45/a12254.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
-    [ "LoadDumpFromString", "d2/d45/a12254.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
+    [ "ToCloud9GroupHooks", "d2/d45/a12254.html#a56b706ee7923e004bc1097887d645793", null ],
+    [ "~ToCloud9GroupHooks", "d2/d45/a12254.html#a05fc2da0da6f565a0bc4bc234a92046f", null ],
+    [ "OnGroupConvertedToRaid", "d2/d45/a12254.html#a104b63c83abe82809e16bc86b9649011", null ],
+    [ "OnGroupCreated", "d2/d45/a12254.html#a7fa6a2d72e6891d9ab41fc113c1a27dd", null ],
+    [ "OnGroupDisbanded", "d2/d45/a12254.html#ae47dee5f18aea4827a1b320c3ba9f607", null ],
+    [ "OnGroupDungeonDifficultyChanged", "d2/d45/a12254.html#a829c7d428363bf0720f0e27e84747b88", null ],
+    [ "OnGroupLootTypeChanged", "d2/d45/a12254.html#adad70b61a54071c25a9e1950f4b656bf", null ],
+    [ "OnGroupMemberAdded", "d2/d45/a12254.html#ad001911251ec8d9f280d5aa1ab291b7e", null ],
+    [ "OnGroupMemberRemoved", "d2/d45/a12254.html#a0c63904979beb754131797a163000ec5", null ],
+    [ "OnGroupRaidDifficultyChanged", "d2/d45/a12254.html#a0c066c39c344d750164735a4f549cf69", null ]
 ];

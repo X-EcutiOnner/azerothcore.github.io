@@ -1,6 +1,7 @@
 var a19302 =
 [
-    [ "npc_icc_severed_essenceAI", "de/d1b/a19306.html", "de/d1b/a19306" ],
-    [ "npc_icc_severed_essence", "dd/d8e/a19302.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
-    [ "GetAI", "dd/d8e/a19302.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
+    [ "HandleScript", "dd/d8e/a19302.html#ace11e192a27b2da98ff62c4eee7980ba", null ],
+    [ "PrepareSpellScript", "dd/d8e/a19302.html#a8a6351b7f87101ac8328b6e76784978c", null ],
+    [ "Register", "dd/d8e/a19302.html#ad57068b21218492078e2d2bfe76cc3c9", null ],
+    [ "Validate", "dd/d8e/a19302.html#af6f1dd22aef0595315460c149d920dff", null ]
 ];

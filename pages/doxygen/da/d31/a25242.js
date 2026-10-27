@@ -1,6 +1,5 @@
 var a25242 =
 [
-    [ "CheckRequirement", "da/d31/a25242.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
-    [ "PrepareSpellScript", "da/d31/a25242.html#a859ac50e6774471c232113e5c007f602", null ],
-    [ "Register", "da/d31/a25242.html#aceafb7d6cfa300011935026f4d7ac491", null ]
+    [ "PrepareSpellScript", "da/d31/a25242.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
+    [ "Register", "da/d31/a25242.html#a560ff22e718e8a975a2e2dc2340da917", null ]
 ];

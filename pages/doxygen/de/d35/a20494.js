@@ -1,5 +1,10 @@
 var a20494 =
 [
-    [ "FlashFreezeCheck", "de/d35/a20494.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
-    [ "operator()", "de/d35/a20494.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
+    [ "boss_freya_elder_ironbranch", "de/d35/a20494.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
+    [ "JustDied", "de/d35/a20494.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
+    [ "JustEngagedWith", "de/d35/a20494.html#a34d87135b8dac114a8783941dba69559", null ],
+    [ "KilledUnit", "de/d35/a20494.html#a20b5a622ac233d1280169f54942c894f", null ],
+    [ "Reset", "de/d35/a20494.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
+    [ "UpdateAI", "de/d35/a20494.html#a00dade8af24a2240187fb4e52138c0d1", null ],
+    [ "events", "de/d35/a20494.html#a8693a800da6890004f3ae82fd9898480", null ]
 ];

@@ -1,6 +1,7 @@
 var a23034 =
 [
-    [ "HandleSchoolDamage", "dc/d6b/a23034.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "dc/d6b/a23034.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "dc/d6b/a23034.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "VerasEnvenom", "dc/d6b/a23034.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "dc/d6b/a23034.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "dc/d6b/a23034.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "dc/d6b/a23034.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

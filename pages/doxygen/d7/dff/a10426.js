@@ -1,21 +1,12 @@
 var a10426 =
 [
-    [ "FormationMovementGenerator", "d7/dff/a10426.html#a2ff64425d73422f294639d9d75485a30", null ],
-    [ "DoFinalize", "d7/dff/a10426.html#abcb286f368e46dd030823b76ab6e2c1d", null ],
-    [ "DoInitialize", "d7/dff/a10426.html#ab8c6e9683c241954c62d731b1c8c53d7", null ],
-    [ "DoReset", "d7/dff/a10426.html#a051eb89cf006f2082fd5fafef83ee9bd", null ],
-    [ "DoUpdate", "d7/dff/a10426.html#a8d8ba436ed4759d0053df375706aee19", null ],
-    [ "GetMovementGeneratorType", "d7/dff/a10426.html#af8306a3d2bd5213a58abe1f3e33144c4", null ],
-    [ "LaunchMovement", "d7/dff/a10426.html#afb1f98e27cbba5032747ad2ede6c214f", null ],
-    [ "MovementInform", "d7/dff/a10426.html#a19af2c1d3defef16a4b236db12a7fcc0", null ],
-    [ "_angle", "d7/dff/a10426.html#adeace0a77dc204bbe9cd8df6d89b055a", null ],
-    [ "_hasPredictedDestination", "d7/dff/a10426.html#a05fdd93aae459c30774cd4c7a0f80d3d", null ],
-    [ "_isMoving", "d7/dff/a10426.html#af308a03f24aac15b1832baf4700c3be5", null ],
-    [ "_lastLeaderPosition", "d7/dff/a10426.html#aedabbdde3802a2c1b8bed5eaaade6b73", null ],
-    [ "_lastLeaderSplineID", "d7/dff/a10426.html#afd67a9517a09f47f0e787205d1e62f18", null ],
-    [ "_nextMoveTimer", "d7/dff/a10426.html#a627e077489c2249671c29386149bce1c", null ],
-    [ "_point1", "d7/dff/a10426.html#a8813222ca1a47df05cdb34f44ebde1b6", null ],
-    [ "_point2", "d7/dff/a10426.html#a559314d339f9850b33c1717401228eb3", null ],
-    [ "_range", "d7/dff/a10426.html#a7559e40788b0333a4b50e09e5fa8b769", null ],
-    [ "FORMATION_MOVEMENT_INTERVAL", "d7/dff/a10426.html#ac5f36d0f2f2bb73b87b991a78c650765", null ]
+    [ "TransportTemplate", "d7/dff/a10426.html#aef4781a37808827e3ceaffc782c3af1e", null ],
+    [ "~TransportTemplate", "d7/dff/a10426.html#afc385d824c171d13a184bc0a16121110", null ],
+    [ "accelDist", "d7/dff/a10426.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
+    [ "accelTime", "d7/dff/a10426.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
+    [ "entry", "d7/dff/a10426.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
+    [ "inInstance", "d7/dff/a10426.html#a971c84762c229b01cab656945f0c16de", null ],
+    [ "keyFrames", "d7/dff/a10426.html#ac714531f226ca06c3586cf3f6cc06808", null ],
+    [ "mapsUsed", "d7/dff/a10426.html#a93899b0648871ed8ca32dfe8394347c1", null ],
+    [ "pathTime", "d7/dff/a10426.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
 ];

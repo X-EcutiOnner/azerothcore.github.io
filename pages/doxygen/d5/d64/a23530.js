@@ -1,8 +1,6 @@
 var a23530 =
 [
-    [ "boss_broggok", "d5/d64/a23530.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "d5/d64/a23530.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "d5/d64/a23530.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "d5/d64/a23530.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "d5/d64/a23530.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "HandleScript", "d5/d64/a23530.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "d5/d64/a23530.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "d5/d64/a23530.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

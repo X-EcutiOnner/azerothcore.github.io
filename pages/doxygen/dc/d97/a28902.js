@@ -1,5 +1,7 @@
 var a28902 =
 [
-    [ "id", "dc/d97/a28902.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "dc/d97/a28902.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "HandleDummy", "dc/d97/a28902.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "dc/d97/a28902.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "dc/d97/a28902.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "dc/d97/a28902.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

@@ -1,10 +1,12 @@
 var a14114 =
 [
-    [ "npc_tyrion_spybotAI", "d0/d5e/a14114.html#aedad685279012266637d29069ead9063", null ],
-    [ "Reset", "d0/d5e/a14114.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
-    [ "UpdateAI", "d0/d5e/a14114.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
-    [ "WaypointReached", "d0/d5e/a14114.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
-    [ "WaypointReached", "d0/d5e/a14114.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "uiPhase", "d0/d5e/a14114.html#af5dbb99fe18d96665efd04bd53294636", null ],
-    [ "uiTimer", "d0/d5e/a14114.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
+    [ "npc_cameron", "d0/d5e/a14114.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
+    [ "MoveTheChildren", "d0/d5e/a14114.html#a85ae436f19f69ffb853330f01ee152a0", null ],
+    [ "PathEndReached", "d0/d5e/a14114.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
+    [ "sOnGameEvent", "d0/d5e/a14114.html#ab22841871cfcdc926b28296a5b4e440c", null ],
+    [ "SoundPicker", "d0/d5e/a14114.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
+    [ "UpdateAI", "d0/d5e/a14114.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
+    [ "_childrenGUIDs", "d0/d5e/a14114.html#ad260466902e8fb1a2e02998cc4549695", null ],
+    [ "_events", "d0/d5e/a14114.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
+    [ "_started", "d0/d5e/a14114.html#a985d0590eedde340a3923e299d4dffd8", null ]
 ];

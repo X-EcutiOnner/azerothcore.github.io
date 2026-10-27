@@ -1,5 +1,8 @@
 var a27958 =
 [
-    [ "achievement_resilient_victory", "df/d18/a27958.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "df/d18/a27958.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "Load", "df/d18/a27958.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
+    [ "OnRemove", "df/d18/a27958.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
+    [ "PrepareAuraScript", "df/d18/a27958.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
+    [ "Register", "df/d18/a27958.html#a932760326c822f1b47df1afdec6bb9cb", null ],
+    [ "Validate", "df/d18/a27958.html#a69bcfedb7f566c572201aadc9e75df08", null ]
 ];

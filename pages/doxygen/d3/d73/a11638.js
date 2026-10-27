@@ -1,7 +1,8 @@
 var a11638 =
 [
-    [ "QuestLogSwapQuest", "d3/d73/a11638.html#a5c6cca2526e2a6b11b85e8ab7233436b", null ],
-    [ "Read", "d3/d73/a11638.html#a7fea7dac43d6988dff5f38218bceb626", null ],
-    [ "Slot1", "d3/d73/a11638.html#a5dd83b2c88a07236d8937b2d536d5056", null ],
-    [ "Slot2", "d3/d73/a11638.html#a9a98532db2a51821efc95b11b8379f28", null ]
+    [ "PetSpellAutocast", "d3/d73/a11638.html#ab858647d14031a2a6109d1e923402d08", null ],
+    [ "Read", "d3/d73/a11638.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
+    [ "AutocastEnabled", "d3/d73/a11638.html#a3c04543dcd5382682654b3860b84c6a3", null ],
+    [ "PetGUID", "d3/d73/a11638.html#aeed828abebf683078ee61204c91e28c9", null ],
+    [ "SpellID", "d3/d73/a11638.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
 ];

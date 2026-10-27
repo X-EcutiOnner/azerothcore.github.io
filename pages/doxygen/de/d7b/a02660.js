@@ -1,7 +1,7 @@
 var a02660 =
 [
-    [ "UpdateRequest", "da/dc0/a10377.html", "da/dc0/a10377" ],
-    [ "MapUpdateRequest", "d6/d1e/a10381.html", "d6/d1e/a10381" ],
-    [ "MapPreloadRequest", "df/d90/a10385.html", "df/d90/a10385" ],
-    [ "LFGUpdateRequest", "da/de8/a10389.html", "da/de8/a10389" ]
+    [ "UpdateRequest", "d6/d23/a10390.html", "d6/d23/a10390" ],
+    [ "MapUpdateRequest", "dc/dc1/a10394.html", "dc/dc1/a10394" ],
+    [ "MapPreloadRequest", "de/da5/a10398.html", "de/da5/a10398" ],
+    [ "LFGUpdateRequest", "d8/d99/a10402.html", "d8/d99/a10402" ]
 ];

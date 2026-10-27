@@ -1,8 +1,6 @@
 var a24270 =
 [
-    [ "npc_kservantAI", "d2/dad/a24270.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d2/dad/a24270.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d2/dad/a24270.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d2/dad/a24270.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
-    [ "WaypointReached", "d2/dad/a24270.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "go_beaconAI", "d2/d1c/a24274.html", "d2/d1c/a24274" ],
+    [ "go_beacon", "d2/dad/a24270.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "d2/dad/a24270.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

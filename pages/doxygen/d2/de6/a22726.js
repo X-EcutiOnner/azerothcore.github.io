@@ -1,6 +1,5 @@
 var a22726 =
 [
-    [ "FilterTargets", "d2/de6/a22726.html#abd3fafc2120b7069790dd9822cd62adc", null ],
-    [ "PrepareSpellScript", "d2/de6/a22726.html#aebc0441481a2c458fc904175df931a9e", null ],
-    [ "Register", "d2/de6/a22726.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
+    [ "OutdoorPvP_grizzly_hills", "d2/de6/a22726.html#aa020d8120c62874fb15b4623bbb714d9", null ],
+    [ "GetOutdoorPvP", "d2/de6/a22726.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
 ];

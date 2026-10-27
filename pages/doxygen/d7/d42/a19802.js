@@ -1,7 +1,8 @@
 var a19802 =
 [
-    [ "HandlePull", "d7/d42/a19802.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d7/d42/a19802.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d7/d42/a19802.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d7/d42/a19802.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "npc_teslaAI", "d7/d42/a19802.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "d7/d42/a19802.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "d7/d42/a19802.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "d7/d42/a19802.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "d7/d42/a19802.html#a962745569b07e368067ee483d2379840", null ]
 ];

@@ -1,7 +1,6 @@
 var a15978 =
 [
-    [ "HandleDummy", "d4/d35/a15978.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "d4/d35/a15978.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "d4/d35/a15978.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "d4/d35/a15978.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "npc_death_ravagerAI", "d9/d96/a15982.html", "d9/d96/a15982" ],
+    [ "npc_death_ravager", "d4/d35/a15978.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "d4/d35/a15978.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

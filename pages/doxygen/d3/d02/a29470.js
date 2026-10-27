@@ -1,5 +1,7 @@
 var a29470 =
 [
-    [ "ByteBufferSourceException", "d3/d02/a29470.html#ad021dff8a62dfc170ef0233294b707f6", null ],
-    [ "~ByteBufferSourceException", "d3/d02/a29470.html#afaf57c545141703ffbe696cfbee6de0f", null ]
+    [ "Id", "d3/d02/a29470.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "d3/d02/a29470.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "d3/d02/a29470.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "d3/d02/a29470.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

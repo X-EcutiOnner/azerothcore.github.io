@@ -1,8 +1,6 @@
 var a06362 =
 [
-    [ "BannedAddon", "d6/deb/a06362.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
-    [ "Id", "d6/deb/a06362.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
-    [ "NameMD5", "d6/deb/a06362.html#a67c4437044d747ff9867a71967697767", null ],
-    [ "Timestamp", "d6/deb/a06362.html#af62257c39a4ae1eba959086e981b0d19", null ],
-    [ "VersionMD5", "d6/deb/a06362.html#acb8dbe824f71363eb81504f43a126d96", null ]
+    [ "DirectoryEntry", "d6/deb/a06362.html#a02538aefc1b014b60957d4c67793000f", null ],
+    [ "path", "d6/deb/a06362.html#aca34dff6659f2da63f31e12bb41cf3d0", null ],
+    [ "state", "d6/deb/a06362.html#aeddd31e8fbb23e54549e985f09c4ea96", null ]
 ];

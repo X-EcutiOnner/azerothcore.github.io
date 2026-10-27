@@ -1,8 +1,9 @@
 var a26378 =
 [
-    [ "CheckProc", "d7/d3d/a26378.html#af82895c2ed07f43c28923b61427f4ddf", null ],
-    [ "HandleProc", "d7/d3d/a26378.html#ad1a13141720e0e605966c2304b0f8eb9", null ],
-    [ "PrepareAuraScript", "d7/d3d/a26378.html#af3ff786badfbb56f90bc3c8865c839bb", null ],
-    [ "Register", "d7/d3d/a26378.html#ac1fea3f63b5ffd742a83e8d45a26ae68", null ],
-    [ "Validate", "d7/d3d/a26378.html#a980784152abf41e91b5fe5a9c2e3d5dc", null ]
+    [ "OnEffectHitTargetDisarm", "d7/d3d/a26378.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "d7/d3d/a26378.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "d7/d3d/a26378.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "d7/d3d/a26378.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "d7/d3d/a26378.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "d7/d3d/a26378.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

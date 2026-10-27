@@ -1,11 +1,9 @@
 var a21366 =
 [
-    [ "boss_archavonAI", "d7/d7e/a21366.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "d7/d7e/a21366.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "d7/d7e/a21366.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "d7/d7e/a21366.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "d7/d7e/a21366.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "d7/d7e/a21366.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "d7/d7e/a21366.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "d7/d7e/a21366.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "npc_vrykul_skeleton", "d7/d7e/a21366.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
+    [ "DamageTaken", "d7/d7e/a21366.html#a840244c4183987e4fda533edb2ddeff2", null ],
+    [ "Reset", "d7/d7e/a21366.html#af950342b2177c84c101485736855b998", null ],
+    [ "UpdateAI", "d7/d7e/a21366.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
+    [ "events", "d7/d7e/a21366.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
+    [ "pInstance", "d7/d7e/a21366.html#a834f0162540683c20f9fa0f9e32eee33", null ]
 ];

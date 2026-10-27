@@ -1,7 +1,10 @@
 var a14126 =
 [
-    [ "HandleScriptEffect", "df/da3/a14126.html#a1b196f3817c16fac48392981b58c1a05", null ],
-    [ "PrepareSpellScript", "df/da3/a14126.html#ad44566ff9a44057679e7ce8e1959776d", null ],
-    [ "Register", "df/da3/a14126.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
-    [ "Validate", "df/da3/a14126.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
+    [ "npc_partygoer_pather", "df/da3/a14126.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
+    [ "Initialize", "df/da3/a14126.html#afb114b0587c550e39c41e131364da663", null ],
+    [ "PathEndReached", "df/da3/a14126.html#a55833d306716ba411f96ecd024cc7c72", null ],
+    [ "Reset", "df/da3/a14126.html#ade2cc36ff49001138eee5b607ec83b12", null ],
+    [ "UpdateAI", "df/da3/a14126.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
+    [ "_events", "df/da3/a14126.html#ac210dc0286ded980e78743237a08bb23", null ],
+    [ "_path", "df/da3/a14126.html#a4da184c44858e99eca2b07193fd48f13", null ]
 ];

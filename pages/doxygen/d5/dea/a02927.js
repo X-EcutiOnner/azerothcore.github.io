@@ -1,8 +1,8 @@
 var a02927 =
 [
-    [ "CliCommandHolder", "d4/ded/a12429.html", "d4/ded/a12429" ],
-    [ "PreviousSessionInfo", "db/d6b/a12433.html", "db/d6b/a12433" ],
-    [ "IWorld", "d6/d02/a12437.html", "d6/d02/a12437" ],
+    [ "CliCommandHolder", "dd/d2c/a12446.html", "dd/d2c/a12446" ],
+    [ "PreviousSessionInfo", "d8/d48/a12450.html", "d8/d48/a12450" ],
+    [ "IWorld", "d3/dae/a12454.html", "d3/dae/a12454" ],
     [ "ServerMessageType", "d5/dea/a02927.html#a08e6f7cfaf7929274a1908b0e95c798f", [
       [ "SERVER_MSG_SHUTDOWN_TIME", "d5/dea/a02927.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c", null ],
       [ "SERVER_MSG_RESTART_TIME", "d5/dea/a02927.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68", null ],

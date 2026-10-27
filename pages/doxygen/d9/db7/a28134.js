@@ -1,7 +1,6 @@
 var a28134 =
 [
-    [ "HandlePeriodic", "d9/db7/a28134.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d9/db7/a28134.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d9/db7/a28134.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d9/db7/a28134.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "CheckProc", "d9/db7/a28134.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "PrepareAuraScript", "d9/db7/a28134.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "d9/db7/a28134.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

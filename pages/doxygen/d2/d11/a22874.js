@@ -1,8 +1,10 @@
 var a22874 =
 [
-    [ "boss_mother_shahraz", "d2/d11/a22874.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "d2/d11/a22874.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "d2/d11/a22874.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "d2/d11/a22874.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "d2/d11/a22874.html#ab9e4162ac92e786b84b6497c37251386", null ]
+    [ "boss_talon_king_ikiss", "d2/d11/a22874.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "d2/d11/a22874.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d2/d11/a22874.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d2/d11/a22874.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d2/d11/a22874.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d2/d11/a22874.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d2/d11/a22874.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

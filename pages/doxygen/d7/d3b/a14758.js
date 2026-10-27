@@ -1,17 +1,19 @@
 var a14758 =
 [
-    [ "npc_coren_direbrew", "d7/d3b/a14758.html#a51ab68feb3dde3fb23c708afcdcdbd34", null ],
-    [ "CanBeSeen", "d7/d3b/a14758.html#ad4db2a85c92f69e54036f4133396f201", null ],
-    [ "DamageTaken", "d7/d3b/a14758.html#a782a08ed525eab8a9e9044dc1d5814b3", null ],
-    [ "DoAction", "d7/d3b/a14758.html#a2d417a9310b5b75df09879678d967794", null ],
-    [ "JustDied", "d7/d3b/a14758.html#a39913e601440fcd6ffbc77ad7c204ac8", null ],
-    [ "JustSummoned", "d7/d3b/a14758.html#a2cb3d9de6ccdffa73f709b82cfae790a", null ],
-    [ "MoveInLineOfSight", "d7/d3b/a14758.html#a9c48c7e4a97998c2091992f51b734679", null ],
-    [ "Reset", "d7/d3b/a14758.html#a49eb75eb89742ee70ca957d4e2f0b5d0", null ],
-    [ "sGossipSelect", "d7/d3b/a14758.html#ad8b665606985984ad633f66ad9b73bd2", null ],
-    [ "SummonedCreatureDies", "d7/d3b/a14758.html#aafdc2d271d1e267f5b3deba7d00e07fc", null ],
-    [ "SummonSister", "d7/d3b/a14758.html#a358fe5922a85ea3eee6abe9451869b66", null ],
-    [ "UpdateAI", "d7/d3b/a14758.html#af6615292fa853883979dc37c6e247289", null ],
-    [ "_events", "d7/d3b/a14758.html#a81ee26c215b7581a13faf56ee041b9fe", null ],
-    [ "_summons", "d7/d3b/a14758.html#a261d4c4dea56748e66752cb11588086a", null ]
+    [ "boss_thekal", "d7/d3b/a14758.html#a91e8fd9ba169d5096fd06471f8bd16e9", null ],
+    [ "CheckPhaseTransition", "d7/d3b/a14758.html#a95aeb81565f5863eec67106ae1118ac4", null ],
+    [ "DamageTaken", "d7/d3b/a14758.html#a98be9a4d815f6fdc01acbfaa916b721c", null ],
+    [ "DoAction", "d7/d3b/a14758.html#aa3d81738fbb42d5575dd8e5b30d84563", null ],
+    [ "Initialize", "d7/d3b/a14758.html#aec365f330eed69513e988f895ec780e7", null ],
+    [ "JustDied", "d7/d3b/a14758.html#a79bc19df134cbeb17f0941865461bd0d", null ],
+    [ "JustEngagedWith", "d7/d3b/a14758.html#af5e2b2b5665270f29243921e51280190", null ],
+    [ "Reset", "d7/d3b/a14758.html#a684bf1fc087970a41cf79959ba57b31b", null ],
+    [ "ReviveZealot", "d7/d3b/a14758.html#aab84b3390cf8cc95dc8a2067ed38b4ab", null ],
+    [ "SetData", "d7/d3b/a14758.html#a586805c5f8d20a35055cf12a3c9f673f", null ],
+    [ "UpdateAI", "d7/d3b/a14758.html#a4b5e7dae10900a197d047b6ea32c33ed", null ],
+    [ "UpdateZealotStatus", "d7/d3b/a14758.html#ac69068240dfc1ecf30f37e36c3e51353", null ],
+    [ "_enraged", "d7/d3b/a14758.html#aba5ac2c4cdac1d4a0e37e9d6cd3b1422", null ],
+    [ "_lorkhanDied", "d7/d3b/a14758.html#a0f84ad2f224fe29fc4ddde3258200e10", null ],
+    [ "_wasDead", "d7/d3b/a14758.html#aec4eea1f0d8ebffb1bbc2646e986f300", null ],
+    [ "_zathDied", "d7/d3b/a14758.html#ae3df1561ee3dcb3887f6e646b6277b29", null ]
 ];

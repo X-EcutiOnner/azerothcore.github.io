@@ -1,6 +1,9 @@
 var a21314 =
 [
-    [ "boss_svalaAI", "d9/d82/a21318.html", "d9/d82/a21318" ],
-    [ "boss_svala", "dc/ddc/a21314.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "dc/ddc/a21314.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "npc_ulduar_keeperAI", "dc/ddc/a21314.html#ac69d21f3820f2c01a80ff664c317d111", null ],
+    [ "DoAction", "dc/ddc/a21314.html#a03011d04761926d67e43c0bea5a0901f", null ],
+    [ "Reset", "dc/ddc/a21314.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
+    [ "SpellHit", "dc/ddc/a21314.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
+    [ "UpdateAI", "dc/ddc/a21314.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
+    [ "_keeper", "dc/ddc/a21314.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
 ];

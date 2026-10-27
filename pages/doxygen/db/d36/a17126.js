@@ -1,6 +1,8 @@
 var a17126 =
 [
-    [ "npc_concentrated_ballAI", "d5/d3b/a17130.html", "d5/d3b/a17130" ],
-    [ "npc_concentrated_ball", "db/d36/a17126.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "db/d36/a17126.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "npc_toc_pet_warlockAI", "db/d36/a17126.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "db/d36/a17126.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "db/d36/a17126.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "db/d36/a17126.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "db/d36/a17126.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

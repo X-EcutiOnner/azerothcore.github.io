@@ -1,11 +1,6 @@
 var a17354 =
 [
-    [ "npc_spectral_footman", "dd/df7/a17354.html#ab12174cbf246178b52c074024453015e", null ],
-    [ "AttackStart", "dd/df7/a17354.html#a0fe7529c47d56f67b15023bc432f0498", null ],
-    [ "DoAction", "dd/df7/a17354.html#a9a81be4f5c159e64ba0f8926ea095f81", null ],
-    [ "EnterEvadeMode", "dd/df7/a17354.html#afc51e0562045028af7161ea66e7be9f0", null ],
-    [ "JustDied", "dd/df7/a17354.html#ae4292ffa4b9e142b41e58d31338b97b5", null ],
-    [ "JustEngagedWith", "dd/df7/a17354.html#a9d8d723b403035660b78c332d5813d3f", null ],
-    [ "Reset", "dd/df7/a17354.html#a1c3612a7d9ac3076392c5c22e4e0a73e", null ],
-    [ "UpdateAI", "dd/df7/a17354.html#af76de9237937199dfa715a445b0060c3", null ]
+    [ "HandleScriptEffect", "dd/df7/a17354.html#a90b13b2a093fdd430a383d7ea4126290", null ],
+    [ "PrepareSpellScript", "dd/df7/a17354.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
+    [ "Register", "dd/df7/a17354.html#a53c8d47ee21637055ad901946be1e2c2", null ]
 ];

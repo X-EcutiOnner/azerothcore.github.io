@@ -1,6 +1,8 @@
 var a20322 =
 [
-    [ "PrepareSpellScript", "d6/d33/a20322.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "d6/d33/a20322.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "d6/d33/a20322.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "CatsTargetSelector", "d6/d33/a20322.html#a48068e5fb4d835303d1d0fbbc4a7e66e", null ],
+    [ "operator()", "d6/d33/a20322.html#a86e65be219bb8f1fdbebba21ba16884a", null ],
+    [ "_maxDist", "d6/d33/a20322.html#a569a1fc697a16c55ef0d087993461a01", null ],
+    [ "_me", "d6/d33/a20322.html#a510937836db06bf70f2bd3737efa4369", null ],
+    [ "_minDist", "d6/d33/a20322.html#a28f5ca413d51073294888cfc97c21b04", null ]
 ];

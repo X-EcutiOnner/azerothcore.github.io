@@ -1,7 +1,12 @@
 var a22814 =
 [
-    [ "OnPeriodic", "de/dad/a22814.html#a165d47b116b0a53e37b05f664960e6ec", null ],
-    [ "PrepareAuraScript", "de/dad/a22814.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
-    [ "Register", "de/dad/a22814.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
-    [ "Validate", "de/dad/a22814.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
+    [ "boss_exarch_maladaar", "de/dad/a22814.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
+    [ "JustDied", "de/dad/a22814.html#ab1179a19af8948d430559db4074c41ed", null ],
+    [ "JustEngagedWith", "de/dad/a22814.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
+    [ "JustSummoned", "de/dad/a22814.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
+    [ "KilledUnit", "de/dad/a22814.html#adf35cb8b039676500d4040baa08b0d48", null ],
+    [ "MoveInLineOfSight", "de/dad/a22814.html#a14baacd30b9186c7492c981313421d5b", null ],
+    [ "Reset", "de/dad/a22814.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
+    [ "UpdateAI", "de/dad/a22814.html#a7646c4477135d3d3b8580432902babd4", null ],
+    [ "_talked", "de/dad/a22814.html#a15c4f122529b9f52823ea407c43433c5", null ]
 ];

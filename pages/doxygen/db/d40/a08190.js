@@ -1,6 +1,10 @@
 var a08190 =
 [
-    [ "value_type", "db/d40/a08190.html#abd675e353289166cc5c92524915d46af", null ],
-    [ "StoreTo", "db/d40/a08190.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f", null ],
-    [ "tag", "db/d40/a08190.html#a102ade7c095fcac914b95708958352f1", null ]
+    [ "storage_type", "db/d40/a08190.html#a054c554d9d812e571455bce39655a9ac", null ],
+    [ "value_type", "db/d40/a08190.html#a5c55c97d4dd08c5e71563596e0c59111", null ],
+    [ "operator value_type", "db/d40/a08190.html#a2d439c3664d398cebfc503b2769bfa9c", null ],
+    [ "operator*", "db/d40/a08190.html#a9d4cf547beb996e5945acb84f5305200", null ],
+    [ "operator->", "db/d40/a08190.html#afb5bb4e6e4a32db89e3b8a68e9c0d901", null ],
+    [ "TryConsume", "db/d40/a08190.html#a57892ca7457ca93bdcdbbb8309311c8f", null ],
+    [ "val", "db/d40/a08190.html#aef50fdfc79df3ca784eb90a69bd43076", null ]
 ];

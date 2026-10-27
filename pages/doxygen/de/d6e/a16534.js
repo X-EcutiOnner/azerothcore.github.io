@@ -1,6 +1,6 @@
 var a16534 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "dc/d65/a16538.html", "dc/d65/a16538" ],
-    [ "npc_baltharus_the_warborn_clone", "de/d6e/a16534.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "de/d6e/a16534.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "npc_anub_ar_crusher_crypt_fiend", "de/d6e/a16534.html#a89abbce738f115c26dae9dacb065cc3d", null ],
+    [ "DoEngagedWith", "de/d6e/a16534.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
+    [ "DoEvent", "de/d6e/a16534.html#a276eca6e65b32905f6919d49530ccc2f", null ]
 ];

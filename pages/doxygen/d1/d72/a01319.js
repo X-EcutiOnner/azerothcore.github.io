@@ -1,10 +1,10 @@
 var a01319 =
 [
-    [ "boss_jaraxxus", "dc/d41/a17125.html", "dc/d41/a17125" ],
-    [ "npc_fel_infernal", "db/d96/a17129.html", "db/d96/a17129" ],
-    [ "npc_mistress_of_pain", "d5/db5/a17133.html", "d5/db5/a17133" ],
-    [ "spell_mistress_kiss_aura", "db/d60/a17137.html", "db/d60/a17137" ],
-    [ "spell_mistress_kiss_area", "db/d9e/a17141.html", "db/d9e/a17141" ],
+    [ "boss_jaraxxus", "d0/d7e/a17142.html", "d0/d7e/a17142" ],
+    [ "npc_fel_infernal", "de/dcc/a17146.html", "de/dcc/a17146" ],
+    [ "npc_mistress_of_pain", "df/dd2/a17150.html", "df/dd2/a17150" ],
+    [ "spell_mistress_kiss_aura", "d5/da4/a17154.html", "d5/da4/a17154" ],
+    [ "spell_mistress_kiss_area", "d4/d7e/a17158.html", "d4/d7e/a17158" ],
     [ "JaraxxusEvents", "d1/d72/a01319.html#a8720becd3353ce4c1eaf4b10f65c3bf3", [
       [ "EVENT_SPELL_FEL_FIREBALL", "d1/d72/a01319.html#a8720becd3353ce4c1eaf4b10f65c3bf3a9631463a0db16f2a5c6e611704b43508", null ],
       [ "EVENT_SPELL_FEL_LIGHTNING", "d1/d72/a01319.html#a8720becd3353ce4c1eaf4b10f65c3bf3a1de9015cbd472ec6adbb63af3e399005", null ],

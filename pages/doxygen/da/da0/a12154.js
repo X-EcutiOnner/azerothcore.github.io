@@ -1,8 +1,6 @@
 var a12154 =
 [
-    [ "ToCloud9GuildHooks", "da/da0/a12154.html#af92ed08219fca9b8967779a936332bee", null ],
-    [ "~ToCloud9GuildHooks", "da/da0/a12154.html#a6352d89ded523200d4a60b91ff5c7fa4", null ],
-    [ "OnGuildMemberAdded", "da/da0/a12154.html#aea11728fdf49e5a6677051ab61d87180", null ],
-    [ "OnGuildMemberLeft", "da/da0/a12154.html#adada89524f817edcc5d2cfafb93ee6a1", null ],
-    [ "OnGuildMemberRemoved", "da/da0/a12154.html#a98d80a4bec269157bebfabbddfd60054", null ]
+    [ "HitHandler", "da/da0/a12154.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "da/da0/a12154.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "da/da0/a12154.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

@@ -1,8 +1,8 @@
 var a21310 =
 [
-    [ "CountTargets", "de/d4e/a21310.html#aaf8528038c6b3172d4810ed773f71644", null ],
-    [ "HandleDummy", "de/d4e/a21310.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
-    [ "PrepareSpellScript", "de/d4e/a21310.html#a1f31273cb1826cd07196eacfbdc46673", null ],
-    [ "Register", "de/d4e/a21310.html#adce6a5d920ac616dc0579fcd96c49288", null ],
-    [ "_targetCount", "de/d4e/a21310.html#acfd8832cb9a197dddb034a003b318911", null ]
+    [ "npc_ulduar_keeperAI", "dc/ddc/a21314.html", "dc/ddc/a21314" ],
+    [ "npc_ulduar_keeper", "de/d4e/a21310.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "de/d4e/a21310.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "de/d4e/a21310.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "de/d4e/a21310.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

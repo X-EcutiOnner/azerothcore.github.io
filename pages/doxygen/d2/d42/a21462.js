@@ -1,8 +1,15 @@
 var a21462 =
 [
-    [ "boss_lavanthor", "d2/d42/a21462.html#ad264818ef0f539c48160de9dbebeac7f", null ],
-    [ "EnterEvadeMode", "d2/d42/a21462.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
-    [ "ExecuteEvent", "d2/d42/a21462.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
-    [ "JustEngagedWith", "d2/d42/a21462.html#a4bc5fa66192daab98027539efda37bdc", null ],
-    [ "MoveInLineOfSight", "d2/d42/a21462.html#a6f68cd280561b428400a08a155f83ccb", null ]
+    [ "boss_skadi_graufAI", "d2/d42/a21462.html#a852687a2fa6ed97aefa230db8ff73b72", null ],
+    [ "DoAction", "d2/d42/a21462.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
+    [ "JustDied", "d2/d42/a21462.html#a64a4e6cd927f89c11ec55806e403588f", null ],
+    [ "MovementInform", "d2/d42/a21462.html#a081fed07ce51e3bfd7a4ce051a4d79ee", null ],
+    [ "Reset", "d2/d42/a21462.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
+    [ "UpdateAI", "d2/d42/a21462.html#add5671b1f9e20590e1121f8c18d064cc", null ],
+    [ "_events", "d2/d42/a21462.html#a446de23b703512497888b42ff781da39", null ],
+    [ "_flyingToSide", "d2/d42/a21462.html#a92b1963484d7d88f6b4904039db10c9e", null ],
+    [ "_instance", "d2/d42/a21462.html#adfcccde7d61c9fa8e850e3d4678d1ad0", null ],
+    [ "_lastSide", "d2/d42/a21462.html#a6b4ef194bf96b7fc8dae2b22536e31b1", null ],
+    [ "_passFreshStart", "d2/d42/a21462.html#a5c49a178b6729cd555c38e106deeb0a5", null ],
+    [ "_summons", "d2/d42/a21462.html#abacd3a15554571bce8f70a519ce1bb0b", null ]
 ];

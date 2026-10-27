@@ -1,5 +1,6 @@
 var a29370 =
 [
-    [ "HasMissile", "df/d43/a29370.html#af8f9e79164ee3c7a617f63552bb23816", null ],
-    [ "MissileModel", "df/d43/a29370.html#ae9ab544537448113f628c22ed8c91a27", null ]
+    [ "color", "df/d43/a29370.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
+    [ "ID", "df/d43/a29370.html#ac125147c2dc5546a0116f48e08f36e59", null ],
+    [ "spellitemenchantement", "df/d43/a29370.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
 ];

@@ -1,8 +1,7 @@
 var a23682 =
 [
-    [ "npc_warchief_portal", "d4/d75/a23682.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "d4/d75/a23682.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "d4/d75/a23682.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "d4/d75/a23682.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "d4/d75/a23682.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "CalcPeriodic", "d4/d75/a23682.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "d4/d75/a23682.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "d4/d75/a23682.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "d4/d75/a23682.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

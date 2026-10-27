@@ -1,7 +1,6 @@
 var a13546 =
 [
-    [ "HandleEffectApply", "dd/de2/a13546.html#a710536e0a3bacf173d037041e755bd82", null ],
-    [ "HandleEffectRemove", "dd/de2/a13546.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
-    [ "PrepareAuraScript", "dd/de2/a13546.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
-    [ "Register", "dd/de2/a13546.html#a9092818bdb15a12163aae633049cb7f6", null ]
+    [ "HandleAfterCast", "dd/de2/a13546.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
+    [ "PrepareSpellScript", "dd/de2/a13546.html#aa0956db2d03405a54893bc30516f5839", null ],
+    [ "Register", "dd/de2/a13546.html#a45726adacf1d30b5488df54f57447c0c", null ]
 ];

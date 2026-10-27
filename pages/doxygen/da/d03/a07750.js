@@ -1,12 +1,5 @@
 var a07750 =
 [
-    [ "NodeId", "da/d03/a07750.html#a039c468fa0b6110809f0617496c0146c", null ],
-    [ "TextAllianceAssaulted", "da/d03/a07750.html#a345b2ce7c48e9d10d03ff484a0108389", null ],
-    [ "TextAllianceClaims", "da/d03/a07750.html#a0671602a29f33e353a8a339540beae18", null ],
-    [ "TextAllianceDefended", "da/d03/a07750.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250", null ],
-    [ "TextAllianceTaken", "da/d03/a07750.html#a281a0378999ed5966f5d28cc4310fbcd", null ],
-    [ "TextHordeAssaulted", "da/d03/a07750.html#a7fb668b0b9563bb0779bf4a5daefded8", null ],
-    [ "TextHordeClaims", "da/d03/a07750.html#acddac09017717cf5b2893ab83e1d10c8", null ],
-    [ "TextHordeDefended", "da/d03/a07750.html#a00cea010cfe6fb9702e5cb00003e5bef", null ],
-    [ "TextHordeTaken", "da/d03/a07750.html#a2bbd1b49b9b72784d07be9db2a27fe77", null ]
+    [ "CreateFilterByUserInput", "da/d03/a07750.html#ae35ff456f56290032c4c62d252a83690", null ],
+    [ "ParseTypes", "da/d03/a07750.html#a79a78392d31f1fbf3d8475572d570c1c", null ]
 ];

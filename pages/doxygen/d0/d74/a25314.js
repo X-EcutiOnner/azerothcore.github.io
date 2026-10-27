@@ -1,7 +1,6 @@
 var a25314 =
 [
-    [ "HandleApplyEffect", "d0/d74/a25314.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
-    [ "Load", "d0/d74/a25314.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
-    [ "PrepareAuraScript", "d0/d74/a25314.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
-    [ "Register", "d0/d74/a25314.html#aed57fbbf473b8f15fa177261e4678e96", null ]
+    [ "OnPeriodic", "d0/d74/a25314.html#a5fdf44f34765d0386d5c5490620c944a", null ],
+    [ "PrepareAuraScript", "d0/d74/a25314.html#a3c3044795e183eef2c801781100b11c7", null ],
+    [ "Register", "d0/d74/a25314.html#a1221c3287c3fd7add356e84430508684", null ]
 ];

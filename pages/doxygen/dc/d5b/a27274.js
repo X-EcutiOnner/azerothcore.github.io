@@ -1,6 +1,5 @@
 var a27274 =
 [
-    [ "HandleSendEvent", "dc/d5b/a27274.html#a8126102215aa6eedd638b89d1a6b7110", null ],
-    [ "PrepareSpellScript", "dc/d5b/a27274.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
-    [ "Register", "dc/d5b/a27274.html#ac37abad48c398bdb22529c1a44327d34", null ]
+    [ "PrepareSpellScript", "dc/d5b/a27274.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
+    [ "Register", "dc/d5b/a27274.html#a6318da4bfeb63dee75a971106bdc2146", null ]
 ];

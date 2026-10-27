@@ -1,6 +1,7 @@
 var a12666 =
 [
-    [ "boss_vanndarAI", "db/d10/a12670.html", "db/d10/a12670" ],
-    [ "boss_vanndar", "dc/d4f/a12666.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
-    [ "GetAI", "dc/d4f/a12666.html#ad1879cc6123a323ada04c49a2c691349", null ]
+    [ "player_commandscript", "dc/d4f/a12666.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
+    [ "GetCommands", "dc/d4f/a12666.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
+    [ "HandlePlayerLearnCommand", "dc/d4f/a12666.html#a6ca511bcecf73049665772cb80dbcf40", null ],
+    [ "HandlePlayerUnLearnCommand", "dc/d4f/a12666.html#a22fddb5da1278fe794a78a899c423bfd", null ]
 ];

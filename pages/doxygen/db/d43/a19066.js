@@ -1,7 +1,6 @@
 var a19066 =
 [
-    [ "npc_captain_arnathAI", "db/d43/a19066.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "db/d43/a19066.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "db/d43/a19066.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "db/d43/a19066.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "npc_suppresserAI", "da/d75/a19070.html", "da/d75/a19070" ],
+    [ "npc_suppresser", "db/d43/a19066.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
+    [ "GetAI", "db/d43/a19066.html#a48869515abbac1491337a93b987231da", null ]
 ];

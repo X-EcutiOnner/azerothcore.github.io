@@ -1,10 +1,5 @@
 var a07602 =
 [
-    [ "CreatureBottom", "d1/d8d/a07602.html#aaa8fe59aa58bf02934bf87f636582637", null ],
-    [ "CreatureTop", "d1/d8d/a07602.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
-    [ "GameObject", "d1/d8d/a07602.html#abc26a328692fc048d9040c44f360f4c4", null ],
-    [ "nbCreatureBottom", "d1/d8d/a07602.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
-    [ "nbCreatureTop", "d1/d8d/a07602.html#a38ab7536e0682efd7080b823569d504b", null ],
-    [ "nbObject", "d1/d8d/a07602.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
-    [ "towerEntry", "d1/d8d/a07602.html#a1c0edf97a599773b688954f2e966e794", null ]
+    [ "packet", "d1/d8d/a07602.html#ad266cc5bd8e3637534055a7564047f87", null ],
+    [ "playerGuid", "d1/d8d/a07602.html#a824393dda7676d4a5268d2d7d2e9d17b", null ]
 ];

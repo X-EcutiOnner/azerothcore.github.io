@@ -1,14 +1,11 @@
 var a14346 =
 [
-    [ "boss_hexlord_malacrass", "d7/d4d/a14346.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
-    [ "JustEngagedWith", "d7/d4d/a14346.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
-    [ "KilledUnit", "d7/d4d/a14346.html#a69e7a3aa2cb068706651bad34363099f", null ],
-    [ "Reset", "d7/d4d/a14346.html#af00159c9e2c54033f52f46d60881f22e", null ],
-    [ "ScheduleClassAbility", "d7/d4d/a14346.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
-    [ "SpawnAdds", "d7/d4d/a14346.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
-    [ "UseAbility", "d7/d4d/a14346.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
-    [ "_classAbilityTimer", "d7/d4d/a14346.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
-    [ "_creatureIndex", "d7/d4d/a14346.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
-    [ "_currentClass", "d7/d4d/a14346.html#ab7e531fccbb486b7b429d77d804841c2", null ],
-    [ "_timeUntilNextDrainPower", "d7/d4d/a14346.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
+    [ "npc_highborne_lamenterAI", "d7/d4d/a14346.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
+    [ "JustEngagedWith", "d7/d4d/a14346.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
+    [ "Reset", "d7/d4d/a14346.html#a7cf9338767e8edf0a87a5552703de87a", null ],
+    [ "UpdateAI", "d7/d4d/a14346.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
+    [ "EventCast", "d7/d4d/a14346.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
+    [ "EventCastTimer", "d7/d4d/a14346.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
+    [ "EventMove", "d7/d4d/a14346.html#aca22c73db989f0393926067506794e43", null ],
+    [ "EventMoveTimer", "d7/d4d/a14346.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
 ];

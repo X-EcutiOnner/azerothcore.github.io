@@ -1,6 +1,5 @@
 var a16118 =
 [
-    [ "npc_aquementasAI", "de/dcc/a16122.html", "de/dcc/a16122" ],
-    [ "npc_aquementas", "d5/d7f/a16118.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "d5/d7f/a16118.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "at_ancient_leaf", "d5/d7f/a16118.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "d5/d7f/a16118.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

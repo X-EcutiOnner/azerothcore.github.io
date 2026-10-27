@@ -1,6 +1,7 @@
 var a16434 =
 [
-    [ "FilterTargets", "d9/df1/a16434.html#aff3223d9b3df91f9261aa2f45373f846", null ],
-    [ "PrepareSpellScript", "d9/df1/a16434.html#a3ca9ba182a313fb741b15df63408a90e", null ],
-    [ "Register", "d9/df1/a16434.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
+    [ "npc_ahnkahar_nerubian", "d9/df1/a16434.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "d9/df1/a16434.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "d9/df1/a16434.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "d9/df1/a16434.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

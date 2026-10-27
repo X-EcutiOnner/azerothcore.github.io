@@ -1,8 +1,15 @@
 var a12786 =
 [
-    [ "boss_halycon", "d5/d79/a12786.html#a8a88f0d26b4702fd1b4f015cc1366362", null ],
-    [ "JustDied", "d5/d79/a12786.html#a48bd1245ac5b76dac543a4389a8b37be", null ],
-    [ "JustEngagedWith", "d5/d79/a12786.html#a3f6ca689777e1aa43a214e8082897db1", null ],
-    [ "Reset", "d5/d79/a12786.html#a3b972bfcac3498c921978eab1d8fec4f", null ],
-    [ "UpdateAI", "d5/d79/a12786.html#acc375743131ce5643d04ae355b6d68b4", null ]
+    [ "boss_vanndarAI", "d5/d79/a12786.html#ada061b4363340602fd1f4744433d9cf9", null ],
+    [ "AttackStart", "d5/d79/a12786.html#a76ab9327e04b82b534a9b3ea59b377d1", null ],
+    [ "EnterEvadeMode", "d5/d79/a12786.html#a9ba6e2620a25728bf30d4d813a82b781", null ],
+    [ "JustEngagedWith", "d5/d79/a12786.html#abde00baf4099361b8c26e6e0cf6c1517", null ],
+    [ "Reset", "d5/d79/a12786.html#a1c2fdf4351a43047f02bec1d46423cb8", null ],
+    [ "UpdateAI", "d5/d79/a12786.html#ab410ed8d64cd91bd6c4b78b2ed678eab", null ],
+    [ "Attacked", "d5/d79/a12786.html#ac5994c76a9d84cf303021a9298673d68", null ],
+    [ "AvatarTimer", "d5/d79/a12786.html#a3bed38b10a87baf50e9c9a57229bd464", null ],
+    [ "ResetTimer", "d5/d79/a12786.html#ae1c4e16cd9ad68e4700d68ed64baa8e2", null ],
+    [ "StormboltTimer", "d5/d79/a12786.html#a71ef70c1b504be2b00be1a70e85bc18a", null ],
+    [ "ThunderclapTimer", "d5/d79/a12786.html#a681a103b6cf937dad3fb15e5be358c26", null ],
+    [ "YellTimer", "d5/d79/a12786.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3", null ]
 ];

@@ -1,12 +1,5 @@
 var a19474 =
 [
-    [ "boss_gluthAI", "d9/dfe/a19474.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
-    [ "JustEngagedWith", "d9/dfe/a19474.html#a25cf670d7254cc8331752987a854c63b", null ],
-    [ "JustSummoned", "d9/dfe/a19474.html#acc09328210fbf1a6e81999d548676ae4", null ],
-    [ "KilledUnit", "d9/dfe/a19474.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
-    [ "MoveInLineOfSight", "d9/dfe/a19474.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
-    [ "Reset", "d9/dfe/a19474.html#acb9f68205a2a210737d43893a414ca52", null ],
-    [ "SelectPlayerInRoom", "d9/dfe/a19474.html#a1f8f87b00291d8164f607ac6262506cf", null ],
-    [ "SummonedCreatureDies", "d9/dfe/a19474.html#a115a1f1327a931067223734dbf414675", null ],
-    [ "UpdateAI", "d9/dfe/a19474.html#a2505f7ebda7b623edfedf96979a4a920", null ]
+    [ "at_icc_gauntlet_event", "d9/dfe/a19474.html#ae8790bad655661aeda887f56b9393847", null ],
+    [ "OnTrigger", "d9/dfe/a19474.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
 ];

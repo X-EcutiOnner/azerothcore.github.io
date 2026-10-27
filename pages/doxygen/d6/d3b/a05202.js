@@ -1,8 +1,7 @@
 var a05202 =
 [
-    [ "ByteSize", "d0/db4/a11577.html", "d0/db4/a11577" ],
-    [ "Hyperlinks", "dd/db5/a11585.html", "dd/db5/a11585" ],
-    [ "NoHyperlinks", "d8/d5b/a11589.html", "d8/d5b/a11589" ],
-    [ "RawBytes", "d6/d3d/a11573.html", "d6/d3d/a11573" ],
-    [ "Utf8", "d0/d65/a11581.html", "d0/d65/a11581" ]
+    [ "ArenaTeam", "d4/dd9/a11058.html", "d4/dd9/a11058" ],
+    [ "CalendarComplain", "dd/d01/a11062.html", "dd/d01/a11062" ],
+    [ "GetEvent", "d8/d06/a11050.html", "d8/d06/a11050" ],
+    [ "GuildFilter", "d7/d0b/a11054.html", "d7/d0b/a11054" ]
 ];

@@ -1,6 +1,6 @@
 var a24366 =
 [
-    [ "achievement", "df/d56/a24366.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "df/d56/a24366.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "df/d56/a24366.html#ab8c1bedac4bccf5c47eda591c9e5e9d1", null ]
+    [ "npc_invis_infernal_casterAI", "df/d0d/a24370.html", "df/d0d/a24370" ],
+    [ "npc_invis_infernal_caster", "df/d56/a24366.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "df/d56/a24366.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

@@ -1,6 +1,6 @@
 var a21322 =
 [
-    [ "npc_ritual_channelerAI", "d0/d68/a21326.html", "d0/d68/a21326" ],
-    [ "npc_ritual_channeler", "d9/d78/a21322.html#adab372002549b009e3f937ec67e49f3f", null ],
-    [ "GetAI", "d9/d78/a21322.html#aa416545438d701cbfc2567ba5ae536c8", null ]
+    [ "HandleEffectPeriodic", "d9/d78/a21322.html#a35ad284954a023da2ed50d010fcf8946", null ],
+    [ "PrepareAuraScript", "d9/d78/a21322.html#a6835238f872248a76e386ded28340c81", null ],
+    [ "Register", "d9/d78/a21322.html#aba7eea4dbaff16d49f30165cdd29a3d4", null ]
 ];

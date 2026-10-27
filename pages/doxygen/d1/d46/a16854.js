@@ -1,6 +1,9 @@
 var a16854 =
 [
-    [ "npc_frost_sphereAI", "d6/dee/a16858.html", "d6/dee/a16858" ],
-    [ "npc_frost_sphere", "d1/d46/a16854.html#a0256ba1c53853307f8b66e22b10bef24", null ],
-    [ "GetAI", "d1/d46/a16854.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
+    [ "npc_memoryAI", "d1/d46/a16854.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d1/d46/a16854.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d1/d46/a16854.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d1/d46/a16854.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d1/d46/a16854.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d1/d46/a16854.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

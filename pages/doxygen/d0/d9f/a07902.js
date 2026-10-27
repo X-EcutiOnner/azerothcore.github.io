@@ -1,17 +1,13 @@
 var a07902 =
 [
-    [ "HasFlag", "d0/d9f/a07902.html#a23315bfbd0748f82c948051697079c24", null ],
-    [ "IsModerator", "d0/d9f/a07902.html#af664dc84e5a60301c4fce6fda8971062", null ],
-    [ "IsMuted", "d0/d9f/a07902.html#a5d1e0f8e424033e34338940677ca054c", null ],
-    [ "IsOwner", "d0/d9f/a07902.html#a4687757cb7df9778f0f5eb67714c917c", null ],
-    [ "IsOwnerGM", "d0/d9f/a07902.html#ad4e1573168c91372dc4af2847d4ad454", null ],
-    [ "SetFlag", "d0/d9f/a07902.html#a9cb5a3ce70a2afcc553992f4a65b80e1", null ],
-    [ "SetModerator", "d0/d9f/a07902.html#a0a0cbaa77040171b7b50f89914946a8a", null ],
-    [ "SetMuted", "d0/d9f/a07902.html#adf989acef0b1e53a9dc2d3210db646b7", null ],
-    [ "SetOwner", "d0/d9f/a07902.html#aac6a9ea0bf478901e62c729ac6a3e9cd", null ],
-    [ "SetOwnerGM", "d0/d9f/a07902.html#a2e4be6dfb921ad07ebd0de3abb81f5e4", null ],
-    [ "_gmStatus", "d0/d9f/a07902.html#a15686cee4d1d0d8f39c13341bc9df624", null ],
-    [ "flags", "d0/d9f/a07902.html#ae9ed61476c5f13dddf4aa5e98fe8c5c4", null ],
-    [ "player", "d0/d9f/a07902.html#afba1915e2dd4109928180e33884b8412", null ],
-    [ "plrPtr", "d0/d9f/a07902.html#a5c986d75e173cc42160143ae7621ab6b", null ]
+    [ "banners", "d0/d9f/a07902.html#a07c98125c64d119232fec9cc80050537", null ],
+    [ "faction", "d0/d9f/a07902.html#ab3758f67da3dcb507bb1acab575e2836", null ],
+    [ "gameobject_entry", "d0/d9f/a07902.html#ae80024986e048e05dca174d6b14964d3", null ],
+    [ "gameobject_type", "d0/d9f/a07902.html#ac4760cba40ba8916d66cae3712f7c641", null ],
+    [ "last_entry", "d0/d9f/a07902.html#a968d6f412ba88b9577429910ffa511a5", null ],
+    [ "needChange", "d0/d9f/a07902.html#acecd97e26d19c82e934817ecbc2afce9", null ],
+    [ "nodeState", "d0/d9f/a07902.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
+    [ "nodeType", "d0/d9f/a07902.html#a3b303a427c4a2248dade5eada6774dc9", null ],
+    [ "timer", "d0/d9f/a07902.html#a434605ed0efcc262057a65d7cd8d0128", null ],
+    [ "worldStates", "d0/d9f/a07902.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
 ];

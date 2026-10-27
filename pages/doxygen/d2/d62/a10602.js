@@ -1,8 +1,9 @@
 var a10602 =
 [
-    [ "ownerGuid", "d2/d62/a10602.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
-    [ "petitionGuid", "d2/d62/a10602.html#a1bbf412a221b76c4a20765d9a6612182", null ],
-    [ "petitionId", "d2/d62/a10602.html#afa16859ac671ff0410204ea30ebcf429", null ],
-    [ "petitionName", "d2/d62/a10602.html#a91c81356e9aa77641eaa881cd04af5af", null ],
-    [ "petitionType", "d2/d62/a10602.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
+    [ "counter", "d2/d62/a10602.html#a0efb94229f4a9370dc5b256ba623385b", null ],
+    [ "getCurrent", "d2/d62/a10602.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
+    [ "Increase", "d2/d62/a10602.html#a463e0ba077c8398a6125e715afcd8860", null ],
+    [ "init", "d2/d62/a10602.html#a0369662be009b781174021a2eb6b3202", null ],
+    [ "NewId", "d2/d62/a10602.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
+    [ "m_counter", "d2/d62/a10602.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
 ];

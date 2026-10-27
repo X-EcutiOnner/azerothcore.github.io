@@ -1,8 +1,7 @@
 var a16830 =
 [
-    [ "npc_announcer_toc5AI", "d5/d1b/a16830.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "d5/d1b/a16830.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "d5/d1b/a16830.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "d5/d1b/a16830.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "d5/d1b/a16830.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "CountAllies", "d5/d1b/a16830.html#a207c1fd89fd726054a881e342391d2a0", null ],
+    [ "PrepareSpellScript", "d5/d1b/a16830.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
+    [ "Register", "d5/d1b/a16830.html#a47574795b2a262625c65ab23a4179684", null ],
+    [ "Validate", "d5/d1b/a16830.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
 ];

@@ -1,7 +1,9 @@
 var a28854 =
 [
-    [ "ID", "da/db3/a28854.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
-    [ "Index", "da/db3/a28854.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
-    [ "Skill", "da/db3/a28854.html#aed5e58cf605d3c28cd0d26015722be03", null ],
-    [ "Type", "da/db3/a28854.html#a39b0b548efd795c162926bddcdd301b5", null ]
+    [ "npc_herald_of_the_lich_king", "da/db3/a28854.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "da/db3/a28854.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "da/db3/a28854.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "da/db3/a28854.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "da/db3/a28854.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "da/db3/a28854.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

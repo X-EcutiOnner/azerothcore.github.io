@@ -1,5 +1,7 @@
 var a28046 =
 [
-    [ "AreaTrigger_at_stormwright_shelf", "df/d29/a28046.html#a97cdf51a8992b3d9edc138351770fd75", null ],
-    [ "OnTrigger", "df/d29/a28046.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
+    [ "HandleApplyAura", "df/d29/a28046.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "df/d29/a28046.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "df/d29/a28046.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "df/d29/a28046.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

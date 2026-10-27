@@ -1,6 +1,6 @@
 var a20790 =
 [
-    [ "FilterTargets", "dc/d32/a20790.html#aa7fcef13b5a4ba40092f2f95842349ff", null ],
-    [ "PrepareSpellScript", "dc/d32/a20790.html#a5b94fde8602f7f00342bd81dc9c8cc11", null ],
-    [ "Register", "dc/d32/a20790.html#a6d990937a5fd06a877b775f719ba5a9f", null ]
+    [ "HandleDamage", "dc/d32/a20790.html#af2578478e83eb2f6c2de32a692e9be91", null ],
+    [ "PrepareSpellScript", "dc/d32/a20790.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
+    [ "Register", "dc/d32/a20790.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
 ];

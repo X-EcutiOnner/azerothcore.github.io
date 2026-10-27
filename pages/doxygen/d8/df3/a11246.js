@@ -1,11 +1,6 @@
 var a11246 =
 [
-    [ "SaveGuildEmblem", "d8/df3/a11246.html#ae3e507a567dfbead91c84629008539d2", null ],
-    [ "Read", "d8/df3/a11246.html#aeea281ed99165947de4b5d1b4449ea5d", null ],
-    [ "BColor", "d8/df3/a11246.html#a48cfbac2214bfc406d8bc80c175dac8f", null ],
-    [ "Bg", "d8/df3/a11246.html#a53e3f146f6a925bbe1fdae2105b79952", null ],
-    [ "BStyle", "d8/df3/a11246.html#a44fdd025f87e13db6d83afca6c49f5f8", null ],
-    [ "EColor", "d8/df3/a11246.html#ad3775c0839dd9aeb5a708a26ea4ec640", null ],
-    [ "EStyle", "d8/df3/a11246.html#a60c52a080284fabe96c579f39fb0834f", null ],
-    [ "Vendor", "d8/df3/a11246.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0", null ]
+    [ "GuildDemoteMember", "d8/df3/a11246.html#aa3d68021828c516d7b1995811e8df7d7", null ],
+    [ "Read", "d8/df3/a11246.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
+    [ "Demotee", "d8/df3/a11246.html#a60c7e56c201d794fb473a62fccc160bb", null ]
 ];

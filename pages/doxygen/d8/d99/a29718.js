@@ -1,12 +1,7 @@
 var a29718 =
 [
-    [ "SetUp", "d8/d99/a29718.html#a58cd90b7a71da405118c094ff47fc6ca", null ],
-    [ "TearDown", "d8/d99/a29718.html#a07e717efe62018e9f8f646a81afbb567", null ],
-    [ "PERM_A", "d8/d99/a29718.html#a38613fb2c500e82fe60a520cfa67e754", null ],
-    [ "PERM_B", "d8/d99/a29718.html#a4e9d8cbc4d41fa8dfbbf600bb8188b4c", null ],
-    [ "PERM_C", "d8/d99/a29718.html#a819e1345b06cac6338459683c702d355", null ],
-    [ "PERM_MOD_1", "d8/d99/a29718.html#a4069369cc39fcca52fa6430a4778d86f", null ],
-    [ "ROLE_PLAYER", "d8/d99/a29718.html#a72830036ef06ce28131379219963c7cb", null ],
-    [ "SEC_MODERATOR", "d8/d99/a29718.html#abe3cf16e5aeaf4ca6ef0e8c989ef6917", null ],
-    [ "SEC_PLAYER", "d8/d99/a29718.html#a411050ede39af85c2846fcc154f140e3", null ]
+    [ "RealmHandle", "d8/d99/a29718.html#a120fb45f2301188a843ab2e712f768e4", null ],
+    [ "RealmHandle", "d8/d99/a29718.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
+    [ "operator<", "d8/d99/a29718.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
+    [ "Realm", "d8/d99/a29718.html#a31af0d9064a295b1579fce3c80217bfd", null ]
 ];

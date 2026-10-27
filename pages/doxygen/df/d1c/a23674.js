@@ -1,7 +1,8 @@
 var a23674 =
 [
-    [ "HandleOnApply", "df/d1c/a23674.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "df/d1c/a23674.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "df/d1c/a23674.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "df/d1c/a23674.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "npc_underbat", "df/d1c/a23674.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "df/d1c/a23674.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "df/d1c/a23674.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "df/d1c/a23674.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "df/d1c/a23674.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

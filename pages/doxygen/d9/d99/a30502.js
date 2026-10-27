@@ -1,8 +1,26 @@
 var a30502 =
 [
-    [ "TileConfig", "d9/d99/a30502.html#a67b10c747fb0d2bc2a263e5009d42e1b", null ],
-    [ "BASE_UNIT_DIM", "d9/d99/a30502.html#a5a882b0595456ab3fcca85c80af3b6f8", null ],
-    [ "TILES_PER_MAP", "d9/d99/a30502.html#ae3443f89a8a698823c91096abe51a6a9", null ],
-    [ "VERTEX_PER_MAP", "d9/d99/a30502.html#a46640a80428b1ab93d65d593c03d13ed", null ],
-    [ "VERTEX_PER_TILE", "d9/d99/a30502.html#ae0331739074e5546818e13527a76524a", null ]
+    [ "TerrainBuilder", "d9/d99/a30502.html#ac851ab47fd43ed617fd3fdcb84287acd", null ],
+    [ "~TerrainBuilder", "d9/d99/a30502.html#a731cd606fd85b176b116512a2ccf86ee", null ],
+    [ "TerrainBuilder", "d9/d99/a30502.html#a08434e9974012ab90d0d6ff6a2bad36a", null ],
+    [ "cleanVertices", "d9/d99/a30502.html#a7a3f53367758b6effcc7899894c148de", null ],
+    [ "copyIndices", "d9/d99/a30502.html#a5f4139193ad3708e234414131aa3be55", null ],
+    [ "copyIndices", "d9/d99/a30502.html#a8d5bfc11e790aae74d7b81fb7db27061", null ],
+    [ "copyVertices", "d9/d99/a30502.html#a26207130b8e5807986b36ea148e84457", null ],
+    [ "getHeightCoord", "d9/d99/a30502.html#aecdd8a0ae2dab523925111197afe8835", null ],
+    [ "getHeightTriangle", "d9/d99/a30502.html#ab15913dd11a60078205a9fc76ce99203", null ],
+    [ "getLiquidCoord", "d9/d99/a30502.html#ae29c5c0538049382e6b75d0393a7714f", null ],
+    [ "getLiquidType", "d9/d99/a30502.html#a2d7e5ef7722ce2f78fda293af4e2d08d", null ],
+    [ "getLoopVars", "d9/d99/a30502.html#af47da985fc495b4a5fd8b32774e36b82", null ],
+    [ "isHole", "d9/d99/a30502.html#a219be095026945890d4f76163903ea2c", null ],
+    [ "loadHeightMap", "d9/d99/a30502.html#a5ddd947c48dae0acf29c952eca5ebe56", null ],
+    [ "loadMap", "d9/d99/a30502.html#ab6f3b100ee1a40173c2e77c6ee5a0da9", null ],
+    [ "loadMap", "d9/d99/a30502.html#a4071ed1464f7beb4d8567def275139e4", null ],
+    [ "loadOffMeshConnections", "d9/d99/a30502.html#ade055bfcdcedb36fca7fc35516c5586f", null ],
+    [ "loadVMap", "d9/d99/a30502.html#ae816d445265bde3c3866069bcd9e5184", null ],
+    [ "transform", "d9/d99/a30502.html#a6c25e949e12eba48d7e250ba99ce6e85", null ],
+    [ "usesLiquids", "d9/d99/a30502.html#ab869d655ea5cb7f9d32dff63ed4df779", null ],
+    [ "m_mapsPath", "d9/d99/a30502.html#a3870ff6d7c9614cadca3d9d89f3fd810", null ],
+    [ "m_skipLiquid", "d9/d99/a30502.html#aa4feec2075cdb31e940f2cf3dc0d136a", null ],
+    [ "m_vmapsPath", "d9/d99/a30502.html#ab4c289c4c91d84378e531ebbef85988f", null ]
 ];

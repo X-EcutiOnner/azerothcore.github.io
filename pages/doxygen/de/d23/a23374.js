@@ -1,5 +1,6 @@
 var a23374 =
 [
-    [ "at_quagmirran_lair", "de/d23/a23374.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "de/d23/a23374.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "HandleEffectApply", "de/d23/a23374.html#adbfce9b247a8a36d143243955372dc91", null ],
+    [ "PrepareAuraScript", "de/d23/a23374.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6", null ],
+    [ "Register", "de/d23/a23374.html#afb919ed484440d382b9d1ac7cf6f3f14", null ]
 ];

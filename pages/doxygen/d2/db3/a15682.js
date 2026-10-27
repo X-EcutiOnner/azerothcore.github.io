@@ -1,6 +1,6 @@
 var a15682 =
 [
-    [ "OnRemove", "d2/db3/a15682.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "d2/db3/a15682.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "d2/db3/a15682.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "FilterTargets", "d2/db3/a15682.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
+    [ "PrepareSpellScript", "d2/db3/a15682.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
+    [ "Register", "d2/db3/a15682.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
 ];

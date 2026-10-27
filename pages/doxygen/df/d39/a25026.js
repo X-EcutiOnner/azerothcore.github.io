@@ -1,6 +1,6 @@
 var a25026 =
 [
-    [ "CheckAreaTarget", "df/d39/a25026.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "df/d39/a25026.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "df/d39/a25026.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "CheckCast", "df/d39/a25026.html#a8ab8394c56201264ac4f2d859dd52092", null ],
+    [ "PrepareSpellScript", "df/d39/a25026.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
+    [ "Register", "df/d39/a25026.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
 ];

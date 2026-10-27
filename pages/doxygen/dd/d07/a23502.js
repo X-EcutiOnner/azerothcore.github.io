@@ -1,10 +1,11 @@
 var a23502 =
 [
-    [ "boss_high_king_maulgar", "dd/d07/a23502.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
-    [ "DoAction", "dd/d07/a23502.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
-    [ "JustDied", "dd/d07/a23502.html#ad235febd755745313b72394c633c3723", null ],
-    [ "JustEngagedWith", "dd/d07/a23502.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
-    [ "KilledUnit", "dd/d07/a23502.html#a2059016597039929103c053d6524ebf7", null ],
-    [ "Reset", "dd/d07/a23502.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
-    [ "UpdateAI", "dd/d07/a23502.html#ae540909dbbb3cf93e37503cd755c3001", null ]
+    [ "boss_ahune", "dd/d07/a23502.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "dd/d07/a23502.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "dd/d07/a23502.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "dd/d07/a23502.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "dd/d07/a23502.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "dd/d07/a23502.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "dd/d07/a23502.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "dd/d07/a23502.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

@@ -1,7 +1,9 @@
 var a26654 =
 [
-    [ "PeriodicTick", "da/d91/a26654.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
-    [ "PrepareAuraScript", "da/d91/a26654.html#ad332660b3b30ecb7b5c949c702574879", null ],
-    [ "Register", "da/d91/a26654.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
-    [ "Validate", "da/d91/a26654.html#a426b39c9733464c5d69d707d4e931f64", null ]
+    [ "CheckProc", "da/d91/a26654.html#abc802dd38555c1165e290046418018b6", null ],
+    [ "HasManaCost", "da/d91/a26654.html#a951452680451b435b622b9ccb0de535c", null ],
+    [ "IsPenanceChannel", "da/d91/a26654.html#ab020e0b8e7697b196adca557cf4654c7", null ],
+    [ "PrepareAuraScript", "da/d91/a26654.html#ac999475afaf03801a085b0f1ded23b6d", null ],
+    [ "Register", "da/d91/a26654.html#ab3ccb71330c9d6d94003cbfb3b7ca261", null ],
+    [ "Validate", "da/d91/a26654.html#aa7e88d03e994533ebcc486d12464452f", null ]
 ];

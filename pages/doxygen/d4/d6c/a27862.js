@@ -1,8 +1,7 @@
 var a27862 =
 [
-    [ "HandleEffect", "d4/d6c/a27862.html#a1c1a06362742abcf83e1817c468de3d3", null ],
-    [ "PrepareSpellScript", "d4/d6c/a27862.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
-    [ "Register", "d4/d6c/a27862.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
-    [ "SendMiss", "d4/d6c/a27862.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
-    [ "Validate", "d4/d6c/a27862.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
+    [ "HandleAuraApply", "d4/d6c/a27862.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "d4/d6c/a27862.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "d4/d6c/a27862.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "d4/d6c/a27862.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

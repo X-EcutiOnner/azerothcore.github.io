@@ -1,6 +1,6 @@
 var a24478 =
 [
-    [ "HandlePeriodic", "d4/d72/a24478.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
-    [ "PrepareAuraScript", "d4/d72/a24478.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
-    [ "Register", "d4/d72/a24478.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
+    [ "npc_kservantAI", "d5/d0a/a24482.html", "d5/d0a/a24482" ],
+    [ "npc_kservant", "d4/d72/a24478.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "d4/d72/a24478.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

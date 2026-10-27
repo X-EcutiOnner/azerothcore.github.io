@@ -1,6 +1,6 @@
 var a17774 =
 [
-    [ "OnAbsorb", "d1/d62/a17774.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "d1/d62/a17774.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "d1/d62/a17774.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "boss_slad_ranAI", "de/da1/a17778.html", "de/da1/a17778" ],
+    [ "boss_slad_ran", "d1/d62/a17774.html#a9b960242e2f186d334d7ce04b999e274", null ],
+    [ "GetAI", "d1/d62/a17774.html#a26651b7ca111bd64549283c37e34db11", null ]
 ];

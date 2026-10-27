@@ -1,6 +1,5 @@
 var a12750 =
 [
-    [ "boss_high_priestess_thaurissan", "d6/d49/a12750.html#a72b25580dc84301be59d72df45a3ac87", null ],
-    [ "JustEngagedWith", "d6/d49/a12750.html#aa8ba467dd5633e96a20c634880710936", null ],
-    [ "UpdateAI", "d6/d49/a12750.html#a66612582a2362e4f07d7a2bda529af06", null ]
+    [ "npcEntry", "d6/d49/a12750.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
+    [ "spellId", "d6/d49/a12750.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
 ];

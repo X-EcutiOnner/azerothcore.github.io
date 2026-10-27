@@ -1,14 +1,6 @@
 var a15486 =
 [
-    [ "boss_ayamiss", "d3/d67/a15486.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
-    [ "DoAction", "d3/d67/a15486.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
-    [ "EnterEvadeMode", "d3/d67/a15486.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
-    [ "JustDied", "d3/d67/a15486.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
-    [ "JustEngagedWith", "d3/d67/a15486.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
-    [ "JustSummoned", "d3/d67/a15486.html#a4281f761256cd93c19aea0a76239512d", null ],
-    [ "MovementInform", "d3/d67/a15486.html#a6bc1f0767785efb5a5fb005b49338032", null ],
-    [ "Reset", "d3/d67/a15486.html#a10111f97236c2846181aa20f7d9b64fd", null ],
-    [ "ScheduleTasks", "d3/d67/a15486.html#a166238b9395a426a7333cf71a38c6c5c", null ],
-    [ "_swarmers", "d3/d67/a15486.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
-    [ "homePos", "d3/d67/a15486.html#ab098ee0f8872d1cf9d34993c01971921", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "d1/dbd/a15490.html", "d1/dbd/a15490" ],
+    [ "instance_the_black_morass", "d3/d67/a15486.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
+    [ "GetInstanceScript", "d3/d67/a15486.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
 ];

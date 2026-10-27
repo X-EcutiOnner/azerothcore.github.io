@@ -1,9 +1,6 @@
 var a18066 =
 [
-    [ "CheckAreaTarget", "de/dca/a18066.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
-    [ "HandleApply", "de/dca/a18066.html#a9ce86d32957af07313af379b4176d0b3", null ],
-    [ "HandleRemove", "de/dca/a18066.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
-    [ "Load", "de/dca/a18066.html#aa10821981f3e80262850e5c46449d5d0", null ],
-    [ "PrepareAuraScript", "de/dca/a18066.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
-    [ "Register", "de/dca/a18066.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
+    [ "npc_stinky_iccAI", "d0/dc5/a18070.html", "d0/dc5/a18070" ],
+    [ "npc_stinky_icc", "de/dca/a18066.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "de/dca/a18066.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

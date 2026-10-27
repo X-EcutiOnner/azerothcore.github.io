@@ -1,7 +1,5 @@
 var a10850 =
 [
-    [ "SpellScriptLoader", "d1/d17/a10850.html#a3b6fe2ba310f95c438b7cf941865fe46", null ],
-    [ "GetAuraScript", "d1/d17/a10850.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "d1/d17/a10850.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "d1/d17/a10850.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "FactoryCreatureScript", "d1/d17/a10850.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
+    [ "GetAI", "d1/d17/a10850.html#a0e491e4cda2b03456d798f6726dbde54", null ]
 ];

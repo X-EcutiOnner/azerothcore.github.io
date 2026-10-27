@@ -1,10 +1,9 @@
 var a09986 =
 [
-    [ "PlayerMoveItemData", "d4/de7/a09986.html#a2f707719b409975ddd3023d2239403d6", null ],
-    [ "CanStore", "d4/de7/a09986.html#a00680db86d45ad8e8652218fce05139d", null ],
-    [ "InitItem", "d4/de7/a09986.html#a34298fd6ac20ab0e02c6350dcc5a4d33", null ],
-    [ "IsBank", "d4/de7/a09986.html#ae4d45104dccf78581b4228a31fe192ad", null ],
-    [ "LogBankEvent", "d4/de7/a09986.html#a36516c5ca1aaa13afa9e61831a175068", null ],
-    [ "RemoveItem", "d4/de7/a09986.html#a482460f04b20349e909bac36f893a35a", null ],
-    [ "StoreItem", "d4/de7/a09986.html#a017e3bd414548e66f980587e81e598e5", null ]
+    [ "UnitAuraCheck", "d4/de7/a09986.html#acbc0c969db8b768720ab3b8235c28352", null ],
+    [ "operator()", "d4/de7/a09986.html#abc385cad226ac51c09a908864d360fd3", null ],
+    [ "operator()", "d4/de7/a09986.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
+    [ "_casterGUID", "d4/de7/a09986.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
+    [ "_present", "d4/de7/a09986.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
+    [ "_spellId", "d4/de7/a09986.html#a0dd71c851f803fb70a4543c77b672889", null ]
 ];

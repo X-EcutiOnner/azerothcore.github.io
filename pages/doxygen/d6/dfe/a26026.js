@@ -1,6 +1,6 @@
 var a26026 =
 [
-    [ "HandleProc", "d6/dfe/a26026.html#aa333d52d905e722554d8d61c4b9cb656", null ],
-    [ "PrepareAuraScript", "d6/dfe/a26026.html#aac4320b061d627e4ffef737d2e858ef3", null ],
-    [ "Register", "d6/dfe/a26026.html#ad58fea9afa6a3596437a324ec525982e", null ]
+    [ "OnBaseRemove", "d6/dfe/a26026.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "PrepareAuraScript", "d6/dfe/a26026.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "d6/dfe/a26026.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

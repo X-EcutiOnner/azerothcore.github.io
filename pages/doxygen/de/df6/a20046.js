@@ -1,6 +1,6 @@
 var a20046 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "df/d2b/a20050.html", "df/d2b/a20050" ],
-    [ "boss_sjonnir_malformed_ooze", "de/df6/a20046.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "de/df6/a20046.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "HandleEffectCalcAmount", "de/df6/a20046.html#afa50ce616d36dd59c7195209074d6182", null ],
+    [ "PrepareAuraScript", "de/df6/a20046.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
+    [ "Register", "de/df6/a20046.html#a691d5a99eec9e367c518d0244f25bd41", null ]
 ];

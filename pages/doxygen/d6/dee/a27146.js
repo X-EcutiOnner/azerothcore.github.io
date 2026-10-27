@@ -1,7 +1,9 @@
 var a27146 =
 [
-    [ "HandleDummy", "d6/dee/a27146.html#aef93741620dcf29179502f88891ad0b5", null ],
-    [ "Load", "d6/dee/a27146.html#ab8e5dcd009cca538c9921dcb9c5fe109", null ],
-    [ "PrepareSpellScript", "d6/dee/a27146.html#ac92fd133395705e4cb3730bc96e1f787", null ],
-    [ "Register", "d6/dee/a27146.html#a69336bea35240c0014693ae167d4124b", null ]
+    [ "CheckProcDummy", "d6/dee/a27146.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
+    [ "CheckProcTriggerSpell", "d6/dee/a27146.html#affbff48ab9421bda51b3a5781188546d", null ],
+    [ "HandleProcDummy", "d6/dee/a27146.html#a0113a45bd4c28d1769df7b675de697ed", null ],
+    [ "PrepareAuraScript", "d6/dee/a27146.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
+    [ "Register", "d6/dee/a27146.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
+    [ "Validate", "d6/dee/a27146.html#a63844728796945e892985720296d0c07", null ]
 ];

@@ -1,7 +1,5 @@
 var a22778 =
 [
-    [ "HandleDummy", "d2/de9/a22778.html#af5ac581f7d471300fba2c23548037eea", null ],
-    [ "PrepareSpellScript", "d2/de9/a22778.html#adda61c05b544b52d98af5b7a76d4f808", null ],
-    [ "Register", "d2/de9/a22778.html#a270a64dffdce230d97515f116ec49706", null ],
-    [ "Validate", "d2/de9/a22778.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
+    [ "OutdoorPvP_terokkar_forest", "d2/de9/a22778.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "d2/de9/a22778.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

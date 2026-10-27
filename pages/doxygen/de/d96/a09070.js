@@ -1,14 +1,9 @@
 var a09070 =
 [
-    [ "PassengerSet", "de/d96/a09070.html#aa6421ebd51e84c819604e18e93729d27", null ],
-    [ "Transport", "de/d96/a09070.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
-    [ "AddPassenger", "de/d96/a09070.html#ac5c328f816b0358a68265322219357c1", null ],
-    [ "CalculatePassengerOffset", "de/d96/a09070.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
-    [ "CalculatePassengerPosition", "de/d96/a09070.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
-    [ "DelayedUpdate", "de/d96/a09070.html#aabc885fccc7a4a4d6a98f9ed8b39cd43", null ],
-    [ "GetPassengers", "de/d96/a09070.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
-    [ "GetPathProgress", "de/d96/a09070.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
-    [ "RemovePassenger", "de/d96/a09070.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
-    [ "SetPathProgress", "de/d96/a09070.html#acb68e75a78fa196a4b514abd24c0e322", null ],
-    [ "_passengers", "de/d96/a09070.html#adc2089495aadaab23414ecae3b2df180", null ]
+    [ "areaFlag", "de/d96/a09070.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
+    [ "areaID", "de/d96/a09070.html#a455a890a1d82d31873873ac497cb83b7", null ],
+    [ "x1", "de/d96/a09070.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
+    [ "x2", "de/d96/a09070.html#aebdb021c0b9c40d624d5115b24616a12", null ],
+    [ "y1", "de/d96/a09070.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
+    [ "y2", "de/d96/a09070.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
 ];

@@ -1,4 +1,6 @@
 var a29854 =
 [
-    [ "SetUp", "d9/dc0/a29854.html#ad6602a4579ff5c20d4a8a4a0bec0a155", null ]
+    [ "hasInstantTargetProcs", "d9/dc0/a29854.html#a043a2884a456208d85bc3bf8d4733682", null ],
+    [ "isRemoved", "d9/dc0/a29854.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
+    [ "spellId", "d9/dc0/a29854.html#aee26a119051d638047018aeb93d593f6", null ]
 ];

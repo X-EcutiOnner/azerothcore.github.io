@@ -1,8 +1,10 @@
 var a14658 =
 [
-    [ "boss_venoxis", "da/d7f/a14658.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "da/d7f/a14658.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "da/d7f/a14658.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "da/d7f/a14658.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "da/d7f/a14658.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "boss_jeklik", "da/d7f/a14658.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
+    [ "EnterEvadeMode", "da/d7f/a14658.html#a70dc363e0690e72846db5f779375edc1", null ],
+    [ "JustDied", "da/d7f/a14658.html#ae648ba9ff49f4970612a8c3351789b66", null ],
+    [ "JustEngagedWith", "da/d7f/a14658.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
+    [ "PathEndReached", "da/d7f/a14658.html#a689e8f91361de45e6f885fea0dec900a", null ],
+    [ "Reset", "da/d7f/a14658.html#a7959106123e60e3584b32b50a272746c", null ],
+    [ "batRidersCount", "da/d7f/a14658.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
 ];

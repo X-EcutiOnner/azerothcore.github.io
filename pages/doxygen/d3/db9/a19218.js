@@ -1,5 +1,6 @@
 var a19218 =
 [
-    [ "at_icc_saurfang_portal", "d3/db9/a19218.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "d3/db9/a19218.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "npc_frostwing_vrykulAI", "df/d38/a19222.html", "df/d38/a19222" ],
+    [ "npc_frostwing_vrykul", "d3/db9/a19218.html#ab915aa094ddebd9201a1c626e6427409", null ],
+    [ "GetAI", "d3/db9/a19218.html#a11678e59b6db9a41c7b6a575339995fd", null ]
 ];

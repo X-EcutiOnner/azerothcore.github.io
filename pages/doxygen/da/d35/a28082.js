@@ -1,11 +1,8 @@
 var a28082 =
 [
-    [ "npc_dream_fogAI", "da/d35/a28082.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
-    [ "GetRandomUnitFromDragonThreatList", "da/d35/a28082.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
-    [ "Reset", "da/d35/a28082.html#a595eeeae54d4bf323287fc408f706ac6", null ],
-    [ "ScheduleEvents", "da/d35/a28082.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
-    [ "SetGUID", "da/d35/a28082.html#a3666423921a5405ea220ba098f3f91fe", null ],
-    [ "UpdateAI", "da/d35/a28082.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
-    [ "_dragonGUID", "da/d35/a28082.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
-    [ "_targetGUID", "da/d35/a28082.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
+    [ "HandleEffect", "da/d35/a28082.html#a1c1a06362742abcf83e1817c468de3d3", null ],
+    [ "PrepareSpellScript", "da/d35/a28082.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
+    [ "Register", "da/d35/a28082.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
+    [ "SendMiss", "da/d35/a28082.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
+    [ "Validate", "da/d35/a28082.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
 ];

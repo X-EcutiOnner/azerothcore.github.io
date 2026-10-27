@@ -1,6 +1,6 @@
 var a28754 =
 [
-    [ "Id", "d4/db7/a28754.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "d4/db7/a28754.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "d4/db7/a28754.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "npc_guardianAI", "d7/d34/a28758.html", "d7/d34/a28758" ],
+    [ "npc_guardian", "d4/db7/a28754.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "d4/db7/a28754.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

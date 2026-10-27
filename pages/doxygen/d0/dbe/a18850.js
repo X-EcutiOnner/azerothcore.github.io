@@ -1,6 +1,12 @@
 var a18850 =
 [
-    [ "ActivateSpirit", "d0/dbe/a18850.html#ae5c9f8e693a98c828e0e922870552952", null ],
-    [ "PrepareSpellScript", "d0/dbe/a18850.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
-    [ "Register", "d0/dbe/a18850.html#a2b1d27e93a879681098a83d17c4d686a", null ]
+    [ "npc_raging_spiritAI", "d0/dbe/a18850.html#a1c85351ae62d5f45381214373e64aec4", null ],
+    [ "AttackStart", "d0/dbe/a18850.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
+    [ "CanAIAttack", "d0/dbe/a18850.html#a64fa46f05861d8736d881aa3687f4320", null ],
+    [ "IsSummonedBy", "d0/dbe/a18850.html#aceba6a8eca00b41c42e2481a652c4d14", null ],
+    [ "JustDied", "d0/dbe/a18850.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
+    [ "Reset", "d0/dbe/a18850.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
+    [ "UpdateAI", "d0/dbe/a18850.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
+    [ "_events", "d0/dbe/a18850.html#af5783316983b622f20d8c677f2858111", null ],
+    [ "_instance", "d0/dbe/a18850.html#aaa9b5728fcdb379849434385b3501251", null ]
 ];

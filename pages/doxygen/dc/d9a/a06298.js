@@ -1,11 +1,11 @@
 var a06298 =
 [
-    [ "AppliedFileEntry", "dc/d9a/a06298.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
-    [ "GetStateAsString", "dc/d9a/a06298.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
-    [ "StateConvert", "dc/d9a/a06298.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
-    [ "StateConvert", "dc/d9a/a06298.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
-    [ "hash", "dc/d9a/a06298.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
-    [ "name", "dc/d9a/a06298.html#a8fc429eae6816054b5828952a5698a4c", null ],
-    [ "state", "dc/d9a/a06298.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
-    [ "timestamp", "dc/d9a/a06298.html#a13703e88b76f26858696b33a8bc8f862", null ]
+    [ "SQLQueryHolderCallback", "dc/d9a/a06298.html#afc2cb6a483d17ae115e947bc88fe592b", null ],
+    [ "SQLQueryHolderCallback", "dc/d9a/a06298.html#a7fddb08e9e10cdb8a437de3ee53494db", null ],
+    [ "AfterComplete", "dc/d9a/a06298.html#a40f0a73f4b92bc0f7ad8659f748c7c17", null ],
+    [ "InvokeIfReady", "dc/d9a/a06298.html#a7e540699d496834c0a36782fb7da03f1", null ],
+    [ "operator=", "dc/d9a/a06298.html#a031861856be6b3e5f18718f3c6129f9c", null ],
+    [ "m_callback", "dc/d9a/a06298.html#aa055fe02b0158a9098e6eccdc32e9ff4", null ],
+    [ "m_future", "dc/d9a/a06298.html#a7dc3e5e72d47135660a29a0418e17c44", null ],
+    [ "m_holder", "dc/d9a/a06298.html#a09b018fb4d8e0e67249b1117c657ecc2", null ]
 ];

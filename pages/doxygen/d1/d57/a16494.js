@@ -1,8 +1,8 @@
 var a16494 =
 [
-    [ "npc_twilight_summon", "d1/d57/a16494.html#a34697edd1af94814862a50a038625f93", null ],
-    [ "DoAction", "d1/d57/a16494.html#a78ef5af35959e8bedbf7a23569a2f8bd", null ],
-    [ "Reset", "d1/d57/a16494.html#aa909fac05e93a78d3f70222fb82a6841", null ],
-    [ "UpdateAI", "d1/d57/a16494.html#afe47f7af23aa7ef5b59473579c649859", null ],
-    [ "fadeArmorTimer", "d1/d57/a16494.html#a998e2efd9e25915d32b953d684352511", null ]
+    [ "instance_ahnkahet_InstanceScript", "d1/d57/a16494.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "d1/d57/a16494.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "d1/d57/a16494.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "d1/d57/a16494.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "d1/d57/a16494.html#a840ce69595c384be321c1167513d151e", null ]
 ];

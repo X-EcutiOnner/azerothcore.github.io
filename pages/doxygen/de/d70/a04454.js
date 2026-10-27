@@ -1,6 +1,6 @@
 var a04454 =
 [
-    [ "WildGrowthTickScalingTest", "dd/d8c/a30245.html", null ],
+    [ "WildGrowthTickScalingTest", "d9/dcb/a30282.html", null ],
     [ "CalcAllTicks", "de/d70/a04454.html#a7d72b7a206fea0eaa814a190c35a0e29", null ],
     [ "CalcPct", "de/d70/a04454.html#a95e4d56dd3e5ff9502c8bb2627784cd5", null ],
     [ "CalcWildGrowthTickAmount", "de/d70/a04454.html#addfd88f5be5daae3a078cbade7aed80e", null ],

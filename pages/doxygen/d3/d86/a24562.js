@@ -1,10 +1,8 @@
 var a24562 =
 [
-    [ "CheckProc", "d3/d86/a24562.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02", null ],
-    [ "HandleProc", "d3/d86/a24562.html#ac90b54e946baa80589cab2f66aca1f5f", null ],
-    [ "Load", "d3/d86/a24562.html#ada85014de8a3602e83912d5e1a0165c5", null ],
-    [ "PrepareAuraScript", "d3/d86/a24562.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
-    [ "Register", "d3/d86/a24562.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
-    [ "Validate", "d3/d86/a24562.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
-    [ "_procTarget", "d3/d86/a24562.html#a0c3ba33c7117195dac4c1df3a6e8529a", null ]
+    [ "npc_pet_dk_army_of_the_dead", "d3/d86/a24562.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "CanAIAttack", "d3/d86/a24562.html#a514fe49b143f57ef87359b3060911c02", null ],
+    [ "OwnerAttacked", "d3/d86/a24562.html#ad5189df825dc917e59c9b19e4a84cded", null ],
+    [ "OwnerAttackedBy", "d3/d86/a24562.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ],
+    [ "UpdateAI", "d3/d86/a24562.html#ac44836f84d172dfac90dfb3eaaeeac6a", null ]
 ];

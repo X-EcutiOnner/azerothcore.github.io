@@ -1,7 +1,7 @@
 var a27718 =
 [
-    [ "HandleTeleport", "de/dcb/a27718.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
-    [ "PrepareAuraScript", "de/dcb/a27718.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
-    [ "Register", "de/dcb/a27718.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
-    [ "Validate", "de/dcb/a27718.html#adabf22bd591a10662ffbf0354a18a936", null ]
+    [ "HandleProc", "de/dcb/a27718.html#a46726e3e05e386892ea86d74d161e8d0", null ],
+    [ "PrepareAuraScript", "de/dcb/a27718.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
+    [ "Register", "de/dcb/a27718.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
+    [ "Validate", "de/dcb/a27718.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
 ];

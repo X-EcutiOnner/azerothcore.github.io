@@ -1,5 +1,5 @@
 var a28570 =
 [
-    [ "npc_pet_trainerAI", "da/d9f/a28570.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "da/d9f/a28570.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "item_only_for_flight", "da/d9f/a28570.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "da/d9f/a28570.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

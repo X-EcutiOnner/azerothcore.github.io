@@ -1,5 +1,6 @@
 var a25034 =
 [
-    [ "PrepareSpellScript", "d3/d83/a25034.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
-    [ "Register", "d3/d83/a25034.html#a560ff22e718e8a975a2e2dc2340da917", null ]
+    [ "FilterTargets", "d3/d83/a25034.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
+    [ "PrepareSpellScript", "d3/d83/a25034.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
+    [ "Register", "d3/d83/a25034.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
 ];

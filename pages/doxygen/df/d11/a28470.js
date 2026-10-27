@@ -1,8 +1,5 @@
 var a28470 =
 [
-    [ "npc_riggle_bassbaitAI", "de/df0/a28474.html", "de/df0/a28474" ],
-    [ "npc_riggle_bassbait", "df/d11/a28470.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "df/d11/a28470.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "df/d11/a28470.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "df/d11/a28470.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "go_tablet_of_the_seven", "df/d11/a28470.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "df/d11/a28470.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

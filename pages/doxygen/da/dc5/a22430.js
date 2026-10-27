@@ -1,6 +1,4 @@
 var a22430 =
 [
-    [ "PrepareSpellScript", "da/dc5/a22430.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "da/dc5/a22430.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "da/dc5/a22430.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "npc_adventurous_dwarfAI", "da/dc5/a22430.html#af953c5fef2ea8abbf7835b0bc5cf1b23", null ]
 ];

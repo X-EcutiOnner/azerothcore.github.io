@@ -1,6 +1,8 @@
 var a08890 =
 [
-    [ "active", "df/d30/a08890.html#a9460571d6fc219ab8c475aab34fc9494", null ],
-    [ "state", "df/d30/a08890.html#a0600418cb460fdaf8093bfa609e796c8", null ],
-    [ "type", "df/d30/a08890.html#a4c4a7d0f299ae4e2ceb146a741057032", null ]
+    [ "Reset", "df/d30/a08890.html#a28a5bd110553457c86d7f77e78041713", null ],
+    [ "cosAngle", "df/d30/a08890.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
+    [ "sinAngle", "df/d30/a08890.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
+    [ "xyspeed", "df/d30/a08890.html#a6fada60d677d89580c3a718d42a75d17", null ],
+    [ "zspeed", "df/d30/a08890.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
 ];

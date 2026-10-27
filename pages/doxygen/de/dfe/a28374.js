@@ -1,5 +1,6 @@
 var a28374 =
 [
-    [ "item_captured_frog", "de/dfe/a28374.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "de/dfe/a28374.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "go_witherbark_totem_bundleAI", "de/dfe/a28374.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "de/dfe/a28374.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "de/dfe/a28374.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

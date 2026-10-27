@@ -1,6 +1,10 @@
 var a26318 =
 [
-    [ "PrepareSpellScript", "da/d32/a26318.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "da/d32/a26318.html#a313abe6367e5494bd81a557ab42f9f50", null ],
-    [ "SecondaryEffect", "da/d32/a26318.html#ac12d466f3aeb86a30dc498f10082aab1", null ]
+    [ "CalcPeriodic", "da/d32/a26318.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "da/d32/a26318.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "da/d32/a26318.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "da/d32/a26318.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "da/d32/a26318.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "da/d32/a26318.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "da/d32/a26318.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

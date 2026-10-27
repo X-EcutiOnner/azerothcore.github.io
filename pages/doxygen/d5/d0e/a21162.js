@@ -1,5 +1,6 @@
 var a21162 =
 [
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "d5/d0e/a21162.html#ae1503a754a05a77991d9955a2fb74265", null ],
-    [ "OnTrigger", "d5/d0e/a21162.html#aa7aa93e00170313de251af4e562c422c", null ]
+    [ "boss_yoggsaron_influence_tentacle", "d5/d0e/a21162.html#ac5908d64a4749303a08d352d470995dd", null ],
+    [ "DamageTaken", "d5/d0e/a21162.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "d5/d0e/a21162.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

@@ -1,14 +1,8 @@
 var a12794 =
 [
-    [ "boss_lord_valthalak", "d8/d68/a12794.html#a26fd09b5f1e3429cacb90f3aaff1a105", null ],
-    [ "DamageTaken", "d8/d68/a12794.html#adf174f2b50e76a721c034a13f1946875", null ],
-    [ "IsSummonedBy", "d8/d68/a12794.html#aaa4f24a056e7a0598ff7a399802ac32c", null ],
-    [ "JustDied", "d8/d68/a12794.html#a084cc36f08a1decd2d262b7a9eb59f6b", null ],
-    [ "JustEngagedWith", "d8/d68/a12794.html#aaa9835ca1d7d81ee177202138be4bad5", null ],
-    [ "Reset", "d8/d68/a12794.html#a0494a1b6cc00b40f627a58d790424567", null ],
-    [ "StartFighting", "d8/d68/a12794.html#a3135ff2a25ee9c4286623cb570cc03f3", null ],
-    [ "StartTalking", "d8/d68/a12794.html#ace3e47ef60b3761d860677648fabdd9d", null ],
-    [ "UpdateAI", "d8/d68/a12794.html#a49a438bff5aadc58ae69b00cd2ce68d1", null ],
-    [ "_frenzy15", "d8/d68/a12794.html#acc7ba74226b04ee9a62233e473f68f7b", null ],
-    [ "_frenzy40", "d8/d68/a12794.html#a7d8cd5bedfb8c5bfc1ac4bdc0efff2bf", null ]
+    [ "brd_ironhand_guardian", "d8/d68/a12794.html#a635a59a53948b6e252a15384d784a969", null ],
+    [ "SetData", "d8/d68/a12794.html#a7677681c4d39ed73f4143caa66a1a5de", null ],
+    [ "UpdateAI", "d8/d68/a12794.html#a8840ead9b577888ec2ac15d68ddffe71", null ],
+    [ "_flamesEnabled", "d8/d68/a12794.html#a1b162039fc21a7eddddd22ed9c97e9cb", null ],
+    [ "events", "d8/d68/a12794.html#a01047164b0728cb6d08a7f41cf092a58", null ]
 ];

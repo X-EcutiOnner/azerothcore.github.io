@@ -1,6 +1,6 @@
 var a17114 =
 [
-    [ "boss_fjolaAI", "d0/d5a/a17118.html", "d0/d5a/a17118" ],
-    [ "boss_fjola", "d6/d5c/a17114.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
-    [ "GetAI", "d6/d5c/a17114.html#a96d9ea0716199758b60ad933ade28de4", null ]
+    [ "npc_toc_retro_paladinAI", "d0/d5a/a17118.html", "d0/d5a/a17118" ],
+    [ "npc_toc_retro_paladin", "d6/d5c/a17114.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
+    [ "GetAI", "d6/d5c/a17114.html#a1213c99792aa4362275bc827aa2f037e", null ]
 ];

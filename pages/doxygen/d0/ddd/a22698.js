@@ -1,6 +1,6 @@
 var a22698 =
 [
-    [ "PrepareSpellScript", "d0/ddd/a22698.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d0/ddd/a22698.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d0/ddd/a22698.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "FilterTargets", "d0/ddd/a22698.html#a4d81860c41daab44851da605d38b4753", null ],
+    [ "PrepareSpellScript", "d0/ddd/a22698.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
+    [ "Register", "d0/ddd/a22698.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
 ];

@@ -1,6 +1,6 @@
 var a22918 =
 [
-    [ "boss_essence_of_desireAI", "da/ddd/a22922.html", "da/ddd/a22922" ],
-    [ "boss_essence_of_desire", "d9/dec/a22918.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d9/dec/a22918.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "PrepareSpellScript", "d9/dec/a22918.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "d9/dec/a22918.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "d9/dec/a22918.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

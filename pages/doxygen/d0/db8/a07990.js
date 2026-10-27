@@ -1,4 +1,4 @@
 var a07990 =
 [
-    [ "type", "d0/db8/a07990.html#a20bf3321a2bb91eead362115f5c9bcc7", null ]
+    [ "AllianceChannelMgr", "d0/db8/a07990.html#a7d90a6a0d987ac461668642c9ecfb619", null ]
 ];

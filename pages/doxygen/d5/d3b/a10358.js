@@ -1,8 +1,11 @@
 var a10358 =
 [
-    [ "GetAINotifyDelay", "d5/d3b/a10358.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
-    [ "GetReqMoveDistSq", "d5/d3b/a10358.html#a58687646bbf83723e8ad2925ee50452c", null ],
-    [ "GetVisibilityNotifyDelay", "d5/d3b/a10358.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
-    [ "Update", "d5/d3b/a10358.html#aa95443d7050249a44cad2f16fa0026e5", null ],
-    [ "visibilitySettingsIndex", "d5/d3b/a10358.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
+    [ "StaticVMapCollisionData", "d5/d3b/a10358.html#a5955532316bc6409c104197b086d3e3b", null ],
+    [ "GetAreaAndLiquidData", "d5/d3b/a10358.html#afcbfd82bc43ad5dbce5edc35608a0d38", null ],
+    [ "getHeight", "d5/d3b/a10358.html#ad5b245ec62bf370a479c8fdb0eec1f40", null ],
+    [ "GetObjectHitPos", "d5/d3b/a10358.html#aacf3e526a4e52c8515b3a8004e6b0a1a", null ],
+    [ "isInLineOfSight", "d5/d3b/a10358.html#a79f47e4eafe0db4e449ec202ad3ef580", null ],
+    [ "MapCollisionData", "d5/d3b/a10358.html#a472038a89678719bf8868ab0c75e394f", null ],
+    [ "_mapId", "d5/d3b/a10358.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb", null ],
+    [ "_staticTree", "d5/d3b/a10358.html#a4d73d970aa85dbbd9c70633addcdaf13", null ]
 ];

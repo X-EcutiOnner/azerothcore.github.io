@@ -1,8 +1,8 @@
 var a15154 =
 [
-    [ "npc_doomfire_spirit", "da/d67/a15154.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "da/d67/a15154.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "da/d67/a15154.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "da/d67/a15154.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "da/d67/a15154.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "CheckCast", "da/d67/a15154.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "da/d67/a15154.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "da/d67/a15154.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "da/d67/a15154.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "da/d67/a15154.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

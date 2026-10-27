@@ -1,11 +1,8 @@
 var a09050 =
 [
-    [ "FriendInfo", "d6/d54/a09050.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "d6/d54/a09050.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "d6/d54/a09050.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "d6/d54/a09050.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "d6/d54/a09050.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "d6/d54/a09050.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "d6/d54/a09050.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "d6/d54/a09050.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "PlayerCreateInfoAction", "d6/d54/a09050.html#a50d56595c71374e132dfe9f988144e75", null ],
+    [ "PlayerCreateInfoAction", "d6/d54/a09050.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
+    [ "action", "d6/d54/a09050.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
+    [ "button", "d6/d54/a09050.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
+    [ "type", "d6/d54/a09050.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
 ];

@@ -1,8 +1,7 @@
 var a15046 =
 [
-    [ "CheckCast", "de/da5/a15046.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "de/da5/a15046.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "de/da5/a15046.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "de/da5/a15046.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "de/da5/a15046.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "go_loosely_turned_soilAI", "d2/d7f/a15050.html", "d2/d7f/a15050" ],
+    [ "go_loosely_turned_soil", "de/da5/a15046.html#a3b4d51e2b3a604e030962127269236f1", null ],
+    [ "GetAI", "de/da5/a15046.html#acead5810a848f8837fa65af1f2ac00bd", null ],
+    [ "OnQuestReward", "de/da5/a15046.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
 ];

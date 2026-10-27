@@ -1,10 +1,8 @@
 var a24166 =
 [
-    [ "npc_infernal_attackerAI", "de/dc6/a24166.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "de/dc6/a24166.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "de/dc6/a24166.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "de/dc6/a24166.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "de/dc6/a24166.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "de/dc6/a24166.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "de/dc6/a24166.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "instance_mechanar_InstanceMapScript", "de/dc6/a24166.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "de/dc6/a24166.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "de/dc6/a24166.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "de/dc6/a24166.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "de/dc6/a24166.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

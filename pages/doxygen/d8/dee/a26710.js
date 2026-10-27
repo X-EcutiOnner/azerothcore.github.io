@@ -1,8 +1,8 @@
 var a26710 =
 [
-    [ "CheckCast", "d8/dee/a26710.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
-    [ "HandleDummy", "d8/dee/a26710.html#a1eac1eb5f39093ff48942e82728478dd", null ],
-    [ "PrepareSpellScript", "d8/dee/a26710.html#adbb58b75232560d101b291c0d99a2a20", null ],
-    [ "Register", "d8/dee/a26710.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
-    [ "Validate", "d8/dee/a26710.html#a4b67c348685a8094668e4ed2f0c78446", null ]
+    [ "Absorb", "d8/dee/a26710.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
+    [ "CalculateAmount", "d8/dee/a26710.html#a20d5b4776ebeb859b0641af640e41d80", null ],
+    [ "PrepareAuraScript", "d8/dee/a26710.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
+    [ "Register", "d8/dee/a26710.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
+    [ "Validate", "d8/dee/a26710.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
 ];

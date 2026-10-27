@@ -1,17 +1,12 @@
 var a23642 =
 [
-    [ "boss_grand_warlock_nethekurse", "da/ddb/a23642.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
-    [ "DoAction", "da/ddb/a23642.html#a8288f8c28b61dac574254435534b5e3f", null ],
-    [ "IntroRP", "da/ddb/a23642.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
-    [ "JustDied", "da/ddb/a23642.html#a48a2ec7beeb5c9685fc627317acea949", null ],
-    [ "JustEngagedWith", "da/ddb/a23642.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
-    [ "JustReachedHome", "da/ddb/a23642.html#afe62561de66fbe7fa92c365a51f01adc", null ],
-    [ "KilledUnit", "da/ddb/a23642.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
-    [ "Reset", "da/ddb/a23642.html#aceef7aace38f5246ad67a1591b7f301c", null ],
-    [ "SetData", "da/ddb/a23642.html#a6c647262ce7df78c46af6b725cbcc250", null ],
-    [ "UpdateAI", "da/ddb/a23642.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
-    [ "_canAggro", "da/ddb/a23642.html#a9c577798d5bc87654e6984af02d95c34", null ],
-    [ "_introStarted", "da/ddb/a23642.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
-    [ "PeonEngagedCount", "da/ddb/a23642.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
-    [ "PeonKilledCount", "da/ddb/a23642.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
+    [ "boss_swamplord_muselek", "da/ddb/a23642.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
+    [ "AttackStart", "da/ddb/a23642.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
+    [ "CanShootVictim", "da/ddb/a23642.html#af84af5e4b344fc5f5da9f2047519710a", null ],
+    [ "JustDied", "da/ddb/a23642.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
+    [ "JustEngagedWith", "da/ddb/a23642.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
+    [ "KilledUnit", "da/ddb/a23642.html#a9f2afd6aacb9befa956079a42fbace37", null ],
+    [ "Reset", "da/ddb/a23642.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
+    [ "_canChase", "da/ddb/a23642.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
+    [ "_markTarget", "da/ddb/a23642.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
 ];

@@ -1,7 +1,8 @@
 var a10318 =
 [
-    [ "flags", "dc/d20/a10318.html#a7db863994aa6692d1e2359d2c6814cd2", null ],
-    [ "groupId", "dc/d20/a10318.html#ac7efc48c61e715027a8d651fda543ada", null ],
-    [ "mapId", "dc/d20/a10318.html#ad53e068ead632ca66fbebe81e783fc52", null ],
-    [ "name", "dc/d20/a10318.html#a55368217a847f946def13b2123b22ed3", null ]
+    [ "BoundaryIntersectBoundary", "dc/d20/a10318.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
+    [ "~BoundaryIntersectBoundary", "dc/d20/a10318.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
+    [ "IsWithinBoundaryArea", "dc/d20/a10318.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
+    [ "_b1", "dc/d20/a10318.html#ab0239437fa92e39d144bf3856eb347c7", null ],
+    [ "_b2", "dc/d20/a10318.html#a41e100c17db99990981293399660824c", null ]
 ];

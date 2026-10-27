@@ -1,8 +1,9 @@
 var a24614 =
 [
-    [ "HandleEffectApply", "d5/da0/a24614.html#a8134145c22b99c7b75537091c386bcd1", null ],
-    [ "HandleEffectRemove", "d5/da0/a24614.html#a5d24ca41dcc75a11077da691abd902e0", null ],
-    [ "PrepareAuraScript", "d5/da0/a24614.html#ae5f1b77a6aed21faf3ad9c168a8fcaa2", null ],
-    [ "Register", "d5/da0/a24614.html#acff27aac4af2b0a0530348371fcb55b2", null ],
-    [ "Validate", "d5/da0/a24614.html#af656fbf06181436bbb020282160c1293", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d5/da0/a24614.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d5/da0/a24614.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d5/da0/a24614.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d5/da0/a24614.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d5/da0/a24614.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d5/da0/a24614.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

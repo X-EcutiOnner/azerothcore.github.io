@@ -1,7 +1,6 @@
 var a18126 =
 [
-    [ "HandleDummy", "d5/dff/a18126.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "d5/dff/a18126.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "d5/dff/a18126.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "d5/dff/a18126.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "npc_igb_ship_crewAI", "d6/d9a/a18130.html", "d6/d9a/a18130" ],
+    [ "npc_igb_ship_crew", "d5/dff/a18126.html#a5f4380aba94766a6a75b97026998b881", null ],
+    [ "GetAI", "d5/dff/a18126.html#a48955817e21a01a726b50685b467c229", null ]
 ];

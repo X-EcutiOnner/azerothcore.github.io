@@ -1,6 +1,5 @@
 var a11902 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "dd/d8e/a11902.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "dd/d8e/a11902.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "dd/d8e/a11902.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "SocketAdded", "dd/d8e/a11902.html#a01090d6713f49dc026f77f8481b492cb", null ],
+    [ "SocketRemoved", "dd/d8e/a11902.html#a4a978f9304e4aeabfb9ce1998b8a27cc", null ]
 ];

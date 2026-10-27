@@ -1,6 +1,6 @@
 var a22982 =
 [
-    [ "PrepareSpellScript", "d8/dfd/a22982.html#ad786920d6180b8e2829f3a56ec50c488", null ],
-    [ "Register", "d8/dfd/a22982.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
-    [ "SetDest", "d8/dfd/a22982.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
+    [ "HandleScriptEffect", "d8/dfd/a22982.html#aa60961c2609184e739dea3be8ba992d5", null ],
+    [ "PrepareSpellScript", "d8/dfd/a22982.html#aacde592314399112786b024153389024", null ],
+    [ "Register", "d8/dfd/a22982.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
 ];

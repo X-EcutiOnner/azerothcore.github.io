@@ -1,6 +1,5 @@
 var a23690 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "d0/d2d/a23694.html", "d0/d2d/a23694" ],
-    [ "instance_shattered_halls", "d8/dd6/a23690.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "d8/dd6/a23690.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "npc_invisible_tractor_beam_source", "d8/dd6/a23690.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "d8/dd6/a23690.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

@@ -1,6 +1,6 @@
 var a21786 =
 [
-    [ "CheckCast", "db/d2e/a21786.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "db/d2e/a21786.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "db/d2e/a21786.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d7/dcb/a21790.html", "d7/dcb/a21790" ],
+    [ "npc_valiance_keep_cannoneer", "db/d2e/a21786.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "db/d2e/a21786.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

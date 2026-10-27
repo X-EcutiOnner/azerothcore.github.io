@@ -1,5 +1,6 @@
 var a15670 =
 [
-    [ "at_cthun_center", "d0/de6/a15670.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "d0/de6/a15670.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "go_ossirian_crystalAI", "d2/d2f/a15674.html", "d2/d2f/a15674" ],
+    [ "go_ossirian_crystal", "d0/de6/a15670.html#a783f0f0570ee0f667920e29613b565b2", null ],
+    [ "GetAI", "d0/de6/a15670.html#a2f7b12eddc6504917614913e347ec0a0", null ]
 ];

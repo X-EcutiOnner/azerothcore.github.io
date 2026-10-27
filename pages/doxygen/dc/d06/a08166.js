@@ -1,11 +1,7 @@
 var a08166 =
 [
-    [ "EnchantId", "dc/d06/a08166.html#ad68d4f09195ba9c2a74bc9187e1cc1dd", null ],
-    [ "GemEnchantId", "dc/d06/a08166.html#a680481a1dcc0a163cabeb02e426d89cd", null ],
-    [ "IsBuggedInspectLink", "dc/d06/a08166.html#a1db96c31b140774302c633e99bcea93f", null ],
-    [ "Item", "dc/d06/a08166.html#a89b08bf0a3fb31ef6c0f71919b05195e", null ],
-    [ "RandomProperty", "dc/d06/a08166.html#a07871677ea967da347a6debafa7c91e7", null ],
-    [ "RandomSuffix", "dc/d06/a08166.html#a39126c77bdd1d3d850a20cf02bb034ae", null ],
-    [ "RandomSuffixBaseAmount", "dc/d06/a08166.html#aa9a99d071ee623b0df6f456199e1262a", null ],
-    [ "RenderLevel", "dc/d06/a08166.html#acb1024455a3b847ea13390c05b79cd0c", null ]
+    [ "value_type", "dc/d06/a08166.html#a7a7bb2f2de595ea6ca37885da6f63b9f", null ],
+    [ "TryConsume", "dc/d06/a08166.html#ad98dd12bf2b9d4c5a3812d91232c4b8e", null ],
+    [ "_storage", "dc/d06/a08166.html#a0480bb23bf5c47ac03935901211952b5", null ],
+    [ "_string", "dc/d06/a08166.html#ae0538263243f423c8f86459300aec8d7", null ]
 ];

@@ -1,5 +1,7 @@
 var a17118 =
 [
-    [ "boss_fjolaAI", "d0/d5a/a17118.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "d0/d5a/a17118.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "npc_toc_retro_paladinAI", "d0/d5a/a17118.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "d0/d5a/a17118.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "d0/d5a/a17118.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "d0/d5a/a17118.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

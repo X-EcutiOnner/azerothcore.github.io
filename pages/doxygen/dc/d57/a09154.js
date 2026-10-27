@@ -1,8 +1,18 @@
 var a09154 =
 [
-    [ "AttackPosition", "dc/d57/a09154.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
-    [ "operator=", "dc/d57/a09154.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
-    [ "operator==", "dc/d57/a09154.html#a320adced006c0f70456492c9e9dc99c2", null ],
-    [ "_pos", "dc/d57/a09154.html#a77783e0e6e83836ad6e5903535ad9370", null ],
-    [ "_taken", "dc/d57/a09154.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
+    [ "PlayerSocialMap", "dc/d57/a09154.html#abfb2167fc86ea41b8cf66eebdaa95ceb", null ],
+    [ "PlayerSocial", "dc/d57/a09154.html#ad505f01fad548b70cf070a86dce40278", null ],
+    [ "_checkContact", "dc/d57/a09154.html#a1c94f00cd1955a8c93dea5d4e67f166a", null ],
+    [ "AddToSocialList", "dc/d57/a09154.html#af7bf3dd0cddc41715d5122829aa5f281", null ],
+    [ "GetNumberOfSocialsWithFlag", "dc/d57/a09154.html#ad4b6d7563aa448307c71fd01d0b748c3", null ],
+    [ "GetPlayerGUID", "dc/d57/a09154.html#a253736ece6f1b1ec6617929ca92d2e77", null ],
+    [ "HasFriend", "dc/d57/a09154.html#a8c5e3e13b6e912de5048c6a1d6e4003a", null ],
+    [ "HasIgnore", "dc/d57/a09154.html#afdda7de77a9c5b48730b9b7fca36b080", null ],
+    [ "RemoveFromSocialList", "dc/d57/a09154.html#a422b92edba3d2b3a7eaa5749dbceea4f", null ],
+    [ "SendSocialList", "dc/d57/a09154.html#aa31ca078f363c5d5f6cfabcc4126fa9b", null ],
+    [ "SetFriendNote", "dc/d57/a09154.html#ace28c99a43b6c9645550d0c30f8184df", null ],
+    [ "SetPlayerGUID", "dc/d57/a09154.html#a1206fafb9f3ea29ee954e4f7684e0051", null ],
+    [ "SocialMgr", "dc/d57/a09154.html#ac90a13e772eca1f96d98f76cfc8bf396", null ],
+    [ "m_playerGUID", "dc/d57/a09154.html#accf6a40286cca75dd9d5eed8cc3c6790", null ],
+    [ "m_playerSocialMap", "dc/d57/a09154.html#a608444605a276e67a868b7ceac94a954", null ]
 ];

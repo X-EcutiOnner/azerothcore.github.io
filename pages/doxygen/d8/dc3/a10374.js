@@ -1,10 +1,19 @@
 var a10374 =
 [
-    [ "CreateWorldPacket", "d8/dc3/a10374.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
-    [ "GetMotd", "d8/dc3/a10374.html#ab589dd8bfad950e02ee716ea9005253f", null ],
-    [ "GetMotdPacket", "d8/dc3/a10374.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
-    [ "instance", "d8/dc3/a10374.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
-    [ "LoadMotd", "d8/dc3/a10374.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
-    [ "LoadMotdLocale", "d8/dc3/a10374.html#a21aa89787d5b0bbf69158f799122edd5", null ],
-    [ "SetMotd", "d8/dc3/a10374.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
+    [ "InstancedMaps", "d8/dc3/a10374.html#a2d08c599bf826c4c98aaa9109e3b7a57", null ],
+    [ "MapInstanced", "d8/dc3/a10374.html#af30e91e40c171ddbf7400f310283c43c", null ],
+    [ "~MapInstanced", "d8/dc3/a10374.html#aa27d6f90288f23d34117c7d68160e04c", null ],
+    [ "CannotEnter", "d8/dc3/a10374.html#a29f973e3e4bdfcfb0ea9bf6639b38108", null ],
+    [ "CreateBattleground", "d8/dc3/a10374.html#ad57ef8f1654b494b8c20f6af461653f4", null ],
+    [ "CreateInstance", "d8/dc3/a10374.html#a6d04039bbbde5717e50606d48c3ea954", null ],
+    [ "CreateInstanceForPlayer", "d8/dc3/a10374.html#a9151fb7f7438abddf7aa17d015c600ab", null ],
+    [ "DelayedUpdate", "d8/dc3/a10374.html#a8f58a4c872089f8fce60ddc31623611e", null ],
+    [ "DestroyInstance", "d8/dc3/a10374.html#aaff2d76ae18bb7416e0cc8c16e0375d7", null ],
+    [ "FindInstanceMap", "d8/dc3/a10374.html#a6ec8d0547ce589613f53a2c8d0f4a7fa", null ],
+    [ "GetInstancedMaps", "d8/dc3/a10374.html#aff2cc0a1f57f06ead9a3e999c1c7dba0", null ],
+    [ "InitVisibilityDistance", "d8/dc3/a10374.html#a29380bc11b3e33278338bcff32b3cbec", null ],
+    [ "UnloadAll", "d8/dc3/a10374.html#a7fb86dd2f4b60721aabf3923c461f1fc", null ],
+    [ "Update", "d8/dc3/a10374.html#a0fce5af3a96e35e9cbe44d73bac8b2df", null ],
+    [ "MapMgr", "d8/dc3/a10374.html#ae6ac74470769d45e3c75291134ab77df", null ],
+    [ "m_InstancedMaps", "d8/dc3/a10374.html#a655e624aad00ec0345aa17ce635666bf", null ]
 ];

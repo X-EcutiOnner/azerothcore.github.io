@@ -1,7 +1,7 @@
 var a22098 =
 [
-    [ "HandleDummy", "d3/d5a/a22098.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "d3/d5a/a22098.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "d3/d5a/a22098.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "d3/d5a/a22098.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "npc_emilyAI", "df/d1d/a22102.html", "df/d1d/a22102" ],
+    [ "npc_emily", "d3/d5a/a22098.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d3/d5a/a22098.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d3/d5a/a22098.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

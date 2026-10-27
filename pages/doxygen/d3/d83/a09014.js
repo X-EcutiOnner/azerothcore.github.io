@@ -1,9 +1,7 @@
 var a09014 =
 [
-    [ "EntryPointData", "d3/d83/a09014.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "d3/d83/a09014.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "d3/d83/a09014.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "d3/d83/a09014.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "d3/d83/a09014.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "d3/d83/a09014.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "IsInSpec", "d3/d83/a09014.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "d3/d83/a09014.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "d3/d83/a09014.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "d3/d83/a09014.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

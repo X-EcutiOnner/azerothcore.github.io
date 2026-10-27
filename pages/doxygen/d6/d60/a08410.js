@@ -1,7 +1,7 @@
 var a08410 =
 [
-    [ "ForcedDespawnDelayEvent", "d6/d60/a08410.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
-    [ "Execute", "d6/d60/a08410.html#a735c709b269458911bd93da1902cbe25", null ],
-    [ "m_owner", "d6/d60/a08410.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
-    [ "m_respawnTimer", "d6/d60/a08410.html#a5db78930a1fda07f2020b23158ebb93d", null ]
+    [ "RBEntryInfo", "d6/d60/a08410.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "d6/d60/a08410.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "d6/d60/a08410.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "d6/d60/a08410.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

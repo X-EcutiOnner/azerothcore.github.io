@@ -1,9 +1,7 @@
 var a28098 =
 [
-    [ "boss_lethonAI", "d4/d5d/a28098.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "d4/d5d/a28098.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "d4/d5d/a28098.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "d4/d5d/a28098.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "d4/d5d/a28098.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "d4/d5d/a28098.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "HandleEffect", "d4/d5d/a28098.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
+    [ "PrepareSpellScript", "d4/d5d/a28098.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
+    [ "Register", "d4/d5d/a28098.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
+    [ "Validate", "d4/d5d/a28098.html#ab6d78ecb650f13df3376baced8c40a63", null ]
 ];

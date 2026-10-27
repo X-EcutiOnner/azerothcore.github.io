@@ -1,14 +1,12 @@
 var a17978 =
 [
-    [ "npc_gunshipAI", "d7/d3d/a17978.html#a75444497ffd6b7365827eea57fd946f9", null ],
-    [ "DamageTaken", "d7/d3d/a17978.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
-    [ "GetData", "d7/d3d/a17978.html#a0142bec2427c1256431e55d3f74b8948", null ],
-    [ "JustDied", "d7/d3d/a17978.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
-    [ "SetGUID", "d7/d3d/a17978.html#a7f336843c54de072cf58bc87ff08b068", null ],
-    [ "UpdateAI", "d7/d3d/a17978.html#a8bab1a755c2262e9f36f295781d30909", null ],
-    [ "_died", "d7/d3d/a17978.html#af4480427460748bccae214737469ddb7", null ],
-    [ "_instance", "d7/d3d/a17978.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
-    [ "_shipVisits", "d7/d3d/a17978.html#a6f9730b746e195a99dc11357fd0387ba", null ],
-    [ "_summonedFirstMage", "d7/d3d/a17978.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
-    [ "_teamIdInInstance", "d7/d3d/a17978.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
+    [ "npc_high_overlord_saurfangAI", "d7/d3d/a17978.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "d7/d3d/a17978.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "d7/d3d/a17978.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "d7/d3d/a17978.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "d7/d3d/a17978.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "d7/d3d/a17978.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "d7/d3d/a17978.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "d7/d3d/a17978.html#ac1496627bdf326163256045bd068bc4f", null ],
+    [ "_instance", "d7/d3d/a17978.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

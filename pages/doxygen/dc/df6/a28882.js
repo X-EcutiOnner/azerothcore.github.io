@@ -1,5 +1,8 @@
 var a28882 =
 [
-    [ "id", "dc/df6/a28882.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "dc/df6/a28882.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "npc_cultist_engineer", "dc/df6/a28882.html#a02675a96d20902d147b0370fa1715d81", null ],
+    [ "JustDied", "dc/df6/a28882.html#a4b4d561f827553998caa204e0e1b9e54", null ],
+    [ "Reset", "dc/df6/a28882.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
+    [ "sGossipSelect", "dc/df6/a28882.html#ab26d124cbfdc4d649fef6058e9637845", null ],
+    [ "UpdateAI", "dc/df6/a28882.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
 ];

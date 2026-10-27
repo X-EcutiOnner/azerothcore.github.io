@@ -1,8 +1,9 @@
 var a24974 =
 [
-    [ "HandleSchoolDMG", "d4/dd3/a24974.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
-    [ "HandleScriptEffect", "d4/dd3/a24974.html#a06f9cf29387b49f3e5950661173c77eb", null ],
-    [ "PrepareSpellScript", "d4/dd3/a24974.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
-    [ "Register", "d4/dd3/a24974.html#a9bdbf7578509976d482a26869e9068aa", null ],
-    [ "Validate", "d4/dd3/a24974.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
+    [ "HandleApply", "d4/dd3/a24974.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "d4/dd3/a24974.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "d4/dd3/a24974.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "d4/dd3/a24974.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "d4/dd3/a24974.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "d4/dd3/a24974.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

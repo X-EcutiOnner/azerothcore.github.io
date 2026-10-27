@@ -1,9 +1,11 @@
 var a26934 =
 [
-    [ "CheckProcDummy", "d1/dca/a26934.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
-    [ "CheckProcTriggerSpell", "d1/dca/a26934.html#affbff48ab9421bda51b3a5781188546d", null ],
-    [ "HandleProcDummy", "d1/dca/a26934.html#a0113a45bd4c28d1769df7b675de697ed", null ],
-    [ "PrepareAuraScript", "d1/dca/a26934.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
-    [ "Register", "d1/dca/a26934.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
-    [ "Validate", "d1/dca/a26934.html#a63844728796945e892985720296d0c07", null ]
+    [ "CheckCast", "d1/dca/a26934.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleMaxHealthHeal", "d1/dca/a26934.html#a019833641487ac07cb2c8740d5686a41", null ],
+    [ "HandleScript", "d1/dca/a26934.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "d1/dca/a26934.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "d1/dca/a26934.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "d1/dca/a26934.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "d1/dca/a26934.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "d1/dca/a26934.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

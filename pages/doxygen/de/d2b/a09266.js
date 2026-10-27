@@ -1,8 +1,7 @@
 var a09266 =
 [
-    [ "TempSummonGroupKey", "de/d2b/a09266.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
-    [ "operator<", "de/d2b/a09266.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
-    [ "_summonerEntry", "de/d2b/a09266.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
-    [ "_summonerType", "de/d2b/a09266.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
-    [ "_summonGroup", "de/d2b/a09266.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
+    [ "HealthOrderPred", "de/d2b/a09266.html#ac5d0408da69ecd6415c6f4eae61d11d8", null ],
+    [ "operator()", "de/d2b/a09266.html#acb5867bddd0e5107139d52ff99817f5c", null ],
+    [ "operator()", "de/d2b/a09266.html#ad9cae47d98b31687958cfca56b29c213", null ],
+    [ "_ascending", "de/d2b/a09266.html#a93e2e41a9849d6c2ecfffcaffa74acee", null ]
 ];

@@ -1,7 +1,7 @@
 var a25370 =
 [
-    [ "PrepareSpellScript", "d3/d41/a25370.html#a65d5717a25e371e09c44148c679dd390", null ],
-    [ "Register", "d3/d41/a25370.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
-    [ "RemoveInvalidTargets", "d3/d41/a25370.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
-    [ "Validate", "d3/d41/a25370.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
+    [ "HandleScript", "d3/d41/a25370.html#af386e49e9020328f123c4da7d82d4b0c", null ],
+    [ "PrepareSpellScript", "d3/d41/a25370.html#a5e4618514d33bbc18fcc26c83279e430", null ],
+    [ "Register", "d3/d41/a25370.html#a3560275f387f7b0de34f9d1c255241fe", null ],
+    [ "Validate", "d3/d41/a25370.html#a108e58cb90719b572f3578f0d44d0627", null ]
 ];

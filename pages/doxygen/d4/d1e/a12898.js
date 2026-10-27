@@ -1,6 +1,11 @@
 var a12898 =
 [
-    [ "FilterTargets", "d4/d1e/a12898.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "d4/d1e/a12898.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "d4/d1e/a12898.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "boss_gyth", "d4/d1e/a12898.html#a18fea0e0fb6c734b818bb8989b1e66c9", null ],
+    [ "EnterEvadeMode", "d4/d1e/a12898.html#a172ea902e3bd162bf8fe8b23e7b9dcfa", null ],
+    [ "IsSummonedBy", "d4/d1e/a12898.html#ad7c64e772a8959ad0e58fc13512e0088", null ],
+    [ "JustDied", "d4/d1e/a12898.html#a305bf5c4913f429b44592e4a7e99b8ae", null ],
+    [ "JustEngagedWith", "d4/d1e/a12898.html#a16de6cf7e2925fd49df6a412c6df9533", null ],
+    [ "JustSummoned", "d4/d1e/a12898.html#aab0152a90a341839279cb6d0e7e19eb6", null ],
+    [ "Reset", "d4/d1e/a12898.html#aef0345d29833b13045b374a219335018", null ],
+    [ "UpdateAI", "d4/d1e/a12898.html#a8829ad229ee09aea55f9603058d095e8", null ]
 ];

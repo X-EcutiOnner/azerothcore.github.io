@@ -1,10 +1,12 @@
 var a29806 =
 [
-    [ "SetUp", "da/d48/a29806.html#a59657ac0b1eef5636d297ef3fd72f81e", null ],
-    [ "TearDown", "da/d48/a29806.html#a3e60f8d66a4d2ade8a844cd273079799", null ],
-    [ "_creatureA", "da/d48/a29806.html#a9b8fd602bcafd1e7da74d84ff650bb8d", null ],
-    [ "_creatureB", "da/d48/a29806.html#a013f2803435327693032f6bf23728219", null ],
-    [ "_map", "da/d48/a29806.html#aff1204f57b91638d6f2513bfec515b88", null ],
-    [ "_previousWorld", "da/d48/a29806.html#a4f5f721748aaae7fc00172049fe75639", null ],
-    [ "_worldMock", "da/d48/a29806.html#a3f59d709f3f43cb7b7a86b4370350982", null ]
+    [ "HealInfoStubBuilder", "da/d48/a29806.html#a57945de96ad065451cadb47edba287c8", null ],
+    [ "Build", "da/d48/a29806.html#a291565d223df00ce9d09c0315e803448", null ],
+    [ "WithAbsorb", "da/d48/a29806.html#aa09160afe48114a7a3566be328f64658", null ],
+    [ "WithEffectiveHeal", "da/d48/a29806.html#a34a359322b018cffc5f54ca999c11b11", null ],
+    [ "WithHeal", "da/d48/a29806.html#a812e06b07eeb18c1d379409b77a80b89", null ],
+    [ "WithHitMask", "da/d48/a29806.html#ab788ddcc209140ed3c10b02785471dcb", null ],
+    [ "WithOverheal", "da/d48/a29806.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
+    [ "WithSpellInfo", "da/d48/a29806.html#a4dc784241fbe998437cceb953fb83e1f", null ],
+    [ "_stub", "da/d48/a29806.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
 ];

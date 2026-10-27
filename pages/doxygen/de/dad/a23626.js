@@ -1,5 +1,8 @@
 var a23626 =
 [
-    [ "go_manticron_cube", "de/dad/a23626.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "de/dad/a23626.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "boss_hungarfen", "de/dad/a23626.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "de/dad/a23626.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "de/dad/a23626.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "de/dad/a23626.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "de/dad/a23626.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

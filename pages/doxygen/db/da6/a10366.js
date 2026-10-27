@@ -1,6 +1,8 @@
 var a10366 =
 [
-    [ "IsNeutralOrFriendlyToTeam", "db/da6/a10366.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
-    [ "safeLocId", "db/da6/a10366.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
-    [ "teamId", "db/da6/a10366.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
+    [ "GetNavMesh", "db/da6/a10366.html#a81e3e8249f22accbd06f9e80aa3fccf9", null ],
+    [ "GetNavMeshQuery", "db/da6/a10366.html#af524ac62385fdd4d4c6a4f01afafbb49", null ],
+    [ "MapCollisionData", "db/da6/a10366.html#a472038a89678719bf8868ab0c75e394f", null ],
+    [ "_navMesh", "db/da6/a10366.html#ae41a024489dbe5d11ba6dceed6b7442f", null ],
+    [ "_navMeshQuery", "db/da6/a10366.html#a237375e56702f7e83c9e13e1f959cfdb", null ]
 ];

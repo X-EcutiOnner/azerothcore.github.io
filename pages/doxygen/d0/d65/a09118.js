@@ -1,8 +1,10 @@
 var a09118 =
 [
-    [ "CleanDamage", "d0/d65/a09118.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "d0/d65/a09118.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "d0/d65/a09118.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "d0/d65/a09118.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "d0/d65/a09118.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "TradeStatusInfo", "d0/d65/a09118.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
+    [ "IsTargetResult", "d0/d65/a09118.html#a10427d72e5bafd643648638a1fe7e854", null ],
+    [ "ItemLimitedByLimitCategory", "d0/d65/a09118.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
+    [ "Result", "d0/d65/a09118.html#ac90552353a0fb8ff175fec99bf573981", null ],
+    [ "Slot", "d0/d65/a09118.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
+    [ "Status", "d0/d65/a09118.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
+    [ "TraderGuid", "d0/d65/a09118.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
 ];

@@ -1,6 +1,7 @@
 var a15622 =
 [
-    [ "HandleScriptEffect", "d2/dde/a15622.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
-    [ "PrepareSpellScript", "d2/dde/a15622.html#aa109d61baba87acf5bce5d44bff55214", null ],
-    [ "Register", "d2/dde/a15622.html#ac8412777c84abfe56262d6d83163e9a1", null ]
+    [ "HandleScript", "d2/dde/a15622.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "d2/dde/a15622.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "d2/dde/a15622.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "d2/dde/a15622.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

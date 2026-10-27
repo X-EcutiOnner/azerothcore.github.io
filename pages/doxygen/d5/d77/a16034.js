@@ -1,6 +1,9 @@
 var a16034 =
 [
-    [ "npc_giant_spotlightAI", "d5/db0/a16038.html", "d5/db0/a16038" ],
-    [ "npc_giant_spotlight", "d5/d77/a16034.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
-    [ "GetAI", "d5/d77/a16034.html#af002a3d0194c991c1f78c720de63cfea", null ]
+    [ "npc_prospector_remtravelAI", "d5/d77/a16034.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d5/d77/a16034.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d5/d77/a16034.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d5/d77/a16034.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d5/d77/a16034.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ],
+    [ "WaypointReached", "d5/d77/a16034.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

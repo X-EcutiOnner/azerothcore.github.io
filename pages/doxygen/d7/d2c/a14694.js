@@ -1,6 +1,6 @@
 var a14694 =
 [
-    [ "npc_brewfest_bark_trigger", "d7/d2c/a14694.html#a110d654792e1f5dae8b17f014ea3d425", null ],
-    [ "GetTextFor", "d7/d2c/a14694.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
-    [ "MoveInLineOfSight", "d7/d2c/a14694.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
+    [ "boss_mandokirAI", "df/d7b/a14698.html", "df/d7b/a14698" ],
+    [ "boss_mandokir", "d7/d2c/a14694.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "d7/d2c/a14694.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

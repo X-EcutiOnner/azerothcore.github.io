@@ -1,7 +1,7 @@
 var a25394 =
 [
-    [ "EjectPassenger", "db/df0/a25394.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "db/df0/a25394.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "db/df0/a25394.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "db/df0/a25394.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "HandleEffectApply", "db/df0/a25394.html#a65ad32ded4246c3469f15b6ab167830e", null ],
+    [ "HandleEffectRemove", "db/df0/a25394.html#a8aab4a5dab173bd0296843a0c2991142", null ],
+    [ "PrepareAuraScript", "db/df0/a25394.html#a4925868cc5b61b7f35d59fdb27af27b6", null ],
+    [ "Register", "db/df0/a25394.html#a0635d5e34bfc62df1ec006b7818bffb2", null ]
 ];

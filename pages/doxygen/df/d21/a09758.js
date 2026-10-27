@@ -1,8 +1,9 @@
 var a09758 =
 [
-    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "df/d21/a09758.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
-    [ "operator()", "df/d21/a09758.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
-    [ "i_funit", "df/d21/a09758.html#ace766830b26d8aae3ec673d2102a9969", null ],
-    [ "i_obj", "df/d21/a09758.html#ae12f4176e49438cfa248345cfe7c9947", null ],
-    [ "i_range", "df/d21/a09758.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
+    [ "UnitListSearcher", "df/d21/a09758.html#a24c0de32dc3baa927962626421a343ae", null ],
+    [ "Visit", "df/d21/a09758.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
+    [ "Visit", "df/d21/a09758.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
+    [ "Visit", "df/d21/a09758.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
+    [ "i_check", "df/d21/a09758.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
+    [ "i_phaseMask", "df/d21/a09758.html#a43c863350bea423cf4a720c4c680fd4c", null ]
 ];

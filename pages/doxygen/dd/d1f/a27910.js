@@ -1,6 +1,6 @@
 var a27910 =
 [
-    [ "HandleEffectCalcSpellMod", "dd/d1f/a27910.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
-    [ "PrepareAuraScript", "dd/d1f/a27910.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
-    [ "Register", "dd/d1f/a27910.html#af60592a9f1e595f31814eae405d03d5a", null ]
+    [ "HandleScriptEffect", "dd/d1f/a27910.html#a3f8988017d088d08df08ba8b696b552b", null ],
+    [ "PrepareSpellScript", "dd/d1f/a27910.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
+    [ "Register", "dd/d1f/a27910.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
 ];

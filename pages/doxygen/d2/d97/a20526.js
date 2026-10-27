@@ -1,5 +1,6 @@
 var a20526 =
 [
-    [ "achievement_getting_cold_in_here", "d2/d97/a20526.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "d2/d97/a20526.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "HandleScript", "d2/d97/a20526.html#a269167ff78ae3110193f7cfe4b4c0ef4", null ],
+    [ "PrepareSpellScript", "d2/d97/a20526.html#a79975a7f3e523c0feb87d3e084f98808", null ],
+    [ "Register", "d2/d97/a20526.html#aec017333dfc19701472dad3987538e69", null ]
 ];

@@ -1,7 +1,8 @@
 var a09834 =
 [
-    [ "AnyPlayerExactPositionInGameObjectRangeCheck", "d8/df9/a09834.html#a51100c20d5b7f795f062dfaa5aa65017", null ],
-    [ "operator()", "d8/df9/a09834.html#a0dd7216a026b7f90b293b2adf20a0191", null ],
-    [ "_go", "d8/df9/a09834.html#a70e0b15948cf34a7c759885949560dcd", null ],
-    [ "_range", "d8/df9/a09834.html#ad91342e50833e3b9d75c5e548248941f", null ]
+    [ "MostHPMissingInRange", "d8/df9/a09834.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
+    [ "operator()", "d8/df9/a09834.html#a420388204d8a1420552b902fbcb2bebe", null ],
+    [ "i_hp", "d8/df9/a09834.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
+    [ "i_obj", "d8/df9/a09834.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
+    [ "i_range", "d8/df9/a09834.html#acef63da9004997c7f25056651284efa9", null ]
 ];

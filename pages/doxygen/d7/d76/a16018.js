@@ -1,6 +1,10 @@
 var a16018 =
 [
-    [ "npc_clintar_spiritAI", "d4/d85/a16022.html", "d4/d85/a16022" ],
-    [ "npc_clintar_spirit", "d7/d76/a16018.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "d7/d76/a16018.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "npc_murkdeepAI", "d7/d76/a16018.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "d7/d76/a16018.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "d7/d76/a16018.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "d7/d76/a16018.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "d7/d76/a16018.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "d7/d76/a16018.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "d7/d76/a16018.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

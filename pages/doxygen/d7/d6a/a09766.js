@@ -1,7 +1,9 @@
 var a09766 =
 [
-    [ "AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck", "d7/d6a/a09766.html#a038f512c564e4ae18571ac1836897edb", null ],
-    [ "operator()", "d7/d6a/a09766.html#a3bc09bf6fc4481c67190f57dc4198f6e", null ],
-    [ "i_funit", "d7/d6a/a09766.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6", null ],
-    [ "i_range", "d7/d6a/a09766.html#a953943e53e25b6887bfab8cc1c19620a", null ]
+    [ "CreatureLastSearcher", "d7/d6a/a09766.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
+    [ "Visit", "d7/d6a/a09766.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
+    [ "Visit", "d7/d6a/a09766.html#a08635cefbba5dca34734569816d2edb8", null ],
+    [ "i_check", "d7/d6a/a09766.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
+    [ "i_object", "d7/d6a/a09766.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
+    [ "i_phaseMask", "d7/d6a/a09766.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
 ];

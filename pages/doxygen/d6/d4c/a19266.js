@@ -1,6 +1,8 @@
 var a19266 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "da/da3/a19270.html", "da/da3/a19270" ],
-    [ "npc_icc_skybreaker_marksman", "d6/d4c/a19266.html#a1d870b78e1acf2d17782265e28698d1c", null ],
-    [ "GetAI", "d6/d4c/a19266.html#a374017d37da15705d51ab8edc75683ff", null ]
+    [ "npc_vampiric_fiend", "d6/d4c/a19266.html#a4ddef98ac3b9d166980243b0dbe821f7", null ],
+    [ "EnterEvadeMode", "d6/d4c/a19266.html#ac9f90234d1f100c671f70b249a339314", null ],
+    [ "JustEngagedWith", "d6/d4c/a19266.html#a6167d1529b88c3b85cf21547b89bbc98", null ],
+    [ "UpdateAI", "d6/d4c/a19266.html#aba3a8c1bfaa1f841f820e9540bc2267a", null ],
+    [ "_scheduler", "d6/d4c/a19266.html#a8978bf1ffc6009b29c738ebe3232887f", null ]
 ];

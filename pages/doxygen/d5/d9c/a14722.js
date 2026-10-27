@@ -1,7 +1,6 @@
 var a14722 =
 [
-    [ "FilterTargets", "d5/d9c/a14722.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
-    [ "HandleDummyEffect", "d5/d9c/a14722.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
-    [ "PrepareSpellScript", "d5/d9c/a14722.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
-    [ "Register", "d5/d9c/a14722.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
+    [ "LaunchHit", "d5/d9c/a14722.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
+    [ "PrepareSpellScript", "d5/d9c/a14722.html#a4ad316b68d84921255577aedabb5ad3f", null ],
+    [ "Register", "d5/d9c/a14722.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
 ];

@@ -1,10 +1,7 @@
 var a17046 =
 [
-    [ "npc_mistress_of_painAI", "d8/d97/a17046.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "d8/d97/a17046.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "d8/d97/a17046.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "d8/d97/a17046.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "d8/d97/a17046.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "d8/d97/a17046.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "d8/d97/a17046.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "npc_toc_shadow_priestAI", "d8/d97/a17046.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "d8/d97/a17046.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "d8/d97/a17046.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "d8/d97/a17046.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

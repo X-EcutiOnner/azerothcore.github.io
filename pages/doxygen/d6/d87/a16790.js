@@ -1,6 +1,7 @@
 var a16790 =
 [
-    [ "HandleSpellHit", "d6/d87/a16790.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "d6/d87/a16790.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "d6/d87/a16790.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "HandleDummy", "d6/d87/a16790.html#a96b430cb0546fb599da22cd675660187", null ],
+    [ "PrepareSpellScript", "d6/d87/a16790.html#ad0330cb78a330f05c18f33375f231fbc", null ],
+    [ "Register", "d6/d87/a16790.html#a70a36683a235dec6044a8a32f20c606c", null ],
+    [ "Validate", "d6/d87/a16790.html#affa7ccf869e98eacd3a153cc645d704e", null ]
 ];

@@ -1,6 +1,6 @@
 var a04460 =
 [
-    [ "SpellProcDisableEffectsTest", "d3/d04/a30181.html", "d3/d04/a30181" ],
+    [ "SpellProcDisableEffectsTest", "d7/d06/a30218.html", "d7/d06/a30218" ],
     [ "TEST_F", "d0/ddf/a04460.html#a83593ff4e5f0d4bbf17f3d89a11ad41b", null ],
     [ "TEST_F", "d0/ddf/a04460.html#ada6aa7946b5b1650643d1101a7b0a6a1", null ],
     [ "TEST_F", "d0/ddf/a04460.html#a209cf89313651785788473e379b84a84", null ],

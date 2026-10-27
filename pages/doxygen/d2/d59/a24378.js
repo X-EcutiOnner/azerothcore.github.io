@@ -1,8 +1,10 @@
 var a24378 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "d2/d59/a24378.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "d2/d59/a24378.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "d2/d59/a24378.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "d2/d59/a24378.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "d2/d59/a24378.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "npc_infernal_attackerAI", "d2/d59/a24378.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "d2/d59/a24378.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "d2/d59/a24378.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "d2/d59/a24378.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "d2/d59/a24378.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "d2/d59/a24378.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "d2/d59/a24378.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

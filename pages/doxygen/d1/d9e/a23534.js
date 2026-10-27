@@ -1,5 +1,7 @@
 var a23534 =
 [
-    [ "go_broggok_lever", "d1/d9e/a23534.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "d1/d9e/a23534.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "PeriodicTick", "d1/d9e/a23534.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "d1/d9e/a23534.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "d1/d9e/a23534.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "d1/d9e/a23534.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

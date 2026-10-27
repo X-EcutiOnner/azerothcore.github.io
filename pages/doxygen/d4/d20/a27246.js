@@ -1,6 +1,6 @@
 var a27246 =
 [
-    [ "HandleScript", "d4/d20/a27246.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
-    [ "PrepareSpellScript", "d4/d20/a27246.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
-    [ "Register", "d4/d20/a27246.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
+    [ "HandleScriptEffect", "d4/d20/a27246.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
+    [ "PrepareSpellScript", "d4/d20/a27246.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
+    [ "Register", "d4/d20/a27246.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
 ];

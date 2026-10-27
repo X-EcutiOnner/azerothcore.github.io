@@ -1,7 +1,10 @@
 var a12278 =
 [
-    [ "CompressedData", "d0/d48/a12278.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
-    [ "CompressedSize", "d0/d48/a12278.html#ab57879b41c825623a989db13a53f2f4e", null ],
-    [ "Id", "d0/d48/a12278.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
-    [ "Key", "d0/d48/a12278.html#ad100540b5c6722a19c938b134a985aed", null ]
+    [ "AcoreStringChatBuilder", "d0/d48/a12278.html#a7e280083c80fd119d365649fd4578fc9", null ],
+    [ "operator()", "d0/d48/a12278.html#a09a2a03dca2b8470cd1d1f7c8273868b", null ],
+    [ "_args", "d0/d48/a12278.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc", null ],
+    [ "_msgType", "d0/d48/a12278.html#adbabf871f33692b0ecddc8cc0fb75586", null ],
+    [ "_source", "d0/d48/a12278.html#ac5222737ea1b95b6d75afc532838f8be", null ],
+    [ "_target", "d0/d48/a12278.html#ab659b7c7bd6426a023cf8668322327b8", null ],
+    [ "_textId", "d0/d48/a12278.html#a3d29de9c5d80c3df488aa01fa380a84a", null ]
 ];

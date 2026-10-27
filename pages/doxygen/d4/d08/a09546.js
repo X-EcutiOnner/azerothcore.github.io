@@ -1,12 +1,13 @@
 var a09546 =
 [
-    [ "FloatHeightData", "db/dba/a09558.html", "db/dba/a09558" ],
-    [ "Uint16HeightData", "d1/dbc/a09550.html", "d1/dbc/a09550" ],
-    [ "Uint8HeightData", "d3/dad/a09554.html", "d3/dad/a09554" ],
-    [ "HeightPlanesType", "d4/d08/a09546.html#ab64c3cfcd01805f43ec4ef41fb3bc48d", null ],
-    [ "floatHeightData", "d4/d08/a09546.html#abd47b99dfa1f23b0741b66cfd4837eaa", null ],
-    [ "gridHeight", "d4/d08/a09546.html#a1f989ab0921de350dc2410129028201f", null ],
-    [ "minHeightPlanes", "d4/d08/a09546.html#aa04f68f079e1f488cf69acd24dcd7899", null ],
-    [ "uint16HeightData", "d4/d08/a09546.html#aec022a29ba14a18fdd33e8f65e1cd977", null ],
-    [ "uint8HeightData", "d4/d08/a09546.html#a60a4a267b4164347e9f3ead6b5abfe14", null ]
+    [ "QuestPOI", "d4/d08/a09546.html#af4ce75549d1fff2042e98683119214a6", null ],
+    [ "QuestPOI", "d4/d08/a09546.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
+    [ "AreaId", "d4/d08/a09546.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
+    [ "FloorId", "d4/d08/a09546.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
+    [ "Id", "d4/d08/a09546.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
+    [ "MapId", "d4/d08/a09546.html#a851f8e6e62373d2592173534754d757b", null ],
+    [ "ObjectiveIndex", "d4/d08/a09546.html#ad80f65110beacd44e667008387e6bb70", null ],
+    [ "points", "d4/d08/a09546.html#aeb505cb061a00ecaa2acc749e391f207", null ],
+    [ "Unk3", "d4/d08/a09546.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
+    [ "Unk4", "d4/d08/a09546.html#aa8089160bb8e93ea79df96b956050b70", null ]
 ];

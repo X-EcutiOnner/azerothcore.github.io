@@ -1,10 +1,6 @@
 var a16626 =
 [
-    [ "spell_halion_combustion_consumption_aura", "db/dd6/a16626.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
-    [ "AddMarkStack", "db/dd6/a16626.html#a337776c42bd6c42ecdffb508808ed070", null ],
-    [ "OnApply", "db/dd6/a16626.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
-    [ "OnRemove", "db/dd6/a16626.html#a3959dbe8bbdf2d3953daf14072614708", null ],
-    [ "PrepareAuraScript", "db/dd6/a16626.html#a334f2211429dde989b6beb6c10a71464", null ],
-    [ "Register", "db/dd6/a16626.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
-    [ "_markSpell", "db/dd6/a16626.html#a8236d9d50f267a12216d90f8041da439", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d4/d8f/a16630.html", "d4/d8f/a16630" ],
+    [ "instance_obsidian_sanctum", "db/dd6/a16626.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "db/dd6/a16626.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

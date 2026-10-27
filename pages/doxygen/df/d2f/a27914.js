@@ -1,6 +1,6 @@
 var a27914 =
 [
-    [ "CheckProc", "df/d2f/a27914.html#a957f8837b5613a3bfd8200ded3529c54", null ],
-    [ "PrepareAuraScript", "df/d2f/a27914.html#a37950bfd846e1c2c550a108461941a26", null ],
-    [ "Register", "df/d2f/a27914.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
+    [ "HandleDummy", "df/d2f/a27914.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
+    [ "PrepareSpellScript", "df/d2f/a27914.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
+    [ "Register", "df/d2f/a27914.html#a27aece218c848064ae387491f9176099", null ]
 ];

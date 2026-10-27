@@ -1,8 +1,9 @@
 var a15790 =
 [
-    [ "npc_obsidian_eradicator", "de/da2/a15790.html#a84a6c414b3d74468143984e57f83e383", null ],
-    [ "JustEngagedWith", "de/da2/a15790.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
-    [ "Reset", "de/da2/a15790.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
-    [ "UpdateAI", "de/da2/a15790.html#a1697d83e89559f047d5bab652007bb61", null ],
-    [ "_targetGUIDs", "de/da2/a15790.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
+    [ "boss_fankriss", "de/da2/a15790.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
+    [ "JustEngagedWith", "de/da2/a15790.html#a9eaae719a271a95f64ac8076fe807c13", null ],
+    [ "Reset", "de/da2/a15790.html#af84010ee103eb81c1e269b03fc640f81", null ],
+    [ "SummonHatchlingWaves", "de/da2/a15790.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
+    [ "SummonWorms", "de/da2/a15790.html#ada23537921c3a11195450db89eb8fcfe", null ],
+    [ "summonWormSpells", "de/da2/a15790.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
 ];

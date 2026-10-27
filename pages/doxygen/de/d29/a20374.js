@@ -1,7 +1,9 @@
 var a20374 =
 [
-    [ "boss_freya_lifebinder", "de/d29/a20374.html#a1784d6e975192a7442cabb14f688737d", null ],
-    [ "Reset", "de/d29/a20374.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
-    [ "UpdateAI", "de/d29/a20374.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
-    [ "_healTimer", "de/d29/a20374.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
+    [ "npc_hodirs_fury", "de/d29/a20374.html#abda902842d76a0a5a17196a11654f5ab", null ],
+    [ "MovementInform", "de/d29/a20374.html#a4d82007c5b70edad74b461948629b9fb", null ],
+    [ "Reset", "de/d29/a20374.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
+    [ "UpdateAI", "de/d29/a20374.html#a58a8b1664bb00b930cce86e856facb8b", null ],
+    [ "_switchTargetTimer", "de/d29/a20374.html#a9736332e6f3d163f04aa12cbd6829670", null ],
+    [ "_timeToHit", "de/d29/a20374.html#a611d171dc27bd78d298040eabfc00e5f", null ]
 ];

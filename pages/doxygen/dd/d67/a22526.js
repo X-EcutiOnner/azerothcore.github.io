@@ -1,5 +1,9 @@
 var a22526 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "dd/d67/a22526.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
-    [ "GetOutdoorPvP", "dd/d67/a22526.html#aee93a8191457d7a264053809a5c082e8", null ]
+    [ "HandlePeriodic", "dd/d67/a22526.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "dd/d67/a22526.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "dd/d67/a22526.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "dd/d67/a22526.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "dd/d67/a22526.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "dd/d67/a22526.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

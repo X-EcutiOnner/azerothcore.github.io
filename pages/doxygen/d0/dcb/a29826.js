@@ -1,5 +1,7 @@
 var a29826 =
 [
-    [ "MakeTime", "d0/dcb/a29826.html#a26f7c5c9395291b98facf91b7ba9530b", null ],
-    [ "PackTwoDates", "d0/dcb/a29826.html#a62c6e33dcbd3970319b3f8a791063d15", null ]
+    [ "flatModifier", "d0/dcb/a29826.html#a781485dfaede63716eddba66971600e3", null ],
+    [ "hasSpellModOwner", "d0/dcb/a29826.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
+    [ "hasSpellProto", "d0/dcb/a29826.html#a96607da311b5774eeaa01674d32ab22e", null ],
+    [ "pctModifier", "d0/dcb/a29826.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
 ];

@@ -1,5 +1,7 @@
 var a23002 =
 [
-    [ "npc_vengeful_spirit", "d7/d5b/a23002.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
-    [ "OnCharmed", "d7/d5b/a23002.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
+    [ "HandleOnEffectApply", "d7/d5b/a23002.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "d7/d5b/a23002.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "d7/d5b/a23002.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "d7/d5b/a23002.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

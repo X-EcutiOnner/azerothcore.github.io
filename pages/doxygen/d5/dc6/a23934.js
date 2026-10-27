@@ -1,9 +1,9 @@
 var a23934 =
 [
-    [ "boss_nethermancer_sepethrea", "d5/dc6/a23934.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "d5/dc6/a23934.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "d5/dc6/a23934.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "d5/dc6/a23934.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "d5/dc6/a23934.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "d5/dc6/a23934.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "boss_dalliah_the_doomsayer", "d5/dc6/a23934.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "d5/dc6/a23934.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "d5/dc6/a23934.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "d5/dc6/a23934.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "d5/dc6/a23934.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "d5/dc6/a23934.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

@@ -1,5 +1,7 @@
 var a21562 =
 [
-    [ "npc_khunok_the_behemothAI", "d9/da4/a21562.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "d9/da4/a21562.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "HandlePeriodicDummy", "d9/da4/a21562.html#a295f37cddccc696d450a0c4380d43c29", null ],
+    [ "PrepareAuraScript", "d9/da4/a21562.html#a9453aa189ba53de3d89bbab183927cfc", null ],
+    [ "Register", "d9/da4/a21562.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
+    [ "Validate", "d9/da4/a21562.html#a475480c072aaccde7b00cf28aedff3ec", null ]
 ];

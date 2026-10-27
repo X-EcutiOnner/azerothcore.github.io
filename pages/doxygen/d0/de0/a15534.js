@@ -1,7 +1,10 @@
 var a15534 =
 [
-    [ "go_sand_trap", "d0/de0/a15534.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "d0/de0/a15534.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "d0/de0/a15534.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "d0/de0/a15534.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "CurrId", "d0/de0/a15534.html#a13ab14a7f8ef49fcbfa72b3c383c902a", null ],
+    [ "DestId", "d0/de0/a15534.html#ab29acec583ffa5055ff17c7216cab1b7", null ],
+    [ "O", "d0/de0/a15534.html#a291850314eca39626b811cdf82eadaca", null ],
+    [ "SpellId", "d0/de0/a15534.html#a98b5a11c4f105696d444222113de4607", null ],
+    [ "X", "d0/de0/a15534.html#a90b233e77c593720f434d78cae72458e", null ],
+    [ "Y", "d0/de0/a15534.html#a03176c6113b5fb3c873dc57e06c27d79", null ],
+    [ "Z", "d0/de0/a15534.html#a921c5e8c4b44edb9466cb59e94ac5441", null ]
 ];

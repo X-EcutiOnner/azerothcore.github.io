@@ -1,7 +1,5 @@
 var a17770 =
 [
-    [ "HandleDummyTick", "da/d45/a17770.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "da/d45/a17770.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "da/d45/a17770.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "da/d45/a17770.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "achievement_less_rabi", "da/d45/a17770.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
+    [ "OnCheck", "da/d45/a17770.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
 ];

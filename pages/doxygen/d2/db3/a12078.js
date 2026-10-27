@@ -1,6 +1,8 @@
 var a12078 =
 [
-    [ "EffectBase", "d2/db3/a12078.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "d2/db3/a12078.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "d2/db3/a12078.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "target_mapId", "d2/db3/a12078.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "d2/db3/a12078.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "d2/db3/a12078.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "d2/db3/a12078.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "d2/db3/a12078.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

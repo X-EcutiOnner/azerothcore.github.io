@@ -1,6 +1,10 @@
 var a05410 =
 [
-    [ "TriBoundFunc", "d3/d53/a05410.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "d3/d53/a05410.html#a29cfc8652bb5dbba5260e4faea0af2d7", null ],
-    [ "vertices", "d3/d53/a05410.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "AreaInfo", "d3/d53/a05410.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
+    [ "adtId", "d3/d53/a05410.html#a95c1c986b14dfeba867fa55e77553499", null ],
+    [ "flags", "d3/d53/a05410.html#a780bdbb606fe694941d2105e14a29d70", null ],
+    [ "ground_Z", "d3/d53/a05410.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
+    [ "groupId", "d3/d53/a05410.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
+    [ "result", "d3/d53/a05410.html#ab9e9a7658d5fb76be208835f786036b0", null ],
+    [ "rootId", "d3/d53/a05410.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
 ];

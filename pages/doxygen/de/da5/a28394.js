@@ -1,10 +1,9 @@
 var a28394 =
 [
-    [ "npc_prof_alchemy", "de/da5/a28394.html#a43ea842214fc507c34586d12df8f7fea", null ],
-    [ "HasAlchemySpell", "de/da5/a28394.html#ac9df824e0923ca86189a53ae391b43c0", null ],
-    [ "OnGossipHello", "de/da5/a28394.html#add760c538c7882e1ad8331b8ded74f5c", null ],
-    [ "OnGossipSelect", "de/da5/a28394.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
-    [ "SendActionMenu", "de/da5/a28394.html#a2d4c7337b40be323a384a9e755fc3145", null ],
-    [ "SendConfirmLearn", "de/da5/a28394.html#a548224b30494636b9ee292a533fc7b39", null ],
-    [ "SendConfirmUnlearn", "de/da5/a28394.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
+    [ "go_tadpole_cageAI", "de/da5/a28394.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "de/da5/a28394.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "de/da5/a28394.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "de/da5/a28394.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "de/da5/a28394.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "de/da5/a28394.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

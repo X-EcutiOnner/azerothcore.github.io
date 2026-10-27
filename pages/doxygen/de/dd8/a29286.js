@@ -1,5 +1,14 @@
 var a29286 =
 [
-    [ "id", "de/dd8/a29286.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "de/dd8/a29286.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "HasFlag", "de/dd8/a29286.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
+    [ "alliance", "de/dd8/a29286.html#a44c3824aef4f4724c189727f12801a5b", null ],
+    [ "CinematicSequence", "de/dd8/a29286.html#a33a01b1c26b21706d9898af246f2a0df", null ],
+    [ "expansion", "de/dd8/a29286.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
+    [ "FactionID", "de/dd8/a29286.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
+    [ "Flags", "de/dd8/a29286.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
+    [ "model_f", "de/dd8/a29286.html#a4807227fd863e247b18d29db0ea8236a", null ],
+    [ "model_m", "de/dd8/a29286.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
+    [ "name", "de/dd8/a29286.html#a4970323e45feb3f74b47420648371ab6", null ],
+    [ "RaceID", "de/dd8/a29286.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
+    [ "TeamID", "de/dd8/a29286.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
 ];

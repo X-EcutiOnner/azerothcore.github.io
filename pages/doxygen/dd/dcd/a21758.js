@@ -1,8 +1,10 @@
 var a21758 =
 [
-    [ "npc_future_youAI", "dd/dcd/a21758.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "dd/dcd/a21758.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "dd/dcd/a21758.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "dd/dcd/a21758.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "dd/dcd/a21758.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "npc_lurgglbrAI", "dd/dcd/a21758.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "dd/dcd/a21758.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "dd/dcd/a21758.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "dd/dcd/a21758.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "WaypointReached", "dd/dcd/a21758.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IntroPhase", "dd/dcd/a21758.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "dd/dcd/a21758.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

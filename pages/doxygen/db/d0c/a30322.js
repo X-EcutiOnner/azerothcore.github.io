@@ -1,11 +1,10 @@
 var a30322 =
 [
-    [ "IsAvailable", "db/d0c/a30322.html#adfebd7a162ebae8396669de031c768a6", null ],
-    [ "operator bool", "db/d0c/a30322.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
-    [ "operator*", "db/d0c/a30322.html#a24733bf06b4a91abcf4945aa5303a275", null ],
-    [ "operator->", "db/d0c/a30322.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
-    [ "SecretMgr", "db/d0c/a30322.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
-    [ "lock", "db/d0c/a30322.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
-    [ "state", "db/d0c/a30322.html#a08f93a93cdbe0a069e5a8af0dff36fac", null ],
-    [ "value", "db/d0c/a30322.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
+    [ "adt_CELLS", "d2/d5d/a30330.html", "d2/d5d/a30330" ],
+    [ "getMCNK", "db/d0c/a30322.html#a8330b7cb405146399d3d20e6952a8b40", null ],
+    [ "prepareLoadedData", "db/d0c/a30322.html#adc7346499aa51f4422c810b7e757f835", null ],
+    [ "cells", "db/d0c/a30322.html#a434ed0ca354ec27d5334cc63e5650038", null ],
+    [ "fcc", "db/d0c/a30322.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
+    [ "fcc_txt", "db/d0c/a30322.html#a514bae36851623daf76b26a9d63f1ae0", null ],
+    [ "size", "db/d0c/a30322.html#a1a40f52ea9eef3add8207da89cb71210", null ]
 ];

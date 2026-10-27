@@ -1,9 +1,10 @@
 var a09786 =
 [
-    [ "NearestAttackableUnitInObjectRangeCheck", "de/d1a/a09786.html#ae2f43e2036047622ec88de3db08ea668", null ],
-    [ "NearestAttackableUnitInObjectRangeCheck", "de/d1a/a09786.html#a8deef14a2c11f9ccd9613614124a7d8e", null ],
-    [ "operator()", "de/d1a/a09786.html#a2f966e38682e6a02a120ad90ba19f7a4", null ],
-    [ "i_funit", "de/d1a/a09786.html#a88be7342d10008fc394f21b9a5e14162", null ],
-    [ "i_obj", "de/d1a/a09786.html#a6c1c4e5b85f6f7958578afb6c6f2af98", null ],
-    [ "i_range", "de/d1a/a09786.html#a26242657d6f2eb61d6f8fcac30357381", null ]
+    [ "PlayerListSearcherWithSharedVision", "de/d1a/a09786.html#aace01efe09c3190b81651d237e2e9a8a", null ],
+    [ "Visit", "de/d1a/a09786.html#a5348d9887ebfd9c0a0016b31d3db8ffb", null ],
+    [ "Visit", "de/d1a/a09786.html#a34c24d8e219b8dbbdf27c1d36489f3fa", null ],
+    [ "Visit", "de/d1a/a09786.html#ac45ae498dc7f74426b66344d9367046a", null ],
+    [ "i_check", "de/d1a/a09786.html#a7261e79c2980cfb61686c01254d70c8b", null ],
+    [ "i_objects", "de/d1a/a09786.html#ac8e5495912121d8d3baac9d02e947815", null ],
+    [ "i_phaseMask", "de/d1a/a09786.html#a9bd8d6c842ac2f4cf1f10441216f906c", null ]
 ];

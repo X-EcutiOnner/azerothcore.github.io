@@ -1,5 +1,5 @@
 var a15730 =
 [
-    [ "at_twin_emperors", "d0/d7a/a15730.html#a343d482857fa0a45c42f593e591f7754", null ],
-    [ "_OnTrigger", "d0/d7a/a15730.html#a466ba3bbf21b33f064a056eef63291ce", null ]
+    [ "boss_vem", "d0/d7a/a15730.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
+    [ "JustEngagedWith", "d0/d7a/a15730.html#ae4b7fa599d31155bdee566b31c60b237", null ]
 ];

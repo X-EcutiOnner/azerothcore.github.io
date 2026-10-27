@@ -1,9 +1,9 @@
 var a24250 =
 [
-    [ "npc_korkron_or_wildhammer", "d7/dba/a24250.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
-    [ "IsSummonedBy", "d7/dba/a24250.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
-    [ "JustDied", "d7/dba/a24250.html#a2b216f372b3681b4c96a711568c2a93b", null ],
-    [ "MovementInform", "d7/dba/a24250.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
-    [ "Reset", "d7/dba/a24250.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
-    [ "_playerGUID", "d7/dba/a24250.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
+    [ "npc_ancestral_wolfAI", "d7/dba/a24250.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "d7/dba/a24250.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "d7/dba/a24250.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "d7/dba/a24250.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "WaypointReached", "d7/dba/a24250.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "ryga", "d7/dba/a24250.html#ac238214604720e298124b58c35d58e05", null ]
 ];

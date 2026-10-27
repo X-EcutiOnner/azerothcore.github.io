@@ -1,6 +1,7 @@
 var a14030 =
 [
-    [ "npc_rinjiAI", "d5/dee/a14034.html", "d5/dee/a14034" ],
-    [ "npc_rinji", "d0/df8/a14030.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
-    [ "GetAI", "d0/df8/a14030.html#a5457ac00ce0b195752640358b912af10", null ]
+    [ "HandleAfterCast", "d0/df8/a14030.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "d0/df8/a14030.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "d0/df8/a14030.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "d0/df8/a14030.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

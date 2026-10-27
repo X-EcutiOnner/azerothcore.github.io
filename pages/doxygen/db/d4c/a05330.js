@@ -1,11 +1,9 @@
 var a05330 =
 [
-    [ "MmapTileHeader", "db/d4c/a05330.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
-    [ "dtVersion", "db/d4c/a05330.html#a34d3ed8c617139653176454d7fa7934e", null ],
-    [ "mmapMagic", "db/d4c/a05330.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
-    [ "mmapVersion", "db/d4c/a05330.html#a5cc3cd873419fe8aeb479d3187584410", null ],
-    [ "padding", "db/d4c/a05330.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
-    [ "recastConfig", "db/d4c/a05330.html#a6552d0370a83567a4d01b4c20adff8cc", null ],
-    [ "size", "db/d4c/a05330.html#a69f3284a4a56b1108792ba56c250bf97", null ],
-    [ "usesLiquids", "db/d4c/a05330.html#aeb4e622161a4bb42cff42d37542f0254", null ]
+    [ "DynamicTreeIntersectionCallback", "db/d4c/a05330.html#a77d71c68e20f4d19059317b307c27441", null ],
+    [ "didHit", "db/d4c/a05330.html#a616d15c3cce00574d604591bc8af4140", null ],
+    [ "operator()", "db/d4c/a05330.html#a6235d0b9a1ebff77e0d16c90a9fb9b36", null ],
+    [ "_didHit", "db/d4c/a05330.html#a1805d508be79660d90f991e4453c2c9a", null ],
+    [ "_ignoreFlags", "db/d4c/a05330.html#a6559c66c8451c32078187a1c43b3a85e", null ],
+    [ "_phaseMask", "db/d4c/a05330.html#a52e7470145db9cc4c2369024fbf7bbb8", null ]
 ];

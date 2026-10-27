@@ -1,7 +1,8 @@
 var a27154 =
 [
-    [ "HandleScript", "d1/dde/a27154.html#aa00117e677af1e236962c59b688d8a98", null ],
-    [ "Load", "d1/dde/a27154.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
-    [ "PrepareSpellScript", "d1/dde/a27154.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
-    [ "Register", "d1/dde/a27154.html#a52d4828ccd5430a622a32b1279943f9b", null ]
+    [ "CheckProc", "d1/dde/a27154.html#a0c649a70d0413fd24f29d3f2a03d3b4b", null ],
+    [ "HandleProc", "d1/dde/a27154.html#ae9e9ef38c6cdf57eccbeafb9f8c5cac0", null ],
+    [ "PrepareAuraScript", "d1/dde/a27154.html#adc8f29fd41def510195365f40fd5340b", null ],
+    [ "Register", "d1/dde/a27154.html#add7ed115ee403870f46e25614fac3840", null ],
+    [ "Validate", "d1/dde/a27154.html#aa9e341cbf35a4a6c2f42f55a216241b8", null ]
 ];

@@ -1,6 +1,6 @@
 var a14718 =
 [
-    [ "HandleEffectRemove", "d6/d98/a14718.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "d6/d98/a14718.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "d6/d98/a14718.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "OnRemove", "d6/d98/a14718.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "d6/d98/a14718.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "d6/d98/a14718.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

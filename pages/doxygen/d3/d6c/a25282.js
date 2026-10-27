@@ -1,7 +1,6 @@
 var a25282 =
 [
-    [ "HandleScript", "d3/d6c/a25282.html#a8b20e2ffed94ec9438dc9b756ba76693", null ],
-    [ "PrepareSpellScript", "d3/d6c/a25282.html#a9e29ea947d5415471d991a4e1cd699ac", null ],
-    [ "Register", "d3/d6c/a25282.html#aa4bc27415893009581b317637599a85a", null ],
-    [ "Validate", "d3/d6c/a25282.html#a77ed10819633ae2bc381023da0feb31b", null ]
+    [ "OnPeriodic", "d3/d6c/a25282.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "d3/d6c/a25282.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "d3/d6c/a25282.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

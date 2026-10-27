@@ -1,5 +1,6 @@
 var a27978 =
 [
-    [ "achievement_bg_ic_mowed_down", "d3/d91/a27978.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "d3/d91/a27978.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "PrepareAuraScript", "d3/d91/a27978.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "d3/d91/a27978.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "d3/d91/a27978.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

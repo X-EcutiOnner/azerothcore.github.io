@@ -1,6 +1,8 @@
 var a28654 =
 [
-    [ "npc_necropolis_relay", "d1/de8/a28654.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "d1/de8/a28654.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "d1/de8/a28654.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "npc_nelsonAI", "db/ddc/a28658.html", "db/ddc/a28658" ],
+    [ "npc_nelson", "d1/de8/a28654.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "d1/de8/a28654.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "d1/de8/a28654.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "d1/de8/a28654.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

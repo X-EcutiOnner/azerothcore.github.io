@@ -1,7 +1,6 @@
 var a11742 =
 [
-    [ "MapSessionFilter", "d3/d44/a11742.html#ad11a700c36f8f45640402e96edc74b49", null ],
-    [ "~MapSessionFilter", "d3/d44/a11742.html#a82960e741c8f64d24a764a915f14e2b8", null ],
-    [ "Process", "d3/d44/a11742.html#a54483596fe2a5a0d30fab9a13506b375", null ],
-    [ "ProcessUnsafe", "d3/d44/a11742.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
+    [ "QuestConfirmAcceptClient", "d3/d44/a11742.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
+    [ "Read", "d3/d44/a11742.html#a483980152418879fd1a55db2fa4bf68a", null ],
+    [ "QuestId", "d3/d44/a11742.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
 ];

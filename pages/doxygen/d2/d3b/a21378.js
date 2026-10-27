@@ -1,16 +1,14 @@
 var a21378 =
 [
-    [ "boss_emalonAI", "d2/d3b/a21378.html#ac87b3ea34e9781f3843321ef874321fe", null ],
-    [ "AttackStart", "d2/d3b/a21378.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
-    [ "JustDied", "d2/d3b/a21378.html#a79a05156b690140e955a6e850ac41e5b", null ],
-    [ "JustEngagedWith", "d2/d3b/a21378.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
-    [ "JustSummoned", "d2/d3b/a21378.html#a895f302d336faa0c3f93854314d3b427", null ],
-    [ "Reset", "d2/d3b/a21378.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
-    [ "ResetSummons", "d2/d3b/a21378.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
-    [ "SpellHitTarget", "d2/d3b/a21378.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
-    [ "SummonedCreatureDies", "d2/d3b/a21378.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
-    [ "UpdateAI", "d2/d3b/a21378.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
-    [ "events", "d2/d3b/a21378.html#a78312371e28b4be3c072dc870370b577", null ],
-    [ "pInstance", "d2/d3b/a21378.html#af4cc6489905f9702999cc23fd6a920c2", null ],
-    [ "summons", "d2/d3b/a21378.html#a1b6ccd418114e57a0c843cc980a56243", null ]
+    [ "boss_dalronn_the_controller", "d2/d3b/a21378.html#a57718e928fa273bba3c40a05d5888a3d", null ],
+    [ "DoAction", "d2/d3b/a21378.html#ad11e43d40a61f093b5e51482437467b8", null ],
+    [ "JustDied", "d2/d3b/a21378.html#a28a669b56392b599e124573778e33134", null ],
+    [ "JustEngagedWith", "d2/d3b/a21378.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
+    [ "JustSummoned", "d2/d3b/a21378.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
+    [ "KilledUnit", "d2/d3b/a21378.html#a96a173e30ad81c77217b0693d1d15839", null ],
+    [ "Reset", "d2/d3b/a21378.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
+    [ "UpdateAI", "d2/d3b/a21378.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
+    [ "events", "d2/d3b/a21378.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
+    [ "pInstance", "d2/d3b/a21378.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
+    [ "summons", "d2/d3b/a21378.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
 ];

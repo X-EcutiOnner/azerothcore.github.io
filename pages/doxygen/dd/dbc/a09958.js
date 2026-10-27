@@ -1,12 +1,8 @@
 var a09958 =
 [
-    [ "LogEntry", "dd/dbc/a09958.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
-    [ "LogEntry", "dd/dbc/a09958.html#aba3f6f501c59e356166abe71082c421b", null ],
-    [ "~LogEntry", "dd/dbc/a09958.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
-    [ "GetGUID", "dd/dbc/a09958.html#a7af4eac577f8da07540f81e185b2ad49", null ],
-    [ "GetTimestamp", "dd/dbc/a09958.html#a643c92439463707671bb08b72bf3a447", null ],
-    [ "SaveToDB", "dd/dbc/a09958.html#a1c00aa88973423a1c112c2776a14e78f", null ],
-    [ "m_guid", "dd/dbc/a09958.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
-    [ "m_guildId", "dd/dbc/a09958.html#a89e0192732a43dc44aff3730bc5ad445", null ],
-    [ "m_timestamp", "dd/dbc/a09958.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
+    [ "MostHPMissingGroupInRange", "dd/dbc/a09958.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
+    [ "operator()", "dd/dbc/a09958.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
+    [ "i_hp", "dd/dbc/a09958.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
+    [ "i_obj", "dd/dbc/a09958.html#ae0d85f9738301b40c3e950b02ee20026", null ],
+    [ "i_range", "dd/dbc/a09958.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
 ];

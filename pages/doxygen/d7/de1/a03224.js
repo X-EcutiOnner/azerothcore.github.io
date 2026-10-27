@@ -1,7 +1,7 @@
 var a03224 =
 [
-    [ "Trainer::Spell", "dc/d01/a08621.html", "dc/d01/a08621" ],
-    [ "Trainer::Trainer", "d5/d89/a08625.html", "d5/d89/a08625" ],
+    [ "Trainer::Spell", "df/d76/a08634.html", "df/d76/a08634" ],
+    [ "Trainer::Trainer", "db/d1a/a08638.html", "db/d1a/a08638" ],
     [ "FailReason", "d7/de1/a03224.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
       [ "Unavailable", "d7/de1/a03224.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
       [ "NotEnoughMoney", "d7/de1/a03224.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],

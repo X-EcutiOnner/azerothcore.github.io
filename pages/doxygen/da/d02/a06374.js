@@ -1,9 +1,11 @@
 var a06374 =
 [
-    [ "CasterAI", "da/d02/a06374.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
-    [ "AttackStart", "da/d02/a06374.html#a28386fd1a275c002445e5eaf90314a3d", null ],
-    [ "InitializeAI", "da/d02/a06374.html#a2a24cdc24b665c52363dae587572fc4d", null ],
-    [ "JustEngagedWith", "da/d02/a06374.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
-    [ "UpdateAI", "da/d02/a06374.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
-    [ "m_attackDist", "da/d02/a06374.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
+    [ "AppliedFileEntry", "da/d02/a06374.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
+    [ "GetStateAsString", "da/d02/a06374.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
+    [ "StateConvert", "da/d02/a06374.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
+    [ "StateConvert", "da/d02/a06374.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
+    [ "hash", "da/d02/a06374.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
+    [ "name", "da/d02/a06374.html#a8fc429eae6816054b5828952a5698a4c", null ],
+    [ "state", "da/d02/a06374.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
+    [ "timestamp", "da/d02/a06374.html#a13703e88b76f26858696b33a8bc8f862", null ]
 ];

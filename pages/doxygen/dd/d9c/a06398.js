@@ -1,8 +1,6 @@
 var a06398 =
 [
-    [ "GuardAI", "dd/d9c/a06398.html#ac1f0ba47d8e32c65845808170330b7af", null ],
-    [ "EnterEvadeMode", "dd/d9c/a06398.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
-    [ "JustDied", "dd/d9c/a06398.html#a96820cdcb632d3a71f9deacf4998a774", null ],
-    [ "Permissible", "dd/d9c/a06398.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
-    [ "Reset", "dd/d9c/a06398.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
+    [ "changed", "dd/d9c/a06398.html#af0cf916cd514f64f53f98c108ff63591", null ],
+    [ "counter", "dd/d9c/a06398.html#a5ba0b1002e0bfd61ad17b2130a207cb1", null ],
+    [ "date", "dd/d9c/a06398.html#a9a6769cf4ca7ba55752adc8cdeba71f5", null ]
 ];

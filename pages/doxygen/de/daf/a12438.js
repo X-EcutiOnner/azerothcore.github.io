@@ -1,8 +1,5 @@
 var a12438 =
 [
-    [ "CreatureCountWorker", "de/daf/a12438.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
-    [ "GetTopCreatureCount", "de/daf/a12438.html#a5d4d009b6685dd71703f96f9945a463e", null ],
-    [ "Visit", "de/daf/a12438.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
-    [ "Visit", "de/daf/a12438.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
-    [ "creatureIds", "de/daf/a12438.html#a3a6f946c40b1006164793dbaed2b3948", null ]
+    [ "data", "d8/d2c/a05128.html#ga4e97bd1d129d33b86a11c79c8cfa437b", null ],
+    [ "ScriptId", "d8/d2c/a05128.html#gaa452a9be01e00154512cb55980737ae6", null ]
 ];

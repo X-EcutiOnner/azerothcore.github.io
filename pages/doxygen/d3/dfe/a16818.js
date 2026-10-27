@@ -1,6 +1,6 @@
 var a16818 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d1/d82/a16822.html", "d1/d82/a16822" ],
-    [ "instance_trial_of_the_champion", "d3/dfe/a16818.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "d3/dfe/a16818.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "HandleScript", "d3/dfe/a16818.html#a647f39eb125537cd7545ab4115be1091", null ],
+    [ "PrepareSpellScript", "d3/dfe/a16818.html#a55dec84643f9bd536c7c73b5909ab303", null ],
+    [ "Register", "d3/dfe/a16818.html#a0077abbe11092b9636c3bb7b5c367946", null ]
 ];

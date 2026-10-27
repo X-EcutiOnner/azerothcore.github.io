@@ -1,7 +1,8 @@
 var a22842 =
 [
-    [ "boss_veras_darkshadow", "d9/de7/a22842.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "d9/de7/a22842.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "d9/de7/a22842.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "d9/de7/a22842.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "npc_yor", "d9/de7/a22842.html#a43ed8720d06c035085d481dbe6539dca", null ],
+    [ "JustEngagedWith", "d9/de7/a22842.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
+    [ "Reset", "d9/de7/a22842.html#aa698540b646fd870b33afbaf19ddbe07", null ],
+    [ "UpdateAI", "d9/de7/a22842.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
+    [ "_scheduler", "d9/de7/a22842.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
 ];

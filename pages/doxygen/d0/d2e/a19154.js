@@ -1,5 +1,8 @@
 var a19154 =
 [
-    [ "npc_darkfallen_tactician", "d0/d2e/a19154.html#a946ccdf41d93a3477204e303c3404c5c", null ],
-    [ "ScheduleSpells", "d0/d2e/a19154.html#a26dcb830533771faf8ebc90995ea010b", null ]
+    [ "npc_rotting_frost_giantAI", "d0/d2e/a19154.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d0/d2e/a19154.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d0/d2e/a19154.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d0/d2e/a19154.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d0/d2e/a19154.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

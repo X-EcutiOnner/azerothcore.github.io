@@ -1,6 +1,7 @@
 var a23886 =
 [
-    [ "FilterTargets", "d6/d3d/a23886.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "d6/d3d/a23886.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "d6/d3d/a23886.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "HandleOnApply", "d6/d3d/a23886.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "d6/d3d/a23886.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "d6/d3d/a23886.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "d6/d3d/a23886.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

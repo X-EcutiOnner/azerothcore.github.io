@@ -1,11 +1,6 @@
 var a18074 =
 [
-    [ "CountTargets", "d7/df2/a18074.html#a54f6526359fba124a988ba35c2876fd1", null ],
-    [ "Load", "d7/df2/a18074.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
-    [ "PrepareSpellScript", "d7/df2/a18074.html#a4991d88429ea951c55ef08a90f364d31", null ],
-    [ "Register", "d7/df2/a18074.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
-    [ "TeleportPlayer", "d7/df2/a18074.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
-    [ "TriggerWipe", "d7/df2/a18074.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
-    [ "Validate", "d7/df2/a18074.html#ad2e586d688b413f9ef9a5688d203106a", null ],
-    [ "_playerCount", "d7/df2/a18074.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
+    [ "Cooldown", "d7/df2/a18074.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
+    [ "Entry", "d7/df2/a18074.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
+    [ "TargetPosition", "d7/df2/a18074.html#ac47af49622012b4ad40357cadc5214b3", null ]
 ];

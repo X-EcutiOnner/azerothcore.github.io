@@ -1,7 +1,16 @@
 var a10042 =
 [
-    [ "BindRow", "de/dff/a10050.html", "de/dff/a10050" ],
-    [ "InstanceRow", "dc/d25/a10046.html", "dc/d25/a10046" ],
-    [ "binds", "df/d1c/a10042.html#a919bd3014a6ed66fe249a1726abdd625", null ],
-    [ "instances", "df/d1c/a10042.html#a61ada11aeaf8d4c9f6b7355674d2a9ef", null ]
+    [ "GuildBankRightsAndSlots", "df/d1c/a10042.html#ae00a8b8f227d7afdcf08847e3787ee0d", null ],
+    [ "GuildBankRightsAndSlots", "df/d1c/a10042.html#af5f0087090a7145a22baa1396822318b", null ],
+    [ "GuildBankRightsAndSlots", "df/d1c/a10042.html#a4bdf40d99704211b9e80b554ebade54f", null ],
+    [ "GetRights", "df/d1c/a10042.html#a19b76bebdb62434191189ba789c2810f", null ],
+    [ "GetSlots", "df/d1c/a10042.html#a51780060b5699bed6b78cc9ba4e95371", null ],
+    [ "GetTabId", "df/d1c/a10042.html#a6ba7c49480a1c5325d3702fb61d397cc", null ],
+    [ "SetGuildMasterValues", "df/d1c/a10042.html#a1399f191b3b0a44dc1e76fc49adc1412", null ],
+    [ "SetRights", "df/d1c/a10042.html#abf4e1f1556554e7f756dc566fbdd7f40", null ],
+    [ "SetSlots", "df/d1c/a10042.html#a8ed33a4e1d2a957d61c5f7556533f225", null ],
+    [ "SetTabId", "df/d1c/a10042.html#abe84f6bcdfd48d70b894470d025f3aae", null ],
+    [ "rights", "df/d1c/a10042.html#a2a8f5acf21828bfa15d0b3dd6874b5cb", null ],
+    [ "slots", "df/d1c/a10042.html#a5a327399d94704bc290199baa21ff8d7", null ],
+    [ "tabId", "df/d1c/a10042.html#ab09825a02a7a21a4915595230d2a5839", null ]
 ];

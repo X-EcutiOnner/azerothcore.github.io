@@ -1,6 +1,5 @@
 var a18506 =
 [
-    [ "HandleSpecial", "d4/dbe/a18506.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "d4/dbe/a18506.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "d4/dbe/a18506.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "RotfaceHeightCheck", "d4/dbe/a18506.html#aabdeaee465989c339fc7a3f186e20498", null ],
+    [ "operator()", "d4/dbe/a18506.html#a585743e0e76c64a5caa37acab46d04d5", null ]
 ];

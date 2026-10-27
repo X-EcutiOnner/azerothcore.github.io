@@ -1,6 +1,6 @@
 var a04070 =
 [
-    [ "AllSpellScript", "de/d45/a10785.html", "de/d45/a10785" ],
+    [ "AllSpellScript", "d4/d87/a10798.html", "d4/d87/a10798" ],
     [ "SpellSC", "d0/d18/a04070.html#a743e879dd1df387001a0db3b0bf31d0e", null ],
     [ "AllSpellHook", "d0/d18/a04070.html#afe0b21412f82a634ffd412b1aca51cbc", [
       [ "ALLSPELLHOOK_ON_CALC_MAX_DURATION", "d0/d18/a04070.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97", null ],

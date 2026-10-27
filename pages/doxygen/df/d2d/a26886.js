@@ -1,9 +1,9 @@
 var a26886 =
 [
-    [ "CheckCast", "df/d2d/a26886.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
-    [ "HandleDummy", "df/d2d/a26886.html#a7f79495525687fba6229f48935b2558a", null ],
-    [ "Load", "df/d2d/a26886.html#a0c73457e44a3d64bdccee78d28893672", null ],
-    [ "PrepareSpellScript", "df/d2d/a26886.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
-    [ "Register", "df/d2d/a26886.html#ab9f09394ab301350a2abaefde90632fe", null ],
-    [ "Validate", "df/d2d/a26886.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
+    [ "Load", "df/d2d/a26886.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "df/d2d/a26886.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "df/d2d/a26886.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "df/d2d/a26886.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "df/d2d/a26886.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "df/d2d/a26886.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

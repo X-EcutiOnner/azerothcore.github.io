@@ -1,7 +1,7 @@
 var a24586 =
 [
-    [ "CheckCast", "dd/d52/a24586.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "dd/d52/a24586.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "dd/d52/a24586.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "dd/d52/a24586.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "npc_pet_gen_target_following_bomb", "dd/d52/a24586.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "dd/d52/a24586.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "dd/d52/a24586.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "dd/d52/a24586.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

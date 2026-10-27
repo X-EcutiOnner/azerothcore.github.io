@@ -1,9 +1,13 @@
 var a29850 =
 [
-    [ "SetUp", "da/da3/a29850.html#a20b3a8161766a47ae37349f02cbe5b90", null ],
-    [ "TearDown", "da/da3/a29850.html#a9b41e4a95a6ca160c70272dfb90b5f8a", null ],
-    [ "creatureQuestMap", "da/da3/a29850.html#ae8b815994792f237cf6e1803b9eaa7f7", null ],
-    [ "TEST_CREATURE_ID", "da/da3/a29850.html#a80a79959d4b5520f7acf671677a671e9", null ],
-    [ "TEST_POOL_ID", "da/da3/a29850.html#aa81759d0539b72ad3cdda7d2231f8e63", null ],
-    [ "TEST_QUEST_ID", "da/da3/a29850.html#a26e68107bb625d0c5b6281c7df9199be", null ]
+    [ "AuraConfig", "d9/dc0/a29854.html", "d9/dc0/a29854" ],
+    [ "ProcRecord", "d4/d21/a29858.html", "d4/d21/a29858" ],
+    [ "ProcChainGuardSimulator", "da/da3/a29850.html#ad729e5f44922b9b6c44c9a4d732818e7", null ],
+    [ "CanProc", "da/da3/a29850.html#a267703c4a51bf3e8020e3298c85b74b3", null ],
+    [ "GetProcDeep", "da/da3/a29850.html#afe8e4320a882c474f883347860ad4d47", null ],
+    [ "GetRecords", "da/da3/a29850.html#ae21baa9f43fb78e30dedfc6608684e9e", null ],
+    [ "SetCantProc", "da/da3/a29850.html#ab479d1a30e547ce04775abe397cfea14", null ],
+    [ "SimulateTriggerAurasProc", "da/da3/a29850.html#ab0a0af1461f0f94a87273f468bc5454d", null ],
+    [ "_procDeep", "da/da3/a29850.html#a5fd0de564b32520971082df9620d40b4", null ],
+    [ "_records", "da/da3/a29850.html#abdecfb4d1da86f5a5d4cd7c92c228617", null ]
 ];

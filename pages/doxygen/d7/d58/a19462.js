@@ -1,17 +1,19 @@
 var a19462 =
 [
-    [ "boss_four_horsemenAI", "d7/d58/a19462.html#a828a858c3337791bd2acb3d6ba730233", null ],
-    [ "AttackStart", "d7/d58/a19462.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
-    [ "EnterEvadeMode", "d7/d58/a19462.html#a86f458f0413cab4c8129affff1b73a70", null ],
-    [ "JustDied", "d7/d58/a19462.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
-    [ "JustEngagedWith", "d7/d58/a19462.html#a17b8ca30ceb0efb87be77f970c526444", null ],
-    [ "KilledUnit", "d7/d58/a19462.html#a87bdde27a69a020a26da31f01286593a", null ],
-    [ "MovementInform", "d7/d58/a19462.html#aa900c075c04673341b3100488c45f9e7", null ],
-    [ "MoveToCorner", "d7/d58/a19462.html#a7891dc79980c67d82867f6181685b359", null ],
-    [ "Reset", "d7/d58/a19462.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
-    [ "UpdateAI", "d7/d58/a19462.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
-    [ "currentWaypoint", "d7/d58/a19462.html#ab3c2643e1b3c58452661255979e67e63", null ],
-    [ "events", "d7/d58/a19462.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
-    [ "horsemanId", "d7/d58/a19462.html#ab0c4162177096e7bd007996e8677fd8b", null ],
-    [ "movementPhase", "d7/d58/a19462.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
+    [ "npc_icc_gauntlet_controllerAI", "d7/d58/a19462.html#adbbf6f95a44678d914726fa52486228f", null ],
+    [ "DoAction", "d7/d58/a19462.html#adaa7997c59f72f7823f232a6f455a0af", null ],
+    [ "JustDied", "d7/d58/a19462.html#a00540cf0e82728e9df7c9c467bbe85b7", null ],
+    [ "JustReachedHome", "d7/d58/a19462.html#afd30d6da8e6fc0e8a44876ea0a30f8ec", null ],
+    [ "JustSummoned", "d7/d58/a19462.html#a1cba9c05581011ab431f163ffa1b05a7", null ],
+    [ "Reset", "d7/d58/a19462.html#a055c417bea83de7a4ca61f304d89bb2f", null ],
+    [ "ScheduleBroodlings", "d7/d58/a19462.html#a528438f30ae06119b09c69319e7c534a", null ],
+    [ "SpidersMoveDown", "d7/d58/a19462.html#a8c92d94464461c36c97d435e8738323b", null ],
+    [ "SummonBroodling", "d7/d58/a19462.html#a625cce7142666144af0d6f1e81f56979", null ],
+    [ "SummonedCreatureDies", "d7/d58/a19462.html#aad2d9e8a269c62231b4d6bc907350a30", null ],
+    [ "SummonFrostwardens", "d7/d58/a19462.html#a6f07ad3f631570b720ef5ecc91e80bf2", null ],
+    [ "SummonSpiders", "d7/d58/a19462.html#afa30ecef9c1c29b55d6f9d4752396354", null ],
+    [ "UpdateAI", "d7/d58/a19462.html#a141faa27c651b9d1512c6b5861f511d9", null ],
+    [ "events", "d7/d58/a19462.html#a5f883ab0efea055ebb07e118ab857378", null ],
+    [ "instance", "d7/d58/a19462.html#ac13065009325babb60746630518cfc3b", null ],
+    [ "summons", "d7/d58/a19462.html#ad2203400007c842b181ab62ba710cc69", null ]
 ];

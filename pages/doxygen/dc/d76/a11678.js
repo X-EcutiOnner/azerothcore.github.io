@@ -1,5 +1,6 @@
 var a11678 =
 [
-    [ "PacketHandler", "dc/d76/a11678.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
-    [ "Call", "dc/d76/a11678.html#a42ac77b81d5280c7f1c54991649ab501", null ]
+    [ "CorpseMapPositionQuery", "dc/d76/a11678.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "dc/d76/a11678.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "dc/d76/a11678.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

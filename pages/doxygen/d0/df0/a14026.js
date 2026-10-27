@@ -1,6 +1,6 @@
 var a14026 =
 [
-    [ "x", "d0/df0/a14026.html#afeb59642abc7d5114668b2c27e315228", null ],
-    [ "y", "d0/df0/a14026.html#a3e2454dd579de689289003a343e7f29c", null ],
-    [ "z", "d0/df0/a14026.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "d0/df0/a14026.html#aae99b35ff990fd7486d5b70693b6729a", null ],
+    [ "Load", "d0/df0/a14026.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
+    [ "OnPlayerEnter", "d0/df0/a14026.html#ab45827eaa92aea4746378b3c11fda219", null ]
 ];

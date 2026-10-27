@@ -1,6 +1,6 @@
 var a26054 =
 [
-    [ "CheckSinkholes", "d9/d41/a26054.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "d9/d41/a26054.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "d9/d41/a26054.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "HandleDummy", "d9/d41/a26054.html#aafc9efb0f8070566579724853a88ab03", null ],
+    [ "PrepareSpellScript", "d9/d41/a26054.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
+    [ "Register", "d9/d41/a26054.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
 ];

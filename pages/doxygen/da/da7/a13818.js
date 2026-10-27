@@ -1,8 +1,11 @@
 var a13818 =
 [
-    [ "FilterTargets", "da/da7/a13818.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
-    [ "HandleScriptEffect", "da/da7/a13818.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
-    [ "PrepareSpellScript", "da/da7/a13818.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
-    [ "Register", "da/da7/a13818.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
-    [ "Validate", "da/da7/a13818.html#a5493864b068de82015bc157f3d0899b3", null ]
+    [ "boss_alythess", "da/da7/a13818.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "AttackStart", "da/da7/a13818.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
+    [ "DoAction", "da/da7/a13818.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "da/da7/a13818.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "da/da7/a13818.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "da/da7/a13818.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "da/da7/a13818.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "da/da7/a13818.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

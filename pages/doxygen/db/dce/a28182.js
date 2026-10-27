@@ -1,6 +1,5 @@
 var a28182 =
 [
-    [ "go_flamesAI", "db/dce/a28182.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "db/dce/a28182.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "db/dce/a28182.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "achievement_bg_control_all_nodes", "db/dce/a28182.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "db/dce/a28182.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

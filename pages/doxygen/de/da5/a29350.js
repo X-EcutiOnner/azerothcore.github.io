@@ -1,8 +1,8 @@
 var a29350 =
 [
-    [ "NoRuneCost", "de/da5/a29350.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
-    [ "NoRunicPowerGain", "de/da5/a29350.html#a97da075ecd116ef27fd4265bb8380667", null ],
-    [ "ID", "de/da5/a29350.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
-    [ "RuneCost", "de/da5/a29350.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
-    [ "runePowerGain", "de/da5/a29350.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
+    [ "EmotesTextId", "de/da5/a29350.html#a8a45e92993f75f5d3b8e8fb045a294da", null ],
+    [ "Id", "de/da5/a29350.html#a60760a3e9768f1b189a4373ffe0b9bca", null ],
+    [ "RaceId", "de/da5/a29350.html#a8427fb95e778194124143d276b527213", null ],
+    [ "SexId", "de/da5/a29350.html#a818eae8ffc756fc359a822de63d21976", null ],
+    [ "SoundId", "de/da5/a29350.html#a17a267412c8a1527370b1e67ea5b6211", null ]
 ];

@@ -1,6 +1,7 @@
 var a21722 =
 [
-    [ "npc_dalaran_warriorAI", "d6/dde/a21726.html", "d6/dde/a21726" ],
-    [ "npc_dalaran_warrior", "d6/d28/a21722.html#a13d44b85173232ddedcc35184d50549c", null ],
-    [ "GetAI", "d6/d28/a21722.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
+    [ "npc_violet_hold_defense_system", "d6/d28/a21722.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "d6/d28/a21722.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "d6/d28/a21722.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
+    [ "_tickCount", "d6/d28/a21722.html#a4a7504069b05480428278fd09d5e59ba", null ]
 ];

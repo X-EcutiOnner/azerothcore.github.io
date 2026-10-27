@@ -1,7 +1,6 @@
 var a14970 =
 [
-    [ "OnApply", "df/db1/a14970.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "df/db1/a14970.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "df/db1/a14970.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "df/db1/a14970.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "gameobjectId", "df/db1/a14970.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "df/db1/a14970.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "df/db1/a14970.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

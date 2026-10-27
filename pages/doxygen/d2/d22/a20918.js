@@ -1,8 +1,7 @@
 var a20918 =
 [
-    [ "npc_xt_toy_pile", "d2/d22/a20918.html#a843e7d05cf62baa5c006077f8dad107d", null ],
-    [ "SpellHit", "d2/d22/a20918.html#a82af3830eaf524c587334e8eb193925f", null ],
-    [ "_lastSummonTime", "d2/d22/a20918.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
-    [ "SummonCooldown", "d2/d22/a20918.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
-    [ "SummonDistance", "d2/d22/a20918.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
+    [ "go_razorscale_harpoonAI", "d2/d22/a20918.html#afff12f330538843c477f75500f731ea3", null ],
+    [ "Reset", "d2/d22/a20918.html#aae5f0f7ff2b206872c02bd7da90afdc0", null ],
+    [ "UpdateAI", "d2/d22/a20918.html#a906b14e1bc6b71f95aa2fcde83846f0a", null ],
+    [ "_scheduler", "d2/d22/a20918.html#a6f6e325b1b1599f90173e8c8a68c7956", null ]
 ];

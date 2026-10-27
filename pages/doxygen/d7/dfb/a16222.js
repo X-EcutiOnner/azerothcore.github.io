@@ -1,11 +1,9 @@
 var a16222 =
 [
-    [ "npc_ameAI", "d7/dfb/a16222.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d7/dfb/a16222.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d7/dfb/a16222.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d7/dfb/a16222.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d7/dfb/a16222.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d7/dfb/a16222.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "WaypointReached", "d7/dfb/a16222.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "DemoralizingShoutTimer", "d7/dfb/a16222.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "go_wind_stoneAI", "d7/dfb/a16222.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
+    [ "GossipHello", "d7/dfb/a16222.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
+    [ "GossipSelect", "d7/dfb/a16222.html#aff4dedbf3a6fea405722f7064633edb1", null ],
+    [ "InitializeAI", "d7/dfb/a16222.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
+    [ "SummonNPC", "d7/dfb/a16222.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
+    [ "_creatureGuid", "d7/dfb/a16222.html#a50ad8b248381a6d9fac7a291796966d6", null ]
 ];

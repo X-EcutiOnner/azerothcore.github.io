@@ -1,6 +1,8 @@
 var a16270 =
 [
-    [ "HandleOpenLock", "d0/d63/a16270.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "d0/d63/a16270.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "d0/d63/a16270.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "npc_giltharesAI", "d0/d63/a16270.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "d0/d63/a16270.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "d0/d63/a16270.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "d0/d63/a16270.html#a9308c73760e50e0f3d04031b508526d1", null ],
+    [ "WaypointReached", "d0/d63/a16270.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

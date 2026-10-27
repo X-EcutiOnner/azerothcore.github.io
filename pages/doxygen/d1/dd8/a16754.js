@@ -1,6 +1,7 @@
 var a16754 =
 [
-    [ "FilterTargets", "d1/dd8/a16754.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "d1/dd8/a16754.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "d1/dd8/a16754.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "HandleScriptEffect", "d1/dd8/a16754.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "d1/dd8/a16754.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "d1/dd8/a16754.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "d1/dd8/a16754.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

@@ -1,6 +1,8 @@
 var a22210 =
 [
-    [ "npc_jungle_punch_targetAI", "d0/d64/a22214.html", "d0/d64/a22214" ],
-    [ "npc_jungle_punch_target", "d3/d7e/a22210.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "d3/d7e/a22210.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "CheckCast", "d3/d7e/a22210.html#a49e425fa95e5107f38aa16e546674b7d", null ],
+    [ "HandleScript", "d3/d7e/a22210.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
+    [ "PrepareSpellScript", "d3/d7e/a22210.html#a9e7a1239e165131b70c437793b5371d0", null ],
+    [ "Register", "d3/d7e/a22210.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
+    [ "Validate", "d3/d7e/a22210.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
 ];

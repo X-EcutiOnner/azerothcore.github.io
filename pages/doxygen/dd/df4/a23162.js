@@ -1,6 +1,10 @@
 var a23162 =
 [
-    [ "HandleEffectApply", "dd/df4/a23162.html#adbfce9b247a8a36d143243955372dc91", null ],
-    [ "PrepareAuraScript", "dd/df4/a23162.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6", null ],
-    [ "Register", "dd/df4/a23162.html#afb919ed484440d382b9d1ac7cf6f3f14", null ]
+    [ "CalculateAmount", "dd/df4/a23162.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "dd/df4/a23162.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "dd/df4/a23162.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "dd/df4/a23162.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "dd/df4/a23162.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "dd/df4/a23162.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "dd/df4/a23162.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

@@ -1,6 +1,10 @@
 var a07974 =
 [
-    [ "value_type", "da/d90/a07974.html#adbfeb8f2823f763fdae25b87fbbdcfbf", null ],
-    [ "operator()", "da/d90/a07974.html#abeff0e73688ad4745201c5d817f7a442", null ],
-    [ "operator()", "da/d90/a07974.html#a8ee9220d4226b4dd028f3f9c438f34ba", null ]
+    [ "ChannelRights", "da/d90/a07974.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
+    [ "ChannelRights", "da/d90/a07974.html#a7beaed8c82905e7c019c799153e862c4", null ],
+    [ "flags", "da/d90/a07974.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
+    [ "joinMessage", "da/d90/a07974.html#af8797ef8c642f3a954b1581fb54ed545", null ],
+    [ "moderators", "da/d90/a07974.html#ac80f92b9e633bf309970179b32e29cee", null ],
+    [ "speakDelay", "da/d90/a07974.html#a9883582d36b8cc67ab5d649670441000", null ],
+    [ "speakMessage", "da/d90/a07974.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
 ];

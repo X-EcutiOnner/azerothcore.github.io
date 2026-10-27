@@ -1,8 +1,8 @@
 var a07582 =
 [
-    [ "WintergraspCapturePoint", "df/dd7/a07582.html#a36090feb3626e204e0029ea45f1d8136", null ],
-    [ "ChangeTeam", "df/dd7/a07582.html#a66564dd3237538b256ebeb76d236001f", null ],
-    [ "GetTeam", "df/dd7/a07582.html#a7ff4106591a5aac1ea8820016b8164bb", null ],
-    [ "LinkToWorkshop", "df/dd7/a07582.html#a32d378eba7f0eea0f011b8ea8c7e6eee", null ],
-    [ "LinkedWorkshop", "df/dd7/a07582.html#a06d98983a020f1f571812cf7ff0f907a", null ]
+    [ "faction", "df/dd7/a07582.html#acb80e9b49dda9771679b871cf862d876", null ],
+    [ "loc_idx", "df/dd7/a07582.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
+    [ "locdbc_idx", "df/dd7/a07582.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
+    [ "playerGuid", "df/dd7/a07582.html#a6aaee409b729275b9089d7db5145ba58", null ],
+    [ "usablePlayerInfo", "df/dd7/a07582.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
 ];

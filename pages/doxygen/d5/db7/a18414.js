@@ -1,6 +1,5 @@
 var a18414 =
 [
-    [ "ExtraRemoveEffect", "d5/db7/a18414.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "d5/db7/a18414.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "d5/db7/a18414.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "npc_gas_cloudAI", "d5/db7/a18414.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
+    [ "CastMainSpell", "d5/db7/a18414.html#a61681f6f9616fe33274302d4160c709b", null ]
 ];

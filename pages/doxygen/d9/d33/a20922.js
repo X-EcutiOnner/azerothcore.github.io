@@ -1,7 +1,6 @@
 var a20922 =
 [
-    [ "FilterTargets", "d9/d33/a20922.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "d9/d33/a20922.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "d9/d33/a20922.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "d9/d33/a20922.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "go_razorscale_mole_machineAI", "de/d94/a20926.html", "de/d94/a20926" ],
+    [ "go_razorscale_mole_machine", "d9/d33/a20922.html#a94d4c7900c139202cd0e57489ecb5a02", null ],
+    [ "GetAI", "d9/d33/a20922.html#a56de10f80d50b667bfae81994a618304", null ]
 ];

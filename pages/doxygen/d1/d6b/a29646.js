@@ -1,10 +1,8 @@
 var a29646 =
 [
-    [ "AddToWorld", "d1/d6b/a29646.html#a3b5a3472d4a5ca1cff7dc0dbed0b04c7", null ],
-    [ "ForceInitValues", "d1/d6b/a29646.html#adb765e8464642610eeebf25c5fa17edd", null ],
-    [ "Player", "d1/d6b/a29646.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
-    [ "RemoveFromWorld", "d1/d6b/a29646.html#aa69937d52e60e235f35a48e9d80d65ce", null ],
-    [ "SaveToDB", "d1/d6b/a29646.html#a21d71f7f913da0213b98cfe2e0d1b832", null ],
-    [ "SaveToDB", "d1/d6b/a29646.html#a74818d35eddf0c5ccea7693ba455cff2", null ],
-    [ "UpdateObjectVisibility", "d1/d6b/a29646.html#a35487432f2af544c20bc3c45f8ba1602", null ]
+    [ "TimeSeg", "d1/d6b/a29646.html#ab94639ba8e26b215ebd31163967574d3", null ],
+    [ "TransportEntry", "d1/d6b/a29646.html#a859d25b3c11839ad7e37facd40dc79df", null ],
+    [ "X", "d1/d6b/a29646.html#a8fbd166503396e33a4ad77448bf307ea", null ],
+    [ "Y", "d1/d6b/a29646.html#a67c279b26cebd8e5c81c36576b145af6", null ],
+    [ "Z", "d1/d6b/a29646.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
 ];

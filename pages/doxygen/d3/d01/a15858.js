@@ -1,5 +1,7 @@
 var a15858 =
 [
-    [ "go_ravager_cage", "d3/d01/a15858.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
-    [ "OnGossipHello", "d3/d01/a15858.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
+    [ "boss_glob_of_viscidus", "d3/d01/a15858.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "d3/d01/a15858.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "d3/d01/a15858.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "d3/d01/a15858.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

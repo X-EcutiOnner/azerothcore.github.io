@@ -1,5 +1,7 @@
 var a15618 =
 [
-    [ "boss_yauj", "dc/d1d/a15618.html#a15ab7b6b35d29fb1552b11586163320e", null ],
-    [ "JustEngagedWith", "dc/d1d/a15618.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
+    [ "HandleScript", "dc/d1d/a15618.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
+    [ "PrepareSpellScript", "dc/d1d/a15618.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
+    [ "Register", "dc/d1d/a15618.html#aff966352a2babe6e6daed91f02e1190a", null ],
+    [ "Validate", "dc/d1d/a15618.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
 ];

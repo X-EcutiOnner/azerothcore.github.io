@@ -1,8 +1,6 @@
 var a21062 =
 [
-    [ "FilterTargets", "da/db3/a21062.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "da/db3/a21062.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "da/db3/a21062.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "da/db3/a21062.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "da/db3/a21062.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "HandleScript", "da/db3/a21062.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "da/db3/a21062.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "da/db3/a21062.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

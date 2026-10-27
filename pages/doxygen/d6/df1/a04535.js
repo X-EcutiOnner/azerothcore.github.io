@@ -1,6 +1,6 @@
 var a04535 =
 [
-    [ "SpellProcCooldownTest", "df/dfa/a30161.html", "df/dfa/a30161" ],
+    [ "SpellProcCooldownTest", "dc/da6/a30198.html", "dc/da6/a30198" ],
     [ "TEST_F", "d6/df1/a04535.html#ac30c03da32748e0bf7f658b9eff19f67", null ],
     [ "TEST_F", "d6/df1/a04535.html#a877730b0890fd65b53503d867be13db2", null ],
     [ "TEST_F", "d6/df1/a04535.html#a46fee264bedefac5bf751dc80e5175ca", null ],

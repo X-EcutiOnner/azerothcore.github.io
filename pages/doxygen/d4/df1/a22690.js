@@ -1,7 +1,5 @@
 var a22690 =
 [
-    [ "npc_voidtraveler", "d4/df1/a22690.html#a07e473c14836a0612acd52078a93f2d8", null ],
-    [ "Reset", "d4/df1/a22690.html#a6efe0725917c92657220de2b60579289", null ],
-    [ "UpdateAI", "d4/df1/a22690.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
-    [ "_scheduler", "d4/df1/a22690.html#a1809494e7803103f6bc1698e780dcfbc", null ]
+    [ "go_scourge_enclosure", "d4/df1/a22690.html#a3611232cb735f336087d4d3c90f66b8d", null ],
+    [ "OnGossipHello", "d4/df1/a22690.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
 ];

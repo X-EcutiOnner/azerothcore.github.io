@@ -1,13 +1,8 @@
 var a14070 =
 [
-    [ "npc_corporal_keeshanAI", "d2/d0c/a14070.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "d2/d0c/a14070.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "d2/d0c/a14070.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "d2/d0c/a14070.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "d2/d0c/a14070.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "WaypointReached", "d2/d0c/a14070.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "mockingBlowTimer", "d2/d0c/a14070.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "d2/d0c/a14070.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "d2/d0c/a14070.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "d2/d0c/a14070.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "HandleEffectApply", "d2/d0c/a14070.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "d2/d0c/a14070.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "d2/d0c/a14070.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "d2/d0c/a14070.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "d2/d0c/a14070.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

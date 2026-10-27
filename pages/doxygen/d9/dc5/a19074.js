@@ -1,6 +1,6 @@
 var a19074 =
 [
-    [ "npc_captain_brandonAI", "d9/dc5/a19074.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "d9/dc5/a19074.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "d9/dc5/a19074.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_blistering_zombieAI", "df/d7e/a19078.html", "df/d7e/a19078" ],
+    [ "npc_blistering_zombie", "d9/dc5/a19074.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "d9/dc5/a19074.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

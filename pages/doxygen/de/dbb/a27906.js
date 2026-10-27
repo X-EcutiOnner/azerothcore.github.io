@@ -1,7 +1,9 @@
 var a27906 =
 [
-    [ "HandleScript", "de/dbb/a27906.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "de/dbb/a27906.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "de/dbb/a27906.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "de/dbb/a27906.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "CheckCast", "de/dbb/a27906.html#a441927e0d8d7304030440c19458eb34d", null ],
+    [ "HandleScriptEffect", "de/dbb/a27906.html#a10e9691aa15869c82fba79072a314d7e", null ],
+    [ "PrepareSpellScript", "de/dbb/a27906.html#a90b8ae945aeb85ad6e8a120501288979", null ],
+    [ "Register", "de/dbb/a27906.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
+    [ "Validate", "de/dbb/a27906.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
+    [ "iTypes", "de/dbb/a27906.html#ae852b9df34612c074eab23b025c86870", null ]
 ];

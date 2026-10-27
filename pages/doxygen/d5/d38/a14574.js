@@ -1,7 +1,15 @@
 var a14574 =
 [
-    [ "HandleOnHit", "d5/d38/a14574.html#a561799e6241b1fe17cd09f17c447107b", null ],
-    [ "PrepareSpellScript", "d5/d38/a14574.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
-    [ "Register", "d5/d38/a14574.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
-    [ "Validate", "d5/d38/a14574.html#adb339686c5e9dcb298712455dc8435bf", null ]
+    [ "boss_arlokkAI", "d5/d38/a14574.html#adb598bf47620cd077fb689fb8f9a4ad8", null ],
+    [ "EnterEvadeMode", "d5/d38/a14574.html#a8553c4d173e7c39315f022f69587c6c0", null ],
+    [ "JustDied", "d5/d38/a14574.html#ac03a6599a5b41e01bd4ed9ebd55cc0ba", null ],
+    [ "JustEngagedWith", "d5/d38/a14574.html#ac4ee55299a9389c4fee1ad96140b00d0", null ],
+    [ "JustReachedHome", "d5/d38/a14574.html#ab0499a80ea8406457e6bfaac96eae975", null ],
+    [ "Reset", "d5/d38/a14574.html#a3ea2c720ac5c4b1fa6ea4d2eb8bf163f", null ],
+    [ "SetData", "d5/d38/a14574.html#a7eedf1d1b55740698c314d4afbb2b0b2", null ],
+    [ "UpdateAI", "d5/d38/a14574.html#a3a2d07d42be88244c0c72b998792dd28", null ],
+    [ "_summonCountA", "d5/d38/a14574.html#a77f83909fca59d1c5d72dc583d7ec22e", null ],
+    [ "_summonCountB", "d5/d38/a14574.html#a7e7d091ea00fb42e7f97cb79168e0dc3", null ],
+    [ "_triggersSideAGUID", "d5/d38/a14574.html#aedc8dda728ed849f33dc83396da51bce", null ],
+    [ "_triggersSideBGUID", "d5/d38/a14574.html#a0fc797fd56c4f12272b647087492670a", null ]
 ];

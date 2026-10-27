@@ -1,9 +1,8 @@
 var a28074 =
 [
-    [ "emerald_dragonAI", "d1/d09/a28074.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "d1/d09/a28074.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "d1/d09/a28074.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "d1/d09/a28074.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "d1/d09/a28074.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "d1/d09/a28074.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "HandleDummy", "d1/d09/a28074.html#ad2eec86cff225cc0bd806e31596fb127", null ],
+    [ "PrepareSpellScript", "d1/d09/a28074.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
+    [ "Register", "d1/d09/a28074.html#a6c72b4c813368774283ae94036a43ee2", null ],
+    [ "SendMiss", "d1/d09/a28074.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
+    [ "Validate", "d1/d09/a28074.html#a9a5014de08f73ad5dad29354812030ac", null ]
 ];

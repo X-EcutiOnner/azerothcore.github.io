@@ -1,10 +1,10 @@
 var a06062 =
 [
-    [ "BasicStatementTask", "d9/de2/a06062.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
-    [ "~BasicStatementTask", "d9/de2/a06062.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
-    [ "Execute", "d9/de2/a06062.html#a7f500736cc0ec4cddf94510927989d4d", null ],
-    [ "GetFuture", "d9/de2/a06062.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
-    [ "m_has_result", "d9/de2/a06062.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
-    [ "m_result", "d9/de2/a06062.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
-    [ "m_sql", "d9/de2/a06062.html#a9320235413d1c4736301070e1faeb161", null ]
+    [ "ListIterator", "d9/de2/a06062.html#a2d6f26f422402c3dcc0e026587201f9e", null ],
+    [ "begin", "d9/de2/a06062.html#ab7d2c8fa95d8256bba7b6b3ccdcff251", null ],
+    [ "end", "d9/de2/a06062.html#a6dffd4b0ef103e34fca8d474856ca8d3", null ],
+    [ "operator+=", "d9/de2/a06062.html#a3a4a52377c59e360b9aa164940b06285", null ],
+    [ "operator-=", "d9/de2/a06062.html#ae5c430c031dffae3c3b270c527b0cc70", null ],
+    [ "size", "d9/de2/a06062.html#a13d85caabd15541389f8e93e99b768b0", null ],
+    [ "m_list", "d9/de2/a06062.html#a5bb439ae8dd02302f19581d2771c570c", null ]
 ];

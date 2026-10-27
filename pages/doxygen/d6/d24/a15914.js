@@ -1,7 +1,8 @@
 var a15914 =
 [
-    [ "npc_prospector_remtravelAI", "d3/d6c/a15918.html", "d3/d6c/a15918" ],
-    [ "npc_prospector_remtravel", "d6/d24/a15914.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "d6/d24/a15914.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "d6/d24/a15914.html#a4bc2e5264a7a2184bf8d90b7d4045cc8", null ]
+    [ "npc_obsidian_nullifier", "d6/d24/a15914.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "d6/d24/a15914.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "d6/d24/a15914.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "d6/d24/a15914.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "d6/d24/a15914.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

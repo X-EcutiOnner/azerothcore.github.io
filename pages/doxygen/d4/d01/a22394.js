@@ -1,7 +1,5 @@
 var a22394 =
 [
-    [ "npc_wg_siege_machineAI", "d4/d01/a22394.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
-    [ "CanControlVehicle", "d4/d01/a22394.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
-    [ "UpdateAI", "d4/d01/a22394.html#a8ddd21047a857facc767a9edc0ec5408", null ],
-    [ "checkTimer", "d4/d01/a22394.html#abf4b06eae50adeefedba02e2186ea48a", null ]
+    [ "go_brazier", "d4/d01/a22394.html#a432a07256fde679a889de7ba0f64f092", null ],
+    [ "OnGossipHello", "d4/d01/a22394.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
 ];

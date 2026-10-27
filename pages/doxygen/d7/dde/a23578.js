@@ -1,6 +1,6 @@
 var a23578 =
 [
-    [ "HandleScriptEffect", "d7/dde/a23578.html#afae95a49843aa956d627e9bd92f8820f", null ],
-    [ "PrepareSpellScript", "d7/dde/a23578.html#a434945da0a6b64db79cab0e09cbbb286", null ],
-    [ "Register", "d7/dde/a23578.html#a396acb663b8c9151196b8fedea3660c7", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "d6/d19/a23582.html", "d6/d19/a23582" ],
+    [ "instance_the_slave_pens", "d7/dde/a23578.html#a765f7b66ad3bed1828524ecb143742f2", null ],
+    [ "GetInstanceScript", "d7/dde/a23578.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
 ];

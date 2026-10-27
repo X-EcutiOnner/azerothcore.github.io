@@ -1,7 +1,9 @@
 var a27122 =
 [
-    [ "HandleDummy", "de/d55/a27122.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
-    [ "PrepareSpellScript", "de/d55/a27122.html#a125f7550ce826f74ac14902bc82d5021", null ],
-    [ "Register", "de/d55/a27122.html#a35e9132e2414383caafbde699de6061d", null ],
-    [ "Validate", "de/d55/a27122.html#a530489a10287a6dd281d518683b1a3f3", null ]
+    [ "CheckProc", "de/d55/a27122.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
+    [ "HandleDispel", "de/d55/a27122.html#a64235032423050de10581165c57f8b0a", null ],
+    [ "HandleProc", "de/d55/a27122.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
+    [ "PrepareAuraScript", "de/d55/a27122.html#af7ba0eb96dca76a288dd034665822069", null ],
+    [ "Register", "de/d55/a27122.html#ababc8b42c64740655864d2834a639384", null ],
+    [ "Validate", "de/d55/a27122.html#a03ecf2489369cbb7a6dff555db153a96", null ]
 ];

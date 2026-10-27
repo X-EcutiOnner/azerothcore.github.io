@@ -1,9 +1,10 @@
 var a14714 =
 [
-    [ "HandleEffectPeriodic", "da/d7a/a14714.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
-    [ "HandleEffectRemove", "da/d7a/a14714.html#a96ed7366e568b70e82d622586740aa56", null ],
-    [ "Load", "da/d7a/a14714.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
-    [ "PrepareAuraScript", "da/d7a/a14714.html#abd1f851112a50b79e815cdd894275bab", null ],
-    [ "Register", "da/d7a/a14714.html#aa3cd85aed063017c4737e7660fa81f37", null ],
-    [ "questTick", "da/d7a/a14714.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
+    [ "npc_vilebranch_speaker", "da/d7a/a14714.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
+    [ "JustDied", "da/d7a/a14714.html#aa7708f176879db3acd50399b74e4a90c", null ],
+    [ "JustEngagedWith", "da/d7a/a14714.html#a236afb8512c2d941479f8a7c18f688a6", null ],
+    [ "Reset", "da/d7a/a14714.html#a248195a137cb91f10a882ec12974c7c5", null ],
+    [ "UpdateAI", "da/d7a/a14714.html#a75f263fa9241319b58bf77cbf1b75088", null ],
+    [ "_scheduler", "da/d7a/a14714.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
+    [ "instance", "da/d7a/a14714.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
 ];

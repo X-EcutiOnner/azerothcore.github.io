@@ -1,6 +1,10 @@
 var a10954 =
 [
-    [ "GetEvent", "de/d40/a10954.html#aabf338a9824038abbd0934a3bef0a269", null ],
-    [ "Read", "de/d40/a10954.html#a344db9b28e7247dc0285a3468a789721", null ],
-    [ "EventId", "de/d40/a10954.html#a31de21c2af87d174d139eef870cbb5fd", null ]
+    [ "TicketScript", "de/d40/a10954.html#aec2b310ba0b26aa84a245207256edb0e", null ],
+    [ "IsDatabaseBound", "de/d40/a10954.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
+    [ "OnTicketClose", "de/d40/a10954.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
+    [ "OnTicketCreate", "de/d40/a10954.html#a3436bbc78425bf5144c81f6309060b33", null ],
+    [ "OnTicketResolve", "de/d40/a10954.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
+    [ "OnTicketStatusUpdate", "de/d40/a10954.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
+    [ "OnTicketUpdateLastChange", "de/d40/a10954.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
 ];

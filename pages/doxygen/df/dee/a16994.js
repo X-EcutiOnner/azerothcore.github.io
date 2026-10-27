@@ -1,7 +1,7 @@
 var a16994 =
 [
-    [ "npc_toc_enh_shamanAI", "df/dee/a16994.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "df/dee/a16994.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "df/dee/a16994.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "df/dee/a16994.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "HandleEffectPeriodic", "df/dee/a16994.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
+    [ "PrepareAuraScript", "df/dee/a16994.html#a4506f7d723b85c7555296f5ade11cd29", null ],
+    [ "Register", "df/dee/a16994.html#aeac7e6abc89209e14451439cdf1d416e", null ],
+    [ "Validate", "df/dee/a16994.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
 ];

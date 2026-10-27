@@ -1,13 +1,8 @@
 var a09934 =
 [
-    [ "GroupReference", "d9/d8b/a09934.html#ab1a008e85d413c67696d4d568a98bde7", null ],
-    [ "~GroupReference", "d9/d8b/a09934.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
-    [ "getSubGroup", "d9/d8b/a09934.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
-    [ "next", "d9/d8b/a09934.html#a6f8f406f1209dd7060904d40f5424b41", null ],
-    [ "next", "d9/d8b/a09934.html#ac913ec0703c28cda068375d01c9cd72d", null ],
-    [ "setSubGroup", "d9/d8b/a09934.html#a303caf55ea463398237e6a825f30b143", null ],
-    [ "sourceObjectDestroyLink", "d9/d8b/a09934.html#a458157654c27def9b36b68ae099ca7b3", null ],
-    [ "targetObjectBuildLink", "d9/d8b/a09934.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
-    [ "targetObjectDestroyLink", "d9/d8b/a09934.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
-    [ "iSubGroup", "d9/d8b/a09934.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
+    [ "NearestPlayerInObjectRangeCheck", "d9/d8b/a09934.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
+    [ "NearestPlayerInObjectRangeCheck", "d9/d8b/a09934.html#aac3d406d10a036b92a55bcd955411165", null ],
+    [ "operator()", "d9/d8b/a09934.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
+    [ "i_obj", "d9/d8b/a09934.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
+    [ "i_range", "d9/d8b/a09934.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
 ];

@@ -1,7 +1,13 @@
 var a12022 =
 [
-    [ "EffectAuraNameCheck", "d9/df9/a12022.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
-    [ "Check", "d9/df9/a12022.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
-    [ "ToString", "d9/df9/a12022.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
-    [ "effAurName", "d9/df9/a12022.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
+    [ "CastSpellTargetArg", "d9/df9/a12022.html#a54a5c35a6d6c38e55362731f90fd080f", null ],
+    [ "CastSpellTargetArg", "d9/df9/a12022.html#a53899a47ac7114d882b47ee8cd1218f7", null ],
+    [ "CastSpellTargetArg", "d9/df9/a12022.html#a18415e98021976a4983d995f2a5b61b0", null ],
+    [ "CastSpellTargetArg", "d9/df9/a12022.html#a4ddff57daeada6042582bc2de5f3a927", null ],
+    [ "CastSpellTargetArg", "d9/df9/a12022.html#aa7905671f11fe44be9dc86bc7a4d88cf", null ],
+    [ "CastSpellTargetArg", "d9/df9/a12022.html#aea9d2ecfb6fd0f84abe55a80b1994203", null ],
+    [ "CastSpellTargetArg", "d9/df9/a12022.html#aa0f1c23d0881b4d4aec61641eed34fbc", null ],
+    [ "~CastSpellTargetArg", "d9/df9/a12022.html#a996e20990119ca494ec8d6dc2b3cda0e", null ],
+    [ "operator=", "d9/df9/a12022.html#a3c34a7c703bfe8c70d0e081dec57ce16", null ],
+    [ "Targets", "d9/df9/a12022.html#a25bda508ba86ff03f8d4195067bf8760", null ]
 ];

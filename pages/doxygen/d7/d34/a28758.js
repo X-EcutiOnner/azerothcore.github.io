@@ -1,6 +1,7 @@
 var a28758 =
 [
-    [ "Id", "d7/d34/a28758.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
-    [ "Order", "d7/d34/a28758.html#a16fca42d9a0a98e034a93984c4362b53", null ],
-    [ "TypeFlags", "d7/d34/a28758.html#ac7246adc7c6c3217de8ac093983b7553", null ]
+    [ "npc_guardianAI", "d7/d34/a28758.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "d7/d34/a28758.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "d7/d34/a28758.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "d7/d34/a28758.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

@@ -1,6 +1,6 @@
 var a22570 =
 [
-    [ "a", "d4/d7e/a22570.html#af01321c0fa24acf26086f7dccb326640", null ],
-    [ "h", "d4/d7e/a22570.html#a0b9b712fc851286077ee5bbd8136a413", null ],
-    [ "n", "d4/d7e/a22570.html#aad82b0a6ff47c6997a6b8d5492748b63", null ]
+    [ "HandleEffectRemove", "d4/d7e/a22570.html#a08c55501b95d4c92971fd5c95aaef1a7", null ],
+    [ "PrepareAuraScript", "d4/d7e/a22570.html#aa0df1c7c112cf44fbe5a89894a1292b3", null ],
+    [ "Register", "d4/d7e/a22570.html#a6f6ae6c012090337eb3f9ca4fd39749d", null ]
 ];

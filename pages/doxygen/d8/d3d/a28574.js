@@ -1,6 +1,5 @@
 var a28574 =
 [
-    [ "npc_locksmith", "d8/d3d/a28574.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "d8/d3d/a28574.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "d8/d3d/a28574.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "item_incendiary_explosives", "d8/d3d/a28574.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "d8/d3d/a28574.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

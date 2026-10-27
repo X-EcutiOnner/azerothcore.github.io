@@ -1,7 +1,5 @@
 var a22342 =
 [
-    [ "HandleDummy", "d6/d3b/a22342.html#acdf98990ad575fec751a541cac3bcffa", null ],
-    [ "PrepareSpellScript", "d6/d3b/a22342.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
-    [ "Register", "d6/d3b/a22342.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
-    [ "Validate", "d6/d3b/a22342.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
+    [ "npc_guardian_pavilionAI", "d6/d3b/a22342.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d6/d3b/a22342.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

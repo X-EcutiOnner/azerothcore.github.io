@@ -1,8 +1,8 @@
 var a27434 =
 [
-    [ "FilterTargets", "df/d15/a27434.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
-    [ "HandleDummy", "df/d15/a27434.html#a2214b10da042a3af2fd3311872cc5286", null ],
-    [ "PrepareSpellScript", "df/d15/a27434.html#a9959966856601f79a83931a7a7ecff91", null ],
-    [ "Register", "df/d15/a27434.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
-    [ "Validate", "df/d15/a27434.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
+    [ "HandleScript", "df/d15/a27434.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
+    [ "Load", "df/d15/a27434.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
+    [ "PrepareSpellScript", "df/d15/a27434.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
+    [ "Register", "df/d15/a27434.html#aa823af94e3366ae799ebaf03e52411dd", null ],
+    [ "Validate", "df/d15/a27434.html#ad6985954002f88436a2681e758f41fb2", null ]
 ];

@@ -1,12 +1,11 @@
 var a09590 =
 [
-    [ "VisibleNotifier", "d0/d13/a09590.html#ae449b96de3eff1759869438dd90f6513", null ],
-    [ "SendToSelf", "d0/d13/a09590.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
-    [ "Visit", "d0/d13/a09590.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
-    [ "Visit", "d0/d13/a09590.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
-    [ "Visit", "d0/d13/a09590.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
-    [ "i_data", "d0/d13/a09590.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
-    [ "i_gobjOnly", "d0/d13/a09590.html#a019182fa8a629d796982f9cc565d9bc3", null ],
-    [ "i_player", "d0/d13/a09590.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
-    [ "i_visibleNow", "d0/d13/a09590.html#a34d766816baaad7b1b3623360ec9abeb", null ]
+    [ "~GridCell", "d0/d13/a09590.html#a042be8f85e83068d4bb39a0de0618146", null ],
+    [ "AddFarVisibleObject", "d0/d13/a09590.html#a9a81bdbf151463b4687227df0fa39ece", null ],
+    [ "AddGridObject", "d0/d13/a09590.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
+    [ "RemoveFarVisibleObject", "d0/d13/a09590.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
+    [ "Visit", "d0/d13/a09590.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
+    [ "Visit", "d0/d13/a09590.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
+    [ "_farVisibleObjects", "d0/d13/a09590.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
+    [ "_gridObjects", "d0/d13/a09590.html#ac5a741aebc11124aa228e5107e664335", null ]
 ];

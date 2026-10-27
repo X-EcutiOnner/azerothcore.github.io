@@ -1,6 +1,5 @@
 var a19818 =
 [
-    [ "instance_nexus_InstanceMapScript", "d9/db3/a19822.html", "d9/db3/a19822" ],
-    [ "instance_nexus", "db/dd2/a19818.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
-    [ "GetInstanceScript", "db/dd2/a19818.html#a156210ba08caa0572c775dbd5851b250", null ]
+    [ "npc_mr_bigglesworth", "db/dd2/a19818.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "db/dd2/a19818.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

@@ -1,6 +1,7 @@
 var a14010 =
 [
-    [ "npc_lor_themar_theron", "d7/d3f/a14010.html#acf8b65675cc46949440a829fc1adf5fc", null ],
-    [ "JustDied", "d7/d3f/a14010.html#ad2615cc062c8c1f4b01fc9e253fe34d4", null ],
-    [ "UpdateAI", "d7/d3f/a14010.html#aa9eafbacdb75bfbf772c901ce96119c6", null ]
+    [ "HandlePull", "d7/d3f/a14010.html#a5a43bb53d3c534054498f8366d617e5a", null ],
+    [ "PrepareSpellScript", "d7/d3f/a14010.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
+    [ "RaycastToObstacle", "d7/d3f/a14010.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
+    [ "Register", "d7/d3f/a14010.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
 ];

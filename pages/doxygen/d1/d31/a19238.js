@@ -1,6 +1,6 @@
 var a19238 =
 [
-    [ "HandleScript", "d1/d31/a19238.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "d1/d31/a19238.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "d1/d31/a19238.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "npc_arthas_teleport_visualAI", "d5/dea/a19242.html", "d5/dea/a19242" ],
+    [ "npc_arthas_teleport_visual", "d1/d31/a19238.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "d1/d31/a19238.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

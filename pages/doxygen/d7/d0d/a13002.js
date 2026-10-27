@@ -1,7 +1,6 @@
 var a13002 =
 [
-    [ "HandleEffectScriptEffect", "d7/d0d/a13002.html#a8157c4b213b3b4e260222976e283e2ae", null ],
-    [ "PrepareSpellScript", "d7/d0d/a13002.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
-    [ "Register", "d7/d0d/a13002.html#aeda056b568b4956ba35b32a3f20c053e", null ],
-    [ "Validate", "d7/d0d/a13002.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
+    [ "OnEffect", "d7/d0d/a13002.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "d7/d0d/a13002.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "d7/d0d/a13002.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

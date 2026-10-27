@@ -1,8 +1,9 @@
 var a10958 =
 [
-    [ "GuildFilter", "dd/da6/a10958.html#a20ffe6a8d19489014484722b1481cb65", null ],
-    [ "Read", "dd/da6/a10958.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63", null ],
-    [ "MaximumLevel", "dd/da6/a10958.html#a3e23b4e2e5bda01b55ad26ea66222f78", null ],
-    [ "MinimumLevel", "dd/da6/a10958.html#a0c6523d46a325841cc5511a2a0f3e5c2", null ],
-    [ "MinimumRank", "dd/da6/a10958.html#a363df89cbe7b5aba7c7df69b65468c49", null ]
+    [ "TransportScript", "dd/da6/a10958.html#ac328f301c960bc154ada0e5f1fed294e", null ],
+    [ "IsDatabaseBound", "dd/da6/a10958.html#a956f0d757e5d974566fa8fac0df731e5", null ],
+    [ "OnAddCreaturePassenger", "dd/da6/a10958.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
+    [ "OnAddPassenger", "dd/da6/a10958.html#a806f4829b47429900271f6dde7eaa625", null ],
+    [ "OnRelocate", "dd/da6/a10958.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
+    [ "OnRemovePassenger", "dd/da6/a10958.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
 ];

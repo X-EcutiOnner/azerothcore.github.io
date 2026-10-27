@@ -1,8 +1,9 @@
 var a26926 =
 [
-    [ "CheckProc", "d0/dfe/a26926.html#a561bd6f33295c9b17ab33df8b0857864", null ],
-    [ "HandleProc", "d0/dfe/a26926.html#a2f6e1a10dfcee9b820194d252a6b5041", null ],
-    [ "PrepareAuraScript", "d0/dfe/a26926.html#a29a8fc6fd955a434ca46be59d9cdc73e", null ],
-    [ "Register", "d0/dfe/a26926.html#a75c83cd0099e38ade9e88e7438338836", null ],
-    [ "Validate", "d0/dfe/a26926.html#a64276cb77448300c2733435ee3634bd6", null ]
+    [ "spell_pal_judgement", "d0/dfe/a26926.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "d0/dfe/a26926.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "d0/dfe/a26926.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "d0/dfe/a26926.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "Validate", "d0/dfe/a26926.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "d0/dfe/a26926.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

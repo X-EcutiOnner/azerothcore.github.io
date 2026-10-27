@@ -1,6 +1,9 @@
 var a25066 =
 [
-    [ "PrepareAuraScript", "df/d9c/a25066.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
-    [ "Register", "df/d9c/a25066.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
-    [ "AuraEffectHandleModes", "df/d9c/a25066.html#aed1cfe63d82450b526e154678fb97ac4", null ]
+    [ "FilterTargets", "df/d9c/a25066.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "df/d9c/a25066.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "df/d9c/a25066.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "df/d9c/a25066.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "df/d9c/a25066.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "df/d9c/a25066.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

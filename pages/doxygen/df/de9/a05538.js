@@ -1,7 +1,4 @@
 var a05538 =
 [
-    [ "Secret", "df/de9/a05538.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
-    [ "GenerateToken", "df/de9/a05538.html#a44829d44e78247991d9c3dde270cab5c", null ],
-    [ "ValidateToken", "df/de9/a05538.html#ab6b27542814e577106ad587a5807d663", null ],
-    [ "RECOMMENDED_SECRET_LENGTH", "df/de9/a05538.html#a885fc6c1a5bda166416f161ea202eb72", null ]
+    [ "ConfigException", "df/de9/a05538.html#af1f2b8eb0acd137a05eb4417d7e9d626", null ]
 ];

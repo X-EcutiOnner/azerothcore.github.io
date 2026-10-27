@@ -1,12 +1,7 @@
 var a19506 =
 [
-    [ "npc_gothik_triggerAI", "d3/dca/a19506.html#ae45c6de238755eb069e0c182943da58c", null ],
-    [ "DamageTaken", "d3/dca/a19506.html#ada8e501edfadbb55162532f081a4b48b", null ],
-    [ "EnterEvadeMode", "d3/dca/a19506.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
-    [ "JustEngagedWith", "d3/dca/a19506.html#ab5403383f1fcd539cacf975dffbe2817", null ],
-    [ "JustSummoned", "d3/dca/a19506.html#a35be0135b77a3e62ac8d421910cf0674", null ],
-    [ "SelectRandomSkullPile", "d3/dca/a19506.html#aeafc63047c9059afdf668b8c22d2937f", null ],
-    [ "SpellHit", "d3/dca/a19506.html#a18a8135ab0395991afc4896950783ae5", null ],
-    [ "SummonedCreatureDespawn", "d3/dca/a19506.html#ad7ed092509dd41fddd44a4024c011364", null ],
-    [ "UpdateAI", "d3/dca/a19506.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
+    [ "DelayedCastMincharEvent", "d3/dca/a19506.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "d3/dca/a19506.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "d3/dca/a19506.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "d3/dca/a19506.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

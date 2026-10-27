@@ -1,6 +1,6 @@
 var a00482 =
 [
-    [ "boss_mekgineer_steamrigger", "dc/d9b/a23577.html", "dc/d9b/a23577" ],
+    [ "boss_mekgineer_steamrigger", "dc/d59/a23594.html", "dc/d59/a23594" ],
     [ "MekgineerSteamrigger", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dd", [
       [ "SAY_MECHANICS", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba", null ],
       [ "SAY_AGGRO", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe", null ],

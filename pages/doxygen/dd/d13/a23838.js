@@ -1,6 +1,5 @@
 var a23838 =
 [
-    [ "npc_capernian", "dd/d13/a23838.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "dd/d13/a23838.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "dd/d13/a23838.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "go_manticron_cube", "dd/d13/a23838.html#a87d9571aea57f16d38067ebd9e22200d", null ],
+    [ "OnGossipHello", "dd/d13/a23838.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
 ];

@@ -1,13 +1,8 @@
 var a17738 =
 [
-    [ "npc_kinetic_bombAI", "da/d14/a17738.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
-    [ "DoAction", "da/d14/a17738.html#a52e913b244e58f99745926d021dc0d95", null ],
-    [ "IsSummonedBy", "da/d14/a17738.html#a03dc3870b23105bb1d0d207adefe2541", null ],
-    [ "Reset", "da/d14/a17738.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
-    [ "UpdateAI", "da/d14/a17738.html#a1ce9bf99879796652878990a773e6a2c", null ],
-    [ "_events", "da/d14/a17738.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
-    [ "_groundZ", "da/d14/a17738.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
-    [ "_x", "da/d14/a17738.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
-    [ "_y", "da/d14/a17738.html#a5d9f4039c87e1e57234af51cd4617022", null ],
-    [ "exploded", "da/d14/a17738.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
+    [ "boss_eck", "da/d14/a17738.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "da/d14/a17738.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "da/d14/a17738.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "da/d14/a17738.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "da/d14/a17738.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

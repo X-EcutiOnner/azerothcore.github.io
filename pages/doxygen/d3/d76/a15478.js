@@ -1,6 +1,9 @@
 var a15478 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "d5/d85/a15482.html", "d5/d85/a15482" ],
-    [ "instance_razorfen_kraul", "d3/d76/a15478.html#aedd65b901c8131a7ac21e8576734f76f", null ],
-    [ "GetInstanceScript", "d3/d76/a15478.html#a78e77010ebb055b9530733ca25533110", null ]
+    [ "boss_chrono_lord_deja", "d3/d76/a15478.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "d3/d76/a15478.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "d3/d76/a15478.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "d3/d76/a15478.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "d3/d76/a15478.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "d3/d76/a15478.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

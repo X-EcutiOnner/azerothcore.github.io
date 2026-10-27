@@ -1,6 +1,5 @@
 var a20266 =
 [
-    [ "npc_pool_of_tar", "df/de1/a20266.html#a03de46dfa133992d094ab607a49b7236", null ],
-    [ "DamageTaken", "df/de1/a20266.html#ac72ad742cb16e27abf25fe0e88408315", null ],
-    [ "SpellHit", "df/de1/a20266.html#a61886862df88b41bf0c6959c9a564cea", null ]
+    [ "achievement_algalon_he_feeds_on_your_tears", "df/de1/a20266.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
+    [ "OnCheck", "df/de1/a20266.html#affea33614581545c65513bfe533d7246", null ]
 ];

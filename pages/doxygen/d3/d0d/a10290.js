@@ -1,12 +1,9 @@
 var a10290 =
 [
-    [ "MapReference", "d3/d0d/a10290.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
-    [ "~MapReference", "d3/d0d/a10290.html#a1e93b44871737991140718322fd1cd69", null ],
-    [ "next", "d3/d0d/a10290.html#a352ef695a8968a17e921861b7d6242c1", null ],
-    [ "next", "d3/d0d/a10290.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
-    [ "nocheck_prev", "d3/d0d/a10290.html#a6cfff18295cf049ff554b0f140680890", null ],
-    [ "nockeck_prev", "d3/d0d/a10290.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
-    [ "sourceObjectDestroyLink", "d3/d0d/a10290.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
-    [ "targetObjectBuildLink", "d3/d0d/a10290.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
-    [ "targetObjectDestroyLink", "d3/d0d/a10290.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
+    [ "RectangleBoundary", "d3/d0d/a10290.html#af401f84700a15fa1d4fcf78358a74735", null ],
+    [ "IsWithinBoundaryArea", "d3/d0d/a10290.html#a2d6c735d080382263a401d91da37b934", null ],
+    [ "_maxX", "d3/d0d/a10290.html#a3eff421dfe942634814e7526334f1c07", null ],
+    [ "_maxY", "d3/d0d/a10290.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
+    [ "_minX", "d3/d0d/a10290.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
+    [ "_minY", "d3/d0d/a10290.html#af5a7e35d5d9ff23c722643141f01a916", null ]
 ];

@@ -1,8 +1,6 @@
 var a17394 =
 [
-    [ "npc_hor_lumbering_abomination", "db/dd1/a17394.html#a08ae4bc9025a4bfbe91d39d256e34060", null ],
-    [ "JustDied", "db/dd1/a17394.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61", null ],
-    [ "JustEngagedWith", "db/dd1/a17394.html#a5380771abba095749e1e0b30fe070a73", null ],
-    [ "Reset", "db/dd1/a17394.html#afd56b698fac5f7f13e718d645608213f", null ],
-    [ "UpdateAI", "db/dd1/a17394.html#a79e99c86f54a4fc7cbcf98e2a08e62ed", null ]
+    [ "FilterTargets", "db/dd1/a17394.html#a36879a2920f43562bb0ff89c76d758e4", null ],
+    [ "PrepareSpellScript", "db/dd1/a17394.html#afeb95c5fe970ebc147d509981b026e98", null ],
+    [ "Register", "db/dd1/a17394.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
 ];

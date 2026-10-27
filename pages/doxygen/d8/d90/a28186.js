@@ -1,6 +1,5 @@
 var a28186 =
 [
-    [ "go_heatAI", "d8/dfe/a28190.html", "d8/dfe/a28190" ],
-    [ "go_heat", "d8/d90/a28186.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "d8/d90/a28186.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "achievement_save_the_day", "d8/d90/a28186.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "d8/d90/a28186.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

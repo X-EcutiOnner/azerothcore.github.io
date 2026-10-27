@@ -1,5 +1,6 @@
 var a28950 =
 [
-    [ "ID", "dd/d04/a28950.html#a0272b3c1130508a2681035c91ee416e6", null ],
-    [ "SpellID", "dd/d04/a28950.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
+    [ "X", "dd/d04/a28950.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "dd/d04/a28950.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "dd/d04/a28950.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

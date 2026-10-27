@@ -1,11 +1,9 @@
 var a24658 =
 [
-    [ "CalcPeriodic", "d5/de8/a24658.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "d5/de8/a24658.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "d5/de8/a24658.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "d5/de8/a24658.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "d5/de8/a24658.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "d5/de8/a24658.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "d5/de8/a24658.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "d5/de8/a24658.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "npc_pet_shaman_earth_elemental", "d5/de8/a24658.html#a07f3792cb3b5264d209f1b4726867773", null ],
+    [ "InitializeAI", "d5/de8/a24658.html#a8bbca6686ae324a50cd1598125280446", null ],
+    [ "JustEngagedWith", "d5/de8/a24658.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
+    [ "UpdateAI", "d5/de8/a24658.html#ab28951b483cab31bf5672fc74e7323e1", null ],
+    [ "_events", "d5/de8/a24658.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
+    [ "_initAttack", "d5/de8/a24658.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
 ];

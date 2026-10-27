@@ -1,5 +1,5 @@
 var a20946 =
 [
-    [ "achievement_heartbreaker", "dd/df0/a20946.html#ad81925fc32d7cf914b7be44aabe49b39", null ],
-    [ "OnCheck", "dd/df0/a20946.html#ab3a2539ae5dc74743beb0dc0ea0147af", null ]
+    [ "achievement_quick_shave", "dd/df0/a20946.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
+    [ "OnCheck", "dd/df0/a20946.html#a151c479da3d4cec05999ad8a249b100c", null ]
 ];

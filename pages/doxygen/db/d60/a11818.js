@@ -1,8 +1,8 @@
 var a11818 =
 [
-    [ "SkillExtraItemEntry", "db/d60/a11818.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "db/d60/a11818.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "db/d60/a11818.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "db/d60/a11818.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "db/d60/a11818.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "ServerPktHeader", "db/d60/a11818.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "db/d60/a11818.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "db/d60/a11818.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "db/d60/a11818.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "db/d60/a11818.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

@@ -1,5 +1,8 @@
 var a17942 =
 [
-    [ "achievement_flu_shot_shortage", "d7/d51/a17942.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "d7/d51/a17942.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "OnApply", "d7/d51/a17942.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "d7/d51/a17942.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "d7/d51/a17942.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "d7/d51/a17942.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "d7/d51/a17942.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

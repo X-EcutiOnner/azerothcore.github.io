@@ -1,8 +1,9 @@
 var a20882 =
 [
-    [ "npc_pummeller", "de/de3/a20882.html#a0c67bf3781fde8d4580aad093bf87291", null ],
-    [ "Reset", "de/de3/a20882.html#abdb3f0984c03780aee9dd55496fc7835", null ],
-    [ "UpdateAI", "de/de3/a20882.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
-    [ "_instance", "de/de3/a20882.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
-    [ "_scheduler", "de/de3/a20882.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
+    [ "npc_expedition_trapper", "de/de3/a20882.html#ac924a9b9e23624de1460b0cdfe8c8a1b", null ],
+    [ "DoAction", "de/de3/a20882.html#a094ecbf1a719223d50c7d070989aa782", null ],
+    [ "MovementInform", "de/de3/a20882.html#ae2a0c15b4a7d59f4222e818d0fcf303b", null ],
+    [ "SetData", "de/de3/a20882.html#a11241b1513209a9964569ab29eb5dc64", null ],
+    [ "UpdateAI", "de/de3/a20882.html#a16a39f855263ebde21ddb03d4fe60460", null ],
+    [ "_idx", "de/de3/a20882.html#ae24ec016a0f29f7bcb41935e1991f9fa", null ]
 ];

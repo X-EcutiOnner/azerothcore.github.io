@@ -1,14 +1,17 @@
 var a22746 =
 [
-    [ "npc_maiev_illidan", "dd/d30/a22746.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
-    [ "DamageTaken", "dd/d30/a22746.html#a780cc558c483efa3293d798cc6048a33", null ],
-    [ "DoAction", "dd/d30/a22746.html#a53607a158edf8fd772908b5d7af6edf1", null ],
-    [ "IsSummonedBy", "dd/d30/a22746.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
-    [ "JustEngagedWith", "dd/d30/a22746.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
-    [ "JustExitedCombat", "dd/d30/a22746.html#a5606060b12e17edfd6ad05f4f01dd339", null ],
-    [ "Reset", "dd/d30/a22746.html#a100db757c89634a58b9382216e2791ec", null ],
-    [ "SpellHit", "dd/d30/a22746.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
-    [ "UpdateAI", "dd/d30/a22746.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
-    [ "_outroActive", "dd/d30/a22746.html#af0f1e48d3712039cb110d5a69a464009", null ],
-    [ "instance", "dd/d30/a22746.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
+    [ "OutdoorPvPHP", "dd/d30/a22746.html#a19118d7facc4a745e391491fb7d95421", null ],
+    [ "FillInitialWorldStates", "dd/d30/a22746.html#a4ecc55395f1f792075e07026e1ccd171", null ],
+    [ "GetAllianceTowersControlled", "dd/d30/a22746.html#ae6d3a1561b94d92539a5dd8b5ac56689", null ],
+    [ "GetHordeTowersControlled", "dd/d30/a22746.html#a9395b6966bcdd36b448ca1c403f17873", null ],
+    [ "HandleKillImpl", "dd/d30/a22746.html#aad7804f10c42f6643397d673ba4e9bee", null ],
+    [ "HandlePlayerEnterZone", "dd/d30/a22746.html#a117149e3db7fa02fdcfab05a6ff6de18", null ],
+    [ "HandlePlayerLeaveZone", "dd/d30/a22746.html#abf21499824ad64aa7a26a4b33090783e", null ],
+    [ "SendRemoveWorldStates", "dd/d30/a22746.html#ac94c44783b2141c751d5c16a24bce8d4", null ],
+    [ "SetAllianceTowersControlled", "dd/d30/a22746.html#a1f9bbc083ae0bb7c00a303909ab043f5", null ],
+    [ "SetHordeTowersControlled", "dd/d30/a22746.html#ae5de375e1ec88dc5ce0059490596a935", null ],
+    [ "SetupOutdoorPvP", "dd/d30/a22746.html#aee60f1d1da4d6eecd0e66cf975272979", null ],
+    [ "Update", "dd/d30/a22746.html#aeec44f41e6d6fe7c768bb738a3eafb47", null ],
+    [ "m_AllianceTowersControlled", "dd/d30/a22746.html#a90c41df874abfee0a4861cf923de9ab5", null ],
+    [ "m_HordeTowersControlled", "dd/d30/a22746.html#ada8244f57fe3a693d167689d3f921025", null ]
 ];

@@ -1,7 +1,6 @@
 var a23614 =
 [
-    [ "HandleDummyApply", "d9/df4/a23614.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "d9/df4/a23614.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "d9/df4/a23614.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "d9/df4/a23614.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d9/df4/a23614.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d9/df4/a23614.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d9/df4/a23614.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

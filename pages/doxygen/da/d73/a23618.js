@@ -1,6 +1,13 @@
 var a23618 =
 [
-    [ "HandleHit", "da/d73/a23618.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
-    [ "PrepareSpellScript", "da/d73/a23618.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
-    [ "Register", "da/d73/a23618.html#acb1b681f587817614c2b3684585369db", null ]
+    [ "boss_ghazan", "da/d73/a23618.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "da/d73/a23618.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "da/d73/a23618.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "da/d73/a23618.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "da/d73/a23618.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "da/d73/a23618.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "da/d73/a23618.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "da/d73/a23618.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "da/d73/a23618.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "da/d73/a23618.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

@@ -1,7 +1,8 @@
 var a24086 =
 [
-    [ "npc_kurenai_captiveAI", "d9/d63/a24090.html", "d9/d63/a24090" ],
-    [ "npc_kurenai_captive", "db/d2e/a24086.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
-    [ "GetAI", "db/d2e/a24086.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
-    [ "OnQuestAccept", "db/d2e/a24086.html#a5e87cd850d0fc6272d89dd3c7901af5f", null ]
+    [ "HandleScriptEffect", "db/d2e/a24086.html#a7cde39fc0844f19604c8026a853e8216", null ],
+    [ "Load", "db/d2e/a24086.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
+    [ "PrepareSpellScript", "db/d2e/a24086.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
+    [ "Register", "db/d2e/a24086.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
+    [ "_currentSpellId", "db/d2e/a24086.html#a0ad25535ba345fe9672150af67687305", null ]
 ];

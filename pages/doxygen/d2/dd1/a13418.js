@@ -1,8 +1,5 @@
 var a13418 =
 [
-    [ "CheckProc", "d2/dd1/a13418.html#a085f6affd2bf76fe66f9023e67725848", null ],
-    [ "HandleProc", "d2/dd1/a13418.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
-    [ "PrepareAuraScript", "d2/dd1/a13418.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
-    [ "Register", "d2/dd1/a13418.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
-    [ "Validate", "d2/dd1/a13418.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
+    [ "at_karazhan_mirkblood_entrance", "d2/dd1/a13418.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
+    [ "OnTrigger", "d2/dd1/a13418.html#ad99c85de36a369752fa61bab761a402e", null ]
 ];

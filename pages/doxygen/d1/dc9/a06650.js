@@ -1,10 +1,9 @@
 var a06650 =
 [
-    [ "bvar", "d1/dc9/a06650.html#aa6e8fda81f0f4b6d8f6e984616b5952d", null ],
-    [ "gob", "d1/dc9/a06650.html#ad654cef8dd1ab99af027ff31c160a36d", null ],
-    [ "holder", "d1/dc9/a06650.html#a46e408867f98388ecf66692438d48000", null ],
-    [ "spell", "d1/dc9/a06650.html#a6678b172ab306d90b04341dcb17a132e", null ],
-    [ "unit", "d1/dc9/a06650.html#a210df2cde720f8eb4c956444fb536150", null ],
-    [ "var0", "d1/dc9/a06650.html#a4d90bbe920dca0d5a5be8e2a93a0af99", null ],
-    [ "var1", "d1/dc9/a06650.html#a6aafd8266267ea053a538a813acccb78", null ]
+    [ "AISpellInfoType", "d1/dc9/a06650.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
+    [ "condition", "d1/dc9/a06650.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
+    [ "cooldown", "d1/dc9/a06650.html#a6ea49fdc98ece29ceee63352424e9366", null ],
+    [ "maxRange", "d1/dc9/a06650.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
+    [ "realCooldown", "d1/dc9/a06650.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
+    [ "target", "d1/dc9/a06650.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
 ];

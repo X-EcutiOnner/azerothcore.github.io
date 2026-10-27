@@ -1,9 +1,10 @@
 var a09702 =
 [
-    [ "PlayerDistWorker", "d4/d01/a09702.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
-    [ "Visit", "d4/d01/a09702.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
-    [ "Visit", "d4/d01/a09702.html#a2658f12f90953f1057a9377b21824879", null ],
-    [ "i_dist", "d4/d01/a09702.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
-    [ "i_do", "d4/d01/a09702.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
-    [ "i_searcher", "d4/d01/a09702.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
+    [ "AIRelocationNotifier", "d4/d01/a09702.html#a05c1f74272dff612eeda6c50d1c6fb43", null ],
+    [ "Visit", "d4/d01/a09702.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
+    [ "Visit", "d4/d01/a09702.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
+    [ "Visit", "d4/d01/a09702.html#a3cbdb164a6239614ef6ade13ddb5d33c", null ],
+    [ "i_unit", "d4/d01/a09702.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
+    [ "includePlayers", "d4/d01/a09702.html#ac7985b8f0282180a063ccfba7583917e", null ],
+    [ "isCreature", "d4/d01/a09702.html#a199f4b91d00dd4db90855e5521d87a95", null ]
 ];

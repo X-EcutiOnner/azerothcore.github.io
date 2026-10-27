@@ -1,7 +1,5 @@
 var a19914 =
 [
-    [ "HandleProc", "d6/d63/a19914.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "d6/d63/a19914.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "d6/d63/a19914.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "d6/d63/a19914.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "achievement_intense_cold", "d6/d63/a19914.html#a2377357d6bfc03e5b91354428d3da3de", null ],
+    [ "OnCheck", "d6/d63/a19914.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
 ];

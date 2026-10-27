@@ -1,7 +1,10 @@
 var a25170 =
 [
-    [ "HandleScript", "d2/dac/a25170.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
-    [ "Load", "d2/dac/a25170.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
-    [ "PrepareSpellScript", "d2/dac/a25170.html#a7616d761e7a7a708c88918302b488bb9", null ],
-    [ "Register", "d2/dac/a25170.html#a8ca351c9e0e254369328865eefa3ff91", null ]
+    [ "HandleEffectApply", "d2/dac/a25170.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "d2/dac/a25170.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "d2/dac/a25170.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "d2/dac/a25170.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "d2/dac/a25170.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "d2/dac/a25170.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "d2/dac/a25170.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

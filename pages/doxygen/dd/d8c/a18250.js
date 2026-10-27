@@ -1,6 +1,6 @@
 var a18250 =
 [
-    [ "PrepareSpellScript", "dd/d8c/a18250.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "dd/d8c/a18250.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "dd/d8c/a18250.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "IgbArtilleryCheck", "dd/d8c/a18250.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "dd/d8c/a18250.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "dd/d8c/a18250.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

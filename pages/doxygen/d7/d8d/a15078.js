@@ -1,6 +1,7 @@
 var a15078 =
 [
-    [ "PrepareAuraScript", "d7/d8d/a15078.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "d7/d8d/a15078.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "d7/d8d/a15078.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "OnApply", "d7/d8d/a15078.html#a42148069675e663456bb5495fa5c8702", null ],
+    [ "OnPeriodic", "d7/d8d/a15078.html#ad3582b02b369e3029e20817dd19aede0", null ],
+    [ "PrepareAuraScript", "d7/d8d/a15078.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
+    [ "Register", "d7/d8d/a15078.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
 ];

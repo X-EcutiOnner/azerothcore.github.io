@@ -1,6 +1,10 @@
 var a16666 =
 [
-    [ "PrepareSpellScript", "da/df8/a16666.html#a743f910c3854e2c4e726e97c55fa7038", null ],
-    [ "Register", "da/df8/a16666.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
-    [ "RemoveNotBetween", "da/df8/a16666.html#aba462e5b8e9336a508d19606f98750b5", null ]
+    [ "npc_xerestraszaAI", "da/df8/a16666.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
+    [ "DoAction", "da/df8/a16666.html#af696ecee315892b2bf0233113d2f89f9", null ],
+    [ "Reset", "da/df8/a16666.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
+    [ "UpdateAI", "da/df8/a16666.html#a6389ab58f4b44c668590113ec75f2adf", null ],
+    [ "_events", "da/df8/a16666.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
+    [ "_introDone", "da/df8/a16666.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
+    [ "_isIntro", "da/df8/a16666.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
 ];

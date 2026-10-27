@@ -1,6 +1,11 @@
 var a08934 =
 [
-    [ "PlayerCreateInfoItem", "d6/d9a/a08934.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
-    [ "item_amount", "d6/d9a/a08934.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
-    [ "item_id", "d6/d9a/a08934.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
+    [ "ObjectGuidGeneratorBase", "d6/d9a/a08934.html#a8af6741cc884915ee86b489fc970fed1", null ],
+    [ "~ObjectGuidGeneratorBase", "d6/d9a/a08934.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
+    [ "Generate", "d6/d9a/a08934.html#ac655829fc5af48625c04bab57597fe66", null ],
+    [ "GetClusterGuid", "d6/d9a/a08934.html#a7617177be7e333129fe0b6ed94019f6e", null ],
+    [ "GetNextAfterMaxUsed", "d6/d9a/a08934.html#abf1f20b97af8071459bd850e7106a442", null ],
+    [ "HandleCounterOverflow", "d6/d9a/a08934.html#ada7a44ac47b112491c575c38465740fc", null ],
+    [ "Set", "d6/d9a/a08934.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
+    [ "_nextGuid", "d6/d9a/a08934.html#a4a14102e019aa10f41b050054cacca22", null ]
 ];

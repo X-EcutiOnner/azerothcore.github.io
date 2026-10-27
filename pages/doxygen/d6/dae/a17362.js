@@ -1,10 +1,6 @@
 var a17362 =
 [
-    [ "boss_frostsworn_general", "d6/dae/a17362.html#adae1b1d60e78a33b875ac08312a454cf", null ],
-    [ "EnterEvadeMode", "d6/dae/a17362.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
-    [ "JustDied", "d6/dae/a17362.html#a14741cafce857fa819418ec3208c62fc", null ],
-    [ "JustEngagedWith", "d6/dae/a17362.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
-    [ "Reset", "d6/dae/a17362.html#a1576562e5fe2247235b152029aa8edce", null ],
-    [ "UpdateAI", "d6/dae/a17362.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
-    [ "instance", "d6/dae/a17362.html#ab04347cee4d7542171d622cfde936cb1", null ]
+    [ "instance_drak_tharon_keep", "d6/dae/a17362.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
+    [ "OnGameObjectCreate", "d6/dae/a17362.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
+    [ "OnGameObjectRemove", "d6/dae/a17362.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
 ];

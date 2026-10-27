@@ -1,6 +1,5 @@
 var a21922 =
 [
-    [ "npc_mrfloppyAI", "df/df8/a21926.html", "df/df8/a21926" ],
-    [ "npc_mrfloppy", "d0/d18/a21922.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d0/d18/a21922.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "go_the_pearl_of_the_depths", "d0/d18/a21922.html#a0e09ddcde0eef050400d90e9a268823a", null ],
+    [ "OnGossipHello", "d0/d18/a21922.html#a745ea14136a78759a3afd7714c6d784a", null ]
 ];

@@ -1,11 +1,8 @@
 var a25426 =
 [
-    [ "spell_gen_consume", "dc/d18/a25426.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
-    [ "AfterRemove", "dc/d18/a25426.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
-    [ "HandleProc", "dc/d18/a25426.html#af69251aa0415a2148162f32dd9113917", null ],
-    [ "PrepareAuraScript", "dc/d18/a25426.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
-    [ "Register", "dc/d18/a25426.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
-    [ "Validate", "dc/d18/a25426.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
-    [ "_spellId1", "dc/d18/a25426.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
-    [ "_spellId2", "dc/d18/a25426.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
+    [ "CheckRequirement", "dc/d18/a25426.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
+    [ "HandleScript", "dc/d18/a25426.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
+    [ "Load", "dc/d18/a25426.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
+    [ "PrepareSpellScript", "dc/d18/a25426.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
+    [ "Register", "dc/d18/a25426.html#a89d053e0ee793017c74188aac32d99d5", null ]
 ];

@@ -1,7 +1,7 @@
 var a23074 =
 [
-    [ "PrepareAuraScript", "d8/d79/a23074.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "d8/d79/a23074.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "d8/d79/a23074.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "d8/d79/a23074.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "PrepareAuraScript", "d8/d79/a23074.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "d8/d79/a23074.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "d8/d79/a23074.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "d8/d79/a23074.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

@@ -1,8 +1,5 @@
 var a11810 =
 [
-    [ "SkillDiscoveryEntry", "d6/d02/a11810.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "d6/d02/a11810.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "d6/d02/a11810.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "d6/d02/a11810.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "d6/d02/a11810.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "SocketIPBytes", "d6/d02/a11810.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
+    [ "SocketPort", "d6/d02/a11810.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
 ];

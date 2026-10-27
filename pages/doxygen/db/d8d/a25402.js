@@ -1,6 +1,7 @@
 var a25402 =
 [
-    [ "HandleCast", "db/d8d/a25402.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "db/d8d/a25402.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "db/d8d/a25402.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "HandleEffectApply", "db/d8d/a25402.html#a97a639459622c9e3e995057989cf9eda", null ],
+    [ "HandleEffectRemove", "db/d8d/a25402.html#a7477bb78ffcc082c111bad4e93b9fd73", null ],
+    [ "PrepareAuraScript", "db/d8d/a25402.html#aa3c4018e18eccd8f12e4607f4bc630ec", null ],
+    [ "Register", "db/d8d/a25402.html#a40793c696a759db4920c4c34f5b9fa66", null ]
 ];

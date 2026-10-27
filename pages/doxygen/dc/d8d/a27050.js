@@ -1,6 +1,7 @@
 var a27050 =
 [
-    [ "HandleScript", "dc/d8d/a27050.html#ae81570045d4984ee5682a0333b1b142d", null ],
-    [ "PrepareSpellScript", "dc/d8d/a27050.html#acb074781e07961998362349a7616fc4e", null ],
-    [ "Register", "dc/d8d/a27050.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
+    [ "FilterTargets", "dc/d8d/a27050.html#ad679149423fda97ad5744318520022b1", null ],
+    [ "PrepareSpellScript", "dc/d8d/a27050.html#ac57c48690c5ad1b907f56287aee949a4", null ],
+    [ "Register", "dc/d8d/a27050.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
+    [ "Validate", "dc/d8d/a27050.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
 ];

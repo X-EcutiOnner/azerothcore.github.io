@@ -1,6 +1,7 @@
 var a27922 =
 [
-    [ "HandleOnHit", "dc/d78/a27922.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "dc/d78/a27922.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "dc/d78/a27922.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "HandleDummy", "dc/d78/a27922.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
+    [ "PrepareSpellScript", "dc/d78/a27922.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
+    [ "Register", "dc/d78/a27922.html#aee02661fa8845afd666ca27163b4a761", null ],
+    [ "Validate", "dc/d78/a27922.html#aba9079e2418281315029c839b22df1c5", null ]
 ];

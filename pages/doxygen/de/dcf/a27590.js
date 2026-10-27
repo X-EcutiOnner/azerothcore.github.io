@@ -1,7 +1,6 @@
 var a27590 =
 [
-    [ "CheckProc", "de/dcf/a27590.html#a982264a8ea20344b66269a3edd814db7", null ],
-    [ "HandleProc", "de/dcf/a27590.html#adf79a132d1ae20e27b07dc77e103fb3c", null ],
-    [ "PrepareAuraScript", "de/dcf/a27590.html#abd0ac0c324e3323140812c7d4c937e1e", null ],
-    [ "Register", "de/dcf/a27590.html#ac24fe502aa899f953b694fe3ebf46012", null ]
+    [ "CheckProc", "de/dcf/a27590.html#a5e48b25b15b60aa284ca61e900e0f87e", null ],
+    [ "PrepareAuraScript", "de/dcf/a27590.html#a13ccd1c89767d0dcf041217466390759", null ],
+    [ "Register", "de/dcf/a27590.html#a4f29ca53813534b1af20e09281288e95", null ]
 ];

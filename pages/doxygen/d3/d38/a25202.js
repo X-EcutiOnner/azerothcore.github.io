@@ -1,8 +1,9 @@
 var a25202 =
 [
-    [ "OnApply", "d3/d38/a25202.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
-    [ "OnRemove", "d3/d38/a25202.html#a3ced5941c25fce087699aa095cd487c9", null ],
-    [ "PrepareAuraScript", "d3/d38/a25202.html#a497776c6ffdda8670fa255b76057bf2c", null ],
-    [ "Register", "d3/d38/a25202.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
-    [ "Validate", "d3/d38/a25202.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
+    [ "PrepareAuraScript", "d3/d38/a25202.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "d3/d38/a25202.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "d3/d38/a25202.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "d3/d38/a25202.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "d3/d38/a25202.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "d3/d38/a25202.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

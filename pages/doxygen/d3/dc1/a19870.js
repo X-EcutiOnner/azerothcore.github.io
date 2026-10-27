@@ -1,6 +1,7 @@
 var a19870 =
 [
-    [ "instance_oculus_InstanceMapScript", "d6/da2/a19874.html", "d6/da2/a19874" ],
-    [ "instance_oculus", "d3/dc1/a19870.html#a404205ea7106531ea57307c40b9589bb", null ],
-    [ "GetInstanceScript", "d3/dc1/a19870.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
+    [ "FilterTargets", "d3/dc1/a19870.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d3/dc1/a19870.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d3/dc1/a19870.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d3/dc1/a19870.html#a5fcc9cc654d6495f535600a6eef4c968", null ]
 ];

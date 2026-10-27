@@ -1,13 +1,10 @@
 var a07878 =
 [
-    [ "WhoListCacheMgr", "d3/d8d/a07878.html#a2190c113c3d38bd316b17a4400c113e6", null ],
-    [ "~WhoListCacheMgr", "d3/d8d/a07878.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
-    [ "WhoListCacheMgr", "d3/d8d/a07878.html#a366e452317179d647042c24c56faafa1", null ],
-    [ "WhoListCacheMgr", "d3/d8d/a07878.html#ae0358ae9260f929410f6518f89135161", null ],
-    [ "GetWhoList", "d3/d8d/a07878.html#a4dec6544342fdc5052b69dcc61148453", null ],
-    [ "instance", "d3/d8d/a07878.html#a1e8ce970e3213cd0361af303df98b387", null ],
-    [ "operator=", "d3/d8d/a07878.html#a80615aa0a66ac29765f27598e605c712", null ],
-    [ "operator=", "d3/d8d/a07878.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
-    [ "Update", "d3/d8d/a07878.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
-    [ "_whoListStorage", "d3/d8d/a07878.html#a75495cb910c6de65d60a5080248e1e25", null ]
+    [ "BattlegroundEYScore", "d3/d8d/a07878.html#a91c17f1ff1924439b05840cd11ede36f", null ],
+    [ "BuildObjectivesBlock", "d3/d8d/a07878.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
+    [ "GetAttr1", "d3/d8d/a07878.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
+    [ "GetFlagCaptures", "d3/d8d/a07878.html#accdeef27151cec4e30bf85bae7aba694", null ],
+    [ "UpdateScore", "d3/d8d/a07878.html#afad034f453c54587b86532a37335ab18", null ],
+    [ "BattlegroundEY", "d3/d8d/a07878.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
+    [ "FlagCaptures", "d3/d8d/a07878.html#a057a335c7491c1031666e6d10cf314b2", null ]
 ];

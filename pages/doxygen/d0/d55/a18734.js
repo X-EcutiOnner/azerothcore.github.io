@@ -1,8 +1,5 @@
 var a18734 =
 [
-    [ "ChangeDamageAndGrow", "d0/d55/a18734.html#a017ade08eca93f326d2e5115c4d88c33", null ],
-    [ "CorrectRange", "d0/d55/a18734.html#a9022b9efab89bc562428520b3551ff37", null ],
-    [ "PrepareSpellScript", "d0/d55/a18734.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
-    [ "Register", "d0/d55/a18734.html#a998b810cdbecbca2bf65f18cee14d286", null ],
-    [ "Validate", "d0/d55/a18734.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
+    [ "FrozenThroneResetWorker", "d0/d55/a18734.html#afd21e9c1449d4e391713256e197bc92b", null ],
+    [ "operator()", "d0/d55/a18734.html#a7119548d30d760ae817a87cacf712cf6", null ]
 ];

@@ -1,11 +1,7 @@
 var a24534 =
 [
-    [ "CalcPeriodic", "d9/de3/a24534.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
-    [ "CalculateHasteAmount", "d9/de3/a24534.html#a75d428e0b3619d53bd9436712d2e394e", null ],
-    [ "CalculateSPAmount", "d9/de3/a24534.html#a81805b43a47065281f83889d8be95c54", null ],
-    [ "CalculateStatAmount", "d9/de3/a24534.html#a763276aaa00bb6953e0b52118662e7a8", null ],
-    [ "HandleEffectApply", "d9/de3/a24534.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
-    [ "HandlePeriodic", "d9/de3/a24534.html#ab3c7d479eae88ab4a59b06610af19429", null ],
-    [ "PrepareAuraScript", "d9/de3/a24534.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
-    [ "Register", "d9/de3/a24534.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
+    [ "npc_isla_starmaneAI", "dd/de4/a24538.html", "dd/de4/a24538" ],
+    [ "npc_isla_starmane", "d9/de3/a24534.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
+    [ "GetAI", "d9/de3/a24534.html#a0ea2dbaab4115772f92849e06aa85575", null ],
+    [ "OnQuestAccept", "d9/de3/a24534.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
 ];

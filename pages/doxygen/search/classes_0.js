@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['_5fdamage_0',['_Damage',['../d0/d6b/a08829.html',1,'']]],
-  ['_5fitemstat_1',['_ItemStat',['../db/d9b/a08833.html',1,'']]],
-  ['_5fsocket_2',['_Socket',['../d1/db3/a08841.html',1,'']]],
-  ['_5fspell_3',['_Spell',['../d4/dd7/a08837.html',1,'']]],
-  ['_5fspellscript_4',['_SpellScript',['../d3/d54/a12101.html',1,'']]]
+  ['_5fdamage_0',['_Damage',['../d8/d60/a08842.html',1,'']]],
+  ['_5fitemstat_1',['_ItemStat',['../da/d0a/a08846.html',1,'']]],
+  ['_5fsocket_2',['_Socket',['../de/d62/a08854.html',1,'']]],
+  ['_5fspell_3',['_Spell',['../dd/d67/a08850.html',1,'']]],
+  ['_5fspellscript_4',['_SpellScript',['../d4/dff/a12118.html',1,'']]]
 ];

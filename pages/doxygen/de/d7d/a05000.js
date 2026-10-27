@@ -1,9 +1,9 @@
 var a05000 =
 [
-    [ "Acore::Impl::StringConvertImpl::For< T, typename >", "d8/d6b/a05945.html", null ],
-    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "d6/da4/a05949.html", "d6/da4/a05949" ],
-    [ "Acore::Impl::StringConvertImpl::For< bool, void >", "d4/d11/a05953.html", "d4/d11/a05953" ],
-    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "dd/dcd/a05957.html", "dd/dcd/a05957" ],
-    [ "StringTo", "de/d7d/a05000.html#a71739ada07c2f1b12bcd0aa811eea903", null ],
-    [ "ToString", "de/d7d/a05000.html#ac2cb308fb001c35fbaa90489ea6cf478", null ]
+    [ "getAngle", "de/d7d/a05000.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
+    [ "getCircleAreaByRadius", "de/d7d/a05000.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
+    [ "getCirclePerimeterByRadius", "de/d7d/a05000.html#a62641094ea3c1b9506faefa7a35ba456", null ],
+    [ "getCylinderVolume", "de/d7d/a05000.html#a95ce6760beb476a4c24ff46d3069103f", null ],
+    [ "getSlopeAngle", "de/d7d/a05000.html#a61d2d33d44f335480a833a04436620ba", null ],
+    [ "getSlopeAngleAbs", "de/d7d/a05000.html#a0b02845f56a27df498d0598d259ca5e1", null ]
 ];

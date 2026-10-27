@@ -1,8 +1,10 @@
 var a28558 =
 [
-    [ "npc_wormholeAI", "d9/d06/a28562.html", "d9/d06/a28562" ],
-    [ "npc_wormhole", "db/d12/a28558.html#aeace4cbf665409786b86140709191cb0", null ],
-    [ "GetAI", "db/d12/a28558.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
-    [ "OnGossipHello", "db/d12/a28558.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
-    [ "OnGossipSelect", "db/d12/a28558.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
+    [ "guard_shattrath_scryerAI", "db/d12/a28558.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "db/d12/a28558.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "db/d12/a28558.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "db/d12/a28558.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "db/d12/a28558.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "db/d12/a28558.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "db/d12/a28558.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

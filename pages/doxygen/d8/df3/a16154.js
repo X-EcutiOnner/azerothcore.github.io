@@ -1,8 +1,7 @@
 var a16154 =
 [
-    [ "npc_giltharesAI", "d8/df3/a16154.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "d8/df3/a16154.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "d8/df3/a16154.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "d8/df3/a16154.html#a9308c73760e50e0f3d04031b508526d1", null ],
-    [ "WaypointReached", "d8/df3/a16154.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_giant_spotlightAI", "d8/df3/a16154.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "d8/df3/a16154.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "d8/df3/a16154.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "d8/df3/a16154.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

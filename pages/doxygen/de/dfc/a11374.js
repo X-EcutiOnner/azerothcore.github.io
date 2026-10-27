@@ -1,5 +1,6 @@
 var a11374 =
 [
-    [ "LFGLeave", "de/dfc/a11374.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
-    [ "Read", "de/dfc/a11374.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
+    [ "SetRaidDifficultyClient", "de/dfc/a11374.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
+    [ "Read", "de/dfc/a11374.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
+    [ "Mode", "de/dfc/a11374.html#a445a55f5069f60a184b119c57cfedf9a", null ]
 ];

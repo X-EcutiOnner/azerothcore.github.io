@@ -1,6 +1,6 @@
 var a26894 =
 [
-    [ "CheckCast", "de/d60/a26894.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
-    [ "PrepareSpellScript", "de/d60/a26894.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
-    [ "Register", "de/d60/a26894.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
+    [ "HandleEffectCalcSpellMod", "de/d60/a26894.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "de/d60/a26894.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "de/d60/a26894.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

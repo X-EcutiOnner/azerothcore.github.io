@@ -1,6 +1,9 @@
 var a23970 =
 [
-    [ "npc_deaths_fel_cannonAI", "d4/dda/a23970.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
-    [ "Reset", "d4/dda/a23970.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
-    [ "UpdateAI", "d4/dda/a23970.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
+    [ "boss_high_botanist_freywinn", "d4/dda/a23970.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "d4/dda/a23970.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "d4/dda/a23970.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "d4/dda/a23970.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "d4/dda/a23970.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "d4/dda/a23970.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

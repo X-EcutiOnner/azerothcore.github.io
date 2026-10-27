@@ -1,9 +1,14 @@
 var a10486 =
 [
-    [ "PathMovementBase", "dd/d95/a10486.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
-    [ "PathMovementBase", "dd/d95/a10486.html#a953fcda0cf7764f659fc5a4a19408550", null ],
-    [ "~PathMovementBase", "dd/d95/a10486.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
-    [ "GetCurrentNode", "dd/d95/a10486.html#a7ceb52928f2198392980c3926516fd82", null ],
-    [ "i_currentNode", "dd/d95/a10486.html#a5420aef90d3529881ef41362ebb29934", null ],
-    [ "i_path", "dd/d95/a10486.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
+    [ "~MovementGenerator", "dd/d95/a10486.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
+    [ "Finalize", "dd/d95/a10486.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
+    [ "GetMovementGeneratorType", "dd/d95/a10486.html#a60bac341b438ea7258986f234a952324", null ],
+    [ "GetResetPosition", "dd/d95/a10486.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
+    [ "GetSplineId", "dd/d95/a10486.html#a99865a1b7cf84b02784bfa8df958585f", null ],
+    [ "Initialize", "dd/d95/a10486.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
+    [ "Pause", "dd/d95/a10486.html#a37530e5cd743faecabd21eba08dce939", null ],
+    [ "Reset", "dd/d95/a10486.html#aa6641fa1182551421fc8572afad8e083", null ],
+    [ "Resume", "dd/d95/a10486.html#a51988a8b0a45459242467e38ca46303c", null ],
+    [ "unitSpeedChanged", "dd/d95/a10486.html#a0f9c4fd52947688dcda1161924e829bb", null ],
+    [ "Update", "dd/d95/a10486.html#ae3014d8c6e728799c86134ef64737ed5", null ]
 ];

@@ -1,6 +1,7 @@
 var a26314 =
 [
-    [ "PrepareSpellScript", "d3/d08/a26314.html#a8127429829afd4b82395a821a4bea19c", null ],
-    [ "Register", "d3/d08/a26314.html#a73717914aa23764fa16c8a2965798a6a", null ],
-    [ "SecondaryEffect", "d3/d08/a26314.html#a6150d8615c7f579aadd50e28aba0d569", null ]
+    [ "HandleDummy", "d3/d08/a26314.html#ac3486a646322ef1b6098eeeedaec7d4b", null ],
+    [ "PrepareSpellScript", "d3/d08/a26314.html#a455bdb8fb98431d47b3e414dc3b59b13", null ],
+    [ "Register", "d3/d08/a26314.html#acdade97c38a75439b3da751a0c348e37", null ],
+    [ "Validate", "d3/d08/a26314.html#a2081334e6b7a4191801bc0556e26198c", null ]
 ];

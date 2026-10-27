@@ -1,6 +1,5 @@
 var a16210 =
 [
-    [ "npc_cairne_bloodhoofAI", "d0/dd5/a16214.html", "d0/dd5/a16214" ],
-    [ "npc_cairne_bloodhoof", "d5/d0d/a16210.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
-    [ "GetAI", "d5/d0d/a16210.html#a1c34470c46ae9e98684de0e786be28b7", null ]
+    [ "go_crystalline_tear", "d5/d0d/a16210.html#a9e19c6538ecd1a758f2639171321d965", null ],
+    [ "OnQuestAccept", "d5/d0d/a16210.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
 ];

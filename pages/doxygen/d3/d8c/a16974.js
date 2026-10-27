@@ -1,6 +1,8 @@
 var a16974 =
 [
-    [ "npc_toc_dkAI", "df/d21/a16978.html", "df/d21/a16978" ],
-    [ "npc_toc_dk", "d3/d8c/a16974.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
-    [ "GetAI", "d3/d8c/a16974.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
+    [ "npc_frost_sphereAI", "d3/d8c/a16974.html#ae697a98d23d94315768dc866852b6e07", null ],
+    [ "DamageTaken", "d3/d8c/a16974.html#a3960f19b456f29a33016d799809a82a8", null ],
+    [ "SpellHit", "d3/d8c/a16974.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
+    [ "UpdateAI", "d3/d8c/a16974.html#a4e866332045135c867f2b9ee871db0c2", null ],
+    [ "permafrostTimer", "d3/d8c/a16974.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
 ];

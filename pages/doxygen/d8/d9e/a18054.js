@@ -1,6 +1,7 @@
 var a18054 =
 [
-    [ "npc_gunship_rocketeerAI", "de/d72/a18058.html", "de/d72/a18058" ],
-    [ "npc_gunship_rocketeer", "d8/d9e/a18054.html#a7ed2cf258269f239bb73f2f06411db07", null ],
-    [ "GetAI", "d8/d9e/a18054.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
+    [ "HandleScript", "d8/d9e/a18054.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "d8/d9e/a18054.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "d8/d9e/a18054.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "d8/d9e/a18054.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

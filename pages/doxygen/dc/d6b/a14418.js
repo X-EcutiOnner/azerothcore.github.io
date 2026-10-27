@@ -1,9 +1,13 @@
 var a14418 =
 [
-    [ "npc_zulaman_hostageAI", "dc/d6b/a14418.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
-    [ "JustDied", "dc/d6b/a14418.html#af87bdebb039f1da5736408cf3aad6487", null ],
-    [ "JustEngagedWith", "dc/d6b/a14418.html#af0aa229973da1a6230a854439658e9ed", null ],
-    [ "UpdateAI", "dc/d6b/a14418.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
-    [ "IsLoot", "dc/d6b/a14418.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
-    [ "PlayerGUID", "dc/d6b/a14418.html#a49f15c5a94d005c56218d00ac6732b82", null ]
+    [ "npc_daphne_stilwellAI", "dc/d6b/a14418.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
+    [ "AttackStart", "dc/d6b/a14418.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
+    [ "JustSummoned", "dc/d6b/a14418.html#ae56554d30e9de7644efab891555c57e0", null ],
+    [ "Reset", "dc/d6b/a14418.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
+    [ "SummonedCreatureDies", "dc/d6b/a14418.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
+    [ "Update", "dc/d6b/a14418.html#a4099d75c4a6bca1525781a5753ef9972", null ],
+    [ "WaypointReached", "dc/d6b/a14418.html#a1035eb0a1696730d8304593b5fb079e4", null ],
+    [ "WaypointReached", "dc/d6b/a14418.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "summons", "dc/d6b/a14418.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
+    [ "textCounter", "dc/d6b/a14418.html#a62ab24169c1b7c3028ab33303b217f63", null ]
 ];

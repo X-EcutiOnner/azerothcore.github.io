@@ -1,7 +1,17 @@
 var a14158 =
 [
-    [ "HandleEffectApply", "da/de3/a14158.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "da/de3/a14158.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "da/de3/a14158.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "da/de3/a14158.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_rinjiAI", "da/de3/a14158.html#ab613818b92530269f0802077eccc92d0", null ],
+    [ "DoSpawnAmbush", "da/de3/a14158.html#af2535d7364641fadc98bca91ace9c906", null ],
+    [ "JustEngagedWith", "da/de3/a14158.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
+    [ "JustRespawned", "da/de3/a14158.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
+    [ "JustSummoned", "da/de3/a14158.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
+    [ "Reset", "da/de3/a14158.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
+    [ "sQuestAccept", "da/de3/a14158.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
+    [ "UpdateEscortAI", "da/de3/a14158.html#a60f05b58b115f3f2ea11206778893547", null ],
+    [ "WaypointReached", "da/de3/a14158.html#a9463060a57b85113b71482c8a0974f60", null ],
+    [ "WaypointReached", "da/de3/a14158.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_IsByOutrunner", "da/de3/a14158.html#adecc4eb9f90969621b52b97ff594558d", null ],
+    [ "postEventCount", "da/de3/a14158.html#a601f142bd2a04ed303611044bac91035", null ],
+    [ "postEventTimer", "da/de3/a14158.html#a5154e551143e81d431f706ad07b78ca0", null ],
+    [ "spawnId", "da/de3/a14158.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
 ];

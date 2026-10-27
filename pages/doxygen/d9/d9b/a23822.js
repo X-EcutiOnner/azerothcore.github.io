@@ -1,7 +1,8 @@
 var a23822 =
 [
-    [ "OnApply", "d9/d9b/a23822.html#abab02b8307b762d070ba12358f59916d", null ],
-    [ "OnRemove", "d9/d9b/a23822.html#a5ac45a5cfa17689d241c44241216ff38", null ],
-    [ "PrepareAuraScript", "d9/d9b/a23822.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
-    [ "Register", "d9/d9b/a23822.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
+    [ "HandleDummyApply", "d9/d9b/a23822.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "d9/d9b/a23822.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "d9/d9b/a23822.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "d9/d9b/a23822.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "d9/d9b/a23822.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

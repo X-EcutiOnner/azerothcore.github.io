@@ -1,6 +1,8 @@
 var a26630 =
 [
-    [ "HandleRemove", "d6/ddc/a26630.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "d6/ddc/a26630.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "d6/ddc/a26630.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "HandleProc", "d6/ddc/a26630.html#ad470545a3c3f1ffaad2d895f122522e1", null ],
+    [ "OnRemove", "d6/ddc/a26630.html#adc9b9b988aa1342c34a49622f54d8484", null ],
+    [ "PrepareAuraScript", "d6/ddc/a26630.html#ab3008bcdeb90825213d2352812ff21d5", null ],
+    [ "Register", "d6/ddc/a26630.html#a9ee52d89eeff45a4f9df1982da6f7d78", null ],
+    [ "Validate", "d6/ddc/a26630.html#a0ea66a92b78e59b50181b54ab285b9db", null ]
 ];

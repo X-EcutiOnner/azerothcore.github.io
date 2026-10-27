@@ -1,6 +1,7 @@
 var a16266 =
 [
-    [ "HandleSummon", "d4/dbc/a16266.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "d4/dbc/a16266.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "d4/dbc/a16266.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "npc_giltharesAI", "d0/d63/a16270.html", "d0/d63/a16270" ],
+    [ "npc_gilthares", "d4/dbc/a16266.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "d4/dbc/a16266.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "d4/dbc/a16266.html#aa165513a4d25a6d1d704c226903e9271", null ]
 ];

@@ -1,6 +1,6 @@
 var a22466 =
 [
-    [ "npc_released_offspring_harkoaAI", "df/d7a/a22466.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "df/d7a/a22466.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "df/d7a/a22466.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "npc_time_lost_proto_drakeAI", "de/d45/a22470.html", "de/d45/a22470" ],
+    [ "npc_time_lost_proto_drake", "df/d7a/a22466.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "df/d7a/a22466.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

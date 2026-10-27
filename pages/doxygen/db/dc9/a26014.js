@@ -1,7 +1,6 @@
 var a26014 =
 [
-    [ "HandleScript", "db/dc9/a26014.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
-    [ "Load", "db/dc9/a26014.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
-    [ "PrepareSpellScript", "db/dc9/a26014.html#abfac1629b7724a3b17b94480c31867af", null ],
-    [ "Register", "db/dc9/a26014.html#a62b9c194106e261245496441176c8d53", null ]
+    [ "HandleDummyTick", "db/dc9/a26014.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "db/dc9/a26014.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "db/dc9/a26014.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

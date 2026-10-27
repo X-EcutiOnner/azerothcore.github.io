@@ -1,13 +1,11 @@
 var a23730 =
 [
-    [ "boss_wrath_scryer_soccothrates", "d4/dc7/a23730.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "d4/dc7/a23730.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "d4/dc7/a23730.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "d4/dc7/a23730.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "d4/dc7/a23730.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "d4/dc7/a23730.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "d4/dc7/a23730.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "d4/dc7/a23730.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "d4/dc7/a23730.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "d4/dc7/a23730.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "boss_krosh_firehand", "d4/dc7/a23730.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "d4/dc7/a23730.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "d4/dc7/a23730.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "d4/dc7/a23730.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "d4/dc7/a23730.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "d4/dc7/a23730.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "d4/dc7/a23730.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "d4/dc7/a23730.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

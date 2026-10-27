@@ -1,6 +1,6 @@
 var a13398 =
 [
-    [ "npc_image_of_medivhAI", "de/d6f/a13402.html", "de/d6f/a13402" ],
-    [ "npc_image_of_medivh", "d1/ddd/a13398.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
-    [ "GetAI", "d1/ddd/a13398.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
+    [ "npc_sanguine_spirit", "d1/ddd/a13398.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
+    [ "Reset", "d1/ddd/a13398.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
+    [ "UpdateAI", "d1/ddd/a13398.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
 ];

@@ -1,6 +1,6 @@
 var a27182 =
 [
-    [ "HandleScript", "d3/d1f/a27182.html#a8866d650b96c4cae3201a2829cbeff3d", null ],
-    [ "PrepareSpellScript", "d3/d1f/a27182.html#aa16f51aa8a4fea2a84cadbb01d18b635", null ],
-    [ "Register", "d3/d1f/a27182.html#aeaa094c8d1f3407bf56d58d88c2238a1", null ]
+    [ "CheckDummy", "d3/d1f/a27182.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
+    [ "PrepareAuraScript", "d3/d1f/a27182.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
+    [ "Register", "d3/d1f/a27182.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
 ];

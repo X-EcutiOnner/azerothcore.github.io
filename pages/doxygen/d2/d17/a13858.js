@@ -1,9 +1,8 @@
 var a13858 =
 [
-    [ "boss_muru", "d2/d17/a13858.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "d2/d17/a13858.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "d2/d17/a13858.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "d2/d17/a13858.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "MoveInLineOfSight", "d2/d17/a13858.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
-    [ "Reset", "d2/d17/a13858.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "npc_demonic_vapor", "d2/d17/a13858.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "IsSummonedBy", "d2/d17/a13858.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
+    [ "Reset", "d2/d17/a13858.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "d2/d17/a13858.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
+    [ "_timer", "d2/d17/a13858.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
 ];

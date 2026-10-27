@@ -1,10 +1,12 @@
 var a20486 =
 [
-    [ "HandleEffectPeriodic", "d0/d6b/a20486.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "d0/d6b/a20486.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "d0/d6b/a20486.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "d0/d6b/a20486.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "d0/d6b/a20486.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "d0/d6b/a20486.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "d0/d6b/a20486.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "boss_freya_elder_stonebark", "d0/d6b/a20486.html#ad379afe772ff29d689bc763786d28793", null ],
+    [ "DamageTaken", "d0/d6b/a20486.html#a1a6b9897ffff95b29de351d02411f216", null ],
+    [ "JustDied", "d0/d6b/a20486.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
+    [ "JustEngagedWith", "d0/d6b/a20486.html#a363a639d65fb746cca3410427f8a1e10", null ],
+    [ "KilledUnit", "d0/d6b/a20486.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
+    [ "Reset", "d0/d6b/a20486.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
+    [ "UpdateAI", "d0/d6b/a20486.html#a913cd147d5a88189e183d817357946e3", null ],
+    [ "_chargesCount", "d0/d6b/a20486.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
+    [ "events", "d0/d6b/a20486.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
 ];

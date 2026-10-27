@@ -1,20 +1,16 @@
 var a17986 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "da/ddf/a17986.html#a1fce8cbcb5259774c0019c19bae334d0", null ],
-    [ "AttackStart", "da/ddf/a17986.html#a7c04475d2de487a26aa3e7f58ad219e5", null ],
-    [ "CanAIAttack", "da/ddf/a17986.html#a58b5476b42ea1d249cb3795da86509db", null ],
-    [ "DamageTaken", "da/ddf/a17986.html#ae2715e5410ddf25734469594f72c7373", null ],
-    [ "DoAction", "da/ddf/a17986.html#acf222bf3f1204215918e339d57e6ee37", null ],
-    [ "EnterEvadeMode", "da/ddf/a17986.html#a8c66bcf54ba7d2c5a8d89a792e89fc8f", null ],
-    [ "JustEngagedWith", "da/ddf/a17986.html#aa98690c2c7002915c72e68f9136a9ace", null ],
-    [ "SetData", "da/ddf/a17986.html#ae3f9c7ef83cb3841f3081a5c8391ad85", null ],
-    [ "sGossipSelect", "da/ddf/a17986.html#af3f71dfd8888a9d7eccdaff50315bea1", null ],
-    [ "UpdateAI", "da/ddf/a17986.html#adf12312ee9a037b7cdbf384137a8ceb4", null ],
-    [ "_axethrowersYellCooldown", "da/ddf/a17986.html#ad98e613c8d4625687f9ab16979d21707", null ],
-    [ "_controller", "da/ddf/a17986.html#a259a8e82ed7a58f09d546fbcb317ea33", null ],
-    [ "_events", "da/ddf/a17986.html#a132fc1f697d32c76c10766c71948fe01", null ],
-    [ "_firstMageCooldown", "da/ddf/a17986.html#a984e2f3d3cf2b254717e2b4d1418216d", null ],
-    [ "_instance", "da/ddf/a17986.html#aecb488fb2e2682c107072ea66d02ea8f", null ],
-    [ "_rocketeersYellCooldown", "da/ddf/a17986.html#a0435dba6aff5287b1d10420a54a72d28", null ],
-    [ "checkTimer", "da/ddf/a17986.html#a1c610a1cf0ba5a27aeb98d51dff916fa", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "da/ddf/a17986.html#a4313164857ebd174fe33a9a16340b332", null ],
+    [ "DoAction", "da/ddf/a17986.html#a16eeb7d0ed6c943c088285462131cd51", null ],
+    [ "MovementInform", "da/ddf/a17986.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
+    [ "Reset", "da/ddf/a17986.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
+    [ "SpellHit", "da/ddf/a17986.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
+    [ "UpdateAI", "da/ddf/a17986.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
+    [ "_events", "da/ddf/a17986.html#ae7079b335373cc06a040756328e7f714", null ],
+    [ "_guardList", "da/ddf/a17986.html#a394b54fde0f1336fdf161482ea4d1115", null ],
+    [ "_instance", "da/ddf/a17986.html#af1d8694678b10e5393c658ba0b20f47a", null ],
+    [ "_outroJainaGUID", "da/ddf/a17986.html#a21a44922a06bd3105a0aeb12ffda0d4a", null ],
+    [ "_outroSaurfangGUID", "da/ddf/a17986.html#abbff68eecae6764afcb3ec1178c1777c", null ],
+    [ "_outroVarianGUID", "da/ddf/a17986.html#a78cf107f8fc698ac30167d1bdbc8c617", null ],
+    [ "_outroZeppelinWait", "da/ddf/a17986.html#ab7e0deb9d6c786c224fac2e274f516c8", null ]
 ];

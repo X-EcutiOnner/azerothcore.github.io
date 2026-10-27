@@ -1,6 +1,6 @@
 var a15578 =
 [
-    [ "HandleDamageCalc", "d8/d99/a15578.html#a03eb92eff300872cd5fca452a99375ab", null ],
-    [ "PrepareSpellScript", "d8/d99/a15578.html#ac07421b62bb6044dad89431839a70bd8", null ],
-    [ "Register", "d8/d99/a15578.html#a70cbf764ab475e2358fa6630798cab9d", null ]
+    [ "npc_belnistraszAI", "d3/d65/a15582.html", "d3/d65/a15582" ],
+    [ "npc_belnistrasz", "d8/d99/a15578.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "d8/d99/a15578.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

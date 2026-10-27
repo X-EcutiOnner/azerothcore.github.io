@@ -1,9 +1,7 @@
 var a26030 =
 [
-    [ "CheckProc", "d5/dc0/a26030.html#a185159a5c83e8c65ef5b82f49a89dd8a", null ],
-    [ "HandleProc", "d5/dc0/a26030.html#a67db21e0293f336a31bf518c0fac85d1", null ],
-    [ "OnRemove", "d5/dc0/a26030.html#a1b51483738d5d3b73f50a78ef9fc1c57", null ],
-    [ "PrepareAuraScript", "d5/dc0/a26030.html#a3e549b8764c0f8efc5d110543c9944c7", null ],
-    [ "Register", "d5/dc0/a26030.html#abc4b88f104253b2b141ab0e3e22ee338", null ],
-    [ "Validate", "d5/dc0/a26030.html#a0b5b97081b7c897d451ef70c810bd7f1", null ]
+    [ "HandleJump", "d5/dc0/a26030.html#ac70f6d53e85af1ee2591e761e21872db", null ],
+    [ "HandleScriptEffect", "d5/dc0/a26030.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
+    [ "PrepareSpellScript", "d5/dc0/a26030.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
+    [ "Register", "d5/dc0/a26030.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
 ];

@@ -1,7 +1,5 @@
 var a29294 =
 [
-    [ "Id", "d8/d2d/a29294.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
-    [ "MaxLevel", "d8/d2d/a29294.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
-    [ "Modifier", "d8/d2d/a29294.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
-    [ "StatMod", "d8/d2d/a29294.html#ab639dd94c53707ca160e13f71342730d", null ]
+    [ "cinematicCamera", "d8/d2d/a29294.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
+    [ "Id", "d8/d2d/a29294.html#a9c3dc0e60728c1c76594385d6860f265", null ]
 ];

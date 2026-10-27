@@ -1,9 +1,7 @@
 var a28174 =
 [
-    [ "go_tadpole_cageAI", "d0/dbc/a28174.html#a87dc192a13cecf834d49cd04451224cd", null ],
-    [ "GossipHello", "d0/dbc/a28174.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
-    [ "OnStateChanged", "d0/dbc/a28174.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
-    [ "SummonTadpoles", "d0/dbc/a28174.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
-    [ "UpdateAI", "d0/dbc/a28174.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
-    [ "requireSummon", "d0/dbc/a28174.html#a9884081855fc45776a6b12b9a68890e4", null ]
+    [ "HandleDummy", "d0/dbc/a28174.html#a120ae48454922c30b0df0a1caf464216", null ],
+    [ "PrepareSpellScript", "d0/dbc/a28174.html#ad8cde850116b8d4beef798724c6e4283", null ],
+    [ "Register", "d0/dbc/a28174.html#a516709e073a7cc84ada03058195da728", null ],
+    [ "Validate", "d0/dbc/a28174.html#ad647af566f06c7e76ef573f670d514ca", null ]
 ];

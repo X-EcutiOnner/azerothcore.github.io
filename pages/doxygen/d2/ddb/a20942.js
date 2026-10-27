@@ -1,5 +1,6 @@
 var a20942 =
 [
-    [ "achievement_nerf_engineering", "d2/ddb/a20942.html#ad8e1eadd635c7a5025e545053b52904f", null ],
-    [ "OnCheck", "d2/ddb/a20942.html#aefe01bfba3347be8a01bf5a398865cb6", null ]
+    [ "FilterTargets", "d2/ddb/a20942.html#aa7fcef13b5a4ba40092f2f95842349ff", null ],
+    [ "PrepareSpellScript", "d2/ddb/a20942.html#a5b94fde8602f7f00342bd81dc9c8cc11", null ],
+    [ "Register", "d2/ddb/a20942.html#a6d990937a5fd06a877b775f719ba5a9f", null ]
 ];

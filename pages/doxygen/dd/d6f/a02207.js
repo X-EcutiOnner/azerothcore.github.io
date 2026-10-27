@@ -1,8 +1,8 @@
 var a02207 =
 [
-    [ "boss_rajaxx", "d7/d4c/a15673.html", "d7/d4c/a15673" ],
-    [ "spell_rajaxx_thundercrash", "db/d81/a15677.html", "db/d81/a15677" ],
-    [ "npc_general_andorov", "d9/da7/a15681.html", "d9/da7/a15681" ],
+    [ "boss_rajaxx", "d4/de8/a15690.html", "d4/de8/a15690" ],
+    [ "spell_rajaxx_thundercrash", "d4/d34/a15694.html", "d4/d34/a15694" ],
+    [ "npc_general_andorov", "d1/dcc/a15698.html", "d1/dcc/a15698" ],
     [ "AndorovMisc", "dd/d6f/a02207.html#adfc3eda6f1c0f62c59171b07b63a3b70", [
       [ "FACTION_ANDOROV_ESCORT", "dd/d6f/a02207.html#adfc3eda6f1c0f62c59171b07b63a3b70a5f587733fae72c0e10bf101bdf781343", null ],
       [ "SPELL_AURA_OF_COMMAND", "dd/d6f/a02207.html#adfc3eda6f1c0f62c59171b07b63a3b70a66c411861d5bf2a38581a29d3e18ddbc", null ],
@@ -2779,7 +2779,6 @@ var a02207 =
       [ "SPELL_SHADOW_FISSURE", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298ca142a7ffa9068ed86d8d870f51b60e7a2", null ],
       [ "SPELL_SUMMON_TWILIGHT_WHELP", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298caa5d206d8c72404ce87c2ecc29352cd1a", null ],
       [ "SPELL_GIFT_OF_TWILIGHT_SHADOW", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298ca25ebd6e7a85bc990b8150feb702ab896", null ],
-      [ "SPELL_TWILIGHT_TORMENT_VESPERON", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298ca7407d48cf9398229483fbd11370f2697", null ],
       [ "SPELL_SARTHARION_CLEAVE", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298cac6902dab1d2f3417190b5c90bccd9cbb", null ],
       [ "SPELL_SARTHARION_FLAME_BREATH", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
@@ -2799,10 +2798,8 @@ var a02207 =
       [ "SPELL_GIFT_OF_TWILIGHT_FIRE", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298cae897e1b7ea4d3b4240381193133f033a", null ],
       [ "SPELL_EGG_MARKER_VISUAL", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298ca29798fe336e62e3f90e4243c44d76124", null ],
       [ "SPELL_FLAME_TSUNAMI_VISUAL", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298ca9bfa8a07239ceb6a583be1ed7fcc9a75", null ],
-      [ "SPELL_FADE_ARMOR", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298cad48174bab4e9f24c5a2fb7d3c6936122", null ],
       [ "SPELL_FLAME_TSUNAMI_DAMAGE_AURA", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298ca2eb0725518c805a4bbe293f8df42931b", null ],
       [ "SPELL_FLAME_TSUNAMI_LEAP", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298cac02353e159e603cdb7ff22d0b8df52a5", null ],
-      [ "SPELL_SARTHARION_PYROBUFFET_TRIGGER", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298cabcec629a81b27a23811be7a997faea57", null ],
       [ "SPELL_FULL_HEAL", "d1/d34/a01211.html#a5bd342133be8c2137b831460acc9298cac5cb10c3d24688bd7cbd6fb2ba4c9ad5", null ],
       [ "SPELL_BARRIER_CHANNEL", "d0/d5a/a01199.html#a5bd342133be8c2137b831460acc9298ca81cfa8a13e85aea2e4ce00844f39e598", null ],
       [ "SPELL_ENERVATING_BRAND", "d0/d5a/a01199.html#a5bd342133be8c2137b831460acc9298cafadb93612e1e41b151175c91e1cfcb90", null ],

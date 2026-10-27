@@ -1,9 +1,8 @@
 var a27226 =
 [
-    [ "HandleKnockBack", "d8/d85/a27226.html#acaa8f445874270f34ea5b42a506671db", null ],
-    [ "HandleScript", "d8/d85/a27226.html#a29e47298601cb55c5442a3fa59bb3646", null ],
-    [ "Load", "d8/d85/a27226.html#a45700aba665b601b2c860af5a869d1af", null ],
-    [ "PrepareSpellScript", "d8/d85/a27226.html#aad1c175a2611152278d847ac59f93090", null ],
-    [ "Register", "d8/d85/a27226.html#ad790d435f422fabd128e601fb2dff103", null ],
-    [ "Validate", "d8/d85/a27226.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
+    [ "HandleDummy", "d8/d85/a27226.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "d8/d85/a27226.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "d8/d85/a27226.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "d8/d85/a27226.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "d8/d85/a27226.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

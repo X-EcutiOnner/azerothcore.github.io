@@ -1,5 +1,7 @@
 var a23834 =
 [
-    [ "npc_lord_sanguinar", "d0/d81/a23834.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d0/d81/a23834.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "FilterTargets", "d0/d81/a23834.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "d0/d81/a23834.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "d0/d81/a23834.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "d0/d81/a23834.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

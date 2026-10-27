@@ -1,9 +1,8 @@
 var a22074 =
 [
-    [ "npc_lord_areteAI", "d4/d54/a22074.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "d4/d54/a22074.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "d4/d54/a22074.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "d4/d54/a22074.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "d4/d54/a22074.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "d4/d54/a22074.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "AfterApply", "d4/d54/a22074.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "d4/d54/a22074.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "d4/d54/a22074.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "d4/d54/a22074.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "d4/d54/a22074.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

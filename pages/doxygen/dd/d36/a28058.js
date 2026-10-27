@@ -1,5 +1,6 @@
 var a28058 =
 [
-    [ "AreaTrigger_at_nats_landing", "dd/d36/a28058.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
-    [ "OnTrigger", "dd/d36/a28058.html#a67434f74300fa3463e679afb7d344467", null ]
+    [ "HandleRemove", "dd/d36/a28058.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "dd/d36/a28058.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "dd/d36/a28058.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

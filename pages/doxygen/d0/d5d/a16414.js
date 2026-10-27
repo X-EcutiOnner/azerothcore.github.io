@@ -1,6 +1,6 @@
 var a16414 =
 [
-    [ "npc_anub_ar_crusher_champion", "d0/d5d/a16414.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
-    [ "DoEngagedWith", "d0/d5d/a16414.html#a2dcef4fe57880ba725dff52455a7a428", null ],
-    [ "DoEvent", "d0/d5d/a16414.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
+    [ "npc_shadowpriest_sezzizAI", "d6/d89/a16418.html", "d6/d89/a16418" ],
+    [ "npc_shadowpriest_sezziz", "d0/d5d/a16414.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
+    [ "GetAI", "d0/d5d/a16414.html#a1513b766f18dbc290b6682582fd33b1d", null ]
 ];

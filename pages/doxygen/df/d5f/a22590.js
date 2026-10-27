@@ -1,12 +1,8 @@
 var a22590 =
 [
-    [ "OPvPCapturePointZM_Beacon", "df/d5f/a22590.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
-    [ "ChangeState", "df/d5f/a22590.html#a5bbe87c18c814358596a9648fd92b129", null ],
-    [ "FillInitialWorldStates", "df/d5f/a22590.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
-    [ "HandlePlayerEnter", "df/d5f/a22590.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
-    [ "HandlePlayerLeave", "df/d5f/a22590.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
-    [ "SendChangePhase", "df/d5f/a22590.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
-    [ "UpdateTowerState", "df/d5f/a22590.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
-    [ "m_TowerState", "df/d5f/a22590.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
-    [ "m_TowerType", "df/d5f/a22590.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
+    [ "npc_wg_queueAI", "d9/d4a/a22594.html", "d9/d4a/a22594" ],
+    [ "npc_wg_queue", "df/d5f/a22590.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
+    [ "GetAI", "df/d5f/a22590.html#ad2d7746a32b520d37ea826b03627de4e", null ],
+    [ "OnGossipHello", "df/d5f/a22590.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
+    [ "OnGossipSelect", "df/d5f/a22590.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
 ];

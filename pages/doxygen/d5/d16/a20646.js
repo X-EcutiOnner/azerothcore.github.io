@@ -1,6 +1,7 @@
 var a20646 =
 [
-    [ "HandleDamage", "d5/d16/a20646.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "d5/d16/a20646.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "d5/d16/a20646.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "HandleEffectPeriodic", "d5/d16/a20646.html#af6c50396e9b47cd909184aea80244728", null ],
+    [ "PrepareAuraScript", "d5/d16/a20646.html#aeb41825334049c8e3a39b48cbf271477", null ],
+    [ "Register", "d5/d16/a20646.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
+    [ "Validate", "d5/d16/a20646.html#a0098e4949fc75b1a2464128f4df869aa", null ]
 ];

@@ -1,7 +1,8 @@
 var a25442 =
 [
-    [ "HandleDummy", "db/d08/a25442.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
-    [ "PrepareSpellScript", "db/d08/a25442.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
-    [ "Register", "db/d08/a25442.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
-    [ "Validate", "db/d08/a25442.html#ad4bb369ef46122cd45c38d876884d350", null ]
+    [ "AchievementCredit", "db/d08/a25442.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "db/d08/a25442.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "db/d08/a25442.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "db/d08/a25442.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "db/d08/a25442.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

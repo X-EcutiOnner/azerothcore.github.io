@@ -1,6 +1,8 @@
 var a27574 =
 [
-    [ "PeriodicTick", "d8/dfe/a27574.html#a8765e8f662c4279669c955108ff356e3", null ],
-    [ "PrepareAuraScript", "d8/dfe/a27574.html#a15f077618950e4526ffcee9ee172d89f", null ],
-    [ "Register", "d8/dfe/a27574.html#aeeca3a2be368025147702c4aa8c518ce", null ]
+    [ "AfterApply", "d8/dfe/a27574.html#a3299de0703ca1e14760e9f33b124ac44", null ],
+    [ "PeriodicTick", "d8/dfe/a27574.html#a34f2fd8d142083705101f8265297c20e", null ],
+    [ "PrepareAuraScript", "d8/dfe/a27574.html#a79c80876d5788a20a9f686548b70fd64", null ],
+    [ "Register", "d8/dfe/a27574.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
+    [ "Validate", "d8/dfe/a27574.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
 ];

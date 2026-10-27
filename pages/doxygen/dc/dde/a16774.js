@@ -1,9 +1,6 @@
 var a16774 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "dc/dde/a16774.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
-    [ "DoAction", "dc/dde/a16774.html#af38e129cdf4af99e99c41b6a98448e56", null ],
-    [ "Reset", "dc/dde/a16774.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
-    [ "UpdateAI", "dc/dde/a16774.html#a851008790128831c5c10710b4cccb196", null ],
-    [ "WaypointReached", "dc/dde/a16774.html#a74b5fb1d3631c404e7797085e45e6159", null ],
-    [ "WaypointReached", "dc/dde/a16774.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "HandlePeriodic", "dc/dde/a16774.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "dc/dde/a16774.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "dc/dde/a16774.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

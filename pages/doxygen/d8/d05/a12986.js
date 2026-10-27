@@ -1,6 +1,5 @@
 var a12986 =
 [
-    [ "HandleOnHit", "d8/d05/a12986.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "d8/d05/a12986.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "d8/d05/a12986.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "at_blackrock_stadium", "d8/d05/a12986.html#a9f577437f231a189c02e50e71ffcb85a", null ],
+    [ "OnTrigger", "d8/d05/a12986.html#a691b4614d6f28733f01a38d8420b823b", null ]
 ];

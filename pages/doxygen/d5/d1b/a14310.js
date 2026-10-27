@@ -1,6 +1,7 @@
 var a14310 =
 [
-    [ "npc_tapoke_slim_jahnAI", "d8/d73/a14314.html", "d8/d73/a14314" ],
-    [ "npc_tapoke_slim_jahn", "d5/d1b/a14310.html#a61e36b57f8ba78c371d454efb1512579", null ],
-    [ "GetAI", "d5/d1b/a14310.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
+    [ "CheckCast", "d5/d1b/a14310.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
+    [ "HandleScriptEffect", "d5/d1b/a14310.html#af265f0bba7028f45763a7f9afea2d051", null ],
+    [ "PrepareSpellScript", "d5/d1b/a14310.html#a27518fd5482e65e0324100057e747d68", null ],
+    [ "Register", "d5/d1b/a14310.html#a07789d7d092eb1b6633200442466c52b", null ]
 ];

@@ -1,6 +1,8 @@
 var a26154 =
 [
-    [ "HandleDummy", "de/dca/a26154.html#af306009f2c418e898478720b9c4ad6ab", null ],
-    [ "PrepareSpellScript", "de/dca/a26154.html#a44cb481fe93fd1c691495cc1ead35e5e", null ],
-    [ "Register", "de/dca/a26154.html#af51e3b3cbfb469fa6230a36d8d5fcec7", null ]
+    [ "CheckProc", "de/dca/a26154.html#a06d76f258699bd4f78834ef33752a351", null ],
+    [ "HandleProc", "de/dca/a26154.html#af22f22cbc38fabe4181b853727df83f8", null ],
+    [ "PrepareAuraScript", "de/dca/a26154.html#adbc2bc54974837a9784cbf8b30ef2c1e", null ],
+    [ "Register", "de/dca/a26154.html#a8db2cf628d44fa962bb3889b20f5dfb1", null ],
+    [ "Validate", "de/dca/a26154.html#aa5604d45c0c11bef130d9242c4357163", null ]
 ];

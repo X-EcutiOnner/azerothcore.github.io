@@ -1,7 +1,6 @@
 var a21502 =
 [
-    [ "npc_azure_invader", "db/d00/a21502.html#a6b7fcdd4e5166a932e85fcc6ec57d086", null ],
-    [ "Reset", "db/d00/a21502.html#a51d349d0254f2d5a67f27298952fbb06", null ],
-    [ "UpdateAI", "db/d00/a21502.html#a6677b18604e15017d15f1d3b0386cfae", null ],
-    [ "_events", "db/d00/a21502.html#ac178244e22f71a15d7af91946cf961ef", null ]
+    [ "npc_ritual_channelerAI", "df/d52/a21506.html", "df/d52/a21506" ],
+    [ "npc_ritual_channeler", "db/d00/a21502.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "db/d00/a21502.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

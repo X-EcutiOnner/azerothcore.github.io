@@ -1,6 +1,7 @@
 var a11734 =
 [
-    [ "AccountData", "d5/d44/a11734.html#a593303fb86ec3ac592ee933b8d057fe8", null ],
-    [ "Data", "d5/d44/a11734.html#aa45f3f93f643b4dd9ea4d269e3b5462d", null ],
-    [ "Time", "d5/d44/a11734.html#a38b2049e50845641cc380b6786e68ac5", null ]
+    [ "QuestLogSwapQuest", "d5/d44/a11734.html#a5c6cca2526e2a6b11b85e8ab7233436b", null ],
+    [ "Read", "d5/d44/a11734.html#a7fea7dac43d6988dff5f38218bceb626", null ],
+    [ "Slot1", "d5/d44/a11734.html#a5dd83b2c88a07236d8937b2d536d5056", null ],
+    [ "Slot2", "d5/d44/a11734.html#a9a98532db2a51821efc95b11b8379f28", null ]
 ];

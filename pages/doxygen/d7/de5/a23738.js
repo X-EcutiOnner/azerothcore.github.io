@@ -1,6 +1,8 @@
 var a23738 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "de/ddf/a23742.html", "de/ddf/a23742" ],
-    [ "instance_arcatraz", "d7/de5/a23738.html#a6fc8860651573353b54fd26bddea32aa", null ],
-    [ "GetInstanceScript", "d7/de5/a23738.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d7/de5/a23738.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "d7/de5/a23738.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "d7/de5/a23738.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "d7/de5/a23738.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "d7/de5/a23738.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

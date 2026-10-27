@@ -1,9 +1,6 @@
 var a20262 =
 [
-    [ "npc_thorims_hammer", "d5/d11/a20262.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
-    [ "Reset", "d5/d11/a20262.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
-    [ "UpdateAI", "d5/d11/a20262.html#a006414298b31eb0cfb964916298d66ce", null ],
-    [ "_beamTimer", "d5/d11/a20262.html#adcd5af2b86d1d8f119514f799c42444b", null ],
-    [ "_finishTime", "d5/d11/a20262.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
-    [ "_removeTimer", "d5/d11/a20262.html#a7b9a2435b0953c12e693c562193d45e0", null ]
+    [ "PrepareSpellScript", "d5/d11/a20262.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d5/d11/a20262.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d5/d11/a20262.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

@@ -1,5 +1,7 @@
 var a29266 =
 [
-    [ "id", "d6/d32/a29266.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "d6/d32/a29266.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "Class", "d6/d32/a29266.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "d6/d32/a29266.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "d6/d32/a29266.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "d6/d32/a29266.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

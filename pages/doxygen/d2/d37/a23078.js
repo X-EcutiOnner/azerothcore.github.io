@@ -1,8 +1,6 @@
 var a23078 =
 [
-    [ "Absorb", "d2/d37/a23078.html#a1c054ce067a620e16611cbb9e784cee1", null ],
-    [ "CalculateAmount", "d2/d37/a23078.html#abd828dd3493339db9c0613e960792941", null ],
-    [ "PrepareAuraScript", "d2/d37/a23078.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
-    [ "Register", "d2/d37/a23078.html#a85840e7d27a7ed256c45de87f4486d45", null ],
-    [ "Update", "d2/d37/a23078.html#afbf28fd4eb66899a424e0b542d561656", null ]
+    [ "HandleSharedRule", "d2/d37/a23078.html#a94b783490dafae872b65e0bbfed156b9", null ],
+    [ "PrepareSpellScript", "d2/d37/a23078.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
+    [ "Register", "d2/d37/a23078.html#a31f2d90059e62da77a719a192d62328b", null ]
 ];

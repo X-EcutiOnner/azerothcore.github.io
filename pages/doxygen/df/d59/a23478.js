@@ -1,5 +1,6 @@
 var a23478 =
 [
-    [ "npc_invisible_tractor_beam_source", "df/d59/a23478.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
-    [ "IsSummonedBy", "df/d59/a23478.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
+    [ "HandleEffectRemove", "df/d59/a23478.html#ac74d25501690970c607a146eec02ab24", null ],
+    [ "PrepareAuraScript", "df/d59/a23478.html#a858929800089fee1a06948bda1c8806f", null ],
+    [ "Register", "df/d59/a23478.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
 ];

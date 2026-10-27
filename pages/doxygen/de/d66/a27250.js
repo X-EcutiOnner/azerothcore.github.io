@@ -1,7 +1,6 @@
 var a27250 =
 [
-    [ "HandleScript", "de/d66/a27250.html#ad22b87be8f47886650d7bf9e98eee495", null ],
-    [ "PrepareSpellScript", "de/d66/a27250.html#a806f934cd684039425ce3fca037b0e8c", null ],
-    [ "Register", "de/d66/a27250.html#a9bd3ea5aa5fb16aac87f6097db31e113", null ],
-    [ "Validate", "de/d66/a27250.html#a96d189c452a969850121323faef1d9c1", null ]
+    [ "HandleDummy", "de/d66/a27250.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
+    [ "PrepareSpellScript", "de/d66/a27250.html#a5efc666af2cb73c376706c20e41ace68", null ],
+    [ "Register", "de/d66/a27250.html#a46e61697212a43532e148ccb12a7d8e5", null ]
 ];

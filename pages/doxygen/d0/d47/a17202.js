@@ -1,10 +1,10 @@
 var a17202 =
 [
-    [ "boss_tharon_jaAI", "d0/d47/a17202.html#a03025fa529e932f23479ff19b0cd8238", null ],
-    [ "DoAction", "d0/d47/a17202.html#a655fd83c2d671847fea9ae393c132fb9", null ],
-    [ "JustDied", "d0/d47/a17202.html#a7928b5db061f1073e1decc2d40601195", null ],
-    [ "JustEngagedWith", "d0/d47/a17202.html#aab194a8f802eeb625d1a74960acbe154", null ],
-    [ "KilledUnit", "d0/d47/a17202.html#a41e929a3768768eb06bafdee3269fd24", null ],
-    [ "Reset", "d0/d47/a17202.html#a272e8565a9b00a27505b301d52814eee", null ],
-    [ "UpdateAI", "d0/d47/a17202.html#a6f482cabcb0bd56711878a5ea297b950", null ]
+    [ "CalculateAmount", "d0/d47/a17202.html#a216034e5ef13850d946990daf7efc6f7", null ],
+    [ "HandlePeriodic", "d0/d47/a17202.html#ad1661b8ac97f891a40694f39316fda9c", null ],
+    [ "OnApply", "d0/d47/a17202.html#a9200f823af6faec5e465691924d299f8", null ],
+    [ "OnRemove", "d0/d47/a17202.html#a22f800827cac4917c4a6ebb721c7fdfb", null ],
+    [ "PrepareAuraScript", "d0/d47/a17202.html#a8f0561db040ef8fcc293d33e60df5b3b", null ],
+    [ "Register", "d0/d47/a17202.html#ac64f95df2dea84d20e7f911ec6203794", null ],
+    [ "Validate", "d0/d47/a17202.html#a95b48ae747cad66faa2d66360fcbf11f", null ]
 ];

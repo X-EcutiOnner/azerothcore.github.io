@@ -1,5 +1,6 @@
 var a24346 =
 [
-    [ "npc_pet_dk_risen_ally", "da/d0b/a24346.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "da/d0b/a24346.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "CheckCast", "da/d0b/a24346.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "da/d0b/a24346.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "da/d0b/a24346.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

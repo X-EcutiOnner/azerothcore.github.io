@@ -1,5 +1,6 @@
 var a24418 =
 [
-    [ "npc_pet_proto_drake_whelp", "d7/de1/a24418.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
-    [ "Reset", "d7/de1/a24418.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
+    [ "npc_torloth_the_magnificentAI", "df/db5/a24422.html", "df/db5/a24422" ],
+    [ "npc_torloth_the_magnificent", "d7/de1/a24418.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "d7/de1/a24418.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

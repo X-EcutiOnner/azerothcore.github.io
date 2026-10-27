@@ -1,8 +1,6 @@
 var a23482 =
 [
-    [ "ApplyStun", "d1/d95/a23482.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "d1/d95/a23482.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "d1/d95/a23482.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "d1/d95/a23482.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "d1/d95/a23482.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "HandleApplyAura", "d1/d95/a23482.html#a4fde347d339f08cd01e2a47883d4b988", null ],
+    [ "PrepareSpellScript", "d1/d95/a23482.html#ab22bd56638a6adc8d111250780221cb9", null ],
+    [ "Register", "d1/d95/a23482.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
 ];

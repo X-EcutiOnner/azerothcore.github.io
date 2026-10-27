@@ -1,5 +1,5 @@
 var a20950 =
 [
-    [ "achievement_nerf_gravity_bombs", "da/d4e/a20950.html#a8aefe3a8836e38c9133e7baf724dc469", null ],
-    [ "OnCheck", "da/d4e/a20950.html#a3a1f9dc7218dfd8345412b338e447b72", null ]
+    [ "achievement_iron_dwarf_medium_rare", "da/d4e/a20950.html#afb3716aab7693ba0493db24999e4b1ee", null ],
+    [ "OnCheck", "da/d4e/a20950.html#aabef3a345057265ac70c6cc0c98d552d", null ]
 ];

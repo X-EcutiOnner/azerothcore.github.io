@@ -1,9 +1,10 @@
 var a22414 =
 [
-    [ "HandleFinish", "da/dd7/a22414.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "da/dd7/a22414.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "da/dd7/a22414.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "da/dd7/a22414.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "da/dd7/a22414.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "da/dd7/a22414.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "npc_engineer_heliceAI", "da/dd7/a22414.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "da/dd7/a22414.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "da/dd7/a22414.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "da/dd7/a22414.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "da/dd7/a22414.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "WaypointReached", "da/dd7/a22414.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "m_uiChatTimer", "da/dd7/a22414.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

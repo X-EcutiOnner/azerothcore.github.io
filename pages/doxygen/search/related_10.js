@@ -1,12 +1,12 @@
 var searchData=
 [
-  ['_5fapplyaura_0',['_ApplyAura',['../df/d23/a11917.html#a0ee9d6fcaabda925fdbf12feed2d6fbe',1,'AuraApplication']]],
-  ['_5fapplyauraeffect_1',['_ApplyAuraEffect',['../df/d23/a11917.html#a7bccd89e3e56acad8ccb5ff6fe004bc8',1,'AuraApplication']]],
-  ['_5fcreateauraapplication_2',['_CreateAuraApplication',['../df/d23/a11917.html#a70986d45ff7bcd29d8198bed9a4b8645',1,'AuraApplication']]],
-  ['_5ftrystackingorrefreshingexistingaura_3',['_TryStackingOrRefreshingExistingAura',['../d5/d2a/a11909.html#a851e18dcd4b806db1cd3843a7814d15a',1,'AuraEffect::_TryStackingOrRefreshingExistingAura()'],['../d4/d53/a11921.html#a851e18dcd4b806db1cd3843a7814d15a',1,'Aura::_TryStackingOrRefreshingExistingAura()']]],
-  ['_5funapplyaura_4',['_UnapplyAura',['../df/d23/a11917.html#a4eef528c953f9f6c5e08e0a3cbd6c0c5',1,'AuraApplication']]],
-  ['createvehiclekit_5',['CreateVehicleKit',['../d7/dc8/a09277.html#a9086db467f2f71f20bc02ed2330a8c37',1,'Vehicle']]],
-  ['removeaura_6',['RemoveAura',['../df/d23/a11917.html#a521cdbdf816702f2a928d8b1d775d209',1,'AuraApplication']]],
-  ['removevehiclekit_7',['RemoveVehicleKit',['../d7/dc8/a09277.html#a64f84e614dc48de43b62bb1f77fe2bb3',1,'Vehicle']]],
-  ['setcurrentcastedspell_8',['SetCurrentCastedSpell',['../d5/dcd/a11961.html#a61c5e93627b85645d6a3b0a5af13d58a',1,'Spell']]]
+  ['_5fapplyaura_0',['_ApplyAura',['../d7/d50/a11934.html#a0ee9d6fcaabda925fdbf12feed2d6fbe',1,'AuraApplication']]],
+  ['_5fapplyauraeffect_1',['_ApplyAuraEffect',['../d7/d50/a11934.html#a7bccd89e3e56acad8ccb5ff6fe004bc8',1,'AuraApplication']]],
+  ['_5fcreateauraapplication_2',['_CreateAuraApplication',['../d7/d50/a11934.html#a70986d45ff7bcd29d8198bed9a4b8645',1,'AuraApplication']]],
+  ['_5ftrystackingorrefreshingexistingaura_3',['_TryStackingOrRefreshingExistingAura',['../d7/d40/a11926.html#a851e18dcd4b806db1cd3843a7814d15a',1,'AuraEffect::_TryStackingOrRefreshingExistingAura()'],['../da/d2b/a11938.html#a851e18dcd4b806db1cd3843a7814d15a',1,'Aura::_TryStackingOrRefreshingExistingAura()']]],
+  ['_5funapplyaura_4',['_UnapplyAura',['../d7/d50/a11934.html#a4eef528c953f9f6c5e08e0a3cbd6c0c5',1,'AuraApplication']]],
+  ['createvehiclekit_5',['CreateVehicleKit',['../dc/dcf/a09290.html#a9086db467f2f71f20bc02ed2330a8c37',1,'Vehicle']]],
+  ['removeaura_6',['RemoveAura',['../d7/d50/a11934.html#a521cdbdf816702f2a928d8b1d775d209',1,'AuraApplication']]],
+  ['removevehiclekit_7',['RemoveVehicleKit',['../dc/dcf/a09290.html#a64f84e614dc48de43b62bb1f77fe2bb3',1,'Vehicle']]],
+  ['setcurrentcastedspell_8',['SetCurrentCastedSpell',['../d8/dd5/a11978.html#a61c5e93627b85645d6a3b0a5af13d58a',1,'Spell']]]
 ];

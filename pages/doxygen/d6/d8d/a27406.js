@@ -1,6 +1,6 @@
 var a27406 =
 [
-    [ "HandleAfterCast", "d6/d8d/a27406.html#aacd4954973c8157ca65958b9ec08155b", null ],
-    [ "PrepareSpellScript", "d6/d8d/a27406.html#a45629d348275833930bc5180e9a347f9", null ],
-    [ "Register", "d6/d8d/a27406.html#a9c43529cea77a4be86048616ebc64b2c", null ]
+    [ "HandleEffectPeriodic", "d6/d8d/a27406.html#ab283b40ceb6dcd0a835550531321ce92", null ],
+    [ "PrepareAuraScript", "d6/d8d/a27406.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
+    [ "Register", "d6/d8d/a27406.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
 ];

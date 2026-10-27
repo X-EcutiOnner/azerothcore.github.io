@@ -1,8 +1,10 @@
 var a05862 =
 [
-    [ "result_type", "d7/d69/a05862.html#a20f96383bade76c6185d8f20f458784e", null ],
-    [ "Instance", "d7/d69/a05862.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
-    [ "max", "d7/d69/a05862.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
-    [ "min", "d7/d69/a05862.html#ab153ffca65139db4084745302dd4db7f", null ],
-    [ "operator()", "d7/d69/a05862.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
+    [ "AsyncCallbackProcessor", "d7/d69/a05862.html#aee6f273ab86fad749de85cd12ea32a98", null ],
+    [ "~AsyncCallbackProcessor", "d7/d69/a05862.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
+    [ "AsyncCallbackProcessor", "d7/d69/a05862.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
+    [ "AddCallback", "d7/d69/a05862.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
+    [ "operator=", "d7/d69/a05862.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
+    [ "ProcessReadyCallbacks", "d7/d69/a05862.html#a4fce127f587a9da913a9e9061ba538e7", null ],
+    [ "_callbacks", "d7/d69/a05862.html#a372d9496b9a1b3e3f718cefe50164209", null ]
 ];

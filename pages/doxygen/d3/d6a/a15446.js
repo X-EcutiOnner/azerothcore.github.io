@@ -1,6 +1,12 @@
 var a15446 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "d4/d8a/a15450.html", "d4/d8a/a15450" ],
-    [ "instance_ragefire_chasm", "d3/d6a/a15446.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
-    [ "GetInstanceScript", "d3/d6a/a15446.html#a0568996a61ef91688b9f223cb3782e5a", null ]
+    [ "boss_lieutenant_drake", "d3/d6a/a15446.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
+    [ "InitializeAI", "d3/d6a/a15446.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
+    [ "JustDied", "d3/d6a/a15446.html#aca7654e30aac96fa509f99f3447121ec", null ],
+    [ "JustEngagedWith", "d3/d6a/a15446.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
+    [ "KilledUnit", "d3/d6a/a15446.html#a833c889c28ea35a6198fe753b604a8ed", null ],
+    [ "MovementInform", "d3/d6a/a15446.html#aec6e332bc5739552cbbec27569c55759", null ],
+    [ "UpdateAI", "d3/d6a/a15446.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
+    [ "pathId", "d3/d6a/a15446.html#ac63f9c885296a797799c0cd83b0ade64", null ],
+    [ "runSecondPath", "d3/d6a/a15446.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
 ];

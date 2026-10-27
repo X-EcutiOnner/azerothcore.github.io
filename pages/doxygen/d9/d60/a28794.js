@@ -1,4 +1,6 @@
 var a28794 =
 [
-    [ "ratio", "d9/d60/a28794.html#ac22c096d41c6fb7ebdc824fc1ca8601b", null ]
+    [ "npc_experience", "d9/d60/a28794.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d9/d60/a28794.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d9/d60/a28794.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

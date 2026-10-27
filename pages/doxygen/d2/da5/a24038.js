@@ -1,9 +1,24 @@
 var a24038 =
 [
-    [ "npc_ancestral_wolfAI", "d2/da5/a24038.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "d2/da5/a24038.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "d2/da5/a24038.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "d2/da5/a24038.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "WaypointReached", "d2/da5/a24038.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "ryga", "d2/da5/a24038.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "boss_kaelthas", "d2/da5/a24038.html#a345f77793c34abb61f6bf29eed7d22fd", null ],
+    [ "AttackStart", "d2/da5/a24038.html#a861636c35e70116ddea722519bd08831", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d2/da5/a24038.html#a8974fcc10874e2dab89f7bc9f71afe6d", null ],
+    [ "ExecuteMiddleEvent", "d2/da5/a24038.html#a42b6d919db655b50c2bd0214b9663fc9", null ],
+    [ "IntroduceNewAdvisor", "d2/da5/a24038.html#a20b4a5967fdb39ee634dc3cf468dc657", null ],
+    [ "JustDied", "d2/da5/a24038.html#af749ddef90aa3175879ed586d5defa01", null ],
+    [ "JustSummoned", "d2/da5/a24038.html#a5e5f8d605a87019c9d9e4d613464de81", null ],
+    [ "KilledUnit", "d2/da5/a24038.html#a3d489512c3a5abc69a6359e174863893", null ],
+    [ "MoveInLineOfSight", "d2/da5/a24038.html#a52ab6dafc6c62de034131a7d62a09354", null ],
+    [ "MovementInform", "d2/da5/a24038.html#a826678b15763782107f218e1031c149b", null ],
+    [ "PhaseAllAdvisorsExecute", "d2/da5/a24038.html#adcad835ea5eedc1a8f4fe7a7bb9dfdc2", null ],
+    [ "PhaseEnchantedWeaponsExecute", "d2/da5/a24038.html#a9265df429790f321040cb9b2b33dfb45", null ],
+    [ "PhaseKaelExecute", "d2/da5/a24038.html#afdf4470092452498dfcb27a4bc4c319f", null ],
+    [ "PrepareAdvisors", "d2/da5/a24038.html#a336e5b81146fe19f36b1d39fd3802aac", null ],
+    [ "Reset", "d2/da5/a24038.html#a7331287c076a765815ddca3a445dbe73", null ],
+    [ "SetRoomState", "d2/da5/a24038.html#a1eb86aaca814d5464e76af7464db91fb", null ],
+    [ "SpellHit", "d2/da5/a24038.html#a5da4833063f26d9c6baebde77c875e62", null ],
+    [ "UpdateAI", "d2/da5/a24038.html#a5f10fded416168d772109ecbf8b09e77", null ],
+    [ "_advisorsAlive", "d2/da5/a24038.html#a95468ae706743bfdf2a09dabd59a80aa", null ],
+    [ "_phase", "d2/da5/a24038.html#a95845de084e261ca6c6d815f4e150223", null ],
+    [ "_transitionSceneReached", "d2/da5/a24038.html#a989b1df477c6946ed4e4366bb82a5dd2", null ]
 ];

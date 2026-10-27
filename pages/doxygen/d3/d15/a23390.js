@@ -1,6 +1,6 @@
 var a23390 =
 [
-    [ "HandleAfterRemove", "d3/d15/a23390.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "d3/d15/a23390.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "d3/d15/a23390.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "HandleScriptEffect", "d3/d15/a23390.html#a62ed9bff154c5aab74e044f8f9982263", null ],
+    [ "PrepareSpellScript", "d3/d15/a23390.html#a0e87265cf22ef8b4e302b8e216123395", null ],
+    [ "Register", "d3/d15/a23390.html#a0d722447d91991462245e8b392d20e10", null ]
 ];

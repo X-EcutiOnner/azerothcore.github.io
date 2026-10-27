@@ -1,6 +1,7 @@
 var a21694 =
 [
-    [ "npc_archmage_landalockAI", "d9/de8/a21698.html", "d9/de8/a21698" ],
-    [ "npc_archmage_landalock", "dc/dd7/a21694.html#ac7379ff07740123312af66ead64df4c6", null ],
-    [ "GetAI", "dc/dd7/a21694.html#a92cfa8c2660413681297bfe12815c938", null ]
+    [ "npc_azure_raider", "dc/dd7/a21694.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
+    [ "Reset", "dc/dd7/a21694.html#a3579986a1769467cb17d3b15242e0551", null ],
+    [ "UpdateAI", "dc/dd7/a21694.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
+    [ "_events", "dc/dd7/a21694.html#a8d25c785974cb8c50b55b547b982b06f", null ]
 ];

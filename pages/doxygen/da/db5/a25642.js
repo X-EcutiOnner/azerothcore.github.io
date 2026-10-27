@@ -1,7 +1,11 @@
 var a25642 =
 [
-    [ "HandleScriptEffect", "da/db5/a25642.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
-    [ "PrepareSpellScript", "da/db5/a25642.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
-    [ "Register", "da/db5/a25642.html#a321098d2325bfb9cea674d1137348350", null ],
-    [ "Validate", "da/db5/a25642.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
+    [ "spell_gen_apply_aura_after_expiration", "da/db5/a25642.html#a391e5089eb034618c5e3edde26685a00", null ],
+    [ "AfterRemove", "da/db5/a25642.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
+    [ "PrepareAuraScript", "da/db5/a25642.html#a494123635eda4c43d92a08c9c8cd5627", null ],
+    [ "Register", "da/db5/a25642.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
+    [ "Validate", "da/db5/a25642.html#ad405128104d8a6528e8db96281ad0f0b", null ],
+    [ "_aura", "da/db5/a25642.html#a8a79aef777e1397b031149c54ae9d81d", null ],
+    [ "_effect", "da/db5/a25642.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
+    [ "_spellId", "da/db5/a25642.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
 ];

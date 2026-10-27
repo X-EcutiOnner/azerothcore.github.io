@@ -1,15 +1,12 @@
 var a06386 =
 [
-    [ "VehicleAI", "d1/d03/a06386.html#aeb8d08eeea0ac12a72ff5dbaf40e9835", null ],
-    [ "AttackStart", "d1/d03/a06386.html#ad06972054ef4525411e859d291226783", null ],
-    [ "CheckConditions", "d1/d03/a06386.html#afcee52b5173ec8b9850da63c1d58cded", null ],
-    [ "LoadConditions", "d1/d03/a06386.html#a2c49067fa9953ba4db4cc6b03a7a9fb0", null ],
-    [ "MoveInLineOfSight", "d1/d03/a06386.html#a48213b69fa4f0034cdc3cd60841d0636", null ],
-    [ "OnCharmed", "d1/d03/a06386.html#a2a593f895c6296c4100af075d971b5b3", null ],
-    [ "Permissible", "d1/d03/a06386.html#a39ad0764dce6586aef86fcd96c2c221c", null ],
-    [ "UpdateAI", "d1/d03/a06386.html#aac593372592d33fa008a66c6dcec1840", null ],
-    [ "conditions", "d1/d03/a06386.html#ae95dc46465404271faaae4b2dc61277a", null ],
-    [ "m_ConditionsTimer", "d1/d03/a06386.html#a3a46c5f18b019852460170e1200b11b4", null ],
-    [ "m_DismissTimer", "d1/d03/a06386.html#a34000f32495dbee3a550147e1e86d761", null ],
-    [ "m_DoDismiss", "d1/d03/a06386.html#a505c1bacb159950e19518ad3b5740a3e", null ]
+    [ "RBACPermission", "d1/d03/a06386.html#ab7e942f35ee798e52b6e44b5eb35957d", null ],
+    [ "AddLinkedPermission", "d1/d03/a06386.html#abadc5213769b1aa15ed3fea56087760e", null ],
+    [ "GetId", "d1/d03/a06386.html#ac9626c0aae11a3189fc15d086fb0bd96", null ],
+    [ "GetLinkedPermissions", "d1/d03/a06386.html#aabdbec412cd1a1192c8fb4089ab268aa", null ],
+    [ "GetName", "d1/d03/a06386.html#a39784b6e1cb1018dd47a1f223bcf8ac3", null ],
+    [ "RemoveLinkedPermission", "d1/d03/a06386.html#a31dcbc98d2a850f5924c0183c90fd58a", null ],
+    [ "_id", "d1/d03/a06386.html#ab467166c941c8dc01d3d2bd3ce7a06fc", null ],
+    [ "_name", "d1/d03/a06386.html#ae02a379ae6f8bee804942a4ca6d98aba", null ],
+    [ "_perms", "d1/d03/a06386.html#a2c9bd034968018bb631f4d5145c16fff", null ]
 ];

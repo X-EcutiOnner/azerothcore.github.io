@@ -1,7 +1,8 @@
 var a14734 =
 [
-    [ "GetEmptyEntry", "de/db3/a14734.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "de/db3/a14734.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "de/db3/a14734.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "de/db3/a14734.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "npc_spawn_of_marli", "de/db3/a14734.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "de/db3/a14734.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "de/db3/a14734.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "de/db3/a14734.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "de/db3/a14734.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

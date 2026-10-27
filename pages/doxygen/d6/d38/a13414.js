@@ -1,7 +1,5 @@
 var a13414 =
 [
-    [ "HandleDummy", "d6/d38/a13414.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
-    [ "PrepareSpellScript", "d6/d38/a13414.html#a5738144c85424e11f33aada38273e24e", null ],
-    [ "Register", "d6/d38/a13414.html#a206a4d40e082246193ba36c9080cdac1", null ],
-    [ "Validate", "d6/d38/a13414.html#a0718461731d563d2c948848f60101d49", null ]
+    [ "at_karazhan_mirkblood_approach", "d6/d38/a13414.html#a032600991e9fc1aaf026adf2e63314e5", null ],
+    [ "OnTrigger", "d6/d38/a13414.html#aaece848faa4f1086ac0b16802a1e765e", null ]
 ];

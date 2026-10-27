@@ -1,8 +1,12 @@
 var a07606 =
 [
-    [ "nbTowerCannonBottom", "d3/dd4/a07606.html#a06e8dcf63efd928b72f3ec7d433ccb89", null ],
-    [ "nbTurretTop", "d3/dd4/a07606.html#a5a728dccad89da190131cd93b62390b7", null ],
-    [ "TowerCannonBottom", "d3/dd4/a07606.html#a21fa09356b3349bf45865aa3f0920268", null ],
-    [ "towerEntry", "d3/dd4/a07606.html#a37e171a06a6e7bf5c0832417c597c2e1", null ],
-    [ "TurretTop", "d3/dd4/a07606.html#a6849ba6967fa275950da9fec16df9bec", null ]
+    [ "Type", "d3/dd4/a07606.html#a758c9729d907d872a5e5365539486408", [
+      [ "ADD", "d3/dd4/a07606.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
+      [ "REMOVE", "d3/dd4/a07606.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
+      [ "UPDATE_BID", "d3/dd4/a07606.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    ] ],
+    [ "AuctionSearcherUpdate", "d3/dd4/a07606.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
+    [ "~AuctionSearcherUpdate", "d3/dd4/a07606.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
+    [ "listFaction", "d3/dd4/a07606.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
+    [ "updateType", "d3/dd4/a07606.html#af6ee8672029884bdbec327242ce5d5d2", null ]
 ];

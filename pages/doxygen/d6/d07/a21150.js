@@ -1,11 +1,11 @@
 var a21150 =
 [
-    [ "npc_ulduar_storm_tempered_keeper", "d6/d07/a21150.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
-    [ "JustDied", "d6/d07/a21150.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
-    [ "JustEngagedWith", "d6/d07/a21150.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
-    [ "JustSummoned", "d6/d07/a21150.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
-    [ "Reset", "d6/d07/a21150.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
-    [ "UpdateAI", "d6/d07/a21150.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
-    [ "events", "d6/d07/a21150.html#a4a79bd561fa63230a52730da20d7143c", null ],
-    [ "otherGUID", "d6/d07/a21150.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
+    [ "boss_yoggsaron_constrictor_tentacle", "d6/d07/a21150.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
+    [ "DoAction", "d6/d07/a21150.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
+    [ "GrabPlayer", "d6/d07/a21150.html#a0ae04ac300d4f08b12f7edaa75dbe208", null ],
+    [ "IsSummonedBy", "d6/d07/a21150.html#a404e4ab66a757b6ff4fa492219198b91", null ],
+    [ "JustDied", "d6/d07/a21150.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "PassengerBoarded", "d6/d07/a21150.html#afdef8417bffb0a2079199060b0c26980", null ],
+    [ "SelectConstrictTarget", "d6/d07/a21150.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
+    [ "_playerGUID", "d6/d07/a21150.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];

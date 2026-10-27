@@ -1,7 +1,11 @@
 var a05386 =
 [
-    [ "GameobjectModelData", "d0/d12/a05386.html#a7d259df5a5541f95e0f548674d023fc8", null ],
-    [ "bound", "d0/d12/a05386.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
-    [ "isWmo", "d0/d12/a05386.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
-    [ "name", "d0/d12/a05386.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
+    [ "MmapTileHeader", "d0/d12/a05386.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
+    [ "dtVersion", "d0/d12/a05386.html#a34d3ed8c617139653176454d7fa7934e", null ],
+    [ "mmapMagic", "d0/d12/a05386.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
+    [ "mmapVersion", "d0/d12/a05386.html#a5cc3cd873419fe8aeb479d3187584410", null ],
+    [ "padding", "d0/d12/a05386.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
+    [ "recastConfig", "d0/d12/a05386.html#a6552d0370a83567a4d01b4c20adff8cc", null ],
+    [ "size", "d0/d12/a05386.html#a69f3284a4a56b1108792ba56c250bf97", null ],
+    [ "usesLiquids", "d0/d12/a05386.html#aeb4e622161a4bb42cff42d37542f0254", null ]
 ];

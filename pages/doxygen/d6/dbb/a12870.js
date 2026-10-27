@@ -1,5 +1,6 @@
 var a12870 =
 [
-    [ "go_father_flame", "d6/dbb/a12870.html#aa23829f617c48bb6da57ff7977886e75", null ],
-    [ "OnStateChanged", "d6/dbb/a12870.html#ad0e85a66d65d908c532c2bfde0605b39", null ]
+    [ "boss_high_priestess_thaurissan", "d6/dbb/a12870.html#a72b25580dc84301be59d72df45a3ac87", null ],
+    [ "JustEngagedWith", "d6/dbb/a12870.html#aa8ba467dd5633e96a20c634880710936", null ],
+    [ "UpdateAI", "d6/dbb/a12870.html#a66612582a2362e4f07d7a2bda529af06", null ]
 ];

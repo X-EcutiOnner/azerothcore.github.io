@@ -1,6 +1,6 @@
 var a18366 =
 [
-    [ "FilterTargetsInitial", "da/d0e/a18366.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "da/d0e/a18366.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "da/d0e/a18366.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "HandleScriptEffect", "da/d0e/a18366.html#ac6017cbe86b328aef00f707051c67e5f", null ],
+    [ "PrepareSpellScript", "da/d0e/a18366.html#a3e21794652b0ffea67571f9b294b4961", null ],
+    [ "Register", "da/d0e/a18366.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
 ];

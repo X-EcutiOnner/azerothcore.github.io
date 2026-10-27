@@ -1,8 +1,6 @@
 var a15802 =
 [
-    [ "npc_ahnqiraji_critter", "d2/db8/a15802.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "d2/db8/a15802.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "d2/db8/a15802.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "d2/db8/a15802.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "d2/db8/a15802.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "FilterTargets", "d2/db8/a15802.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "d2/db8/a15802.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "d2/db8/a15802.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

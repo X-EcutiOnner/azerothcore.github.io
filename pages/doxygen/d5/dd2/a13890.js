@@ -1,7 +1,12 @@
 var a13890 =
 [
-    [ "PeriodicTick", "d5/dd2/a13890.html#acca46d585d06d461f735cddb6075b3b1", null ],
-    [ "PrepareAuraScript", "d5/dd2/a13890.html#abd7382ab22efd3d82c4f00745255d024", null ],
-    [ "Register", "d5/dd2/a13890.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
-    [ "Validate", "d5/dd2/a13890.html#acb31ba162452a30ff0c208829560f9fd", null ]
+    [ "boss_sathrovarr", "d5/dd2/a13890.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "d5/dd2/a13890.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "d5/dd2/a13890.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "d5/dd2/a13890.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "d5/dd2/a13890.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "d5/dd2/a13890.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "d5/dd2/a13890.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "d5/dd2/a13890.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "d5/dd2/a13890.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

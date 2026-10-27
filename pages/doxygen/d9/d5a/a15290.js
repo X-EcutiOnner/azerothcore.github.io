@@ -1,8 +1,11 @@
 var a15290 =
 [
-    [ "npc_arthasAI", "d8/d42/a15294.html", "d8/d42/a15294" ],
-    [ "npc_arthas", "d9/d5a/a15290.html#a87c280ff9861187b0a713f795e657266", null ],
-    [ "GetAI", "d9/d5a/a15290.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
-    [ "OnGossipHello", "d9/d5a/a15290.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
-    [ "OnGossipSelect", "d9/d5a/a15290.html#aeca2f4baa3c943281c676c6498393165", null ]
+    [ "boss_kazrogal", "d9/d5a/a15290.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
+    [ "DoAction", "d9/d5a/a15290.html#a7721debceeefaeb69e71855b8e8742f8", null ],
+    [ "GetMarkRepeatTimer", "d9/d5a/a15290.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
+    [ "JustDied", "d9/d5a/a15290.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
+    [ "JustEngagedWith", "d9/d5a/a15290.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
+    [ "KilledUnit", "d9/d5a/a15290.html#ab1439114a84d85947106d979f38d12fa", null ],
+    [ "Reset", "d9/d5a/a15290.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
+    [ "_markCounter", "d9/d5a/a15290.html#a54ef8b88bf62e260e19a964d1926ef4a", null ]
 ];

@@ -1,8 +1,8 @@
 var a03227 =
 [
-    [ "FormationInfo", "d7/d7a/a08557.html", "d7/d7a/a08557" ],
-    [ "FormationMgr", "d7/d47/a08561.html", "d7/d47/a08561" ],
-    [ "CreatureGroup", "de/dd8/a08565.html", "de/dd8/a08565" ],
+    [ "FormationInfo", "da/d8a/a08570.html", "da/d8a/a08570" ],
+    [ "FormationMgr", "d4/d3a/a08574.html", "d4/d3a/a08574" ],
+    [ "CreatureGroup", "d2/d54/a08578.html", "d2/d54/a08578" ],
     [ "sFormationMgr", "d3/d1b/a03227.html#ae80a51404625cee821a8727ed7369352", null ],
     [ "CreatureGroupInfoType", "d3/d1b/a03227.html#a2c3447bf21f430bff136da6811d93a61", null ],
     [ "CreatureGroupMembersType", "d3/d1b/a03227.html#aca5ad8458d4d9e1da2c64850841b3a4a", null ],

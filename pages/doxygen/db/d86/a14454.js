@@ -1,7 +1,6 @@
 var a14454 =
 [
-    [ "HandleEffect", "db/d86/a14454.html#a8cda8eff109af7441d6990a236a52b80", null ],
-    [ "PrepareSpellScript", "db/d86/a14454.html#acc2698ba702be211bef63cefa41005f4", null ],
-    [ "Register", "db/d86/a14454.html#a5d6dccbb44a5d95055755673ad70707f", null ],
-    [ "Validate", "db/d86/a14454.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
+    [ "cooldown", "db/d86/a14454.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "db/d86/a14454.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "db/d86/a14454.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

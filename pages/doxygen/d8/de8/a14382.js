@@ -1,16 +1,9 @@
 var a14382 =
 [
-    [ "boss_zuljin", "d8/de8/a14382.html#a8acdf347d7f982c07614c89a101daae0", null ],
-    [ "EnterEvadeMode", "d8/de8/a14382.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
-    [ "EnterPhase", "d8/de8/a14382.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
-    [ "GetGUID", "d8/de8/a14382.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
-    [ "JustDied", "d8/de8/a14382.html#a2e00e8311c0463a37de87668882ffeec", null ],
-    [ "JustEngagedWith", "d8/de8/a14382.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
-    [ "KilledUnit", "d8/de8/a14382.html#adf220cb760b77cfd09ed746705529064", null ],
-    [ "MovementInform", "d8/de8/a14382.html#a61501941861f8838392fc8cdbe59feff", null ],
-    [ "Reset", "d8/de8/a14382.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
-    [ "SpawnAdds", "d8/de8/a14382.html#a83eb0799a25f19eedddd96e609134778", null ],
-    [ "SpellHitTarget", "d8/de8/a14382.html#aab3558edc5b90be23040077d88e21725", null ],
-    [ "_chargeTargetGUID", "d8/de8/a14382.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
-    [ "_nextPhase", "d8/de8/a14382.html#a4fc9983cb34313affa56c243a4164a4a", null ]
+    [ "npc_thrall_bfuAI", "d3/dce/a14386.html", "d3/dce/a14386" ],
+    [ "npc_thrall_bfu", "d8/de8/a14382.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
+    [ "GetAI", "d8/de8/a14382.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
+    [ "OnGossipHello", "d8/de8/a14382.html#a71a7108464de9245879c8a1c08932e2a", null ],
+    [ "OnGossipSelect", "d8/de8/a14382.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
+    [ "OnQuestReward", "d8/de8/a14382.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
 ];

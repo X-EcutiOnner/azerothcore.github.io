@@ -1,9 +1,7 @@
 var a21706 =
 [
-    [ "npc_mageguard_dalaranAI", "d4/dc0/a21706.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
-    [ "AttackStart", "d4/dc0/a21706.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
-    [ "JustEngagedWith", "d4/dc0/a21706.html#aac463689ae5a488ec2acb8a0310689d8", null ],
-    [ "MoveInLineOfSight", "d4/dc0/a21706.html#aafb32462693e0efd9c80cf335f489754", null ],
-    [ "Reset", "d4/dc0/a21706.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
-    [ "UpdateAI", "d4/dc0/a21706.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
+    [ "npc_azure_captain", "d4/dc0/a21706.html#abbdba89267506b8dd1e93ea0e059979c", null ],
+    [ "Reset", "d4/dc0/a21706.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
+    [ "UpdateAI", "d4/dc0/a21706.html#a9aacf1533414ade27973ddcc46434978", null ],
+    [ "_events", "d4/dc0/a21706.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
 ];

@@ -1,8 +1,10 @@
 var a28626 =
 [
-    [ "npc_traveler_mammoth_vendor", "db/d4e/a28626.html#af3b5fc14371eb03e8259799b296967c1", null ],
-    [ "Reset", "db/d4e/a28626.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
-    [ "UpdateAI", "db/d4e/a28626.html#a98129bb78476ddc0b1a09593b8894fff", null ],
-    [ "_hasEjected", "db/d4e/a28626.html#af801e9849a795358c812fddf69ec8434", null ],
-    [ "_playerGuid", "db/d4e/a28626.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
+    [ "go_evil_book_for_dummies", "db/d4e/a28626.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "db/d4e/a28626.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "db/d4e/a28626.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "db/d4e/a28626.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "db/d4e/a28626.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "db/d4e/a28626.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "db/d4e/a28626.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

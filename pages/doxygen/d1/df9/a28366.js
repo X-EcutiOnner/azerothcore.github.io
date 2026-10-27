@@ -1,5 +1,5 @@
 var a28366 =
 [
-    [ "item_disgusting_jar", "d1/df9/a28366.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
-    [ "OnExpire", "d1/df9/a28366.html#a4f6967035a4d247914a6034fcebac5c5", null ]
+    [ "go_seer_of_zebhalak", "d1/df9/a28366.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
+    [ "OnGossipHello", "d1/df9/a28366.html#a84009789ce8e8d0d7c42996fde161135", null ]
 ];

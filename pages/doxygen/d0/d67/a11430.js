@@ -1,8 +1,6 @@
 var a11430 =
 [
-    [ "CrossedInebriationThreshold", "d0/d67/a11430.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
-    [ "Write", "d0/d67/a11430.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
-    [ "Guid", "d0/d67/a11430.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
-    [ "ItemID", "d0/d67/a11430.html#a9e48a650bf21872099cdb0626e875fd7", null ],
-    [ "Threshold", "d0/d67/a11430.html#a87b756b64cbfb8f292f46cce38308095", null ]
+    [ "ListInventory", "d0/d67/a11430.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
+    [ "Read", "d0/d67/a11430.html#a2fd1298c1da842824fca7d971cb2028b", null ],
+    [ "VendorGuid", "d0/d67/a11430.html#a9c6288866c870b4a82169fe7fbef4512", null ]
 ];

@@ -1,10 +1,6 @@
 var a21554 =
 [
-    [ "npc_sinkhole_kill_creditAI", "d9/da7/a21554.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
-    [ "Reset", "d9/da7/a21554.html#a677990d64d2963ff995d9d8522c5aa81", null ],
-    [ "SpellHit", "d9/da7/a21554.html#a95eaf518fb18b67820d6195cd525b017", null ],
-    [ "UpdateAI", "d9/da7/a21554.html#a75611004a543bece9d3f51914547f2fe", null ],
-    [ "casterGuid", "d9/da7/a21554.html#a147921788b07f5e776e03aaf15049cf0", null ],
-    [ "phase", "d9/da7/a21554.html#aa45455a8d540d6f942c948cf56d11f05", null ],
-    [ "phaseTimer", "d9/da7/a21554.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
+    [ "boss_emalonAI", "df/d6b/a21558.html", "df/d6b/a21558" ],
+    [ "boss_emalon", "d9/da7/a21554.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "d9/da7/a21554.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

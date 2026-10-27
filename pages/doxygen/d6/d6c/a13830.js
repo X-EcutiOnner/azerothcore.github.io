@@ -1,7 +1,6 @@
 var a13830 =
 [
-    [ "HandleRemove", "d6/d6c/a13830.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
-    [ "PrepareAuraScript", "d6/d6c/a13830.html#a6fa407996b59d98d0eeef877ee89784d", null ],
-    [ "Register", "d6/d6c/a13830.html#a7dc81b47954ee8c10b99f389740de0be", null ],
-    [ "Validate", "d6/d6c/a13830.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
+    [ "FilterTargets", "d6/d6c/a13830.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "d6/d6c/a13830.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "d6/d6c/a13830.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

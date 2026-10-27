@@ -1,15 +1,6 @@
 var a21494 =
 [
-    [ "npc_vh_teleportation_portal", "d6/dca/a21494.html#ae4ed2aebf39ab2593c07ba3098341c91", null ],
-    [ "JustDied", "d6/dca/a21494.html#af86eefc8c9e4187e52c4dd88c41cbc38", null ],
-    [ "JustSummoned", "d6/dca/a21494.html#ad3606d29d814232a492e9e3e85048bd7", null ],
-    [ "SummonedMobDied", "d6/dca/a21494.html#aa58672b2022e44b90adc8bf331ee84fc", null ],
-    [ "UpdateAI", "d6/dca/a21494.html#a3bb6021855bed917fdd2ef47f8ddca29", null ],
-    [ "_addValue", "d6/dca/a21494.html#ad71dd5636c683cfac15423375c0dcc6d", null ],
-    [ "_events", "d6/dca/a21494.html#a1eb415b24f794c8cbb0d01084eb09669", null ],
-    [ "_instance", "d6/dca/a21494.html#acf09515827ae926fe83ffc87a7e35ac5", null ],
-    [ "_isKeeperOrGuardian", "d6/dca/a21494.html#a7483553634133f980929aaeef39bd6a6", null ],
-    [ "_listOfMobs", "d6/dca/a21494.html#a8856350d299bfb25a4e77bb8753afa14", null ],
-    [ "_spawned", "d6/dca/a21494.html#ac89ccf4030e5dffe15d0b24b991176de", null ],
-    [ "_wave", "d6/dca/a21494.html#a0d82b870a2f6bc0de62502f02fd8c1b4", null ]
+    [ "boss_svalaAI", "d3/d0f/a21498.html", "d3/d0f/a21498" ],
+    [ "boss_svala", "d6/dca/a21494.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "d6/dca/a21494.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

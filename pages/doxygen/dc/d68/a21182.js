@@ -1,8 +1,11 @@
 var a21182 =
 [
-    [ "boss_keleseth", "dc/d68/a21182.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "dc/d68/a21182.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "dc/d68/a21182.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "dc/d68/a21182.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "dc/d68/a21182.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "boss_yoggsaron_voice", "dc/d68/a21182.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
+    [ "DoAction", "dc/d68/a21182.html#a094522e81d1d19de660b75fb06ea4224", null ],
+    [ "Reset", "dc/d68/a21182.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
+    [ "SpellHitTarget", "dc/d68/a21182.html#aae3b82dbb871f0f297bdacf975958492", null ],
+    [ "UpdateAI", "dc/d68/a21182.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
+    [ "_current", "dc/d68/a21182.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
+    [ "_targets", "dc/d68/a21182.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
+    [ "events", "dc/d68/a21182.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
 ];

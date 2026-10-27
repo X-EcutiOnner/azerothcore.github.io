@@ -1,7 +1,6 @@
 var a10802 =
 [
-    [ "InstanceMapScript", "d3/d9a/a10802.html#a4efcd2ea9d4bd654b7454cd55541af14", null ],
-    [ "checkValidity", "d3/d9a/a10802.html#a221dd91e2d2f761e66d990a6cae42306", null ],
-    [ "GetInstanceScript", "d3/d9a/a10802.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
-    [ "IsDatabaseBound", "d3/d9a/a10802.html#ab77651bb427813a7e119057c3dc53ca8", null ]
+    [ "AreaTriggerScript", "d3/d9a/a10802.html#a8544003872aa5871ee4132e5155ed297", null ],
+    [ "IsDatabaseBound", "d3/d9a/a10802.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
+    [ "OnTrigger", "d3/d9a/a10802.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
 ];

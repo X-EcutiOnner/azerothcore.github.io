@@ -1,7 +1,6 @@
 var a28562 =
 [
-    [ "npc_wormholeAI", "d9/d06/a28562.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "d9/d06/a28562.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "d9/d06/a28562.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "d9/d06/a28562.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "guard_shattrath_aldorAI", "df/d4b/a28566.html", "df/d4b/a28566" ],
+    [ "guard_shattrath_aldor", "d9/d06/a28562.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "d9/d06/a28562.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

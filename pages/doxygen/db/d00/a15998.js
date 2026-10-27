@@ -1,6 +1,7 @@
 var a15998 =
 [
-    [ "npcs_riverbreeze_and_silversky", "db/d00/a15998.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "db/d00/a15998.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "db/d00/a15998.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "HandleEffectRemove", "db/d00/a15998.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "db/d00/a15998.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "db/d00/a15998.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "db/d00/a15998.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

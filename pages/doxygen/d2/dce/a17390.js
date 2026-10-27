@@ -1,8 +1,7 @@
 var a17390 =
 [
-    [ "npc_hor_risen_witch_doctor", "d2/dce/a17390.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
-    [ "JustDied", "d2/dce/a17390.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
-    [ "JustEngagedWith", "d2/dce/a17390.html#ae612bec2e909abb2574298f4a34116f3", null ],
-    [ "Reset", "d2/dce/a17390.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
-    [ "UpdateAI", "d2/dce/a17390.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
+    [ "HandlePeriodicTick", "d2/dce/a17390.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "d2/dce/a17390.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "d2/dce/a17390.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "d2/dce/a17390.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

@@ -1,7 +1,6 @@
 var a26078 =
 [
-    [ "HandleDummy", "d0/df4/a26078.html#ad6d449ac393851166d8be653639c7d05", null ],
-    [ "PrepareSpellScript", "d0/df4/a26078.html#acb0b66631c0b3df227ee371e2e4000ac", null ],
-    [ "Register", "d0/df4/a26078.html#a8dcd509be4d9034e8c0262bdcb2cf189", null ],
-    [ "Validate", "d0/df4/a26078.html#af8f4e6bb32120c8113ddddcda17ae51d", null ]
+    [ "HandleActivateObject", "d0/df4/a26078.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
+    [ "PrepareSpellScript", "d0/df4/a26078.html#a684079434128bacd3d8b8b71c14dc56a", null ],
+    [ "Register", "d0/df4/a26078.html#a266301f59c809c03d0ccfc48a2ace302", null ]
 ];

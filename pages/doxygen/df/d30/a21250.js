@@ -1,6 +1,7 @@
 var a21250 =
 [
-    [ "npc_ravenous_furbolgAI", "da/dab/a21254.html", "da/dab/a21254" ],
-    [ "npc_ravenous_furbolg", "df/d30/a21250.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "df/d30/a21250.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "HandleScriptEffect", "df/d30/a21250.html#a173ee086127655cdfcca507fd5b15b2e", null ],
+    [ "PrepareSpellScript", "df/d30/a21250.html#a005d47b18a820c35ec596b5539db94eb", null ],
+    [ "Register", "df/d30/a21250.html#a20a0d554e80707c1517422cb747f38e8", null ],
+    [ "Validate", "df/d30/a21250.html#a5ca44686e26def56adc2b98d88145235", null ]
 ];

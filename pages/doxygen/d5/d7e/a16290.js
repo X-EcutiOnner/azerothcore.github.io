@@ -1,6 +1,7 @@
 var a16290 =
 [
-    [ "npc_weegli_blastfuseAI", "d1/d8c/a16294.html", "d1/d8c/a16294" ],
-    [ "npc_weegli_blastfuse", "d5/d7e/a16290.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "d5/d7e/a16290.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "npc_wizzlecrank_shredderAI", "d1/d8c/a16294.html", "d1/d8c/a16294" ],
+    [ "npc_wizzlecrank_shredder", "d5/d7e/a16290.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "d5/d7e/a16290.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "d5/d7e/a16290.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

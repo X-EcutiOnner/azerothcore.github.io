@@ -1,6 +1,8 @@
 var a13902 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "d4/d99/a13902.html#aae99b35ff990fd7486d5b70693b6729a", null ],
-    [ "Load", "d4/d99/a13902.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
-    [ "OnPlayerEnter", "d4/d99/a13902.html#ab45827eaa92aea4746378b3c11fda219", null ]
+    [ "OnPeriodic", "d4/d99/a13902.html#acd400b0a061d1814591e33d16bf4180a", null ],
+    [ "OnRemove", "d4/d99/a13902.html#a3da85c726007690220e9b4f81d30f185", null ],
+    [ "PrepareAuraScript", "d4/d99/a13902.html#a216d723f309ffa46df4bba7af79752c8", null ],
+    [ "Register", "d4/d99/a13902.html#a43fe84c2717d73e20a2562f596a84f36", null ],
+    [ "Validate", "d4/d99/a13902.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
 ];

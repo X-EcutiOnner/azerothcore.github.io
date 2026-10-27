@@ -1,6 +1,8 @@
 var a22866 =
 [
-    [ "HandleScriptEffect", "d5/dda/a22866.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
-    [ "PrepareSpellScript", "d5/dda/a22866.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
-    [ "Register", "d5/dda/a22866.html#a99e2243ca4372eab1a742f8979d61334", null ]
+    [ "npc_anzu_spirit", "d5/dda/a22866.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "d5/dda/a22866.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "d5/dda/a22866.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "d5/dda/a22866.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "d5/dda/a22866.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

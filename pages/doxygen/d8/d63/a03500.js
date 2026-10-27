@@ -1,6 +1,6 @@
 var a03500 =
 [
-    [ "TSpellSummary", "d4/d5f/a06653.html", "d4/d5f/a06653" ],
+    [ "TSpellSummary", "d5/d9c/a06666.html", "d5/d9c/a06666" ],
     [ "eNPCs", "d8/d63/a03500.html#abaecf87f40b40c4c71ec596a0b73e911", [
       [ "NPC_BROODLORD", "d8/d63/a03500.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
       [ "NPC_JAN_ALAI", "d8/d63/a03500.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],

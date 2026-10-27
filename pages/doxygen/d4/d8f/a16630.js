@@ -1,10 +1,10 @@
 var a16630 =
 [
-    [ "spell_halion_marks_aura", "d4/d8f/a16630.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "d4/d8f/a16630.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "d4/d8f/a16630.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "d4/d8f/a16630.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "d4/d8f/a16630.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "d4/d8f/a16630.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "d4/d8f/a16630.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d4/d8f/a16630.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "d4/d8f/a16630.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "d4/d8f/a16630.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "d4/d8f/a16630.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "OnPlayerLeave", "d4/d8f/a16630.html#a293c30b03dce5a7aaebd04a9830e976f", null ],
+    [ "m_uiPortalGUID", "d4/d8f/a16630.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "portalCount", "d4/d8f/a16630.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

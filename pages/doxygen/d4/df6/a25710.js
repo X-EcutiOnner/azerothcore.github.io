@@ -1,10 +1,10 @@
 var a25710 =
 [
-    [ "CheckPeriodicProc", "d4/df6/a25710.html#abd7673f268b80681b27a862bd8013de3", null ],
-    [ "CheckProc", "d4/df6/a25710.html#a439aa5395d222291fbd5943f853d8961", null ],
-    [ "CheckTrapProc", "d4/df6/a25710.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
-    [ "HandleProc", "d4/df6/a25710.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
-    [ "PrepareAuraScript", "d4/df6/a25710.html#a475320d20875b2d710ed3734b78f4645", null ],
-    [ "Register", "d4/df6/a25710.html#aca7649a87ace4e22793ca33705b1500c", null ],
-    [ "Validate", "d4/df6/a25710.html#a45630b6dc703996321286ff16a17e3e3", null ]
+    [ "CalcPeriodic", "d4/df6/a25710.html#a4c5793639ad7715b0dc52a803546e7cf", null ],
+    [ "CalculateSpiritAmount", "d4/df6/a25710.html#a5749d91e27de05f67110178f57c214e4", null ],
+    [ "HandleEffectApply", "d4/df6/a25710.html#a0de0ba95c09c87054d63974943750805", null ],
+    [ "HandlePeriodic", "d4/df6/a25710.html#a2ff4241cf4535a6cb8361b9f54d7a23c", null ],
+    [ "PrepareAuraScript", "d4/df6/a25710.html#aaa2c2fea4310cdba1739f02afa48a318", null ],
+    [ "Register", "d4/df6/a25710.html#ae9df15062a8bd776e9a5a4a5a53fac8f", null ],
+    [ "amount", "d4/df6/a25710.html#af07c7c4a2f6a4d59bee8d44b46be5552", null ]
 ];

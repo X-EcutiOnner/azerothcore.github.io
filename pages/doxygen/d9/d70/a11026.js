@@ -1,6 +1,7 @@
 var a11026 =
 [
-    [ "SetSheathed", "d9/d70/a11026.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "d9/d70/a11026.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "d9/d70/a11026.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "ClientPacket", "d9/d70/a11026.html#aa1d1946c07e248bae5927e83fdad9500", null ],
+    [ "ClientPacket", "d9/d70/a11026.html#a1cdaaacca2695c4366647c7611073ff0", null ],
+    [ "GetOpcode", "d9/d70/a11026.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
+    [ "Write", "d9/d70/a11026.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
 ];

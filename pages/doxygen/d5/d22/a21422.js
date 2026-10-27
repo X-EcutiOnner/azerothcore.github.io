@@ -1,8 +1,6 @@
 var a21422 =
 [
-    [ "npc_frozen_orbAI", "d5/d22/a21422.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "d5/d22/a21422.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "d5/d22/a21422.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "d5/d22/a21422.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "d5/d22/a21422.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "npc_ferocious_rhinoAI", "d3/dd6/a21426.html", "d3/dd6/a21426" ],
+    [ "npc_ferocious_rhino", "d5/d22/a21422.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
+    [ "GetAI", "d5/d22/a21422.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
 ];

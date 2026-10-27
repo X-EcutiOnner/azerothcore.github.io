@@ -1,11 +1,10 @@
 var a09090 =
 [
-    [ "UnitActionBarEntry", "d7/d3f/a09090.html#a41f9020c4811b14fc543ddece6af86d7", null ],
-    [ "GetAction", "d7/d3f/a09090.html#afd77e2f64ec856059759d05ddf77876e", null ],
-    [ "GetType", "d7/d3f/a09090.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
-    [ "IsActionBarForSpell", "d7/d3f/a09090.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
-    [ "SetAction", "d7/d3f/a09090.html#aa00953783b0b3de3beb755a054c77730", null ],
-    [ "SetActionAndType", "d7/d3f/a09090.html#a110840d38445795957ee0425175b4fb6", null ],
-    [ "SetType", "d7/d3f/a09090.html#a38e0dcad391d09e475f90be5a5382f78", null ],
-    [ "packedData", "d7/d3f/a09090.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
+    [ "EquipmentSet", "d7/d3f/a09090.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "d7/d3f/a09090.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "d7/d3f/a09090.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "d7/d3f/a09090.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "d7/d3f/a09090.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "d7/d3f/a09090.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "d7/d3f/a09090.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

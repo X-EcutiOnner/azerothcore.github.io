@@ -1,7 +1,9 @@
 var a24618 =
 [
-    [ "HandleScriptEffect", "da/dd9/a24618.html#afaffd667477e286700dd7e5562423452", null ],
-    [ "PrepareSpellScript", "da/dd9/a24618.html#a9c30d4d6427cfc96b88a1427afcedb00", null ],
-    [ "Register", "da/dd9/a24618.html#ab8b68e02d05abceeb4b7eef00092e759", null ],
-    [ "Validate", "da/dd9/a24618.html#a553f2f26a412d2060151b4f49055b847", null ]
+    [ "npc_pet_gen_fetch_ball", "da/dd9/a24618.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "da/dd9/a24618.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "da/dd9/a24618.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "da/dd9/a24618.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "da/dd9/a24618.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "da/dd9/a24618.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

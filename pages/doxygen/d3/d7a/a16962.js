@@ -1,8 +1,6 @@
 var a16962 =
 [
-    [ "npc_toc_boomkinAI", "d3/d7a/a16962.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "d3/d7a/a16962.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "d3/d7a/a16962.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "d3/d7a/a16962.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "d3/d7a/a16962.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "npc_swarm_scarabAI", "d6/def/a16966.html", "d6/def/a16966" ],
+    [ "npc_swarm_scarab", "d3/d7a/a16962.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "d3/d7a/a16962.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

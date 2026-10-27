@@ -1,8 +1,10 @@
 var a20106 =
 [
-    [ "npc_algalon_worm_hole", "d6/de9/a20106.html#a546bd0ede2586fcbe3812698b68528d4", null ],
-    [ "JustSummoned", "d6/de9/a20106.html#a077425b35d86c007daa93fc8b1fd9717", null ],
-    [ "Reset", "d6/de9/a20106.html#a363814abdee714faddfd966b11a4fddc", null ],
-    [ "UpdateAI", "d6/de9/a20106.html#a16f644be53169adc67fc971bdeaa7263", null ],
-    [ "_summonTimer", "d6/de9/a20106.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
+    [ "npc_molten_golem", "d6/de9/a20106.html#a38350948396b7df97837780531f79515", null ],
+    [ "DamageTaken", "d6/de9/a20106.html#aa3521246b0c2bed18b5466879ec1d107", null ],
+    [ "DoAction", "d6/de9/a20106.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
+    [ "Reset", "d6/de9/a20106.html#a24e23d0959bcda5be05786381a35ac77", null ],
+    [ "UpdateAI", "d6/de9/a20106.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
+    [ "events", "d6/de9/a20106.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
+    [ "m_pInstance", "d6/de9/a20106.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
 ];

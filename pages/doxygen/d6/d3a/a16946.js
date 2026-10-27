@@ -1,7 +1,8 @@
 var a16946 =
 [
-    [ "npc_toc_mageAI", "d6/d3a/a16946.html#a188831088c892f68cef7498468b24899", null ],
-    [ "myCanCast", "d6/d3a/a16946.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
-    [ "UpdateAI", "d6/d3a/a16946.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
-    [ "events", "d6/d3a/a16946.html#ab1910ce98f3d1b14e45acba22782d536", null ]
+    [ "npc_announcer_toc5AI", "d6/d3a/a16946.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
+    [ "DamageTaken", "d6/d3a/a16946.html#a53458483699ac026ff2cd36b5f061571", null ],
+    [ "MovementInform", "d6/d3a/a16946.html#acdcf4110b3815635ad173a70e7a1e603", null ],
+    [ "Reset", "d6/d3a/a16946.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
+    [ "UpdateAI", "d6/d3a/a16946.html#ad2c596253d67d051f497a8d77859846d", null ]
 ];

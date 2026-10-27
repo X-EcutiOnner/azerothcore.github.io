@@ -1,6 +1,6 @@
 var a21302 =
 [
-    [ "CanBeAppliedOn", "d2/d4a/a21302.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
-    [ "PrepareAuraScript", "d2/d4a/a21302.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
-    [ "Register", "d2/d4a/a21302.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
+    [ "instance_ulduar_InstanceMapScript", "d4/d23/a21306.html", "d4/d23/a21306" ],
+    [ "instance_ulduar", "d2/d4a/a21302.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "d2/d4a/a21302.html#ae263428f4229c75b22f990dabe6b3c06", null ]
 ];

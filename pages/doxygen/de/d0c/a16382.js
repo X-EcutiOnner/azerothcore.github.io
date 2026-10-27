@@ -1,6 +1,6 @@
 var a16382 =
 [
-    [ "HandlePeriodic", "de/d0c/a16382.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "de/d0c/a16382.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "de/d0c/a16382.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "HandleSummon", "de/d0c/a16382.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "de/d0c/a16382.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "de/d0c/a16382.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

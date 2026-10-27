@@ -1,6 +1,6 @@
 var a24162 =
 [
-    [ "npc_infernal_attackerAI", "de/dc6/a24166.html", "de/dc6/a24166" ],
-    [ "npc_infernal_attacker", "dc/db9/a24162.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "dc/db9/a24162.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "instance_mechanar_InstanceMapScript", "de/dc6/a24166.html", "de/dc6/a24166" ],
+    [ "instance_mechanar", "dc/db9/a24162.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "dc/db9/a24162.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

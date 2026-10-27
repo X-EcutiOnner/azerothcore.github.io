@@ -1,8 +1,13 @@
 var a05770 =
 [
-    [ "GeneralLock", "d2/d90/a05770.html#ad0fac66b181e166108c871274bce7a93", null ],
-    [ "~GeneralLock", "d2/d90/a05770.html#a455c73434c26cac8bf9761900d648589", null ],
-    [ "GeneralLock", "d2/d90/a05770.html#a61e310a8f98eb22f31ed378992bbb0c0", null ],
-    [ "operator=", "d2/d90/a05770.html#a1ebc4e65340c1e6d46fd7e4c7f5d6e3d", null ],
-    [ "i_mutex", "d2/d90/a05770.html#a80b98e278d3afb1867ff5f159eda5055", null ]
+    [ "Logger", "d2/d90/a05770.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
+    [ "addAppender", "d2/d90/a05770.html#aabacae0a84994e5567f9c87829909fdd", null ],
+    [ "delAppender", "d2/d90/a05770.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
+    [ "getLogLevel", "d2/d90/a05770.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
+    [ "getName", "d2/d90/a05770.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
+    [ "setLogLevel", "d2/d90/a05770.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
+    [ "write", "d2/d90/a05770.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
+    [ "appenders", "d2/d90/a05770.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
+    [ "level", "d2/d90/a05770.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
+    [ "name", "d2/d90/a05770.html#ada299a7dd268085371557213e36695a9", null ]
 ];

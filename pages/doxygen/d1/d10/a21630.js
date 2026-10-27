@@ -1,6 +1,10 @@
 var a21630 =
 [
-    [ "npc_hidden_cultistAI", "d4/dff/a21634.html", "d4/dff/a21634" ],
-    [ "npc_hidden_cultist", "d1/d10/a21630.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "d1/d10/a21630.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "npc_erekem_guard", "d1/d10/a21630.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
+    [ "JustEngagedWith", "d1/d10/a21630.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
+    [ "MoveInLineOfSight", "d1/d10/a21630.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
+    [ "Reset", "d1/d10/a21630.html#aacdc16855938d9f133b751f91b5e9402", null ],
+    [ "UpdateAI", "d1/d10/a21630.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
+    [ "_events", "d1/d10/a21630.html#a13829cd26d18c42213be1f6640a2b979", null ],
+    [ "_instance", "d1/d10/a21630.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
 ];

@@ -1,5 +1,5 @@
 var a29334 =
 [
-    [ "ID", "d8/d20/a29334.html#a0272b3c1130508a2681035c91ee416e6", null ],
-    [ "SpellID", "d8/d20/a29334.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
+    [ "Itemlvl", "d8/d20/a29334.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
+    [ "multiplier", "d8/d20/a29334.html#a5c6c206a6185a546223de7501ff846f6", null ]
 ];

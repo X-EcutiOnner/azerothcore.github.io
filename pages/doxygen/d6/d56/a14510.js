@@ -1,5 +1,6 @@
 var a14510 =
 [
-    [ "at_zulgurub_bridge_speech", "d6/d56/a14510.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "d6/d56/a14510.html#a1a3dbb3cbfbeb50c653134b8bae773f0", null ]
+    [ "go", "d6/d56/a14510.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
+    [ "npc", "d6/d56/a14510.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
+    [ "pos", "d6/d56/a14510.html#a51175880a326101b29879d7a6a62c48d", null ]
 ];

@@ -1,7 +1,6 @@
 var a17914 =
 [
-    [ "HandleProc", "d9/d2b/a17914.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
-    [ "PrepareAuraScript", "d9/d2b/a17914.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
-    [ "Register", "d9/d2b/a17914.html#acc0881cf7379525a0841426867d2d850", null ],
-    [ "Validate", "d9/d2b/a17914.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
+    [ "boss_blood_queen_lana_thelAI", "d9/de5/a17918.html", "d9/de5/a17918" ],
+    [ "boss_blood_queen_lana_thel", "d9/d2b/a17914.html#a9f8fa906f01082caacd106abc2707b07", null ],
+    [ "GetAI", "d9/d2b/a17914.html#a7873efd945bdb24228866f639e32879b", null ]
 ];

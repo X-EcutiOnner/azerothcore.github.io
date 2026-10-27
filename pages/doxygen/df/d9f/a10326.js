@@ -1,6 +1,7 @@
 var a10326 =
 [
-    [ "SplineRawInitializer", "df/d9f/a10326.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
-    [ "operator()", "df/d9f/a10326.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
-    [ "_points", "df/d9f/a10326.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
+    [ "ownerGUID", "df/d9f/a10326.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
+    [ "script", "df/d9f/a10326.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
+    [ "sourceGUID", "df/d9f/a10326.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
+    [ "targetGUID", "df/d9f/a10326.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
 ];

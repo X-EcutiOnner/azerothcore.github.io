@@ -1,26 +1,10 @@
 var a20626 =
 [
-    [ "boss_mimiron", "d8/d3a/a20626.html#acb08d1e24173014a7c443dc2eaea76ce", null ],
-    [ "AttackStart", "d8/d3a/a20626.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
-    [ "CloseDoorAndButton", "d8/d3a/a20626.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
-    [ "EnterEvadeMode", "d8/d3a/a20626.html#a9f39f9afa3f561115c4f7e630364f566", null ],
-    [ "GetData", "d8/d3a/a20626.html#ab3aa6e8702c74ee27fa776c0a9bef77d", null ],
-    [ "JustEngagedWith", "d8/d3a/a20626.html#ab9ce3920c2a06deb31bcf25f1b2947a8", null ],
-    [ "JustReachedHome", "d8/d3a/a20626.html#a9e84d80c2e194c6d51b9d67d0c72db19", null ],
-    [ "MoveInLineOfSight", "d8/d3a/a20626.html#a0b1497cf1fc3cca2db670b74eb4745ee", null ],
-    [ "Reset", "d8/d3a/a20626.html#aec9cce9e0fcab78cfcf37e605cc6c08a", null ],
-    [ "ResetGameObjects", "d8/d3a/a20626.html#ac3a10be85349fc62ef14ecd937159e61", null ],
-    [ "SetData", "d8/d3a/a20626.html#aa9578fe08ab058a64e67935d262224ac", null ],
-    [ "SpellHit", "d8/d3a/a20626.html#af4e88527fb72bcbc1dc0a57b6007a461", null ],
-    [ "UpdateAI", "d8/d3a/a20626.html#adea87e321b4c401109ab4c37e314aca2", null ],
-    [ "_achievBombBot", "d8/d3a/a20626.html#a916517ab6ec6b4bfe0bcbb445312a9a0", null ],
-    [ "_achievProximityMine", "d8/d3a/a20626.html#a1fe4524d60414c100e0489bb77396033", null ],
-    [ "_achievRocketStrike", "d8/d3a/a20626.html#a406cf4b6b01e1fbd6e995173c5cade4a", null ],
-    [ "_allowedFlameSpreadTime", "d8/d3a/a20626.html#a34e2409dc2384851746d04301b926fdb", null ],
-    [ "_berserk", "d8/d3a/a20626.html#af85af0d10226de45a42a9d3317244e7a", null ],
-    [ "_changeAllowedFlameSpreadTime", "d8/d3a/a20626.html#a7d56123e4cc29207b53c0673084ee79e", null ],
-    [ "_hardmode", "d8/d3a/a20626.html#af4b21f8bb94becdd9082e39d81003a2b", null ],
-    [ "_isEvading", "d8/d3a/a20626.html#aa46c9828cdd36bb353ae75bea6d205b3", null ],
-    [ "_minutesTalkNum", "d8/d3a/a20626.html#a4dbed164732f74205cd248afbb2fb46e", null ],
-    [ "_outOfCombatTimer", "d8/d3a/a20626.html#a73c2e0d120706ec09638bbc20bda81b6", null ]
+    [ "HandleEffectPeriodic", "d8/d3a/a20626.html#aa62be73e00d9cb512806787eaf1c4144", null ],
+    [ "Load", "d8/d3a/a20626.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
+    [ "PrepareAuraScript", "d8/d3a/a20626.html#ad9664bff267b330565d3c706e1752e9d", null ],
+    [ "Register", "d8/d3a/a20626.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
+    [ "Validate", "d8/d3a/a20626.html#a3f6653b4ca202d9b0971189930e8b463", null ],
+    [ "_counter", "d8/d3a/a20626.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
+    [ "_prev", "d8/d3a/a20626.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
 ];

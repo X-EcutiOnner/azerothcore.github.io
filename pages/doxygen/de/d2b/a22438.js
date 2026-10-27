@@ -1,5 +1,8 @@
 var a22438 =
 [
-    [ "achievement_wg_vehicular_gnomeslaughter", "de/d2b/a22438.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
-    [ "OnCheck", "de/d2b/a22438.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
+    [ "CheckCast", "de/d2b/a22438.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "de/d2b/a22438.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "de/d2b/a22438.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "de/d2b/a22438.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "de/d2b/a22438.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

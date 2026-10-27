@@ -1,8 +1,6 @@
 var a18974 =
 [
-    [ "Load", "dc/d84/a18974.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
-    [ "PeriodicTick", "dc/d84/a18974.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
-    [ "PrepareAuraScript", "dc/d84/a18974.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
-    [ "Register", "dc/d84/a18974.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
-    [ "_instance", "dc/d84/a18974.html#aebebb858f2ae41f2260d6843b3da8052", null ]
+    [ "ActivateSpirit", "dc/d84/a18974.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "dc/d84/a18974.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "dc/d84/a18974.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

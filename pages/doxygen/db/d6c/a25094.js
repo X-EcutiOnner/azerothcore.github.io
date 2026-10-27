@@ -1,6 +1,8 @@
 var a25094 =
 [
-    [ "ModDest", "db/d6c/a25094.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "db/d6c/a25094.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "db/d6c/a25094.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "CheckProc", "db/d6c/a25094.html#ab960abbaa9d2728ff1c471e491844e2f", null ],
+    [ "HandleProc", "db/d6c/a25094.html#a23746c343ca01160b73822e3457514d5", null ],
+    [ "PrepareAuraScript", "db/d6c/a25094.html#a2ddb4cb53c7aabb8e1e09eb1036fafe0", null ],
+    [ "Register", "db/d6c/a25094.html#a78dbfa8833c8f8958e8e9a38cc9812a7", null ],
+    [ "Validate", "db/d6c/a25094.html#a715de16d0510d8b2cbd9e281c3e3274a", null ]
 ];

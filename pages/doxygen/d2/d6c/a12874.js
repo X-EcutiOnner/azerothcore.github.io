@@ -1,6 +1,7 @@
 var a12874 =
 [
-    [ "near_scarshield_infiltrator", "d2/d6c/a12874.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "d2/d6c/a12874.html#a59c0e7bcddabbbbecb32f38434899144", null ],
-    [ "whisperedTargets", "d2/d6c/a12874.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "boss_okthor", "d2/d6c/a12874.html#a10c5868b555e6f7edc11de179eccb151", null ],
+    [ "JustEngagedWith", "d2/d6c/a12874.html#a40909de030f186531a8cfe1993b6aa40", null ],
+    [ "UpdateAI", "d2/d6c/a12874.html#ab63a797da2b3f93da32b078b9731b1de", null ],
+    [ "_nextArcaneExplosionTime", "d2/d6c/a12874.html#aa7c9edda4aee7ed257b3cb1334c4e899", null ]
 ];

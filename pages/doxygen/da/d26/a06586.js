@@ -1,6 +1,6 @@
 var a06586 =
 [
-    [ "GameObjectAIFactory", "da/d26/a06586.html#a2f658540a81d207694b6d2d783009380", null ],
-    [ "Create", "da/d26/a06586.html#a94fa057baafbbad4b81b97aea34354a3", null ],
-    [ "Permit", "da/d26/a06586.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
+    [ "TriggerAI", "da/d26/a06586.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
+    [ "IsSummonedBy", "da/d26/a06586.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
+    [ "Permissible", "da/d26/a06586.html#aa979e7a4774b35bf83ed137543d517b1", null ]
 ];

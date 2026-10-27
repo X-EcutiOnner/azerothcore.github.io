@@ -1,5 +1,6 @@
 var a22374 =
 [
-    [ "npc_wg_spirit_guideAI", "db/d8b/a22374.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "db/d8b/a22374.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "HandleHealPct", "db/d8b/a22374.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "db/d8b/a22374.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "db/d8b/a22374.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

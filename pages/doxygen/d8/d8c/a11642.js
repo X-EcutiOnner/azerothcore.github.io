@@ -1,6 +1,6 @@
 var a11642 =
 [
-    [ "QuestLogRemoveQuest", "d8/d8c/a11642.html#afeb3eec9774e69822f3b5f9bf7b5f905", null ],
-    [ "Read", "d8/d8c/a11642.html#a22e2ff4a700f9db48518cf5a9aec18f6", null ],
-    [ "Slot", "d8/d8c/a11642.html#ae1d6a81d589533b15c0358b4896afd91", null ]
+    [ "PetLearnedSpell", "d8/d8c/a11642.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "d8/d8c/a11642.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "d8/d8c/a11642.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

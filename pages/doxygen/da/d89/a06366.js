@@ -1,6 +1,8 @@
 var a06366 =
 [
-    [ "AggressorAI", "da/d89/a06366.html#a2d4ba3a557832466f29906972d1e14fd", null ],
-    [ "Permissible", "da/d89/a06366.html#a7867a9ca7249eb94a712e34833fae930", null ],
-    [ "UpdateAI", "da/d89/a06366.html#ace9bc9ff47a463ceb05217ae77b5782b", null ]
+    [ "UpdateResult", "da/d89/a06366.html#af32cdf09d32607955c98353fbfa7d392", null ],
+    [ "UpdateResult", "da/d89/a06366.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
+    [ "archived", "da/d89/a06366.html#adee274af5f5d6981e28b3587008d690c", null ],
+    [ "recent", "da/d89/a06366.html#aea54f4388b659def734957a47e9cca8c", null ],
+    [ "updated", "da/d89/a06366.html#a12b3fffe01639493fc405bd5a797f463", null ]
 ];

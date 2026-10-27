@@ -1,7 +1,9 @@
 var a11166 =
 [
-    [ "GuildBankActivate", "de/df4/a11166.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "de/df4/a11166.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "de/df4/a11166.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "de/df4/a11166.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "GuildRoster", "de/df4/a11166.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
+    [ "Write", "de/df4/a11166.html#a544a539999827d4eb8923cbbcdf42bac", null ],
+    [ "InfoText", "de/df4/a11166.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
+    [ "MemberData", "de/df4/a11166.html#a964fc72bf3ada77c171fd1f691449241", null ],
+    [ "RankData", "de/df4/a11166.html#a67b0a12fae93c5807030c1062f328abb", null ],
+    [ "WelcomeText", "de/df4/a11166.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
 ];

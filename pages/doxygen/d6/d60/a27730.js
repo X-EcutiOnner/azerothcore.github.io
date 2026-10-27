@@ -1,7 +1,7 @@
 var a27730 =
 [
-    [ "HandleRemove", "d6/d60/a27730.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "d6/d60/a27730.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "d6/d60/a27730.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "d6/d60/a27730.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "HandleEffectProc", "d6/d60/a27730.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
+    [ "PrepareAuraScript", "d6/d60/a27730.html#a47d844a9700cd8add793e3f3088d1b82", null ],
+    [ "Register", "d6/d60/a27730.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
+    [ "Validate", "d6/d60/a27730.html#a97f5239399e7135b02000722eaf837ad", null ]
 ];

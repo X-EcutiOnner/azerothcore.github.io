@@ -1,5 +1,6 @@
 var a20530 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "d7/d23/a20530.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "d7/d23/a20530.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "HandleSurge", "d7/d23/a20530.html#a669a46f3583518664462b4ee915be2da", null ],
+    [ "PrepareSpellScript", "d7/d23/a20530.html#adead1c7e506e9dc8d6b9cc04f2331a58", null ],
+    [ "Register", "d7/d23/a20530.html#a7f29f72897e2e175044a49b05d2994d7", null ]
 ];

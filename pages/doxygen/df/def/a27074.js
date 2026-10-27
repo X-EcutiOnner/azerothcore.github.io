@@ -1,5 +1,7 @@
 var a27074 =
 [
-    [ "spell_q55_sacred_cleansing", "df/def/a27074.html#a4aa8a16350a7a55706841471fd985ca2", null ],
-    [ "GetSpellScript", "df/def/a27074.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
+    [ "HandleScriptEffect", "df/def/a27074.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
+    [ "Load", "df/def/a27074.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
+    [ "PrepareSpellScript", "df/def/a27074.html#ade09cd376d00df8b5e709026e353f409", null ],
+    [ "Register", "df/def/a27074.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
 ];

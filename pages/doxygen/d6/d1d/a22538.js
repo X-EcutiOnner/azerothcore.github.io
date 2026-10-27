@@ -1,5 +1,7 @@
 var a22538 =
 [
-    [ "OutdoorPvP_nagrand", "d6/d1d/a22538.html#ac6e0f41eafb915604bd1b1d84e915f87", null ],
-    [ "GetOutdoorPvP", "d6/d1d/a22538.html#ae8ce0bf210e2be8229b9ac4d8615b058", null ]
+    [ "HandleScript", "d6/d1d/a22538.html#ad38771460ddf0f95783718775690d1f0", null ],
+    [ "PrepareSpellScript", "d6/d1d/a22538.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
+    [ "Register", "d6/d1d/a22538.html#a3ba23fd54c35c2d2866db647811c948d", null ],
+    [ "Validate", "d6/d1d/a22538.html#a6a58808356785c25032c2befd429ff2b", null ]
 ];

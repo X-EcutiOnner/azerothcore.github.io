@@ -1,10 +1,9 @@
 var a09030 =
 [
-    [ "Index", "d4/dfd/a09030.html#a28b25d822326a1b7d5ec7f95ce084bac", [
-      [ "REGULAR", "d4/dfd/a09030.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
-      [ "ADDON", "d4/dfd/a09030.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
-      [ "MAX", "d4/dfd/a09030.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
-    ] ],
-    [ "Count", "d4/dfd/a09030.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
-    [ "Time", "d4/dfd/a09030.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
+    [ "ActionButton", "d4/dfd/a09030.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "d4/dfd/a09030.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "d4/dfd/a09030.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "d4/dfd/a09030.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "d4/dfd/a09030.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "d4/dfd/a09030.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

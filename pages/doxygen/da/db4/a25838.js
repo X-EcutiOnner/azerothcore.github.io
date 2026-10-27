@@ -1,6 +1,10 @@
 var a25838 =
 [
-    [ "HandleDummy", "da/db4/a25838.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
-    [ "PrepareSpellScript", "da/db4/a25838.html#a80b89fbd2506191b897dcf367ff11500", null ],
-    [ "Register", "da/db4/a25838.html#a522730e5ba844728c0b3d6f423cd123a", null ]
+    [ "Load", "da/db4/a25838.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "da/db4/a25838.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "da/db4/a25838.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "da/db4/a25838.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "da/db4/a25838.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "da/db4/a25838.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "da/db4/a25838.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

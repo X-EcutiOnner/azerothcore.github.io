@@ -1,12 +1,7 @@
 var a07618 =
 [
-    [ "WGWorkshop", "de/dd3/a07618.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
-    [ "GiveControlTo", "de/dd3/a07618.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
-    [ "IsCapturable", "de/dd3/a07618.html#a269e23cf24ca2fd133830dafbb8d02c0", null ],
-    [ "Save", "de/dd3/a07618.html#adede1c780178f20dc8339320a021e4b6", null ],
-    [ "UpdateGraveyardAndWorkshop", "de/dd3/a07618.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
-    [ "bf", "de/dd3/a07618.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
-    [ "state", "de/dd3/a07618.html#a279d47c85843e884edef1f82b9654cd8", null ],
-    [ "teamControl", "de/dd3/a07618.html#a196c8d0094a34c18835840e046fd39ef", null ],
-    [ "workshopId", "de/dd3/a07618.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
+    [ "AuctionSearchUpdateBid", "de/dd3/a07618.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
+    [ "auctionId", "de/dd3/a07618.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
+    [ "bid", "de/dd3/a07618.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
+    [ "bidderGuid", "de/dd3/a07618.html#a843bcff41f694075ea056d9a3c71467f", null ]
 ];

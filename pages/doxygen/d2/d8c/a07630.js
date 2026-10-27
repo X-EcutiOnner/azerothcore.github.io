@@ -1,14 +1,15 @@
 var a07630 =
 [
-    [ "ArenaTeamScore", "d2/d8c/a07630.html#a017cd1a4d90a466b42aeab8ff1a12f3a", null ],
-    [ "~ArenaTeamScore", "d2/d8c/a07630.html#ade081f31c498ee03a80f73fe70a56cc7", null ],
-    [ "Assign", "d2/d8c/a07630.html#a28c3a055e1ad69693470f38fe676f0c6", null ],
-    [ "BuildRatingInfoBlock", "d2/d8c/a07630.html#ae3e2b8e8a29c50ca20a42a0364349764", null ],
-    [ "BuildTeamInfoBlock", "d2/d8c/a07630.html#aa876e0cf0b36f8fdb9efe8989092f143", null ],
-    [ "Reset", "d2/d8c/a07630.html#a90611fd5e656d2d62917003ff0a5ff00", null ],
-    [ "Arena", "d2/d8c/a07630.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "Battleground", "d2/d8c/a07630.html#a0c4048053f5f5cabe5bfbfdde8eded86", null ],
-    [ "MatchmakerRating", "d2/d8c/a07630.html#a1e82169562a459371f973932d22e2f15", null ],
-    [ "RatingChange", "d2/d8c/a07630.html#a61c85f158b767a6c81de87d7ad5007db", null ],
-    [ "TeamName", "d2/d8c/a07630.html#ab99de3b9213f3ccab1791858df6aa3e8", null ]
+    [ "AuctionHouseSearcher", "d2/d8c/a07630.html#adee77153a7b9efeac149e6c951082986", null ],
+    [ "~AuctionHouseSearcher", "d2/d8c/a07630.html#a84842935539c5ef8b02815cc8697e568", null ],
+    [ "AddAuction", "d2/d8c/a07630.html#a09e01dd8840a50f6b6dd5f70ad9ec10c", null ],
+    [ "NotifyAllWorkers", "d2/d8c/a07630.html#a443577cfba0af003e7e0e8834474a6c1", null ],
+    [ "NotifyOneWorker", "d2/d8c/a07630.html#a1b70b786bf6e57d9d9cae8f34f0d779b", null ],
+    [ "QueueSearchRequest", "d2/d8c/a07630.html#a53caf3298638d325a8b9e97584296ad3", null ],
+    [ "RemoveAuction", "d2/d8c/a07630.html#a145da4d009d9814a4e76fae0d02f33e4", null ],
+    [ "Update", "d2/d8c/a07630.html#ac8c7b88346dc99bed5fe8d0efb28eebb", null ],
+    [ "UpdateBid", "d2/d8c/a07630.html#a7bb50e3e903c73a83469e7323917d40d", null ],
+    [ "_requestQueue", "d2/d8c/a07630.html#ac221abeb9a760c90d6110310970e6463", null ],
+    [ "_responseQueue", "d2/d8c/a07630.html#a772e65025ae498b8837222ae98f49c28", null ],
+    [ "_workerThreads", "d2/d8c/a07630.html#aa1cedd8cb22b840599b97bf7c7df0949", null ]
 ];

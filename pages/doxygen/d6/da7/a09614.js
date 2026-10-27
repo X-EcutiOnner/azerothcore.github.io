@@ -1,13 +1,9 @@
 var a09614 =
 [
-    [ "MessageDistDelivererToHostile", "d6/da7/a09614.html#a4e1642660288eeb46867d4e19944cc78", null ],
-    [ "SendPacket", "d6/da7/a09614.html#aced79e7b19918408fa4d81667fbeb7f0", null ],
-    [ "Visit", "d6/da7/a09614.html#af9c5269b0266e9e28a70118e62d25e58", null ],
-    [ "Visit", "d6/da7/a09614.html#a224eeb339614d7a9f5e43d498b245958", null ],
-    [ "Visit", "d6/da7/a09614.html#a304c0be3c55bd2817abeaa1d53563a27", null ],
-    [ "Visit", "d6/da7/a09614.html#ae2a44055a4363eeff81a799b8a93d74d", null ],
-    [ "i_distSq", "d6/da7/a09614.html#a0fc7e00f191801869c3fd8eeae032af8", null ],
-    [ "i_message", "d6/da7/a09614.html#ae10ac98c489ec48ed49daf835e7a361d", null ],
-    [ "i_phaseMask", "d6/da7/a09614.html#a0a932cd193e847ee0cfddae0946e39d1", null ],
-    [ "i_source", "d6/da7/a09614.html#a174aade6dc85233e8481a452f800ec0e", null ]
+    [ "GridReference", "d6/da7/a09614.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
+    [ "~GridReference", "d6/da7/a09614.html#afd6a4f88eb066818afde1b752600bb12", null ],
+    [ "next", "d6/da7/a09614.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
+    [ "sourceObjectDestroyLink", "d6/da7/a09614.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
+    [ "targetObjectBuildLink", "d6/da7/a09614.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
+    [ "targetObjectDestroyLink", "d6/da7/a09614.html#ac4c863d059b5c826e9597056dc7c887a", null ]
 ];

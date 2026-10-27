@@ -1,5 +1,5 @@
 var a11714 =
 [
-    [ "SocketIPBytes", "d9/dc8/a11714.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
-    [ "SocketPort", "d9/dc8/a11714.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
+    [ "QuestUpdateAddItem", "d9/dc8/a11714.html#a9b4b63df9e35135e17df5d87fb7e24df", null ],
+    [ "Write", "d9/dc8/a11714.html#af60dccc05c2033f9cf855977d7f827e0", null ]
 ];

@@ -1,6 +1,6 @@
 var a26690 =
 [
-    [ "FilterTargets", "d6/dc5/a26690.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
-    [ "PrepareSpellScript", "d6/dc5/a26690.html#a5992d94317d3da7400d5a9ab115e621e", null ],
-    [ "Register", "d6/dc5/a26690.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
+    [ "OnRemove", "d6/dc5/a26690.html#ae1f257e43effcb396d57d42db3063afd", null ],
+    [ "PrepareAuraScript", "d6/dc5/a26690.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
+    [ "Register", "d6/dc5/a26690.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
 ];

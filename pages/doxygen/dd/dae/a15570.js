@@ -1,6 +1,6 @@
 var a15570 =
 [
-    [ "FilterTargets", "dd/dae/a15570.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
-    [ "PrepareSpellScript", "dd/dae/a15570.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
-    [ "Register", "dd/dae/a15570.html#a3168a3f97ddb38b261a0730405ba27db", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "db/da1/a15574.html", "db/da1/a15574" ],
+    [ "instance_razorfen_downs", "dd/dae/a15570.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
+    [ "GetInstanceScript", "dd/dae/a15570.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
 ];

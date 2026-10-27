@@ -1,12 +1,7 @@
 var a15442 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "db/d8e/a15442.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
-    [ "CheckAchievementCriteriaMeet", "db/d8e/a15442.html#a20761aa41e0f70836c4525f17faf064f", null ],
-    [ "Initialize", "db/d8e/a15442.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
-    [ "OnGameObjectCreate", "db/d8e/a15442.html#a1e99600992673d165382d99236e0c59f", null ],
-    [ "SetBossState", "db/d8e/a15442.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
-    [ "SetData", "db/d8e/a15442.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
-    [ "bDeepBreath", "db/d8e/a15442.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
-    [ "ManyWhelpsCounter", "db/d8e/a15442.html#aea148b562a4f2cd752ac73240f902993", null ],
-    [ "str_data", "db/d8e/a15442.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
+    [ "boss_epoch_hunter", "db/d8e/a15442.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "db/d8e/a15442.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "db/d8e/a15442.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "db/d8e/a15442.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

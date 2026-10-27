@@ -1,8 +1,8 @@
 var a27014 =
 [
-    [ "HandleDummy", "d2/d80/a27014.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "d2/d80/a27014.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "d2/d80/a27014.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "d2/d80/a27014.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "d2/d80/a27014.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "HandleProc", "d2/d80/a27014.html#a95553bc0c973be3a2e3911602e4067c8", null ],
+    [ "PrepareAuraScript", "d2/d80/a27014.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
+    [ "Register", "d2/d80/a27014.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
+    [ "Validate", "d2/d80/a27014.html#aad1324e94920136258c419094cfca4c3", null ],
+    [ "_cooldownEnd", "d2/d80/a27014.html#a4f19a965ed8ddab712633abdb761d210", null ]
 ];

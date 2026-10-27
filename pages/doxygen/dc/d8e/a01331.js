@@ -1,7 +1,7 @@
 var a01331 =
 [
-    [ "instance_trial_of_the_crusader", "de/db1/a17253.html", "de/db1/a17253" ],
-    [ "instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript", "d2/dc3/a17257.html", "d2/dc3/a17257" ],
+    [ "instance_trial_of_the_crusader", "d3/df0/a17270.html", "d3/df0/a17270" ],
+    [ "instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript", "dc/d7c/a17274.html", "dc/d7c/a17274" ],
     [ "InstanceMisc", "dc/d8e/a01331.html#a051557b3d6e020ae9d3322350657d974", [
       [ "VEHICLE_SNOBOLD_CARRIER", "dc/d8e/a01331.html#a051557b3d6e020ae9d3322350657d974ad99ce5dca445596a19708d1a27e90458", null ]
     ] ],

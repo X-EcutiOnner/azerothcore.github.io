@@ -1,6 +1,6 @@
 var a24526 =
 [
-    [ "HandleEffectApply", "d8/d70/a24526.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
-    [ "PrepareAuraScript", "d8/d70/a24526.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
-    [ "Register", "d8/d70/a24526.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
+    [ "npc_unkor_the_ruthlessAI", "d5/dae/a24530.html", "d5/dae/a24530" ],
+    [ "npc_unkor_the_ruthless", "d8/d70/a24526.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "d8/d70/a24526.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

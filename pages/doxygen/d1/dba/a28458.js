@@ -1,6 +1,6 @@
 var a28458 =
 [
-    [ "npc_taxi", "d1/dba/a28458.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d1/dba/a28458.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d1/dba/a28458.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "go_midsummer_musicAI", "d1/dba/a28458.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
+    [ "UpdateAI", "d1/dba/a28458.html#adf185ee702e9e74f65204b90786f9eb4", null ],
+    [ "_events", "d1/dba/a28458.html#a31e45a754930cdc3206fe2b7f754d234", null ]
 ];

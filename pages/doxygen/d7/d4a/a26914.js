@@ -1,7 +1,6 @@
 var a26914 =
 [
-    [ "HandleApplyEffect", "d7/d4a/a26914.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "d7/d4a/a26914.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "d7/d4a/a26914.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "d7/d4a/a26914.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "CheckTarget", "d7/d4a/a26914.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
+    [ "PrepareSpellScript", "d7/d4a/a26914.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
+    [ "Register", "d7/d4a/a26914.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
 ];

@@ -1,10 +1,9 @@
 var a26502 =
 [
-    [ "CheckProc", "d7/d83/a26502.html#a787008462dce35eb27deda41301b146d", null ],
-    [ "HandleProc", "d7/d83/a26502.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
-    [ "Load", "d7/d83/a26502.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
-    [ "PrepareAuraScript", "d7/d83/a26502.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
-    [ "Register", "d7/d83/a26502.html#aa4ef731870355dc386fcd07c5f19d090", null ],
-    [ "Validate", "d7/d83/a26502.html#ad04864f0710262364cf40e071446d87c", null ],
-    [ "_procTarget", "d7/d83/a26502.html#a9383231fc71c6239507fdf8765d63f3d", null ]
+    [ "CheckCaster", "d7/d83/a26502.html#afc48d6f2d2d23b6ba996c76eda1d8d47", null ],
+    [ "OnApply", "d7/d83/a26502.html#a34e2585c500c5975d6549cd1b7602b18", null ],
+    [ "OnRemove", "d7/d83/a26502.html#a8d95ba91e4f358bd0abbecf2fe85dfb8", null ],
+    [ "PrepareAuraScript", "d7/d83/a26502.html#ad905a91348b92007774c69467c24d40e", null ],
+    [ "Register", "d7/d83/a26502.html#ada9610c7d5d1236ccb509ac7ca4a8b3d", null ],
+    [ "Validate", "d7/d83/a26502.html#a0f9174b9cf14dd8bf0c8c444600511b1", null ]
 ];

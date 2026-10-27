@@ -1,7 +1,6 @@
 var a17250 =
 [
-    [ "HandleScriptEffect", "d3/d3e/a17250.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "d3/d3e/a17250.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "d3/d3e/a17250.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "d3/d3e/a17250.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "npc_concentrated_ballAI", "d8/dcf/a17254.html", "d8/dcf/a17254" ],
+    [ "npc_concentrated_ball", "d3/d3e/a17250.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
+    [ "GetAI", "d3/d3e/a17250.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
 ];

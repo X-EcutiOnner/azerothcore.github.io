@@ -1,17 +1,12 @@
 var a30058 =
 [
-    [ "GetHeight", "d2/df5/a30058.html#a98bc670c8dd44b210b398f5f014cbbc7", null ],
-    [ "GetOffsetX", "d2/df5/a30058.html#a8facef2fdb586a71f1f740086fe160ab", null ],
-    [ "GetOffsetY", "d2/df5/a30058.html#aecd2f6f40509d9b65f9f254e59298e8c", null ],
-    [ "GetWidth", "d2/df5/a30058.html#a240dac4718a12daee7c8ec526209c4ba", null ],
-    [ "Height", "d2/df5/a30058.html#abb92a54ddecdd06c1031bafd41e642dc", null ],
-    [ "LiquidType", "d2/df5/a30058.html#a910553870f082a1b8dd47c27c8f981f1", null ],
-    [ "LiquidVertexFormat", "d2/df5/a30058.html#ab1376e3688bcf9110111bf87f8fd940a", null ],
-    [ "MaxHeightLevel", "d2/df5/a30058.html#aa73500f507b6ee2678f3c81328b716e1", null ],
-    [ "MinHeightLevel", "d2/df5/a30058.html#a5c56ad9303d1b652774019efbe316dbd", null ],
-    [ "OffsetExistsBitmap", "d2/df5/a30058.html#a1852863d7fcbbd95e6ccb190895841ca", null ],
-    [ "OffsetVertexData", "d2/df5/a30058.html#abfe19bd9c6d9d1d41433abe6fae3baea", null ],
-    [ "OffsetX", "d2/df5/a30058.html#a1dcb423f7ba1c0c7bdaa77aef8139b6c", null ],
-    [ "OffsetY", "d2/df5/a30058.html#a08a02703ec946d3a6fb6326c24b4f6cc", null ],
-    [ "Width", "d2/df5/a30058.html#a4b1bd0f232da1acde53787109e26c9b3", null ]
+    [ "TestVisibilityScript", "d2/df5/a30058.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "d2/df5/a30058.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "d2/df5/a30058.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "d2/df5/a30058.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "d2/df5/a30058.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "d2/df5/a30058.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "d2/df5/a30058.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "d2/df5/a30058.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "d2/df5/a30058.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

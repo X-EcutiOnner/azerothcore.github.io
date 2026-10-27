@@ -1,10 +1,7 @@
 var a25626 =
 [
-    [ "Load", "d8/d69/a25626.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "d8/d69/a25626.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "d8/d69/a25626.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "d8/d69/a25626.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "d8/d69/a25626.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "d8/d69/a25626.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "d8/d69/a25626.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "PrepareAuraScript", "d8/d69/a25626.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
+    [ "Register", "d8/d69/a25626.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
+    [ "TriggerFoodBuff", "d8/d69/a25626.html#a5d125413491dd377d61b8e30c4979fdd", null ],
+    [ "Validate", "d8/d69/a25626.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
 ];

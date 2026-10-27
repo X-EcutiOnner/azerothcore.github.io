@@ -1,9 +1,16 @@
 var a29846 =
 [
-    [ "CountQuestOnCreature", "df/d63/a29846.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "df/d63/a29846.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "df/d63/a29846.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "df/d63/a29846.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "df/d63/a29846.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "df/d63/a29846.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "ProcTestScenario", "df/d63/a29846.html#aba69369df56d3d631a9a62bcde791537", null ],
+    [ "AdvanceTime", "df/d63/a29846.html#a3b6e8c7f5207be98b7696b478559b24a", null ],
+    [ "GetActor", "df/d63/a29846.html#a52dcbfa52c49f54ce29cb73253746f70", null ],
+    [ "GetActor", "df/d63/a29846.html#a7b2084c740b51289f6e2f7ec74dacf17", null ],
+    [ "GetAura", "df/d63/a29846.html#aa5e30fdf4a8b4912a48ce12aa7763624", null ],
+    [ "GetNow", "df/d63/a29846.html#a014a9082421c022c2fac91070f8f062e", null ],
+    [ "SimulateProc", "df/d63/a29846.html#af3f83abbfbd4a902689b232853fdbcfb", null ],
+    [ "WithActorLevel", "df/d63/a29846.html#ad0ca3530818d3091ab420bd76aab8dcb", null ],
+    [ "WithAura", "df/d63/a29846.html#a6c6dc6438b7503dcda2a89f1e53bc324", null ],
+    [ "WithWeaponSpeed", "df/d63/a29846.html#a05d00a17b60c3fd94e85c75d896ca2bb", null ],
+    [ "_actor", "df/d63/a29846.html#a8928fbb771f94e66af2a24c6c2a3351d", null ],
+    [ "_aura", "df/d63/a29846.html#a81e71f6e78e8c715899c85dcb9423589", null ],
+    [ "_now", "df/d63/a29846.html#ae20c57ecb893219e52fe055d1662e527", null ]
 ];

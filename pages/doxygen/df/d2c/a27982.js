@@ -1,5 +1,7 @@
 var a27982 =
 [
-    [ "achievement_bg_sa_artillery", "df/d2c/a27982.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "df/d2c/a27982.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "CalculateAmount", "df/d2c/a27982.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
+    [ "PrepareAuraScript", "df/d2c/a27982.html#a20dad49a99420556f393a16525eb14b4", null ],
+    [ "Register", "df/d2c/a27982.html#ad7d339ab137ebd640981f7789e1757f0", null ],
+    [ "Validate", "df/d2c/a27982.html#a341acb2dd25c1db94777f7036f3338ac", null ]
 ];

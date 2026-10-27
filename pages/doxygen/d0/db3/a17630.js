@@ -1,7 +1,6 @@
 var a17630 =
 [
-    [ "HandleScriptEffect", "d0/db3/a17630.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "d0/db3/a17630.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "d0/db3/a17630.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "d0/db3/a17630.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "npc_pos_collapsing_icicleAI", "dd/d7a/a17634.html", "dd/d7a/a17634" ],
+    [ "npc_pos_collapsing_icicle", "d0/db3/a17630.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "d0/db3/a17630.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

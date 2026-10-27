@@ -1,7 +1,7 @@
 var a02162 =
 [
-    [ "npc_kaya_flathoof", "d0/daf/a16209.html", "d0/daf/a16209" ],
-    [ "npc_kaya_flathoof::npc_kaya_flathoofAI", "dd/d9b/a16213.html", "dd/d9b/a16213" ],
+    [ "npc_kaya_flathoof", "d5/dd5/a16226.html", "d5/dd5/a16226" ],
+    [ "npc_kaya_flathoof::npc_kaya_flathoofAI", "d7/dea/a16230.html", "d7/dea/a16230" ],
     [ "Kaya", "d7/d26/a02162.html#ab10ce9d7e7d19709d0e99ef45b935f15", [
       [ "FACTION_ESCORTEE_H", "d7/d26/a02162.html#ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f", null ],
       [ "NPC_GRIMTOTEM_RUFFIAN", "d7/d26/a02162.html#ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f", null ],

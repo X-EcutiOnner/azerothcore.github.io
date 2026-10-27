@@ -1,8 +1,8 @@
 var a23898 =
 [
-    [ "boss_void_reaver", "d2/db5/a23898.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "d2/db5/a23898.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "d2/db5/a23898.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "d2/db5/a23898.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "d2/db5/a23898.html#a02c36ea960de24991f879943991a93c6", null ]
+    [ "FilterTargets", "d2/db5/a23898.html#ae366594b668331a19f384ceb48654c0c", null ],
+    [ "HandleOnHit", "d2/db5/a23898.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
+    [ "PrepareSpellScript", "d2/db5/a23898.html#a71aa4018d293391a73d3317c1e80951d", null ],
+    [ "Register", "d2/db5/a23898.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
+    [ "Validate", "d2/db5/a23898.html#a3747ad271dc659436ae7a8203b964554", null ]
 ];

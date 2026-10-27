@@ -1,7 +1,7 @@
 var a05294 =
 [
-    [ "LiquidInfo", "d6/df3/a05294.html#a0caefac43d2f5c59446e2a9f7e565c11", null ],
-    [ "LiquidInfo", "d6/df3/a05294.html#abfae4e75223a93b5b71840f60710afb9", null ],
-    [ "level", "d6/df3/a05294.html#ade8f31cc9adc77ff82724134b5ebba24", null ],
-    [ "type", "d6/df3/a05294.html#a46eda7aed64f2a5b0bd5ce1f88942c20", null ]
+    [ "indices", "d6/df3/a05294.html#a23cadbd54502fb4edc68e052e5774664", null ],
+    [ "maxPrims", "d6/df3/a05294.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
+    [ "numPrims", "d6/df3/a05294.html#a623b9ee05707ecdbaa816c797e358e86", null ],
+    [ "primBound", "d6/df3/a05294.html#a3304ad5d821f178941fd44da897213de", null ]
 ];

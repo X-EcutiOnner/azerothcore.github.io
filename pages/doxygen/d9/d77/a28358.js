@@ -1,5 +1,8 @@
 var a28358 =
 [
-    [ "item_incendiary_explosives", "d9/d77/a28358.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d9/d77/a28358.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "FilterTargets", "d9/d77/a28358.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "d9/d77/a28358.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "d9/d77/a28358.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "d9/d77/a28358.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "d9/d77/a28358.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

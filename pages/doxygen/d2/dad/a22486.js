@@ -1,6 +1,6 @@
 var a22486 =
 [
-    [ "FilterTargets", "d2/dad/a22486.html#a4d81860c41daab44851da605d38b4753", null ],
-    [ "PrepareSpellScript", "d2/dad/a22486.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
-    [ "Register", "d2/dad/a22486.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
+    [ "npc_freed_protodrakeAI", "de/d95/a22490.html", "de/d95/a22490" ],
+    [ "npc_freed_protodrake", "d2/dad/a22486.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "d2/dad/a22486.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

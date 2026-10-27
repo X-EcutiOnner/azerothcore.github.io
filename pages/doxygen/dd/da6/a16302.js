@@ -1,13 +1,8 @@
 var a16302 =
 [
-    [ "npc_shadowpriest_sezzizAI", "dd/da6/a16302.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
-    [ "AttackStart", "dd/da6/a16302.html#a8278a73501ea33164cbdef8599144f4a", null ],
-    [ "Reset", "dd/da6/a16302.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
-    [ "UpdateAI", "dd/da6/a16302.html#a1c0236b52d4cd87634659991e0dfc728", null ],
-    [ "_missingHPForHealTimer", "dd/da6/a16302.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
-    [ "_missingHPForRenewTimer", "dd/da6/a16302.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
-    [ "_physicScreemTimer", "dd/da6/a16302.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
-    [ "_shadowBoltTimer", "dd/da6/a16302.html#a34a18991ff2c0aafac15694ed9667193", null ],
-    [ "_summmonAddsCount", "dd/da6/a16302.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
-    [ "_summonAddsTimer", "dd/da6/a16302.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
+    [ "npc_lakota_windsongAI", "dd/da6/a16302.html#a922172a38ca75adef66a2653eda7fa98", null ],
+    [ "DoSpawnBandits", "dd/da6/a16302.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
+    [ "Reset", "dd/da6/a16302.html#aee7a86275f93021e0e5db249b636bcd4", null ],
+    [ "WaypointReached", "dd/da6/a16302.html#a6435c8b1521206789131889e5fa527a6", null ],
+    [ "WaypointReached", "dd/da6/a16302.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

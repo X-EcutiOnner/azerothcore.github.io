@@ -1,16 +1,7 @@
 var a26642 =
 [
-    [ "Spell", "d3/df8/a26642.html#ae62bcfdf7168a58818ffc8b302cffcb7", [
-      [ "PAL_SPELL_ARDENT_DEFENDER_DEBUFF", "d3/df8/a26642.html#ae62bcfdf7168a58818ffc8b302cffcb7a85895054b57340dab995dc14f826314b", null ],
-      [ "PAL_SPELL_ARDENT_DEFENDER_HEAL", "d3/df8/a26642.html#ae62bcfdf7168a58818ffc8b302cffcb7a717b484434bc8fda128b67bd90a123fe", null ]
-    ] ],
-    [ "spell_pal_ardent_defender", "d3/df8/a26642.html#a9bc7f72089287dbac352b308489c7781", null ],
-    [ "Absorb", "d3/df8/a26642.html#aee6b0b00078a880dc5ed6684991ee8c8", null ],
-    [ "CalculateAmount", "d3/df8/a26642.html#a749742ceb8be20f5d327becbea7c64d5", null ],
-    [ "Load", "d3/df8/a26642.html#a3718265890fad2a6c6d53b5f401d16dd", null ],
-    [ "PrepareAuraScript", "d3/df8/a26642.html#a33dd57579e724aee0c6f2a8d767fc3c8", null ],
-    [ "Register", "d3/df8/a26642.html#af405994d4be5f11ce63028d0dba1e1da", null ],
-    [ "Validate", "d3/df8/a26642.html#a74fafd4bde88c2e581cac555a131b39d", null ],
-    [ "absorbPct", "d3/df8/a26642.html#a408fe2ab57ae0adcf803c71b5f6cd724", null ],
-    [ "healPct", "d3/df8/a26642.html#a325024973959856c000f380b0bfc3bda", null ]
+    [ "HandleProc", "d3/df8/a26642.html#a00864fa29b0f4e01f0ec3b007ba56913", null ],
+    [ "PrepareAuraScript", "d3/df8/a26642.html#a83020e052309f9905adde86bac3ef925", null ],
+    [ "Register", "d3/df8/a26642.html#a7d0a5ebb4f9f9742694967bf23a76ba8", null ],
+    [ "Validate", "d3/df8/a26642.html#ac296ca5433b5bf1fc0d8c3401e43d912", null ]
 ];

@@ -1,15 +1,10 @@
 var a23598 =
 [
-    [ "boss_magtheridon", "da/d98/a23598.html#a3d718a101047cd90448577ee520adf5e", null ],
-    [ "DoAction", "da/d98/a23598.html#a3015fd8503a0da84e7b78c551587f8a3", null ],
-    [ "JustDied", "da/d98/a23598.html#adca91ab2fbfe88cc79b19aaa4bff74cf", null ],
-    [ "JustEngagedWith", "da/d98/a23598.html#a93fb4d888ebd6273bca0a128c8303996", null ],
-    [ "KilledUnit", "da/d98/a23598.html#a42aa45e199f76f567bc7a677f3d3aedf", null ],
-    [ "Reset", "da/d98/a23598.html#a0999e13f434699bb14c2ef6d2467a043", null ],
-    [ "ScheduleCombatEvents", "da/d98/a23598.html#ae9b2f0929c2309e6bd57cc1241452d61", null ],
-    [ "UpdateAI", "da/d98/a23598.html#a656e9595b30d014c54cc456d7f81f657", null ],
-    [ "_castingQuake", "da/d98/a23598.html#ad1c95705a7018b4eb62cbee6f20fb65a", null ],
-    [ "_currentPhase", "da/d98/a23598.html#a2871d60efe88d3901bad9a4c5249fcfb", null ],
-    [ "_interruptScheduler", "da/d98/a23598.html#aae56fde097d925bcf58be1d8e6bf50f4", null ],
-    [ "_magReleased", "da/d98/a23598.html#a6dd4891771771acf5456a129113e864e", null ]
+    [ "boss_warlord_kalithresh", "da/d98/a23598.html#afcf2288fbea2d5010c41344ce0247559", null ],
+    [ "JustDied", "da/d98/a23598.html#a1947562aa9dafea371e2f2da824a3f65", null ],
+    [ "JustEngagedWith", "da/d98/a23598.html#a2712f5c363c3929550b77ef2536b1385", null ],
+    [ "KilledUnit", "da/d98/a23598.html#a06855288497f5335a236867ef681d3f8", null ],
+    [ "MoveInLineOfSight", "da/d98/a23598.html#a544da19b6c3a6f159ed6b1639def1071", null ],
+    [ "Reset", "da/d98/a23598.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
+    [ "_introDone", "da/d98/a23598.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
 ];

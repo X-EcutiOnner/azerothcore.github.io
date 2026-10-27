@@ -1,7 +1,7 @@
 var a01604 =
 [
-    [ "RestoreAttack", "d5/de3/a12869.html", "d5/de3/a12869" ],
-    [ "instance_blackrock_depths", "d8/d9e/a12873.html", "d8/d9e/a12873" ],
+    [ "RestoreAttack", "dc/dc1/a12886.html", "dc/dc1/a12886" ],
+    [ "instance_blackrock_depths", "d9/dd9/a12890.html", "d9/dd9/a12890" ],
     [ "DarkIronAle", "dc/dd2/a01604.html#a36a96c1a3d77e47e3e4332fd34256e3a", [
       [ "GO_DARK_IRON_ALE_MUG", "dc/dd2/a01604.html#a36a96c1a3d77e47e3e4332fd34256e3aa77f50a40445c6d6ae16dc1567f5c6e56", null ],
       [ "NPC_GRIM_PATRON", "dc/dd2/a01604.html#a36a96c1a3d77e47e3e4332fd34256e3aa2970c9c616a2ae5e83b719614d898b05", null ],

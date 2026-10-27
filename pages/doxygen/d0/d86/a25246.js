@@ -1,6 +1,6 @@
 var a25246 =
 [
-    [ "CheckSeat", "d0/d86/a25246.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "d0/d86/a25246.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "d0/d86/a25246.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "CheckProc", "d0/d86/a25246.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
+    [ "PrepareAuraScript", "d0/d86/a25246.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
+    [ "Register", "d0/d86/a25246.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
 ];

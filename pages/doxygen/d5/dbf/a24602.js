@@ -1,7 +1,10 @@
 var a24602 =
 [
-    [ "CalculateAmount", "d5/dbf/a24602.html#ad99a4176d27864280a79ac548a57a4c8", null ],
-    [ "Load", "d5/dbf/a24602.html#aeafec50b06b5dd2f69ca6ab4096aea4d", null ],
-    [ "PrepareAuraScript", "d5/dbf/a24602.html#a76528513f0f6728e73085a3d403c3e59", null ],
-    [ "Register", "d5/dbf/a24602.html#a4d09be7d33755ae719138d079884e281", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "d5/dbf/a24602.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "d5/dbf/a24602.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "d5/dbf/a24602.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "d5/dbf/a24602.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "d5/dbf/a24602.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "d5/dbf/a24602.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "d5/dbf/a24602.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

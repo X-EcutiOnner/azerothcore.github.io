@@ -1,6 +1,7 @@
 var a16602 =
 [
-    [ "npc_orb_carrierAI", "de/d4c/a16606.html", "de/d4c/a16606" ],
-    [ "npc_orb_carrier", "da/db4/a16602.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
-    [ "GetAI", "da/db4/a16602.html#ab5b7bbffc43b840c686dc889805ea401", null ]
+    [ "boss_sartharion_shadron", "da/db4/a16602.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "da/db4/a16602.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "da/db4/a16602.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "da/db4/a16602.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

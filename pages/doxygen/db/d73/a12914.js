@@ -1,7 +1,14 @@
 var a12914 =
 [
-    [ "HandleScript", "db/d73/a12914.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "db/d73/a12914.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "db/d73/a12914.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "db/d73/a12914.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "boss_lord_valthalak", "db/d73/a12914.html#a26fd09b5f1e3429cacb90f3aaff1a105", null ],
+    [ "DamageTaken", "db/d73/a12914.html#adf174f2b50e76a721c034a13f1946875", null ],
+    [ "IsSummonedBy", "db/d73/a12914.html#aaa4f24a056e7a0598ff7a399802ac32c", null ],
+    [ "JustDied", "db/d73/a12914.html#a084cc36f08a1decd2d262b7a9eb59f6b", null ],
+    [ "JustEngagedWith", "db/d73/a12914.html#aaa9835ca1d7d81ee177202138be4bad5", null ],
+    [ "Reset", "db/d73/a12914.html#a0494a1b6cc00b40f627a58d790424567", null ],
+    [ "StartFighting", "db/d73/a12914.html#a3135ff2a25ee9c4286623cb570cc03f3", null ],
+    [ "StartTalking", "db/d73/a12914.html#ace3e47ef60b3761d860677648fabdd9d", null ],
+    [ "UpdateAI", "db/d73/a12914.html#a49a438bff5aadc58ae69b00cd2ce68d1", null ],
+    [ "_frenzy15", "db/d73/a12914.html#acc7ba74226b04ee9a62233e473f68f7b", null ],
+    [ "_frenzy40", "db/d73/a12914.html#a7d8cd5bedfb8c5bfc1ac4bdc0efff2bf", null ]
 ];

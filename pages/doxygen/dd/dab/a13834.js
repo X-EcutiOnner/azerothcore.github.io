@@ -1,7 +1,7 @@
 var a13834 =
 [
-    [ "HandleScriptEffect", "dd/dab/a13834.html#ae631c634c77cc207338e3549a664969b", null ],
-    [ "PrepareSpellScript", "dd/dab/a13834.html#ac9f825f10512be5849c46460e9cdbec8", null ],
-    [ "Register", "dd/dab/a13834.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
-    [ "Validate", "dd/dab/a13834.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
+    [ "HandleScript", "dd/dab/a13834.html#aae2f572a523431f6764f08e4719adbcf", null ],
+    [ "PrepareSpellScript", "dd/dab/a13834.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
+    [ "Register", "dd/dab/a13834.html#ae3b002197564318cc92242bd925d35af", null ],
+    [ "Validate", "dd/dab/a13834.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
 ];

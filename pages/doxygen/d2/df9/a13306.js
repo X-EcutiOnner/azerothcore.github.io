@@ -1,9 +1,9 @@
 var a13306 =
 [
-    [ "go_blood_drenched_doorAI", "d2/df9/a13306.html#af431fff2778278cbd3e27b3906201373", null ],
-    [ "GossipHello", "d2/df9/a13306.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
-    [ "UpdateAI", "d2/df9/a13306.html#a644ac9ce05242714d1b87150852539f3", null ],
-    [ "events", "d2/df9/a13306.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
-    [ "mirkblood", "d2/df9/a13306.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
-    [ "opener", "d2/df9/a13306.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
+    [ "boss_curator", "d2/df9/a13306.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "d2/df9/a13306.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "d2/df9/a13306.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "d2/df9/a13306.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "d2/df9/a13306.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "d2/df9/a13306.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

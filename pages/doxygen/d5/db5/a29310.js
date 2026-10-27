@@ -1,13 +1,10 @@
 var a29310 =
 [
-    [ "AcquireMethod", "d5/db5/a29310.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
-    [ "ClassMask", "d5/db5/a29310.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
-    [ "ID", "d5/db5/a29310.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
-    [ "MinSkillLineRank", "d5/db5/a29310.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
-    [ "RaceMask", "d5/db5/a29310.html#acfd38780584b90ca40a1e1cd59605832", null ],
-    [ "SkillLine", "d5/db5/a29310.html#a0050dcf5c82f785dfc93079debe54a13", null ],
-    [ "Spell", "d5/db5/a29310.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
-    [ "SupercededBySpell", "d5/db5/a29310.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
-    [ "TrivialSkillLineRankHigh", "d5/db5/a29310.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
-    [ "TrivialSkillLineRankLow", "d5/db5/a29310.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
+    [ "HasFlag", "d5/db5/a29310.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "d5/db5/a29310.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "d5/db5/a29310.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "d5/db5/a29310.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "d5/db5/a29310.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "d5/db5/a29310.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "d5/db5/a29310.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

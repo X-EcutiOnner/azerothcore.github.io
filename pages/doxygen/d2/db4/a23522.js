@@ -1,6 +1,7 @@
 var a23522 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "df/d41/a23526.html", "df/d41/a23526" ],
-    [ "instance_gruuls_lair", "d2/db4/a23522.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "d2/db4/a23522.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "go_ahune_ice_spear", "d2/db4/a23522.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "d2/db4/a23522.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "d2/db4/a23522.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "d2/db4/a23522.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

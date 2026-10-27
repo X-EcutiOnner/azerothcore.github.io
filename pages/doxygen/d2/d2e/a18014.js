@@ -1,12 +1,9 @@
 var a18014 =
 [
-    [ "gunship_npc_AI", "d2/d2e/a18014.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "d2/d2e/a18014.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "d2/d2e/a18014.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "d2/d2e/a18014.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "d2/d2e/a18014.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "d2/d2e/a18014.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "d2/d2e/a18014.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "d2/d2e/a18014.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "d2/d2e/a18014.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "FilterTargetsInitial", "d2/d2e/a18014.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "d2/d2e/a18014.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "d2/d2e/a18014.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "d2/d2e/a18014.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "d2/d2e/a18014.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "d2/d2e/a18014.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

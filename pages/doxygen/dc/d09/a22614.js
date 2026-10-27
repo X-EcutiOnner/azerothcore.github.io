@@ -1,8 +1,8 @@
 var a22614 =
 [
-    [ "CalcPeriodic", "dc/d09/a22614.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "dc/d09/a22614.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "dc/d09/a22614.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "dc/d09/a22614.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "dc/d09/a22614.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "go_wg_vehicle_teleporterAI", "dc/d09/a22614.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "dc/d09/a22614.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "dc/d09/a22614.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "dc/d09/a22614.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "dc/d09/a22614.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

@@ -1,7 +1,6 @@
 var a21514 =
 [
-    [ "npc_azure_raider", "de/da8/a21514.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
-    [ "Reset", "de/da8/a21514.html#a3579986a1769467cb17d3b15242e0551", null ],
-    [ "UpdateAI", "de/da8/a21514.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
-    [ "_events", "de/da8/a21514.html#a8d25c785974cb8c50b55b547b982b06f", null ]
+    [ "CalculateAmount", "de/da8/a21514.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "de/da8/a21514.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "de/da8/a21514.html#a9bce52699983fe798c903385faa42462", null ]
 ];

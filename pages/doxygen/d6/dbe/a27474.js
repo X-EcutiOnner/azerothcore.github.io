@@ -1,7 +1,6 @@
 var a27474 =
 [
-    [ "CheckProc", "d6/dbe/a27474.html#a4efa486733390dea566e1169902db915", null ],
-    [ "PrepareAuraScript", "d6/dbe/a27474.html#a241b65bdcb6aefa4e37b61c5007149f6", null ],
-    [ "Register", "d6/dbe/a27474.html#a5c70bb3ff8d2c3d9a2ab8aad729917bb", null ],
-    [ "Validate", "d6/dbe/a27474.html#a7c5d82eba0bba896294cffc94843414c", null ]
+    [ "HandleFinish", "d6/dbe/a27474.html#ac4c50220d86f809644e339fc578d9b4a", null ],
+    [ "PrepareSpellScript", "d6/dbe/a27474.html#a5a14594ed93150e34626a7e0edb8171b", null ],
+    [ "Register", "d6/dbe/a27474.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
 ];

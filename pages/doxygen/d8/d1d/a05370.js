@@ -1,5 +1,5 @@
 var a05370 =
 [
-    [ "TileEntries", "d8/d1d/a05370.html#ac982af8210389fe769d161a12d4cdb5f", null ],
-    [ "UniqueEntries", "d8/d1d/a05370.html#a5ba6c948eedc6c070a7eb6aa3816d85c", null ]
+    [ "clear", "d8/d1d/a05370.html#a69bc508845bc35319a6d8c51e562a5f9", null ],
+    [ "createOrGetVMapMgr", "d8/d1d/a05370.html#a80f01f24b27dd7a5a795c193d0816624", null ]
 ];

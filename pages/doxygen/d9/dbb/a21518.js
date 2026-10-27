@@ -1,7 +1,13 @@
 var a21518 =
 [
-    [ "npc_azure_stalker", "d9/dbb/a21518.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
-    [ "Reset", "d9/dbb/a21518.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
-    [ "UpdateAI", "d9/dbb/a21518.html#a22352aad7c55a4d454b9732469395139", null ],
-    [ "_events", "d9/dbb/a21518.html#ad83249d787d2f763ac2d01723ff305ef", null ]
+    [ "MoveX", "d9/dbb/a21518.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d9/dbb/a21518.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d9/dbb/a21518.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d9/dbb/a21518.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d9/dbb/a21518.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d9/dbb/a21518.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d9/dbb/a21518.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d9/dbb/a21518.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d9/dbb/a21518.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d9/dbb/a21518.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

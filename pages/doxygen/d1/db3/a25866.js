@@ -1,6 +1,7 @@
 var a25866 =
 [
-    [ "HandleActivateObject", "d1/db3/a25866.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "d1/db3/a25866.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "d1/db3/a25866.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "HandleDummy", "d1/db3/a25866.html#a4b23e39151d0bced8bb729435a56352d", null ],
+    [ "Load", "d1/db3/a25866.html#aaa341815d71652a13f3ca449af6ac14f", null ],
+    [ "PrepareSpellScript", "d1/db3/a25866.html#ac0e7d279312a59dd62d7d91eb3ef82b7", null ],
+    [ "Register", "d1/db3/a25866.html#a19a2247cebd2af38a1bd30af213ad633", null ]
 ];

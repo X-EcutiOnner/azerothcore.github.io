@@ -1,12 +1,9 @@
 var a20210 =
 [
-    [ "npc_auriaya_feral_defender", "dd/d9f/a20210.html#a84425204b0ad06789edb331ed8495774", null ],
-    [ "DamageTaken", "dd/d9f/a20210.html#aaebbf27345a546bf66e4ab7ed8eae556", null ],
-    [ "DoAction", "dd/d9f/a20210.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
-    [ "JustDied", "dd/d9f/a20210.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
-    [ "JustEngagedWith", "dd/d9f/a20210.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
-    [ "JustSummoned", "dd/d9f/a20210.html#acea3175bcd4df4cf88dc9561c01bee64", null ],
-    [ "Reset", "dd/d9f/a20210.html#a02b09b7dfdd4036827bb474a57296491", null ],
-    [ "UpdateAI", "dd/d9f/a20210.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
-    [ "_summons", "dd/d9f/a20210.html#a0b7960f590ba76068c377cf08291ce35", null ]
+    [ "npc_brann_bronzebeard_algalon", "dd/d9f/a20210.html#ac00755dca7e187b55516be889386c499", null ],
+    [ "DoAction", "dd/d9f/a20210.html#a6d44478868a74ed7baac757258334806", null ],
+    [ "MovementInform", "dd/d9f/a20210.html#a33af1a38ab2827aec38f95e57e54f589", null ],
+    [ "UpdateAI", "dd/d9f/a20210.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
+    [ "_currentPoint", "dd/d9f/a20210.html#a5403badf59f96111aefaddf78379e65f", null ],
+    [ "events", "dd/d9f/a20210.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
 ];

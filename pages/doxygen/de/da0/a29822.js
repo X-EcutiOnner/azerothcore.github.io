@@ -1,7 +1,6 @@
 var a29822 =
 [
-    [ "ExpectDate", "de/da0/a29822.html#a4d45a7190580f2191020d031ad0aab10", null ],
-    [ "IsLeapYear", "de/da0/a29822.html#af80c133dce034eed150593681fba594d", null ],
-    [ "IsValidDate", "de/da0/a29822.html#af1ee91196bfb749605bf98f4441a03a4", null ],
-    [ "NormalizeTm", "de/da0/a29822.html#af4587d4154c059f5e472f00f141a771a", null ]
+    [ "lastExtraAttackSpell", "de/da0/a29822.html#a0b7c47a0c1a328703648936a1da3245f", null ],
+    [ "triggeredSpellHasExtraAttacks", "de/da0/a29822.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
+    [ "triggerSpellId", "de/da0/a29822.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
 ];

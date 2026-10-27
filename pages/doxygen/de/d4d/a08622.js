@@ -1,12 +1,15 @@
 var a08622 =
 [
-    [ "QuaternionData", "de/d4d/a08622.html#a8a582c133d5fba901470a776c7144432", null ],
-    [ "QuaternionData", "de/d4d/a08622.html#a7f68a7bf3da861de017168eef5b8c6a0", null ],
-    [ "FromEulerAnglesZYX", "de/d4d/a08622.html#a4c5f4bc5c0bd4fff3f3ad77e6fd74c09", null ],
-    [ "IsUnit", "de/d4d/a08622.html#ab0330c115f97ff6368d8e8ab9820191e", null ],
-    [ "ToEulerAnglesZYX", "de/d4d/a08622.html#a65c564f6ae82c8f1bfb8f7786b5f0b90", null ],
-    [ "w", "de/d4d/a08622.html#a1f5567b478ebb94161786c85a29ad66a", null ],
-    [ "x", "de/d4d/a08622.html#aca37b701a67eefbf72922a5e7bf98cb2", null ],
-    [ "y", "de/d4d/a08622.html#ac222999cbb4681893fe591a5afc3587d", null ],
-    [ "z", "de/d4d/a08622.html#a7418b0e143cc32169864d77870db5ad7", null ]
+    [ "Guardian", "de/d4d/a08622.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
+    [ "GetDebugInfo", "de/d4d/a08622.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
+    [ "InitStats", "de/d4d/a08622.html#a698ac009e39a2e8461b40135b75609ef", null ],
+    [ "InitStatsForLevel", "de/d4d/a08622.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
+    [ "InitSummon", "de/d4d/a08622.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
+    [ "UpdateAllStats", "de/d4d/a08622.html#ae2f3d68429afb154f790d65dae6406b3", null ],
+    [ "UpdateArmor", "de/d4d/a08622.html#adc8ed8497f8450ccad92f79322d9f452", null ],
+    [ "UpdateAttackPowerAndDamage", "de/d4d/a08622.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
+    [ "UpdateDamagePhysical", "de/d4d/a08622.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
+    [ "UpdateMaxHealth", "de/d4d/a08622.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
+    [ "UpdateMaxPower", "de/d4d/a08622.html#a620010832de5fc7d6d1a8545321f9dea", null ],
+    [ "UpdateStats", "de/d4d/a08622.html#a6b615ed2f01623991fa45907a09cc642", null ]
 ];

@@ -1,6 +1,9 @@
 var a28310 =
 [
-    [ "go_amberpine_outhouse", "db/d59/a28310.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
-    [ "OnGossipHello", "db/d59/a28310.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
-    [ "OnGossipSelect", "db/d59/a28310.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
+    [ "boss_ysondreAI", "db/d59/a28310.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
+    [ "DamageTaken", "db/d59/a28310.html#a99ee250e776001bb142815fc711ae75d", null ],
+    [ "ExecuteEvent", "db/d59/a28310.html#a88e3caa536a71730c757590be1bd3de1", null ],
+    [ "JustEngagedWith", "db/d59/a28310.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
+    [ "Reset", "db/d59/a28310.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
+    [ "_stage", "db/d59/a28310.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
 ];

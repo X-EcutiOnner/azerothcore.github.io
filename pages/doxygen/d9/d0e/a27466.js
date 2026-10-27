@@ -1,5 +1,6 @@
 var a27466 =
 [
-    [ "EarthenPowerTargetSelector", "d9/d0e/a27466.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
-    [ "operator()", "d9/d0e/a27466.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
+    [ "HandleScript", "d9/d0e/a27466.html#acde0ae837d0cd3af0f38481027200291", null ],
+    [ "PrepareSpellScript", "d9/d0e/a27466.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
+    [ "Register", "d9/d0e/a27466.html#a2dc2628984358628afe7d9b62ced7794", null ]
 ];

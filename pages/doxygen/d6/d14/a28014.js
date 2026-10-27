@@ -1,5 +1,10 @@
 var a28014 =
 [
-    [ "achievement_killed_exp_or_honor_target", "d6/d14/a28014.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "d6/d14/a28014.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "CalculateBuffer", "d6/d14/a28014.html#a3fa1917fc77575531e485cd0228bcc00", null ],
+    [ "Detonate", "d6/d14/a28014.html#aa005ef9fba06c26dec9998153119c90f", null ],
+    [ "HandleProc", "d6/d14/a28014.html#a35edcf5f57dee1bbb63321cd67b200db", null ],
+    [ "OnRemove", "d6/d14/a28014.html#ae5ea7f0286f7e4c45611874b5ef79750", null ],
+    [ "PrepareAuraScript", "d6/d14/a28014.html#a325ad66cd69a15260e274562250c8e32", null ],
+    [ "Register", "d6/d14/a28014.html#a2d107c9db0b3b1859cb284b741a77ef8", null ],
+    [ "Validate", "d6/d14/a28014.html#ae7de3e43a47e6b35d0dead23ac51325e", null ]
 ];

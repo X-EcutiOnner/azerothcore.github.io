@@ -1,7 +1,8 @@
 var a11918 =
 [
-    [ "SpellImmune", "d8/df2/a11918.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "d8/df2/a11918.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "d8/df2/a11918.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "d8/df2/a11918.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "SkillExtraItemEntry", "d8/df2/a11918.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "d8/df2/a11918.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "d8/df2/a11918.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "d8/df2/a11918.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "d8/df2/a11918.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

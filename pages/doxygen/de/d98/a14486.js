@@ -1,6 +1,5 @@
 var a14486 =
 [
-    [ "OnEffect", "de/d98/a14486.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
-    [ "PrepareSpellScript", "de/d98/a14486.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
-    [ "Register", "de/d98/a14486.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
+    [ "entry", "de/d98/a14486.html#ad7431eb64907aed0a03205a37c65a735", null ],
+    [ "pos", "de/d98/a14486.html#ab60283e91e81c141f3b31218aa4442a3", null ]
 ];

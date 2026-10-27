@@ -1,6 +1,6 @@
 var a16234 =
 [
-    [ "SayerEntry", "de/d60/a16234.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "de/d60/a16234.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "de/d60/a16234.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "npc_aquementasAI", "d4/d67/a16238.html", "d4/d67/a16238" ],
+    [ "npc_aquementas", "de/d60/a16234.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "de/d60/a16234.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

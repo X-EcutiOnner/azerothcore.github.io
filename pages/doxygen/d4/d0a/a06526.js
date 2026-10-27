@@ -1,6 +1,6 @@
 var a06526 =
 [
-    [ "KillMagnetEvent", "d4/d0a/a06526.html#a1f044cb51674faebe45c0e2119601b59", null ],
-    [ "Execute", "d4/d0a/a06526.html#a2905731d24060dfa7c2069b05adfa2b2", null ],
-    [ "_self", "d4/d0a/a06526.html#a0fe06efbc00b38f98f2e077d7dfb1941", null ]
+    [ "SavedAddon", "d4/d0a/a06526.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
+    [ "CRC", "d4/d0a/a06526.html#a7d04d21a29aa589429aab0d95172ca95", null ],
+    [ "Name", "d4/d0a/a06526.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
 ];

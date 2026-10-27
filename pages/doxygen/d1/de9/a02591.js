@@ -1,8 +1,8 @@
 var a02591 =
 [
-    [ "BattlegroundObjectInfo", "dc/de1/a07765.html", "dc/de1/a07765" ],
-    [ "ArenaLogEntryData", "d0/db3/a07769.html", "d0/db3/a07769" ],
-    [ "Battleground", "d4/d89/a07773.html", "d4/d89/a07773" ],
+    [ "BattlegroundObjectInfo", "df/d49/a07778.html", "df/d49/a07778" ],
+    [ "ArenaLogEntryData", "df/db3/a07782.html", "df/db3/a07782" ],
+    [ "Battleground", "dd/dbc/a07786.html", "dd/dbc/a07786" ],
     [ "ARENA_TIMELIMIT_POINTS_LOSS", "d1/de9/a02591.html#ac5cce663c0f08dc6af7fb2d1ddf35e30", null ],
     [ "BATTLEGROUND_UPDATE_INTERVAL", "d1/de9/a02591.html#a0d902c83a67b6fe19e8257bb23cef6bc", null ],
     [ "BERSERKING_BUFF_RESPAWN_TIME", "d1/de9/a02591.html#ab01c53aafb7c5dd0eab9a4ba908cda4c", null ],

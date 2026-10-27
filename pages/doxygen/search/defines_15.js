@@ -18,6 +18,6 @@ var searchData=
   ['visibility_5fsettings_5fmax_5finterval_5fnum_15',['VISIBILITY_SETTINGS_MAX_INTERVAL_NUM',['../df/d40/a02609.html#ae515340ce2037b26a80e4db46e653b59',1,'DynamicVisibility.h']]],
   ['visibility_5fsettings_5fplayer_5finterval_16',['VISIBILITY_SETTINGS_PLAYER_INTERVAL',['../df/d40/a02609.html#a2733c1a6a4018078df00a4c426661436',1,'DynamicVisibility.h']]],
   ['visual_5fwaypoint_17',['VISUAL_WAYPOINT',['../d0/dbc/a03752.html#af0544189c7fc748059c3075861102b40',1,'MotionMaster.h']]],
-  ['vmap_5finvalid_5fheight_18',['VMAP_INVALID_HEIGHT',['../dc/d42/a04748.html#aa3e862468079e7d1ca850fab429fb316',1,'IVMapMgr.h']]],
-  ['vmap_5finvalid_5fheight_5fvalue_19',['VMAP_INVALID_HEIGHT_VALUE',['../dc/d42/a04748.html#a6d0d846568e1fbb60e05aacfa9c1c73c',1,'IVMapMgr.h']]]
+  ['vmap_5finvalid_5fheight_18',['VMAP_INVALID_HEIGHT',['../d8/dc8/a04757.html#aa3e862468079e7d1ca850fab429fb316',1,'IVMapMgr.h']]],
+  ['vmap_5finvalid_5fheight_5fvalue_19',['VMAP_INVALID_HEIGHT_VALUE',['../d8/dc8/a04757.html#a6d0d846568e1fbb60e05aacfa9c1c73c',1,'IVMapMgr.h']]]
 ];

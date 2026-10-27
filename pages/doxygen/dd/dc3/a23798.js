@@ -1,7 +1,6 @@
 var a23798 =
 [
-    [ "CastQuill", "dd/dc3/a23798.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "dd/dc3/a23798.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "dd/dc3/a23798.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "dd/dc3/a23798.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "CheckProc", "dd/dc3/a23798.html#add583b34b9052fbb37c43c558f0f8b96", null ],
+    [ "PrepareAuraScript", "dd/dc3/a23798.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
+    [ "Register", "dd/dc3/a23798.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
 ];

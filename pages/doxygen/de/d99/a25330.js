@@ -1,8 +1,8 @@
 var a25330 =
 [
-    [ "CheckCast", "de/d99/a25330.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
-    [ "HandleScript", "de/d99/a25330.html#a2c1702398e4cbdcc106679d534a27743", null ],
-    [ "PrepareSpellScript", "de/d99/a25330.html#a613bdf7841744632c1e6de147e0352b9", null ],
-    [ "Register", "de/d99/a25330.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
-    [ "Validate", "de/d99/a25330.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
+    [ "Absorb", "de/d99/a25330.html#aecfcbafe098adddba0a73965c447558c", null ],
+    [ "Load", "de/d99/a25330.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
+    [ "PrepareAuraScript", "de/d99/a25330.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
+    [ "Register", "de/d99/a25330.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
+    [ "_limit", "de/d99/a25330.html#a5985a97749e318e3ccba4c96724d8704", null ]
 ];

@@ -1,6 +1,5 @@
 var a08174 =
 [
-    [ "Rank", "d3/d4c/a08174.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
-    [ "Spell", "d3/d4c/a08174.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
-    [ "Talent", "d3/d4c/a08174.html#ae39546dc8db233709131b388a3868c1a", null ]
+    [ "value_type", "d3/d4c/a08174.html#ae75362e108b0a7323fe92cae75c4729c", null ],
+    [ "TryConsume", "d3/d4c/a08174.html#a19112294c2e36c8e36fb3f77f2ccabba", null ]
 ];

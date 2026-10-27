@@ -1,5 +1,6 @@
 var a14842 =
 [
-    [ "npc_cw_area_triggerAI", "d8/d80/a14842.html#aede21e01dfe762922562b6f5d57bc406", null ],
-    [ "MoveInLineOfSight", "d8/d80/a14842.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
+    [ "HandleAfterHit", "d8/d80/a14842.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
+    [ "PrepareSpellScript", "d8/d80/a14842.html#a284796ec70bdfaea9919f54da94f0021", null ],
+    [ "Register", "d8/d80/a14842.html#a30dcb608c20df17de9597ece1930d59d", null ]
 ];

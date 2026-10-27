@@ -1,8 +1,7 @@
 var a11390 =
 [
-    [ "PlayObjectSound", "d9/d4f/a11390.html#ab322044d36abddeb2fafbf99261bb70b", null ],
-    [ "PlayObjectSound", "d9/d4f/a11390.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
-    [ "Write", "d9/d4f/a11390.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
-    [ "SoundKitID", "d9/d4f/a11390.html#a5e794706b8793d164a1189e9a6918735", null ],
-    [ "SourceObjectGUID", "d9/d4f/a11390.html#a82b226eba66e569c1f377f529e511361", null ]
+    [ "SwapInventoryItem", "d9/d4f/a11390.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
+    [ "Read", "d9/d4f/a11390.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
+    [ "DestinationSlot", "d9/d4f/a11390.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
+    [ "SourceSlot", "d9/d4f/a11390.html#a59117b7ce21919acc55b3da079050dc3", null ]
 ];

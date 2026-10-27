@@ -1,6 +1,5 @@
 var a19930 =
 [
-    [ "HandlePeriodic", "db/da7/a19930.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "db/da7/a19930.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "db/da7/a19930.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "achievement_split_personality", "db/da7/a19930.html#aac29ae7c321306a663e55493987af45d", null ],
+    [ "OnCheck", "db/da7/a19930.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
 ];

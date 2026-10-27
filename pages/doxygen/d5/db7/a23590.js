@@ -1,6 +1,7 @@
 var a23590 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "dc/d59/a23594.html", "dc/d59/a23594" ],
-    [ "instance_hellfire_ramparts", "d5/db7/a23590.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "d5/db7/a23590.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "boss_hydromancer_thespia", "d5/db7/a23590.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "d5/db7/a23590.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "d5/db7/a23590.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "d5/db7/a23590.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

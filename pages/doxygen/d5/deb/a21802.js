@@ -1,6 +1,6 @@
 var a21802 =
 [
-    [ "HandleSendEvent", "d5/deb/a21802.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "d5/deb/a21802.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "d5/deb/a21802.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_hidden_cultistAI", "de/d6b/a21806.html", "de/d6b/a21806" ],
+    [ "npc_hidden_cultist", "d5/deb/a21802.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "d5/deb/a21802.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

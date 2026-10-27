@@ -1,6 +1,8 @@
 var a14770 =
 [
-    [ "npc_direbrew_antagonist", "da/df0/a14770.html#a30fed4e6888d98af576dea8e13c510d3", null ],
-    [ "DoAction", "da/df0/a14770.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
-    [ "JustEngagedWith", "da/df0/a14770.html#aaf54b03d66d726901c289ff28d362787", null ]
+    [ "boss_venoxis", "da/df0/a14770.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "da/df0/a14770.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "da/df0/a14770.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "da/df0/a14770.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "da/df0/a14770.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

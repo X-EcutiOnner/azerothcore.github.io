@@ -1,7 +1,8 @@
 var a16638 =
 [
-    [ "HandleScriptEffect", "db/d2b/a16638.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "db/d2b/a16638.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "db/d2b/a16638.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "db/d2b/a16638.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "RestoreFight", "db/d2b/a16638.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "RestoreFight", "db/d2b/a16638.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "Execute", "db/d2b/a16638.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "Execute", "db/d2b/a16638.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "_owner", "db/d2b/a16638.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
 ];

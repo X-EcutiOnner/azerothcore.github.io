@@ -1,7 +1,8 @@
 var a16758 =
 [
-    [ "HandleAfterEffectAbsorb", "db/dfc/a16758.html#ab3d9f3679931b4b3b29713602d08701d", null ],
-    [ "PrepareAuraScript", "db/dfc/a16758.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
-    [ "Register", "db/dfc/a16758.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
-    [ "Validate", "db/dfc/a16758.html#a87750183d2b2d6adb67bba4a1f767029", null ]
+    [ "Load", "db/dfc/a16758.html#a55dc086667f0fe23e513608e951276ed", null ],
+    [ "Phase", "db/dfc/a16758.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
+    [ "PrepareSpellScript", "db/dfc/a16758.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
+    [ "Register", "db/dfc/a16758.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
+    [ "Validate", "db/dfc/a16758.html#a87192df547adaf3cb060155d9cf4da79", null ]
 ];

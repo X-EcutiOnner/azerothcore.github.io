@@ -1,11 +1,6 @@
 var a14234 =
 [
-    [ "npc_highborne_lamenterAI", "d2/d07/a14234.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
-    [ "JustEngagedWith", "d2/d07/a14234.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
-    [ "Reset", "d2/d07/a14234.html#a7cf9338767e8edf0a87a5552703de87a", null ],
-    [ "UpdateAI", "d2/d07/a14234.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
-    [ "EventCast", "d2/d07/a14234.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
-    [ "EventCastTimer", "d2/d07/a14234.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
-    [ "EventMove", "d2/d07/a14234.html#aca22c73db989f0393926067506794e43", null ],
-    [ "EventMoveTimer", "d2/d07/a14234.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
+    [ "npc_tyrion_spybotAI", "d4/dc3/a14238.html", "d4/dc3/a14238" ],
+    [ "npc_tyrion_spybot", "d2/d07/a14234.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
+    [ "GetAI", "d2/d07/a14234.html#af81b70437703edc8d99fe24249891dd6", null ]
 ];

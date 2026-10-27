@@ -1,14 +1,14 @@
 var a07782 =
 [
-    [ "BattlegroundDS", "df/db3/a07782.html#a041cd3c81d341ff12e2e103da44c19b8", null ],
-    [ "FillInitialWorldStates", "df/db3/a07782.html#a0c7a45aa22e390d2760bf32720435d5e", null ],
-    [ "HandleAreaTrigger", "df/db3/a07782.html#a91e0be32f0169b9ac8749003ae3cdae7", null ],
-    [ "HandlePlayerUnderMap", "df/db3/a07782.html#a97ed6f531b1de3eaf93c585e205e7f54", null ],
-    [ "PostUpdateImpl", "df/db3/a07782.html#a57cfca32a361d43f19163dc6e7408e96", null ],
-    [ "SetupBattleground", "df/db3/a07782.html#ae008bf979e6984856237938dfe743ec7", null ],
-    [ "StartingEventCloseDoors", "df/db3/a07782.html#ae215043c2c10df9f9339e2a6dbcb185e", null ],
-    [ "StartingEventOpenDoors", "df/db3/a07782.html#ab9ab60253daa5318dcdb6675c8919cd5", null ],
-    [ "_events", "df/db3/a07782.html#a79112a1631ec6541cf19ecef712bb66f", null ],
-    [ "_pipeKnockBackCount", "df/db3/a07782.html#a32490dab9fd8ea9ae9afd8cf66feb087", null ],
-    [ "_pipeKnockBackTimer", "df/db3/a07782.html#aaef0cac1f3283c56117efcc484a0abfc", null ]
+    [ "ArenaLogEntryData", "df/db3/a07782.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
+    [ "Fill", "df/db3/a07782.html#aa3cca4521431bf152550611549bf4bbe", null ],
+    [ "SaveStats", "df/db3/a07782.html#a2f612b3623ad77bc5e25ac0fdad4197b", null ],
+    [ "Acc", "df/db3/a07782.html#aa8983930063298c86f4635d2ae3078fe", null ],
+    [ "ArenaTeamId", "df/db3/a07782.html#ac764620c3c8a986286fd74062dac4645", null ],
+    [ "DamageDone", "df/db3/a07782.html#a7c4c458a7128e869dbf207655b52c7ee", null ],
+    [ "Guid", "df/db3/a07782.html#a03b32cd44c655dcc9104aead3b76454e", null ],
+    [ "HealingDone", "df/db3/a07782.html#af026544d31252e10035364540b96b5b0", null ],
+    [ "IP", "df/db3/a07782.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
+    [ "KillingBlows", "df/db3/a07782.html#a6acec2f17b65a994ee6eba3304fe9ce2", null ],
+    [ "Name", "df/db3/a07782.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
 ];

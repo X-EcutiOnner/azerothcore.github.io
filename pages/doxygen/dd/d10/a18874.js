@@ -1,9 +1,6 @@
 var a18874 =
 [
-    [ "DelayedCastEvent", "dd/d10/a18874.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "dd/d10/a18874.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "dd/d10/a18874.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "dd/d10/a18874.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "dd/d10/a18874.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "dd/d10/a18874.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "ModDestHeight", "dd/d10/a18874.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
+    [ "PrepareSpellScript", "dd/d10/a18874.html#a288f8917d73be30234e465778b1f6544", null ],
+    [ "Register", "dd/d10/a18874.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
 ];

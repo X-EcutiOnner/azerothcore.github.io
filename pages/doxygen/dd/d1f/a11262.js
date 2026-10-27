@@ -1,8 +1,7 @@
 var a11262 =
 [
-    [ "SetDungeonDifficulty", "dd/d1f/a11262.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
-    [ "Write", "dd/d1f/a11262.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
-    [ "Difficulty", "dd/d1f/a11262.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
-    [ "IsInGroup", "dd/d1f/a11262.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
-    [ "Unk", "dd/d1f/a11262.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
+    [ "GuildBankActivate", "dd/d1f/a11262.html#a5b27541a26ada694d9635f6d6873ef20", null ],
+    [ "Read", "dd/d1f/a11262.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
+    [ "Banker", "dd/d1f/a11262.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
+    [ "FullUpdate", "dd/d1f/a11262.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
 ];

@@ -1,6 +1,6 @@
 var a14154 =
 [
-    [ "HandleScriptEffect", "dd/d00/a14154.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
-    [ "PrepareSpellScript", "dd/d00/a14154.html#ad110e0dba330acde845c47501256cf5d", null ],
-    [ "Register", "dd/d00/a14154.html#ab6971aa466055a1280cd258e26645157", null ]
+    [ "npc_rinjiAI", "da/de3/a14158.html", "da/de3/a14158" ],
+    [ "npc_rinji", "dd/d00/a14154.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
+    [ "GetAI", "dd/d00/a14154.html#a5457ac00ce0b195752640358b912af10", null ]
 ];

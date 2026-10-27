@@ -1,8 +1,6 @@
 var a11738 =
 [
-    [ "PacketFilter", "d9/de2/a11738.html#accfa43359c62d2e9d6c38086c77374bd", null ],
-    [ "~PacketFilter", "d9/de2/a11738.html#a669531cfd9c06d5cf525986069117687", null ],
-    [ "Process", "d9/de2/a11738.html#a03679e3c241a535757608c63ca933ac9", null ],
-    [ "ProcessUnsafe", "d9/de2/a11738.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
-    [ "m_pSession", "d9/de2/a11738.html#ad3723289ea93f1095cf82584268335d9", null ]
+    [ "QuestLogRemoveQuest", "d9/de2/a11738.html#afeb3eec9774e69822f3b5f9bf7b5f905", null ],
+    [ "Read", "d9/de2/a11738.html#a22e2ff4a700f9db48518cf5a9aec18f6", null ],
+    [ "Slot", "d9/de2/a11738.html#ae1d6a81d589533b15c0358b4896afd91", null ]
 ];

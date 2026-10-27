@@ -1,6 +1,6 @@
 var a14750 =
 [
-    [ "OnApply", "d6/d25/a14750.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "d6/d25/a14750.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "d6/d25/a14750.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "boss_renatakiAI", "d8/d2f/a14754.html", "d8/d2f/a14754" ],
+    [ "boss_renataki", "d6/d25/a14750.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
+    [ "GetAI", "d6/d25/a14750.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
 ];

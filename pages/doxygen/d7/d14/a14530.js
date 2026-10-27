@@ -1,7 +1,9 @@
 var a14530 =
 [
-    [ "OnRemove", "d7/d14/a14530.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "d7/d14/a14530.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "d7/d14/a14530.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "d7/d14/a14530.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "npc_zulaman_hostageAI", "d7/d14/a14530.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "d7/d14/a14530.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "d7/d14/a14530.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "d7/d14/a14530.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "d7/d14/a14530.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "d7/d14/a14530.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

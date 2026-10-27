@@ -1,7 +1,8 @@
 var a17378 =
 [
-    [ "npc_hor_leader_secondAI", "d8/df3/a17382.html", "d8/df3/a17382" ],
-    [ "npc_hor_leader_second", "d3/d42/a17378.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
-    [ "GetAI", "d3/d42/a17378.html#af5b97ecca35501a75658919d384a18f7", null ],
-    [ "OnGossipSelect", "d3/d42/a17378.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
+    [ "npc_fos_corrupted_soul_fragment", "d3/d42/a17378.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
+    [ "Reset", "d3/d42/a17378.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
+    [ "UpdateAI", "d3/d42/a17378.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
+    [ "Instance", "d3/d42/a17378.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
+    [ "Timer", "d3/d42/a17378.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
 ];

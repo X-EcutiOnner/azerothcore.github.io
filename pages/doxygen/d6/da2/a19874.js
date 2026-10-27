@@ -1,26 +1,8 @@
 var a19874 =
 [
-    [ "instance_oculus_InstanceMapScript", "d6/da2/a19874.html#a86c942751aee67ae10e2c77a1ace630e", null ],
-    [ "CheckAchievementCriteriaMeet", "d6/da2/a19874.html#a04ea989733a6ba1bed1990e1ea8baf1f", null ],
-    [ "GetData", "d6/da2/a19874.html#a44cf46153dd392758fa5c388e8c2ea84", null ],
-    [ "GetGuidData", "d6/da2/a19874.html#ac969f1faf18633ad54354015fb66f4f8", null ],
-    [ "Initialize", "d6/da2/a19874.html#a1c035ca450efdd89481715bd09c6c38c", null ],
-    [ "OnCreatureCreate", "d6/da2/a19874.html#ac5086f399b9d36769632a983890ed576", null ],
-    [ "OnGameObjectCreate", "d6/da2/a19874.html#a08abbb0430a43bb4841560b01e9fe26c", null ],
-    [ "OnPlayerEnter", "d6/da2/a19874.html#a7046a9b087300d0854bb1078c7bd1c9b", null ],
-    [ "OnUnitDeath", "d6/da2/a19874.html#a84fa94a97c62ba7b68130c7a5d8bb4dd", null ],
-    [ "ReadSaveDataMore", "d6/da2/a19874.html#aa5f838155be454aec552b99c42edfe99", null ],
-    [ "SetData", "d6/da2/a19874.html#a58b0b5142cbae350d6cc61c89a3792af", null ],
-    [ "WriteSaveDataMore", "d6/da2/a19874.html#a5043a99a4a3d1c86a4a7026757ebdc14", null ],
-    [ "bAmberVoid", "d6/da2/a19874.html#a9dfa8834bfea20a8f4a39c958e38bcbd", null ],
-    [ "bEmeraldVoid", "d6/da2/a19874.html#a45ce85a8a6c9362ad04194b0518066c9", null ],
-    [ "bRubyVoid", "d6/da2/a19874.html#ad93d6be40d07925d1eb485f864c72ace", null ],
-    [ "CentrifugeCount", "d6/da2/a19874.html#ae5a87cc8bfc153aee0f96978f39a1932", null ],
-    [ "DragonCageDoorGUID", "d6/da2/a19874.html#a402480035dfffd7c4c717229bd55b921", null ],
-    [ "EregosCacheGUID", "d6/da2/a19874.html#aad60cffd6c483bf4610884c3b99ad39c", null ],
-    [ "m_auiEncounter", "d6/da2/a19874.html#af4cca13b9039d7c88e7fad1e8f23eb3a", null ],
-    [ "uiDrakosGUID", "d6/da2/a19874.html#a1bc410826700bdfcefc5f60d0967a091", null ],
-    [ "uiEregosGUID", "d6/da2/a19874.html#a559b482989ee8f91f1ba412683856d89", null ],
-    [ "uiUromGUID", "d6/da2/a19874.html#accf640519e925eccf0230ca4a5dee3bb", null ],
-    [ "uiVarosGUID", "d6/da2/a19874.html#ab4a87ca38d203deacc377579e66e5bfb", null ]
+    [ "Load", "d6/da2/a19874.html#af8ef90a44a5405e58dbb3003642c078b", null ],
+    [ "PrepareSpellScript", "d6/da2/a19874.html#a40649371440d62e4ba8af1b077880d0b", null ],
+    [ "Register", "d6/da2/a19874.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
+    [ "SendThreeTargets", "d6/da2/a19874.html#ab16b83839ce9136da84691640020f846", null ],
+    [ "Validate", "d6/da2/a19874.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
 ];

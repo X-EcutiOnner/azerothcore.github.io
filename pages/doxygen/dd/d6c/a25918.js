@@ -1,7 +1,8 @@
 var a25918 =
 [
-    [ "OnRemove", "dd/d6c/a25918.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
-    [ "PrepareAuraScript", "dd/d6c/a25918.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
-    [ "Register", "dd/d6c/a25918.html#a35a8adc4944fc2333488e72498f6d252", null ],
-    [ "Validate", "dd/d6c/a25918.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
+    [ "HandleFinish", "dd/d6c/a25918.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
+    [ "PrepareSpellScript", "dd/d6c/a25918.html#a73865997890d4f58cc09d54c2c4e5243", null ],
+    [ "Register", "dd/d6c/a25918.html#a106cf5d53956b66f8f548caceda41dc8", null ],
+    [ "SelectTarget", "dd/d6c/a25918.html#ab33513df20e942ba354932df5082efa8", null ],
+    [ "_target", "dd/d6c/a25918.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
 ];

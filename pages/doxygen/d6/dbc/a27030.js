@@ -1,8 +1,10 @@
 var a27030 =
 [
-    [ "HandleEffectRemove", "d6/dbc/a27030.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "d6/dbc/a27030.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "d6/dbc/a27030.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "d6/dbc/a27030.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "d6/dbc/a27030.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "spell_pal_improved_aura", "d6/dbc/a27030.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
+    [ "HandleEffectApply", "d6/dbc/a27030.html#a441952100c103ccdf84c58827669faac", null ],
+    [ "HandleEffectRemove", "d6/dbc/a27030.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
+    [ "PrepareAuraScript", "d6/dbc/a27030.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
+    [ "Register", "d6/dbc/a27030.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
+    [ "Validate", "d6/dbc/a27030.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
+    [ "_spellId", "d6/dbc/a27030.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
 ];

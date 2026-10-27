@@ -1,10 +1,12 @@
 var a08598 =
 [
-    [ "GameObjectData", "d4/d46/a08598.html#aaef16c60fee2c9c6a309cfe14f02c0fe", null ],
-    [ "animprogress", "d4/d46/a08598.html#aadec9e3088063532fd879fdaad3c3d74", null ],
-    [ "artKit", "d4/d46/a08598.html#a4e5d0f2b99f1bd87aa22c943594ce355", null ],
-    [ "go_state", "d4/d46/a08598.html#ae8c523cb24a55fcde5d8caac3f82dfd5", null ],
-    [ "id", "d4/d46/a08598.html#ae12c8c5e7b3c848a57960e4c51d76e84", null ],
-    [ "rotation", "d4/d46/a08598.html#a81da3cac2ac1a3cf71579b1da6873fe9", null ],
-    [ "spawntimesecs", "d4/d46/a08598.html#a6afeb167bb136c3ddabcc350007788db", null ]
+    [ "QuestMenu", "d4/d46/a08598.html#a60ba5b35499c6a9ed510300d3300421e", null ],
+    [ "~QuestMenu", "d4/d46/a08598.html#a14df9b6699c327853121ae032704db8d", null ],
+    [ "AddMenuItem", "d4/d46/a08598.html#ac8735756bbf9f2fa799c505bd740e070", null ],
+    [ "ClearMenu", "d4/d46/a08598.html#ab3d3881aabe000694acab37a3774507e", null ],
+    [ "Empty", "d4/d46/a08598.html#a1a850cb70956f299ea91cb0d732ad202", null ],
+    [ "GetItem", "d4/d46/a08598.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
+    [ "GetMenuItemCount", "d4/d46/a08598.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
+    [ "HasItem", "d4/d46/a08598.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
+    [ "_questMenuItems", "d4/d46/a08598.html#a49279a3943009f2d1475d792c2c3d21a", null ]
 ];

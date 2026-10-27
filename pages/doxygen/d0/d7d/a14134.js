@@ -1,6 +1,6 @@
 var a14134 =
 [
-    [ "ModDestHeight", "d0/d7d/a14134.html#ae5e63f8d6e9e3fa05a82cd5708b44527", null ],
-    [ "PrepareSpellScript", "d0/d7d/a14134.html#a7447499330dc583210b7a172265dbb69", null ],
-    [ "Register", "d0/d7d/a14134.html#a75e577bbe27b2742f6209b7d295dcafa", null ]
+    [ "npc_lor_themar_theron", "d0/d7d/a14134.html#acf8b65675cc46949440a829fc1adf5fc", null ],
+    [ "JustDied", "d0/d7d/a14134.html#ad2615cc062c8c1f4b01fc9e253fe34d4", null ],
+    [ "UpdateAI", "d0/d7d/a14134.html#aa9eafbacdb75bfbf772c901ce96119c6", null ]
 ];

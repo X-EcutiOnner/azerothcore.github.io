@@ -1,13 +1,9 @@
 var a24226 =
 [
-    [ "npc_illidari_spawnAI", "d7/d2a/a24226.html#a704c1d3e07d028b04e2bddee37039941", null ],
-    [ "JustDied", "d7/d2a/a24226.html#a27277d90d4a58a89386a39f4affbaee8", null ],
-    [ "JustEngagedWith", "d7/d2a/a24226.html#add4ea6366614e9fb86e85613bfb910ba", null ],
-    [ "Reset", "d7/d2a/a24226.html#a5347858d5da4f0718479b1d702125366", null ],
-    [ "UpdateAI", "d7/d2a/a24226.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
-    [ "LordIllidanGUID", "d7/d2a/a24226.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
-    [ "SpellTimer1", "d7/d2a/a24226.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
-    [ "SpellTimer2", "d7/d2a/a24226.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
-    [ "SpellTimer3", "d7/d2a/a24226.html#a9889f9673292613dc46387862f3e8849", null ],
-    [ "Timers", "d7/d2a/a24226.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d7/d2a/a24226.html#a273d585416dc92d39d5ec3824c08504d", null ],
+    [ "IsSummonedBy", "d7/d2a/a24226.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
+    [ "Reset", "d7/d2a/a24226.html#a06fa50580efeab8d847a05f20956d175", null ],
+    [ "UpdateAI", "d7/d2a/a24226.html#a8261a259cfbee0d3610ee441406fafcd", null ],
+    [ "playerGuid", "d7/d2a/a24226.html#aab717dd49284c483759a6223dbd7e6ea", null ],
+    [ "timer", "d7/d2a/a24226.html#afba1b71178c563a3db906057cd20de45", null ]
 ];

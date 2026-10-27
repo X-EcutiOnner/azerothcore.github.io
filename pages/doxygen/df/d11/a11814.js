@@ -1,8 +1,12 @@
 var a11814 =
 [
-    [ "SkillPerfectItemEntry", "df/d11/a11814.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
-    [ "SkillPerfectItemEntry", "df/d11/a11814.html#a678f9908440187faad38c0e1ffaf82de", null ],
-    [ "perfectCreateChance", "df/d11/a11814.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
-    [ "perfectItemType", "df/d11/a11814.html#a057605f8867d4df5cb290318598a2908", null ],
-    [ "requiredSpecialization", "df/d11/a11814.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
+    [ "PacketLog", "df/d11/a11814.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
+    [ "~PacketLog", "df/d11/a11814.html#a595a42f9aaa94d6c46d185955df801e0", null ],
+    [ "CanLogPacket", "df/d11/a11814.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
+    [ "Initialize", "df/d11/a11814.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
+    [ "instance", "df/d11/a11814.html#a484418a51ca0bf150d17b23d97979bf4", null ],
+    [ "LogPacket", "df/d11/a11814.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
+    [ "_file", "df/d11/a11814.html#a03346a709f7586f6445e03b9a3b6af04", null ],
+    [ "_initializeFlag", "df/d11/a11814.html#a490cafe009f7b2ecb303a76c781f8960", null ],
+    [ "_logPacketLock", "df/d11/a11814.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
 ];

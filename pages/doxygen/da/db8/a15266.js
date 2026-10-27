@@ -1,12 +1,18 @@
 var a15266 =
 [
-    [ "boss_mal_ganisAI", "da/db8/a15266.html#aa8b70930372cd0729686f7c6032d3152", null ],
-    [ "DamageTaken", "da/db8/a15266.html#a4873386266ce3b4b849377028ff746a5", null ],
-    [ "JustDied", "da/db8/a15266.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
-    [ "JustEngagedWith", "da/db8/a15266.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
-    [ "KilledUnit", "da/db8/a15266.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
-    [ "Reset", "da/db8/a15266.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
-    [ "UpdateAI", "da/db8/a15266.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
-    [ "events", "da/db8/a15266.html#a194c002efe244b8c94a072faf72be771", null ],
-    [ "finished", "da/db8/a15266.html#ac4c90c814aa55781f863c958253e9df2", null ]
+    [ "boss_archimonde", "da/db8/a15266.html#a25e52499f80d4c3edb4dd5cf02b95d18", null ],
+    [ "DoAction", "da/db8/a15266.html#aba420f926ccdfc6feeb16a0e6d67267f", null ],
+    [ "DoCastDoomFire", "da/db8/a15266.html#a409cad381c6562f44fcf8f66a5965ec4", null ],
+    [ "EnterEvadeMode", "da/db8/a15266.html#aac09090d17c336e9935cfce7ff1c8d60", null ],
+    [ "JustEngagedWith", "da/db8/a15266.html#a31c526a5e72c4244df101918388c777c", null ],
+    [ "JustSummoned", "da/db8/a15266.html#a6db990f64d884f1290c77b8ec73b8fb0", null ],
+    [ "KilledUnit", "da/db8/a15266.html#a341ab97e59cfe989572fdcceff434e4e", null ],
+    [ "Reset", "da/db8/a15266.html#a905918f9fc654c4c1fa1aa99980d39e6", null ],
+    [ "SetGUID", "da/db8/a15266.html#ac4246d0fd80ed0edfd39b2008a97eeca", null ],
+    [ "UnleashSoulCharge", "da/db8/a15266.html#a93f93fe116c75a24dc15bb521b038a27", null ],
+    [ "_availableAuras", "da/db8/a15266.html#a552869a0fd5141094a021e3aaaada051", null ],
+    [ "_availableSpells", "da/db8/a15266.html#a388a8bafb4407e371a58d3a7d090c754", null ],
+    [ "_enraged", "da/db8/a15266.html#a1e295ff6ae857c7a022acf967afd0de0", null ],
+    [ "_isChanneling", "da/db8/a15266.html#ad967688caad8a6c7530bfd4709aecb06", null ],
+    [ "_wispCount", "da/db8/a15266.html#aa2ec2fcd92ed81f76fb238af9dbad53e", null ]
 ];

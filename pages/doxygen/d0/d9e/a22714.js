@@ -1,9 +1,13 @@
 var a22714 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d0/d9e/a22714.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "d0/d9e/a22714.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "d0/d9e/a22714.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "d0/d9e/a22714.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "d0/d9e/a22714.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "d0/d9e/a22714.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "OPvPCapturePointEP_CGT", "d0/d9e/a22714.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
+    [ "ChangeState", "d0/d9e/a22714.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
+    [ "FillInitialWorldStates", "d0/d9e/a22714.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
+    [ "HandlePlayerEnter", "d0/d9e/a22714.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
+    [ "HandlePlayerLeave", "d0/d9e/a22714.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
+    [ "LinkGraveyard", "d0/d9e/a22714.html#ada14179a31fb6235b7882a190dc96c40", null ],
+    [ "SendChangePhase", "d0/d9e/a22714.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
+    [ "UpdateTowerState", "d0/d9e/a22714.html#a764284d6143d4879b5bc003acc52048c", null ],
+    [ "m_GraveyardSide", "d0/d9e/a22714.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
+    [ "m_TowerState", "d0/d9e/a22714.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
 ];

@@ -1,9 +1,6 @@
 var a11346 =
 [
-    [ "ItemEnchantTimeUpdate", "d2/d11/a11346.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
-    [ "Write", "d2/d11/a11346.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
-    [ "Duration", "d2/d11/a11346.html#ad576ce6011716519a70c6e00e0753a49", null ],
-    [ "ItemGuid", "d2/d11/a11346.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
-    [ "PlayerGuid", "d2/d11/a11346.html#a4623875e38909d8b7300e7d9c703b216", null ],
-    [ "Slot", "d2/d11/a11346.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
+    [ "PlayerSaveGuildEmblem", "d2/d11/a11346.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
+    [ "Write", "d2/d11/a11346.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
+    [ "Error", "d2/d11/a11346.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
 ];

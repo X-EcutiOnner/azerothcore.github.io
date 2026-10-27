@@ -1,9 +1,6 @@
 var a16202 =
 [
-    [ "npc_pluckyAI", "df/dea/a16202.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "df/dea/a16202.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "df/dea/a16202.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "df/dea/a16202.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "df/dea/a16202.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "df/dea/a16202.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_anachronos_quest_triggerAI", "db/d43/a16206.html", "db/d43/a16206" ],
+    [ "npc_anachronos_quest_trigger", "df/dea/a16202.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "df/dea/a16202.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

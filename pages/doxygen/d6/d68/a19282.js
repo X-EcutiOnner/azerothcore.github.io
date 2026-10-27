@@ -1,6 +1,11 @@
 var a19282 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d5/dbc/a19286.html", "d5/dbc/a19286" ],
-    [ "npc_icc_skybreaker_luminary", "d6/d68/a19282.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "d6/d68/a19282.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "go_empowering_blood_orb", "d6/d68/a19282.html#a4d6719a0ba25b25ca61baa7e1785636b", null ],
+    [ "GossipHello", "d6/d68/a19282.html#a2b176a2b97ebb96e60ed381533cc4ebb", null ],
+    [ "HandleObjectUse", "d6/d68/a19282.html#a4fffcbe7526951562cfc063fe7b39255", null ],
+    [ "Reset", "d6/d68/a19282.html#a284de01132efc6ed4d865e14ae100bd8", null ],
+    [ "SetGUID", "d6/d68/a19282.html#ab5eb2c24e81600a6f295e38a32324f2d", null ],
+    [ "UpdateAI", "d6/d68/a19282.html#a19b23d9b9ae467eb5be7fc30b1c2154f", null ],
+    [ "_scheduler", "d6/d68/a19282.html#a40cf117590ac657c216478cb43725bf5", null ],
+    [ "_triggerGuid", "d6/d68/a19282.html#a70721a6c8f1a27e6fa31ad52184883f3", null ]
 ];

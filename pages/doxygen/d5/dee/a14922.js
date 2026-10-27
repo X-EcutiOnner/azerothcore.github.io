@@ -1,8 +1,11 @@
 var a14922 =
 [
-    [ "npc_hallows_end_train_fire", "d5/dee/a14922.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
-    [ "Reset", "d5/dee/a14922.html#afdda52e0adce23f56fa9d1357469a17d", null ],
-    [ "SpellHit", "d5/dee/a14922.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
-    [ "UpdateAI", "d5/dee/a14922.html#a686a565e1743c31166d8d57f67a0adce", null ],
-    [ "timer", "d5/dee/a14922.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
+    [ "npc_the_biggest_tree", "d5/dee/a14922.html#a7366f46c4864fa0f1372c920b94c6e97", null ],
+    [ "MoveInLineOfSight", "d5/dee/a14922.html#a572c0b146d461b6a8504163452570954", null ],
+    [ "Reset", "d5/dee/a14922.html#a3fd4c5e522e8945925124426a8ff870b", null ],
+    [ "UpdateAI", "d5/dee/a14922.html#a3d1b33ab7cd28de5438f53a00657170a", null ],
+    [ "orphanGUID", "d5/dee/a14922.html#a36c170fb178a19256fd41fb2cbbb7830", null ],
+    [ "phase", "d5/dee/a14922.html#a7101fe10b15ce1779d3d131e597ef636", null ],
+    [ "playerGUID", "d5/dee/a14922.html#ab39af61d9ab7d9f7210f96b65971654d", null ],
+    [ "timer", "d5/dee/a14922.html#a7525783692c3bc9642f534296b71a5f5", null ]
 ];

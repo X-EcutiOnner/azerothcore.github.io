@@ -1,11 +1,7 @@
 var a14502 =
 [
-    [ "boss_hakkarAI", "d0/d1c/a14502.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
-    [ "ApplyHakkarPowerStacks", "d0/d1c/a14502.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
-    [ "CheckInRoom", "d0/d1c/a14502.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
-    [ "EnterEvadeMode", "d0/d1c/a14502.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
-    [ "JustDied", "d0/d1c/a14502.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
-    [ "JustEngagedWith", "d0/d1c/a14502.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
-    [ "Reset", "d0/d1c/a14502.html#a52db5743c09088e2e9f1aff1513960f2", null ],
-    [ "UpdateAI", "d0/d1c/a14502.html#a1119212465bcf293991d7a520c6ffe42", null ]
+    [ "OnPeriodic", "d0/d1c/a14502.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "d0/d1c/a14502.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "d0/d1c/a14502.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "d0/d1c/a14502.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

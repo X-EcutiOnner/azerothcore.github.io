@@ -1,7 +1,7 @@
 var a29342 =
 [
-    [ "ID", "db/dcd/a29342.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "db/dcd/a29342.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "db/dcd/a29342.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "db/dcd/a29342.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "EmoteType", "db/dcd/a29342.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "db/dcd/a29342.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "db/dcd/a29342.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "db/dcd/a29342.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

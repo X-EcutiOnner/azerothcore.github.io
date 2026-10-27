@@ -1,6 +1,7 @@
 var a16726 =
 [
-    [ "boss_paletressAI", "de/d9e/a16730.html", "de/d9e/a16730" ],
-    [ "boss_paletress", "d2/dea/a16726.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
-    [ "GetAI", "d2/dea/a16726.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
+    [ "HandleDummy", "d2/dea/a16726.html#ad0782bfbd977954aac6170ee9111aef6", null ],
+    [ "PrepareSpellScript", "d2/dea/a16726.html#ac456524856c4a3c4913423693a8fd50c", null ],
+    [ "Register", "d2/dea/a16726.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
+    [ "Validate", "d2/dea/a16726.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
 ];

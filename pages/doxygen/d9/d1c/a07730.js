@@ -1,10 +1,6 @@
 var a07730 =
 [
-    [ "SelectionPool", "d9/d1c/a07730.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
-    [ "AddGroup", "d9/d1c/a07730.html#a87fe4747536355ad7affda76640a082e", null ],
-    [ "GetPlayerCount", "d9/d1c/a07730.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
-    [ "Init", "d9/d1c/a07730.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
-    [ "KickGroup", "d9/d1c/a07730.html#a74fb708546a8612ca52b24b8472b71ef", null ],
-    [ "PlayerCount", "d9/d1c/a07730.html#a0c08c47f68dbb45175efc524f4553e16", null ],
-    [ "SelectedGroups", "d9/d1c/a07730.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
+    [ "RewardTeamWithRewardGroup", "d9/d1c/a07730.html#a962da3fcdc2feb57ffd2a635d431939a", null ],
+    [ "RewardWithAchievements", "d9/d1c/a07730.html#a57e1ffbe543a93799d6c26d880e128ad", null ],
+    [ "RewardWithMail", "d9/d1c/a07730.html#a4f2dd956f1ffadbfb5b005c1fbeb5aee", null ]
 ];

@@ -1,13 +1,6 @@
 var a24318 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d9/d97/a24318.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
-    [ "DamageTaken", "d9/d97/a24318.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "HasQuestActive", "d9/d97/a24318.html#ad97ea6721dcea4058167ea327dc0c515", null ],
-    [ "JustEngagedWith", "d9/d97/a24318.html#a537225016bfeba51b607d250c0a09be5", null ],
-    [ "Reset", "d9/d97/a24318.html#a14ca75417c623d6d6e5fce50521963da", null ],
-    [ "Submit", "d9/d97/a24318.html#a26872858bfb4aeda1b4af445033995db", null ],
-    [ "UpdateAI", "d9/d97/a24318.html#a744ea41d7f9450965419085a296c8df2", null ],
-    [ "PulverizeTimer", "d9/d97/a24318.html#a43324c095d4f98b97b39b5eb86c4c783", null ],
-    [ "Submitted", "d9/d97/a24318.html#a47777bb2dd47764c9cb01dc3f3e25f39", null ],
-    [ "UnfriendlyTimer", "d9/d97/a24318.html#a21559a315c812b50b74fc22dc32a2930", null ]
+    [ "npc_commander_dawnforgeAI", "d1/d25/a24322.html", "d1/d25/a24322" ],
+    [ "npc_commander_dawnforge", "d9/d97/a24318.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "d9/d97/a24318.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

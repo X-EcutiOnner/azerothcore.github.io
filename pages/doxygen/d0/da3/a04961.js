@@ -1,4 +1,5 @@
 var a04961 =
 [
-    [ "Acore::SignalHandler", "dc/dec/a05913.html", "dc/dec/a05913" ]
+    [ "getOutOfWater", "d0/da3/a04961.html#a92646d631d9334b64b0b487ebf87d769", null ],
+    [ "getWeight", "d0/da3/a04961.html#a44526122378fe7ee8622f1ffc822dc20", null ]
 ];

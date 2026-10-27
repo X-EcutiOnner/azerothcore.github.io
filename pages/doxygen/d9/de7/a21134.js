@@ -1,9 +1,6 @@
 var a21134 =
 [
-    [ "npc_ulduar_keeperAI", "d9/de7/a21134.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d9/de7/a21134.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d9/de7/a21134.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d9/de7/a21134.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d9/de7/a21134.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d9/de7/a21134.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "boss_yoggsaron_death_orb", "d9/de7/a21134.html#a8e967885da35381db767d941a2174a82", null ],
+    [ "IsSummonedBy", "d9/de7/a21134.html#a86965a290bf5714fe5e81577ae80775a", null ],
+    [ "JustSummoned", "d9/de7/a21134.html#a916588e3cdd0520fe5c1947a797c0042", null ]
 ];

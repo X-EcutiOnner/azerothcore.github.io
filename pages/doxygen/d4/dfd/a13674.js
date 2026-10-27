@@ -1,6 +1,6 @@
 var a13674 =
 [
-    [ "HandleActivateObject", "d4/dfd/a13674.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d4/dfd/a13674.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d4/dfd/a13674.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "npc_scholomance_occultistAI", "da/d4d/a13678.html", "da/d4d/a13678" ],
+    [ "npc_scholomance_occultist", "d4/dfd/a13674.html#adf100912a15ff8edf056efa7eebd13ff", null ],
+    [ "GetAI", "d4/dfd/a13674.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
 ];

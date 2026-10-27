@@ -1,6 +1,5 @@
 var a30006 =
 [
-    [ "RunStatisticalTest", "de/de6/a30006.html#a5dadc645a4cae9bf9e9ed990616118be", null ],
-    [ "SetUp", "de/de6/a30006.html#afa15552d260ab744d178e1c1b7ed23bb", null ],
-    [ "TearDown", "de/de6/a30006.html#a894d832a3ee006179de45e944d25a732", null ]
+    [ "SetUp", "de/de6/a30006.html#a01d047383a822846aac3ac06b5dfcae9", null ],
+    [ "TearDown", "de/de6/a30006.html#a0e10e5904582fcf5d6377e463a7be2fd", null ]
 ];

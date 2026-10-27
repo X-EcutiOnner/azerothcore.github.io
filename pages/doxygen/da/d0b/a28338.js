@@ -1,6 +1,6 @@
 var a28338 =
 [
-    [ "guard_shattrath_scryerAI", "d6/dfb/a28342.html", "d6/dfb/a28342" ],
-    [ "guard_shattrath_scryer", "da/d0b/a28338.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "da/d0b/a28338.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "boss_taerarAI", "d6/dfb/a28342.html", "d6/dfb/a28342" ],
+    [ "boss_taerar", "da/d0b/a28338.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "da/d0b/a28338.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

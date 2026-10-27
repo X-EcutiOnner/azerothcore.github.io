@@ -1,5 +1,4 @@
 var a08098 =
 [
-    [ "value_type", "db/d24/a08098.html#ab102122dc913801a43be2fc6e4d5b2b4", null ],
-    [ "TryConsume", "db/d24/a08098.html#a4916376e89113eea20071f4f584c6a75", null ]
+    [ "TryConsume", "db/d24/a08098.html#a37759b49a279395a5011dcfc41838a5e", null ]
 ];

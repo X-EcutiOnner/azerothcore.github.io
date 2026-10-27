@@ -1,7 +1,8 @@
 var a20594 =
 [
-    [ "FilterTargetsInitial", "d7/dbb/a20594.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "d7/dbb/a20594.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "d7/dbb/a20594.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "d7/dbb/a20594.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "npc_ulduar_flash_freeze", "d7/dbb/a20594.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
+    [ "DamageTaken", "d7/dbb/a20594.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "d7/dbb/a20594.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "_instance", "d7/dbb/a20594.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
+    [ "timer", "d7/dbb/a20594.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

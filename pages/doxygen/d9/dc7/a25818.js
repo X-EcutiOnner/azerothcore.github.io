@@ -1,7 +1,6 @@
 var a25818 =
 [
-    [ "HandleJump", "d9/dc7/a25818.html#ac70f6d53e85af1ee2591e761e21872db", null ],
-    [ "HandleScriptEffect", "d9/dc7/a25818.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
-    [ "PrepareSpellScript", "d9/dc7/a25818.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
-    [ "Register", "d9/dc7/a25818.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
+    [ "CalculateAmount", "d9/dc7/a25818.html#a83bf0327aade6f6a33293a442ad10911", null ],
+    [ "PrepareAuraScript", "d9/dc7/a25818.html#aa964f4eb7391dab54ff744fc94306de1", null ],
+    [ "Register", "d9/dc7/a25818.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
 ];

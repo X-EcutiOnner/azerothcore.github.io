@@ -1,6 +1,13 @@
 var a22238 =
 [
-    [ "PrepareSpellScript", "d8/dfc/a22238.html#a87014fc73af805b7ad052d1f4f45d7cd", null ],
-    [ "Register", "d8/dfc/a22238.html#a306252bb3bc9af689400981b198f66e8", null ],
-    [ "SetDest", "d8/dfc/a22238.html#a0bffbc57932a2efe33a9912d608eb79d", null ]
+    [ "npc_sorlof", "d8/dfc/a22238.html#afdac1cfc891e8cfda3506022e5f79204", null ],
+    [ "JustDied", "d8/dfc/a22238.html#a53440692c7e64f03e601dc9ab65bc3cb", null ],
+    [ "MovementInform", "d8/dfc/a22238.html#a0128234c450bcef8e3c9ebc6fee0c578", null ],
+    [ "MoveToNextNode", "d8/dfc/a22238.html#a6a80487d0c5e55d9216efb63dbdd598e", null ],
+    [ "Reset", "d8/dfc/a22238.html#a6b34547c0ae6b588a788e57353b933c8", null ],
+    [ "SetData", "d8/dfc/a22238.html#a388be22752dc524735459e62a97fe510", null ],
+    [ "UpdateAI", "d8/dfc/a22238.html#a1165631ba6c172930691766cfb73eda8", null ],
+    [ "_advancePath", "d8/dfc/a22238.html#aa731d85060b9280ef172a2e15614aaf9", null ],
+    [ "_pathId", "d8/dfc/a22238.html#ab3d9b633e7304d65fda49890b5c9672e", null ],
+    [ "_pathNode", "d8/dfc/a22238.html#a33fa8fa6c768335887daaab226b8cff2", null ]
 ];

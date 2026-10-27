@@ -1,5 +1,9 @@
 var a14850 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d5/d3a/a14850.html#a40207493c75d8a63284e08f1f75d56c4", null ],
-    [ "MoveInLineOfSight", "d5/d3a/a14850.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
+    [ "CheckCast", "d5/d3a/a14850.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "d5/d3a/a14850.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "d5/d3a/a14850.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "d5/d3a/a14850.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "d5/d3a/a14850.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "d5/d3a/a14850.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

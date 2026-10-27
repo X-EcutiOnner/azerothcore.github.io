@@ -1,7 +1,29 @@
 var a29774 =
 [
-    [ "EnsureScriptRegistriesInitialized", "df/da5/a29774.html#ae5a5b6e47735560ea83b9458fb7dd7f4", null ],
-    [ "SetUp", "df/da5/a29774.html#a6934840a3250922d4de42044dd35211c", null ],
-    [ "TearDown", "df/da5/a29774.html#a8d33dfa0c7dcd81ea426e107beb4b3fa", null ],
-    [ "previousWorld_", "df/da5/a29774.html#adff0b9d4abad7843811c543dfd10572e", null ]
+    [ "AuraEffectStub", "df/da5/a29774.html#ad2566d6b861d865b3b4c0192ff6208fe", null ],
+    [ "~AuraEffectStub", "df/da5/a29774.html#acb3d8ec6a1b19393850ea3a0e1fc171d", null ],
+    [ "GetAmount", "df/da5/a29774.html#a45f25bb929c6bbce7097080844fd46af", null ],
+    [ "GetAuraType", "df/da5/a29774.html#ae386fc8d6aa7ee54dc462956d3fe3b2a", null ],
+    [ "GetBaseAmount", "df/da5/a29774.html#a2f2d129302985893fdbcfaf46904bf00", null ],
+    [ "GetCritChance", "df/da5/a29774.html#ab592b4bfdf5a848b94683b5344caf35d", null ],
+    [ "GetEffIndex", "df/da5/a29774.html#ad656908e7808dd11adcde87535a81e89", null ],
+    [ "GetTickNumber", "df/da5/a29774.html#a3cc86707e1d9298417ad9e3198581952", null ],
+    [ "GetTotalTicks", "df/da5/a29774.html#a5c36edee27a3dffd6b71d2ad782e2468", null ],
+    [ "IsPeriodic", "df/da5/a29774.html#a52161b11aad65af9fb43b382050933c1", null ],
+    [ "SetAmount", "df/da5/a29774.html#a6caed843ba74cab33e74c4788f258c18", null ],
+    [ "SetAuraType", "df/da5/a29774.html#a380d93bad19fcd7f549eb6b62b0b8c33", null ],
+    [ "SetBaseAmount", "df/da5/a29774.html#a35bbe2f87d9c17e8a4b54ff737229693", null ],
+    [ "SetCritChance", "df/da5/a29774.html#a2f6c5f7c39537b6a3e72095bb336223a", null ],
+    [ "SetEffIndex", "df/da5/a29774.html#aee06a27d9047462bd3e2cb3ac5ae4b57", null ],
+    [ "SetPeriodic", "df/da5/a29774.html#a78f8813a21de9c97221e4b4a6f999308", null ],
+    [ "SetTickNumber", "df/da5/a29774.html#a14aa5814e488bf74b72eb061c72c4928", null ],
+    [ "SetTotalTicks", "df/da5/a29774.html#acb0d99b854e980374c64cb404c2e3dc7", null ],
+    [ "_amount", "df/da5/a29774.html#a36b14631796ffedb3b7d8122d80dec5d", null ],
+    [ "_auraType", "df/da5/a29774.html#a2837d83d68bc7c7c6d9431fe547cc538", null ],
+    [ "_baseAmount", "df/da5/a29774.html#aedb1f7c6f08de5e06ec2b9eed5797854", null ],
+    [ "_critChance", "df/da5/a29774.html#ae7f6f6a1d7e0690843fa4ddb079540e7", null ],
+    [ "_effIndex", "df/da5/a29774.html#a010603c0087e3bf51748e7958f434b6e", null ],
+    [ "_isPeriodic", "df/da5/a29774.html#aa13f1591f0b420deee4779f878262f3d", null ],
+    [ "_tickNumber", "df/da5/a29774.html#ab31045554d3ae1f9bb2d12df0a05a39d", null ],
+    [ "_totalTicks", "df/da5/a29774.html#ab34510e2a88d9f5fdaff890115faddf5", null ]
 ];

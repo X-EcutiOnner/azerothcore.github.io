@@ -1,14 +1,6 @@
 var a28426 =
 [
-    [ "npc_preciousAI", "db/d83/a28426.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "db/d83/a28426.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "GetData", "db/d83/a28426.html#a91c93f8d58501b705809653639ec05d1", null ],
-    [ "InitializeAI", "db/d83/a28426.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "db/d83/a28426.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "db/d83/a28426.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "db/d83/a28426.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "SetData", "db/d83/a28426.html#a2246203bca5b716852abd631320b790c", null ],
-    [ "UpdateAI", "db/d83/a28426.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "db/d83/a28426.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "db/d83/a28426.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "go_l70_etc_musicAI", "db/d83/a28426.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
+    [ "UpdateAI", "db/d83/a28426.html#a182a5a9bbe53ced25740de9a4a368469", null ],
+    [ "_events", "db/d83/a28426.html#aa0cda672b4491b3cfc75214038aa2132", null ]
 ];

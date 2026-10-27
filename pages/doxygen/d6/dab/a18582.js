@@ -1,8 +1,7 @@
 var a18582 =
 [
-    [ "FilterTargets", "d6/dab/a18582.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "d6/dab/a18582.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "d6/dab/a18582.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "d6/dab/a18582.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "d6/dab/a18582.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "IceTombSummonEvent", "d6/dab/a18582.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "d6/dab/a18582.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "d6/dab/a18582.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "d6/dab/a18582.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

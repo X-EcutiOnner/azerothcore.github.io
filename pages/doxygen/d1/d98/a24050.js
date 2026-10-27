@@ -1,6 +1,6 @@
 var a24050 =
 [
-    [ "npc_fel_guard_houndAI", "d3/d99/a24054.html", "d3/d99/a24054" ],
-    [ "npc_fel_guard_hound", "d1/d98/a24050.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "d1/d98/a24050.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "npc_capernian", "d1/d98/a24050.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "d1/d98/a24050.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "d1/d98/a24050.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

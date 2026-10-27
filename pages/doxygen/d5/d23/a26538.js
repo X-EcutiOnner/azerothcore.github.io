@@ -1,8 +1,7 @@
 var a26538 =
 [
-    [ "OnRemove", "d5/d23/a26538.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
-    [ "PrepareAuraScript", "d5/d23/a26538.html#ad06dbe9207315484cbb886fcc75bb958", null ],
-    [ "PrepareProc", "d5/d23/a26538.html#a2f4b562be28420d25d09b81ad72af17f", null ],
-    [ "Register", "d5/d23/a26538.html#a04d9c48f8842392a4d318677537ac248", null ],
-    [ "Validate", "d5/d23/a26538.html#ab15a75ec708d8c683166bd73fab29701", null ]
+    [ "HandlePeriodicDummy", "d5/d23/a26538.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
+    [ "PrepareAuraScript", "d5/d23/a26538.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
+    [ "Register", "d5/d23/a26538.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
+    [ "Validate", "d5/d23/a26538.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
 ];

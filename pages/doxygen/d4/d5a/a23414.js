@@ -1,8 +1,6 @@
 var a23414 =
 [
-    [ "boss_hungarfen", "d4/d5a/a23414.html#a009b8d34731d2310a53195024b434935", null ],
-    [ "JustEngagedWith", "d4/d5a/a23414.html#a3612bb373ecdba4245587fd94257ba62", null ],
-    [ "Reset", "d4/d5a/a23414.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
-    [ "UpdateAI", "d4/d5a/a23414.html#a1765bd54c04a3479e837b3d0e241300e", null ],
-    [ "_scheduler", "d4/d5a/a23414.html#a702185681abb6cfc4add7078ff5bbb52", null ]
+    [ "HandleScriptEffect", "d4/d5a/a23414.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
+    [ "PrepareSpellScript", "d4/d5a/a23414.html#ae80b4ca96692035c399d1621b632fe66", null ],
+    [ "Register", "d4/d5a/a23414.html#ac655157c74104a51f045e114fc63a42d", null ]
 ];

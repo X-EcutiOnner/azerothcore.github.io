@@ -1,8 +1,7 @@
 var a21466 =
 [
-    [ "boss_moragg", "d1/d18/a21466.html#a42d2508369286e5e635d47cce0b939f4", null ],
-    [ "EnterEvadeMode", "d1/d18/a21466.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
-    [ "ExecuteEvent", "d1/d18/a21466.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
-    [ "JustEngagedWith", "d1/d18/a21466.html#a29da7214373c1919b65f3512655c8bc3", null ],
-    [ "MoveInLineOfSight", "d1/d18/a21466.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
+    [ "FilterTargets", "d1/d18/a21466.html#aacfc70299b20cfef5b2feac954779f1c", null ],
+    [ "HandleDamageCalc", "d1/d18/a21466.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
+    [ "PrepareSpellScript", "d1/d18/a21466.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
+    [ "Register", "d1/d18/a21466.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
 ];

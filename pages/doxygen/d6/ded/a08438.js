@@ -1,5 +1,7 @@
 var a08438 =
 [
-    [ "BoxText", "d6/ded/a08438.html#a00882f98df67222d396ae9992084a1cd", null ],
-    [ "OptionText", "d6/ded/a08438.html#ab69f2dac8061cf8f6762a683243934fa", null ]
+    [ "LfgProposalPlayer", "d6/ded/a08438.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
+    [ "accept", "d6/ded/a08438.html#acbf0ce1e12307569487096dc5ca544a6", null ],
+    [ "group", "d6/ded/a08438.html#a900f24e9caaa1569eeea93b4284139a1", null ],
+    [ "role", "d6/ded/a08438.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
 ];

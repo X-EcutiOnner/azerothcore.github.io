@@ -1,6 +1,11 @@
 var a27018 =
 [
-    [ "HandleScriptEffect", "d7/d37/a27018.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
-    [ "PrepareSpellScript", "d7/d37/a27018.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
-    [ "Register", "d7/d37/a27018.html#a12c61c9057250f12ea50be74ba74c948", null ]
+    [ "CheckProc", "d7/d37/a27018.html#aeeb075a2dcaf57b328e4196959c40390", null ],
+    [ "HandleApplyDoT", "d7/d37/a27018.html#a4f832f97ae2f777c659876e20b7515a5", null ],
+    [ "HandleSeal", "d7/d37/a27018.html#aca82977aa1ee943bc557a76d09dba147", null ],
+    [ "Load", "d7/d37/a27018.html#a16545533c0a45b6bde0da3fbeaed75ae", null ],
+    [ "PrepareAuraScript", "d7/d37/a27018.html#a9d33b5c75d975f6e7f0accdf7eb10155", null ],
+    [ "Register", "d7/d37/a27018.html#a3030a2b5bb530abe673ab2cfae8351ce", null ],
+    [ "Validate", "d7/d37/a27018.html#ade8e79f41a0ec1904f33b2628eac966e", null ],
+    [ "_isVengeance", "d7/d37/a27018.html#a194bdf6e15ecf61533d40c0990e392a4", null ]
 ];

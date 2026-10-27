@@ -1,7 +1,7 @@
 var a18358 =
 [
-    [ "HandleSummon", "d4/d91/a18358.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d4/d91/a18358.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d4/d91/a18358.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d4/d91/a18358.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "HandleScriptEffect", "d4/d91/a18358.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "d4/d91/a18358.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "d4/d91/a18358.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "d4/d91/a18358.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

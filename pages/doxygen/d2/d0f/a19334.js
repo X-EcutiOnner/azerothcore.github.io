@@ -1,6 +1,7 @@
 var a19334 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d9/d9f/a19338.html", "d9/d9f/a19338" ],
-    [ "npc_icc_gauntlet_controller", "d2/d0f/a19334.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "d2/d0f/a19334.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "HandleScript", "d2/d0f/a19334.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "d2/d0f/a19334.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "d2/d0f/a19334.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "d2/d0f/a19334.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

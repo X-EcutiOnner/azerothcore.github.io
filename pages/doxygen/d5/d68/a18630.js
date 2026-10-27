@@ -1,6 +1,6 @@
 var a18630 =
 [
-    [ "LichKingMovieEvent", "d5/d68/a18630.html#a3e48e13dc5166c73a9f379045988f86a", null ],
-    [ "Execute", "d5/d68/a18630.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
-    [ "_owner", "d5/d68/a18630.html#a7ed68f442a644d6bb7a036812351d89e", null ]
+    [ "HandleSpecial", "d5/d68/a18630.html#afa540e8c748ca3083667528e2449bc65", null ],
+    [ "PrepareSpellScript", "d5/d68/a18630.html#a9472211ffdaa33802099b22b2a721645", null ],
+    [ "Register", "d5/d68/a18630.html#ab868b10372ff2ef401d19b126acf00c6", null ]
 ];

@@ -1,6 +1,7 @@
 var a25114 =
 [
-    [ "HandleOnEffectHit", "d8/dd2/a25114.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "d8/dd2/a25114.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "d8/dd2/a25114.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "HandleProc", "d8/dd2/a25114.html#affff04bf12559312333c70672dc8407f", null ],
+    [ "PrepareAuraScript", "d8/dd2/a25114.html#aa604bb8cc1fd9d94ee494c7bc96c5a5b", null ],
+    [ "Register", "d8/dd2/a25114.html#ae2ee810101bd32c061c3e06dea99d7cb", null ],
+    [ "Validate", "d8/dd2/a25114.html#afc60c67af40f55b7a0017e5143bb52f7", null ]
 ];

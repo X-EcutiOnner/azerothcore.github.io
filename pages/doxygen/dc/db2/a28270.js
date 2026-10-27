@@ -1,5 +1,5 @@
 var a28270 =
 [
-    [ "go_tele_to_violet_stand", "dc/db2/a28270.html#a63350db1dfd400c565e30775378d48cc", null ],
-    [ "OnGossipHello", "dc/db2/a28270.html#a4d075584f065501a2c3be9ef82387f43", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "dc/db2/a28270.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "dc/db2/a28270.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

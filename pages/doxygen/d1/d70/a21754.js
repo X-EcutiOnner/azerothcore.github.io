@@ -1,6 +1,7 @@
 var a21754 =
 [
-    [ "npc_future_youAI", "dd/dcd/a21758.html", "dd/dcd/a21758" ],
-    [ "npc_future_you", "d1/d70/a21754.html#a36e363156bcb32fee468989062817bd5", null ],
-    [ "GetAI", "d1/d70/a21754.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
+    [ "npc_lurgglbrAI", "dd/dcd/a21758.html", "dd/dcd/a21758" ],
+    [ "npc_lurgglbr", "d1/d70/a21754.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "d1/d70/a21754.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "d1/d70/a21754.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

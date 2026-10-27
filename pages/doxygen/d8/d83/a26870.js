@@ -1,6 +1,8 @@
 var a26870 =
 [
-    [ "HandleAfterHit", "d8/d83/a26870.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "d8/d83/a26870.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "d8/d83/a26870.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "HandleApply", "d8/d83/a26870.html#aafdf3712f163919f010d11d0becb398f", null ],
+    [ "HandleRemove", "d8/d83/a26870.html#ac3e33cb37d13b633f3938a48917a4975", null ],
+    [ "PrepareAuraScript", "d8/d83/a26870.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
+    [ "Register", "d8/d83/a26870.html#a84e7337494dc2e1772ca10dea26c675f", null ],
+    [ "Validate", "d8/d83/a26870.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
 ];

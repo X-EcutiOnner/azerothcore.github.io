@@ -1,6 +1,6 @@
 var a17206 =
 [
-    [ "OnPeriodic", "d6/da0/a17206.html#ab71faf6fb2900e176aac245317113758", null ],
-    [ "PrepareAuraScript", "d6/da0/a17206.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
-    [ "Register", "d6/da0/a17206.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
+    [ "boss_icehowlAI", "d5/d92/a17210.html", "d5/d92/a17210" ],
+    [ "boss_icehowl", "d6/da0/a17206.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
+    [ "GetAI", "d6/da0/a17206.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
 ];

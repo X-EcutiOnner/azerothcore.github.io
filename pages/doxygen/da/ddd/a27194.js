@@ -1,6 +1,6 @@
 var a27194 =
 [
-    [ "HandleEffectPeriodic", "da/ddd/a27194.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "da/ddd/a27194.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "da/ddd/a27194.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "HandleDummyEffect", "da/ddd/a27194.html#a6340c91d8419755386cb3e138cb3c171", null ],
+    [ "PrepareSpellScript", "da/ddd/a27194.html#a67d08252c8b8deee312f17affb557df8", null ],
+    [ "Register", "da/ddd/a27194.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
 ];

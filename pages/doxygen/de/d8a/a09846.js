@@ -1,8 +1,8 @@
 var a09846 =
 [
-    [ "AllGameObjectsWithEntryInRange", "de/d8a/a09846.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56", null ],
-    [ "operator()", "de/d8a/a09846.html#a342aa18d98413620fce4c676fcf75305", null ],
-    [ "m_fRange", "de/d8a/a09846.html#a7cce16670c95c19f3eb68e5914160513", null ],
-    [ "m_pObject", "de/d8a/a09846.html#a5c898c20992999f11204aab6479d71f6", null ],
-    [ "m_uiEntry", "de/d8a/a09846.html#a64ff0c14c71e218b8f9a8888b1017fec", null ]
+    [ "FriendlyMissingBuffInRange", "de/d8a/a09846.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
+    [ "operator()", "de/d8a/a09846.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
+    [ "i_obj", "de/d8a/a09846.html#aba43edf48b2b0184b52143707c3531f4", null ],
+    [ "i_range", "de/d8a/a09846.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
+    [ "i_spell", "de/d8a/a09846.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
 ];

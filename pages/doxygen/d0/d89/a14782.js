@@ -1,7 +1,6 @@
 var a14782 =
 [
-    [ "HandleScriptEffect", "d0/d89/a14782.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
-    [ "PrepareSpellScript", "d0/d89/a14782.html#a3d906994c11e52e89c842189be73ddfd", null ],
-    [ "Register", "d0/d89/a14782.html#a4cdab36e2265c696207a39e16549ab13", null ],
-    [ "Validate", "d0/d89/a14782.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
+    [ "instance_zulgurub_InstanceMapScript", "d7/d86/a14786.html", "d7/d86/a14786" ],
+    [ "instance_zulgurub", "d0/d89/a14782.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
+    [ "GetInstanceScript", "d0/d89/a14782.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
 ];

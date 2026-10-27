@@ -1,6 +1,20 @@
 var a09350 =
 [
-    [ "Conditions", "d4/ddb/a09350.html#a93edc2f0d71164b683c844b713befa85", null ],
-    [ "MenuID", "d4/ddb/a09350.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
-    [ "TextID", "d4/ddb/a09350.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
+    [ "CalculateAutumnEquinox", "d4/ddb/a09350.html#a266780f29cf8969f74aa1e7ba56c71f6", null ],
+    [ "CalculateEasterSunday", "d4/ddb/a09350.html#a7877b9590552f951cebda62021634445", null ],
+    [ "CalculateHolidayDate", "d4/ddb/a09350.html#a210710c9e3c17b35c4c90a118d6fa8b5", null ],
+    [ "CalculateLunarNewYear", "d4/ddb/a09350.html#a341be2e060a41c0be7a70fdabe608c6b", null ],
+    [ "CalculateNewMoon", "d4/ddb/a09350.html#a6db890c706217c35c8579a0d14e240c4", null ],
+    [ "CalculateNthWeekday", "d4/ddb/a09350.html#a4e98186819af811251e80e69ae96c13b", null ],
+    [ "CalculateWeekdayOnOrAfter", "d4/ddb/a09350.html#af29aa127743e914f29ed413a13fca808", null ],
+    [ "CalculateWinterSolstice", "d4/ddb/a09350.html#aeeb30fa2ae99b92963b2c7309d0314e7", null ],
+    [ "DateToJulianDay", "d4/ddb/a09350.html#a8895f79fb06caa15c3bd4b7341dc769d", null ],
+    [ "FindLoopingStartTime", "d4/ddb/a09350.html#a9ef0af4dccb02a045dd0c9a15330c9f0", null ],
+    [ "FindStartTimeForStage", "d4/ddb/a09350.html#adb0b9bcaeaa1aab1a11f59e57a08653b", null ],
+    [ "GetDarkmoonFaireDates", "d4/ddb/a09350.html#a6e27a5ec3e65f21f17a9f2a61cc23022", null ],
+    [ "GetHolidayRules", "d4/ddb/a09350.html#ae3925d27fb35d153c03600b6a1802b54", null ],
+    [ "GetPackedHolidayDate", "d4/ddb/a09350.html#a787a8a7a5316fee2f488ba60e62ac6ea", null ],
+    [ "JulianDayToDate", "d4/ddb/a09350.html#a133ee41b0b50d9eed90cd185aeec24c1", null ],
+    [ "PackDate", "d4/ddb/a09350.html#a14e9aaaad7d51ffe047f66ad32739807", null ],
+    [ "UnpackDate", "d4/ddb/a09350.html#a9a1229709b2406953d4627e753a543b3", null ]
 ];

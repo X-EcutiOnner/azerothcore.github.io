@@ -1,9 +1,8 @@
 var a09774 =
 [
-    [ "AnyFriendlyNotSelfUnitInObjectRangeCheck", "d2/d64/a09774.html#a213e07e67eefd1454be655e154380202", null ],
-    [ "operator()", "d2/d64/a09774.html#a8b3547500300e3b9d8de88c0b12b268e", null ],
-    [ "i_funit", "d2/d64/a09774.html#a43b531ac740cb263d347ece24ff675fc", null ],
-    [ "i_obj", "d2/d64/a09774.html#a5fe4b376f00d33554a9a263abc743e68", null ],
-    [ "i_playerOnly", "d2/d64/a09774.html#a16cd07545542916e0f49250c77fad304", null ],
-    [ "i_range", "d2/d64/a09774.html#ac087254cf99c5f845918998f369c176a", null ]
+    [ "CreatureWorker", "d2/d64/a09774.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
+    [ "Visit", "d2/d64/a09774.html#ae67044250380c521055f80c55de0bba5", null ],
+    [ "Visit", "d2/d64/a09774.html#aa9a450b147aafe46a49135f5c5be668e", null ],
+    [ "i_do", "d2/d64/a09774.html#ac22f86d9a41701e7527d4840da256f11", null ],
+    [ "i_phaseMask", "d2/d64/a09774.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
 ];

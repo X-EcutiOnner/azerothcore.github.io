@@ -1,6 +1,6 @@
 var a27414 =
 [
-    [ "CheckCast", "dc/d82/a27414.html#aecbecbd753b8ed32d51971a090063ef4", null ],
-    [ "PrepareSpellScript", "dc/d82/a27414.html#a0efb319154edb2c798460de72d6a56ed", null ],
-    [ "Register", "dc/d82/a27414.html#acd6ecb0204dd369c410e465551328f56", null ]
+    [ "CheckRequirement", "dc/d82/a27414.html#a4ad49f2f781d1c6b27dd04f46203c6d4", null ],
+    [ "PrepareSpellScript", "dc/d82/a27414.html#a4263eebcb64f00152a4b64dafef20510", null ],
+    [ "Register", "dc/d82/a27414.html#a8b825a97f50abb0231036a3ff651531d", null ]
 ];

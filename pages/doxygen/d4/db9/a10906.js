@@ -1,5 +1,6 @@
 var a10906 =
 [
-    [ "UpdatableScript", "d4/db9/a10906.html#a2d6cf85d1eb98438b5022804296eff11", null ],
-    [ "OnUpdate", "d4/db9/a10906.html#abf328325e08aa0d6adf36e6f70b02328", null ]
+    [ "LootScript", "d4/db9/a10906.html#acb6898fdb67e5bdcf0de945da5ec667d", null ],
+    [ "IsDatabaseBound", "d4/db9/a10906.html#ad60b605eac89be48efd339127e9cb9cd", null ],
+    [ "OnLootMoney", "d4/db9/a10906.html#a56a57baead49f6815a9979b181a55375", null ]
 ];

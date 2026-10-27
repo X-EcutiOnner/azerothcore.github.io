@@ -1,7 +1,6 @@
 var a13018 =
 [
-    [ "HandleAfterApply", "d1/d5c/a13018.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "d1/d5c/a13018.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "d1/d5c/a13018.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "d1/d5c/a13018.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "FilterTargets", "d1/d5c/a13018.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "d1/d5c/a13018.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "d1/d5c/a13018.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

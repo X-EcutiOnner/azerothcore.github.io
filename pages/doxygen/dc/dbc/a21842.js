@@ -1,6 +1,8 @@
 var a21842 =
 [
-    [ "GhoulTargetCheck", "dc/dbc/a21842.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "dc/dbc/a21842.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "dc/dbc/a21842.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_dusk", "dc/dbc/a21842.html#ab142eb266e64af625a8a38d3234ded72", null ],
+    [ "MovementInform", "dc/dbc/a21842.html#a49cade56e631668c946edb6753172c87", null ],
+    [ "PassengerBoarded", "dc/dbc/a21842.html#aaff19f52995db17f4dab953e2e928c68", null ],
+    [ "WaypointReached", "dc/dbc/a21842.html#ac8f70426313aa6834285905e94f1d0d9", null ],
+    [ "_ejected", "dc/dbc/a21842.html#a4f749f98c178a32b211bbd38b9447607", null ]
 ];

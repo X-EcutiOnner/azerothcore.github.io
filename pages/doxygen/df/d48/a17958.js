@@ -1,9 +1,6 @@
 var a17958 =
 [
-    [ "BattleExperienceEvent", "df/d48/a17958.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "df/d48/a17958.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "df/d48/a17958.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "df/d48/a17958.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "df/d48/a17958.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "df/d48/a17958.html#af682cc246c7fdae39cc2a1e57110badc", null ]
+    [ "HandleScript", "df/d48/a17958.html#acd11d50f398857dc2a24bd2d63e52222", null ],
+    [ "PrepareSpellScript", "df/d48/a17958.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
+    [ "Register", "df/d48/a17958.html#ad7f12515dc21ab6b19148370fd491629", null ]
 ];

@@ -1,11 +1,15 @@
 var a05546 =
 [
-    [ "Record", "d1/d22/a05546.html#a3303a6b7ba364777e368158052dbe1db", null ],
-    [ "getFloat", "d1/d22/a05546.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
-    [ "getString", "d1/d22/a05546.html#af7b7a8dd685bac5a93e3299d85aab784", null ],
-    [ "getUInt", "d1/d22/a05546.html#a6f22775adc36b8955009f3f0bd51f355", null ],
-    [ "getUInt8", "d1/d22/a05546.html#af6a95de37b34f0204f57323d9a39d110", null ],
-    [ "DBCFileLoader", "d1/d22/a05546.html#aa9814b507b472e781e08c803e025cc72", null ],
-    [ "file", "d1/d22/a05546.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
-    [ "offset", "d1/d22/a05546.html#a06e2c90771be91d9ca948840a07125e8", null ]
+    [ "IV", "d1/d22/a05546.html#a3ab3c73ca75661d53842f924f9914656", null ],
+    [ "Key", "d1/d22/a05546.html#ad479930aa60f991335d4cf68251958bb", null ],
+    [ "Tag", "d1/d22/a05546.html#ad6abd9fd7a9b7bafc4c300ebca415a1e", null ],
+    [ "AES", "d1/d22/a05546.html#a75c197cecf7cd7230a1a9f64e8ec9f00", null ],
+    [ "~AES", "d1/d22/a05546.html#abcdb72bef5a57586630650372c339410", null ],
+    [ "Init", "d1/d22/a05546.html#a910f4dcbbd2868264d4b11f3041c833d", null ],
+    [ "Process", "d1/d22/a05546.html#a9933ca01e34684d466bc364dda11a30a", null ],
+    [ "_ctx", "d1/d22/a05546.html#ae461a0a028ca8d02af56496252e6322d", null ],
+    [ "_encrypting", "d1/d22/a05546.html#ac5e1bc89ac1c21f97994db7c76ae4e4e", null ],
+    [ "IV_SIZE_BYTES", "d1/d22/a05546.html#a5c62e48e8791379cdcdb5d20c018f0ea", null ],
+    [ "KEY_SIZE_BYTES", "d1/d22/a05546.html#a03df6b128e9d2553c44e71680ca79cb5", null ],
+    [ "TAG_SIZE_BYTES", "d1/d22/a05546.html#a0a7619278214bbe6b2bd5ad003828ef0", null ]
 ];

@@ -1,5 +1,5 @@
 var a28818 =
 [
-    [ "ID", "d1/d3a/a28818.html#a65acb5af9a688346cbb7dc144710c768", null ],
-    [ "inventoryIcon", "d1/d3a/a28818.html#a26b43ee179bd546c6e956dd797fc0842", null ]
+    [ "npc_stable_masterAI", "d1/d3a/a28818.html#a5c6f9bca1004af163ddb074b606330be", null ],
+    [ "sGossipSelect", "d1/d3a/a28818.html#a09205661674dd011ffe425deaadde053", null ]
 ];

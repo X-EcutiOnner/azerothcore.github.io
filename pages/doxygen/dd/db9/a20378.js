@@ -1,7 +1,16 @@
 var a20378 =
 [
-    [ "boss_freya_healthy_spore", "dd/db9/a20378.html#abc2492b9cf96cb00940b18fac549fb00", null ],
-    [ "Reset", "dd/db9/a20378.html#abe3f794707aa722e73b1728700876083", null ],
-    [ "UpdateAI", "dd/db9/a20378.html#ac8c952848687cd883aaefe466b799e3b", null ],
-    [ "_despawnTimer", "dd/db9/a20378.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
+    [ "npc_mimirons_inferno", "dd/db9/a20378.html#aedcded9302c0cb9e29475f471bd0612e", null ],
+    [ "AttackStart", "dd/db9/a20378.html#a43a03388c06ef38ab29a1b4d5bc701c6", null ],
+    [ "DoAction", "dd/db9/a20378.html#ade97188bb54f7b5a15a8a596355e4170", null ],
+    [ "JustSummoned", "dd/db9/a20378.html#a77ddb0fbd9f0c2334df122d91913300b", null ],
+    [ "MoveInLineOfSight", "dd/db9/a20378.html#acc2e756af50ebde8300c46ec6f369760", null ],
+    [ "Reset", "dd/db9/a20378.html#afbd0bcdbb24bf1dbdaacecf4b602922b", null ],
+    [ "SummonedCreatureDespawn", "dd/db9/a20378.html#a9b5176d6f1712d36283b0ebeeddee5b2", null ],
+    [ "UpdateAI", "dd/db9/a20378.html#afd800c3a1430fe19edf6fe21763b15d8", null ],
+    [ "WaypointReached", "dd/db9/a20378.html#a13cda9fcb49493477e4a4111d9858ec1", null ],
+    [ "WaypointReached", "dd/db9/a20378.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_recastTimer", "dd/db9/a20378.html#ac74ee90383d6ac140d6187c6115716ed", null ],
+    [ "_spellTimer", "dd/db9/a20378.html#a0683c956325801b63e7e31b8485f35bd", null ],
+    [ "summons", "dd/db9/a20378.html#a7a0be8291200404285277c3689c54106", null ]
 ];

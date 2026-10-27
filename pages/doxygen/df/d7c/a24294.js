@@ -1,6 +1,7 @@
 var a24294 =
 [
-    [ "HandleSendEvent", "df/d7c/a24294.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "df/d7c/a24294.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "df/d7c/a24294.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "df/d7c/a24294.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "df/d7c/a24294.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "df/d7c/a24294.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "df/d7c/a24294.html#a29132346f117ba785039057619edb9e7", null ]
 ];

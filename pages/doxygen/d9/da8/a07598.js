@@ -1,8 +1,6 @@
 var a07598 =
 [
-    [ "entry", "d9/da8/a07598.html#ab47ef3b15c887f46fb1bf9c88f5cc5d8", null ],
-    [ "o", "d9/da8/a07598.html#af2bf42b7d1a18e7ee1125a305ee7bc79", null ],
-    [ "x", "d9/da8/a07598.html#a4fb658cf54f9534e0686a8fa5b2328c7", null ],
-    [ "y", "d9/da8/a07598.html#aa761c9076be145dab6d2cac773bb6e7a", null ],
-    [ "z", "d9/da8/a07598.html#ac9ff501bbf00d80f5b9350a78ffbb6fb", null ]
+    [ "AuctionSearchBidderListRequest", "d9/da8/a07598.html#a193c39468959c998a2ccae74342983d2", null ],
+    [ "outbiddedAuctionIds", "d9/da8/a07598.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
+    [ "ownerGuid", "d9/da8/a07598.html#a6fb69f4996993f264466c50e7485c4a6", null ]
 ];

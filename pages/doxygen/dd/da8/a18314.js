@@ -1,6 +1,6 @@
 var a18314 =
 [
-    [ "FilterTargets", "dd/da8/a18314.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "dd/da8/a18314.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "dd/da8/a18314.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "npc_darnavanAI", "d3/d82/a18318.html", "d3/d82/a18318" ],
+    [ "npc_darnavan", "dd/da8/a18314.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "dd/da8/a18314.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

@@ -1,9 +1,5 @@
 var a20830 =
 [
-    [ "boss_thorim_gauntlet_npcs", "df/d65/a20830.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
-    [ "JustEngagedWith", "df/d65/a20830.html#af10a444bada5743c837a9979726c79c9", null ],
-    [ "Reset", "df/d65/a20830.html#a22fcffcc05f155524cadade389ec3607", null ],
-    [ "UpdateAI", "df/d65/a20830.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
-    [ "_isCaster", "df/d65/a20830.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
-    [ "events", "df/d65/a20830.html#aec35e2b91841c386f083681673e15598", null ]
+    [ "go_ulduar_do_not_push_this_button", "df/d65/a20830.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "df/d65/a20830.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

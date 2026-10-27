@@ -1,7 +1,6 @@
 var a26918 =
 [
-    [ "HandleProc", "dd/d2f/a26918.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
-    [ "PrepareAuraScript", "dd/d2f/a26918.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
-    [ "Register", "dd/d2f/a26918.html#a44a82b94d509eeb04f3520ded1d62891", null ],
-    [ "Validate", "dd/d2f/a26918.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
+    [ "CalculateAmount", "dd/d2f/a26918.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "dd/d2f/a26918.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "dd/d2f/a26918.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

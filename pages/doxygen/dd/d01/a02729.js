@@ -1,8 +1,8 @@
 var a02729 =
 [
-    [ "CustomSpellValues", "d9/da0/a12001.html", "d9/da0/a12001" ],
-    [ "CastSpellTargetArg", "d1/d07/a12005.html", "d1/d07/a12005" ],
-    [ "CastSpellExtraArgs", "da/d65/a12009.html", "da/d65/a12009" ],
+    [ "CustomSpellValues", "d7/d87/a12018.html", "d7/d87/a12018" ],
+    [ "CastSpellTargetArg", "d9/df9/a12022.html", "d9/df9/a12022" ],
+    [ "CastSpellExtraArgs", "d8/d02/a12026.html", "d8/d02/a12026" ],
     [ "MAX_SPELLMOD", "dd/d01/a02729.html#ae3264dd4fffa9d9f378061c12b25b991", null ],
     [ "CustomSpellValueMod", "dd/d01/a02729.html#a9712a6b6a8f9f5f194085aed5e4ef7b4", null ],
     [ "SpellAuraInterruptFlags", "dd/d01/a02729.html#a0709fc3ab848cf1b8b4853813b8fe011", [
@@ -121,6 +121,7 @@ var a02729 =
       [ "TRIGGERED_IGNORE_EQUIPPED_ITEM_REQUIREMENT", "dd/d01/a02729.html#a9f3c49d8db7e142b86eba36bc8951967a047db1b783fd12cf86cbc55687456ed7", null ],
       [ "TRIGGERED_NO_PERIODIC_RESET", "dd/d01/a02729.html#a9f3c49d8db7e142b86eba36bc8951967a1e22e2a008987f157bb07b148ad32b80", null ],
       [ "TRIGGERED_IGNORE_EFFECTS", "dd/d01/a02729.html#a9f3c49d8db7e142b86eba36bc8951967a9b41f97133cb0567e7172389d180802a", null ],
+      [ "TRIGGERED_DONT_ENTER_COMBAT", "dd/d01/a02729.html#a9f3c49d8db7e142b86eba36bc8951967aa73760f10887e269452a3b2b83b4942f", null ],
       [ "TRIGGERED_FULL_DEBUG_MASK", "dd/d01/a02729.html#a9f3c49d8db7e142b86eba36bc8951967ae56afe6cdde091634a44db41be4e621f", null ]
     ] ]
 ];

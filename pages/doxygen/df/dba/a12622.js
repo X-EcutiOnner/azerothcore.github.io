@@ -1,9 +1,24 @@
 var a12622 =
 [
-    [ "titles_commandscript", "df/dba/a12622.html#ac088fd907013150a0508b79c99f6c2f3", null ],
-    [ "GetCommands", "df/dba/a12622.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
-    [ "HandleTitlesAddCommand", "df/dba/a12622.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
-    [ "HandleTitlesCurrentCommand", "df/dba/a12622.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
-    [ "HandleTitlesRemoveCommand", "df/dba/a12622.html#a2001bcc2eddc5688d57154f9906218e4", null ],
-    [ "HandleTitlesSetMaskCommand", "df/dba/a12622.html#a9517b10295b856779cdd067234f640c8", null ]
+    [ "lookup_commandscript", "df/dba/a12622.html#a65966db188b91bc86786f533ce37ab14", null ],
+    [ "GetCommands", "df/dba/a12622.html#afb1833fb396c6f811fa24020f22460d4", null ],
+    [ "HandleLookupAreaCommand", "df/dba/a12622.html#a4f82d9f2edd8aab83053299727634fa5", null ],
+    [ "HandleLookupCreatureCommand", "df/dba/a12622.html#af5534b376e0dfb77077dc1a4aec8e9a7", null ],
+    [ "HandleLookupEventCommand", "df/dba/a12622.html#a1fcd4b9fb2e1e56787f0ad810f41465a", null ],
+    [ "HandleLookupFactionCommand", "df/dba/a12622.html#a54a6a38cc3e010347668096eee08e448", null ],
+    [ "HandleLookupItemCommand", "df/dba/a12622.html#a370eaeaabaa7be0531ff84d097d5e534", null ],
+    [ "HandleLookupItemSetCommand", "df/dba/a12622.html#a4430b605e8d38839dc6e15fd6a8a521f", null ],
+    [ "HandleLookupMapCommand", "df/dba/a12622.html#a2b9a857270a65f49f328c5f689f4d360", null ],
+    [ "HandleLookupObjectCommand", "df/dba/a12622.html#a44ef66577a45b5a218335ffab45573f0", null ],
+    [ "HandleLookupPlayerAccountCommand", "df/dba/a12622.html#afa4675def99dd1e40e5421d70f77e2be", null ],
+    [ "HandleLookupPlayerEmailCommand", "df/dba/a12622.html#a3a31d2a73f9cbaa7d539692bf2b3c4a2", null ],
+    [ "HandleLookupPlayerIpCommand", "df/dba/a12622.html#a1d29ab8746669b45885fea32815d09a4", null ],
+    [ "HandleLookupQuestCommand", "df/dba/a12622.html#a82013b5704bed78e7aac258b33269cae", null ],
+    [ "HandleLookupSkillCommand", "df/dba/a12622.html#a9a70f09730372bc215546cf0e7a07c4a", null ],
+    [ "HandleLookupSpellCommand", "df/dba/a12622.html#ae5d3d29fc6c1b0c1bec154afe869074e", null ],
+    [ "HandleLookupSpellIdCommand", "df/dba/a12622.html#aaedbcd15d635cb78796ce291e0a02bdf", null ],
+    [ "HandleLookupTaxiNodeCommand", "df/dba/a12622.html#a18786c0065ea14eacaa7f8e8082b2be4", null ],
+    [ "HandleLookupTeleCommand", "df/dba/a12622.html#a50b67d4eeccc81803621823b5638ef11", null ],
+    [ "HandleLookupTitleCommand", "df/dba/a12622.html#aa30508ee184862074c5fe62c0c7ffe32", null ],
+    [ "LookupPlayerSearchCommand", "df/dba/a12622.html#a7fbf0f45ff02320a98a8459610528949", null ]
 ];

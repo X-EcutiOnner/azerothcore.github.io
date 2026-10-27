@@ -1,4 +1,6 @@
 var a28790 =
 [
-    [ "ratio", "d6/d7d/a28790.html#abe0a3d6e014b8ceafb6a991397812ae1", null ]
+    [ "npc_locksmith", "d6/d7d/a28790.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "d6/d7d/a28790.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "d6/d7d/a28790.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

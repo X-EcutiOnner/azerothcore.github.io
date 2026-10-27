@@ -1,6 +1,9 @@
 var a19394 =
 [
-    [ "npc_isle_of_conquest_turretAI", "db/d7f/a19398.html", "db/d7f/a19398" ],
-    [ "npc_isle_of_conquest_turret", "d8/d59/a19394.html#ac080845203adef25e6841133b7e2f4dc", null ],
-    [ "GetAI", "d8/d59/a19394.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "d8/d59/a19394.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "d8/d59/a19394.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "d8/d59/a19394.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "d8/d59/a19394.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "d8/d59/a19394.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "d8/d59/a19394.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

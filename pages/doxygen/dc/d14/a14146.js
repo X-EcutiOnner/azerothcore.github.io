@@ -1,11 +1,12 @@
 var a14146 =
 [
-    [ "npc_scarlet_ghoul", "dc/d14/a14146.html#aa256e50446b0511a0412442245be2e82", null ],
-    [ "InitializeAI", "dc/d14/a14146.html#a5e98c4a1e9a31124dc6ca67c612db1c9", null ],
-    [ "MovementInform", "dc/d14/a14146.html#a06f14ccde727b7c875f3be8243dec2a8", null ],
-    [ "OwnerAttackedBy", "dc/d14/a14146.html#aacf81b86947124cea21fc6d2e906487f", null ],
-    [ "SetGUID", "dc/d14/a14146.html#ab3840f1d6b1e63b4707d5139b63281cc", null ],
-    [ "UpdateAI", "dc/d14/a14146.html#af8637b2a7644b917aa6ef10b31a1d1e0", null ],
-    [ "events", "dc/d14/a14146.html#ad2b3d650e151a13159e119cb3fda88a4", null ],
-    [ "gothikGUID", "dc/d14/a14146.html#a9275cf7efde4c77ce114448777f25f1e", null ]
+    [ "npc_sentinel_infiltrator", "dc/d14/a14146.html#a40ce6808a4d0622eb88a669485335020", null ],
+    [ "Initialize", "dc/d14/a14146.html#acc94269a3ede4c897f457a270e9a9c12", null ],
+    [ "JustEngagedWith", "dc/d14/a14146.html#a2c9927468b92d00b60efac851eacfef1", null ],
+    [ "MovementInform", "dc/d14/a14146.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
+    [ "Reset", "dc/d14/a14146.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
+    [ "UpdateAI", "dc/d14/a14146.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
+    [ "_events", "dc/d14/a14146.html#a296d6c70b6c439319cc69a9d39005e62", null ],
+    [ "_fleedForAssistance", "dc/d14/a14146.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
+    [ "_path", "dc/d14/a14146.html#a32d531478df327ccb0bb85e262420813", null ]
 ];

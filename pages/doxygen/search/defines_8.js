@@ -9,7 +9,7 @@ var searchData=
   ['has_5fessence_6',['HAS_ESSENCE',['../de/d5c/a01358.html#aad8883e78e9afef9daca7491aa162c8c',1,'oculus.cpp']]],
   ['heart_5fof_5fmagic_7',['HEART_OF_MAGIC',['../d7/d1c/a01397.html#af59d6ded8cc013d2fbafa76cc1ff948a',1,'eye_of_eternity.h']]],
   ['hellfirerampartsscriptname_8',['HellfireRampartsScriptName',['../d6/d7f/a00287.html#ab5a0be5128ec06eeed7e1a5dd65db97b',1,'hellfire_ramparts.h']]],
-  ['hgrid_5fmap_5fsize_9',['HGRID_MAP_SIZE',['../dc/d27/a04808.html#ac836977c6cb1a34ebc070436978fb2bb',1,'RegularGrid.h']]],
+  ['hgrid_5fmap_5fsize_9',['HGRID_MAP_SIZE',['../db/da7/a04817.html#ac836977c6cb1a34ebc070436978fb2bb',1,'RegularGrid.h']]],
   ['highborne_5floc_5fy_10',['HIGHBORNE_LOC_Y',['../d2/d21/a01484.html#a6e5a65cdc734bb3130c24dfcdc138686',1,'zone_undercity.cpp']]],
   ['highborne_5floc_5fy_5fnew_11',['HIGHBORNE_LOC_Y_NEW',['../d2/d21/a01484.html#a6d98389767ca5b9a427a5d9825f69cd7',1,'zone_undercity.cpp']]],
   ['hook_5fspell_5fcount_12',['HOOK_SPELL_COUNT',['../d6/da8/a02693.html#aecb97d532499a4b7bfaccc898401260c',1,'SpellScript.h']]],

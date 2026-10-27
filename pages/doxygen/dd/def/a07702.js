@@ -1,14 +1,12 @@
 var a07702 =
 [
-    [ "ArenaLogEntryData", "dd/def/a07702.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
-    [ "Fill", "dd/def/a07702.html#aa3cca4521431bf152550611549bf4bbe", null ],
-    [ "SaveStats", "dd/def/a07702.html#a2f612b3623ad77bc5e25ac0fdad4197b", null ],
-    [ "Acc", "dd/def/a07702.html#aa8983930063298c86f4635d2ae3078fe", null ],
-    [ "ArenaTeamId", "dd/def/a07702.html#ac764620c3c8a986286fd74062dac4645", null ],
-    [ "DamageDone", "dd/def/a07702.html#a7c4c458a7128e869dbf207655b52c7ee", null ],
-    [ "Guid", "dd/def/a07702.html#a03b32cd44c655dcc9104aead3b76454e", null ],
-    [ "HealingDone", "dd/def/a07702.html#af026544d31252e10035364540b96b5b0", null ],
-    [ "IP", "dd/def/a07702.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
-    [ "KillingBlows", "dd/def/a07702.html#a6acec2f17b65a994ee6eba3304fe9ce2", null ],
-    [ "Name", "dd/def/a07702.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
+    [ "Arena", "dd/def/a07702.html#a74f105bc709d4728fb07f1984abfd345", null ],
+    [ "AddPlayer", "dd/def/a07702.html#ae24fe304d35c0c09379203135e936450", null ],
+    [ "CheckWinConditions", "dd/def/a07702.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
+    [ "EndBattleground", "dd/def/a07702.html#a2be61602189b530a16a9ca954d180914", null ],
+    [ "FillInitialWorldStates", "dd/def/a07702.html#a592100d0f0ed492a5cdf941e57db787f", null ],
+    [ "HandleKillPlayer", "dd/def/a07702.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
+    [ "RemovePlayer", "dd/def/a07702.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
+    [ "RemovePlayerAtLeave", "dd/def/a07702.html#acae21233e11b21b612e5c051bfa7720e", null ],
+    [ "UpdateArenaWorldState", "dd/def/a07702.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
 ];

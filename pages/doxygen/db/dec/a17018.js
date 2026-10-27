@@ -1,8 +1,6 @@
 var a17018 =
 [
-    [ "npc_toc_pet_hunterAI", "db/dec/a17018.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
-    [ "EnterEvadeMode", "db/dec/a17018.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
-    [ "myCanCast", "db/dec/a17018.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
-    [ "UpdateAI", "db/dec/a17018.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
-    [ "events", "db/dec/a17018.html#ade038312363f976b34868ed2cbebb58d", null ]
+    [ "npc_toc_shamanAI", "df/d1d/a17022.html", "df/d1d/a17022" ],
+    [ "npc_toc_shaman", "db/dec/a17018.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
+    [ "GetAI", "db/dec/a17018.html#a7102a3aec6c229a04b617c562512bf29", null ]
 ];

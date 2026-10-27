@@ -1,8 +1,7 @@
 var a14414 =
 [
-    [ "npc_zulaman_hostageAI", "dc/d6b/a14418.html", "dc/d6b/a14418" ],
-    [ "npc_zulaman_hostage", "de/d21/a14414.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "de/d21/a14414.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "de/d21/a14414.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "de/d21/a14414.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "npc_daphne_stilwellAI", "dc/d6b/a14418.html", "dc/d6b/a14418" ],
+    [ "npc_daphne_stilwell", "de/d21/a14414.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "de/d21/a14414.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "de/d21/a14414.html#a421a7eb4c1391eb82f7874b081c66a36", null ]
 ];

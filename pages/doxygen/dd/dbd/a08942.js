@@ -1,5 +1,4 @@
 var a08942 =
 [
-    [ "PlayerClassInfo", "dd/dbd/a08942.html#a6a0a6db24e144593356e0505946e8f06", null ],
-    [ "levelInfo", "dd/dbd/a08942.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
+    [ "operator()", "dd/dbd/a08942.html#abf1eada3c86b3be6a9360e359a59930b", null ]
 ];

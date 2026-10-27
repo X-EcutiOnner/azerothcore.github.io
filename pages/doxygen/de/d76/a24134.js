@@ -1,6 +1,7 @@
 var a24134 =
 [
-    [ "CheckCast", "de/d76/a24134.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "de/d76/a24134.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "de/d76/a24134.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "HandleDamage", "de/d76/a24134.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "de/d76/a24134.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "de/d76/a24134.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "de/d76/a24134.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

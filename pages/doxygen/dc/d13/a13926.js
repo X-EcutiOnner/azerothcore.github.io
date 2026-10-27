@@ -1,6 +1,10 @@
 var a13926 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d0/d65/a13930.html", "d0/d65/a13930" ],
-    [ "instance_the_stockade", "dc/d13/a13926.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "dc/d13/a13926.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "MoveDelayed", "dc/d13/a13926.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
+    [ "Execute", "dc/d13/a13926.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
+    [ "_o", "dc/d13/a13926.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
+    [ "_owner", "dc/d13/a13926.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
+    [ "_x", "dc/d13/a13926.html#aa490d19022c27932e76af38281fe158b", null ],
+    [ "_y", "dc/d13/a13926.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
+    [ "_z", "dc/d13/a13926.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
 ];

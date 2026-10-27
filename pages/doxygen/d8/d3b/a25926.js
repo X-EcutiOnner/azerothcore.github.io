@@ -1,7 +1,6 @@
 var a25926 =
 [
-    [ "HandleProc", "d8/d3b/a25926.html#a9d23a4c0986f56e08c5e687ddae621f9", null ],
-    [ "PrepareAuraScript", "d8/d3b/a25926.html#a37d8d2e9c4618ecbbf314b98286e28b9", null ],
-    [ "Register", "d8/d3b/a25926.html#a2e1b7aed322de7023075fdd69660f2f6", null ],
-    [ "Validate", "d8/d3b/a25926.html#a6e807b19f98f8237e5d6f254cb0987a6", null ]
+    [ "CheckProc", "d8/d3b/a25926.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
+    [ "PrepareAuraScript", "d8/d3b/a25926.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
+    [ "Register", "d8/d3b/a25926.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
 ];

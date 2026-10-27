@@ -1,5 +1,5 @@
 var a10594 =
 [
-    [ "ScriptId", "de/d21/a10594.html#a6b17e959f80e7b3f2f3352a345eebcf9", null ],
-    [ "TypeId", "de/d21/a10594.html#aaddf1f172211966f5d727e6238889223", null ]
+    [ "Cost", "de/d21/a10594.html#a6de1eebdd222f71e874a46e5daa354a4", null ],
+    [ "PathIndex", "de/d21/a10594.html#aa5f8bc350f2c5aeac9d5e135c34eb662", null ]
 ];

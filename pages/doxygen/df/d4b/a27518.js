@@ -1,7 +1,11 @@
 var a27518 =
 [
-    [ "HandleDummy", "df/d4b/a27518.html#a6990bc24605167d38772f391aa2a5376", null ],
-    [ "PrepareSpellScript", "df/d4b/a27518.html#af85da0790eb36b91266ffa45888068d6", null ],
-    [ "Register", "df/d4b/a27518.html#a619dab878b3d6e332a15d772dd148e26", null ],
-    [ "Validate", "df/d4b/a27518.html#a5a39713deabac73334442e1bdeb00aad", null ]
+    [ "AddTarget", "df/d4b/a27518.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "df/d4b/a27518.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "df/d4b/a27518.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "df/d4b/a27518.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "df/d4b/a27518.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "df/d4b/a27518.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "df/d4b/a27518.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "df/d4b/a27518.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

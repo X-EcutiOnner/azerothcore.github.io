@@ -1,5 +1,5 @@
 var a29982 =
 [
-    [ "CalculateSpellTypeMask", "d5/d34/a29982.html#ad4f136e69c7553ac32b1de047bf73c59", null ],
-    [ "SetUp", "d5/d34/a29982.html#a57be47f0c3962451b527ffe247dee814", null ]
+    [ "SetUp", "d5/d34/a29982.html#ab7ca64790f3bf45fee5bfa47cc123f9e", null ],
+    [ "TearDown", "d5/d34/a29982.html#ab25eaec6e37e6e315df357f8a1e51924", null ]
 ];

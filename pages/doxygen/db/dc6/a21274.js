@@ -1,19 +1,7 @@
 var a21274 =
 [
-    [ "boss_skadiAI", "db/dc6/a21274.html#a4e9708950b0dda44bd70d77ee9f9de52", null ],
-    [ "DoAction", "db/dc6/a21274.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
-    [ "EnterEvadeMode", "db/dc6/a21274.html#ab6cf2f709b4888b1b4e17c6022d7091f", null ],
-    [ "JustDied", "db/dc6/a21274.html#af963eda18854869f3a73cb22f48b0230", null ],
-    [ "JustEngagedWith", "db/dc6/a21274.html#a2853d557da48decede7baa4845f5573f", null ],
-    [ "JustSummoned", "db/dc6/a21274.html#ac61c732b17b39bdbedf18742b8403c5d", null ],
-    [ "KilledUnit", "db/dc6/a21274.html#af82c5edf85466d9dd5e1dee666231687", null ],
-    [ "Reset", "db/dc6/a21274.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
-    [ "SpawnFirstWave", "db/dc6/a21274.html#af65d4bfff98b239f96e50c868b90e08a", null ],
-    [ "UpdateAI", "db/dc6/a21274.html#a05690f147e2c2a584179c19b0a84a1b0", null ],
-    [ "_encounterStarted", "db/dc6/a21274.html#a37c907c5136097497bcb30da4c70d121", null ],
-    [ "_events", "db/dc6/a21274.html#af7fbc8d2c28052f43463897bcb846b25", null ],
-    [ "_firstWaveSummoned", "db/dc6/a21274.html#a1af2048d0d48e8670cdb4957e191f172", null ],
-    [ "_instance", "db/dc6/a21274.html#a34a422dcee2353a888deaac3bab983a4", null ],
-    [ "_phase", "db/dc6/a21274.html#a64808a1b0cee00069a69c050eeb0240e", null ],
-    [ "_summons", "db/dc6/a21274.html#ae02eac33cf9fa64a2d2e20b5e4d8a591", null ]
+    [ "HandleProc", "db/dc6/a21274.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "db/dc6/a21274.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "db/dc6/a21274.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "db/dc6/a21274.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

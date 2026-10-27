@@ -1,10 +1,10 @@
 var a27046 =
 [
-    [ "GetTarget", "df/d3f/a27046.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
-    [ "HandleEffectPeriodicPlatform", "df/d3f/a27046.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
-    [ "HandleEffectPeriodicSelf", "df/d3f/a27046.html#a2272a970ca5edca6f7353beb2279c29c", null ],
-    [ "PerformKick", "df/d3f/a27046.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
-    [ "PrepareAuraScript", "df/d3f/a27046.html#a489f1da8f8008db8f096470f28455ef9", null ],
-    [ "Register", "df/d3f/a27046.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
-    [ "AuraEffectHandleModes", "df/d3f/a27046.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
+    [ "CalculateAPAmount", "df/d3f/a27046.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
+    [ "CalculateResistanceAmount", "df/d3f/a27046.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
+    [ "CalculateSPAmount", "df/d3f/a27046.html#a9ae59870127884029a938684786e67a9", null ],
+    [ "CalculateStatAmount", "df/d3f/a27046.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
+    [ "HandleEffectApply", "df/d3f/a27046.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
+    [ "PrepareAuraScript", "df/d3f/a27046.html#aa90952337607986eaf7485200a32c353", null ],
+    [ "Register", "df/d3f/a27046.html#a88520214bd87511b615965593f1b927f", null ]
 ];

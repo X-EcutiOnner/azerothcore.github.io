@@ -1,8 +1,7 @@
 var a24202 =
 [
-    [ "CreatureId", "d8/d4d/a24202.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "d8/d4d/a24202.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "d8/d4d/a24202.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "d8/d4d/a24202.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "d8/d4d/a24202.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "npc_daranelleAI", "d8/d4d/a24202.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d8/d4d/a24202.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d8/d4d/a24202.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d8/d4d/a24202.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

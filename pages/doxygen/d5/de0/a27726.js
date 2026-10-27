@@ -1,6 +1,6 @@
 var a27726 =
 [
-    [ "HandleAfterHit", "d5/de0/a27726.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "d5/de0/a27726.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "d5/de0/a27726.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "CheckProc", "d5/de0/a27726.html#a3b98aef2d745773a55ac10daded629e7", null ],
+    [ "PrepareAuraScript", "d5/de0/a27726.html#ab49dc1c178c4089fe8f708da3cd22bf2", null ],
+    [ "Register", "d5/de0/a27726.html#a5c0c53a39fdc770f8c6e9a86cd87c74a", null ]
 ];

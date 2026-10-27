@@ -1,8 +1,8 @@
 var a28662 =
 [
-    [ "npc_minion_spawner", "d4/d4d/a28662.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d4/d4d/a28662.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d4/d4d/a28662.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d4/d4d/a28662.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d4/d4d/a28662.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "npc_franklinAI", "d9/d83/a28666.html", "d9/d83/a28666" ],
+    [ "npc_franklin", "d4/d4d/a28662.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "d4/d4d/a28662.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "d4/d4d/a28662.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "d4/d4d/a28662.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

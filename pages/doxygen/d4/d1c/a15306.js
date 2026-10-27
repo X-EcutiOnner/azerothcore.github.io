@@ -1,6 +1,7 @@
 var a15306 =
 [
-    [ "npc_cos_chromie_start", "d4/d1c/a15306.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "d4/d1c/a15306.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
-    [ "OnQuestAccept", "d4/d1c/a15306.html#a81ff4586ca64f198748aa84e1ffd9018", null ]
+    [ "hyjalJainaAI", "d0/dd3/a15310.html", "d0/dd3/a15310" ],
+    [ "npc_hyjal_jaina", "d4/d1c/a15306.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "d4/d1c/a15306.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "d4/d1c/a15306.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

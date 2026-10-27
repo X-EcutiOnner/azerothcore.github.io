@@ -1,6 +1,8 @@
 var a04787 =
 [
-    [ "GameObjectModelOwnerBase", "d6/deb/a05433.html", "d6/deb/a05433" ],
-    [ "GameObjectModel", "de/df6/a05437.html", "de/df6/a05437" ],
-    [ "LoadGameObjectModelList", "d2/df3/a04787.html#a5a80774080fc05f90c7d92213fda6788", null ]
+    [ "ModelIgnoreFlags", "d2/df3/a04787.html#a6996c44f3ac72cd9dc04515186d2da28", [
+      [ "Nothing", "d2/df3/a04787.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
+      [ "M2", "d2/df3/a04787.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
+    ] ],
+    [ "operator&", "d2/df3/a04787.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
 ];

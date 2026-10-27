@@ -1,6 +1,5 @@
 var a20666 =
 [
-    [ "ModDest", "dd/ded/a20666.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
-    [ "PrepareSpellScript", "dd/ded/a20666.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
-    [ "Register", "dd/ded/a20666.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
+    [ "achievement_cheese_the_freeze", "dd/ded/a20666.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
+    [ "OnCheck", "dd/ded/a20666.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
 ];

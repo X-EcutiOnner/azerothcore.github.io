@@ -1,7 +1,14 @@
 var a19910 =
 [
-    [ "CalcDamage", "d6/d1d/a19910.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "d6/d1d/a19910.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "d6/d1d/a19910.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "d6/d1d/a19910.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "boss_keristrasza", "d6/d1d/a19910.html#a5f83fee9a5616751601f0c1155afab36", null ],
+    [ "CanRemovePrison", "d6/d1d/a19910.html#a900a4a8428a04b880462b20196e94858", null ],
+    [ "GetData", "d6/d1d/a19910.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
+    [ "JustDied", "d6/d1d/a19910.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
+    [ "JustEngagedWith", "d6/d1d/a19910.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
+    [ "KilledUnit", "d6/d1d/a19910.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
+    [ "RemovePrison", "d6/d1d/a19910.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
+    [ "Reset", "d6/d1d/a19910.html#a13dce974fa83577397a80ff52de5d835", null ],
+    [ "SetData", "d6/d1d/a19910.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
+    [ "UpdateAI", "d6/d1d/a19910.html#a46a2e61e27cc72710c7aa14212673eae", null ],
+    [ "aGuids", "d6/d1d/a19910.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
 ];

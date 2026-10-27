@@ -1,6 +1,10 @@
 var a10950 =
 [
-    [ "ShowBank", "df/daf/a10950.html#a57c189db7f6338f73d4e0028d846cfcf", null ],
-    [ "Write", "df/daf/a10950.html#a39e1b86a7d4d6163ab504797be1af505", null ],
-    [ "Banker", "df/daf/a10950.html#aeceda879d837508d95b79fbd3ee8d892", null ]
+    [ "ArgsType", "df/daf/a10950.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "df/daf/a10950.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "df/daf/a10950.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "df/daf/a10950.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "df/daf/a10950.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "df/daf/a10950.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "df/daf/a10950.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

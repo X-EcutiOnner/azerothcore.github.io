@@ -1,11 +1,20 @@
 var a14810 =
 [
-    [ "npc_snowfall_glade_playmate", "dc/d49/a14810.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "dc/d49/a14810.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "dc/d49/a14810.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "dc/d49/a14810.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "dc/d49/a14810.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "dc/d49/a14810.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "dc/d49/a14810.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "dc/d49/a14810.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "npc_dark_iron_attack_generator", "dc/d49/a14810.html#aef208e008b00af62710c8479bf7b6618", null ],
+    [ "AllowStart", "dc/d49/a14810.html#a4c0bdf682ced38cd1555ac6c6dd82361", null ],
+    [ "FinishAttackDueToWin", "dc/d49/a14810.html#abe15db24f6cd2c0c4c7fb5572635f09a", null ],
+    [ "FinishEventDueToLoss", "dc/d49/a14810.html#ab2dc568f820e3b0b7c863f83e6ca45fc", null ],
+    [ "GetRandomBartender", "dc/d49/a14810.html#aefe0e7e40ca5aad089aa27c5151e01fa", null ],
+    [ "JustEngagedWith", "dc/d49/a14810.html#a7588ef6382ae081d76423f8233667c5b", null ],
+    [ "MoveInLineOfSight", "dc/d49/a14810.html#ae21b69752a1e45eeef318ccf1e5a3b24", null ],
+    [ "PrepareEvent", "dc/d49/a14810.html#a4371fcc13d221b843275d1d0e7f896fb", null ],
+    [ "Reset", "dc/d49/a14810.html#ab9b3a7d524b8764ef9d00dac3ea75418", null ],
+    [ "SpellHit", "dc/d49/a14810.html#a829946c679b3eff97b1eb3ede6cd91d8", null ],
+    [ "UpdateAI", "dc/d49/a14810.html#a1038fdc5453c78ebaef26b305be23963", null ],
+    [ "events", "dc/d49/a14810.html#a6692f1a74acae5ddebbe8dc8790db07a", null ],
+    [ "guzzlerCounter", "dc/d49/a14810.html#a1a5cc21ee54e3d8d7acb1e3235d4e427", null ],
+    [ "kegCounter", "dc/d49/a14810.html#a3282d8a556e6e3b84a9597c317722d8e", null ],
+    [ "revelerGUIDs", "dc/d49/a14810.html#a873ec2bf87b3d616e60d26aa561258bf", null ],
+    [ "summons", "dc/d49/a14810.html#a5ac0502b880031c937f915a7dbca2262", null ],
+    [ "thrown", "dc/d49/a14810.html#ac372ce0664ec10b7f60026fa808a74d0", null ]
 ];

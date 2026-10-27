@@ -1,8 +1,8 @@
 var a23594 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "dc/d59/a23594.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "dc/d59/a23594.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "dc/d59/a23594.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "dc/d59/a23594.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "dc/d59/a23594.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "boss_mekgineer_steamrigger", "dc/d59/a23594.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "dc/d59/a23594.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "dc/d59/a23594.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "dc/d59/a23594.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "dc/d59/a23594.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

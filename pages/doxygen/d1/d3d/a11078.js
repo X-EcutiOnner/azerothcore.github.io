@@ -1,8 +1,7 @@
 var a11078 =
 [
-    [ "GuildCommandResult", "d1/d3d/a11078.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
-    [ "Write", "d1/d3d/a11078.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
-    [ "Command", "d1/d3d/a11078.html#a099cf9f39c403f76971d006245b03f29", null ],
-    [ "Name", "d1/d3d/a11078.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
-    [ "Result", "d1/d3d/a11078.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
+    [ "LogoutResponse", "d1/d3d/a11078.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
+    [ "Write", "d1/d3d/a11078.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
+    [ "Instant", "d1/d3d/a11078.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
+    [ "LogoutResult", "d1/d3d/a11078.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
 ];

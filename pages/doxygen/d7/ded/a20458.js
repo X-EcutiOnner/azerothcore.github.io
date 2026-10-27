@@ -1,6 +1,9 @@
 var a20458 =
 [
-    [ "npc_ulduar_toasty_fire", "d7/ded/a20458.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "d7/ded/a20458.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "d7/ded/a20458.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "Absorb", "d7/ded/a20458.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
+    [ "CalculateAmount", "d7/ded/a20458.html#a9166627cbaa536405975444c4ef601de", null ],
+    [ "Load", "d7/ded/a20458.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
+    [ "PrepareAuraScript", "d7/ded/a20458.html#aa5793741c2f8179db68a9fb1222a9085", null ],
+    [ "Register", "d7/ded/a20458.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
+    [ "_absorbPct", "d7/ded/a20458.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
 ];

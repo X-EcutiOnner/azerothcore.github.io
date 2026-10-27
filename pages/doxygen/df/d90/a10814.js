@@ -1,6 +1,10 @@
 var a10814 =
 [
-    [ "LootScript", "df/d90/a10814.html#acb6898fdb67e5bdcf0de945da5ec667d", null ],
-    [ "IsDatabaseBound", "df/d90/a10814.html#ad60b605eac89be48efd339127e9cb9cd", null ],
-    [ "OnLootMoney", "df/d90/a10814.html#a56a57baead49f6815a9979b181a55375", null ]
+    [ "ArenaTeamScript", "df/d90/a10814.html#adc9b99bd34d10fc966b0d5ce3af54469", null ],
+    [ "IsDatabaseBound", "df/d90/a10814.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
+    [ "OnGetArenaPoints", "df/d90/a10814.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
+    [ "OnGetSlotByType", "df/d90/a10814.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
+    [ "OnQueueIdToArenaType", "df/d90/a10814.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
+    [ "OnSetArenaMaxPlayersPerTeam", "df/d90/a10814.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
+    [ "OnTypeIDToQueueID", "df/d90/a10814.html#abcdd905b695f926e503db610d80ada3c", null ]
 ];

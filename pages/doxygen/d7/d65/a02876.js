@@ -1,6 +1,6 @@
 var a02876 =
 [
-    [ "SkillDiscoveryEntry", "da/dde/a11897.html", "da/dde/a11897" ],
+    [ "SkillDiscoveryEntry", "d4/da7/a11910.html", "d4/da7/a11910" ],
     [ "SkillDiscoveryList", "d7/d65/a02876.html#a0c80a6b86b3b7bd5e9c238efa802919b", null ],
     [ "SkillDiscoveryMap", "d7/d65/a02876.html#ab7ec6a8662e4edd3167deb3c917d2eab", null ],
     [ "GetExplicitDiscoverySpell", "d7/d65/a02876.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],

@@ -1,8 +1,10 @@
 var a27086 =
 [
-    [ "HandleDummy", "d5/d9a/a27086.html#a1afcd9c6ab96c87db8aa4899d0830899", null ],
-    [ "Load", "d5/d9a/a27086.html#a11d3cd0eccd4895f5cd9d2721bd3fd0c", null ],
-    [ "PrepareSpellScript", "d5/d9a/a27086.html#a252784bb4b438750db5ef7f905477140", null ],
-    [ "Register", "d5/d9a/a27086.html#ab93554e82cbed0c78452846c95247584", null ],
-    [ "Validate", "d5/d9a/a27086.html#a33404726f5e5986b263eb0a0beba9443", null ]
+    [ "CheckProc", "d5/d9a/a27086.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
+    [ "HandleProc", "d5/d9a/a27086.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
+    [ "Load", "d5/d9a/a27086.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
+    [ "PrepareAuraScript", "d5/d9a/a27086.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
+    [ "Register", "d5/d9a/a27086.html#a4cb08499767ab58f0e525c382b662fbd", null ],
+    [ "Validate", "d5/d9a/a27086.html#aa6165f28706d49940dd1f62065631119", null ],
+    [ "_procTarget", "d5/d9a/a27086.html#a7b9426e18b454bf631992518c2bdbde0", null ]
 ];

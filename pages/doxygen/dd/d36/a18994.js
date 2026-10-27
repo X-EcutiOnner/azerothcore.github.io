@@ -1,7 +1,6 @@
 var a18994 =
 [
-    [ "HandleForceCast", "dd/d36/a18994.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "dd/d36/a18994.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "dd/d36/a18994.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "dd/d36/a18994.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "ManaVoidSelector", "dd/d36/a18994.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "dd/d36/a18994.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "dd/d36/a18994.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

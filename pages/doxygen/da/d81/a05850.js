@@ -1,21 +1,7 @@
 var a05850 =
 [
-    [ "EventProcessor", "da/d81/a05850.html#a5c430ef08365f5eeca0f3321991bfaac", null ],
-    [ "~EventProcessor", "da/d81/a05850.html#af30a066c911c3841d35854c900743b9e", null ],
-    [ "AddEvent", "da/d81/a05850.html#afd92abbbf10158540614eb615f7f2e2b", null ],
-    [ "AddEvent", "da/d81/a05850.html#a3ed0b93d52ff192098983a3e6a9c5acd", null ],
-    [ "AddEventAtOffset", "da/d81/a05850.html#a9f961ef09108513fd1ea06cf756744d3", null ],
-    [ "AddEventAtOffset", "da/d81/a05850.html#a1da0c3001bd6009d6bac25a969ed7196", null ],
-    [ "AddEventAtOffset", "da/d81/a05850.html#a1f1251ae4804bb53d8d7244d74ca6591", null ],
-    [ "AddEventAtOffset", "da/d81/a05850.html#a25566439bbb1d9de555e20380184b38f", null ],
-    [ "CalculateQueueTime", "da/d81/a05850.html#a2db97870b30361980b2d72ef806de951", null ],
-    [ "CalculateTime", "da/d81/a05850.html#a1a92f983f1dd415146c2875f80cba433", null ],
-    [ "CancelEventGroup", "da/d81/a05850.html#a29651ba6704e7908820af60ec37a2478", null ],
-    [ "HasEvents", "da/d81/a05850.html#a5f09366ac8e595f24b0c095f4127b9e7", null ],
-    [ "KillAllEvents", "da/d81/a05850.html#a15a65ecc2391f505266176cfc7f29c39", null ],
-    [ "ModifyEventTime", "da/d81/a05850.html#ad54487e1753d8ce12bdddb1358ddb0cc", null ],
-    [ "Update", "da/d81/a05850.html#a72fe67593c7684a55d27fb225ea51d05", null ],
-    [ "m_aborting", "da/d81/a05850.html#a7a1beec186648c90c112ead3cc5df064", null ],
-    [ "m_events", "da/d81/a05850.html#a168a435c77de52a151c735d3f004dbb9", null ],
-    [ "m_time", "da/d81/a05850.html#a829eb8c07982b66e98c0ca118b54aaef", null ]
+    [ "Lock", "da/d81/a05850.html#a21f4b8baf1c80cc8c5f029be8daa63e2", null ],
+    [ "Lock", "da/d81/a05850.html#a47837894025e1fa4e114f5efb5ec83bc", null ],
+    [ "Lock", "da/d81/a05850.html#a342f976604dd6d072e781f27dc511030", null ],
+    [ "~Lock", "da/d81/a05850.html#a08c6dbf00950b05d493e28ec95906c4e", null ]
 ];

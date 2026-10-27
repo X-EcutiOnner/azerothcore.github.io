@@ -1,7 +1,5 @@
 var a23442 =
 [
-    [ "HandleScript", "db/dc7/a23442.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "db/dc7/a23442.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "db/dc7/a23442.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "db/dc7/a23442.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "go_strange_pool", "db/dc7/a23442.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "db/dc7/a23442.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

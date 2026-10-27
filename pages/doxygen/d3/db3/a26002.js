@@ -1,8 +1,9 @@
 var a26002 =
 [
-    [ "HandleDummy", "d3/db3/a26002.html#ac6db67f521a8fd1e8de4cd22220b45fe", null ],
-    [ "Load", "d3/db3/a26002.html#af767de9953372e5e56509a0be9e90958", null ],
-    [ "PrepareSpellScript", "d3/db3/a26002.html#a0385a22f908ac62ab987fe9f84cad330", null ],
-    [ "Register", "d3/db3/a26002.html#a1212726a4fcbac06b527648dff58c546", null ],
-    [ "Validate", "d3/db3/a26002.html#ab014db76cf4656e10665f12fb18c5997", null ]
+    [ "getMountSpellId", "d3/db3/a26002.html#afe306ed6057050baf342ee717723764d", null ],
+    [ "OnApply", "d3/db3/a26002.html#aa8bee986d413be60d00ac1d2111ef719", null ],
+    [ "OnRemove", "d3/db3/a26002.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
+    [ "PrepareAuraScript", "d3/db3/a26002.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
+    [ "Register", "d3/db3/a26002.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
+    [ "Validate", "d3/db3/a26002.html#a6868f6e88c9179efd921b266c83f6daf", null ]
 ];

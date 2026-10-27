@@ -1,19 +1,6 @@
 var a10706 =
 [
-    [ "AllSpellScript", "d2/da2/a10706.html#a8c4266bf7a21c199eac02b5422c358e8", null ],
-    [ "CanPrepare", "d2/da2/a10706.html#aeb2d438fdd7ca823ce670a94941bafff", null ],
-    [ "CanScalingEverything", "d2/da2/a10706.html#a026842dcd2d8c0e0c3f99718b04e86b0", null ],
-    [ "CanSelectSpecTalent", "d2/da2/a10706.html#a3cf7b45d8e9f5b23e2753d1624c4af78", null ],
-    [ "IsDatabaseBound", "d2/da2/a10706.html#a0854a57b62e310575a3e5cd8d35e8532", null ],
-    [ "OnBeforeAuraRankForLevel", "d2/da2/a10706.html#ae5a4590e4fb49d4cfe73c5ce307773ca", null ],
-    [ "OnCalcMaxDuration", "d2/da2/a10706.html#a5d02de785a4e1cf5103110828fac5e75", null ],
-    [ "OnDummyEffect", "d2/da2/a10706.html#a54e0b823c538c41507c541db025d5295", null ],
-    [ "OnDummyEffect", "d2/da2/a10706.html#a36061e5bcec2ef4dea35d1b5c9e703b4", null ],
-    [ "OnDummyEffect", "d2/da2/a10706.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
-    [ "OnRemoveAuraScaleTargets", "d2/da2/a10706.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
-    [ "OnScaleAuraUnitAdd", "d2/da2/a10706.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
-    [ "OnSpellCast", "d2/da2/a10706.html#aac6481ca905c3f44f85c55aaf694afca", null ],
-    [ "OnSpellCastCancel", "d2/da2/a10706.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
-    [ "OnSpellCheckCast", "d2/da2/a10706.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
-    [ "OnSpellPrepare", "d2/da2/a10706.html#addb78dc29f771ec376922a4a2bff558b", null ]
+    [ "Description", "d2/da2/a10706.html#a1d49e1ff4533507cb64dfc8fc6790c37", null ],
+    [ "MapId", "d2/da2/a10706.html#a252400abf9080866cdf2eebba16df4dc", null ],
+    [ "MaxLimit", "d2/da2/a10706.html#a38ba12a67e99cabba2388a63f12a2b53", null ]
 ];

@@ -1,8 +1,5 @@
 var a11986 =
 [
-    [ "first", "d9/d02/a11986.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
-    [ "last", "d9/d02/a11986.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
-    [ "next", "d9/d02/a11986.html#a0a7791b7069912a013299e7afaf4142f", null ],
-    [ "prev", "d9/d02/a11986.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
-    [ "rank", "d9/d02/a11986.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
+    [ "effectMask", "d9/d02/a11986.html#a3161ec2ffdf794c000cc94b91519d009", null ],
+    [ "item", "d9/d02/a11986.html#afce5eba99c3dc33698dd12af8432f357", null ]
 ];

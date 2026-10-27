@@ -1,7 +1,8 @@
 var a28546 =
 [
-    [ "npc_sayge", "d9/d21/a28546.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d9/d21/a28546.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d9/d21/a28546.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d9/d21/a28546.html#aed1988335672423d024546654aa95298", null ]
+    [ "go_bellsAI", "d9/d21/a28546.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "d9/d21/a28546.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "d9/d21/a28546.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "d9/d21/a28546.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "d9/d21/a28546.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

@@ -1,7 +1,5 @@
 var a25290 =
 [
-    [ "HandleChargeEffect", "de/d91/a25290.html#ad8d2871e6277dd982653fa864010d084", null ],
-    [ "HandleScriptEffect", "de/d91/a25290.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
-    [ "PrepareSpellScript", "de/d91/a25290.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
-    [ "Register", "de/d91/a25290.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
+    [ "PrepareSpellScript", "de/d91/a25290.html#a054677572d74a740f1c14715608f7b1b", null ],
+    [ "Register", "de/d91/a25290.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
 ];

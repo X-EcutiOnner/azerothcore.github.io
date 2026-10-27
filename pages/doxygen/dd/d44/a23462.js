@@ -1,8 +1,7 @@
 var a23462 =
 [
-    [ "npc_underbat", "dd/d44/a23462.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "dd/d44/a23462.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "dd/d44/a23462.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "dd/d44/a23462.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "dd/d44/a23462.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "FilterTargets", "dd/d44/a23462.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "dd/d44/a23462.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "dd/d44/a23462.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "dd/d44/a23462.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

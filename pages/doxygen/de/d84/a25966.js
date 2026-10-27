@@ -1,6 +1,8 @@
 var a25966 =
 [
-    [ "FilterTargets", "de/d84/a25966.html#abe299fbad07f800e90b1614ec661c185", null ],
-    [ "PrepareSpellScript", "de/d84/a25966.html#a53bae2b6575436705adff74caf9225b7", null ],
-    [ "Register", "de/d84/a25966.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
+    [ "HandleRapidFireProc", "de/d84/a25966.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
+    [ "HandleRapidKillingProc", "de/d84/a25966.html#a12f24814d41837c8ddb8a42c8e932077", null ],
+    [ "PrepareAuraScript", "de/d84/a25966.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
+    [ "Register", "de/d84/a25966.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
+    [ "Validate", "de/d84/a25966.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
 ];

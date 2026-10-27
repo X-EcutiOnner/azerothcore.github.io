@@ -1,7 +1,13 @@
 var a19966 =
 [
-    [ "OnRemove", "d0/d29/a19966.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "d0/d29/a19966.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "d0/d29/a19966.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "d0/d29/a19966.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "npc_oculus_unstable_sphereAI", "d0/d29/a19966.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "d0/d29/a19966.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "d0/d29/a19966.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "d0/d29/a19966.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "d0/d29/a19966.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "d0/d29/a19966.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "d0/d29/a19966.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "d0/d29/a19966.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "d0/d29/a19966.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "d0/d29/a19966.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

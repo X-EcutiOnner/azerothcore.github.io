@@ -1,7 +1,8 @@
 var a28686 =
 [
-    [ "HandleDummy", "d8/de4/a28686.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "d8/de4/a28686.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "d8/de4/a28686.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "d8/de4/a28686.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "npc_riggle_bassbaitAI", "dc/d42/a28690.html", "dc/d42/a28690" ],
+    [ "npc_riggle_bassbait", "d8/de4/a28686.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "d8/de4/a28686.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "d8/de4/a28686.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "d8/de4/a28686.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

@@ -1,6 +1,8 @@
 var a13942 =
 [
-    [ "HandleSendEvent", "d4/d2c/a13942.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "d4/d2c/a13942.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "d4/d2c/a13942.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "FilterTargets", "d4/d2c/a13942.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
+    [ "HandleScriptEffect", "d4/d2c/a13942.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
+    [ "PrepareSpellScript", "d4/d2c/a13942.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
+    [ "Register", "d4/d2c/a13942.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
+    [ "Validate", "d4/d2c/a13942.html#a5493864b068de82015bc157f3d0899b3", null ]
 ];

@@ -1,8 +1,11 @@
 var a05602 =
 [
-    [ "Decode", "dd/dd6/a05602.html#aba5ab7c59ce77414bca38bfcde32d1c0", null ],
-    [ "Encode", "dd/dd6/a05602.html#ad6cde2310ca52940df1bbf93deff6b91", null ],
-    [ "BITS_PER_CHAR", "dd/dd6/a05602.html#a5efb6c842ab7733dc26fd67f1a00ccdf", null ],
-    [ "DECODE_ERROR", "dd/dd6/a05602.html#a8fccf3d4b22e835fc4dca6b942771a2a", null ],
-    [ "PADDING", "dd/dd6/a05602.html#a2e5699431f24ca6b745294b935b99240", null ]
+    [ "Record", "dd/dd6/a05602.html#a3303a6b7ba364777e368158052dbe1db", null ],
+    [ "getFloat", "dd/dd6/a05602.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
+    [ "getString", "dd/dd6/a05602.html#af7b7a8dd685bac5a93e3299d85aab784", null ],
+    [ "getUInt", "dd/dd6/a05602.html#a6f22775adc36b8955009f3f0bd51f355", null ],
+    [ "getUInt8", "dd/dd6/a05602.html#af6a95de37b34f0204f57323d9a39d110", null ],
+    [ "DBCFileLoader", "dd/dd6/a05602.html#aa9814b507b472e781e08c803e025cc72", null ],
+    [ "file", "dd/dd6/a05602.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
+    [ "offset", "dd/dd6/a05602.html#a06e2c90771be91d9ca948840a07125e8", null ]
 ];

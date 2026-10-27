@@ -1,6 +1,7 @@
 var a27126 =
 [
-    [ "HandleDummy", "df/d42/a27126.html#aee5967205738ebaef70e1105e8d91b2c", null ],
-    [ "PrepareSpellScript", "df/d42/a27126.html#a1ef5914adfd2c951a68f50658852e095", null ],
-    [ "Register", "df/d42/a27126.html#af42b6d5a5fbb5eb84773818594813afc", null ]
+    [ "HandleApplyEffect", "df/d42/a27126.html#af95120b26a165196e0310956c245f36f", null ],
+    [ "HandleRemoveEffect", "df/d42/a27126.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
+    [ "PrepareAuraScript", "df/d42/a27126.html#ae19e002407db1466f0655db3d14fe0d7", null ],
+    [ "Register", "df/d42/a27126.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
 ];

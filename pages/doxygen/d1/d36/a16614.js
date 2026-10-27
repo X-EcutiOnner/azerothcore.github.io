@@ -1,8 +1,12 @@
 var a16614 =
 [
-    [ "OnApply", "d1/d36/a16614.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "d1/d36/a16614.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "d1/d36/a16614.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "d1/d36/a16614.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "d1/d36/a16614.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "HandleDummy", "d1/d36/a16614.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
+    [ "HandleSchoolDamage", "d1/d36/a16614.html#a8372b7d176c94689b1b7fe99add7812e", null ],
+    [ "HandleSummon", "d1/d36/a16614.html#a64ffa7d9c5cdd7fab345b2f0f8acc0f1", null ],
+    [ "Load", "d1/d36/a16614.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
+    [ "PrepareSpellScript", "d1/d36/a16614.html#a3fd71e2a93f99f19443640a2147b1663", null ],
+    [ "Register", "d1/d36/a16614.html#a8278d362a4354ccf81665ce0067c9a06", null ],
+    [ "Validate", "d1/d36/a16614.html#a414b1e1396910b87a671305ce9dcab09", null ],
+    [ "_dummyFired", "d1/d36/a16614.html#a9642ac8cfab23040b699606874ad08ca", null ],
+    [ "_spawned", "d1/d36/a16614.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
 ];

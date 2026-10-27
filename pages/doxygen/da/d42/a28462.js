@@ -1,8 +1,6 @@
 var a28462 =
 [
-    [ "npc_elder_clearwaterAI", "df/dd6/a28466.html", "df/dd6/a28466" ],
-    [ "npc_elder_clearwater", "da/d42/a28462.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "da/d42/a28462.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "da/d42/a28462.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "da/d42/a28462.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "go_gilded_brazierAI", "df/dd6/a28466.html", "df/dd6/a28466" ],
+    [ "go_gilded_brazier", "da/d42/a28462.html#a778c753a8432131601371da8849ef004", null ],
+    [ "GetAI", "da/d42/a28462.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
 ];

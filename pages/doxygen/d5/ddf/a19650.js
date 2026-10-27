@@ -1,6 +1,9 @@
 var a19650 =
 [
-    [ "boss_thaddiusAI", "d7/d2c/a19654.html", "d7/d2c/a19654" ],
-    [ "boss_thaddius", "d5/ddf/a19650.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "d5/ddf/a19650.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d5/ddf/a19650.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "d5/ddf/a19650.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "d5/ddf/a19650.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "d5/ddf/a19650.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "d5/ddf/a19650.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "d5/ddf/a19650.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

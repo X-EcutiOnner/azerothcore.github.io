@@ -1,9 +1,6 @@
 var a24014 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d4/dae/a24014.html#a273d585416dc92d39d5ec3824c08504d", null ],
-    [ "IsSummonedBy", "d4/dae/a24014.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
-    [ "Reset", "d4/dae/a24014.html#a06fa50580efeab8d847a05f20956d175", null ],
-    [ "UpdateAI", "d4/dae/a24014.html#a8261a259cfbee0d3610ee441406fafcd", null ],
-    [ "playerGuid", "d4/dae/a24014.html#aab717dd49284c483759a6223dbd7e6ea", null ],
-    [ "timer", "d4/dae/a24014.html#afba1b71178c563a3db906057cd20de45", null ]
+    [ "HandlePeriodic", "d4/dae/a24014.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "d4/dae/a24014.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "d4/dae/a24014.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

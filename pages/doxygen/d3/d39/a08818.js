@@ -1,5 +1,6 @@
 var a08818 =
 [
-    [ "Global", "d3/d39/a08818.html#a77d72711ba9384384f9fd789f778e8c8", null ],
-    [ "MapSpecific", "d3/d39/a08818.html#a42e5a0249b84d4e8175a4cb65480bbcf", null ]
+    [ "invisibilityType", "d3/d39/a08818.html#ac1e874a76fecd4d3eb061722713f6634", null ],
+    [ "InvisibilityValue", "d3/d39/a08818.html#a8e1741fca7c49f0618a3999e69ae5c81", null ],
+    [ "ParentRotation", "d3/d39/a08818.html#a5ae35d326afcb1b80847761c0376deaf", null ]
 ];

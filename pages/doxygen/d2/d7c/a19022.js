@@ -1,13 +1,9 @@
 var a19022 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d2/d7c/a19022.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "d2/d7c/a19022.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "d2/d7c/a19022.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "d2/d7c/a19022.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "d2/d7c/a19022.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "d2/d7c/a19022.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "d2/d7c/a19022.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "d2/d7c/a19022.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "d2/d7c/a19022.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "d2/d7c/a19022.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d2/d7c/a19022.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "DoAction", "d2/d7c/a19022.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "JustEnteredCombat", "d2/d7c/a19022.html#ae25ca99139f8bb0082b97599cb924bd9", null ],
+    [ "JustExitedCombat", "d2/d7c/a19022.html#add8ce38b4a75947dc0170c7aba9c5589", null ],
+    [ "MoveInLineOfSight", "d2/d7c/a19022.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "d2/d7c/a19022.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ]
 ];

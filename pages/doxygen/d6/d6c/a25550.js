@@ -1,5 +1,7 @@
 var a25550 =
 [
-    [ "PrepareSpellScript", "d6/d6c/a25550.html#a800936a311c05236dbd0c9c2f0edd5d9", null ],
-    [ "Register", "d6/d6c/a25550.html#ae176a1f643797b5367a593bbb2acc506", null ]
+    [ "HandleEffectApply", "d6/d6c/a25550.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
+    [ "OnRemove", "d6/d6c/a25550.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
+    [ "PrepareAuraScript", "d6/d6c/a25550.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
+    [ "Register", "d6/d6c/a25550.html#a473189971d0a03e7305b7b9e41dc5207", null ]
 ];

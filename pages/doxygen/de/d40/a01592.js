@@ -1,13 +1,13 @@
 var a01592 =
 [
-    [ "go_shadowforge_brazier", "d5/d1d/a12773.html", "d5/d1d/a12773" ],
-    [ "brd_ironhand_guardian", "d0/dcc/a12777.html", "d0/dcc/a12777" ],
-    [ "WaveCreature", "dd/db7/a12781.html", "dd/db7/a12781" ],
-    [ "at_ring_of_law", "d1/d11/a12785.html", "d1/d11/a12785" ],
-    [ "npc_grimstone", "d0/da8/a12789.html", "d0/da8/a12789" ],
-    [ "npc_phalanx", "d9/d7c/a12793.html", "d9/d7c/a12793" ],
-    [ "npc_mistress_nagmara", "d9/d27/a12797.html", "d9/d27/a12797" ],
-    [ "npc_rocknot", "d5/df6/a12801.html", "d5/df6/a12801" ],
+    [ "go_shadowforge_brazier", "dc/d68/a12790.html", "dc/d68/a12790" ],
+    [ "brd_ironhand_guardian", "d8/d68/a12794.html", "d8/d68/a12794" ],
+    [ "WaveCreature", "d6/d66/a12798.html", "d6/d66/a12798" ],
+    [ "at_ring_of_law", "d1/ded/a12802.html", "d1/ded/a12802" ],
+    [ "npc_grimstone", "db/d00/a12806.html", "db/d00/a12806" ],
+    [ "npc_phalanx", "d3/de0/a12810.html", "d3/de0/a12810" ],
+    [ "npc_mistress_nagmara", "d5/d06/a12814.html", "d5/d06/a12814" ],
+    [ "npc_rocknot", "df/da4/a12818.html", "df/da4/a12818" ],
     [ "GrimGuzzlerNPCs", "de/d40/a01592.html#a77fc9cb2c6415fc9da6f085c0ba82b5d", [
       [ "NPC_PRIVATE_ROCKNOT", "de/d40/a01592.html#a77fc9cb2c6415fc9da6f085c0ba82b5da863befa526f111283c2f5a00a1f1c4f6", null ],
       [ "NPC_MISTRESS_NAGMARA", "de/d40/a01592.html#a77fc9cb2c6415fc9da6f085c0ba82b5daa54264550a93a8c75eb28557276a94aa", null ]

@@ -1,5 +1,6 @@
 var a28746 =
 [
-    [ "ID", "dc/dcc/a28746.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "dc/dcc/a28746.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "npc_garments_of_questsAI", "d9/d0d/a28750.html", "d9/d0d/a28750" ],
+    [ "npc_garments_of_quests", "dc/dcc/a28746.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
+    [ "GetAI", "dc/dcc/a28746.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
 ];

@@ -1,7 +1,9 @@
 var a19430 =
 [
-    [ "HandleGameObjectDamage", "de/db7/a19430.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "de/db7/a19430.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "de/db7/a19430.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "de/db7/a19430.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "npc_icc_severed_essenceAI", "de/db7/a19430.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "de/db7/a19430.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "de/db7/a19430.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "de/db7/a19430.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "de/db7/a19430.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "de/db7/a19430.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

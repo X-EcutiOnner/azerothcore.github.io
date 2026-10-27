@@ -1,6 +1,8 @@
 var a09102 =
 [
-    [ "spellIdImmunityPredicate", "da/d80/a09102.html#a04893e34d418a0649d51dfa82b559d9c", null ],
-    [ "operator()", "da/d80/a09102.html#ae97afff7a6b3ea5dca917d3dbb9ef818", null ],
-    [ "_type", "da/d80/a09102.html#a125dfe727d668b5b9820adf1f7f0e0a8", null ]
+    [ "checkLeaderOnly", "da/d80/a09102.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
+    [ "faction", "da/d80/a09102.html#a23c649e494795b27856b67225370a820", null ],
+    [ "id", "da/d80/a09102.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
+    [ "note", "da/d80/a09102.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
+    [ "priority", "da/d80/a09102.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
 ];

@@ -1,7 +1,6 @@
 var a27598 =
 [
-    [ "HandleBonus", "d4/dde/a27598.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
-    [ "PrepareAuraScript", "d4/dde/a27598.html#aebf4afa25b50be9b99900ef830f26f04", null ],
-    [ "Register", "d4/dde/a27598.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
-    [ "Validate", "d4/dde/a27598.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
+    [ "FilterTargets", "d4/dde/a27598.html#ac157503562ac3ef9ddba2c358595ecc5", null ],
+    [ "PrepareSpellScript", "d4/dde/a27598.html#af41d6353088c5565b0027265c9bd4d8b", null ],
+    [ "Register", "d4/dde/a27598.html#a95e386af9016e598e932177cb400fd8b", null ]
 ];

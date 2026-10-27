@@ -1,5 +1,5 @@
 var a05206 =
 [
-    [ "TotemCreated", "db/d0c/a11741.html", "db/d0c/a11741" ],
-    [ "TotemDestroyed", "dc/db6/a11737.html", "dc/db6/a11737" ]
+    [ "SAttackStop", "d1/d35/a11126.html", "d1/d35/a11126" ],
+    [ "SetSheathed", "d1/d60/a11122.html", "d1/d60/a11122" ]
 ];

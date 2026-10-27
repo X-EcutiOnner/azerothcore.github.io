@@ -1,6 +1,6 @@
 var a14342 =
 [
-    [ "cooldown", "dd/d56/a14342.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
-    [ "spell", "dd/d56/a14342.html#a00ee3238030686e1cc66562f7cefb27a", null ],
-    [ "target", "dd/d56/a14342.html#a16e54dbd059baac1b6e7229621339d83", null ]
+    [ "npc_highborne_lamenterAI", "d7/d4d/a14346.html", "d7/d4d/a14346" ],
+    [ "npc_highborne_lamenter", "dd/d56/a14342.html#a40316cf73a688e34e95dd41feef8612a", null ],
+    [ "GetAI", "dd/d56/a14342.html#aad8ccb43b325b797f60a16e338458a1e", null ]
 ];

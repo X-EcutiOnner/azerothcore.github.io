@@ -1,9 +1,7 @@
 var a13866 =
 [
-    [ "npc_dark_fiend", "db/d94/a13866.html#a8c4ebf7ba2f991df7053d40108330609", null ],
-    [ "DamageTaken", "db/d94/a13866.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
-    [ "Reset", "db/d94/a13866.html#a5622d14f84ad8e47da773852f1778d56", null ],
-    [ "UpdateAI", "db/d94/a13866.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
-    [ "_lastVictimGUID", "db/d94/a13866.html#abcccb35701f21d417e3c13709cc24281", null ],
-    [ "_spellCast", "db/d94/a13866.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
+    [ "HandleScriptEffect", "db/d94/a13866.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "db/d94/a13866.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "db/d94/a13866.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "db/d94/a13866.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

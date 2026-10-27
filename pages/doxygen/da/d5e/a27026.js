@@ -1,6 +1,8 @@
 var a27026 =
 [
-    [ "HandleScriptEffect", "da/d5e/a27026.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "da/d5e/a27026.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "da/d5e/a27026.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "CheckCast", "da/d5e/a27026.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
+    [ "PrepareSpellScript", "da/d5e/a27026.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
+    [ "Register", "da/d5e/a27026.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
+    [ "TriggerDebuffs", "da/d5e/a27026.html#a1579b28071e2194625f722a29ded39b8", null ],
+    [ "Validate", "da/d5e/a27026.html#a767853d4b05e055cb32991bfe8c6516a", null ]
 ];

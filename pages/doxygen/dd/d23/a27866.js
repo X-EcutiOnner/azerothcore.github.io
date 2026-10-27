@@ -1,6 +1,6 @@
 var a27866 =
 [
-    [ "HandleDummy", "dd/d23/a27866.html#a68a86f7f86324336dc837622e01fa6af", null ],
-    [ "PrepareSpellScript", "dd/d23/a27866.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
-    [ "Register", "dd/d23/a27866.html#ad168c9164d1edd23abfbf05141b96de4", null ]
+    [ "HandleSchoolDMG", "dd/d23/a27866.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "dd/d23/a27866.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "dd/d23/a27866.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

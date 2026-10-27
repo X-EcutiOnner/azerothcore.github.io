@@ -1,7 +1,6 @@
 var a27834 =
 [
-    [ "FilterTargets", "d9/db5/a27834.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "d9/db5/a27834.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "d9/db5/a27834.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "d9/db5/a27834.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "HandleProc", "d9/db5/a27834.html#afb4fb2152937e62982aab2a17820d1d9", null ],
+    [ "PrepareAuraScript", "d9/db5/a27834.html#a43ec587b6e8ac94baba7253dfec47640", null ],
+    [ "Register", "d9/db5/a27834.html#ad0824cc4c53915239d609aa117fc4691", null ]
 ];

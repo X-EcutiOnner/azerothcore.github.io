@@ -1,7 +1,5 @@
 var a20418 =
 [
-    [ "HandleEffectPeriodic", "d2/d4a/a20418.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "d2/d4a/a20418.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "d2/d4a/a20418.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "d2/d4a/a20418.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "FlameLeviathanPursuedTargetSelector", "d2/d4a/a20418.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
+    [ "operator()", "d2/d4a/a20418.html#aaa2a49366fb651f7486b463ce597f364", null ]
 ];

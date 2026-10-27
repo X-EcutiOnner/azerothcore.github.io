@@ -1,5 +1,7 @@
 var a28166 =
 [
-    [ "go_resonite_cask", "d7/d24/a28166.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
-    [ "OnGossipHello", "d7/d24/a28166.html#aae8591d53a6983886b52d404acdba293", null ]
+    [ "HandleProc", "d7/d24/a28166.html#ae41ac4278c643bcd14ff4ab0ecc6dc46", null ],
+    [ "PrepareAuraScript", "d7/d24/a28166.html#abdb4073728e7e637a8538a238eda2f6d", null ],
+    [ "Register", "d7/d24/a28166.html#a052f2a48c2b30b5e83c95eb4aada0899", null ],
+    [ "Validate", "d7/d24/a28166.html#a04085f70b61ea7ff2073a1cd777eca1b", null ]
 ];

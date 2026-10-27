@@ -1,6 +1,8 @@
 var a07662 =
 [
-    [ "ArenaTeamFilterByTypes", "d2/deb/a07662.html#ac28ee86767c48219dbe141620c87e129", null ],
-    [ "Filter", "d2/deb/a07662.html#a7c04437788359b40db1c0d4492d51497", null ],
-    [ "_validTypes", "d2/deb/a07662.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
+    [ "WintergraspCapturePoint", "d2/deb/a07662.html#a36090feb3626e204e0029ea45f1d8136", null ],
+    [ "ChangeTeam", "d2/deb/a07662.html#a66564dd3237538b256ebeb76d236001f", null ],
+    [ "GetTeam", "d2/deb/a07662.html#a7ff4106591a5aac1ea8820016b8164bb", null ],
+    [ "LinkToWorkshop", "d2/deb/a07662.html#a32d378eba7f0eea0f011b8ea8c7e6eee", null ],
+    [ "LinkedWorkshop", "d2/deb/a07662.html#a06d98983a020f1f571812cf7ff0f907a", null ]
 ];

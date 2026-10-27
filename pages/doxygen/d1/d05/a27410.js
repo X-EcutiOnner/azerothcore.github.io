@@ -1,6 +1,6 @@
 var a27410 =
 [
-    [ "HandleAfterCast", "d1/d05/a27410.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d1/d05/a27410.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d1/d05/a27410.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleDummy", "d1/d05/a27410.html#a86ec9b4606ae92b070edd4ca863fe93e", null ],
+    [ "PrepareSpellScript", "d1/d05/a27410.html#a4411e4317053450a0ac5217d546952b2", null ],
+    [ "Register", "d1/d05/a27410.html#a9eea8631e0723555a9c328bdfc1e30b7", null ]
 ];

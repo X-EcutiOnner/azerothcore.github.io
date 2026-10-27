@@ -1,7 +1,6 @@
 var a13250 =
 [
-    [ "FilterTargets", "d9/d27/a13250.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "d9/d27/a13250.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "d9/d27/a13250.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "d9/d27/a13250.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "boss_mr_smiteAI", "db/d70/a13254.html", "db/d70/a13254" ],
+    [ "boss_mr_smite", "d9/d27/a13250.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "d9/d27/a13250.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

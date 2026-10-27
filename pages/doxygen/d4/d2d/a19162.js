@@ -1,8 +1,7 @@
 var a19162 =
 [
-    [ "OnApply", "d4/d2d/a19162.html#ab36c99093a1659e65cd7e41524fdeeff", null ],
-    [ "OnRemove", "d4/d2d/a19162.html#a433df999703d10b8d5001af75e8b2c97", null ],
-    [ "PrepareAuraScript", "d4/d2d/a19162.html#af6c809fb292cafd052b22b345df23b7f", null ],
-    [ "Register", "d4/d2d/a19162.html#ad116dbd8b69a1f7e8951a170b1872d97", null ],
-    [ "Validate", "d4/d2d/a19162.html#a9d122f2335fdab34791e2eedff022aef", null ]
+    [ "npc_frost_freeze_trapAI", "d4/d2d/a19162.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "d4/d2d/a19162.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "d4/d2d/a19162.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "d4/d2d/a19162.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

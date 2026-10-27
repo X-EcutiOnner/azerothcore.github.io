@@ -1,6 +1,7 @@
 var a28326 =
 [
-    [ "go_bellsAI", "de/d08/a28330.html", "de/d08/a28330" ],
-    [ "go_bells", "d9/d59/a28326.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "d9/d59/a28326.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "npc_spirit_shadeAI", "d9/d59/a28326.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d9/d59/a28326.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d9/d59/a28326.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d9/d59/a28326.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

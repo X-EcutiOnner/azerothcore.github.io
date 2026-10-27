@@ -1,6 +1,6 @@
 var a18486 =
 [
-    [ "UnchainedMagicTargetSelector", "d4/db4/a18486.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "d4/db4/a18486.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "d4/db4/a18486.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "OnRemove", "d4/db4/a18486.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d4/db4/a18486.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d4/db4/a18486.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

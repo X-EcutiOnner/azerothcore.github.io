@@ -1,6 +1,6 @@
 var a04448 =
 [
-    [ "SpellProcTargetResolutionTest", "d3/dbd/a30217.html", null ],
+    [ "SpellProcTargetResolutionTest", "d5/d5d/a30254.html", null ],
     [ "ResolveProcTriggerTarget", "d5/d8e/a04448.html#ae0ceced3da7b46834d403b94be7bd498", null ],
     [ "TEST_F", "d5/d8e/a04448.html#a94bb580a1521b12b0dc26d91b4d9e3ca", null ],
     [ "TEST_F", "d5/d8e/a04448.html#adc4f7536f5fbc531ee25c5e2e8aa823c", null ],

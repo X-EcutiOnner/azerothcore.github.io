@@ -1,7 +1,6 @@
 var a16486 =
 [
-    [ "boss_sartharion_shadron", "d5/de6/a16486.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
-    [ "ExecuteEvent", "d5/de6/a16486.html#a1f1a235d4d5654e273ef821ebf962491", null ],
-    [ "Reset", "d5/de6/a16486.html#a8511eb55a486665a248d555337c25002", null ],
-    [ "SummonedCreatureDies", "d5/de6/a16486.html#a3967c70698675d2c925a1a0366bf1d00", null ]
+    [ "PrepareSpellScript", "d5/de6/a16486.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
+    [ "Register", "d5/de6/a16486.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
+    [ "SetDest", "d5/de6/a16486.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
 ];

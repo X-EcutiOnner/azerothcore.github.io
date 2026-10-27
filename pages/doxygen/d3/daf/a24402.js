@@ -1,9 +1,5 @@
 var a24402 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "d3/daf/a24402.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "d3/daf/a24402.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "d3/daf/a24402.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "d3/daf/a24402.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "d3/daf/a24402.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "d3/daf/a24402.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "npc_karynaku", "d3/daf/a24402.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
+    [ "OnQuestAccept", "d3/daf/a24402.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
 ];

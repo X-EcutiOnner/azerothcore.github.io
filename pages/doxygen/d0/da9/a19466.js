@@ -1,7 +1,6 @@
 var a19466 =
 [
-    [ "OnApply", "d0/da9/a19466.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "d0/da9/a19466.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "d0/da9/a19466.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "d0/da9/a19466.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "npc_icc_putricades_trapAI", "d3/d82/a19470.html", "d3/d82/a19470" ],
+    [ "npc_icc_putricades_trap", "d0/da9/a19466.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "d0/da9/a19466.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

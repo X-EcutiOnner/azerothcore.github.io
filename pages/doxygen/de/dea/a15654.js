@@ -1,9 +1,10 @@
 var a15654 =
 [
-    [ "npc_giant_eye_tentacle", "de/dea/a15654.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "de/dea/a15654.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "de/dea/a15654.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "de/dea/a15654.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "de/dea/a15654.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "de/dea/a15654.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "boss_moam", "de/dea/a15654.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "de/dea/a15654.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "de/dea/a15654.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "de/dea/a15654.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "de/dea/a15654.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "de/dea/a15654.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "de/dea/a15654.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

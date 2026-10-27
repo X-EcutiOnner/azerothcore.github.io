@@ -1,7 +1,7 @@
 var a11894 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "d1/da3/a11894.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "d1/da3/a11894.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "d1/da3/a11894.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "d1/da3/a11894.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "IsValidOpcode", "d1/da3/a11894.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "d1/da3/a11894.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "d1/da3/a11894.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "d1/da3/a11894.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

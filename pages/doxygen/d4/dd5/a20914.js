@@ -1,9 +1,7 @@
 var a20914 =
 [
-    [ "GetRandomToyPile", "d4/dd5/a20914.html#a4e119696b212c6a57f11b284c2bb0c82", null ],
-    [ "HandleScript", "d4/dd5/a20914.html#a62eb106c6a55406adc682b372a94aaef", null ],
-    [ "PrepareSpellScript", "d4/dd5/a20914.html#acb19b4f65324ce419004e969274c4816", null ],
-    [ "Register", "d4/dd5/a20914.html#aba572e339d50b51cb33d04270d29b733", null ],
-    [ "Validate", "d4/dd5/a20914.html#a59acb2775caa76c05797d7c8dfd0f3fb", null ],
-    [ "ToyPileSearchDistance", "d4/dd5/a20914.html#aa7c7f5e7298e89e431464105d5d8bbdf", null ]
+    [ "go_razorscale_harpoonAI", "d2/d22/a20918.html", "d2/d22/a20918" ],
+    [ "go_razorscale_harpoon", "d4/dd5/a20914.html#a68e5414333ca5ed4ec2de2da5f1756d4", null ],
+    [ "GetAI", "d4/dd5/a20914.html#a89a25716733ed0f589ce50eab8466453", null ],
+    [ "OnGossipHello", "d4/dd5/a20914.html#ac6ea67384010725c56daab8c4f58c7ff", null ]
 ];

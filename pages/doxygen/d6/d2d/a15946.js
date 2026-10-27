@@ -1,8 +1,17 @@
 var a15946 =
 [
-    [ "npc_aged_dying_ancient_kodo", "d6/d2d/a15946.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
-    [ "JustRespawned", "d6/d2d/a15946.html#ab401f9002bd49b26cc0526112e715d1e", null ],
-    [ "MoveInLineOfSight", "d6/d2d/a15946.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
-    [ "sGossipHello", "d6/d2d/a15946.html#a8bd41050426cdee7da37d1370e5a7363", null ],
-    [ "SpellHit", "d6/d2d/a15946.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
+    [ "npc_muglashAI", "d6/d2d/a15946.html#af1988703aaaac04e5853c33e5b915ca2", null ],
+    [ "DoAction", "d6/d2d/a15946.html#afba6c4441ff4da54f89709b3c2bcd4d4", null ],
+    [ "DoWaveSummon", "d6/d2d/a15946.html#aaf862468f5ba0c6f99056a81a472c6e2", null ],
+    [ "JustDied", "d6/d2d/a15946.html#a5936dd183091c462e4835a00f81020f5", null ],
+    [ "JustEngagedWith", "d6/d2d/a15946.html#a587c8cb4562e93cecccb20e93cabba05", null ],
+    [ "JustSummoned", "d6/d2d/a15946.html#a07e451149dbf6b72e01f94dc8f07edf3", null ],
+    [ "Reset", "d6/d2d/a15946.html#a98933c32f2550989356b3e876d302b88", null ],
+    [ "sQuestAccept", "d6/d2d/a15946.html#a6c93a53a7b8bcd200ebca0e9d366f6fe", null ],
+    [ "UpdateAI", "d6/d2d/a15946.html#a6b479f50428536997faef96e510dbd84", null ],
+    [ "WaypointReached", "d6/d2d/a15946.html#a8f91b74c0d8778a73e0bc95dce339f2b", null ],
+    [ "WaypointReached", "d6/d2d/a15946.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_isBrazierExtinguished", "d6/d2d/a15946.html#aeec098d6a65b6852598a4e4b6888a410", null ],
+    [ "eventTimer", "d6/d2d/a15946.html#a548e142bb509b4606b6fcf98d926cd44", null ],
+    [ "waveId", "d6/d2d/a15946.html#a06c0af398e53b5ea6bfd6fa80256f845", null ]
 ];

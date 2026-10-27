@@ -1,9 +1,15 @@
 var a18778 =
 [
-    [ "HandleScript", "db/d3c/a18778.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "db/d3c/a18778.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "db/d3c/a18778.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "db/d3c/a18778.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "db/d3c/a18778.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "db/d3c/a18778.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "npc_tirion_fordringAI", "db/d3c/a18778.html#aa0f94cef85e96cda4a2e280eaa7110de", null ],
+    [ "CanAIAttack", "db/d3c/a18778.html#a1bdef323e9c7364fab789abc39ef00a0", null ],
+    [ "DoAction", "db/d3c/a18778.html#a5fd5b3fde84ed04c794546d11fe946d7", null ],
+    [ "EnterEvadeMode", "db/d3c/a18778.html#a1275cee8f49c67920041ad8d50c62aa4", null ],
+    [ "JustReachedHome", "db/d3c/a18778.html#a6e6c7c2f4f8e60126fd4adc42fe3b4f4", null ],
+    [ "MovementInform", "db/d3c/a18778.html#a7284240c4eafbc80748d5e2867a64a9f", null ],
+    [ "Reset", "db/d3c/a18778.html#ac41e569535322bb5907fa4116bbac739", null ],
+    [ "sGossipSelect", "db/d3c/a18778.html#a56599a97f019121160b2f6ac43019772", null ],
+    [ "SpellHit", "db/d3c/a18778.html#ae68b900f87c646cfb3ece5518b59e687", null ],
+    [ "UpdateAI", "db/d3c/a18778.html#a3f729624820266f1cf1e5577c5047c3b", null ],
+    [ "_events", "db/d3c/a18778.html#a7bb0d243cc9b3e836dd99864f2a5e669", null ],
+    [ "_instance", "db/d3c/a18778.html#a223a7f09ae03971487bb55e770503f7e", null ]
 ];

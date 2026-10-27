@@ -1,9 +1,8 @@
 var a21646 =
 [
-    [ "npc_bloodmage_laurithAI", "df/df0/a21646.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "df/df0/a21646.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "df/df0/a21646.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
-    [ "UpdateAI", "df/df0/a21646.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "df/df0/a21646.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "df/df0/a21646.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "boss_moragg", "df/df0/a21646.html#a42d2508369286e5e635d47cce0b939f4", null ],
+    [ "EnterEvadeMode", "df/df0/a21646.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
+    [ "ExecuteEvent", "df/df0/a21646.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
+    [ "JustEngagedWith", "df/df0/a21646.html#a29da7214373c1919b65f3512655c8bc3", null ],
+    [ "MoveInLineOfSight", "df/df0/a21646.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
 ];

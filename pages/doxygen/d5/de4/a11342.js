@@ -1,9 +1,11 @@
 var a11342 =
 [
-    [ "EnchantmentLog", "d5/de4/a11342.html#a4427184d166b18e984dc301a6786aac3", null ],
-    [ "Write", "d5/de4/a11342.html#a17752d3e862c1915f8479058a4be1eb7", null ],
-    [ "Caster", "d5/de4/a11342.html#ae35a0c689357cf4b5a031f40314a7045", null ],
-    [ "EnchantId", "d5/de4/a11342.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
-    [ "ItemId", "d5/de4/a11342.html#ad393d5f227bb81738582572bd2601650", null ],
-    [ "Target", "d5/de4/a11342.html#a9ef981f750bee2101c1f886fa2514913", null ]
+    [ "SaveGuildEmblem", "d5/de4/a11342.html#ae3e507a567dfbead91c84629008539d2", null ],
+    [ "Read", "d5/de4/a11342.html#aeea281ed99165947de4b5d1b4449ea5d", null ],
+    [ "BColor", "d5/de4/a11342.html#a48cfbac2214bfc406d8bc80c175dac8f", null ],
+    [ "Bg", "d5/de4/a11342.html#a53e3f146f6a925bbe1fdae2105b79952", null ],
+    [ "BStyle", "d5/de4/a11342.html#a44fdd025f87e13db6d83afca6c49f5f8", null ],
+    [ "EColor", "d5/de4/a11342.html#ad3775c0839dd9aeb5a708a26ea4ec640", null ],
+    [ "EStyle", "d5/de4/a11342.html#a60c52a080284fabe96c579f39fb0834f", null ],
+    [ "Vendor", "d5/de4/a11342.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0", null ]
 ];

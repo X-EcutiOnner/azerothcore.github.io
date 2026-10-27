@@ -1,9 +1,6 @@
 var a15370 =
 [
-    [ "boss_chrono_lord_deja", "d4/d4b/a15370.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "d4/d4b/a15370.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "d4/d4b/a15370.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "d4/d4b/a15370.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "d4/d4b/a15370.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "d4/d4b/a15370.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "boss_mal_ganisAI", "d5/d36/a15374.html", "d5/d36/a15374" ],
+    [ "boss_mal_ganis", "d4/d4b/a15370.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "d4/d4b/a15370.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

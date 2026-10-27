@@ -1,8 +1,9 @@
 var a26658 =
 [
-    [ "HandleApply", "d3/d73/a26658.html#aafdf3712f163919f010d11d0becb398f", null ],
-    [ "HandleRemove", "d3/d73/a26658.html#ac3e33cb37d13b633f3938a48917a4975", null ],
-    [ "PrepareAuraScript", "d3/d73/a26658.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
-    [ "Register", "d3/d73/a26658.html#a84e7337494dc2e1772ca10dea26c675f", null ],
-    [ "Validate", "d3/d73/a26658.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
+    [ "HandleAfterCast", "d3/d73/a26658.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "d3/d73/a26658.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "d3/d73/a26658.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "d3/d73/a26658.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "d3/d73/a26658.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "d3/d73/a26658.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

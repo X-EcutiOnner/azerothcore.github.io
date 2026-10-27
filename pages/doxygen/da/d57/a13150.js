@@ -1,10 +1,7 @@
 var a13150 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "da/d57/a13150.html#a0080fdf557ad8159a8934dce5b39a535", null ],
-    [ "OnCreatureCreate", "da/d57/a13150.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
-    [ "OnGameObjectCreate", "da/d57/a13150.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
-    [ "ReadSaveDataMore", "da/d57/a13150.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
-    [ "SetData", "da/d57/a13150.html#af800a1906c532f61f0299f8aa9359a66", null ],
-    [ "WriteSaveDataMore", "da/d57/a13150.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
-    [ "_encounters", "da/d57/a13150.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
+    [ "HandlePeriodic", "da/d57/a13150.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "da/d57/a13150.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "da/d57/a13150.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "da/d57/a13150.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

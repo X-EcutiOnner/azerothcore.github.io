@@ -1,6 +1,7 @@
 var a16734 =
 [
-    [ "npc_memoryAI", "dd/d62/a16738.html", "dd/d62/a16738" ],
-    [ "npc_memory", "d6/d32/a16734.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "d6/d32/a16734.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "HandlePeriodic", "d6/d32/a16734.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
+    [ "PrepareAuraScript", "d6/d32/a16734.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
+    [ "Register", "d6/d32/a16734.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
+    [ "Validate", "d6/d32/a16734.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
 ];

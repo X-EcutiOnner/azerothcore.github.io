@@ -1,6 +1,10 @@
 var a12638 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "d7/de8/a12642.html", "d7/de8/a12642" ],
-    [ "npc_av_marshal_or_warmaster", "db/d7f/a12638.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
-    [ "GetAI", "db/d7f/a12638.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
+    [ "mmaps_commandscript", "db/d7f/a12638.html#a1dbdfd26bdb685315a3012453080a56f", null ],
+    [ "GetCommands", "db/d7f/a12638.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
+    [ "HandleMmapLoadedTilesCommand", "db/d7f/a12638.html#a40d5b7e733298210c686fe89490b6f61", null ],
+    [ "HandleMmapLocCommand", "db/d7f/a12638.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
+    [ "HandleMmapPathCommand", "db/d7f/a12638.html#a2c876439ad6d9ff7523f140d97743dea", null ],
+    [ "HandleMmapStatsCommand", "db/d7f/a12638.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
+    [ "HandleMmapTestArea", "db/d7f/a12638.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
 ];

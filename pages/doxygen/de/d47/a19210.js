@@ -1,7 +1,6 @@
 var a19210 =
 [
-    [ "HandleScript", "de/d47/a19210.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "de/d47/a19210.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "de/d47/a19210.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "de/d47/a19210.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "npc_captain_rupertAI", "d4/dbd/a19214.html", "d4/dbd/a19214" ],
+    [ "npc_captain_rupert", "de/d47/a19210.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
+    [ "GetAI", "de/d47/a19210.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
 ];

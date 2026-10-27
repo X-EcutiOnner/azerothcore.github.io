@@ -1,6 +1,16 @@
 var a29598 =
 [
-    [ "auraName", "da/d54/a29598.html#a953f930e046655ca0d8f373362d3f334", null ],
-    [ "isAlwaysTriggeredAura", "da/d54/a29598.html#a05786c8e0daef9a2da98f832c230d99c", null ],
-    [ "procFlags", "da/d54/a29598.html#aed48a1ad923118ac0a86d864e1e98519", null ]
+    [ "amount", "da/d54/a29598.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
+    [ "aura_id", "da/d54/a29598.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
+    [ "charges", "da/d54/a29598.html#ade74be0906ef080347ac81ed48379cd1", null ],
+    [ "description", "da/d54/a29598.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
+    [ "EnchantmentCondition", "da/d54/a29598.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
+    [ "GemID", "da/d54/a29598.html#a324fd42b7184f5c626c33323a4d72b07", null ],
+    [ "ID", "da/d54/a29598.html#af46fa8808024e75705b812b695bd1590", null ],
+    [ "requiredLevel", "da/d54/a29598.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
+    [ "requiredSkill", "da/d54/a29598.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
+    [ "requiredSkillValue", "da/d54/a29598.html#a7a57764dad60c9369826638c1355127e", null ],
+    [ "slot", "da/d54/a29598.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
+    [ "spellid", "da/d54/a29598.html#a694edc79cf8ba571338bff2a3aad512d", null ],
+    [ "type", "da/d54/a29598.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
 ];

@@ -1,6 +1,7 @@
 var a07654 =
 [
-    [ "ArenaSeasonRewardDistributor", "d5/d4d/a07654.html#a9b60eb5be0be5c1be68b9c371c99f28c", null ],
-    [ "DistributeRewards", "d5/d4d/a07654.html#a93640633dc11edda2cd1fce4f1da496b", null ],
-    [ "_rewarder", "d5/d4d/a07654.html#af2801ea5d098bebac111589e1fcf7004", null ]
+    [ "BfGraveyardWG", "d5/d4d/a07654.html#a040af569e6633e4ed4c7513b55d034ac", null ],
+    [ "GetTextId", "d5/d4d/a07654.html#a618b778d8bed11627150a88e2f4e349b", null ],
+    [ "SetTextId", "d5/d4d/a07654.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
+    [ "GossipTextId", "d5/d4d/a07654.html#af197f40de908ed650229bbf033836778", null ]
 ];

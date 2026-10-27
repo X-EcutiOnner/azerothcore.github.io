@@ -1,6 +1,6 @@
 var a16578 =
 [
-    [ "boss_halionAI", "d4/d4a/a16582.html", "d4/d4a/a16582" ],
-    [ "boss_halion", "d5/d9e/a16578.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
-    [ "GetAI", "d5/d9e/a16578.html#a142314efb4f45ec146ab0225271d29b1", null ]
+    [ "HandleScriptEffect", "d5/d9e/a16578.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d5/d9e/a16578.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d5/d9e/a16578.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

@@ -1,7 +1,6 @@
 var a19426 =
 [
-    [ "OnRemove", "df/dd9/a19426.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "df/dd9/a19426.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "df/dd9/a19426.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "df/dd9/a19426.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "npc_icc_severed_essenceAI", "de/db7/a19430.html", "de/db7/a19430" ],
+    [ "npc_icc_severed_essence", "df/dd9/a19426.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
+    [ "GetAI", "df/dd9/a19426.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
 ];

@@ -1,5 +1,7 @@
 var a17370 =
 [
-    [ "at_hor_shadow_throne", "de/d5f/a17370.html#a342808808be75079acf6a2f930afe930", null ],
-    [ "OnTrigger", "de/d5f/a17370.html#a47deb4d6506e859d90fcf16d72e43d9c", null ]
+    [ "HandleScriptEffect", "de/d5f/a17370.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "de/d5f/a17370.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "de/d5f/a17370.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "de/d5f/a17370.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

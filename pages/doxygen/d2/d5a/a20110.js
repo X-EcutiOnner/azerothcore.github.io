@@ -1,6 +1,6 @@
 var a20110 =
 [
-    [ "go_celestial_planetarium_accessAI", "d5/d32/a20114.html", "d5/d32/a20114" ],
-    [ "go_celestial_planetarium_access", "d2/d5a/a20110.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "d2/d5a/a20110.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d5/d32/a20114.html", "d5/d32/a20114" ],
+    [ "instance_halls_of_lightning", "d2/d5a/a20110.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "d2/d5a/a20110.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

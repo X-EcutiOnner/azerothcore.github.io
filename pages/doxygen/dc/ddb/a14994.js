@@ -1,7 +1,6 @@
 var a14994 =
 [
-    [ "CheckProc", "dc/ddb/a14994.html#a4be98e79967d43908c0f642caab59348", null ],
-    [ "OnApply", "dc/ddb/a14994.html#a30d33268b58507c228a4628031bffca0", null ],
-    [ "PrepareAuraScript", "dc/ddb/a14994.html#a16dc3f52152d63b5512690c761f9915a", null ],
-    [ "Register", "dc/ddb/a14994.html#a6494e4d7277e910ffa3b30c333117f00", null ]
+    [ "HandleScript", "dc/ddb/a14994.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
+    [ "PrepareSpellScript", "dc/ddb/a14994.html#a26b296c1c4d9f5193dc3773509267284", null ],
+    [ "Register", "dc/ddb/a14994.html#aad66e4079ea9404b9057546d8959a395", null ]
 ];

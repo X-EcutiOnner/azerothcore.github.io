@@ -1,6 +1,7 @@
 var a15658 =
 [
-    [ "FilterTargets", "de/d57/a15658.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
-    [ "PrepareSpellScript", "de/d57/a15658.html#a511e54100036307aa5d37bc959405c73", null ],
-    [ "Register", "de/d57/a15658.html#a31d1d590f0e6fc2e56322d606961828f", null ]
+    [ "FilterTargets", "de/d57/a15658.html#a59e477333a54ec828a429d15b35d4936", null ],
+    [ "HandleScript", "de/d57/a15658.html#a983fe53aa52e53a45685055fde04a3b7", null ],
+    [ "PrepareSpellScript", "de/d57/a15658.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
+    [ "Register", "de/d57/a15658.html#a45ac61990990f16c98eaa7136297afc5", null ]
 ];

@@ -1,5 +1,6 @@
 var a28290 =
 [
-    [ "go_jotunheim_cage", "da/d89/a28290.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "da/d89/a28290.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "AreaTrigger_at_area_52_entrance", "da/d89/a28290.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "da/d89/a28290.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "da/d89/a28290.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

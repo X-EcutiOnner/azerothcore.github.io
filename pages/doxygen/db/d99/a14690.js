@@ -1,6 +1,5 @@
 var a14690 =
 [
-    [ "npc_brewfest_keg_reciver", "db/d99/a14690.html#af12e7608f3f715650e6c265ac18920e4", null ],
-    [ "MoveInLineOfSight", "db/d99/a14690.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
-    [ "sGossipSelect", "db/d99/a14690.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
+    [ "npc_brain_wash_totem", "db/d99/a14690.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "db/d99/a14690.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

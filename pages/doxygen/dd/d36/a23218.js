@@ -1,6 +1,5 @@
 var a23218 =
 [
-    [ "OnPeriodic", "dd/d36/a23218.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
-    [ "PrepareAuraScript", "dd/d36/a23218.html#a8444053fa146a4163ea905634be78dfc", null ],
-    [ "Register", "dd/d36/a23218.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
+    [ "npc_vengeful_spirit", "dd/d36/a23218.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
+    [ "OnCharmed", "dd/d36/a23218.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
 ];

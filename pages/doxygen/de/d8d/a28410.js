@@ -1,10 +1,6 @@
 var a28410 =
 [
-    [ "go_evil_book_for_dummies", "de/d8d/a28410.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "de/d8d/a28410.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "de/d8d/a28410.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "de/d8d/a28410.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "de/d8d/a28410.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "de/d8d/a28410.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "de/d8d/a28410.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "go_heatAI", "de/d8d/a28410.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
+    [ "UpdateAI", "de/d8d/a28410.html#a2332206ee47b2cea9e4707d16ea79325", null ],
+    [ "timer", "de/d8d/a28410.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
 ];

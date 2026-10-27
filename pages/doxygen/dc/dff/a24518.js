@@ -1,7 +1,6 @@
 var a24518 =
 [
-    [ "CheckProc", "dc/dff/a24518.html#a64414347ed5e132c3268451653082821", null ],
-    [ "HandleProc", "dc/dff/a24518.html#a8a3eab47b8214b59275aeaa8a02e4240", null ],
-    [ "PrepareAuraScript", "dc/dff/a24518.html#a88277eeea14f7799e27a4a897e6e8c0c", null ],
-    [ "Register", "dc/dff/a24518.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89", null ]
+    [ "PrepareSpellScript", "dc/dff/a24518.html#a190f6dc3d9b336324da29f627a743fe9", null ],
+    [ "Register", "dc/dff/a24518.html#a3afc8035b852bc31abd3228e88d59819", null ],
+    [ "SetDest", "dc/dff/a24518.html#a85d66a58597954501305ad5b674cc8a2", null ]
 ];

@@ -1,6 +1,6 @@
 var a11746 =
 [
-    [ "WorldSessionFilter", "dd/d9e/a11746.html#aba91eb2dfd56201534743b2d458fa111", null ],
-    [ "~WorldSessionFilter", "dd/d9e/a11746.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
-    [ "Process", "dd/d9e/a11746.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
+    [ "PushQuestToParty", "dd/d9e/a11746.html#a3c49c83653ef26f2dcaf5c73c29066e0", null ],
+    [ "Read", "dd/d9e/a11746.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c", null ],
+    [ "QuestId", "dd/d9e/a11746.html#a0d30347159622093b52d0936d93a63bf", null ]
 ];

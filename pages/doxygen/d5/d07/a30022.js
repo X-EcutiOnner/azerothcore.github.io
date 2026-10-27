@@ -1,12 +1,9 @@
 var a30022 =
 [
-    [ "cellSizeHorizontal", "d5/d07/a30022.html#a5356c03dab90621b69de7a79ed4ab195", null ],
-    [ "cellSizeVertical", "d5/d07/a30022.html#a47b5a920afa39ae27a80241d58f152a3", null ],
-    [ "tileOverrides", "d5/d07/a30022.html#a129437291e75a919e4158bf1df0f7f0a", null ],
-    [ "vertexPerMapEdge", "d5/d07/a30022.html#a9d32da8787f54a7dadb86458319e0238", null ],
-    [ "vertexPerTileEdge", "d5/d07/a30022.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
-    [ "walkableClimb", "d5/d07/a30022.html#a2bd854b374d67d53b03a7bacf0785726", null ],
-    [ "walkableHeight", "d5/d07/a30022.html#a1de27edad5c45f8033ce74352c563f52", null ],
-    [ "walkableRadius", "d5/d07/a30022.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
-    [ "walkableSlopeAngle", "d5/d07/a30022.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
+    [ "SetUp", "d5/d07/a30022.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
+    [ "TearDown", "d5/d07/a30022.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
+    [ "_distributor", "d5/d07/a30022.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
+    [ "_mockRewarder", "d5/d07/a30022.html#ad466c2751d8e9739db56f9f82d15deff", null ],
+    [ "_previousWorld", "d5/d07/a30022.html#aef822a2309df5d13af31ea5a5da74df7", null ],
+    [ "_worldMock", "d5/d07/a30022.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
 ];

@@ -1,6 +1,5 @@
 var a07610 =
 [
-    [ "attackText", "da/d42/a07610.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
-    [ "takenText", "da/d42/a07610.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
-    [ "worldstate", "da/d42/a07610.html#a342ef087df4f9326952728c2192a3da3", null ]
+    [ "AuctionSearchAdd", "da/d42/a07610.html#a40116c721d736fe362a3dab56e6b3113", null ],
+    [ "searchableAuctionEntry", "da/d42/a07610.html#a48e000b0e7d9411676fd2ccacf283163", null ]
 ];

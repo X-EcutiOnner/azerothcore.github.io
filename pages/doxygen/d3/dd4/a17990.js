@@ -1,6 +1,6 @@
 var a17990 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "df/dcf/a17994.html", "df/dcf/a17994" ],
-    [ "npc_muradin_bronzebeard_igb", "d3/dd4/a17990.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "d3/dd4/a17990.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "npc_saurfang_eventAI", "df/dcf/a17994.html", "df/dcf/a17994" ],
+    [ "npc_saurfang_event", "d3/dd4/a17990.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "d3/dd4/a17990.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

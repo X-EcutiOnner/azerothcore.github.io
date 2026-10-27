@@ -1,5 +1,6 @@
 var a24094 =
 [
-    [ "go_warmaul_prison", "d2/d51/a24094.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "d2/d51/a24094.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "HandleScriptEffect", "d2/d51/a24094.html#a724e857ad8604ef4546c8823bb7bd632", null ],
+    [ "PrepareSpellScript", "d2/d51/a24094.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
+    [ "Register", "d2/d51/a24094.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
 ];

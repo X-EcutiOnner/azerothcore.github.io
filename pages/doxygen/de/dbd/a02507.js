@@ -1,8 +1,8 @@
 var a02507 =
 [
-    [ "BG_AV_NodeInfo", "db/d8b/a07833.html", "db/d8b/a07833" ],
-    [ "BattlegroundAVScore", "d5/daf/a07837.html", "d5/daf/a07837" ],
-    [ "BattlegroundAV", "d6/de3/a07841.html", "d6/de3/a07841" ],
+    [ "BG_AV_NodeInfo", "d8/d56/a07846.html", "d8/d56/a07846" ],
+    [ "BattlegroundAVScore", "d8/d6c/a07850.html", "d8/d6c/a07850" ],
+    [ "BattlegroundAV", "d8/dd3/a07854.html", "d8/dd3/a07854" ],
     [ "AV_EVENT_START_BATTLE", "de/dbd/a02507.html#a333f1c045e3883c4f54cc0de87aa6dc3", null ],
     [ "BG_AV_CAPTIME", "de/dbd/a02507.html#adba9089f02e391f1f399363010d17252", null ],
     [ "BG_AV_GET_COMMANDER", "de/dbd/a02507.html#a3864f63a19a39505b3a45326ddb31d21", null ],
@@ -146,7 +146,9 @@ var a02507 =
       [ "AV_CPLACE_TRIGGER19", "de/dbd/a02507.html#acf9b441a5ca76e5a780d043ec5721258a255455e34f9600d30736e9453dd7eecc", null ],
       [ "AV_CPLACE_MAX", "de/dbd/a02507.html#acf9b441a5ca76e5a780d043ec5721258ab7e144fe1c975f6f4e2b6edb82a83b9c", null ],
       [ "AV_CPLACE_A_BOSS", "de/dbd/a02507.html#acf9b441a5ca76e5a780d043ec5721258a907bec956dafe65c33c20bbd8edb00ae", null ],
-      [ "AV_CPLACE_H_BOSS", "de/dbd/a02507.html#acf9b441a5ca76e5a780d043ec5721258ae839b462387dce33bdf6e31ae65feb39", null ]
+      [ "AV_CPLACE_H_BOSS", "de/dbd/a02507.html#acf9b441a5ca76e5a780d043ec5721258ae839b462387dce33bdf6e31ae65feb39", null ],
+      [ "AV_CPLACE_A_CAPTAIN", "de/dbd/a02507.html#acf9b441a5ca76e5a780d043ec5721258a40bf3a63b7ee6283cd62b050bfc94160", null ],
+      [ "AV_CPLACE_H_CAPTAIN", "de/dbd/a02507.html#acf9b441a5ca76e5a780d043ec5721258a464118a1441867856602421a673777c1", null ]
     ] ],
     [ "BG_AV_Graveyards", "de/dbd/a02507.html#a7dfac7271124660b33f5abfce15beab3", [
       [ "AV_GRAVE_STORM_AID", "de/dbd/a02507.html#a7dfac7271124660b33f5abfce15beab3a588c5375516d62c6dac4be68cd218f03", null ],

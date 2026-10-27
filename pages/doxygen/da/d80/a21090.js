@@ -1,6 +1,6 @@
 var a21090 =
 [
-    [ "CheckCast", "da/d80/a21090.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "da/d80/a21090.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "da/d80/a21090.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "HandleScript", "da/d80/a21090.html#aade3cab1f80d1762bfad48407f4b91cc", null ],
+    [ "PrepareSpellScript", "da/d80/a21090.html#ab20e548d7c0a837ee4cb7198c09e53ee", null ],
+    [ "Register", "da/d80/a21090.html#a48a0a37b8e6f799ee9035bb766fd6db2", null ]
 ];

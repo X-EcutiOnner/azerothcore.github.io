@@ -1,5 +1,6 @@
 var a11634 =
 [
-    [ "QuestGiverQuestAutoLaunch", "d5/def/a11634.html#a802f7bba88a650bc577cfc1fa29cb016", null ],
-    [ "Read", "d5/def/a11634.html#a8e5d0c7821d7055fd7ad9f3f83589f57", null ]
+    [ "PetStopAttack", "d5/def/a11634.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "d5/def/a11634.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "d5/def/a11634.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

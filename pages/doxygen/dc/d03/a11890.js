@@ -1,12 +1,9 @@
 var a11890 =
 [
-    [ "WorldObjectSpellTargetCheck", "dc/d03/a11890.html#a370a66c484d486ac6d2d3419a019c7cd", null ],
-    [ "~WorldObjectSpellTargetCheck", "dc/d03/a11890.html#a1d519b04f171d230b21da3cc637497cf", null ],
-    [ "operator()", "dc/d03/a11890.html#a2ae263977948d2195b22a737c36bad20", null ],
-    [ "_caster", "dc/d03/a11890.html#ac090f8e47bcdfccb85fb791856355827", null ],
-    [ "_condList", "dc/d03/a11890.html#a70b9331b5871e2e4d92d642715c8192a", null ],
-    [ "_condSrcInfo", "dc/d03/a11890.html#a288c53998aa7b744f6e3eaeba68fe6d8", null ],
-    [ "_referer", "dc/d03/a11890.html#a1a24eaafdf716de984a5943e049d10f7", null ],
-    [ "_spellInfo", "dc/d03/a11890.html#a66bd07338943ee307be19f22326b29b7", null ],
-    [ "_targetSelectionType", "dc/d03/a11890.html#a0e629a6fd0da179ea0c98c93d2337603", null ]
+    [ "EncryptableAndCompressiblePacket", "dc/d03/a11890.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
+    [ "CompressIfNeeded", "dc/d03/a11890.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
+    [ "NeedsCompression", "dc/d03/a11890.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
+    [ "NeedsEncryption", "dc/d03/a11890.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
+    [ "_encrypt", "dc/d03/a11890.html#a37a68eddad23001a85a4a2f77e237810", null ],
+    [ "SocketQueueLink", "dc/d03/a11890.html#a88f11ce75f439fd290bdc09156d559c2", null ]
 ];

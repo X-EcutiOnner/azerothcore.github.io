@@ -1,9 +1,12 @@
 var a12394 =
 [
-    [ "autobroadcast_commandscript", "db/d64/a12394.html#a00946e483860809c8b1d92e773c8eeef", null ],
-    [ "GetCommands", "db/d64/a12394.html#a01d7689785a4267ac4bd57bfc0d269e9", null ],
-    [ "HandleAutobroadcastAddCommand", "db/d64/a12394.html#a4217bea8d83682acbdd64a225c839227", null ],
-    [ "HandleAutobroadcastListCommand", "db/d64/a12394.html#a0e4a07fd036d66fc5639a8e29fd45392", null ],
-    [ "HandleAutobroadcastLocaleCommand", "db/d64/a12394.html#aaebf528b045b05b038d2a3f8801d3c85", null ],
-    [ "HandleAutobroadcastRemoveCommand", "db/d64/a12394.html#af6445843506ac2b4c2b5c158480aab8c", null ]
+    [ "Action", "db/d64/a12394.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "db/d64/a12394.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "db/d64/a12394.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "db/d64/a12394.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "db/d64/a12394.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "db/d64/a12394.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "db/d64/a12394.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "db/d64/a12394.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "db/d64/a12394.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

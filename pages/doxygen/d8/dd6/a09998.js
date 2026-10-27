@@ -1,7 +1,7 @@
 var a09998 =
 [
-    [ "AddonHandler", "d8/dd6/a09998.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "d8/dd6/a09998.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "d8/dd6/a09998.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "d8/dd6/a09998.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "PowerCheck", "d8/dd6/a09998.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
+    [ "operator()", "d8/dd6/a09998.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
+    [ "_equals", "d8/dd6/a09998.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
+    [ "_power", "d8/dd6/a09998.html#a922a57b62b4289835b539a69b0f58fa1", null ]
 ];

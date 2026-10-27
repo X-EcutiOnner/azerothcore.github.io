@@ -1,6 +1,7 @@
 var a20738 =
 [
-    [ "npc_razorscale_spawner", "db/de2/a20738.html#afbc71f46d2ac919dae274c7581357d34", null ],
-    [ "Reset", "db/de2/a20738.html#afdfee27c6933d00f3e8d8fb1d8381e19", null ],
-    [ "UpdateAI", "db/de2/a20738.html#a0de302ea1ace44cc2f065cae130166cb", null ]
+    [ "FilterTargetsInitial", "db/de2/a20738.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "db/de2/a20738.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "db/de2/a20738.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "db/de2/a20738.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

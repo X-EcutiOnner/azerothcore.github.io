@@ -1,5 +1,5 @@
 var a28378 =
 [
-    [ "item_generic_limit_chance_above_60", "d8/de3/a28378.html#abc18809810f0a7668020d01c482be84b", null ],
-    [ "OnCastItemCombatSpell", "d8/de3/a28378.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
+    [ "go_ethereum_prison", "d8/de3/a28378.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "d8/de3/a28378.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

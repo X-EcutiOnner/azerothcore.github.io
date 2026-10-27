@@ -1,11 +1,9 @@
 var a13134 =
 [
-    [ "boss_mr_smiteAI", "d6/d2d/a13134.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
-    [ "JustEngagedWith", "d6/d2d/a13134.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
-    [ "MovementInform", "d6/d2d/a13134.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
-    [ "Reset", "d6/d2d/a13134.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
-    [ "UpdateAI", "d6/d2d/a13134.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
-    [ "events", "d6/d2d/a13134.html#a3471692c39233f3c25cdc875c0078f2c", null ],
-    [ "health34", "d6/d2d/a13134.html#adc83683c2f6a7073469cd2f5aa325717", null ],
-    [ "health67", "d6/d2d/a13134.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
+    [ "HandleAfterApply", "d6/d2d/a13134.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
+    [ "HandleAfterRemove", "d6/d2d/a13134.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
+    [ "PeriodicTick", "d6/d2d/a13134.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
+    [ "PrepareAuraScript", "d6/d2d/a13134.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
+    [ "Register", "d6/d2d/a13134.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
+    [ "Validate", "d6/d2d/a13134.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
 ];

@@ -1,6 +1,6 @@
 var a22882 =
 [
-    [ "PrepareAuraScript", "d5/dc4/a22882.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "d5/dc4/a22882.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "d5/dc4/a22882.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d9/dbd/a22886.html", "d9/dbd/a22886" ],
+    [ "instance_sethekk_halls", "d5/dc4/a22882.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "d5/dc4/a22882.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

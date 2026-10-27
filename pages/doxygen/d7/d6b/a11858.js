@@ -1,11 +1,11 @@
 var a11858 =
 [
-    [ "SpellValue", "d7/d6b/a11858.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
-    [ "AuraDuration", "d7/d6b/a11858.html#af44c190ba8a8636d78f8d271656bdd02", null ],
-    [ "AuraStackAmount", "d7/d6b/a11858.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
-    [ "EffectBasePoints", "d7/d6b/a11858.html#a4de44adea4dc620f0871215e4d4f611d", null ],
-    [ "ForcedCritResult", "d7/d6b/a11858.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
-    [ "MaxAffectedTargets", "d7/d6b/a11858.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
-    [ "MiscVal", "d7/d6b/a11858.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
-    [ "RadiusMod", "d7/d6b/a11858.html#a135bbce8300101411e87a70467dbbd57", null ]
+    [ "Player", "d7/d6b/a11858.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d7/d6b/a11858.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Face", "d7/d6b/a11858.html#a6334464eea38be514f3faa7538b39a5a", null ],
+    [ "FacialHair", "d7/d6b/a11858.html#a44643270b211d275eb94283842791407", null ],
+    [ "Gender", "d7/d6b/a11858.html#a14321ea3595debe2836eceab8a82f944", null ],
+    [ "HairColor", "d7/d6b/a11858.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
+    [ "HairStyle", "d7/d6b/a11858.html#ade5b2dff213547ab4d707070f8979085", null ],
+    [ "Skin", "d7/d6b/a11858.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
 ];

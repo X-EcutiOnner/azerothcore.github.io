@@ -1,6 +1,9 @@
 var a15410 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "db/de2/a15414.html", "db/de2/a15414" ],
-    [ "instance_dire_maul", "d4/dd7/a15410.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "d4/dd7/a15410.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "npc_crate_helperAI", "d4/dd7/a15410.html#ad58a2f3746da7862658fb3b9e1580836", null ],
+    [ "GetCrateId", "d4/dd7/a15410.html#ae034fd80a80a1300a10e68dc97600f2a", null ],
+    [ "SpellHit", "d4/dd7/a15410.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
+    [ "StartCitizenRP", "d4/dd7/a15410.html#a557bd9e25cba056e7f44cb5a85c026d9", null ],
+    [ "StartCrateRP", "d4/dd7/a15410.html#a20b659d82d9552207ad972da01ea5e2d", null ],
+    [ "_marked", "d4/dd7/a15410.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
 ];

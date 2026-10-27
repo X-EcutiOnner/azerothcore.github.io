@@ -1,7 +1,6 @@
 var a18938 =
 [
-    [ "npc_blazing_skeletonAI", "de/db7/a18938.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "de/db7/a18938.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "de/db7/a18938.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "de/db7/a18938.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "npc_spirit_wardenAI", "dd/d0d/a18942.html", "dd/d0d/a18942" ],
+    [ "npc_spirit_warden", "de/db7/a18938.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "de/db7/a18938.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

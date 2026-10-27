@@ -1,10 +1,9 @@
 var a07894 =
 [
-    [ "ChannelRights", "d1/d53/a07894.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
-    [ "ChannelRights", "d1/d53/a07894.html#a7beaed8c82905e7c019c799153e862c4", null ],
-    [ "flags", "d1/d53/a07894.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
-    [ "joinMessage", "d1/d53/a07894.html#af8797ef8c642f3a954b1581fb54ed545", null ],
-    [ "moderators", "d1/d53/a07894.html#ac80f92b9e633bf309970179b32e29cee", null ],
-    [ "speakDelay", "d1/d53/a07894.html#a9883582d36b8cc67ab5d649670441000", null ],
-    [ "speakMessage", "d1/d53/a07894.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
+    [ "entry", "d1/d53/a07894.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
+    [ "o", "d1/d53/a07894.html#a785703f50dcafda5888fb76af82a09da", null ],
+    [ "type", "d1/d53/a07894.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
+    [ "x", "d1/d53/a07894.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
+    [ "y", "d1/d53/a07894.html#a908fbf198d908963e77630b42deea147", null ],
+    [ "z", "d1/d53/a07894.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
 ];

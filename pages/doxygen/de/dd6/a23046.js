@@ -1,8 +1,10 @@
 var a23046 =
 [
-    [ "instance_black_temple_InstanceMapScript", "de/dd6/a23046.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
-    [ "OnCreatureCreate", "de/dd6/a23046.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
-    [ "OnGameObjectCreate", "de/dd6/a23046.html#a564a49814ceb3b3161a6476335ab653a", null ],
-    [ "SetBossState", "de/dd6/a23046.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
-    [ "ashtongueGUIDs", "de/dd6/a23046.html#a85fa9c5231f13529a0741b0f92266c90", null ]
+    [ "boss_gathios_the_shatterer", "de/dd6/a23046.html#a34708f52c610e567c5acf62962e90d4e", null ],
+    [ "JustEngagedWith", "de/dd6/a23046.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
+    [ "SelectCouncilMember", "de/dd6/a23046.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
+    [ "UpdateAI", "de/dd6/a23046.html#a1541f1efd3978a4c91b80e411aec6442", null ],
+    [ "_toggleAura", "de/dd6/a23046.html#aa983e2d9018a9e53ee29840781f47c33", null ],
+    [ "_toggleBlessing", "de/dd6/a23046.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
+    [ "_toggleSeal", "de/dd6/a23046.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
 ];

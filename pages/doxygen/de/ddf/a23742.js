@@ -1,10 +1,8 @@
 var a23742 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "de/ddf/a23742.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "de/ddf/a23742.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "de/ddf/a23742.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "de/ddf/a23742.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "de/ddf/a23742.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "de/ddf/a23742.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "de/ddf/a23742.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "boss_broggok", "de/ddf/a23742.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "de/ddf/a23742.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "de/ddf/a23742.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "de/ddf/a23742.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "de/ddf/a23742.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

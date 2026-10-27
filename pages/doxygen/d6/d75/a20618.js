@@ -1,5 +1,7 @@
 var a20618 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "d6/d75/a20618.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "d6/d75/a20618.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "HandleEffectPeriodic", "d6/d75/a20618.html#acddafc5100d667e8fcc034815204f8ce", null ],
+    [ "PrepareAuraScript", "d6/d75/a20618.html#aeee4eeb0d55d084630bf850c0af165a9", null ],
+    [ "Register", "d6/d75/a20618.html#acc96d2a38e4da19e6cd6c72037a24202", null ],
+    [ "Validate", "d6/d75/a20618.html#acacf8df2d00899bed640c1be0d4287f2", null ]
 ];

@@ -1,9 +1,7 @@
 var a14442 =
 [
-    [ "npc_amanishi_scout", "d5/d40/a14442.html#a74bed56c21c184e661f62c30ce6d9140", null ],
-    [ "JustEngagedWith", "d5/d40/a14442.html#a5969fadd871094e993c4d3fe0b08054c", null ],
-    [ "Reset", "d5/d40/a14442.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
-    [ "ScheduleCombat", "d5/d40/a14442.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
-    [ "UpdateAI", "d5/d40/a14442.html#a3740a4fde31e1e81edb34dde61403acc", null ],
-    [ "_drumGUID", "d5/d40/a14442.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
+    [ "Load", "d5/d40/a14442.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "d5/d40/a14442.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "d5/d40/a14442.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "d5/d40/a14442.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

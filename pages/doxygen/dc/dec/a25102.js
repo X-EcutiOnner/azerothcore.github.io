@@ -1,6 +1,7 @@
 var a25102 =
 [
-    [ "HandleDummy", "dc/dec/a25102.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
-    [ "PrepareSpellScript", "dc/dec/a25102.html#af310c2b28ed816b9fbe494f81c42043c", null ],
-    [ "Register", "dc/dec/a25102.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
+    [ "HandleProc", "dc/dec/a25102.html#a43704e8ddf8eb94adf27225eb02135bd", null ],
+    [ "PrepareAuraScript", "dc/dec/a25102.html#a626ebecdbb7e431af364fa9bcde38644", null ],
+    [ "Register", "dc/dec/a25102.html#ab56bed8649452b9ae7ac07bf6ee16641", null ],
+    [ "Validate", "dc/dec/a25102.html#a3699a230042bd646d459bd7dcf73e3b6", null ]
 ];

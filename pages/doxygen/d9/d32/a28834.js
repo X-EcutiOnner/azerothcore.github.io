@@ -1,7 +1,7 @@
 var a28834 =
 [
-    [ "AllocationPct", "d9/d32/a28834.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "d9/d32/a28834.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "d9/d32/a28834.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "d9/d32/a28834.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "npc_crashin_thrashin_robot", "d9/d32/a28834.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "d9/d32/a28834.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "d9/d32/a28834.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "d9/d32/a28834.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

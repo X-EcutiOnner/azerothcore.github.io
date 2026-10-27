@@ -1,11 +1,6 @@
 var a23118 =
 [
-    [ "boss_doomwalker", "d7/d06/a23118.html#a47811086ff98b1a09af5300af94b6c0e", null ],
-    [ "JustDied", "d7/d06/a23118.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
-    [ "JustEngagedWith", "d7/d06/a23118.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
-    [ "KilledUnit", "d7/d06/a23118.html#a2335eb642940397f73ee2a8051624e8e", null ],
-    [ "MoveInLineOfSight", "d7/d06/a23118.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
-    [ "Reset", "d7/d06/a23118.html#aba08b227d629c9f35e59f465e29c267b", null ],
-    [ "UpdateAI", "d7/d06/a23118.html#a3105c50e512c6f709985cece619b131f", null ],
-    [ "_inEnrage", "d7/d06/a23118.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
+    [ "boss_reliquary_of_soulsAI", "db/d03/a23122.html", "db/d03/a23122" ],
+    [ "boss_reliquary_of_souls", "d7/d06/a23118.html#a0c73fc6221da0b19903e534932ca6406", null ],
+    [ "GetAI", "d7/d06/a23118.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
 ];

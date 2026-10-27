@@ -1,5 +1,4 @@
 var a04664 =
 [
-    [ "SessionKey", "d1/d62/a04664.html#a7cbcb71452529a2addaab3b112dba4d7", null ],
-    [ "SESSION_KEY_LENGTH", "d1/d62/a04664.html#accf22e06a217bb405f0ee6f240d2e263", null ]
+    [ "Acore::Crypto::SRP6", "d0/db7/a05562.html", "d0/db7/a05562" ]
 ];

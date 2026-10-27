@@ -1,6 +1,7 @@
 var a15074 =
 [
-    [ "OnAuraRemove", "d4/d55/a15074.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "d4/d55/a15074.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "d4/d55/a15074.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "HandleScript", "d4/d55/a15074.html#a78899a874a645d531dd4d89f2bd5478a", null ],
+    [ "PrepareSpellScript", "d4/d55/a15074.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
+    [ "Register", "d4/d55/a15074.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
+    [ "Validate", "d4/d55/a15074.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
 ];

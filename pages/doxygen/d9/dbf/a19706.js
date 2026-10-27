@@ -1,5 +1,6 @@
 var a19706 =
 [
-    [ "at_naxxramas_hub_portal", "d9/dbf/a19706.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "d9/dbf/a19706.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "WebTargetSelector", "d9/dbf/a19706.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
+    [ "operator()", "d9/dbf/a19706.html#a289821eaae114ba384a9ee9b8c19325f", null ],
+    [ "_maexxna", "d9/dbf/a19706.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
 ];

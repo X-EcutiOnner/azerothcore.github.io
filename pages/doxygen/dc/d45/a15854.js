@@ -1,12 +1,15 @@
 var a15854 =
 [
-    [ "npc_magwinAI", "dc/d45/a15854.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
-    [ "JustEngagedWith", "dc/d45/a15854.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
-    [ "Reset", "dc/d45/a15854.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
-    [ "sQuestAccept", "dc/d45/a15854.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
-    [ "UpdateEscortAI", "dc/d45/a15854.html#a34236331be8842a9e2a98036ea382e18", null ],
-    [ "WaypointReached", "dc/d45/a15854.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
-    [ "WaypointReached", "dc/d45/a15854.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_events", "dc/d45/a15854.html#a32dad2bde92efab7e0f0d16e809df665", null ],
-    [ "_player", "dc/d45/a15854.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
+    [ "boss_viscidus", "dc/d45/a15854.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
+    [ "CheckInRoom", "dc/d45/a15854.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
+    [ "DamageTaken", "dc/d45/a15854.html#adb41e6f64c1fe61cf623539353b0c959", null ],
+    [ "InitSpells", "dc/d45/a15854.html#a24357bfc552ecb5205e50241cadb05f4", null ],
+    [ "JustEngagedWith", "dc/d45/a15854.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
+    [ "Reset", "dc/d45/a15854.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
+    [ "SoftReset", "dc/d45/a15854.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
+    [ "SpellHit", "dc/d45/a15854.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
+    [ "SummonedCreatureDies", "dc/d45/a15854.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
+    [ "UpdateAI", "dc/d45/a15854.html#a1a194c161b485d2abbb862506b6c239f", null ],
+    [ "_hitcounter", "dc/d45/a15854.html#a12ee60a91dab2f95aab6e9914351344a", null ],
+    [ "_phase", "dc/d45/a15854.html#a321f1f96af51d3d70de0cca89512d965", null ]
 ];

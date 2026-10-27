@@ -1,12 +1,13 @@
 var a09486 =
 [
-    [ "GridTerrainLoader", "d7/d8c/a09486.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
-    [ "ExistMap", "d7/d8c/a09486.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
-    [ "ExistVMap", "d7/d8c/a09486.html#a17bdde445c48738ade280bd1cdda0619", null ],
-    [ "LoadMap", "d7/d8c/a09486.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
-    [ "LoadMMap", "d7/d8c/a09486.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
-    [ "LoadTerrain", "d7/d8c/a09486.html#a097556a8a778efa22ab9d50cbda2649a", null ],
-    [ "LoadVMap", "d7/d8c/a09486.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
-    [ "_grid", "d7/d8c/a09486.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
-    [ "_map", "d7/d8c/a09486.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
+    [ "entry", "d7/d8c/a09486.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
+    [ "height", "d7/d8c/a09486.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
+    [ "length", "d7/d8c/a09486.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
+    [ "map", "d7/d8c/a09486.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
+    [ "orientation", "d7/d8c/a09486.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
+    [ "radius", "d7/d8c/a09486.html#ae4195d9f29b425394296009c22654380", null ],
+    [ "width", "d7/d8c/a09486.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
+    [ "x", "d7/d8c/a09486.html#a423077ceaf75c367831a6d9f55427a6f", null ],
+    [ "y", "d7/d8c/a09486.html#a55ab832828addcef1b2f570bda81f2ce", null ],
+    [ "z", "d7/d8c/a09486.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
 ];

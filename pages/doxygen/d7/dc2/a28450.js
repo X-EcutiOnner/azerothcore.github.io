@@ -1,11 +1,7 @@
 var a28450 =
 [
-    [ "npc_franklinAI", "d7/dc2/a28450.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
-    [ "DamageTaken", "d7/dc2/a28450.html#afa494098126ce3291e234cfc2b36336f", null ],
-    [ "JustEngagedWith", "d7/dc2/a28450.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
-    [ "Reset", "d7/dc2/a28450.html#a51a260460facf06ec6bb1486f434d885", null ],
-    [ "ScheduleEncounterStart", "d7/dc2/a28450.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
-    [ "SpellHit", "d7/dc2/a28450.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
-    [ "UpdateAI", "d7/dc2/a28450.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
-    [ "events", "d7/dc2/a28450.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
+    [ "go_darkmoon_faire_musicAI", "d7/dc2/a28450.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
+    [ "UpdateAI", "d7/dc2/a28450.html#af3d802bd852fc0483f72781edb13b5d5", null ],
+    [ "_events", "d7/dc2/a28450.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
+    [ "rnd", "d7/dc2/a28450.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
 ];

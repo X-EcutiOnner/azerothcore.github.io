@@ -1,6 +1,4 @@
 var a12070 =
 [
-    [ "CheckAreaTargetHandler", "d5/d30/a12070.html#a641b633e37079949c8b1b71a32f4222e", null ],
-    [ "Call", "d5/d30/a12070.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
-    [ "pHandlerScript", "d5/d30/a12070.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
+    [ "operator()", "d5/d30/a12070.html#ac27052eb73a3723e8678c92aeeb2f499", null ]
 ];

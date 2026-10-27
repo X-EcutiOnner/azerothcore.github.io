@@ -1,8 +1,6 @@
 var a26526 =
 [
-    [ "CheckProc", "d2/d94/a26526.html#a23dc61d8a007832a37ab7da71c36537d", null ],
-    [ "HandleProc", "d2/d94/a26526.html#a613182c741769d0983206bdfa89242f6", null ],
-    [ "PrepareAuraScript", "d2/d94/a26526.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
-    [ "Register", "d2/d94/a26526.html#acd807de02a83a97a78572d672fb16027", null ],
-    [ "Validate", "d2/d94/a26526.html#a3d2d6f1a00825ac66f507a790f468198", null ]
+    [ "PrepareSpellScript", "d2/d94/a26526.html#ad77d816c82714fe2cafb4dbf48691937", null ],
+    [ "Register", "d2/d94/a26526.html#a313abe6367e5494bd81a557ab42f9f50", null ],
+    [ "SecondaryEffect", "d2/d94/a26526.html#ac12d466f3aeb86a30dc498f10082aab1", null ]
 ];

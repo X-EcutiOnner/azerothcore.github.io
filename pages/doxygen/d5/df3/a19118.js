@@ -1,8 +1,7 @@
 var a19118 =
 [
-    [ "npc_arthas_teleport_visualAI", "d5/df3/a19118.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "d5/df3/a19118.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "d5/df3/a19118.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "d5/df3/a19118.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "d5/df3/a19118.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "HandleForceCast", "d5/df3/a19118.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "d5/df3/a19118.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "d5/df3/a19118.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "d5/df3/a19118.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

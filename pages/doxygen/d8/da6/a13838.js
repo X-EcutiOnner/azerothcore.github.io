@@ -1,8 +1,11 @@
 var a13838 =
 [
-    [ "HandleApply", "d8/da6/a13838.html#a2c64240e8675fc76598600ae2632570f", null ],
-    [ "HandleRemove", "d8/da6/a13838.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
-    [ "PrepareAuraScript", "d8/da6/a13838.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
-    [ "Register", "d8/da6/a13838.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
-    [ "Validate", "d8/da6/a13838.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
+    [ "spell_eredar_twins_handle_touch_periodic", "d8/da6/a13838.html#aa41bba6ce2889eb2a58409b611f53e49", null ],
+    [ "OnPeriodic", "d8/da6/a13838.html#a8d863af82300eacc1456a08f8461d5a7", null ],
+    [ "PrepareAuraScript", "d8/da6/a13838.html#af04b38478379a10c5d94a7e4216ad9fa", null ],
+    [ "Register", "d8/da6/a13838.html#a4908c5c3e6afdf0305dfb4729cfba503", null ],
+    [ "Validate", "d8/da6/a13838.html#aebeee23df951737b99e7a4ab026cbb1b", null ],
+    [ "_aura", "d8/da6/a13838.html#a0b1df96674584554d53688e993c2a310", null ],
+    [ "_effectIndex", "d8/da6/a13838.html#aa873d0475c70db5c5ba9cea802dc3569", null ],
+    [ "_touchSpell", "d8/da6/a13838.html#ae60a5c2918105785805dc45b3942ee4a", null ]
 ];

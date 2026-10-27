@@ -1,6 +1,6 @@
 var a26406 =
 [
-    [ "CheckProc", "d0/d5a/a26406.html#a1642e1c445baac2be49a32797f21ca31", null ],
-    [ "PrepareAuraScript", "d0/d5a/a26406.html#a116d2bc302ca74ae39d98f8d5849e757", null ],
-    [ "Register", "d0/d5a/a26406.html#a8c0d81f8480be1853679d1f2a20ecfbb", null ]
+    [ "HandleEffect", "d0/d5a/a26406.html#a41b46d8918b59a1617f383b3eedfe343", null ],
+    [ "PrepareSpellScript", "d0/d5a/a26406.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
+    [ "Register", "d0/d5a/a26406.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
 ];

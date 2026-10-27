@@ -1,5 +1,5 @@
 var a12878 =
 [
-    [ "at_scarshield_infiltrator", "d9/db6/a12878.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
-    [ "OnTrigger", "d9/db6/a12878.html#aa3af260809534e3184459dfb6f8f7cf0", null ]
+    [ "boss_gloomrel", "d9/db6/a12878.html#a2fe4ce0ddf75725dcb388a346ee13af8", null ],
+    [ "sGossipSelect", "d9/db6/a12878.html#a28b2c02b2a4195c90ce313324f056131", null ]
 ];

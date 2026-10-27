@@ -1,7 +1,10 @@
 var a16898 =
 [
-    [ "npc_toc_druidAI", "de/d11/a16898.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "de/d11/a16898.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "de/d11/a16898.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "de/d11/a16898.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "npc_black_knight_ghoulAI", "de/d11/a16898.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "de/d11/a16898.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "de/d11/a16898.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "de/d11/a16898.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "UpdateAI", "de/d11/a16898.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "de/d11/a16898.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "de/d11/a16898.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

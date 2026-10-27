@@ -1,6 +1,9 @@
 var a27678 =
 [
-    [ "HandleBanish", "d4/d34/a27678.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "d4/d34/a27678.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "d4/d34/a27678.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "CalculateAmount", "d4/d34/a27678.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "d4/d34/a27678.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "d4/d34/a27678.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "d4/d34/a27678.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "d4/d34/a27678.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "d4/d34/a27678.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

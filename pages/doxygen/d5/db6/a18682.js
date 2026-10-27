@@ -1,7 +1,17 @@
 var a18682 =
 [
-    [ "OnPeriodic", "d5/db6/a18682.html#accd12b06341f3168c74cb18926614f7f", null ],
-    [ "OnUpdate", "d5/db6/a18682.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
-    [ "PrepareAuraScript", "d5/db6/a18682.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
-    [ "Register", "d5/db6/a18682.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
+    [ "npc_rimefangAI", "d5/db6/a18682.html#ae89b397bafdcb06e94fa94c18ef0d2c8", null ],
+    [ "DoAction", "d5/db6/a18682.html#a79d34453b3ace5c1f80b12b862890e3c", null ],
+    [ "InitializeAI", "d5/db6/a18682.html#ae515d0b1d383c48e40fa4795edd1b247", null ],
+    [ "JustDied", "d5/db6/a18682.html#ab3cd1550cda44cecf889f4bf28f976ba", null ],
+    [ "JustEngagedWith", "d5/db6/a18682.html#ad161bb0a6c76d223b1e687a1cc604375", null ],
+    [ "JustReachedHome", "d5/db6/a18682.html#a7b15a9c6db1a48c3766afcb41d66b61f", null ],
+    [ "JustRespawned", "d5/db6/a18682.html#a47ed52a4a0511d7b1e3eb4bd5da409ca", null ],
+    [ "MovementInform", "d5/db6/a18682.html#aacd146fbfac94b8f82b3971ff74644cc", null ],
+    [ "Reset", "d5/db6/a18682.html#a8956324e2806393d26bf146f4e2c48b0", null ],
+    [ "UpdateAI", "d5/db6/a18682.html#a00872042199924a14089c1057c479ff7", null ],
+    [ "_events", "d5/db6/a18682.html#ade0c279565236eb3fd59fd43eef4c3e1", null ],
+    [ "_icyBlastCounter", "d5/db6/a18682.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9", null ],
+    [ "_instance", "d5/db6/a18682.html#ad12541907c439117cf8c8a6741c07445", null ],
+    [ "_summoned", "d5/db6/a18682.html#aa27dd1e338145a65915262a8d44f7519", null ]
 ];

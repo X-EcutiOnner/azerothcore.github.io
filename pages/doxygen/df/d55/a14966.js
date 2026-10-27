@@ -1,7 +1,11 @@
 var a14966 =
 [
-    [ "HandleScript", "df/d55/a14966.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "df/d55/a14966.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "df/d55/a14966.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "df/d55/a14966.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "o", "df/d55/a14966.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
+    [ "rot0", "df/d55/a14966.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
+    [ "rot1", "df/d55/a14966.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
+    [ "rot2", "df/d55/a14966.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
+    [ "rot3", "df/d55/a14966.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
+    [ "x", "df/d55/a14966.html#a6e527854cf0959995d6b0133dedc94c9", null ],
+    [ "y", "df/d55/a14966.html#a7536047696bd4883237369976b503131", null ],
+    [ "z", "df/d55/a14966.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
 ];

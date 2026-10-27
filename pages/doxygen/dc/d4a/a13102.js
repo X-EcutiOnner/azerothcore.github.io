@@ -1,6 +1,5 @@
 var a13102 =
 [
-    [ "boss_sulfuron", "dc/d4a/a13102.html#a7ede84fab05e5cb008036be559c3c799", null ],
-    [ "ExecuteEvent", "dc/d4a/a13102.html#a5db50a398c704d8276566c1d74111d19", null ],
-    [ "JustEngagedWith", "dc/d4a/a13102.html#a320f58043ee525656a7c2fe94a2a4371", null ]
+    [ "go_orb_of_domination", "dc/d4a/a13102.html#ad1378efcf7a54adac256a44bbdfe4357", null ],
+    [ "GossipHello", "dc/d4a/a13102.html#a95628cbeeb6b2af6a79546ff3661815e", null ]
 ];

@@ -1,6 +1,6 @@
 var a14590 =
 [
-    [ "npc_ohganAI", "d6/d56/a14594.html", "d6/d56/a14594" ],
-    [ "npc_ohgan", "d2/d7e/a14590.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
-    [ "GetAI", "d2/d7e/a14590.html#a129dc2fcd449850403e0dcb99725da90", null ]
+    [ "boss_gahzranka", "d2/d7e/a14590.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d2/d7e/a14590.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d2/d7e/a14590.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

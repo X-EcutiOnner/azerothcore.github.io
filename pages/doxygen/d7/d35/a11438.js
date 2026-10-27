@@ -1,12 +1,9 @@
 var a11438 =
 [
-    [ "Complain", "d7/d35/a11438.html#aa1cf8c3159d1334186b28c0abf0b5bec", null ],
-    [ "Read", "d7/d35/a11438.html#a5a5cc78c807ce5d1e455bedd283c0f4d", null ],
-    [ "ChannelId", "d7/d35/a11438.html#a134b3bc2c782494fff06b5d83a2b9f98", null ],
-    [ "Description", "d7/d35/a11438.html#a557676064707e2597a10e9b2efc9d09a", null ],
-    [ "MailIdOrMessageType", "d7/d35/a11438.html#a1dc57952838e5eccaefe64f381584f4f", null ],
-    [ "SecondsSinceMessage", "d7/d35/a11438.html#ac436590edc1d7de977edb9472100d9a2", null ],
-    [ "SpammerGuid", "d7/d35/a11438.html#a4a8b664b598624046b26953051a28718", null ],
-    [ "SpamType", "d7/d35/a11438.html#aece15ac467b310fc170844119978aa2a", null ],
-    [ "Unk1", "d7/d35/a11438.html#a7cc02360329a0b67c67fb5798d1e658d", null ]
+    [ "EnchantmentLog", "d7/d35/a11438.html#a4427184d166b18e984dc301a6786aac3", null ],
+    [ "Write", "d7/d35/a11438.html#a17752d3e862c1915f8479058a4be1eb7", null ],
+    [ "Caster", "d7/d35/a11438.html#ae35a0c689357cf4b5a031f40314a7045", null ],
+    [ "EnchantId", "d7/d35/a11438.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
+    [ "ItemId", "d7/d35/a11438.html#ad393d5f227bb81738582572bd2601650", null ],
+    [ "Target", "d7/d35/a11438.html#a9ef981f750bee2101c1f886fa2514913", null ]
 ];

@@ -1,6 +1,6 @@
 var a28110 =
 [
-    [ "boss_emerissAI", "de/d3f/a28114.html", "de/d3f/a28114" ],
-    [ "boss_emeriss", "de/de9/a28110.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "de/de9/a28110.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "HandleScript", "de/de9/a28110.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "de/de9/a28110.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "de/de9/a28110.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

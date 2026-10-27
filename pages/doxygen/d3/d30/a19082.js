@@ -1,6 +1,6 @@
 var a19082 =
 [
-    [ "npc_captain_grondelAI", "d3/d30/a19082.html#afbc971fc03584b87229318309d51a2f5", null ],
-    [ "Reset", "d3/d30/a19082.html#a7d3878822e77fba66891e87e23bd3740", null ],
-    [ "UpdateAI", "d3/d30/a19082.html#a4af8548092b49653805224bd4c0ac0a2", null ]
+    [ "npc_gluttonous_abominationAI", "d7/d07/a19086.html", "d7/d07/a19086" ],
+    [ "npc_gluttonous_abomination", "d3/d30/a19082.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "d3/d30/a19082.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

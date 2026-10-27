@@ -1,6 +1,5 @@
 var a28506 =
 [
-    [ "npc_dancing_flamesAI", "df/d57/a28510.html", "df/d57/a28510" ],
-    [ "npc_dancing_flames", "d1/d3a/a28506.html#adec0401f876ddf159f28fdda8bc4d563", null ],
-    [ "GetAI", "d1/d3a/a28506.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
+    [ "go_arcane_prison", "d1/d3a/a28506.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "d1/d3a/a28506.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

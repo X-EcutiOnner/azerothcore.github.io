@@ -1,5 +1,8 @@
 var a10806 =
 [
-    [ "GenericInstanceMapScript", "d5/db1/a10806.html#a39aef4c434d791f18fc04ea692bf2255", null ],
-    [ "GetInstanceScript", "d5/db1/a10806.html#a8ca7180c1d2f8fb213e8b52bb73b2f76", null ]
+    [ "_OnTrigger", "d5/db1/a10806.html#a6da93a21c84345bd77e467377810e756", null ],
+    [ "AreaTriggerScript", "d5/db1/a10806.html#a8544003872aa5871ee4132e5155ed297", null ],
+    [ "OnTrigger", "d5/db1/a10806.html#a4ac7e4963d36c8163a560dc8401b5f34", null ],
+    [ "ResetAreaTriggerDone", "d5/db1/a10806.html#a3b44c1892c1100028b387d15bfbdae60", null ],
+    [ "ResetAreaTriggerDone", "d5/db1/a10806.html#a3917da4a6f605077720172cda25322ee", null ]
 ];

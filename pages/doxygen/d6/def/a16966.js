@@ -1,6 +1,12 @@
 var a16966 =
 [
-    [ "npc_toc_warriorAI", "d6/d1c/a16970.html", "d6/d1c/a16970" ],
-    [ "npc_toc_warrior", "d6/def/a16966.html#a3e969be07603ef59389106769010660c", null ],
-    [ "GetAI", "d6/def/a16966.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
+    [ "npc_swarm_scarabAI", "d6/def/a16966.html#a0d0cefd52543044773e7df772f90fd37", null ],
+    [ "CanAIAttack", "d6/def/a16966.html#a95a27742f4f7fa1af45964b6270a9558", null ],
+    [ "DoAction", "d6/def/a16966.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
+    [ "JustDied", "d6/def/a16966.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
+    [ "JustEngagedWith", "d6/def/a16966.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
+    [ "Reset", "d6/def/a16966.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
+    [ "UpdateAI", "d6/def/a16966.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
+    [ "despawnTimer", "d6/def/a16966.html#a6d35e43af695ac112b972badb665f06d", null ],
+    [ "determinationTimer", "d6/def/a16966.html#af319dbf16bc1d3939602465f0a87d30c", null ]
 ];

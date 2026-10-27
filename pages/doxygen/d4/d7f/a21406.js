@@ -1,7 +1,6 @@
 var a21406 =
 [
-    [ "PrepareAuraScript", "d4/d7f/a21406.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
-    [ "Register", "d4/d7f/a21406.html#a7225d1f83921e4de06516c1db5a5038a", null ],
-    [ "TriggerFists", "d4/d7f/a21406.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
-    [ "Validate", "d4/d7f/a21406.html#a977897c569245148eb94892bb42d4ca5", null ]
+    [ "boss_palehoofAI", "d6/d2e/a21410.html", "d6/d2e/a21410" ],
+    [ "boss_palehoof", "d4/d7f/a21406.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "d4/d7f/a21406.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];

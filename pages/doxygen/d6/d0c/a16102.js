@@ -1,6 +1,8 @@
 var a16102 =
 [
-    [ "go_wind_stoneAI", "d3/d94/a16106.html", "d3/d94/a16106" ],
-    [ "go_wind_stone", "d6/d0c/a16102.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
-    [ "GetAI", "d6/d0c/a16102.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
+    [ "CheckRequirement", "d6/d0c/a16102.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "d6/d0c/a16102.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "d6/d0c/a16102.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "d6/d0c/a16102.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "d6/d0c/a16102.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

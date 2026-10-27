@@ -1,10 +1,13 @@
 var a23514 =
 [
-    [ "boss_blindeye_the_seer", "d0/d9d/a23514.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
-    [ "JustDied", "d0/d9d/a23514.html#ad70a72b18587da82d26bde8f10d63700", null ],
-    [ "JustEngagedWith", "d0/d9d/a23514.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
-    [ "Reset", "d0/d9d/a23514.html#aabbda75266615f64ce88ce092e68bfa4", null ],
-    [ "UpdateAI", "d0/d9d/a23514.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
-    [ "_scheduler", "d0/d9d/a23514.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
-    [ "instance", "d0/d9d/a23514.html#a74462f26d66da3ca370825858060b1c2", null ]
+    [ "npc_earthen_ring_flamecaller", "d0/d9d/a23514.html#ab402dd321fa0df641b674324386d7591", null ],
+    [ "DoAction", "d0/d9d/a23514.html#af745c83529a34a89c430d6113703fff5", null ],
+    [ "LookOpening", "d0/d9d/a23514.html#adfc752e7700a816b66b639007a1a90fa", null ],
+    [ "MovementInform", "d0/d9d/a23514.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
+    [ "Reset", "d0/d9d/a23514.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
+    [ "SpellHit", "d0/d9d/a23514.html#ab9c5ad7e56033997042031566748ee2b", null ],
+    [ "UpdateAI", "d0/d9d/a23514.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
+    [ "_events", "d0/d9d/a23514.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
+    [ "_instance", "d0/d9d/a23514.html#a79aa6e628a50ed485cc55513c28362dc", null ],
+    [ "_mySpot", "d0/d9d/a23514.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
 ];

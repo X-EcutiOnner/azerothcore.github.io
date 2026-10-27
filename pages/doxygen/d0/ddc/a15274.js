@@ -1,10 +1,7 @@
 var a15274 =
 [
-    [ "boss_meathookAI", "d0/ddc/a15274.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "d0/ddc/a15274.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "d0/ddc/a15274.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "d0/ddc/a15274.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "d0/ddc/a15274.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "d0/ddc/a15274.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "d0/ddc/a15274.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "PeriodicTick", "d0/ddc/a15274.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "d0/ddc/a15274.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "d0/ddc/a15274.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "d0/ddc/a15274.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

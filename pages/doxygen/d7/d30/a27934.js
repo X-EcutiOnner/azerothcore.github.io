@@ -1,6 +1,8 @@
 var a27934 =
 [
-    [ "HandleProc", "d7/d30/a27934.html#a6b321d6ee3002f32b546aeaed0925183", null ],
-    [ "PrepareAuraScript", "d7/d30/a27934.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
-    [ "Register", "d7/d30/a27934.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
+    [ "HandleDummyTick", "d7/d30/a27934.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
+    [ "HandleRemove", "d7/d30/a27934.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
+    [ "PrepareAuraScript", "d7/d30/a27934.html#a06e45d5f63ef1395b5949482e8393098", null ],
+    [ "Register", "d7/d30/a27934.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
+    [ "Validate", "d7/d30/a27934.html#a9a2da4d163a96526e14f5de76798a784", null ]
 ];

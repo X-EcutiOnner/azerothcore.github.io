@@ -1,5 +1,6 @@
 var a19698 =
 [
-    [ "npc_living_poison", "de/da7/a19698.html#a277440068846eac71c795880a16475dd", null ],
-    [ "UpdateAI", "de/da7/a19698.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
+    [ "boss_loathebAI", "d7/df7/a19702.html", "d7/df7/a19702" ],
+    [ "boss_loatheb", "de/da7/a19698.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
+    [ "GetAI", "de/da7/a19698.html#aca9b3a2515777f81b354c01a9727276e", null ]
 ];

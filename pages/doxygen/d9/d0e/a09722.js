@@ -1,8 +1,14 @@
 var a09722 =
 [
-    [ "NearestGameObjectFishingHole", "d9/d0e/a09722.html#ab0e4734202edf26b69881ab85abe1d93", null ],
-    [ "NearestGameObjectFishingHole", "d9/d0e/a09722.html#a256c64e6c82d98349b958647d98bf4ce", null ],
-    [ "operator()", "d9/d0e/a09722.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
-    [ "i_obj", "d9/d0e/a09722.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
-    [ "i_range", "d9/d0e/a09722.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
+    [ "WorldObjectLastSearcher", "d9/d0e/a09722.html#af8baf5ff23a3167a963ade43faec09fc", null ],
+    [ "Visit", "d9/d0e/a09722.html#ac011f150695eb1f3a83536175fd2a016", null ],
+    [ "Visit", "d9/d0e/a09722.html#af5c5a533084c436e0d7de828e1ef82ad", null ],
+    [ "Visit", "d9/d0e/a09722.html#a962a050f568dab037a9a48879eae0f86", null ],
+    [ "Visit", "d9/d0e/a09722.html#a98967233e04c6223361897c02bc0edc5", null ],
+    [ "Visit", "d9/d0e/a09722.html#a94d30e81eb509ff4fd3dac7c207c819b", null ],
+    [ "Visit", "d9/d0e/a09722.html#a39a9d66014df641c0cb08f619f9d8434", null ],
+    [ "i_check", "d9/d0e/a09722.html#a66afc21dd0fd740c2723516b8c33a319", null ],
+    [ "i_mapTypeMask", "d9/d0e/a09722.html#a5689c8aa9120bc545c98ec0916d78d56", null ],
+    [ "i_object", "d9/d0e/a09722.html#a765d65a90639b34a8cf9f42fdd6ae653", null ],
+    [ "i_phaseMask", "d9/d0e/a09722.html#a966213d495a613f33aebaa8ebda7c380", null ]
 ];

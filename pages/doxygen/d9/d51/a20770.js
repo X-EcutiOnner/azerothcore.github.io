@@ -1,6 +1,30 @@
 var a20770 =
 [
-    [ "go_razorscale_mole_machineAI", "d5/d0f/a20774.html", "d5/d0f/a20774" ],
-    [ "go_razorscale_mole_machine", "d9/d51/a20770.html#a94d4c7900c139202cd0e57489ecb5a02", null ],
-    [ "GetAI", "d9/d51/a20770.html#a56de10f80d50b667bfae81994a618304", null ]
+    [ "boss_mimiron", "d9/d51/a20770.html#acb08d1e24173014a7c443dc2eaea76ce", null ],
+    [ "AttackStart", "d9/d51/a20770.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
+    [ "CloseDoorAndButton", "d9/d51/a20770.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
+    [ "EnterEvadeMode", "d9/d51/a20770.html#a9f39f9afa3f561115c4f7e630364f566", null ],
+    [ "GetActiveFlameCount", "d9/d51/a20770.html#a94aed57a03e4710e76338a1f7e20ea55", null ],
+    [ "GetData", "d9/d51/a20770.html#ab3aa6e8702c74ee27fa776c0a9bef77d", null ],
+    [ "JustEngagedWith", "d9/d51/a20770.html#ab9ce3920c2a06deb31bcf25f1b2947a8", null ],
+    [ "JustReachedHome", "d9/d51/a20770.html#a9e84d80c2e194c6d51b9d67d0c72db19", null ],
+    [ "MoveInLineOfSight", "d9/d51/a20770.html#a0b1497cf1fc3cca2db670b74eb4745ee", null ],
+    [ "RegisterFlame", "d9/d51/a20770.html#a879e2e2e8bd5662ec56ae68c9081e813", null ],
+    [ "Reset", "d9/d51/a20770.html#aec9cce9e0fcab78cfcf37e605cc6c08a", null ],
+    [ "ResetGameObjects", "d9/d51/a20770.html#ac3a10be85349fc62ef14ecd937159e61", null ],
+    [ "SetData", "d9/d51/a20770.html#aa9578fe08ab058a64e67935d262224ac", null ],
+    [ "SpellHit", "d9/d51/a20770.html#af4e88527fb72bcbc1dc0a57b6007a461", null ],
+    [ "UnregisterFlame", "d9/d51/a20770.html#a7605afe4b8a08512a7ea7b716e26ca25", null ],
+    [ "UpdateAI", "d9/d51/a20770.html#adea87e321b4c401109ab4c37e314aca2", null ],
+    [ "_achievBombBot", "d9/d51/a20770.html#a916517ab6ec6b4bfe0bcbb445312a9a0", null ],
+    [ "_achievProximityMine", "d9/d51/a20770.html#a1fe4524d60414c100e0489bb77396033", null ],
+    [ "_achievRocketStrike", "d9/d51/a20770.html#a406cf4b6b01e1fbd6e995173c5cade4a", null ],
+    [ "_activeFlames", "d9/d51/a20770.html#a92c7250287a9ba8d65cde3873189ff8d", null ],
+    [ "_allowedFlameSpreadTime", "d9/d51/a20770.html#a34e2409dc2384851746d04301b926fdb", null ],
+    [ "_berserk", "d9/d51/a20770.html#af85af0d10226de45a42a9d3317244e7a", null ],
+    [ "_changeAllowedFlameSpreadTime", "d9/d51/a20770.html#a7d56123e4cc29207b53c0673084ee79e", null ],
+    [ "_hardmode", "d9/d51/a20770.html#af4b21f8bb94becdd9082e39d81003a2b", null ],
+    [ "_isEvading", "d9/d51/a20770.html#aa46c9828cdd36bb353ae75bea6d205b3", null ],
+    [ "_minutesTalkNum", "d9/d51/a20770.html#a4dbed164732f74205cd248afbb2fb46e", null ],
+    [ "_outOfCombatTimer", "d9/d51/a20770.html#a73c2e0d120706ec09638bbc20bda81b6", null ]
 ];

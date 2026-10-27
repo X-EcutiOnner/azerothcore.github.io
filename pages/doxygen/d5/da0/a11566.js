@@ -1,6 +1,7 @@
 var a11566 =
 [
-    [ "NameQuery", "d5/da0/a11566.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
-    [ "Read", "d5/da0/a11566.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
-    [ "Guid", "d5/da0/a11566.html#a52528a68f1c86196e7428f196f93d12b", null ]
+    [ "TrainerBuySucceeded", "d5/da0/a11566.html#ae00367a55429030c107fc8f6bb7db288", null ],
+    [ "Write", "d5/da0/a11566.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
+    [ "SpellID", "d5/da0/a11566.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
+    [ "TrainerGUID", "d5/da0/a11566.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
 ];

@@ -1,8 +1,8 @@
 var a24594 =
 [
-    [ "HandleDamage", "d7/d36/a24594.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "d7/d36/a24594.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "d7/d36/a24594.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "d7/d36/a24594.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "d7/d36/a24594.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "npc_pet_gen_valkyr_guardian", "d7/d36/a24594.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "d7/d36/a24594.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "d7/d36/a24594.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "d7/d36/a24594.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "d7/d36/a24594.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

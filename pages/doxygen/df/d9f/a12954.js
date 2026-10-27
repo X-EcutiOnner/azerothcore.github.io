@@ -1,7 +1,6 @@
 var a12954 =
 [
-    [ "HandlePeriodic", "df/d9f/a12954.html#a72e043202c587e6c12d0b36d679cd071", null ],
-    [ "PrepareAuraScript", "df/d9f/a12954.html#a7ca007283e34855ee825ae160653f4a3", null ],
-    [ "Register", "df/d9f/a12954.html#aebad39c65167042be8db3c3a1811a235", null ],
-    [ "Validate", "df/d9f/a12954.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
+    [ "OrcDeathEvent", "df/d9f/a12954.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
+    [ "Execute", "df/d9f/a12954.html#a293ec6667da669a27fe75965f919cd68", null ],
+    [ "_me", "df/d9f/a12954.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
 ];

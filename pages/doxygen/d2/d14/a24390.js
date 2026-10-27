@@ -1,10 +1,12 @@
 var a24390 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "d2/d14/a24390.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "d2/d14/a24390.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "d2/d14/a24390.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "d2/d14/a24390.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "d2/d14/a24390.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "d2/d14/a24390.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "d2/d14/a24390.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "npc_enslaved_netherwing_drake", "d2/d14/a24390.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
+    [ "_GetPlayer", "d2/d14/a24390.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
+    [ "JustDied", "d2/d14/a24390.html#acde70c9d8c675a9a9dd14695dc752184", null ],
+    [ "MovementInform", "d2/d14/a24390.html#afa030a380365daa33c156a0d6be6a6d9", null ],
+    [ "Reset", "d2/d14/a24390.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
+    [ "SpellHit", "d2/d14/a24390.html#a195794e88870a0b1ca35473f5f0378a7", null ],
+    [ "UpdateAI", "d2/d14/a24390.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
+    [ "_playerGUID", "d2/d14/a24390.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
+    [ "_tapped", "d2/d14/a24390.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
 ];

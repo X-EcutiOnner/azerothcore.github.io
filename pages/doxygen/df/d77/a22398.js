@@ -1,6 +1,6 @@
 var a22398 =
 [
-    [ "go_wg_vehicle_teleporterAI", "dd/dc1/a22402.html", "dd/dc1/a22402" ],
-    [ "go_wg_vehicle_teleporter", "df/d77/a22398.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
-    [ "GetAI", "df/d77/a22398.html#a113aaf42c095000c1a016bfe60df11e7", null ]
+    [ "npc_vekjik", "df/d77/a22398.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "df/d77/a22398.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "df/d77/a22398.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

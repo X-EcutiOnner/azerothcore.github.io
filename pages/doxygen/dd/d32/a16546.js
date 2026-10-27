@@ -1,6 +1,7 @@
 var a16546 =
 [
-    [ "npc_xerestraszaAI", "d9/dea/a16550.html", "d9/dea/a16550" ],
-    [ "npc_xerestrasza", "dd/d32/a16546.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
-    [ "GetAI", "dd/d32/a16546.html#a5e0ede0054969d4787db56781dc55846", null ]
+    [ "HandleEffectRemove", "dd/d32/a16546.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "dd/d32/a16546.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "dd/d32/a16546.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "dd/d32/a16546.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

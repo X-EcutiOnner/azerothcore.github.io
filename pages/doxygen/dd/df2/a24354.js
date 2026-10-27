@@ -1,5 +1,7 @@
 var a24354 =
 [
-    [ "npc_pet_dk_dancing_rune_weapon", "dd/df2/a24354.html#ac838b907d56c97a911d7c7454c65e180", null ],
-    [ "InitializeAI", "dd/df2/a24354.html#aafeac4a22f366591d6d66b6150e099e2", null ]
+    [ "CheckRequirement", "dd/df2/a24354.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "dd/df2/a24354.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "dd/df2/a24354.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "dd/df2/a24354.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

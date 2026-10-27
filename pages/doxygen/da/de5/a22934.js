@@ -1,8 +1,11 @@
 var a22934 =
 [
-    [ "HandleEffectApply", "da/de5/a22934.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "da/de5/a22934.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "da/de5/a22934.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "da/de5/a22934.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "da/de5/a22934.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "boss_gurtogg_bloodboil", "da/de5/a22934.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "da/de5/a22934.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "da/de5/a22934.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "da/de5/a22934.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "da/de5/a22934.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "da/de5/a22934.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "da/de5/a22934.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "da/de5/a22934.html#add25677d422b8bddcb753465451f0584", null ]
 ];

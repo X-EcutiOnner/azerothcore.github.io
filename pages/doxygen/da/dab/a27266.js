@@ -1,8 +1,6 @@
 var a27266 =
 [
-    [ "CheckCast", "da/dab/a27266.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
-    [ "CheckQuest", "da/dab/a27266.html#abc927d932c1d5e05eab1918364d68ed5", null ],
-    [ "HandleActiveObject", "da/dab/a27266.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
-    [ "PrepareSpellScript", "da/dab/a27266.html#a96e69476965cc2466213a5371a57093a", null ],
-    [ "Register", "da/dab/a27266.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
+    [ "CheckRequirement", "da/dab/a27266.html#acaae3858de4d56028e3cb4581a57450c", null ],
+    [ "PrepareSpellScript", "da/dab/a27266.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
+    [ "Register", "da/dab/a27266.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
 ];

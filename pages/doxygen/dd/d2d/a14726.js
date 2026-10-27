@@ -1,6 +1,6 @@
 var a14726 =
 [
-    [ "HandleEffectApply", "dd/d2d/a14726.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
-    [ "PrepareAuraScript", "dd/d2d/a14726.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
-    [ "Register", "dd/d2d/a14726.html#a2b39daf6fe325cfa909b964da62c2571", null ]
+    [ "LaunchHit", "dd/d2d/a14726.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
+    [ "PrepareSpellScript", "dd/d2d/a14726.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
+    [ "Register", "dd/d2d/a14726.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
 ];

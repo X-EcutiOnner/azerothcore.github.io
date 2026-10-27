@@ -1,6 +1,15 @@
 var a24474 =
 [
-    [ "PrepareSpellScript", "d8/dd8/a24474.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
-    [ "RecalculateDamage", "d8/dd8/a24474.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
-    [ "Register", "d8/dd8/a24474.html#a834484683d2d782b4f4c027091108172", null ]
+    [ "dragonmaw_race_npc", "d8/dd8/a24474.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
+    [ "FailQuest", "d8/dd8/a24474.html#a15a1223f9dc5d3979485a753687f169e", null ],
+    [ "FinishRace", "d8/dd8/a24474.html#a2439f54aca4ff28c23d351245099a4fc", null ],
+    [ "MovementInform", "d8/dd8/a24474.html#ad0b4ef357605a44a4188c29292303dcf", null ],
+    [ "PathEndReached", "d8/dd8/a24474.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
+    [ "Reset", "d8/dd8/a24474.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
+    [ "sQuestAccept", "d8/dd8/a24474.html#a539fcaf1dc25a34531d032032c19182e", null ],
+    [ "StartRace", "d8/dd8/a24474.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
+    [ "StartRaceAttacks", "d8/dd8/a24474.html#a341528843b89a29711f60a1b932da616", null ],
+    [ "TakeOff", "d8/dd8/a24474.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
+    [ "UpdateAI", "d8/dd8/a24474.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
+    [ "_playerGUID", "d8/dd8/a24474.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
 ];

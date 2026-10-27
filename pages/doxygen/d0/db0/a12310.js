@@ -1,12 +1,9 @@
 var a12310 =
 [
-    [ "WardenMac", "d0/db0/a12310.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
-    [ "~WardenMac", "d0/db0/a12310.html#a5f3832580c73a0af34fa83669a92ceab", null ],
-    [ "GetModuleForClient", "d0/db0/a12310.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
-    [ "HandleData", "d0/db0/a12310.html#a024be47d39641cb0e7654b0e0999e444", null ],
-    [ "HandleHashResult", "d0/db0/a12310.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
-    [ "Init", "d0/db0/a12310.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
-    [ "InitializeModule", "d0/db0/a12310.html#a4fceef34e83db1a357d9eadce35efdef", null ],
-    [ "RequestChecks", "d0/db0/a12310.html#a2437a3a5650305b05fc22d312d0006da", null ],
-    [ "RequestHash", "d0/db0/a12310.html#af031f18554c5a96b4eb39371a92b9c51", null ]
+    [ "CreatureTextLocalizer", "d0/db0/a12310.html#a799f1007b9977224d71da1451c3454e1", null ],
+    [ "~CreatureTextLocalizer", "d0/db0/a12310.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
+    [ "operator()", "d0/db0/a12310.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
+    [ "_builder", "d0/db0/a12310.html#a1d8d97d3e423810d044a8155b182899d", null ],
+    [ "_msgType", "d0/db0/a12310.html#adf9260955b0141e85ff47c66350244e2", null ],
+    [ "_packetCache", "d0/db0/a12310.html#a660b352a1c1855f4b10a8aebef88133f", null ]
 ];

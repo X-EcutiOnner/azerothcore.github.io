@@ -1,12 +1,9 @@
 var a28466 =
 [
-    [ "npc_elder_clearwaterAI", "df/dd6/a28466.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
-    [ "DoAction", "df/dd6/a28466.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
-    [ "GetData", "df/dd6/a28466.html#a077c02bf06b16439225a5cf8d83babf2", null ],
-    [ "UpdateAI", "df/dd6/a28466.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
-    [ "events", "df/dd6/a28466.html#a267fec22dc3d7272cae74267d0567618", null ],
-    [ "finished", "df/dd6/a28466.html#af51d6abb8fc8b59d068156a4859a377e", null ],
-    [ "finishWarning", "df/dd6/a28466.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
-    [ "preWarning", "df/dd6/a28466.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
-    [ "startWarning", "df/dd6/a28466.html#a01545211dec4338ac44304ebc7f18a97", null ]
+    [ "go_gilded_brazierAI", "df/dd6/a28466.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "df/dd6/a28466.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "df/dd6/a28466.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "df/dd6/a28466.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "df/dd6/a28466.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "df/dd6/a28466.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

@@ -1,7 +1,8 @@
 var a16606 =
 [
-    [ "npc_orb_carrierAI", "de/d4c/a16606.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "de/d4c/a16606.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "de/d4c/a16606.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "de/d4c/a16606.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "boss_sartharion_vesperon", "de/d4c/a16606.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
+    [ "ClearInstance", "de/d4c/a16606.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
+    [ "ExecuteEvent", "de/d4c/a16606.html#aefc42452e75c476aef39ba0df3a03d70", null ],
+    [ "Reset", "de/d4c/a16606.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
+    [ "SummonedCreatureDies", "de/d4c/a16606.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
 ];

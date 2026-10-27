@@ -1,7 +1,10 @@
 var a29882 =
 [
-    [ "SetUp", "d6/d20/a29882.html#a63d060f7643fc3d35eb4f0fd082f1af4", null ],
-    [ "TearDown", "d6/d20/a29882.html#a685e2dbb620ab792ed3e952cf2b5dab8", null ],
-    [ "_originalWorld", "d6/d20/a29882.html#aec7f3f7af8f936fb2419cee4be837eb7", null ],
-    [ "_worldMock", "d6/d20/a29882.html#a2d10e74ba4f778b395a48eb68a586711", null ]
+    [ "TestMap", "d6/d20/a29882.html#aca5be96dac80e8b0cd031a689f6cad66", null ],
+    [ "~TestMap", "d6/d20/a29882.html#a7175511302d9c67cce7b870ec70551de", null ],
+    [ "EnsureDBC", "d6/d20/a29882.html#a2a117f615eafa6336e09defee91574b5", null ],
+    [ "SetIsDungeon", "d6/d20/a29882.html#afa3e639a3a6b54c4efa917008400c37b", null ],
+    [ "SetIsRaid", "d6/d20/a29882.html#ae577d4dc38ec92f11fab263d28455213", null ],
+    [ "SetMapType", "d6/d20/a29882.html#a19013737f70a4d2362f88651b4e1a4b4", null ],
+    [ "_fakeMapEntry", "d6/d20/a29882.html#afc183278ef7cd421df30ad878321f122", null ]
 ];

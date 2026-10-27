@@ -1,7 +1,11 @@
 var a22102 =
 [
-    [ "Absorb", "df/d1d/a22102.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "df/d1d/a22102.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "df/d1d/a22102.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "df/d1d/a22102.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_emilyAI", "df/d1d/a22102.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "df/d1d/a22102.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "df/d1d/a22102.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "df/d1d/a22102.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "df/d1d/a22102.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "WaypointReached", "df/d1d/a22102.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_mrfloppyGUID", "df/d1d/a22102.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "df/d1d/a22102.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

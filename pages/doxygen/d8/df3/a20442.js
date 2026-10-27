@@ -1,6 +1,7 @@
 var a20442 =
 [
-    [ "id", "d8/df3/a20442.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "d8/df3/a20442.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "d8/df3/a20442.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "HandleScript", "d8/df3/a20442.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d8/df3/a20442.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d8/df3/a20442.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d8/df3/a20442.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

@@ -1,23 +1,7 @@
 var a04922 =
 [
-    [ "MetricData", "dc/dd8/a05769.html", "dc/dd8/a05769" ],
-    [ "Metric", "da/d6e/a05773.html", "da/d6e/a05773" ],
-    [ "MetricStopWatch< LoggerType >", "d6/d08/a05777.html", "d6/d08/a05777" ],
-    [ "METRIC_CONCAT", "de/de4/a04922.html#ad81585df46d4cee988a1222012dbabf1", null ],
-    [ "METRIC_DETAILED_EVENT", "de/de4/a04922.html#ac782d1c3265f7b707782545777d49d05", null ],
-    [ "METRIC_DETAILED_NO_THRESHOLD_TIMER", "de/de4/a04922.html#a281633f6f8b252d96029ce8fd29da746", null ],
-    [ "METRIC_DETAILED_TIMER", "de/de4/a04922.html#a22dcbf78f0d280a4b2b4e0662034efe9", null ],
-    [ "METRIC_DO_CONCAT", "de/de4/a04922.html#aa861206b38b55c4f39f1ed649defb338", null ],
-    [ "METRIC_EVENT", "de/de4/a04922.html#ad57573999508dbc7a2c953379996b542", null ],
-    [ "METRIC_TAG", "de/de4/a04922.html#ab81b5769123c1e5e3870b9b05f25fe0a", null ],
-    [ "METRIC_TIMER", "de/de4/a04922.html#ad88ae7d281622a32a700443aa3dc51f9", null ],
-    [ "METRIC_UNIQUE_NAME", "de/de4/a04922.html#adf91483a75eca0531263536ce38d9339", null ],
-    [ "METRIC_VALUE", "de/de4/a04922.html#a92aedc832ddfc479ecc61289f12be449", null ],
-    [ "sMetric", "de/de4/a04922.html#a4e89926204845a9c9e315d6f0abec5ef", null ],
-    [ "MetricTag", "de/de4/a04922.html#a8fdc9a93c03faef11e4c36679e79e3f1", null ],
-    [ "MetricDataType", "de/de4/a04922.html#a0bb9cc086e32544cb0e43338f83d8e62", [
-      [ "METRIC_DATA_VALUE", "de/de4/a04922.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155", null ],
-      [ "METRIC_DATA_EVENT", "de/de4/a04922.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2", null ]
-    ] ],
-    [ "MakeMetricStopWatch", "de/de4/a04922.html#ab339934305abce426aa1d43c99d65e9f", null ]
+    [ "GetBuildDirectory", "de/de4/a04922.html#ae2280b7f7c56992a4c3ae6e33d6c8a4b", null ],
+    [ "GetCMakeCommand", "de/de4/a04922.html#af38bc6d6ef36ab9b44b7bf5446659672", null ],
+    [ "GetMySQLExecutable", "de/de4/a04922.html#abdfee61576e0a7c64d7bb6a516ab69b7", null ],
+    [ "GetSourceDirectory", "de/de4/a04922.html#a84544d0c16175b62a0894c34fee2b6d7", null ]
 ];

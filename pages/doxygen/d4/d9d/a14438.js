@@ -1,15 +1,12 @@
 var a14438 =
 [
-    [ "npc_amanishi_tempest", "d4/d9d/a14438.html#a8e15b39501998e9f8c45baef0963d160", null ],
-    [ "DoAction", "d4/d9d/a14438.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
-    [ "EnterEvadeMode", "d4/d9d/a14438.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
-    [ "JustDied", "d4/d9d/a14438.html#aadda903d17a5f4560ce2db896bd7b257", null ],
-    [ "JustEngagedWith", "d4/d9d/a14438.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
-    [ "JustSummoned", "d4/d9d/a14438.html#aac72fdc33051370c3cffa388f466b6be", null ],
-    [ "Reset", "d4/d9d/a14438.html#aa921f85142f9103bea839bdc0330e1cc", null ],
-    [ "ScheduleEvents", "d4/d9d/a14438.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
-    [ "SummonedCreatureEvade", "d4/d9d/a14438.html#a61eebb122c9288c826cdf352c17e0590", null ],
-    [ "UpdateAI", "d4/d9d/a14438.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
-    [ "_instance", "d4/d9d/a14438.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
-    [ "_summons", "d4/d9d/a14438.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
+    [ "npc_akilzon_eagle", "d4/d9d/a14438.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
+    [ "JustEngagedWith", "d4/d9d/a14438.html#aa5c3d77a1086ad90397d47f081b25476", null ],
+    [ "MoveInLineOfSight", "d4/d9d/a14438.html#adefd384b8a273ca52343d836a399f3cb", null ],
+    [ "MovementInform", "d4/d9d/a14438.html#abf69be0c32356e65e6d451c33fb389f0", null ],
+    [ "Reset", "d4/d9d/a14438.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
+    [ "UpdateAI", "d4/d9d/a14438.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
+    [ "arrived", "d4/d9d/a14438.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
+    [ "EagleSwoop_Timer", "d4/d9d/a14438.html#a37a5861ef690729e2a8bfafddce168be", null ],
+    [ "TargetGUID", "d4/d9d/a14438.html#a14d4f82f932569d24f6014ad39640619", null ]
 ];

@@ -1,7 +1,8 @@
 var a13246 =
 [
-    [ "npc_malchezaar_axe", "dd/d72/a13246.html#a1a5615f2def10add30e7917b770ebc74", null ],
-    [ "Initialize", "dd/d72/a13246.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
-    [ "JustEngagedWith", "dd/d72/a13246.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
-    [ "UpdateAI", "dd/d72/a13246.html#a202ba6922a426f87909eefbccd070175", null ]
+    [ "npc_lava_spawn", "dd/d72/a13246.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "dd/d72/a13246.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "dd/d72/a13246.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "dd/d72/a13246.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "dd/d72/a13246.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

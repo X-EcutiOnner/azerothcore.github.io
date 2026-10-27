@@ -1,7 +1,9 @@
 var a09902 =
 [
-    [ "PowerCheck", "d8/dd7/a09902.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
-    [ "operator()", "d8/dd7/a09902.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
-    [ "_equals", "d8/dd7/a09902.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
-    [ "_power", "d8/dd7/a09902.html#a922a57b62b4289835b539a69b0f58fa1", null ]
+    [ "NearestHostileUnitCheck", "d8/dd7/a09902.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "d8/dd7/a09902.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "d8/dd7/a09902.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "d8/dd7/a09902.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "d8/dd7/a09902.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "d8/dd7/a09902.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

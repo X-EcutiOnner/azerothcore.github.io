@@ -1,6 +1,6 @@
 var a23210 =
 [
-    [ "FilterTargets", "d7/da6/a23210.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "d7/da6/a23210.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "d7/da6/a23210.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "ShadowOfDeathSelector", "d7/da6/a23210.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d7/da6/a23210.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d7/da6/a23210.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

@@ -1,11 +1,8 @@
 var a22986 =
 [
-    [ "boss_supremus", "de/d5d/a22986.html#af1f094534b0e2dec70422839a02327cd", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "de/d5d/a22986.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
-    [ "FindHatefulStrikeTarget", "de/d5d/a22986.html#af560466902d0d372662020e1a67b627c", null ],
-    [ "JustEngagedWith", "de/d5d/a22986.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
-    [ "JustSummoned", "de/d5d/a22986.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
-    [ "Reset", "de/d5d/a22986.html#a0eaa29849a2571417d4826d238d72e25", null ],
-    [ "SchedulePhase", "de/d5d/a22986.html#a87e3943d6c645138853aa97644f9df0e", null ],
-    [ "SummonedCreatureDespawn", "de/d5d/a22986.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
+    [ "HandleEffectRemove", "de/d5d/a22986.html#a09124a4351930a35e33359e95ca88580", null ],
+    [ "HandlePeriodic", "de/d5d/a22986.html#adf903819b6f768c541076fd367938b3e", null ],
+    [ "PrepareAuraScript", "de/d5d/a22986.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
+    [ "Register", "de/d5d/a22986.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
+    [ "Validate", "de/d5d/a22986.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
 ];

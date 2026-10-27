@@ -1,7 +1,8 @@
 var a20430 =
 [
-    [ "HandleAfterHit", "db/d6c/a20430.html#a75953cbb3a288fd373e602ed07d84441", null ],
-    [ "PrepareSpellScript", "db/d6c/a20430.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
-    [ "Register", "db/d6c/a20430.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
-    [ "Validate", "db/d6c/a20430.html#aea2b951dd2353800958f654df58d8fd8", null ]
+    [ "CheckCast", "db/d6c/a20430.html#a71566abe41cec09cbb414d4e1be53c8f", null ],
+    [ "PrepareSpellScript", "db/d6c/a20430.html#ab3c4e4c1ef59fda87cd2b1fb119882c8", null ],
+    [ "Register", "db/d6c/a20430.html#a403728403abd55efdbfe1c835e9799bb", null ],
+    [ "SelectAvailableSeat", "db/d6c/a20430.html#a71101aaf195d64a2fe6c821ad1d5379d", null ],
+    [ "SelectSeat", "db/d6c/a20430.html#a466691f96780f607b52b853c83ddbae4", null ]
 ];

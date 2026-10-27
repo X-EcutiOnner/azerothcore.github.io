@@ -1,6 +1,6 @@
 var a16070 =
 [
-    [ "npc_anachronos_the_ancientAI", "da/df8/a16074.html", "da/df8/a16074" ],
-    [ "npc_anachronos_the_ancient", "d9/d48/a16070.html#a720884359886e6f881190471005f4cfc", null ],
-    [ "GetAI", "d9/d48/a16070.html#a345c801231907d98f2ab2425b1d35cbc", null ]
+    [ "npc_tiger_matriarch_creditAI", "d9/d48/a16070.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "d9/d48/a16070.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "d9/d48/a16070.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

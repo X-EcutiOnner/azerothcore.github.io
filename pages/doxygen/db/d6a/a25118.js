@@ -1,8 +1,7 @@
 var a25118 =
 [
-    [ "HandleEffectCalcPeriodic", "db/d6a/a25118.html#a78c46695cab8da2280686ea49d88f036", null ],
-    [ "HandleEffectPeriodic", "db/d6a/a25118.html#a65b8a9dcd836cb538d5d2bec3d03d4a2", null ],
-    [ "HandleOnEffectRemove", "db/d6a/a25118.html#af722cf30e478802784178a9346bd1bdd", null ],
-    [ "PrepareAuraScript", "db/d6a/a25118.html#a6352d1ab3dd67efd9be171f7db20a62d", null ],
-    [ "Register", "db/d6a/a25118.html#ae6c2b365463345c71ed1a4acdee04a15", null ]
+    [ "HandleProc", "db/d6a/a25118.html#a17f1f652f4144bfade0072e311f579e7", null ],
+    [ "PrepareAuraScript", "db/d6a/a25118.html#a8ab8da270b52ce7be6419f5947df6566", null ],
+    [ "Register", "db/d6a/a25118.html#a660b69eb520799733f59218c919b28ed", null ],
+    [ "Validate", "db/d6a/a25118.html#a433be7a238be09e86c395a6d3625c56d", null ]
 ];

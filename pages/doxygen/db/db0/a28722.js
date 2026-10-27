@@ -1,6 +1,6 @@
 var a28722 =
 [
-    [ "X", "db/db0/a28722.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "db/db0/a28722.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "db/db0/a28722.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "npc_dancing_flamesAI", "d3/d77/a28726.html", "d3/d77/a28726" ],
+    [ "npc_dancing_flames", "db/db0/a28722.html#adec0401f876ddf159f28fdda8bc4d563", null ],
+    [ "GetAI", "db/db0/a28722.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
 ];

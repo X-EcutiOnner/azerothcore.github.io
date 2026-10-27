@@ -1,6 +1,6 @@
 var a27118 =
 [
-    [ "HandleDummy", "d1/d22/a27118.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
-    [ "PrepareSpellScript", "d1/d22/a27118.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
-    [ "Register", "d1/d22/a27118.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
+    [ "HandleDamage", "d1/d22/a27118.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
+    [ "PrepareSpellScript", "d1/d22/a27118.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
+    [ "Register", "d1/d22/a27118.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
 ];

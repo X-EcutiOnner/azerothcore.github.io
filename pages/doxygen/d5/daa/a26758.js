@@ -1,6 +1,7 @@
 var a26758 =
 [
-    [ "CheckCast", "d5/daa/a26758.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "d5/daa/a26758.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "d5/daa/a26758.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "CheckProc", "d5/daa/a26758.html#a4aadc249b5c568b5317c4eb41abeb6b4", null ],
+    [ "PrepareAuraScript", "d5/daa/a26758.html#acc3d194b3f23ecfe42c40d011c957138", null ],
+    [ "Register", "d5/daa/a26758.html#a0b104698a7c763bee1af656e127591bd", null ],
+    [ "Validate", "d5/daa/a26758.html#a493e63aafcbfd4279cabe91aaa21cee2", null ]
 ];

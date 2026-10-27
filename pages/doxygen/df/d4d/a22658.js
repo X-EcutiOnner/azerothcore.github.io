@@ -1,8 +1,9 @@
 var a22658 =
 [
-    [ "boss_darkweaver_syth", "df/d4d/a22658.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "df/d4d/a22658.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "df/d4d/a22658.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "df/d4d/a22658.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "df/d4d/a22658.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "npc_finklesteinAI", "df/df2/a22662.html", "df/df2/a22662" ],
+    [ "npc_finklestein", "df/d4d/a22658.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "df/d4d/a22658.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "df/d4d/a22658.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "df/d4d/a22658.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "df/d4d/a22658.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

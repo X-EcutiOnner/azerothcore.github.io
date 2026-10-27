@@ -1,6 +1,8 @@
 var a17562 =
 [
-    [ "HandleEffectPeriodic", "d6/dc8/a17562.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
-    [ "PrepareAuraScript", "d6/dc8/a17562.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
-    [ "Register", "d6/dc8/a17562.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
+    [ "boss_krickAI", "d6/dc8/a17562.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
+    [ "DoAction", "d6/dc8/a17562.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
+    [ "UpdateAI", "d6/dc8/a17562.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
+    [ "events", "d6/dc8/a17562.html#a75349e2fc35832e7944fa4f772380baa", null ],
+    [ "pInstance", "d6/dc8/a17562.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
 ];

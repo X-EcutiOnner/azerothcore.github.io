@@ -1,14 +1,20 @@
 var a12442 =
 [
-    [ "deserter_commandscript", "df/d6c/a12442.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
-    [ "GetCommands", "df/d6c/a12442.html#ab5b48b9dde89c9215c51560f26324649", null ],
-    [ "HandleDeserterAdd", "df/d6c/a12442.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
-    [ "HandleDeserterBGAdd", "df/d6c/a12442.html#a11fba09d369e7244244887947a91369e", null ],
-    [ "HandleDeserterBGRemove", "df/d6c/a12442.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
-    [ "HandleDeserterBGRemoveAll", "df/d6c/a12442.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
-    [ "HandleDeserterInstanceAdd", "df/d6c/a12442.html#aabd2b23e2dc61fac10890077b41d8179", null ],
-    [ "HandleDeserterInstanceRemove", "df/d6c/a12442.html#a3197e5228284ba50da7f3a31b3e76060", null ],
-    [ "HandleDeserterInstanceRemoveAll", "df/d6c/a12442.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
-    [ "HandleDeserterRemove", "df/d6c/a12442.html#a210dc9a7eddede6fe976157d6b22b683", null ],
-    [ "HandleDeserterRemoveAll", "df/d6c/a12442.html#a6274f79b9884586069f94137b44d89e9", null ]
+    [ "Weather", "d8/d2c/a05128.html#gab528c044ef69c717d477eee8eac299b0", null ],
+    [ "~Weather", "d8/d2c/a05128.html#ga8db480edb9459ebf73a1363c6fea0b27", null ],
+    [ "GetScriptId", "d8/d2c/a05128.html#ga07ff1c03b6fb225388d418496c18d3be", null ],
+    [ "GetWeatherState", "d8/d2c/a05128.html#gaed38cecb6af95222638b2177fa48757c", null ],
+    [ "GetZone", "d8/d2c/a05128.html#ga5cf53e440c7da53eb6524ea1d658b0e6", null ],
+    [ "ReGenerate", "d8/d2c/a05128.html#gaea61d86d9a64dd5dbc8ea843aad97eb6", null ],
+    [ "SendFineWeatherUpdateToPlayer", "d8/d2c/a05128.html#gac976d0c6f66bd6ab52932a289e0f9551", null ],
+    [ "SendWeatherUpdateToPlayer", "d8/d2c/a05128.html#gaf9ff2442cc875af4b6ca4bec7f41c965", null ],
+    [ "SetWeather", "d8/d2c/a05128.html#ga32e650a32fc1e01bdb6fbfd960fd022f", null ],
+    [ "Update", "d8/d2c/a05128.html#gaf7a3484daa8221287a4c325fb3a8080c", null ],
+    [ "UpdateWeather", "d8/d2c/a05128.html#gad4885daeab81309a42c2c1fdebcf33ad", null ],
+    [ "m_grade", "d8/d2c/a05128.html#ga5638d204d5986f64eed9d343d086895e", null ],
+    [ "m_map", "d8/d2c/a05128.html#ga3495c619f0ddde94913cbaea0a6354fa", null ],
+    [ "m_timer", "d8/d2c/a05128.html#gadba1100bafe6db8a242bdad35663e909", null ],
+    [ "m_type", "d8/d2c/a05128.html#ga19d9ed53043ba2b9eb3bdc27921501eb", null ],
+    [ "m_weatherChances", "d8/d2c/a05128.html#gaeb74bbd4568c726a2443318aea6313d0", null ],
+    [ "m_zone", "d8/d2c/a05128.html#ga1fd12588331e8f86399378b7bb12317b", null ]
 ];

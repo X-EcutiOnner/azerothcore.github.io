@@ -1,8 +1,9 @@
 var a09798 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "d0/d6d/a09798.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "d0/d6d/a09798.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "d0/d6d/a09798.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "d0/d6d/a09798.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "d0/d6d/a09798.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "PlayerDistWorker", "d0/d6d/a09798.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
+    [ "Visit", "d0/d6d/a09798.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
+    [ "Visit", "d0/d6d/a09798.html#a2658f12f90953f1057a9377b21824879", null ],
+    [ "i_dist", "d0/d6d/a09798.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
+    [ "i_do", "d0/d6d/a09798.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
+    [ "i_searcher", "d0/d6d/a09798.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
 ];

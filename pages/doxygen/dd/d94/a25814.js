@@ -1,6 +1,6 @@
 var a25814 =
 [
-    [ "OnBaseRemove", "dd/d94/a25814.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "PrepareAuraScript", "dd/d94/a25814.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "dd/d94/a25814.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "CheckCast", "dd/d94/a25814.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
+    [ "PrepareSpellScript", "dd/d94/a25814.html#a0bc2de519e0c84688fad609444d28afa", null ],
+    [ "Register", "dd/d94/a25814.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
 ];

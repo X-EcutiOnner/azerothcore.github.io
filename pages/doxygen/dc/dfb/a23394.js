@@ -1,5 +1,6 @@
 var a23394 =
 [
-    [ "go_main_chambers_access_panel", "dc/dfb/a23394.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "dc/dfb/a23394.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "HandleScriptEffect", "dc/dfb/a23394.html#a766edc5924124c869b04ec82cd2bc693", null ],
+    [ "PrepareSpellScript", "dc/dfb/a23394.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
+    [ "Register", "dc/dfb/a23394.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
 ];

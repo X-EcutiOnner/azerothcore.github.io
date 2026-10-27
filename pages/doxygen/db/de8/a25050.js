@@ -1,7 +1,7 @@
 var a25050 =
 [
-    [ "CheckProc", "db/de8/a25050.html#ab376febda606dba5e9f7f5639f867859", null ],
-    [ "HandleProc", "db/de8/a25050.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
-    [ "PrepareAuraScript", "db/de8/a25050.html#a7693a86824050ff5615996d0d03d0292", null ],
-    [ "Register", "db/de8/a25050.html#a458745913288889f687bb19a147cb0fb", null ]
+    [ "CalculateAmount", "db/de8/a25050.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
+    [ "Load", "db/de8/a25050.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
+    [ "PrepareAuraScript", "db/de8/a25050.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
+    [ "Register", "db/de8/a25050.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
 ];

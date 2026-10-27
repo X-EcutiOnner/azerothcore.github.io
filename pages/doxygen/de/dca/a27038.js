@@ -1,6 +1,7 @@
 var a27038 =
 [
-    [ "HandleDummy", "de/dca/a27038.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
-    [ "PrepareSpellScript", "de/dca/a27038.html#a5efc666af2cb73c376706c20e41ace68", null ],
-    [ "Register", "de/dca/a27038.html#a46e61697212a43532e148ccb12a7d8e5", null ]
+    [ "CheckAreaTarget", "de/dca/a27038.html#a3c2dc43efc37be1b34cba266a478f46e", null ],
+    [ "PrepareAuraScript", "de/dca/a27038.html#a88c7c19e87106e1bbf6cc5a24a3bc2e4", null ],
+    [ "Register", "de/dca/a27038.html#a9cbc5794b1ed54fe9313cd161ec5b19f", null ],
+    [ "Validate", "de/dca/a27038.html#ab18a951259cc74b0ba8319f757e38eca", null ]
 ];

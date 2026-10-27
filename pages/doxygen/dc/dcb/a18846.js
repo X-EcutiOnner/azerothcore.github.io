@@ -1,8 +1,6 @@
 var a18846 =
 [
-    [ "npc_lk_spirit_bombAI", "dc/dcb/a18846.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "dc/dcb/a18846.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "dc/dcb/a18846.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "dc/dcb/a18846.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "dc/dcb/a18846.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "npc_raging_spiritAI", "d0/dbe/a18850.html", "d0/dbe/a18850" ],
+    [ "npc_raging_spirit", "dc/dcb/a18846.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "dc/dcb/a18846.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

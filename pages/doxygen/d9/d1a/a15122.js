@@ -1,7 +1,5 @@
 var a15122 =
 [
-    [ "boss_azuregosAI", "d7/de6/a15126.html", "d7/de6/a15126" ],
-    [ "boss_azuregos", "d9/d1a/a15122.html#a48590db0037870ca5c9425a468e5ea3a", null ],
-    [ "GetAI", "d9/d1a/a15122.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
-    [ "OnGossipSelect", "d9/d1a/a15122.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
+    [ "PrepareSpellScript", "d9/d1a/a15122.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
+    [ "Register", "d9/d1a/a15122.html#a99f7d0be5668d5b005400140fc9865a4", null ]
 ];

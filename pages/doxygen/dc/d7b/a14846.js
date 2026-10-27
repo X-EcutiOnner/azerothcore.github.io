@@ -1,6 +1,7 @@
 var a14846 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d5/d3a/a14850.html", "d5/d3a/a14850" ],
-    [ "npc_grizzlemaw_cw_trigger", "dc/d7b/a14846.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
-    [ "GetAI", "dc/d7b/a14846.html#a1a834bda866033a3cca4fc4ece447313", null ]
+    [ "GetEmptyEntry", "dc/d7b/a14846.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
+    [ "HandleAfterHit", "dc/d7b/a14846.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
+    [ "PrepareSpellScript", "dc/d7b/a14846.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
+    [ "Register", "dc/d7b/a14846.html#a25e1858e1f81891443f4b7de50a5d495", null ]
 ];

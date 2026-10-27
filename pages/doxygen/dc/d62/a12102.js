@@ -1,7 +1,7 @@
 var a12102 =
 [
-    [ "EffectApplyHandler", "dc/d62/a12102.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
-    [ "Call", "dc/d62/a12102.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
-    [ "mode", "dc/d62/a12102.html#ac776375c5a5de321edc572c87e983193", null ],
-    [ "pEffectHandlerScript", "dc/d62/a12102.html#acd715556a7661f688ce0de9afe62250a", null ]
+    [ "maxvalue", "dc/d62/a12102.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
+    [ "skill", "dc/d62/a12102.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
+    [ "step", "dc/d62/a12102.html#a1c882f7d43c65954cb99566225660312", null ],
+    [ "value", "dc/d62/a12102.html#a064fece53cdaf07b072510b14200a968", null ]
 ];

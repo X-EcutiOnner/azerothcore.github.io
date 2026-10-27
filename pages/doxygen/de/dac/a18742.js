@@ -1,6 +1,6 @@
 var a18742 =
 [
-    [ "npc_valkyr_shadowguardAI", "dd/d7a/a18746.html", "dd/d7a/a18746" ],
-    [ "npc_valkyr_shadowguard", "de/dac/a18742.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "de/dac/a18742.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "VileSpiritActivateEvent", "de/dac/a18742.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "de/dac/a18742.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "de/dac/a18742.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

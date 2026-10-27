@@ -1,8 +1,6 @@
 var a17822 =
 [
-    [ "OnApply", "db/d96/a17822.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "db/d96/a17822.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "db/d96/a17822.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "db/d96/a17822.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "db/d96/a17822.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "boss_prince_valanarAI", "dc/df6/a17826.html", "dc/df6/a17826" ],
+    [ "boss_prince_valanar_icc", "db/d96/a17822.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "db/d96/a17822.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

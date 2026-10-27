@@ -1,8 +1,8 @@
 var a27346 =
 [
-    [ "HandleRootRemove", "da/dc9/a27346.html#a9678ce2254825b67eb7a16312e960ba9", null ],
-    [ "HandleSnareRemove", "da/dc9/a27346.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
-    [ "PrepareSpellScript", "da/dc9/a27346.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
-    [ "Register", "da/dc9/a27346.html#a119675dccea898932ca090577022b6ba", null ],
-    [ "Validate", "da/dc9/a27346.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
+    [ "Load", "da/dc9/a27346.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
+    [ "OnRemove", "da/dc9/a27346.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
+    [ "PrepareAuraScript", "da/dc9/a27346.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
+    [ "Register", "da/dc9/a27346.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
+    [ "Validate", "da/dc9/a27346.html#a3820e716d20809896c84c1ca781af4d1", null ]
 ];

@@ -1,6 +1,7 @@
 var a19854 =
 [
-    [ "boss_uromAI", "db/d58/a19858.html", "db/d58/a19858" ],
-    [ "boss_urom", "d1/da2/a19854.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
-    [ "GetAI", "d1/da2/a19854.html#ac381b851f3cc746fb323ff238892c537", null ]
+    [ "npc_alexstrasza", "d1/da2/a19854.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
+    [ "AttackStart", "d1/da2/a19854.html#ab47f439968b7e9358158eae3e31f4e29", null ],
+    [ "MoveInLineOfSight", "d1/da2/a19854.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
+    [ "UpdateAI", "d1/da2/a19854.html#aec1c93eee408ecefbceec22be4b90dba", null ]
 ];

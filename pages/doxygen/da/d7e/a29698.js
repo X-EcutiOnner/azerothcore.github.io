@@ -1,5 +1,7 @@
 var a29698 =
 [
-    [ "SetUp", "da/d7e/a29698.html#add2a716e8e1f27b462185cbb5a600842", null ],
-    [ "permission", "da/d7e/a29698.html#a62a00095674d9b43cfc5e72ae7cbbda8", null ]
+    [ "~ByteBufferException", "da/d7e/a29698.html#a0ab73f9061c040127f70dbfc9a176509", null ],
+    [ "message", "da/d7e/a29698.html#ab1a64d8fc18565a04c347de29184f68c", null ],
+    [ "what", "da/d7e/a29698.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
+    [ "msg_", "da/d7e/a29698.html#a314bdbb7063219f8256df894602e6b02", null ]
 ];

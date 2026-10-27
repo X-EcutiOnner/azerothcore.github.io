@@ -1,8 +1,6 @@
 var a26426 =
 [
-    [ "HandleProc", "dc/d8f/a26426.html#a89982759474f6f2d8f64ae406f722816", null ],
-    [ "OnRemove", "dc/d8f/a26426.html#a29dfea997f49052f683cabdf01295126", null ],
-    [ "PrepareAuraScript", "dc/d8f/a26426.html#a19094a96e052ec5b1b82aa9a124b30cc", null ],
-    [ "Register", "dc/d8f/a26426.html#a696b244e898a7aca0ead5ae5596eb192", null ],
-    [ "Validate", "dc/d8f/a26426.html#a5a9e58d16a055b3991e5f8b8ac5f1cad", null ]
+    [ "OnPeriodic", "dc/d8f/a26426.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "dc/d8f/a26426.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "dc/d8f/a26426.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

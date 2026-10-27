@@ -1,6 +1,6 @@
 var a04475 =
 [
-    [ "SpellProcChanceTest", "db/dc1/a30149.html", "db/dc1/a30149" ],
+    [ "SpellProcChanceTest", "d9/db2/a30186.html", "d9/db2/a30186" ],
     [ "TEST_F", "d5/d8a/a04475.html#a0067cc2d2c7eeb55ec8f33d368fd033f", null ],
     [ "TEST_F", "d5/d8a/a04475.html#a47c99d67681c44af53a6492d5994eed7", null ],
     [ "TEST_F", "d5/d8a/a04475.html#a19f98cdb20306306e21a5cb7a72c7e49", null ],

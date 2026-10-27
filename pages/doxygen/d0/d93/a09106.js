@@ -1,11 +1,9 @@
 var a09106 =
 [
-    [ "AuraMunchingQueue", "d0/d93/a09106.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
-    [ "Execute", "d0/d93/a09106.html#a8f025a0ea1db81fb283db563402d1c40", null ],
-    [ "_auraType", "d0/d93/a09106.html#add694e24c38d585784f236acf9118b76", null ],
-    [ "_aurEff", "d0/d93/a09106.html#a8ac00964608170d5375242c1b19c4be3", null ],
-    [ "_basePoints", "d0/d93/a09106.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
-    [ "_owner", "d0/d93/a09106.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
-    [ "_spellId", "d0/d93/a09106.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
-    [ "_targetGUID", "d0/d93/a09106.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
+    [ "achievements", "d0/d93/a09106.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
+    [ "items", "d0/d93/a09106.html#a2873836588f37b9a5cf691da2b6fa715", null ],
+    [ "levelMax", "d0/d93/a09106.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
+    [ "levelMin", "d0/d93/a09106.html#a823016216268e13116a46bcb40ea0e70", null ],
+    [ "quests", "d0/d93/a09106.html#a6150aa58762a13dcbfcb55507df77809", null ],
+    [ "reqItemLevel", "d0/d93/a09106.html#a97f262e488e178dad0c33f228808f69e", null ]
 ];

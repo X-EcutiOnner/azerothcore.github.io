@@ -1,8 +1,8 @@
 var a23110 =
 [
-    [ "CalculateAmount", "db/dd2/a23110.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
-    [ "OnPeriodic", "db/dd2/a23110.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
-    [ "PrepareAuraScript", "db/dd2/a23110.html#a1278420b279449c1c6a53b1a7b53f539", null ],
-    [ "Register", "db/dd2/a23110.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
-    [ "Validate", "db/dd2/a23110.html#a601c2db3a8e47d48b956ed102cbca104", null ]
+    [ "FilterTargets", "db/dd2/a23110.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "db/dd2/a23110.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "db/dd2/a23110.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "db/dd2/a23110.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "db/dd2/a23110.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

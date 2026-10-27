@@ -1,9 +1,6 @@
 var a19362 =
 [
-    [ "spell_trigger_spell_from_caster", "d5/dca/a19362.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
-    [ "HandleTrigger", "d5/dca/a19362.html#afc11c9408ea11cb04e476999a9bdf522", null ],
-    [ "PrepareSpellScript", "d5/dca/a19362.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
-    [ "Register", "d5/dca/a19362.html#ae44cc1a87267c1d08603d1aff2384957", null ],
-    [ "Validate", "d5/dca/a19362.html#a3aace9a309bc848b887b03c949c921bd", null ],
-    [ "_triggerId", "d5/dca/a19362.html#a29af52a9035f18936515a464889fefe5", null ]
+    [ "HandleScript", "d5/dca/a19362.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "d5/dca/a19362.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "d5/dca/a19362.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

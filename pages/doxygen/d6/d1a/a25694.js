@@ -1,6 +1,6 @@
 var a25694 =
 [
-    [ "CheckCast", "d6/d1a/a25694.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
-    [ "PrepareSpellScript", "d6/d1a/a25694.html#ad6867dad8bda358bd1479935c80b82e7", null ],
-    [ "Register", "d6/d1a/a25694.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
+    [ "HandleDamageCalc", "d6/d1a/a25694.html#a1d0c86e476e4ef75f4e8f2ff27fdd395", null ],
+    [ "PrepareSpellScript", "d6/d1a/a25694.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "d6/d1a/a25694.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

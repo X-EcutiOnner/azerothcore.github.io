@@ -1,6 +1,6 @@
 var a17806 =
 [
-    [ "FilterTargets", "de/dcb/a17806.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
-    [ "PrepareSpellScript", "de/dcb/a17806.html#a8e9d81b34e05506569f4b910c1958de3", null ],
-    [ "Register", "de/dcb/a17806.html#aa80980c3f68abcb0fac7a41172f70012", null ]
+    [ "boss_prince_kelesethAI", "d0/d49/a17810.html", "d0/d49/a17810" ],
+    [ "boss_prince_keleseth_icc", "de/dcb/a17806.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "de/dcb/a17806.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

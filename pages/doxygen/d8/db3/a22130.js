@@ -1,6 +1,9 @@
 var a22130 =
 [
-    [ "npc_guardian_pavilionAI", "dc/d50/a22134.html", "dc/d50/a22134" ],
-    [ "npc_guardian_pavilion", "d8/db3/a22130.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "d8/db3/a22130.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "npc_wounded_skirmisher", "d8/db3/a22130.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "d8/db3/a22130.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "d8/db3/a22130.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "d8/db3/a22130.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "d8/db3/a22130.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "d8/db3/a22130.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

@@ -1,7 +1,6 @@
 var a25306 =
 [
-    [ "CheckIfLanceEquipped", "df/d03/a25306.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
-    [ "PrepareSpellScript", "df/d03/a25306.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
-    [ "Register", "df/d03/a25306.html#a4421ceaedce16777f8f04b9c40855782", null ],
-    [ "Validate", "df/d03/a25306.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
+    [ "HandleDummy", "df/d03/a25306.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
+    [ "PrepareSpellScript", "df/d03/a25306.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
+    [ "Register", "df/d03/a25306.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
 ];

@@ -1,8 +1,11 @@
 var a22894 =
 [
-    [ "FilterTargets", "d4/d65/a22894.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
-    [ "HandleDummy", "d4/d65/a22894.html#ab89ab441f022ee017548ba49d128b92e", null ],
-    [ "PrepareSpellScript", "d4/d65/a22894.html#aa8578390d7d9379328c02ceb209e94ed", null ],
-    [ "Register", "d4/d65/a22894.html#a486387d707b7ad66ecb443ab2bb60778", null ],
-    [ "Validate", "d4/d65/a22894.html#ad5d695978794d796eb7139fce1530d57", null ]
+    [ "boss_blackheart_the_inciter", "d4/d65/a22894.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "d4/d65/a22894.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "d4/d65/a22894.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "d4/d65/a22894.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "d4/d65/a22894.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "d4/d65/a22894.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "d4/d65/a22894.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "d4/d65/a22894.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

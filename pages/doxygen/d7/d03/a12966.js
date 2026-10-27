@@ -1,7 +1,5 @@
 var a12966 =
 [
-    [ "HandleDummy", "d7/d03/a12966.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "d7/d03/a12966.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "d7/d03/a12966.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "d7/d03/a12966.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "at_the_beast_room", "d7/d03/a12966.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
+    [ "OnTrigger", "d7/d03/a12966.html#a366c5e35c4030f998404886f1526ae37", null ]
 ];

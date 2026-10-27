@@ -1,8 +1,4 @@
 var a29410 =
 [
-    [ "TimeSeg", "db/dbd/a29410.html#ab94639ba8e26b215ebd31163967574d3", null ],
-    [ "TransportEntry", "db/dbd/a29410.html#a859d25b3c11839ad7e37facd40dc79df", null ],
-    [ "X", "db/dbd/a29410.html#a8fbd166503396e33a4ad77448bf307ea", null ],
-    [ "Y", "db/dbd/a29410.html#a67c279b26cebd8e5c81c36576b145af6", null ],
-    [ "Z", "db/dbd/a29410.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
+    [ "ratio", "db/dbd/a29410.html#abe0a3d6e014b8ceafb6a991397812ae1", null ]
 ];

@@ -1,5 +1,5 @@
 var a19482 =
 [
-    [ "PrepareSpellScript", "d2/dfd/a19482.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
-    [ "Register", "d2/dfd/a19482.html#a80c3077f8f689367276e1054a6236681", null ]
+    [ "at_icc_spire_frostwyrm", "d2/dfd/a19482.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "d2/dfd/a19482.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

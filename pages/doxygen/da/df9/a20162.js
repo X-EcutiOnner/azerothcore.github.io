@@ -1,6 +1,6 @@
 var a20162 =
 [
-    [ "CastRunesEvent", "da/df9/a20162.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
-    [ "Execute", "da/df9/a20162.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
-    [ "_owner", "da/df9/a20162.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "d7/de5/a20166.html", "d7/de5/a20166" ],
+    [ "boss_sjonnir_iron_sludge", "da/df9/a20162.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
+    [ "GetAI", "da/df9/a20162.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
 ];

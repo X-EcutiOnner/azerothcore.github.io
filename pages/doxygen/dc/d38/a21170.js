@@ -1,6 +1,11 @@
 var a21170 =
 [
-    [ "CheckRequirement", "dc/d38/a21170.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
-    [ "PrepareSpellScript", "dc/d38/a21170.html#a06e1b98a589717bdef6444912a7ad602", null ],
-    [ "Register", "dc/d38/a21170.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
+    [ "boss_yoggsaron_lich_king", "dc/d38/a21170.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
+    [ "NextStep", "dc/d38/a21170.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
+    [ "Reset", "dc/d38/a21170.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
+    [ "Say", "dc/d38/a21170.html#ac7687fe1253701c702cf2c17986727ec", null ],
+    [ "UpdateAI", "dc/d38/a21170.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
+    [ "_checkTimer", "dc/d38/a21170.html#a196ffc443569494bed79f623dd9cdca3", null ],
+    [ "_running", "dc/d38/a21170.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
+    [ "_step", "dc/d38/a21170.html#a97244534b8c6a69807388b620df2263f", null ]
 ];

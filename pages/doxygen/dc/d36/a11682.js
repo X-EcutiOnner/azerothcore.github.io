@@ -1,7 +1,5 @@
 var a11682 =
 [
-    [ "effectMask", "dc/d36/a11682.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
-    [ "processed", "dc/d36/a11682.html#aedfa36678be863a558ecd0ecc07cc544", null ],
-    [ "targetGUID", "dc/d36/a11682.html#a619f98bf094d2667048204f733d64d0c", null ],
-    [ "timeDelay", "dc/d36/a11682.html#ab552326c0780fe62ff95b02249458492", null ]
+    [ "QuestLogFull", "dc/d36/a11682.html#ac268090c33720d1975c3538acfe0ce7f", null ],
+    [ "Write", "dc/d36/a11682.html#aab5d1b5ceb0e9fffd588d95d92640897", null ]
 ];

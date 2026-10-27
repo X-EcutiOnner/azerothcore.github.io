@@ -1,5 +1,11 @@
 var a28302 =
 [
-    [ "go_soulwellAI", "d2/db2/a28302.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "d2/db2/a28302.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "npc_dream_fogAI", "d2/db2/a28302.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
+    [ "GetRandomUnitFromDragonThreatList", "d2/db2/a28302.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
+    [ "Reset", "d2/db2/a28302.html#a595eeeae54d4bf323287fc408f706ac6", null ],
+    [ "ScheduleEvents", "d2/db2/a28302.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
+    [ "SetGUID", "d2/db2/a28302.html#a3666423921a5405ea220ba098f3f91fe", null ],
+    [ "UpdateAI", "d2/db2/a28302.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
+    [ "_dragonGUID", "d2/db2/a28302.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
+    [ "_targetGUID", "d2/db2/a28302.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
 ];

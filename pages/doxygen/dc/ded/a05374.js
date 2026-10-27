@@ -1,13 +1,16 @@
 var a05374 =
 [
-    [ "GroupModel_Raw", "dc/ded/a05374.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
-    [ "~GroupModel_Raw", "dc/ded/a05374.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
-    [ "Read", "dc/ded/a05374.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
-    [ "bounds", "dc/ded/a05374.html#a830d79fdd2f21164bd805051352a3aa8", null ],
-    [ "GroupWMOID", "dc/ded/a05374.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
-    [ "liquid", "dc/ded/a05374.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
-    [ "liquidflags", "dc/ded/a05374.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
-    [ "mogpflags", "dc/ded/a05374.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
-    [ "triangles", "dc/ded/a05374.html#af692734697f525672027f251addebe6d", null ],
-    [ "vertexArray", "dc/ded/a05374.html#ad73c215408218900973df4dbdd8fcd18", null ]
+    [ "GetLiquidFlagsFn", "dc/ded/a05374.html#a172996acb562d916b51132e7e0072140", null ],
+    [ "IsVMAPDisabledForFn", "dc/ded/a05374.html#a178edb6185bbdefbc08f2cf78205c1c6", null ],
+    [ "VMapMgr2", "dc/ded/a05374.html#ac16d324a4ab5f27b18fe5f992f5288cd", null ],
+    [ "~VMapMgr2", "dc/ded/a05374.html#afbbc51ff81e1aa107352354eb712b556", null ],
+    [ "convertPositionToInternalRep", "dc/ded/a05374.html#ade8ab3f66eb603aae40a80fab7c52e67", null ],
+    [ "existsMap", "dc/ded/a05374.html#af18b011f8c9939da7813fafbc3bfe014", null ],
+    [ "getDirFileName", "dc/ded/a05374.html#ad2ad6e5bd41a585cf94c2e7d56358178", null ],
+    [ "GetLiquidFlagsDummy", "dc/ded/a05374.html#a11761ce698c3e240366b03dd57142b25", null ],
+    [ "getMapFileName", "dc/ded/a05374.html#aecec356ccb3fd3ddb52c7d889bd2c80d", null ],
+    [ "IsVMAPDisabledForDummy", "dc/ded/a05374.html#a87d4d0a1553502c8c15fb12077ec34d2", null ],
+    [ "processCommand", "dc/ded/a05374.html#a8ed4fc4a7b268adbef8cb7846be4aa88", null ],
+    [ "GetLiquidFlagsPtr", "dc/ded/a05374.html#ae6be88472cb03382ebd998178371cb60", null ],
+    [ "IsVMAPDisabledForPtr", "dc/ded/a05374.html#a38ceb27a94583eafa30dddd92239d6ca", null ]
 ];

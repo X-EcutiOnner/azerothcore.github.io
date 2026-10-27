@@ -1,9 +1,6 @@
 var a24546 =
 [
-    [ "Absorb", "dd/d91/a24546.html#ade7f8805491a627cf3e8accdee178f3e", null ],
-    [ "CalculateAmount", "dd/d91/a24546.html#a1194d2bd96632cbc3eab58300a5f9a46", null ],
-    [ "Load", "dd/d91/a24546.html#a49277dbcc2d7cc79f29226e9b242120b", null ],
-    [ "PrepareAuraScript", "dd/d91/a24546.html#a9eb3dc519bd595b7c0193ae3519c136e", null ],
-    [ "Register", "dd/d91/a24546.html#a730528baddf2087fb1c0898ac7ad76c5", null ],
-    [ "absorbPct", "dd/d91/a24546.html#a58c03a57bdfcba203159ae38683fdf14", null ]
+    [ "go_ancient_skull_pile", "dd/d91/a24546.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
+    [ "OnGossipHello", "dd/d91/a24546.html#afc258eaeb7586f0f539223c21f82ea63", null ],
+    [ "OnGossipSelect", "dd/d91/a24546.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
 ];

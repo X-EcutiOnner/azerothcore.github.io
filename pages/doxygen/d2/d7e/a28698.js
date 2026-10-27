@@ -1,5 +1,6 @@
 var a28698 =
 [
-    [ "npc_suns_reach_reclamation", "d2/d7e/a28698.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "d2/d7e/a28698.html#aa403d14fccda7adbec1ffeb765079c25", null ]
+    [ "npc_target_dummy", "d2/d7e/a28698.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
+    [ "Reset", "d2/d7e/a28698.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
+    [ "UpdateAI", "d2/d7e/a28698.html#a32e9e139a54375b336c112deee3687cd", null ]
 ];

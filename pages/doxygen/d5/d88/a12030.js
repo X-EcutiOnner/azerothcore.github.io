@@ -1,6 +1,7 @@
 var a12030 =
 [
-    [ "CastHandler", "d5/d88/a12030.html#aad22cf4791a20b9cb6704712ec3d9339", null ],
-    [ "Call", "d5/d88/a12030.html#afdbd455bd010bd93e84c334fe3987bf1", null ],
-    [ "pCastHandlerScript", "d5/d88/a12030.html#a091c494c18bc81968a386bc5f2565905", null ]
+    [ "DiminishDurationLimit", "d5/d88/a12030.html#a18e94b40a8746c854b2fcca37ceb14f6", null ],
+    [ "DiminishGroup", "d5/d88/a12030.html#ad48e4fbc6984602d0196accea51867de", null ],
+    [ "DiminishMaxLevel", "d5/d88/a12030.html#a4b04f3f569b5b73d2f8a9eda429c3f5d", null ],
+    [ "DiminishReturnType", "d5/d88/a12030.html#a64a6fc19521245f1145ab6c769175803", null ]
 ];

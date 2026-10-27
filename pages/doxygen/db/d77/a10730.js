@@ -1,12 +1,12 @@
 var a10730 =
 [
-    [ "BattlefieldScript", "db/d77/a10730.html#a8b975d588e1b44aecebcbbb1b547d02c", null ],
-    [ "IsDatabaseBound", "db/d77/a10730.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
-    [ "OnBattlefieldBeforeInvitePlayerToWar", "db/d77/a10730.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
-    [ "OnBattlefieldPlayerEnterZone", "db/d77/a10730.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
-    [ "OnBattlefieldPlayerJoinWar", "db/d77/a10730.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
-    [ "OnBattlefieldPlayerKill", "db/d77/a10730.html#a835001d04260cafe35021108e2ede851", null ],
-    [ "OnBattlefieldPlayerLeaveWar", "db/d77/a10730.html#a3e88ff9ad3772d558ab72123127a550e", null ],
-    [ "OnBattlefieldPlayerLeaveZone", "db/d77/a10730.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ],
-    [ "OnBattlefieldWarEnd", "db/d77/a10730.html#ab4ed21627320723b18a09dbc4c7f6baa", null ]
+    [ "QuestLocale", "db/d77/a10730.html#a887d474a470ee0278fb4b465a7ad9547", null ],
+    [ "AreaDescription", "db/d77/a10730.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
+    [ "CompletedText", "db/d77/a10730.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
+    [ "Details", "db/d77/a10730.html#afd23d37c92f2b28e1c125bba0d670497", null ],
+    [ "Objectives", "db/d77/a10730.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
+    [ "ObjectiveText", "db/d77/a10730.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
+    [ "OfferRewardText", "db/d77/a10730.html#aaba6d07625232a77e3457454f7d4fa77", null ],
+    [ "RequestItemsText", "db/d77/a10730.html#a764d2092084454844e59c484fb637017", null ],
+    [ "Title", "db/d77/a10730.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
 ];

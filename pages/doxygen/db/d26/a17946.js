@@ -1,6 +1,7 @@
 var a17946 =
 [
-    [ "npc_stinky_iccAI", "dd/dee/a17950.html", "dd/dee/a17950" ],
-    [ "npc_stinky_icc", "db/d26/a17946.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "db/d26/a17946.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "OnProc", "db/d26/a17946.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "db/d26/a17946.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "db/d26/a17946.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "db/d26/a17946.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

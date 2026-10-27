@@ -1,6 +1,5 @@
 var a24486 =
 [
-    [ "HandleAfterCast", "d6/dba/a24486.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "d6/dba/a24486.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "d6/dba/a24486.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "npc_shattrath_daily_quest", "d6/dba/a24486.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d6/dba/a24486.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

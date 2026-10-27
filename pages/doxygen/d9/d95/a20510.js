@@ -1,7 +1,14 @@
 var a20510 =
 [
-    [ "HandleEffectPeriodic", "d9/d95/a20510.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
-    [ "PrepareAuraScript", "d9/d95/a20510.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
-    [ "Register", "d9/d95/a20510.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
-    [ "Validate", "d9/d95/a20510.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
+    [ "boss_freya_summons", "d9/d95/a20510.html#a1d53e3d32307347532f96ca2b27734cb", null ],
+    [ "IsSummonedBy", "d9/d95/a20510.html#a631605e67e488590d8d96d4807d13cd2", null ],
+    [ "JustDied", "d9/d95/a20510.html#a15d9b71a31a840917b449c0094049e00", null ],
+    [ "JustEngagedWith", "d9/d95/a20510.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
+    [ "Reset", "d9/d95/a20510.html#af7e842a7bc2be806816a942026670d71", null ],
+    [ "ReviveWithAllies", "d9/d95/a20510.html#acec319d89a49da510093411f681fb950", null ],
+    [ "UpdateAI", "d9/d95/a20510.html#abc3634dce208478e82d3c9bb19d222df", null ],
+    [ "_hasDied", "d9/d95/a20510.html#a145f46cfda95e50fa30c98581a30de9e", null ],
+    [ "_isTrio", "d9/d95/a20510.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
+    [ "_setId", "d9/d95/a20510.html#a3898bc77baa92fd0031aea5bbef5eb80", null ],
+    [ "events", "d9/d95/a20510.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
 ];

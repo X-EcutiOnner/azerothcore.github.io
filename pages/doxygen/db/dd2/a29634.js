@@ -1,22 +1,13 @@
 var a29634 =
 [
-    [ "SpellInfoBuilder", "db/dd2/a29634.html#a1af4c9aaf8b9707697c1e030beee389a", null ],
-    [ "Build", "db/dd2/a29634.html#ab8ba5082d8c0d5d98837e7df20229906", null ],
-    [ "BuildUnique", "db/dd2/a29634.html#a96bd1eea56970fdc051fe3c494ee6396", null ],
-    [ "WithAttributes", "db/dd2/a29634.html#ad08396120fbe9b27e7ae6e156b338e95", null ],
-    [ "WithAttributesEx3", "db/dd2/a29634.html#ab92a2a4b9be30a760ce90467c7dfa234", null ],
-    [ "WithDmgClass", "db/dd2/a29634.html#aae876b0fda0da198b04bb43cf9b8851e", null ],
-    [ "WithEffect", "db/dd2/a29634.html#aec11a1d4ff5ce438e052d58bd6dbbd1f", null ],
-    [ "WithEffectBasePoints", "db/dd2/a29634.html#a5a480961571af48bd8cd13aefb58248f", null ],
-    [ "WithEffectDieSides", "db/dd2/a29634.html#adcf13d48e0289bce0a0de09c0ae5dbcc", null ],
-    [ "WithEffectMiscValue", "db/dd2/a29634.html#ab79a3f46af60c196780e5bec6e3ece25", null ],
-    [ "WithEffectTriggerSpell", "db/dd2/a29634.html#ab7e6d316ff67f1610695b89723b7e364", null ],
-    [ "WithId", "db/dd2/a29634.html#a1f23f2372b8fd2e7ce8e6aad99868892", null ],
-    [ "WithProcChance", "db/dd2/a29634.html#a9a82d31ff56c42ad264d1daf97c1a445", null ],
-    [ "WithProcCharges", "db/dd2/a29634.html#a49152801fbf954772dfdf6c94cb91fb8", null ],
-    [ "WithProcFlags", "db/dd2/a29634.html#a76fd05f8130f02bba9b159e9e09c4f52", null ],
-    [ "WithSchoolMask", "db/dd2/a29634.html#adbc655e188cade9675943e2f57a4a242", null ],
-    [ "WithSpellFamilyFlags", "db/dd2/a29634.html#aa4f184402512fd50c6066910787c4595", null ],
-    [ "WithSpellFamilyName", "db/dd2/a29634.html#ae64bb11a8877c42ed63addc210fae8cc", null ],
-    [ "_entryHelper", "db/dd2/a29634.html#a764a57f15f5383d3555b7763c0dc718b", null ]
+    [ "actionFlag", "db/dd2/a29634.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "db/dd2/a29634.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "db/dd2/a29634.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "db/dd2/a29634.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "db/dd2/a29634.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "db/dd2/a29634.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "db/dd2/a29634.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "db/dd2/a29634.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "db/dd2/a29634.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "db/dd2/a29634.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

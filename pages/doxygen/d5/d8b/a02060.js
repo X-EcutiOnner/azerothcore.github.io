@@ -1,10 +1,10 @@
 var a02060 =
 [
-    [ "NpcRunToHome", "d9/dc7/a15477.html", "d9/dc7/a15477" ],
-    [ "npc_medivh_bm", "d2/d01/a15481.html", "d2/d01/a15481" ],
-    [ "npc_time_rift", "d2/dcf/a15485.html", "d2/dcf/a15485" ],
-    [ "npc_black_morass_summoned_add", "d1/d6c/a15489.html", "d1/d6c/a15489" ],
-    [ "spell_black_morass_corrupt_medivh", "d2/dbe/a15493.html", "d2/dbe/a15493" ],
+    [ "NpcRunToHome", "d4/dfd/a15494.html", "d4/dfd/a15494" ],
+    [ "npc_medivh_bm", "dc/d0f/a15498.html", "dc/d0f/a15498" ],
+    [ "npc_time_rift", "d4/dec/a15502.html", "d4/dec/a15502" ],
+    [ "npc_black_morass_summoned_add", "d6/d5e/a15506.html", "d6/d5e/a15506" ],
+    [ "spell_black_morass_corrupt_medivh", "d2/d5a/a15510.html", "d2/d5a/a15510" ],
     [ "medivhMisc", "d5/d8b/a02060.html#a7d484fa8ee0c999014d29246b9ebffb3", [
       [ "NPC_SHADOW_COUNCIL_ENFORCER", "d5/d8b/a02060.html#a7d484fa8ee0c999014d29246b9ebffb3a6f4bccf9e53aef576344b1521c24e411", null ],
       [ "GO_DARK_PORTAL", "d5/d8b/a02060.html#a7d484fa8ee0c999014d29246b9ebffb3a34fd16f7266bcf80297889c35fe880c3", null ],

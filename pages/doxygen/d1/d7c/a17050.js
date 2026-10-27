@@ -1,7 +1,6 @@
 var a17050 =
 [
-    [ "HandleEffectPeriodic", "d1/d7c/a17050.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "d1/d7c/a17050.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "d1/d7c/a17050.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "d1/d7c/a17050.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_toc_warlockAI", "de/db9/a17054.html", "de/db9/a17054" ],
+    [ "npc_toc_warlock", "d1/d7c/a17050.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "d1/d7c/a17050.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

@@ -1,6 +1,7 @@
 var a14086 =
 [
-    [ "npc_ravenclaw_apparitionAI", "d0/d7a/a14090.html", "d0/d7a/a14090" ],
-    [ "npc_ravenclaw_apparition", "df/de8/a14086.html#a961044571250519e62d7d33633974038", null ],
-    [ "GetAI", "df/de8/a14086.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
+    [ "HandleScriptEffect", "df/de8/a14086.html#aa537704c2066df4f5b4c60a775026a83", null ],
+    [ "PrepareSpellScript", "df/de8/a14086.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
+    [ "Register", "df/de8/a14086.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
+    [ "Validate", "df/de8/a14086.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
 ];

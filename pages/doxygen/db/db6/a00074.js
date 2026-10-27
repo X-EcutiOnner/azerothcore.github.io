@@ -1,6 +1,6 @@
 var a00074 =
 [
-    [ "map_id", "d3/d2a/a30385.html", "d3/d2a/a30385" ],
+    [ "map_id", "da/d80/a30422.html", "da/d80/a30422" ],
     [ "_CRT_SECURE_NO_DEPRECATE", "db/db6/a00074.html#a411c46599e926f8cdf49c63957255359", null ],
     [ "MPQ_BLOCK_SIZE", "db/db6/a00074.html#a402d9c2814f85cee14f9bc8dbc999de8", null ],
     [ "ExtractSingleWmo", "db/db6/a00074.html#afc9839262206eb10094c1769141ae146", null ],

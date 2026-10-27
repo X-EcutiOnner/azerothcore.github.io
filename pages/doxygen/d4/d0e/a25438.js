@@ -1,7 +1,10 @@
 var a25438 =
 [
-    [ "HandleDamage", "d4/d0e/a25438.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
-    [ "PrepareSpellScript", "d4/d0e/a25438.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
-    [ "Register", "d4/d0e/a25438.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
-    [ "Validate", "d4/d0e/a25438.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
+    [ "Load", "d4/d0e/a25438.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "d4/d0e/a25438.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "d4/d0e/a25438.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "d4/d0e/a25438.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "d4/d0e/a25438.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "d4/d0e/a25438.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "d4/d0e/a25438.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

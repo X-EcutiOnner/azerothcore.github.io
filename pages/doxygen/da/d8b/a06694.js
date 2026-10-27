@@ -1,19 +1,17 @@
 var a06694 =
 [
-    [ "AuctionEntryMap", "da/d8b/a06694.html#ab05cddc8805f4f6745a620aaf78490e6", null ],
-    [ "AuctionHouseObject", "da/d8b/a06694.html#ae980b3dc0cb776fa77810d488c0144aa", null ],
-    [ "~AuctionHouseObject", "da/d8b/a06694.html#abc1f401b8f18c6d5003fa337ed1e76bc", null ],
-    [ "AddAuction", "da/d8b/a06694.html#a9c61fcf5d92ad6cea5af36b1bd5cff5b", null ],
-    [ "BuildListAuctionItems", "da/d8b/a06694.html#a7fbae9cbe3d85c2f86a746ece7419768", null ],
-    [ "BuildListBidderItems", "da/d8b/a06694.html#a15e66492bf45ef79044b82c8924d744c", null ],
-    [ "BuildListOwnerItems", "da/d8b/a06694.html#ab360813aa77b4e1b9c1004eb374f7cd4", null ],
-    [ "GetAuction", "da/d8b/a06694.html#a8f549a3623e3f1c3b0b3a21dfdc24d85", null ],
-    [ "GetAuctions", "da/d8b/a06694.html#ac22a84a7e3f2c6baf5e40a1a43bbf098", null ],
-    [ "GetAuctionsBegin", "da/d8b/a06694.html#ae769fbe419c78c580fc0c6d6b91a6e28", null ],
-    [ "GetAuctionsEnd", "da/d8b/a06694.html#a9526b361608b03716918540116bc6d4d", null ],
-    [ "Getcount", "da/d8b/a06694.html#a49aa833a0d8fd698f116ebdf2544040f", null ],
-    [ "RemoveAuction", "da/d8b/a06694.html#af760e3c74242ab2bbc0cfb03a9224aff", null ],
-    [ "Update", "da/d8b/a06694.html#ae9a2bed6b57af310230134cdf2cfd46a", null ],
-    [ "_auctionsMap", "da/d8b/a06694.html#a92e8694ba6d22e26bedb19b2d0619a9f", null ],
-    [ "_next", "da/d8b/a06694.html#aa8780a803119c4350d367f39daff32a1", null ]
+    [ "WorldBossAI", "da/d8b/a06694.html#aad7ffc5fb8215f6bf36fe72aef40c9e1", null ],
+    [ "~WorldBossAI", "da/d8b/a06694.html#a2877e6056f3ff51c625d46d5b7d7d008", null ],
+    [ "_JustDied", "da/d8b/a06694.html#a72e92da9585e41f742ee0ff964340230", null ],
+    [ "_JustEngagedWith", "da/d8b/a06694.html#a451c933079bd3b887079b15b74c22b5e", null ],
+    [ "_Reset", "da/d8b/a06694.html#ac11f7b51038891d8e10427ca10aa516c", null ],
+    [ "ExecuteEvent", "da/d8b/a06694.html#a477e7bc0bcf1ba99d64cffddbfa0c6d2", null ],
+    [ "JustDied", "da/d8b/a06694.html#a012c70e390c46b8f326b91014091b3d7", null ],
+    [ "JustEngagedWith", "da/d8b/a06694.html#ab84cb945e773c41d22b682996c744768", null ],
+    [ "JustSummoned", "da/d8b/a06694.html#aa783665ce6e43e76a18515f511f82efb", null ],
+    [ "Reset", "da/d8b/a06694.html#ad19a91bf2344f531e01db07efd04c395", null ],
+    [ "SummonedCreatureDespawn", "da/d8b/a06694.html#af7a1e062b13d997def99c077a79cd12f", null ],
+    [ "UpdateAI", "da/d8b/a06694.html#a31686947c399d780ea5220dae5e4820b", null ],
+    [ "events", "da/d8b/a06694.html#abba6c74269442b0bbfe94ab583904485", null ],
+    [ "summons", "da/d8b/a06694.html#adb0612a97ccab6c817d9fa69b63cfff7", null ]
 ];

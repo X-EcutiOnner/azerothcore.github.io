@@ -1,6 +1,6 @@
 var a30146 =
 [
-    [ "id", "d4/d6f/a30146.html#a5acc1b246a76073e1c97513251a4143d", null ],
-    [ "id", "d4/d6f/a30146.html#aaf844f570afdf7439ae7fbe0bbdc39e7", null ],
-    [ "name", "d4/d6f/a30146.html#ae5d1244981224aed1b7477caedd70175", null ]
+    [ "SetUp", "d4/d6f/a30146.html#a17bb069a079f64ba78b640f29fb23b44", null ],
+    [ "_durationEntry", "d4/d6f/a30146.html#ae835f19ae350e48fd88e4cc776d286e4", null ],
+    [ "_frostboltInfo", "d4/d6f/a30146.html#adeb95c76547a934f4801bb24932b34d1", null ]
 ];

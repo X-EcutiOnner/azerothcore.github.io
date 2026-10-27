@@ -1,6 +1,6 @@
 var a18290 =
 [
-    [ "npc_gas_cloudAI", "da/dcf/a18294.html", "da/dcf/a18294" ],
-    [ "npc_gas_cloud", "d2/dda/a18290.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "d2/dda/a18290.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "npc_cult_fanaticAI", "da/dcf/a18294.html", "da/dcf/a18294" ],
+    [ "npc_cult_fanatic", "d2/dda/a18290.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "d2/dda/a18290.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

@@ -1,6 +1,7 @@
 var a26626 =
 [
-    [ "FilterTargets", "d7/d4d/a26626.html#aad5d183d0d7ea229cbfc11f751536624", null ],
-    [ "PrepareSpellScript", "d7/d4d/a26626.html#a68ba19142ae6eb04a2547495233700df", null ],
-    [ "Register", "d7/d4d/a26626.html#a22c313409438f94d29ab3e236a56c115", null ]
+    [ "HandleProc", "d7/d4d/a26626.html#a88510ad234c654bbe3316f6557742f77", null ],
+    [ "PrepareAuraScript", "d7/d4d/a26626.html#adff2a6b6161cc6fa6a49bd55c088394c", null ],
+    [ "Register", "d7/d4d/a26626.html#aeaae510592ba20f76e322701a9c30c17", null ],
+    [ "Validate", "d7/d4d/a26626.html#a1d9dc752bd385ff99ee4c39094c68d8a", null ]
 ];

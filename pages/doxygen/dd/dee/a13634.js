@@ -1,14 +1,9 @@
 var a13634 =
 [
-    [ "boss_sothos", "dd/dee/a13634.html#a2e7283078d4049ff339f29c3fdfc69cf", null ],
-    [ "DoAction", "dd/dee/a13634.html#a1433dddccb71896016bc014bdf92b453", null ],
-    [ "IsSummonedBy", "dd/dee/a13634.html#aaaf7e317f146bb296c4ba6f57c5f72d4", null ],
-    [ "JustDied", "dd/dee/a13634.html#a2d634aade37ea887f6bbf4b43baf061d", null ],
-    [ "JustEngagedWith", "dd/dee/a13634.html#ace8a0c92ec3ab3e76cceb63c5b4a277b", null ],
-    [ "Reset", "dd/dee/a13634.html#a042578148cae9a0b9befb7c5747a8e99", null ],
-    [ "UpdateAI", "dd/dee/a13634.html#a35e247fa9bfe00927b844af8d0ef916f", null ],
-    [ "_jarienDied", "dd/dee/a13634.html#a74725d8a4b3ce9fbfb9f06868fa02055", null ],
-    [ "_phase", "dd/dee/a13634.html#a5719cd4a85527c256fb7f048be6489f7", null ],
-    [ "_scheduler", "dd/dee/a13634.html#a5e18256858cd594b45628508500e5f1a", null ],
-    [ "_talked", "dd/dee/a13634.html#a3f3c0d0a079aad1306b638e8ff34f2f6", null ]
+    [ "npc_risen_guardianAI", "dd/dee/a13634.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "dd/dee/a13634.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "dd/dee/a13634.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "dd/dee/a13634.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "dd/dee/a13634.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "dd/dee/a13634.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

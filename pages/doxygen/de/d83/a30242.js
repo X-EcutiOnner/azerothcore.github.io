@@ -1,9 +1,7 @@
 var a30242 =
 [
-    [ "adtId", "de/d83/a30242.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
-    [ "areaId", "de/d83/a30242.html#a7f652c68036429350543fc5a2cc6861e", null ],
-    [ "Flags", "de/d83/a30242.html#a60f9a61948d1e28587c9d1a338730f37", null ],
-    [ "groupId", "de/d83/a30242.html#a09052bad3028899580ffedd556672b64", null ],
-    [ "Id", "de/d83/a30242.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
-    [ "rootId", "de/d83/a30242.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
+    [ "SetUp", "de/d83/a30242.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
+    [ "DAGGER_SPEED", "de/d83/a30242.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
+    [ "SWORD_SPEED", "de/d83/a30242.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
+    [ "TWO_HANDED_SPEED", "de/d83/a30242.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
 ];

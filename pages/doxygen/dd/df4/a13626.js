@@ -1,11 +1,20 @@
 var a13626 =
 [
-    [ "boss_baroness_anastariAI", "dd/df4/a13626.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "dd/df4/a13626.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "dd/df4/a13626.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "dd/df4/a13626.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "dd/df4/a13626.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "dd/df4/a13626.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "dd/df4/a13626.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "dd/df4/a13626.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "boss_darkmaster_gandlingAI", "dd/df4/a13626.html#a1fbd651c6f5ad3630ae450c6a523360c", null ],
+    [ "FindRoom", "dd/df4/a13626.html#a7ca1847b3223c82f7c190546809c49bc", null ],
+    [ "GetData", "dd/df4/a13626.html#a06e03e66d7a99a98ba915057c0082217", null ],
+    [ "JustDied", "dd/df4/a13626.html#afaac9e6939e0d873f576129546560fba", null ],
+    [ "JustEngagedWith", "dd/df4/a13626.html#aa71a73d3804187c6b89566ec3d1cd6ed", null ],
+    [ "JustSummoned", "dd/df4/a13626.html#a24e4031367eb59ad7a9ea352bd0b4ccd", null ],
+    [ "OpenAllGates", "dd/df4/a13626.html#ab28b7d97956c21515c9872d8f9122f18", null ],
+    [ "Reset", "dd/df4/a13626.html#a8244b7b91de9a0413193001f41288f7f", null ],
+    [ "SetData", "dd/df4/a13626.html#a1b7ed8e98d4a271dfd8df76738cc0072", null ],
+    [ "SetGate", "dd/df4/a13626.html#a32fbc731852f46fbdd36b36764dd2303", null ],
+    [ "SpawnMobsInRoom", "dd/df4/a13626.html#a68adf734efff345529dbb74bebe15798", null ],
+    [ "SpellHitTarget", "dd/df4/a13626.html#ae98715a31cd22febb1725977556a48aa", null ],
+    [ "SummonedCreatureDespawn", "dd/df4/a13626.html#aa0abb31ac1a05c4a99e4b8079410867a", null ],
+    [ "UpdateAI", "dd/df4/a13626.html#a2c525445ad39ddc47366f3f632014d89", null ],
+    [ "current_room", "dd/df4/a13626.html#a597f7ee62ee41ff6a1a12a6c9dd7cd93", null ],
+    [ "Guardians", "dd/df4/a13626.html#a3681da718192f0f961282fa4f655355e", null ],
+    [ "summons", "dd/df4/a13626.html#a745d411fc485892529cb4cc6f06ba3af", null ]
 ];

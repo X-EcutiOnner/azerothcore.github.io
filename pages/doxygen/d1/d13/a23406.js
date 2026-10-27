@@ -1,13 +1,11 @@
 var a23406 =
 [
-    [ "boss_ghazan", "d1/d13/a23406.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "d1/d13/a23406.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "d1/d13/a23406.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "d1/d13/a23406.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "d1/d13/a23406.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "d1/d13/a23406.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "d1/d13/a23406.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "d1/d13/a23406.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "d1/d13/a23406.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "d1/d13/a23406.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "boss_leotheras_the_blind", "d1/d13/a23406.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "d1/d13/a23406.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "d1/d13/a23406.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "d1/d13/a23406.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "d1/d13/a23406.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "d1/d13/a23406.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "d1/d13/a23406.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "d1/d13/a23406.html#a89deeb1888046d1f4756bcb6447d8f0d", null ]
 ];

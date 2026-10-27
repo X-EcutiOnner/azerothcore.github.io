@@ -1,11 +1,11 @@
 var a18602 =
 [
-    [ "NonTankLKTargetSelector", "db/dfc/a18602.html#a41c5372505c0c74e93f2c583a0259777", null ],
-    [ "operator()", "db/dfc/a18602.html#a2e496088092b9885f8e2391c2df91993", null ],
-    [ "_exclude1", "db/dfc/a18602.html#abe4e56597fa2918b15a003413887ac71", null ],
-    [ "_exclude2", "db/dfc/a18602.html#a6aa63c93c4e68998f621349760d9ab43", null ],
-    [ "_maxDist", "db/dfc/a18602.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
-    [ "_playerOnly", "db/dfc/a18602.html#a5ab89af79aa4840c9a024996a848540c", null ],
-    [ "_reqLOS", "db/dfc/a18602.html#a61966d6b825f25b6bbf589676cef19f9", null ],
-    [ "_source", "db/dfc/a18602.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
+    [ "npc_ice_tombAI", "db/dfc/a18602.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
+    [ "DamageTaken", "db/dfc/a18602.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
+    [ "JustDied", "db/dfc/a18602.html#a237f27260aaa9176d81b67b11d063660", null ],
+    [ "SetGUID", "db/dfc/a18602.html#ac406bece1d1f1517b5837e311feef9ae", null ],
+    [ "UpdateAI", "db/dfc/a18602.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
+    [ "_asphyxiationTimer", "db/dfc/a18602.html#a6790d9c852279624a549f60bf26e1eb2", null ],
+    [ "_existenceCheckTimer", "db/dfc/a18602.html#ab3dbf40235549be89e42951d93593ea2", null ],
+    [ "_trappedPlayerGUID", "db/dfc/a18602.html#a8a7666594e59bdac449f2284387b8e2c", null ]
 ];

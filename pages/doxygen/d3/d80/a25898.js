@@ -1,6 +1,6 @@
 var a25898 =
 [
-    [ "HandleSummon", "d3/d80/a25898.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "d3/d80/a25898.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "d3/d80/a25898.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "HandleStackDrop", "d3/d80/a25898.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
+    [ "PrepareAuraScript", "d3/d80/a25898.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
+    [ "Register", "d3/d80/a25898.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
 ];

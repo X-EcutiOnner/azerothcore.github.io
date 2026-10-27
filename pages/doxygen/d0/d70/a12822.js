@@ -1,10 +1,14 @@
 var a12822 =
 [
-    [ "npc_rookery_hatcher", "d0/d70/a12822.html#ab4740540a6fc2661c3c99bd2569a0bfa", null ],
-    [ "InitializeAI", "d0/d70/a12822.html#a58d6bb3ba8d39c0e92d30f4c124e3734", null ],
-    [ "JustEngagedWith", "d0/d70/a12822.html#a9d2e256f8df44254cc0301fe2b1fa628", null ],
-    [ "UpdateAI", "d0/d70/a12822.html#a011cf0384a7bf6dd502a767d6667140a", null ],
-    [ "events", "d0/d70/a12822.html#ab49d35c9d22408b01e27c8c7933433e0", null ],
-    [ "targetEgg", "d0/d70/a12822.html#a4fd5ed979e2c3d600e89e4592b7da98c", null ],
-    [ "targetPosition", "d0/d70/a12822.html#ac49345c80e58f7c0094fe1b62ac4bf84", null ]
+    [ "boss_ambassador_flamelash", "d0/d70/a12822.html#a4eec2a22080fb99671d4596a131957b1", null ],
+    [ "DoAction", "d0/d70/a12822.html#ae34494448f93104750da92ff20730dc1", null ],
+    [ "getValidRandomPosition", "d0/d70/a12822.html#a4585ec9b91b506fd78f344c1e8e83697", null ],
+    [ "JustDied", "d0/d70/a12822.html#afdf68272e1acd47a8c6e4a0c18f0b6bf", null ],
+    [ "JustEngagedWith", "d0/d70/a12822.html#a1629ac221933d038d71c256de914121b", null ],
+    [ "Reset", "d0/d70/a12822.html#aa6e66bf78c714fad816e654ed37801e5", null ],
+    [ "SummonSpirits", "d0/d70/a12822.html#a2674933aca19741e3c27eee7636e6774", null ],
+    [ "TurnRunes", "d0/d70/a12822.html#a1332d0405911dcba90420a49936502aa", null ],
+    [ "UpdateAI", "d0/d70/a12822.html#a891ab6cb21b16f9a6bd08934bbe7257d", null ],
+    [ "_foundValidPosition", "d0/d70/a12822.html#ac6c1674f7e6b5c9f2f4be052cdf509a1", null ],
+    [ "_validPosition", "d0/d70/a12822.html#a2a11c3d01e99c6737c8b7459336bb021", null ]
 ];

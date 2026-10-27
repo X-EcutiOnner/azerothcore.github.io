@@ -1,9 +1,7 @@
 var a14746 =
 [
-    [ "npc_brew_bubble", "d5/d11/a14746.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "d5/d11/a14746.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "d5/d11/a14746.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "d5/d11/a14746.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "d5/d11/a14746.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "d5/d11/a14746.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "HandleApply", "d5/d11/a14746.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
+    [ "HandleRemove", "d5/d11/a14746.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
+    [ "PrepareAuraScript", "d5/d11/a14746.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
+    [ "Register", "d5/d11/a14746.html#af2343add2ed014832bd34d11519b391b", null ]
 ];

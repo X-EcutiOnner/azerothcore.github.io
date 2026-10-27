@@ -1,7 +1,8 @@
 var a22878 =
 [
-    [ "PrepareAuraScript", "d2/d7d/a22878.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
-    [ "Register", "d2/d7d/a22878.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
-    [ "Update", "d2/d7d/a22878.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
-    [ "Validate", "d2/d7d/a22878.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
+    [ "FilterTargets", "d2/d7d/a22878.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "d2/d7d/a22878.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "d2/d7d/a22878.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "d2/d7d/a22878.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "d2/d7d/a22878.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

@@ -1,7 +1,6 @@
 var a22006 =
 [
-    [ "npc_Apothecary_HanesAI", "d5/dd0/a22010.html", "d5/dd0/a22010" ],
-    [ "npc_apothecary_hanes", "d8/de9/a22006.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "d8/de9/a22006.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "d8/de9/a22006.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "SACActivateEvent", "d8/de9/a22006.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
+    [ "Execute", "d8/de9/a22006.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
+    [ "_owner", "d8/de9/a22006.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
 ];

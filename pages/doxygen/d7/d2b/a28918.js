@@ -1,8 +1,5 @@
 var a28918 =
 [
-    [ "ClassMask", "d7/d2b/a28918.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "d7/d2b/a28918.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "d7/d2b/a28918.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "d7/d2b/a28918.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "d7/d2b/a28918.html#ab6153043461b71336e12b00957499075", null ]
+    [ "npc_sunwell_gate", "d7/d2b/a28918.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "d7/d2b/a28918.html#a760f5bef0c1f45f21698b0dcdf2d2236", null ]
 ];

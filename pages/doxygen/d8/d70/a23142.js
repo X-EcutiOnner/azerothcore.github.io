@@ -1,6 +1,6 @@
 var a23142 =
 [
-    [ "OnPeriodic", "d8/d70/a23142.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
-    [ "PrepareAuraScript", "d8/d70/a23142.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
-    [ "Register", "d8/d70/a23142.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
+    [ "boss_essence_of_angerAI", "d8/d24/a23146.html", "d8/d24/a23146" ],
+    [ "boss_essence_of_anger", "d8/d70/a23142.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "d8/d70/a23142.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

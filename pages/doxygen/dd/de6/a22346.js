@@ -1,7 +1,6 @@
 var a22346 =
 [
-    [ "HandleDummy", "dd/de6/a22346.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
-    [ "PrepareAuraScript", "dd/de6/a22346.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
-    [ "Register", "dd/de6/a22346.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
-    [ "Validate", "dd/de6/a22346.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
+    [ "npc_tournament_training_dummyAI", "d2/d87/a22350.html", "d2/d87/a22350" ],
+    [ "npc_tournament_training_dummy", "dd/de6/a22346.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
+    [ "GetAI", "dd/de6/a22346.html#a31257c155c3a49c69771156800cf6340", null ]
 ];

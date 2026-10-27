@@ -1,8 +1,11 @@
 var a17618 =
 [
-    [ "boss_eck", "dd/dad/a17618.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "dd/dad/a17618.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "dd/dad/a17618.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "dd/dad/a17618.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "dd/dad/a17618.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "npc_pos_tyrannus_eventsAI", "dd/dad/a17618.html#a51769d22a4cb448fae90d827e2494581", null ],
+    [ "MovementInform", "dd/dad/a17618.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
+    [ "SetData", "dd/dad/a17618.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
+    [ "UpdateAI", "dd/dad/a17618.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
+    [ "deathbringerGUID", "dd/dad/a17618.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
+    [ "events", "dd/dad/a17618.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
+    [ "killsLeft", "dd/dad/a17618.html#ac81d85e0ceb0b571373f44475baa36df", null ],
+    [ "pInstance", "dd/dad/a17618.html#a44460335986bcedf35dc295c242df6da", null ]
 ];

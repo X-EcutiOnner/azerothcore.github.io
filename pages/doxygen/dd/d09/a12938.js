@@ -1,13 +1,20 @@
 var a12938 =
 [
-    [ "boss_nefarian", "dd/d09/a12938.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
-    [ "JustDied", "dd/d09/a12938.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
-    [ "JustEngagedWith", "dd/d09/a12938.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
-    [ "KilledUnit", "dd/d09/a12938.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
-    [ "MovementInform", "dd/d09/a12938.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
-    [ "PathEndReached", "dd/d09/a12938.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
-    [ "Reset", "dd/d09/a12938.html#a5d687fce34b17e22c605c263395e823b", null ],
-    [ "UpdateAI", "dd/d09/a12938.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
-    [ "_introDone", "dd/d09/a12938.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
-    [ "classesPresent", "dd/d09/a12938.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
+    [ "boss_rend_blackhand", "dd/d09/a12938.html#a978a2a5262df73afa1e661b23c27a57a", null ],
+    [ "EnterEvadeMode", "dd/d09/a12938.html#a21ca0c54590356cc58675e71add93c3a", null ],
+    [ "IsSummonedBy", "dd/d09/a12938.html#aa9d1bfa716b0427d7f23578b8ca954e1", null ],
+    [ "JustDied", "dd/d09/a12938.html#a498218ab4298cdab728b8a5403d98de1", null ],
+    [ "JustEngagedWith", "dd/d09/a12938.html#a494550b92a25c99470c72697e87eff87", null ],
+    [ "JustSummoned", "dd/d09/a12938.html#aeebd94ed5b08587dfab88b8826f64173", null ],
+    [ "MovementInform", "dd/d09/a12938.html#ae8869425b1f03f6f430585d563de0b27", null ],
+    [ "Reset", "dd/d09/a12938.html#afcea6a09eabe661051fc58d5de9a3802", null ],
+    [ "SetData", "dd/d09/a12938.html#abe31d366de24aefd9c0c9c534494af11", null ],
+    [ "SummonedCreatureDespawn", "dd/d09/a12938.html#ae5a8775c0cf1ad5dee501a50a22e25f9", null ],
+    [ "SummonedCreatureDies", "dd/d09/a12938.html#a49d4011af4ee01ff3dc8708d0950b03b", null ],
+    [ "SummonWave", "dd/d09/a12938.html#a127365a60504f988bcd7bc1858e0fb94", null ],
+    [ "UpdateAI", "dd/d09/a12938.html#afdca704e8aca473986037ab2bc16194e", null ],
+    [ "_currentWave", "dd/d09/a12938.html#a9e4ffc20609e50188e0f5a552b164590", null ],
+    [ "_gythEvent", "dd/d09/a12938.html#a3699984d920375e9631105bf0a47469b", null ],
+    [ "_victorGUID", "dd/d09/a12938.html#a8337c912349eb2798c33fd5794a28437", null ],
+    [ "_waveDoorGUID", "dd/d09/a12938.html#a5a4085439515aeed3f3f6aba0764ba68", null ]
 ];

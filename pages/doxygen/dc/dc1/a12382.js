@@ -1,26 +1,5 @@
 var a12382 =
 [
-    [ "account_commandscript", "dc/dc1/a12382.html#acfea28449f30913389ab2eddfc512dbb", null ],
-    [ "ChangeAccountFlag", "dc/dc1/a12382.html#a40959a2fe4768af0c01522482b90484b", null ],
-    [ "GetCommands", "dc/dc1/a12382.html#a28baac859fcc2ee8bbf00dcdf7b38f4d", null ],
-    [ "HandleAccount2FARemoveCommand", "dc/dc1/a12382.html#a9cba65441f9e594e14ff55537f7f83f0", null ],
-    [ "HandleAccount2FASetupCommand", "dc/dc1/a12382.html#aedfc70990dd6211938baad8b11a45e8c", null ],
-    [ "HandleAccountAddonCommand", "dc/dc1/a12382.html#ac05636d86ea945c48fdf2c8565029e2e", null ],
-    [ "HandleAccountCommand", "dc/dc1/a12382.html#aca24ee7a088839552cdf75c0a418d4e3", null ],
-    [ "HandleAccountCreateCommand", "dc/dc1/a12382.html#af8b6cb76e8a6f762b86c3a8d7134d056", null ],
-    [ "HandleAccountDeleteCommand", "dc/dc1/a12382.html#a4bb0b76ef822011054d699df31f60d7e", null ],
-    [ "HandleAccountFlagAddCommand", "dc/dc1/a12382.html#a7808acde3baa83c399ca6bf936065cf2", null ],
-    [ "HandleAccountFlagListCommand", "dc/dc1/a12382.html#a12e56ff772b3ed2997dc979203c05e48", null ],
-    [ "HandleAccountFlagRemoveCommand", "dc/dc1/a12382.html#afba345af5a9da1ff68c7333015730ef3", null ],
-    [ "HandleAccountLockCountryCommand", "dc/dc1/a12382.html#a35e6b959596f1d9a32d39af117d2b95e", null ],
-    [ "HandleAccountLockIpCommand", "dc/dc1/a12382.html#a14e0d3fefc18f003c0079250e5c06b18", null ],
-    [ "HandleAccountOnlineListCommand", "dc/dc1/a12382.html#a36cb5b885d6c0745303b386ad42541f6", null ],
-    [ "HandleAccountPasswordCommand", "dc/dc1/a12382.html#a5cbbc397cd816e82963c7e2e352c90e5", null ],
-    [ "HandleAccountRemoveLockCountryCommand", "dc/dc1/a12382.html#a6a40319f52f00881a5be4a50f812b337", null ],
-    [ "HandleAccountSet2FACommand", "dc/dc1/a12382.html#a195e5037d3c4886ca8e69a56daadd028", null ],
-    [ "HandleAccountSetAddonCommand", "dc/dc1/a12382.html#aca017dc33dab7c379d8203569775f21b", null ],
-    [ "HandleAccountSetEmailCommand", "dc/dc1/a12382.html#ad4f26277c3484e8091e5f23ddbd45a2f", null ],
-    [ "HandleAccountSetGmLevelCommand", "dc/dc1/a12382.html#a1aaee019de3b7802281e25e926fa4821", null ],
-    [ "HandleAccountSetPasswordCommand", "dc/dc1/a12382.html#a77e9bb9f0f82b19ec9306533cab0d7bd", null ],
-    [ "ParseAccountFlagBit", "dc/dc1/a12382.html#a48924a519a26aca2d4558df9e696ec47", null ]
+    [ "Command", "dc/dc1/a12382.html#af0e8f46d4352430d12f932b5a9e4c44e", null ],
+    [ "Seed", "dc/dc1/a12382.html#a8770c7de1b983d75214d1de39d0c02ab", null ]
 ];

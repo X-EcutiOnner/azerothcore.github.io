@@ -1,7 +1,12 @@
 var a14122 =
 [
-    [ "npc_king_varian_wrynn", "d4/da7/a14122.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
-    [ "JustDied", "d4/da7/a14122.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
-    [ "OnQuestReward", "d4/da7/a14122.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
-    [ "UpdateAI", "d4/da7/a14122.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
+    [ "npc_eastvale_peasent", "d4/da7/a14122.html#a5282dac41228569d4431d84c1f160f05", null ],
+    [ "Initialize", "d4/da7/a14122.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
+    [ "PathEndReached", "d4/da7/a14122.html#a002ec21e0715b020aa19cd0839408033", null ],
+    [ "Reset", "d4/da7/a14122.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
+    [ "SetData", "d4/da7/a14122.html#add14d9505880727e208e7ef9428f5acd", null ],
+    [ "UpdateAI", "d4/da7/a14122.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
+    [ "_events", "d4/da7/a14122.html#a1b310b07481366042dc45f7a27ce6408", null ],
+    [ "_path", "d4/da7/a14122.html#a907db8e6148947248b5bcfdb35023e16", null ],
+    [ "_realenGUID", "d4/da7/a14122.html#aad06364be8698b5ba69cd229e2a5085b", null ]
 ];

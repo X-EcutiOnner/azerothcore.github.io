@@ -1,10 +1,5 @@
 var a08962 =
 [
-    [ "PvPInfo", "dd/da9/a08962.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
-    [ "EndTimer", "dd/da9/a08962.html#ae06b5030552c02f30fe8386633a753df", null ],
-    [ "FFAPvPEndTimer", "dd/da9/a08962.html#a739dfc63dfe39429a44ea682d9120522", null ],
-    [ "IsHostile", "dd/da9/a08962.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
-    [ "IsInFFAPvPArea", "dd/da9/a08962.html#a8a654926248b3974587af1eb9c064d15", null ],
-    [ "IsInHostileArea", "dd/da9/a08962.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
-    [ "IsInNoPvPArea", "dd/da9/a08962.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
+    [ "PositionXYStreamer", "dd/da9/a08962.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
+    [ "Pos", "dd/da9/a08962.html#afb17e60540233b8861b6e967d0e44e07", null ]
 ];

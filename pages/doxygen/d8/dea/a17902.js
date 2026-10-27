@@ -1,5 +1,6 @@
 var a17902 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "d8/dea/a17902.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "d8/dea/a17902.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "PrepareSpellScript", "d8/dea/a17902.html#a37899f12707930d038de38bae92c9aff", null ],
+    [ "Register", "d8/dea/a17902.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
+    [ "SelectDest", "d8/dea/a17902.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
 ];

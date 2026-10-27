@@ -1,7 +1,9 @@
 var a12002 =
 [
-    [ "CategoryRecoveryTime", "d8/dae/a12002.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "d8/dae/a12002.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "d8/dae/a12002.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "d8/dae/a12002.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "WorldObjectSpellAreaTargetCheck", "d8/dae/a12002.html#a27df2d4c2d8c39b06a3e11681e16876e", null ],
+    [ "operator()", "d8/dae/a12002.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
+    [ "_position", "d8/dae/a12002.html#a680c45dd148161657da011a1772375ca", null ],
+    [ "_range", "d8/dae/a12002.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ],
+    [ "_referenceType", "d8/dae/a12002.html#a87252b8b2dd0d38417c236718aadaa98", null ],
+    [ "_searchReason", "d8/dae/a12002.html#aad544cdfe9423a7967dfed64aeaed995", null ]
 ];

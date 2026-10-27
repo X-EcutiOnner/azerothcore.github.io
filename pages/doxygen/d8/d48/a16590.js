@@ -1,13 +1,23 @@
 var a16590 =
 [
-    [ "boss_twilight_halionAI", "d8/d48/a16590.html#aab05bab963d603c3cb70edfd62a84b49", null ],
-    [ "DamageTaken", "d8/d48/a16590.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
-    [ "EnterEvadeMode", "d8/d48/a16590.html#af7076251fc1fad1dc259d747934910e2", null ],
-    [ "JustDied", "d8/d48/a16590.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
-    [ "JustEngagedWith", "d8/d48/a16590.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
-    [ "KilledUnit", "d8/d48/a16590.html#ada770d51f63c841c500ffc3197a7a89f", null ],
-    [ "Reset", "d8/d48/a16590.html#a9c945841926d5b08f37c6a720dd25a14", null ],
-    [ "UpdateAI", "d8/d48/a16590.html#a6ab1d215ed077883781b0c0188282c5e", null ],
-    [ "_events", "d8/d48/a16590.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
-    [ "_instance", "d8/d48/a16590.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
+    [ "boss_sartharion", "d8/d48/a16590.html#a9442f10d85f4e618f29db32d6d41cace", null ],
+    [ "DamageTaken", "d8/d48/a16590.html#aea02fe5145c8ca179a350668cb962403", null ],
+    [ "DoAction", "d8/d48/a16590.html#aa4b3b33c0294105a240b8f19c00b67ba", null ],
+    [ "EnterEvadeMode", "d8/d48/a16590.html#a329135f26387b0292934111922bc33d1", null ],
+    [ "GetData", "d8/d48/a16590.html#a0e38be21344f596147f20a8ed46673ec", null ],
+    [ "JustDied", "d8/d48/a16590.html#a38742a243890907b2cb6e39c0624abd0", null ],
+    [ "JustEngagedWith", "d8/d48/a16590.html#a5e942b6892cdec46c7113d1b75f6d0ae", null ],
+    [ "JustSummoned", "d8/d48/a16590.html#aedd7e43d6d0a0a51f19cb57d8d47a3c5", null ],
+    [ "KilledUnit", "d8/d48/a16590.html#a68b87b8d9147307231e16d0634d3f8c6", null ],
+    [ "Reset", "d8/d48/a16590.html#ae6f2feeb68baaf265882bc46c9d388f2", null ],
+    [ "SendLavaWaves", "d8/d48/a16590.html#a61a25f3f8f1b0f92d8762b25a940ea77", null ],
+    [ "SetData", "d8/d48/a16590.html#a1e1a54ad847a81ce29554081583483e2", null ],
+    [ "SummonLavaWaves", "d8/d48/a16590.html#a8f1a9bb569613ef3df2c28490328e91d", null ],
+    [ "SummonStartingTriggers", "d8/d48/a16590.html#aef30845772ce56ad04091eda58b143ec", null ],
+    [ "UpdateAI", "d8/d48/a16590.html#a37f17241f7773e63ba86f071d655da4d", null ],
+    [ "below11PctReached", "d8/d48/a16590.html#a5c6190735f90121bdcd0572d7a38bae2", null ],
+    [ "dragonsCount", "d8/d48/a16590.html#a7fd5e7cf7579df3f918f94b4f89456fe", null ],
+    [ "extraEvents", "d8/d48/a16590.html#a734bc263b462552a633416489aead62c", null ],
+    [ "usedBerserk", "d8/d48/a16590.html#a8821dec08484bc1794cb3ab5ea961abc", null ],
+    [ "volcanoBlows", "d8/d48/a16590.html#a4afb5ee2520c9a0648b978b5659d6c3a", null ]
 ];

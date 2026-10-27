@@ -1,13 +1,7 @@
 var a16722 =
 [
-    [ "boss_eadricAI", "d6/d21/a16722.html#a461043fe1bff0f5478e2a57504e7477c", null ],
-    [ "DamageTaken", "d6/d21/a16722.html#a440899ffdeda7794ef4fa5530638eecc", null ],
-    [ "JustEngagedWith", "d6/d21/a16722.html#a09a0cebcdffb00e37e9d60111c582669", null ],
-    [ "KilledUnit", "d6/d21/a16722.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
-    [ "MovementInform", "d6/d21/a16722.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
-    [ "Reset", "d6/d21/a16722.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
-    [ "SpellHit", "d6/d21/a16722.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
-    [ "UpdateAI", "d6/d21/a16722.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
-    [ "events", "d6/d21/a16722.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
-    [ "pInstance", "d6/d21/a16722.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
+    [ "npc_orb_carrierAI", "d6/d21/a16722.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "d6/d21/a16722.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "d6/d21/a16722.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "d6/d21/a16722.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

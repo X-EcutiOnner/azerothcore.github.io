@@ -1,6 +1,9 @@
 var a11754 =
 [
-    [ "WorldSession", "d3/dc1/a11754.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "d3/dc1/a11754.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "d3/dc1/a11754.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "TotemCreated", "d3/dc1/a11754.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "d3/dc1/a11754.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "d3/dc1/a11754.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "d3/dc1/a11754.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "d3/dc1/a11754.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "d3/dc1/a11754.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

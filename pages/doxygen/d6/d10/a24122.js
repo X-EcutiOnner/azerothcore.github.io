@@ -1,9 +1,7 @@
 var a24122 =
 [
-    [ "npc_bessyAI", "d6/d10/a24122.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d6/d10/a24122.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d6/d10/a24122.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d6/d10/a24122.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d6/d10/a24122.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
-    [ "WaypointReached", "d6/d10/a24122.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "boss_gatewatcher_gyrokill", "d6/d10/a24122.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d6/d10/a24122.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d6/d10/a24122.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d6/d10/a24122.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

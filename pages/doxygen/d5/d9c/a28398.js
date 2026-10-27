@@ -1,10 +1,6 @@
 var a28398 =
 [
-    [ "npc_prof_blacksmith", "d5/d9c/a28398.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d5/d9c/a28398.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d5/d9c/a28398.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d5/d9c/a28398.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d5/d9c/a28398.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d5/d9c/a28398.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d5/d9c/a28398.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "go_flamesAI", "dc/d50/a28402.html", "dc/d50/a28402" ],
+    [ "go_flames", "d5/d9c/a28398.html#a75d49202eaf2078b8276e59944d1ec89", null ],
+    [ "GetAI", "d5/d9c/a28398.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
 ];

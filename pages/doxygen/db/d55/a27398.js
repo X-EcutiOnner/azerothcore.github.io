@@ -1,6 +1,6 @@
 var a27398 =
 [
-    [ "CheckProc", "db/d55/a27398.html#ae8f06d0b6738c92a2e4a45fe0ca81cb9", null ],
-    [ "PrepareAuraScript", "db/d55/a27398.html#aafd3eba8af1edb89ded08b056f9b497c", null ],
-    [ "Register", "db/d55/a27398.html#aeb1d84b45afc05b8b9ca5cea2a50f5a4", null ]
+    [ "HandleTriggerSpell", "db/d55/a27398.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "db/d55/a27398.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "db/d55/a27398.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

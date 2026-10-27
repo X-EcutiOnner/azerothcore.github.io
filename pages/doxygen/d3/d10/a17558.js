@@ -1,7 +1,6 @@
 var a17558 =
 [
-    [ "HandleEffectPeriodic", "d3/d10/a17558.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "d3/d10/a17558.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "d3/d10/a17558.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "d3/d10/a17558.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "boss_krickAI", "d6/dc8/a17562.html", "d6/dc8/a17562" ],
+    [ "boss_krick", "d3/d10/a17558.html#a8921ff79c0af7db7f7910634239bcd0c", null ],
+    [ "GetAI", "d3/d10/a17558.html#a9aa994da7c667b20c00b1bd1e994fed1", null ]
 ];

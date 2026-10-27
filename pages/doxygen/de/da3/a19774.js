@@ -1,15 +1,6 @@
 var a19774 =
 [
-    [ "boss_anomalus", "de/da3/a19774.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "de/da3/a19774.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "de/da3/a19774.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "de/da3/a19774.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "de/da3/a19774.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "de/da3/a19774.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "de/da3/a19774.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "de/da3/a19774.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "de/da3/a19774.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "_empowered", "de/da3/a19774.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
-    [ "achievement", "de/da3/a19774.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "de/da3/a19774.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "boss_thaddiusAI", "da/d3c/a19778.html", "da/d3c/a19778" ],
+    [ "boss_thaddius", "de/da3/a19774.html#aff97b030b861feb646e1b22f60ee3605", null ],
+    [ "GetAI", "de/da3/a19774.html#acf841c6897396f517a74932fc3480e69", null ]
 ];

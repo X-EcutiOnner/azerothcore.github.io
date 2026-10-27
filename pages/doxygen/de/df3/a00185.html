@@ -118,14 +118,14 @@ $(document).ready(function(){initNavTree('de/df3/a00185.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8b/a06093.html">SOAPCommand</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de4/a06106.html">SOAPCommand</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:abf914e30c869f88f2fafb9f656320c6a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df3/a00185.html#abf914e30c869f88f2fafb9f656320c6a">process_message</a> (struct soap *soap_message)</td></tr>
 <tr class="separator:abf914e30c869f88f2fafb9f656320c6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6c4b2ef1ce6f27015352f0c8b7a3bf11"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df3/a00185.html#a6c4b2ef1ce6f27015352f0c8b7a3bf11">ACSoapThread</a> (std::string const &amp;host, <a class="el" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> port)</td></tr>
+<tr class="memitem:a6c4b2ef1ce6f27015352f0c8b7a3bf11"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df3/a00185.html#a6c4b2ef1ce6f27015352f0c8b7a3bf11">ACSoapThread</a> (std::string const &amp;host, <a class="el" href="../../d6/d8c/a04703.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> port)</td></tr>
 <tr class="separator:a6c4b2ef1ce6f27015352f0c8b7a3bf11"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
@@ -144,7 +144,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d6/d8c/a04703.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
           <td class="paramname"><em>port</em>&#160;</td>
         </tr>
         <tr>
@@ -170,20 +170,20 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   40</span> </div>
 <div class="line"><span class="lineno">   41</span>    <span class="keywordflow">if</span> (!soap_valid_socket(soap_bind(&amp;soap, host.c_str(), port, 100)))</div>
 <div class="line"><span class="lineno">   42</span>    {</div>
-<div class="line"><span class="lineno">   43</span>        <a class="code hl_define" href="../../db/d9e/a04892.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: couldn&#39;t bind to {}:{}&quot;</span>, host, port);</div>
+<div class="line"><span class="lineno">   43</span>        <a class="code hl_define" href="../../db/d24/a04901.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: couldn&#39;t bind to {}:{}&quot;</span>, host, port);</div>
 <div class="line"><span class="lineno">   44</span>        <span class="comment">// graceful shutdown: exit() here would destroy SocketMgr before StopNetwork() and assert</span></div>
-<div class="line"><span class="lineno">   45</span>        <a class="code hl_function" href="../../de/d9d/a12453.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a>(<a class="code hl_enumvalue" href="../../d3/d91/a05119.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a>);</div>
+<div class="line"><span class="lineno">   45</span>        <a class="code hl_function" href="../../df/d92/a12470.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a>(<a class="code hl_enumvalue" href="../../d8/d2c/a05128.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a>);</div>
 <div class="line"><span class="lineno">   46</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   47</span>    }</div>
 <div class="line"><span class="lineno">   48</span> </div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_define" href="../../db/d9e/a04892.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: bound to http://{}:{}&quot;</span>, host, port);</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_define" href="../../db/d24/a04901.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: bound to http://{}:{}&quot;</span>, host, port);</div>
 <div class="line"><span class="lineno">   50</span> </div>
-<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">while</span> (!<a class="code hl_function" href="../../de/d9d/a12453.html#ae1716f62b00fe8ba87a92850bf4d054c">World::IsStopped</a>())</div>
+<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">while</span> (!<a class="code hl_function" href="../../df/d92/a12470.html#ae1716f62b00fe8ba87a92850bf4d054c">World::IsStopped</a>())</div>
 <div class="line"><span class="lineno">   52</span>    {</div>
 <div class="line"><span class="lineno">   53</span>        <span class="keywordflow">if</span> (!soap_valid_socket(soap_accept(&amp;soap)))</div>
 <div class="line"><span class="lineno">   54</span>            <span class="keywordflow">continue</span>;   <span class="comment">// ran into an accept timeout</span></div>
 <div class="line"><span class="lineno">   55</span> </div>
-<div class="line"><span class="lineno">   56</span>        <a class="code hl_define" href="../../db/d9e/a04892.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: accepted connection from IP={}.{}.{}.{}&quot;</span>, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 24) &amp; 0xFF, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 16) &amp; 0xFF, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 8) &amp; 0xFF, (<span class="keywordtype">int</span>)soap.ip &amp; 0xFF);</div>
+<div class="line"><span class="lineno">   56</span>        <a class="code hl_define" href="../../db/d24/a04901.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: accepted connection from IP={}.{}.{}.{}&quot;</span>, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 24) &amp; 0xFF, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 16) &amp; 0xFF, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 8) &amp; 0xFF, (<span class="keywordtype">int</span>)soap.ip &amp; 0xFF);</div>
 <div class="line"><span class="lineno">   57</span>        <span class="keyword">struct </span>soap* thread_soap = soap_copy(&amp;soap);<span class="comment">// make a safe copy</span></div>
 <div class="line"><span class="lineno">   58</span> </div>
 <div class="line"><span class="lineno">   59</span>        <a class="code hl_function" href="../../da/d15/a00188.html#abf914e30c869f88f2fafb9f656320c6a">process_message</a>(thread_soap);</div>
@@ -194,12 +194,12 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   64</span>    soap_done(&amp;soap);</div>
 <div class="line"><span class="lineno">   65</span>}</div>
 <div class="ttc" id="aa00188_html_abf914e30c869f88f2fafb9f656320c6a"><div class="ttname"><a href="../../da/d15/a00188.html#abf914e30c869f88f2fafb9f656320c6a">process_message</a></div><div class="ttdeci">void process_message(struct soap *soap_message)</div><div class="ttdef"><b>Definition:</b> ACSoap.cpp:67</div></div>
-<div class="ttc" id="aa04892_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../db/d9e/a04892.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:153</div></div>
-<div class="ttc" id="aa04892_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../db/d9e/a04892.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:145</div></div>
-<div class="ttc" id="aa04892_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../db/d9e/a04892.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
-<div class="ttc" id="aa05119_html_gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08"><div class="ttname"><a href="../../d3/d91/a05119.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a></div><div class="ttdeci">@ ERROR_EXIT_CODE</div><div class="ttdef"><b>Definition:</b> World.h:54</div></div>
-<div class="ttc" id="aa12453_html_ab0c53f76dd85fb0f2dcfc29b33291d9d"><div class="ttname"><a href="../../de/d9d/a12453.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a></div><div class="ttdeci">static void StopNow(uint8 exitcode)</div><div class="ttdef"><b>Definition:</b> World.h:195</div></div>
-<div class="ttc" id="aa12453_html_ae1716f62b00fe8ba87a92850bf4d054c"><div class="ttname"><a href="../../de/d9d/a12453.html#ae1716f62b00fe8ba87a92850bf4d054c">World::IsStopped</a></div><div class="ttdeci">static bool IsStopped()</div><div class="ttdef"><b>Definition:</b> World.h:196</div></div>
+<div class="ttc" id="aa04901_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../db/d24/a04901.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:153</div></div>
+<div class="ttc" id="aa04901_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../db/d24/a04901.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:145</div></div>
+<div class="ttc" id="aa04901_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../db/d24/a04901.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+<div class="ttc" id="aa05128_html_gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08"><div class="ttname"><a href="../../d8/d2c/a05128.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a></div><div class="ttdeci">@ ERROR_EXIT_CODE</div><div class="ttdef"><b>Definition:</b> World.h:54</div></div>
+<div class="ttc" id="aa12470_html_ab0c53f76dd85fb0f2dcfc29b33291d9d"><div class="ttname"><a href="../../df/d92/a12470.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a></div><div class="ttdeci">static void StopNow(uint8 exitcode)</div><div class="ttdef"><b>Definition:</b> World.h:195</div></div>
+<div class="ttc" id="aa12470_html_ae1716f62b00fe8ba87a92850bf4d054c"><div class="ttname"><a href="../../df/d92/a12470.html#ae1716f62b00fe8ba87a92850bf4d054c">World::IsStopped</a></div><div class="ttdeci">static bool IsStopped()</div><div class="ttdef"><b>Definition:</b> World.h:196</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00054">ERROR_EXIT_CODE</a>, <a class="el" href="../../#l00196">World::IsStopped()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00067">process_message()</a>, and <a class="el" href="../../#l00195">World::StopNow()</a>.</p>
 
@@ -223,14 +223,14 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_define" href="../../db/d9e/a04892.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;SOAPWorkingThread::process_message&quot;</span>);</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_define" href="../../db/d24/a04901.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;SOAPWorkingThread::process_message&quot;</span>);</div>
 <div class="line"><span class="lineno">   70</span> </div>
 <div class="line"><span class="lineno">   71</span>    soap_serve(soap_message);</div>
 <div class="line"><span class="lineno">   72</span>    soap_destroy(soap_message); <span class="comment">// dealloc C++ data</span></div>
 <div class="line"><span class="lineno">   73</span>    soap_end(soap_message); <span class="comment">// dealloc data and clean up</span></div>
 <div class="line"><span class="lineno">   74</span>    soap_free(soap_message); <span class="comment">// detach soap struct and fre up the memory</span></div>
 <div class="line"><span class="lineno">   75</span>}</div>
-<div class="ttc" id="aa04892_html_ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5"><div class="ttname"><a href="../../db/d9e/a04892.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a></div><div class="ttdeci">#define LOG_TRACE(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:161</div></div>
+<div class="ttc" id="aa04901_html_ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5"><div class="ttname"><a href="../../db/d24/a04901.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a></div><div class="ttdeci">#define LOG_TRACE(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:161</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00161">LOG_TRACE</a>.</p>
 
@@ -244,7 +244,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c8498b4bff487486cc5ffdac4c412cf7.html">apps</a></li><li class="navelem"><a class="el" href="../../dir_4a0dc471e712914507a0672b672729a4.html">worldserver</a></li><li class="navelem"><a class="el" href="../../dir_d5546cd048ce0388ac9df91d37210e56.html">ACSoap</a></li><li class="navelem"><a class="el" href="../../de/df3/a00185.html">ACSoap.h</a></li>
-    <li class="footer">Generated on Mon Oct 19 2026 23:55:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 27 2026 00:02:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

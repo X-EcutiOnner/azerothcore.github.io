@@ -1,5 +1,9 @@
 var a23458 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d5/d4d/a23458.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "d5/d4d/a23458.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "FilterTargets", "d5/d4d/a23458.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "d5/d4d/a23458.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "d5/d4d/a23458.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "d5/d4d/a23458.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "d5/d4d/a23458.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "d5/d4d/a23458.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

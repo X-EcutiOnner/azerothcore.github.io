@@ -1,7 +1,6 @@
 var a18670 =
 [
-    [ "HandleScript", "db/dfd/a18670.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
-    [ "PrepareSpellScript", "db/dfd/a18670.html#a598baad08c685bba54ad5306e0d521b4", null ],
-    [ "Register", "db/dfd/a18670.html#a471bac09c68708daefe6a39f283caa4c", null ],
-    [ "Validate", "db/dfd/a18670.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
+    [ "npc_spinestalkerAI", "d7/d50/a18674.html", "d7/d50/a18674" ],
+    [ "npc_spinestalker", "db/dfd/a18670.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
+    [ "GetAI", "db/dfd/a18670.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
 ];

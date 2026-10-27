@@ -1,10 +1,10 @@
 var a23726 =
 [
-    [ "boss_harbinger_skyriss", "d0/d4f/a23726.html#a245179f74d61c2671b397e8f2473b599", null ],
-    [ "EnterEvadeMode", "d0/d4f/a23726.html#a873413da06569343225e6659f8277b2c", null ],
-    [ "JustDied", "d0/d4f/a23726.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
-    [ "JustEngagedWith", "d0/d4f/a23726.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
-    [ "JustSummoned", "d0/d4f/a23726.html#a97d84139a3e970e22d7d422f2f825f12", null ],
-    [ "KilledUnit", "d0/d4f/a23726.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
-    [ "Reset", "d0/d4f/a23726.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
+    [ "boss_blindeye_the_seer", "d0/d4f/a23726.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "d0/d4f/a23726.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "d0/d4f/a23726.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "d0/d4f/a23726.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "d0/d4f/a23726.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "d0/d4f/a23726.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "d0/d4f/a23726.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

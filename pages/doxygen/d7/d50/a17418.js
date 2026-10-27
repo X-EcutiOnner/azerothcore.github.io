@@ -1,6 +1,5 @@
 var a17418 =
 [
-    [ "boss_garfrostAI", "de/d44/a17422.html", "de/d44/a17422" ],
-    [ "boss_garfrost", "d7/d50/a17418.html#ac116491cf252ee476cedee55ea292827", null ],
-    [ "GetAI", "d7/d50/a17418.html#a8a67bb09249655a8706868bb26b5124d", null ]
+    [ "npc_fos_leader_secondAI", "d7/d50/a17418.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "d7/d50/a17418.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

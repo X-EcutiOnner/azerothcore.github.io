@@ -1,9 +1,10 @@
 var a09022 =
 [
-    [ "PendingSpellCastRequest", "da/d11/a09022.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
-    [ "cancelInProgress", "da/d11/a09022.html#a726b6e423b23f8c12c65e07809462ad1", null ],
-    [ "category", "da/d11/a09022.html#a51a702f257b784dac4556397dd1c0be4", null ],
-    [ "isItem", "da/d11/a09022.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
-    [ "requestPacket", "da/d11/a09022.html#a6ee868c6161e49dc8774ab357f313116", null ],
-    [ "spellId", "da/d11/a09022.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
+    [ "SpellModifier", "da/d11/a09022.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
+    [ "mask", "da/d11/a09022.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
+    [ "op", "da/d11/a09022.html#a21d017f0c8d3108a0eb5f48798103356", null ],
+    [ "ownerAura", "da/d11/a09022.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
+    [ "spellId", "da/d11/a09022.html#a465803efab27b2ba0a49c6571b65b908", null ],
+    [ "type", "da/d11/a09022.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
+    [ "value", "da/d11/a09022.html#a31742662ba8112c9e9b972897a928e57", null ]
 ];

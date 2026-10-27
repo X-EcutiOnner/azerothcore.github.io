@@ -1,6 +1,6 @@
 var a17582 =
 [
-    [ "boss_drakkari_colossusAI", "d9/d09/a17586.html", "d9/d09/a17586" ],
-    [ "boss_drakkari_colossus", "dc/d86/a17582.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
-    [ "GetAI", "dc/d86/a17582.html#a75c6c9c56fe11342dd8aece031059e77", null ]
+    [ "instance_pit_of_saron_InstanceScript", "d9/d09/a17586.html", "d9/d09/a17586" ],
+    [ "instance_pit_of_saron", "dc/d86/a17582.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
+    [ "GetInstanceScript", "dc/d86/a17582.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
 ];

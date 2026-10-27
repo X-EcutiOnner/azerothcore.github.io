@@ -1,9 +1,8 @@
 var a28090 =
 [
-    [ "boss_ysondreAI", "d1/d77/a28090.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
-    [ "DamageTaken", "d1/d77/a28090.html#a99ee250e776001bb142815fc711ae75d", null ],
-    [ "ExecuteEvent", "d1/d77/a28090.html#a88e3caa536a71730c757590be1bd3de1", null ],
-    [ "JustEngagedWith", "d1/d77/a28090.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
-    [ "Reset", "d1/d77/a28090.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
-    [ "_stage", "d1/d77/a28090.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
+    [ "HandleDamage", "d1/d77/a28090.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "d1/d77/a28090.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "d1/d77/a28090.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "d1/d77/a28090.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "d1/d77/a28090.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

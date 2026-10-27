@@ -1,9 +1,6 @@
 var a17878 =
 [
-    [ "CheckProc", "d2/de8/a17878.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "d2/de8/a17878.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "d2/de8/a17878.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "d2/de8/a17878.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "d2/de8/a17878.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "d2/de8/a17878.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "ModAuraStack", "d2/de8/a17878.html#a7535ef148e047e32a5f7a1944585e396", null ],
+    [ "PrepareSpellScript", "d2/de8/a17878.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
+    [ "Register", "d2/de8/a17878.html#ab44b362197e74b98b3ffeb98eff52742", null ]
 ];

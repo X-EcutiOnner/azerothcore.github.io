@@ -1,8 +1,10 @@
 var a09366 =
 [
-    [ "DungeonEncounter", "de/d67/a09366.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
-    [ "creditEntry", "de/d67/a09366.html#a700a0792973678339f33ab85e7396918", null ],
-    [ "creditType", "de/d67/a09366.html#a66a077e193f099bb7aef363dc75672d6", null ],
-    [ "dbcEntry", "de/d67/a09366.html#a262bdd0ba443739456fc14bcad83ecda", null ],
-    [ "lastEncounterDungeon", "de/d67/a09366.html#a67e29b891887e339dbb40515d082e781", null ]
+    [ "mapId", "de/d67/a09366.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "de/d67/a09366.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "de/d67/a09366.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "de/d67/a09366.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "de/d67/a09366.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "de/d67/a09366.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "de/d67/a09366.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

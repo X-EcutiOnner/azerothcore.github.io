@@ -1,7 +1,7 @@
 var a25178 =
 [
-    [ "HandleScript", "df/de9/a25178.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
-    [ "PrepareSpellScript", "df/de9/a25178.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
-    [ "Register", "df/de9/a25178.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
-    [ "Validate", "df/de9/a25178.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
+    [ "if", "df/de9/a25178.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
+    [ "PrepareAuraScript", "df/de9/a25178.html#a01d974333043452a37ec3124d23b49f2", null ],
+    [ "Register", "df/de9/a25178.html#aeb6c695819e894aad8b210a237e6d315", null ],
+    [ "AuraEffectHandleModes", "df/de9/a25178.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
 ];

@@ -1,10 +1,6 @@
 var a18410 =
 [
-    [ "FilterTargets", "dc/d16/a18410.html#aefba5226671b6217549bd34059519179", null ],
-    [ "Load", "dc/d16/a18410.html#af8a2b651782783dc29ac7266ed02c028", null ],
-    [ "NotifyTargets", "dc/d16/a18410.html#a618e98fbd5c6ae21047cc4f911099730", null ],
-    [ "PrepareSpellScript", "dc/d16/a18410.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
-    [ "Register", "dc/d16/a18410.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
-    [ "ReplaceTargets", "dc/d16/a18410.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
-    [ "_target", "dc/d16/a18410.html#a10c85fd3909e56f457d73add8021c0b7", null ]
+    [ "npc_gas_cloudAI", "d5/db7/a18414.html", "d5/db7/a18414" ],
+    [ "npc_gas_cloud", "dc/d16/a18410.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "dc/d16/a18410.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

@@ -1,7 +1,6 @@
 var a16662 =
 [
-    [ "TwilightCutterSelector", "d2/dfd/a16662.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
-    [ "operator()", "d2/dfd/a16662.html#a6374425df156bdf202d53a2c73ef784c", null ],
-    [ "_caster", "d2/dfd/a16662.html#a784c95ef6472e711f4200f194222d179", null ],
-    [ "_cutterCaster", "d2/dfd/a16662.html#a7f713777a36a8d127c2865e4610b1288", null ]
+    [ "npc_xerestraszaAI", "da/df8/a16666.html", "da/df8/a16666" ],
+    [ "npc_xerestrasza", "d2/dfd/a16662.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
+    [ "GetAI", "d2/dfd/a16662.html#a5e0ede0054969d4787db56781dc55846", null ]
 ];

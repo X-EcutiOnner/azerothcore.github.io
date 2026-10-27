@@ -1,5 +1,10 @@
 var a08822 =
 [
-    [ "PackedGuidReader", "d9/db0/a08822.html#aec7af2ed383e06998a0fa12b94da90e3", null ],
-    [ "Guid", "d9/db0/a08822.html#a4de5d725a22f0a8ae4bb83cb51a72588", null ]
+    [ "GameObjectData", "d9/db0/a08822.html#aaef16c60fee2c9c6a309cfe14f02c0fe", null ],
+    [ "animprogress", "d9/db0/a08822.html#aadec9e3088063532fd879fdaad3c3d74", null ],
+    [ "artKit", "d9/db0/a08822.html#a4e5d0f2b99f1bd87aa22c943594ce355", null ],
+    [ "go_state", "d9/db0/a08822.html#ae8c523cb24a55fcde5d8caac3f82dfd5", null ],
+    [ "id", "d9/db0/a08822.html#ae12c8c5e7b3c848a57960e4c51d76e84", null ],
+    [ "rotation", "d9/db0/a08822.html#a81da3cac2ac1a3cf71579b1da6873fe9", null ],
+    [ "spawntimesecs", "d9/db0/a08822.html#a6afeb167bb136c3ddabcc350007788db", null ]
 ];

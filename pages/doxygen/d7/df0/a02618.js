@@ -1,7 +1,7 @@
 var a02618 =
 [
-    [ "SpawnGroupTemplateData", "d7/daf/a10397.html", "d7/daf/a10397" ],
-    [ "SpawnData", "d1/dba/a10401.html", "d1/dba/a10401" ],
+    [ "SpawnGroupTemplateData", "d4/df6/a10410.html", "d4/df6/a10410" ],
+    [ "SpawnData", "dd/d33/a10414.html", "dd/d33/a10414" ],
     [ "SpawnGroupFlags", "d7/df0/a02618.html#a4d92d9f9c1ddb3ba951f249d8c3a9567", [
       [ "SPAWNGROUP_FLAG_NONE", "d7/df0/a02618.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a8e60132edd361c998c88ad58f487ff01", null ],
       [ "SPAWNGROUP_FLAG_SYSTEM", "d7/df0/a02618.html#a4d92d9f9c1ddb3ba951f249d8c3a9567ac7f000051c11e8e64e44d8e559df0769", null ],

@@ -1,6 +1,6 @@
 var a27198 =
 [
-    [ "HandleDummy", "dc/d2b/a27198.html#a86ec9b4606ae92b070edd4ca863fe93e", null ],
-    [ "PrepareSpellScript", "dc/d2b/a27198.html#a4411e4317053450a0ac5217d546952b2", null ],
-    [ "Register", "dc/d2b/a27198.html#a9eea8631e0723555a9c328bdfc1e30b7", null ]
+    [ "CheckCast", "dc/d2b/a27198.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
+    [ "PrepareSpellScript", "dc/d2b/a27198.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
+    [ "Register", "dc/d2b/a27198.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
 ];

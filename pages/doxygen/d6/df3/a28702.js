@@ -1,5 +1,6 @@
 var a28702 =
 [
-    [ "npc_sunwell_gate", "d6/df3/a28702.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "d6/df3/a28702.html#a760f5bef0c1f45f21698b0dcdf2d2236", null ]
+    [ "spawnedCreatureEntry", "d6/df3/a28702.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "d6/df3/a28702.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "d6/df3/a28702.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

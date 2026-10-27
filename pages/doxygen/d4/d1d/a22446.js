@@ -1,9 +1,6 @@
 var a22446 =
 [
-    [ "npc_finklesteinAI", "d6/d95/a22450.html", "d6/d95/a22450" ],
-    [ "npc_finklestein", "d4/d1d/a22446.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "d4/d1d/a22446.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "d4/d1d/a22446.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "d4/d1d/a22446.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "d4/d1d/a22446.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "PrepareSpellScript", "d4/d1d/a22446.html#a87014fc73af805b7ad052d1f4f45d7cd", null ],
+    [ "Register", "d4/d1d/a22446.html#a306252bb3bc9af689400981b198f66e8", null ],
+    [ "SetDest", "d4/d1d/a22446.html#a0bffbc57932a2efe33a9912d608eb79d", null ]
 ];

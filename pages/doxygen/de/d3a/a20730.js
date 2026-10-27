@@ -1,9 +1,8 @@
 var a20730 =
 [
-    [ "npc_expedition_trapper", "de/d3a/a20730.html#ac924a9b9e23624de1460b0cdfe8c8a1b", null ],
-    [ "DoAction", "de/d3a/a20730.html#a094ecbf1a719223d50c7d070989aa782", null ],
-    [ "MovementInform", "de/d3a/a20730.html#ae2a0c15b4a7d59f4222e818d0fcf303b", null ],
-    [ "SetData", "de/d3a/a20730.html#a11241b1513209a9964569ab29eb5dc64", null ],
-    [ "UpdateAI", "de/d3a/a20730.html#a16a39f855263ebde21ddb03d4fe60460", null ],
-    [ "_idx", "de/d3a/a20730.html#ae24ec016a0f29f7bcb41935e1991f9fa", null ]
+    [ "FilterTargetsInitial", "de/d3a/a20730.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "HandleScriptEffect", "de/d3a/a20730.html#ac2cb57964b5bbd9dee532f6064f3c75d", null ],
+    [ "Load", "de/d3a/a20730.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "de/d3a/a20730.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "de/d3a/a20730.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

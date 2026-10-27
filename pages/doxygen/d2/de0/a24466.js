@@ -1,6 +1,6 @@
 var a24466 =
 [
-    [ "HandleEffectRemove", "d2/de0/a24466.html#a9472b79a272aff36be657b66883d822f", null ],
-    [ "PrepareAuraScript", "d2/de0/a24466.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
-    [ "Register", "d2/de0/a24466.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
+    [ "PrepareSpellScript", "d2/de0/a24466.html#aa858fff409e5c75d865c91cb5fbef679", null ],
+    [ "Register", "d2/de0/a24466.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
+    [ "SetDest", "d2/de0/a24466.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
 ];

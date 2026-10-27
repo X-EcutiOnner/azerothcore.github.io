@@ -1,6 +1,6 @@
 var a20898 =
 [
-    [ "FilterTargets", "d2/d66/a20898.html#a766440359968faf85f60f987b5da8c70", null ],
-    [ "PrepareSpellScript", "d2/d66/a20898.html#a3f53d4e7fa30e53a1e05803a60c8b09b", null ],
-    [ "Register", "d2/d66/a20898.html#adbcc19da817ecdfad19543b70afd9e56", null ]
+    [ "npc_razorscale_devouring_flame", "d2/d66/a20898.html#a86c3d4cdf0d9757612264f62fd9e283e", null ],
+    [ "EnterEvadeMode", "d2/d66/a20898.html#a7d32fe90b53b3d681627d84bf3825bc2", null ],
+    [ "Reset", "d2/d66/a20898.html#adb6acc83d528f71a69e854e46b2405c3", null ]
 ];

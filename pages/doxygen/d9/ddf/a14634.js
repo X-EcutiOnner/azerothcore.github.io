@@ -1,7 +1,5 @@
 var a14634 =
 [
-    [ "HandleApply", "d9/ddf/a14634.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
-    [ "HandleRemove", "d9/ddf/a14634.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
-    [ "PrepareAuraScript", "d9/ddf/a14634.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
-    [ "Register", "d9/ddf/a14634.html#af2343add2ed014832bd34d11519b391b", null ]
+    [ "at_zulgurub_edge_of_madness_speech", "d9/ddf/a14634.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
+    [ "_OnTrigger", "d9/ddf/a14634.html#ab04b77d7521296cd271f763274d09841", null ]
 ];

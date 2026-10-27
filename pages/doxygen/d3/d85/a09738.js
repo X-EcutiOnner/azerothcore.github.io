@@ -1,8 +1,9 @@
 var a09738 =
 [
-    [ "MostHPMissingInRange", "d3/d85/a09738.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
-    [ "operator()", "d3/d85/a09738.html#a420388204d8a1420552b902fbcb2bebe", null ],
-    [ "i_hp", "d3/d85/a09738.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
-    [ "i_obj", "d3/d85/a09738.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
-    [ "i_range", "d3/d85/a09738.html#acef63da9004997c7f25056651284efa9", null ]
+    [ "GameObjectLastSearcher", "d3/d85/a09738.html#a9f478f784f46fa502910f621f10238f2", null ],
+    [ "Visit", "d3/d85/a09738.html#a2ba394a2da9f72c7621567092c175f0b", null ],
+    [ "Visit", "d3/d85/a09738.html#a4298bd100890e61a34e827f96d70e752", null ],
+    [ "i_check", "d3/d85/a09738.html#a06f8a6b33e26cdc17508198a9ee08f87", null ],
+    [ "i_object", "d3/d85/a09738.html#a4573ba382a79a34f6c006b7c175f84f1", null ],
+    [ "i_phaseMask", "d3/d85/a09738.html#a7130ecacc379e9f41779a8e0f422b32c", null ]
 ];

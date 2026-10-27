@@ -1,10 +1,13 @@
 var a21594 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d7/d37/a21594.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "d7/d37/a21594.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "d7/d37/a21594.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "d7/d37/a21594.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "d7/d37/a21594.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "d7/d37/a21594.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "d7/d37/a21594.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "boss_toravonAI", "d7/d37/a21594.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "d7/d37/a21594.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "d7/d37/a21594.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "d7/d37/a21594.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "d7/d37/a21594.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "d7/d37/a21594.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "d7/d37/a21594.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "d7/d37/a21594.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "d7/d37/a21594.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "d7/d37/a21594.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

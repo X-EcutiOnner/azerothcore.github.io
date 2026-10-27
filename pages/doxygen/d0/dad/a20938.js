@@ -1,6 +1,7 @@
 var a20938 =
 [
-    [ "HandleScript", "d0/dad/a20938.html#a679cf770e38e1fda66f8a64fff53f968", null ],
-    [ "PrepareSpellScript", "d0/dad/a20938.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
-    [ "Register", "d0/dad/a20938.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
+    [ "HandleFused", "d0/dad/a20938.html#ab5ea77be32486664ff6c5ff7dc01f7dd", null ],
+    [ "PrepareAuraScript", "d0/dad/a20938.html#a438c63656d2a976883fa13232cc5dc6e", null ],
+    [ "Register", "d0/dad/a20938.html#a17300c74645f9298d8422535a61fe077", null ],
+    [ "Validate", "d0/dad/a20938.html#a55ca732a3d0e3a69f055fd915037a5f0", null ]
 ];

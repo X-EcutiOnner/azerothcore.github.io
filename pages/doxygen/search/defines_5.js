@@ -10,8 +10,8 @@ var searchData=
   ['event_5fcooldown_7',['EVENT_COOLDOWN',['../d6/d1e/a02171.html#a4154053cb93b323fc74dd05d04a20d7e',1,'EVENT_COOLDOWN():&#160;zone_silithus.cpp'],['../df/da9/a00263.html#a4154053cb93b323fc74dd05d04a20d7e',1,'EVENT_COOLDOWN():&#160;zone_shadowmoon_valley.cpp']]],
   ['event_5fgroup_5fabilities_8',['EVENT_GROUP_ABILITIES',['../d3/d53/a01262.html#a45a304b8dfba9d442913fc1a33c1b239',1,'boss_professor_putricide.cpp']]],
   ['exact_5fsequence_9',['EXACT_SEQUENCE',['../dd/deb/a04304.html#ac61bb0d0d29d3ccc94188eb93516adf5',1,'ChatCommandTags.h']]],
-  ['exception_10',['EXCEPTION',['../dc/d4a/a04832.html#a04a8ef8e5d1a39a04fed031f53ffa2db',1,'WheatyExceptionReport.cpp']]],
-  ['exception_5fassertion_5ffailure_11',['EXCEPTION_ASSERTION_FAILURE',['../db/db4/a04835.html#adb1e581c0b1db74338cf2892218ff23f',1,'Errors.h']]],
+  ['exception_10',['EXCEPTION',['../d4/d72/a04841.html#a04a8ef8e5d1a39a04fed031f53ffa2db',1,'WheatyExceptionReport.cpp']]],
+  ['exception_5fassertion_5ffailure_11',['EXCEPTION_ASSERTION_FAILURE',['../de/df4/a04844.html#adb1e581c0b1db74338cf2892218ff23f',1,'Errors.h']]],
   ['expect_5fproc_5fdoes_5fnot_5ftrigger_12',['EXPECT_PROC_DOES_NOT_TRIGGER',['../dc/d7e/a04424.html#ab8dc66c27ffce0980153941e8e7ab701',1,'AuraScriptTestFramework.h']]],
   ['expect_5fproc_5ftriggers_13',['EXPECT_PROC_TRIGGERS',['../dc/d7e/a04424.html#ad89bc4ac2d1077d7e73a7e08336ff303',1,'AuraScriptTestFramework.h']]],
   ['eyeofeternityscriptname_14',['EyeOfEternityScriptName',['../d7/d1c/a01397.html#a7ce256d13936cff51c83835c5e3329f9',1,'eye_of_eternity.h']]]

@@ -1,9 +1,6 @@
 var a16738 =
 [
-    [ "npc_memoryAI", "dd/d62/a16738.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "dd/d62/a16738.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "dd/d62/a16738.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "dd/d62/a16738.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "dd/d62/a16738.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "dd/d62/a16738.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "HandleForceCast", "dd/d62/a16738.html#a975b69649aba9de341f4e52c82a3c111", null ],
+    [ "PrepareSpellScript", "dd/d62/a16738.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
+    [ "Register", "dd/d62/a16738.html#a794a59e5fd3bda75f30d559f422895b5", null ]
 ];

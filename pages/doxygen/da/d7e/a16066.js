@@ -1,6 +1,6 @@
 var a16066 =
 [
-    [ "SpellId", "da/d7e/a16066.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "da/d7e/a16066.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "da/d7e/a16066.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_tiger_matriarch_creditAI", "d9/d48/a16070.html", "d9/d48/a16070" ],
+    [ "npc_tiger_matriarch_credit", "da/d7e/a16066.html#a9d76e8e808c828da501551025eecd8ea", null ],
+    [ "GetAI", "da/d7e/a16066.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
 ];

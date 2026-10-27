@@ -1,9 +1,10 @@
 var a09806 =
 [
-    [ "NearestHostileUnitCheck", "d8/daf/a09806.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
-    [ "NearestHostileUnitCheck", "d8/daf/a09806.html#a2fe620370289850eb0362823de2072d1", null ],
-    [ "operator()", "d8/daf/a09806.html#a04c85a77d660bbc74279d1062dabc375", null ],
-    [ "i_playerOnly", "d8/daf/a09806.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
-    [ "m_range", "d8/daf/a09806.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
-    [ "me", "d8/daf/a09806.html#a67cef25e6f725ea42f0377df34d48495", null ]
+    [ "AnyDeadUnitSpellTargetInRangeCheck", "d8/daf/a09806.html#a212c308a02716ff382e820e86e233ed3", null ],
+    [ "operator()", "d8/daf/a09806.html#af328df880d17a62e2dbed0ff4231fc39", null ],
+    [ "operator()", "d8/daf/a09806.html#adcc69b9ef03a68aa235e40449a80b701", null ],
+    [ "operator()", "d8/daf/a09806.html#a2f2483cf7078681cb3acf28560e61184", null ],
+    [ "operator()", "d8/daf/a09806.html#aba0bf4c320a684b68743a06e724a369e", null ],
+    [ "i_check", "d8/daf/a09806.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
+    [ "i_spellInfo", "d8/daf/a09806.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
 ];

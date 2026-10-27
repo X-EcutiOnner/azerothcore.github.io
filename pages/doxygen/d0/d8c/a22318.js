@@ -1,9 +1,6 @@
 var a22318 =
 [
-    [ "HandlePeriodic", "d0/d8c/a22318.html#a0943e7887ff935ccea21d913429e25a0", null ],
-    [ "OnRemove", "d0/d8c/a22318.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
-    [ "PrepareAuraScript", "d0/d8c/a22318.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
-    [ "Register", "d0/d8c/a22318.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
-    [ "_tickNumber", "d0/d8c/a22318.html#a3f8943e288e96f639fb805869749879b", null ],
-    [ "_warning", "d0/d8c/a22318.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
+    [ "HandleDummy", "d0/d8c/a22318.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "d0/d8c/a22318.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "d0/d8c/a22318.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

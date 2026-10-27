@@ -1,9 +1,10 @@
 var a25922 =
 [
-    [ "spell_item_trigger_spell", "d5/d8c/a25922.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
-    [ "HandleDummy", "d5/d8c/a25922.html#a49613255eea28e34cf5ff8a06798f89a", null ],
-    [ "PrepareSpellScript", "d5/d8c/a25922.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
-    [ "Register", "d5/d8c/a25922.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
-    [ "Validate", "d5/d8c/a25922.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
-    [ "_triggeredSpellId", "d5/d8c/a25922.html#a610c5ac434fe788120ed101f7bf58f63", null ]
+    [ "CheckPeriodicProc", "d5/d8c/a25922.html#abd7673f268b80681b27a862bd8013de3", null ],
+    [ "CheckProc", "d5/d8c/a25922.html#a439aa5395d222291fbd5943f853d8961", null ],
+    [ "CheckTrapProc", "d5/d8c/a25922.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
+    [ "HandleProc", "d5/d8c/a25922.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
+    [ "PrepareAuraScript", "d5/d8c/a25922.html#a475320d20875b2d710ed3734b78f4645", null ],
+    [ "Register", "d5/d8c/a25922.html#aca7649a87ace4e22793ca33705b1500c", null ],
+    [ "Validate", "d5/d8c/a25922.html#a45630b6dc703996321286ff16a17e3e3", null ]
 ];

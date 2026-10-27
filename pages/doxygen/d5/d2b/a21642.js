@@ -1,6 +1,8 @@
 var a21642 =
 [
-    [ "npc_bloodmage_laurithAI", "df/df0/a21646.html", "df/df0/a21646" ],
-    [ "npc_bloodmage_laurith", "d5/d2b/a21642.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "d5/d2b/a21642.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "boss_lavanthor", "d5/d2b/a21642.html#ad264818ef0f539c48160de9dbebeac7f", null ],
+    [ "EnterEvadeMode", "d5/d2b/a21642.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
+    [ "ExecuteEvent", "d5/d2b/a21642.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
+    [ "JustEngagedWith", "d5/d2b/a21642.html#a4bc5fa66192daab98027539efda37bdc", null ],
+    [ "MoveInLineOfSight", "d5/d2b/a21642.html#a6f68cd280561b428400a08a155f83ccb", null ]
 ];

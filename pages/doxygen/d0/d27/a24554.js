@@ -1,10 +1,8 @@
 var a24554 =
 [
-    [ "Absorb", "d0/d27/a24554.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
-    [ "CalculateAmount", "d0/d27/a24554.html#a279a025cac490ee3647f47584b59179f", null ],
-    [ "Load", "d0/d27/a24554.html#a3fededdbfca9d12e6dbd097620e104be", null ],
-    [ "PrepareAuraScript", "d0/d27/a24554.html#a818875a8073491eab2508182bd941e25", null ],
-    [ "Register", "d0/d27/a24554.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
-    [ "Validate", "d0/d27/a24554.html#a60eb14be1b3108b7b896a27eab35569b", null ],
-    [ "absorbPct", "d0/d27/a24554.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
+    [ "npc_pet_dk_ghoul", "d0/d27/a24554.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d0/d27/a24554.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d0/d27/a24554.html#a6095e3619b470283b9875b90e2805b54", null ],
+    [ "UpdateAI", "d0/d27/a24554.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
+    [ "_summonTargetGUID", "d0/d27/a24554.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
 ];

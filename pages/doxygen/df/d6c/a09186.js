@@ -1,13 +1,9 @@
 var a09186 =
 [
-    [ "BuildValuesCachePosPointers", "df/d6c/a09186.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
-    [ "ApplyOffset", "df/d6c/a09186.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
-    [ "other", "df/d6c/a09186.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
-    [ "UnitDynamicFlagsPos", "df/d6c/a09186.html#a230385a8646ebce01faaadce648b1a61", null ],
-    [ "UnitFieldAuraStatePos", "df/d6c/a09186.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
-    [ "UnitFieldBytes2Pos", "df/d6c/a09186.html#aa1df8492f0a3c576b067469ee3552796", null ],
-    [ "UnitFieldDisplayPos", "df/d6c/a09186.html#a1058d1650d656498f7dcd5139363a315", null ],
-    [ "UnitFieldFactionTemplatePos", "df/d6c/a09186.html#a9b8eae9da685231956dca3e92b845cbb", null ],
-    [ "UnitFieldFlagsPos", "df/d6c/a09186.html#a04e607123d1d1dde24611b573d25fedb", null ],
-    [ "UnitNPCFlagsPos", "df/d6c/a09186.html#aa9412413e1a867d1f3857d18f4d52906", null ]
+    [ "GlobalCooldownMgr", "df/d6c/a09186.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
+    [ "AddGlobalCooldown", "df/d6c/a09186.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
+    [ "CancelGlobalCooldown", "df/d6c/a09186.html#aed6b479416104dc536116fdb1e24fcf3", null ],
+    [ "GetGlobalCooldown", "df/d6c/a09186.html#ae44caed35e93f834ff68394c1ab6434b", null ],
+    [ "HasGlobalCooldown", "df/d6c/a09186.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
+    [ "m_GlobalCooldowns", "df/d6c/a09186.html#a80d03691d36758733f326b65992f266e", null ]
 ];

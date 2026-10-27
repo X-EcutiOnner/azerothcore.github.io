@@ -1,7 +1,8 @@
 var a15982 =
 [
-    [ "HandleDummy", "d9/d96/a15982.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "d9/d96/a15982.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "d9/d96/a15982.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "d9/d96/a15982.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "npc_death_ravagerAI", "d9/d96/a15982.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "d9/d96/a15982.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "d9/d96/a15982.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "d9/d96/a15982.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "d9/d96/a15982.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

@@ -1,6 +1,5 @@
 var a28582 =
 [
-    [ "npc_fireworkAI", "de/dcf/a28586.html", "de/dcf/a28586" ],
-    [ "npc_firework", "df/dfe/a28582.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "df/dfe/a28582.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "item_disgusting_jar", "df/dfe/a28582.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "df/dfe/a28582.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

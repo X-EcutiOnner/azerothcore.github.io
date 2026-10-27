@@ -1,7 +1,5 @@
 var a16470 =
 [
-    [ "HandleScriptEffect", "d7/d57/a16470.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
-    [ "PrepareSpellScript", "d7/d57/a16470.html#a392c40d469c3c1e816d5dc364fde824c", null ],
-    [ "Register", "d7/d57/a16470.html#aa59c26b25ca0f440de36e450adf050a5", null ],
-    [ "Validate", "d7/d57/a16470.html#a370f83112d901f9565734b11d12858f4", null ]
+    [ "achievement_volunteer_work", "d7/d57/a16470.html#a43db6e553b370f139ac376840fdf6d70", null ],
+    [ "OnCheck", "d7/d57/a16470.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
 ];

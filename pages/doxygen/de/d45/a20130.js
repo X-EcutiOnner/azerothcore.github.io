@@ -1,7 +1,7 @@
 var a20130 =
 [
-    [ "HandleDummyEffect", "de/d45/a20130.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "de/d45/a20130.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "de/d45/a20130.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "de/d45/a20130.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "HandleScript", "de/d45/a20130.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "de/d45/a20130.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "de/d45/a20130.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "de/d45/a20130.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

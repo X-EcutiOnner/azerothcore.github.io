@@ -1,16 +1,6 @@
 var a08282 =
 [
-    [ "DisableMap", "df/d51/a08282.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
-    [ "DisableTypeMap", "df/d51/a08282.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
-    [ "DisableMgr", "df/d51/a08282.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
-    [ "~DisableMgr", "df/d51/a08282.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
-    [ "AddDisable", "df/d51/a08282.html#a343955ca73dabce8e7b81bf2803992fc", null ],
-    [ "CheckQuestDisables", "df/d51/a08282.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
-    [ "HandleDisableType", "df/d51/a08282.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
-    [ "instance", "df/d51/a08282.html#ac3787801d677b0ed6592476d648743db", null ],
-    [ "IsDisabledFor", "df/d51/a08282.html#accac4f17d8411544e22ba2231b04f36f", null ],
-    [ "IsPathfindingEnabled", "df/d51/a08282.html#a8dce4846886ded6ec2b882820abdc517", null ],
-    [ "IsVMAPDisabledFor", "df/d51/a08282.html#a38b182e1836b2197303b2809006f5148", null ],
-    [ "LoadDisables", "df/d51/a08282.html#adb464165caf6cd436499fa84969eeaf8", null ],
-    [ "m_DisableMap", "df/d51/a08282.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
+    [ "value_type", "df/d51/a08282.html#a76992ebab6be3e3745a751e01fd323be", null ],
+    [ "StoreTo", "df/d51/a08282.html#a8a35f087389146989768ad157471fd71", null ],
+    [ "tag", "df/d51/a08282.html#a3939942eb76690646ee204e87af12205", null ]
 ];

@@ -1,6 +1,6 @@
 var a16374 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d6/d9f/a16378.html", "d6/d9f/a16378" ],
-    [ "instance_ahnkahet", "d0/d21/a16374.html#afbe11bc040019231878cf31cc357830b", null ],
-    [ "GetInstanceScript", "d0/d21/a16374.html#a8847099c88f11de363c45e27998f10b7", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "d6/d9f/a16378.html", "d6/d9f/a16378" ],
+    [ "instance_zulfarrak", "d0/d21/a16374.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "d0/d21/a16374.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

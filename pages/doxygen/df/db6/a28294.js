@@ -1,5 +1,9 @@
 var a28294 =
 [
-    [ "go_table_theka", "df/db6/a28294.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "df/db6/a28294.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "emerald_dragonAI", "df/db6/a28294.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
+    [ "ExecuteEvent", "df/db6/a28294.html#a6e60f146c7b86a119f269bf755831ac6", null ],
+    [ "JustSummoned", "df/db6/a28294.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
+    [ "KilledUnit", "df/db6/a28294.html#a69b24bf865ecd38822d5602314cddf11", null ],
+    [ "Reset", "df/db6/a28294.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
+    [ "UpdateAI", "df/db6/a28294.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
 ];

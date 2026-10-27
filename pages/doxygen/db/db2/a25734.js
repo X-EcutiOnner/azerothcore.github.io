@@ -1,7 +1,5 @@
 var a25734 =
 [
-    [ "HandlePeriodic", "db/db2/a25734.html#a990b88f97dbbcd68d0df8989414d08bc", null ],
-    [ "PrepareAuraScript", "db/db2/a25734.html#a4c8214e2fc72ceacc5822bfdec6e8380", null ],
-    [ "Register", "db/db2/a25734.html#ab2da1b1433184a0dd4c6dd93b798890c", null ],
-    [ "Validate", "db/db2/a25734.html#a55720e74edaf5eedf074738846ba6dd8", null ]
+    [ "PrepareSpellScript", "db/db2/a25734.html#a53fe40a7d280c5fcc733d2647ef09b41", null ],
+    [ "Register", "db/db2/a25734.html#ae2d3eb8ff055aa66a00567af75c65138", null ]
 ];

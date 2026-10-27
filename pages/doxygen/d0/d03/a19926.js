@@ -1,6 +1,7 @@
 var a19926 =
 [
-    [ "PrepareSpellScript", "d0/d03/a19926.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "d0/d03/a19926.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "d0/d03/a19926.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "HandlePull", "d0/d03/a19926.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "d0/d03/a19926.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "d0/d03/a19926.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "d0/d03/a19926.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

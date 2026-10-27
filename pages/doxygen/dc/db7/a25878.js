@@ -1,7 +1,9 @@
 var a25878 =
 [
-    [ "CheckProc", "dc/db7/a25878.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
-    [ "HandleProc", "dc/db7/a25878.html#a27569fe686e50246768fca4a7625fe0d", null ],
-    [ "PrepareAuraScript", "dc/db7/a25878.html#a4f4eaa4aeeac9257804957671c16233f", null ],
-    [ "Register", "dc/db7/a25878.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
+    [ "CheckCast", "dc/db7/a25878.html#a005565dd77de97b5aa04553a1d6a0185", null ],
+    [ "HandleScript", "dc/db7/a25878.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
+    [ "Load", "dc/db7/a25878.html#aadfc8a873c72e31d65001ce00518ca45", null ],
+    [ "PrepareSpellScript", "dc/db7/a25878.html#a169b60644259855f0614271e4769f6b9", null ],
+    [ "Register", "dc/db7/a25878.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
+    [ "Validate", "dc/db7/a25878.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
 ];

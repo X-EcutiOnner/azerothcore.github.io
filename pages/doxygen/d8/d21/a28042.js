@@ -1,5 +1,6 @@
 var a28042 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "d8/d21/a28042.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "d8/d21/a28042.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "HandleCast", "d8/d21/a28042.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
+    [ "PrepareSpellScript", "d8/d21/a28042.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "d8/d21/a28042.html#a81bc86c83ffc70602410912870e61700", null ]
 ];

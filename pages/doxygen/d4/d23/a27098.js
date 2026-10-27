@@ -1,7 +1,9 @@
 var a27098 =
 [
-    [ "HandleDummy", "d4/d23/a27098.html#abc630a0c8274f5f85901b2505ff2ae04", null ],
-    [ "PrepareSpellScript", "d4/d23/a27098.html#af79cd7c2f6ed47a93dbbe17aaca6834f", null ],
-    [ "Register", "d4/d23/a27098.html#a3f1808538acca2742c19f68af9a6fd56", null ],
-    [ "Validate", "d4/d23/a27098.html#a475e1d5d8c70e0edd5957a1e493fd43e", null ]
+    [ "CheckCast", "d4/d23/a27098.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
+    [ "HandleDummy", "d4/d23/a27098.html#a7f79495525687fba6229f48935b2558a", null ],
+    [ "Load", "d4/d23/a27098.html#a0c73457e44a3d64bdccee78d28893672", null ],
+    [ "PrepareSpellScript", "d4/d23/a27098.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
+    [ "Register", "d4/d23/a27098.html#ab9f09394ab301350a2abaefde90632fe", null ],
+    [ "Validate", "d4/d23/a27098.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
 ];

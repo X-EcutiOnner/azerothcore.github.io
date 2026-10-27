@@ -1,6 +1,14 @@
 var a24758 =
 [
-    [ "CheckCast", "dc/d8b/a24758.html#a583e19667a83ada4cd793fbf391f9e93", null ],
-    [ "PrepareSpellScript", "dc/d8b/a24758.html#ac6adda0dbe544cf2457060647c01de0f", null ],
-    [ "Register", "dc/d8b/a24758.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
+    [ "Absorb", "dc/d8b/a24758.html#a401274543919a81efea81008f8020ed1", null ],
+    [ "CalculateAmount", "dc/d8b/a24758.html#a837b0e3f0135f7b8393f1ee630d90c50", null ],
+    [ "HandleEffectApply", "dc/d8b/a24758.html#a0acb2be86ed6da238e8769d4871526d3", null ],
+    [ "HandleEffectRemove", "dc/d8b/a24758.html#a2b1e9dbb5d3543acd36f9253f224b9a7", null ],
+    [ "Load", "dc/d8b/a24758.html#ab22271735c240c0d375324f54efc8313", null ],
+    [ "PrepareAuraScript", "dc/d8b/a24758.html#af040fefa0f25f319f98340b9908bb85e", null ],
+    [ "Register", "dc/d8b/a24758.html#af89379413ea3b10477ea267ac8e51004", null ],
+    [ "Trigger", "dc/d8b/a24758.html#ae1704ed58255389c7483f75b5f0a227c", null ],
+    [ "Validate", "dc/d8b/a24758.html#a58faaf03fc6a0974049da2af0fc70825", null ],
+    [ "absorbPct", "dc/d8b/a24758.html#a3a9bd069cf4732f64990277227d71d0d", null ],
+    [ "hpPct", "dc/d8b/a24758.html#a83ef3e3f9534366c24311f3281a8d0b8", null ]
 ];

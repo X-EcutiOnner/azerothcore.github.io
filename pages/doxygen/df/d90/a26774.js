@@ -1,7 +1,6 @@
 var a26774 =
 [
-    [ "HandleProc", "df/d90/a26774.html#acec80390545c0ae674aeed8155333e6b", null ],
-    [ "PrepareAuraScript", "df/d90/a26774.html#a84a503ad6d4848333640ddd347a7476a", null ],
-    [ "Register", "df/d90/a26774.html#ae79f1ce6dc1d6c0823c8da8b6086efab", null ],
-    [ "Validate", "df/d90/a26774.html#a11a4d6e297251b5611e3faa1c3c33e13", null ]
+    [ "HandleProc", "df/d90/a26774.html#a746a66c768e1987eb3752a41b19b822d", null ],
+    [ "PrepareAuraScript", "df/d90/a26774.html#a396023bc98b70b6357630e45a2278afc", null ],
+    [ "Register", "df/d90/a26774.html#a6af4e80cf3c88320a6157e986a4b719f", null ]
 ];

@@ -1,7 +1,7 @@
 var a16098 =
 [
-    [ "DelayedWindstoneSummonEvent", "df/dbe/a16098.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "df/dbe/a16098.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "df/dbe/a16098.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "df/dbe/a16098.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "HandleDummy", "df/dbe/a16098.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "df/dbe/a16098.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "df/dbe/a16098.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "df/dbe/a16098.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

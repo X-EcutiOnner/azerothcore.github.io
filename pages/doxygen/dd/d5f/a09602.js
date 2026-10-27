@@ -1,7 +1,5 @@
 var a09602 =
 [
-    [ "CreatureRelocationNotifier", "dd/d5f/a09602.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
-    [ "Visit", "dd/d5f/a09602.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
-    [ "Visit", "dd/d5f/a09602.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
-    [ "i_creature", "dd/d5f/a09602.html#a3116f6245816ba8fb9edb5995faa9927", null ]
+    [ "Visit", "dd/d5f/a09602.html#aa0f56809b23b117bde869576ddaa9dbd", null ],
+    [ "Visit", "dd/d5f/a09602.html#afab06305b5b3568b93d07f80efd616ae", null ]
 ];

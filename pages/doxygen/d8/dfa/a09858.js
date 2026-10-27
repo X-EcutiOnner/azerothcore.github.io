@@ -1,8 +1,8 @@
 var a09858 =
 [
-    [ "AllCreaturesMatchingOneEntryInRange", "d8/dfa/a09858.html#a440899ae5e52fedea316b7caa550455e", null ],
-    [ "operator()", "d8/dfa/a09858.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
-    [ "m_fRange", "d8/dfa/a09858.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
-    [ "m_pObject", "d8/dfa/a09858.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
-    [ "m_uiEntries", "d8/dfa/a09858.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
+    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "d8/dfa/a09858.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
+    [ "operator()", "d8/dfa/a09858.html#a08f8e473914c8a7bddbf26568294c18b", null ],
+    [ "i_obj", "d8/dfa/a09858.html#a949ff3bcc3530206d83512d293647a2b", null ],
+    [ "i_owner", "d8/dfa/a09858.html#a64f58427bbab3276bdc53450b33eca12", null ],
+    [ "i_range", "d8/dfa/a09858.html#af52388830cec17e32b1d368739b4555a", null ]
 ];

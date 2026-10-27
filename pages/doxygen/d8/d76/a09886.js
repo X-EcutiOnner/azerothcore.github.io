@@ -1,7 +1,10 @@
 var a09886 =
 [
-    [ "ObjectGUIDCheck", "d8/d76/a09886.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
-    [ "operator()", "d8/d76/a09886.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
-    [ "_equals", "d8/d76/a09886.html#a413d991eeee0294a54f3c803e296c3ac", null ],
-    [ "_GUID", "d8/d76/a09886.html#a0e97bfe0e160177549a831df8e9b4555", null ]
+    [ "AnyAoETargetUnitInObjectRangeCheck", "d8/d76/a09886.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
+    [ "operator()", "d8/d76/a09886.html#af9a0c32593544a73aae22cd397eef63a", null ],
+    [ "_spellInfo", "d8/d76/a09886.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
+    [ "i_funit", "d8/d76/a09886.html#aa00b184a24ea73293114f92126f58f24", null ],
+    [ "i_obj", "d8/d76/a09886.html#aa4acf0089c978408e30b08d539f2512f", null ],
+    [ "i_range", "d8/d76/a09886.html#ad386efa8206906fd99816694a6a8d69b", null ],
+    [ "i_targetForPlayer", "d8/d76/a09886.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
 ];

@@ -1,9 +1,10 @@
 var a05334 =
 [
-    [ "MapRayCallback", "dc/dcf/a05334.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
-    [ "didHit", "dc/dcf/a05334.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
-    [ "operator()", "dc/dcf/a05334.html#ad8ab3eee3fc3a1888a9ff11edfd946b8", null ],
-    [ "flags", "dc/dcf/a05334.html#a88d1e6d6fa43608bcee21a822488f061", null ],
-    [ "hit", "dc/dcf/a05334.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
-    [ "prims", "dc/dcf/a05334.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
+    [ "DynamicTreeLocationInfoCallback", "dc/dcf/a05334.html#a3fcb6d535b2207e2bfedb961de856e6d", null ],
+    [ "GetHitModel", "dc/dcf/a05334.html#ac939625c44c7be8ba8b96d55545b657c", null ],
+    [ "GetLocationInfo", "dc/dcf/a05334.html#ac1c3839aa1f0e9b64390502c4ce7bb3e", null ],
+    [ "operator()", "dc/dcf/a05334.html#a4d2569c48cfa431282119ed5bd53ffb4", null ],
+    [ "_hitModel", "dc/dcf/a05334.html#adef79d7627daa66d88c7146704984622", null ],
+    [ "_locationInfo", "dc/dcf/a05334.html#a3c9be93de73520942a8d52b78fe72438", null ],
+    [ "_phaseMask", "dc/dcf/a05334.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e", null ]
 ];

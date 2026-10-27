@@ -1,10 +1,6 @@
 var a26110 =
 [
-    [ "CalcPeriodic", "d8/d05/a26110.html#a6ec300503503fa6f12a48a8494d41edd", null ],
-    [ "Load", "d8/d05/a26110.html#a349827fe659ff3bee0a5dfc677c04825", null ],
-    [ "PrepareAuraScript", "d8/d05/a26110.html#a8c12c4ae3835322602347b654d96a8b7", null ],
-    [ "Register", "d8/d05/a26110.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
-    [ "Update", "d8/d05/a26110.html#afa9e6eec798c354231b5f95e260c7111", null ],
-    [ "Validate", "d8/d05/a26110.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
-    [ "_spell_id", "d8/d05/a26110.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
+    [ "HandleSummon", "d8/d05/a26110.html#ad1ee0eb347454d50216610a266226d68", null ],
+    [ "PrepareSpellScript", "d8/d05/a26110.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
+    [ "Register", "d8/d05/a26110.html#aa145041af68291f107c3ff11ce15b85e", null ]
 ];

@@ -1,8 +1,6 @@
 var a09550 =
 [
-    [ "V8Type", "d1/dbc/a09550.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
-    [ "V9Type", "d1/dbc/a09550.html#ac514014328ca676e610cef54710d2430", null ],
-    [ "gridIntHeightMultiplier", "d1/dbc/a09550.html#a6255362ae498172495394e1f0fad44ca", null ],
-    [ "v8", "d1/dbc/a09550.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
-    [ "v9", "d1/dbc/a09550.html#ad31af604d44f964e9c502f36b6717c77", null ]
+    [ "lang_id", "d1/dbc/a09550.html#a1fa900a467834103ac595a8a96dd28c0", null ],
+    [ "skill_id", "d1/dbc/a09550.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
+    [ "spell_id", "d1/dbc/a09550.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
 ];

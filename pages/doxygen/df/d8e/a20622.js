@@ -1,5 +1,7 @@
 var a20622 =
 [
-    [ "achievement_kologarn_with_open_arms", "df/d8e/a20622.html#a94af961be5bbdf7783925148731ce7e4", null ],
-    [ "OnCheck", "df/d8e/a20622.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
+    [ "HandleEffectPeriodic", "df/d8e/a20622.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "df/d8e/a20622.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "df/d8e/a20622.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "df/d8e/a20622.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

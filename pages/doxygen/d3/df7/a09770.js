@@ -1,9 +1,8 @@
 var a09770 =
 [
-    [ "AnyFriendlyUnitInObjectRangeCheck", "d3/df7/a09770.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
-    [ "operator()", "d3/df7/a09770.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
-    [ "i_funit", "d3/df7/a09770.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
-    [ "i_obj", "d3/df7/a09770.html#adacade7450b0af19540ea705e1bd438b", null ],
-    [ "i_playerOnly", "d3/df7/a09770.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
-    [ "i_range", "d3/df7/a09770.html#a2af638499152888a698b0fc1570e46ed", null ]
+    [ "CreatureListSearcher", "d3/df7/a09770.html#a7b16bf9b7a847a08fa6582b81b607e20", null ],
+    [ "Visit", "d3/df7/a09770.html#a48c084b8fbcbf7db7c051d1aa2aff523", null ],
+    [ "Visit", "d3/df7/a09770.html#a91fcbdcfb08964ebaacec8acae13476b", null ],
+    [ "i_check", "d3/df7/a09770.html#a985d622243d5c7c6c91eb01377b0f91b", null ],
+    [ "i_phaseMask", "d3/df7/a09770.html#a10e4e1fb5749d2b1065dd6a1245783d0", null ]
 ];

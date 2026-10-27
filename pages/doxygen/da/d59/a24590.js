@@ -1,7 +1,8 @@
 var a24590 =
 [
-    [ "HandleDummy", "da/d59/a24590.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
-    [ "PrepareSpellScript", "da/d59/a24590.html#a2fe4b009fa3741c180e18730af5853e3", null ],
-    [ "Register", "da/d59/a24590.html#a762c2320ab8d48e1284d81962a4b078f", null ],
-    [ "Validate", "da/d59/a24590.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "da/d59/a24590.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "da/d59/a24590.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "da/d59/a24590.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "da/d59/a24590.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "da/d59/a24590.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

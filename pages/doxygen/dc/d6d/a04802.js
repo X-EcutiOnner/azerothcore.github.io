@@ -1,8 +1,7 @@
 var a04802 =
 [
-    [ "LIQUID_TILE_SIZE", "dc/d6d/a04802.html#a1596e8a465c0638086c77467a2dde3a6", null ],
-    [ "readChunk", "dc/d6d/a04802.html#aa923966c6cf6ce644b8335506d5f1fce", null ],
-    [ "GAMEOBJECT_MODELS", "dc/d6d/a04802.html#ada4191301386f881525b3f0b0760cb60", null ],
-    [ "RAW_VMAP_MAGIC", "dc/d6d/a04802.html#ab44884fb6c05cb4ae128d5882a2c4b7c", null ],
-    [ "VMAP_MAGIC", "dc/d6d/a04802.html#aa7e5a571fdcb9d62ceefdcf5744746cb", null ]
+    [ "GameobjectModelData", "d4/de2/a05442.html", "d4/de2/a05442" ],
+    [ "ModelList", "dc/d6d/a04802.html#a2f908ce58f8fea2d0606bfe603d719d1", null ],
+    [ "LoadGameObjectModelList", "dc/d6d/a04802.html#a5a80774080fc05f90c7d92213fda6788", null ],
+    [ "model_list", "dc/d6d/a04802.html#aa0a0fd13eaa3eba090a3085d41303f12", null ]
 ];

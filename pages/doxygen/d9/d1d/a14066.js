@@ -1,6 +1,6 @@
 var a14066 =
 [
-    [ "npc_corporal_keeshanAI", "d2/d0c/a14070.html", "d2/d0c/a14070" ],
-    [ "npc_corporal_keeshan", "d9/d1d/a14066.html#a0ca9459a7f283e040f14e0052762f587", null ],
-    [ "GetAI", "d9/d1d/a14066.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
+    [ "HandleSendEvent", "d9/d1d/a14066.html#af62c176d53589228d5e0077c9fc268a3", null ],
+    [ "PrepareSpellScript", "d9/d1d/a14066.html#acea8e256f267dd496e5f573e982dba5f", null ],
+    [ "Register", "d9/d1d/a14066.html#a0827e177a8268994bb4e63f07993a354", null ]
 ];

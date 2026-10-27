@@ -1,10 +1,9 @@
 var a13242 =
 [
-    [ "npc_netherspite_infernal", "d7/d06/a13242.html#af9837d7a671533523ce323c083c4e847", null ],
-    [ "DamageTaken", "d7/d06/a13242.html#aee9b38f3590e08b16de1789576986a09", null ],
-    [ "JustEngagedWith", "d7/d06/a13242.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
-    [ "KilledUnit", "d7/d06/a13242.html#a49c37fbebed2951c493962c1a3bd0339", null ],
-    [ "MoveInLineOfSight", "d7/d06/a13242.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
-    [ "SpellHit", "d7/d06/a13242.html#abb6c7d0b5e231e460b069198b16106b7", null ],
-    [ "UpdateAI", "d7/d06/a13242.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
+    [ "HandleEffectApply", "d7/d06/a13242.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "d7/d06/a13242.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "d7/d06/a13242.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "d7/d06/a13242.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "d7/d06/a13242.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "d7/d06/a13242.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

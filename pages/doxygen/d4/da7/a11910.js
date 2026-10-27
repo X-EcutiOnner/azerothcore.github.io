@@ -1,8 +1,8 @@
 var a11910 =
 [
-    [ "ReflectEvent", "d4/da7/a11910.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "d4/da7/a11910.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "d4/da7/a11910.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "d4/da7/a11910.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "d4/da7/a11910.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "SkillDiscoveryEntry", "d4/da7/a11910.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "d4/da7/a11910.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "d4/da7/a11910.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "d4/da7/a11910.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "d4/da7/a11910.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

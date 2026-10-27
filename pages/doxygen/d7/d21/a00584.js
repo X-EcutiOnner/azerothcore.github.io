@@ -1,7 +1,7 @@
 var a00584 =
 [
-    [ "OutdoorPvP_nagrand", "d4/d39/a22733.html", "d4/d39/a22733" ],
-    [ "outdoorpvp_na_halaa_creatures", "d4/d10/a22737.html", "d4/d10/a22737" ],
+    [ "OutdoorPvP_nagrand", "d3/d50/a22750.html", "d3/d50/a22750" ],
+    [ "outdoorpvp_na_halaa_creatures", "d8/d51/a22754.html", "d8/d51/a22754" ],
     [ "AddSC_outdoorpvp_na", "d7/d21/a00584.html#a03015585e7619177355fefd05f85e1c7", null ],
     [ "FlagPlayerPvP", "d7/d21/a00584.html#ab1d33448696056a0951a0c306a511f1e", null ],
     [ "UpdateCreatureHalaa", "d7/d21/a00584.html#a37af66c813e135cc11bd1dc663b35697", null ],

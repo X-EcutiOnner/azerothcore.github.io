@@ -1,6 +1,6 @@
 var a27218 =
 [
-    [ "PrepareSpellScript", "d9/d09/a27218.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
-    [ "Register", "d9/d09/a27218.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
-    [ "SetDest", "d9/d09/a27218.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
+    [ "HandleScriptEffect", "d9/d09/a27218.html#a8b60ae77f13045a582548fe5d1186d54", null ],
+    [ "PrepareSpellScript", "d9/d09/a27218.html#ad68619783c4a1aad5a24826bf5d89858", null ],
+    [ "Register", "d9/d09/a27218.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
 ];

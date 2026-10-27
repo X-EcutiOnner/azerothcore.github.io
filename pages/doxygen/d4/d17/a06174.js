@@ -1,10 +1,8 @@
 var a06174 =
 [
-    [ "TransactionCallback", "d4/d17/a06174.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
-    [ "TransactionCallback", "d4/d17/a06174.html#adeff62976c11d9d90169e4650640118b", null ],
-    [ "AfterComplete", "d4/d17/a06174.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
-    [ "InvokeIfReady", "d4/d17/a06174.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
-    [ "operator=", "d4/d17/a06174.html#ab73d1741c21ea9fd86f65a647768e972", null ],
-    [ "m_callback", "d4/d17/a06174.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
-    [ "m_future", "d4/d17/a06174.html#a381e889074bc5ca48574d37fe6eea00f", null ]
+    [ "Statements", "d4/d17/a06174.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
+    [ "LoginDatabaseConnection", "d4/d17/a06174.html#aed22866380f9331ff73d4437a779206c", null ],
+    [ "LoginDatabaseConnection", "d4/d17/a06174.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
+    [ "~LoginDatabaseConnection", "d4/d17/a06174.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
+    [ "DoPrepareStatements", "d4/d17/a06174.html#a3f826d59e4efa55d7825f90f434ae889", null ]
 ];

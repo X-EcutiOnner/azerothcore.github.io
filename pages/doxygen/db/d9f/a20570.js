@@ -1,5 +1,7 @@
 var a20570 =
 [
-    [ "achievement_ignis_shattered", "db/d9f/a20570.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "db/d9f/a20570.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "HandleAfterHit", "db/d9f/a20570.html#a75953cbb3a288fd373e602ed07d84441", null ],
+    [ "PrepareSpellScript", "db/d9f/a20570.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
+    [ "Register", "db/d9f/a20570.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
+    [ "Validate", "db/d9f/a20570.html#aea2b951dd2353800958f654df58d8fd8", null ]
 ];

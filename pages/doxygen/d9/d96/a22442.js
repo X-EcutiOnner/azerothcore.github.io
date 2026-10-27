@@ -1,5 +1,6 @@
 var a22442 =
 [
-    [ "achievement_wg_within_our_grasp", "d9/d96/a22442.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d9/d96/a22442.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "HandleScript", "d9/d96/a22442.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
+    [ "PrepareSpellScript", "d9/d96/a22442.html#a5a4ce9453638d61fe52514240f0a9384", null ],
+    [ "Register", "d9/d96/a22442.html#a889f931aaa37d3a283f4d585b384a68e", null ]
 ];

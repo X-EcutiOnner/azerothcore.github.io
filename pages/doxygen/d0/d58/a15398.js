@@ -1,5 +1,8 @@
 var a15398 =
 [
-    [ "npc_black_morass_summoned_add", "d0/d58/a15398.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
-    [ "EnterEvadeMode", "d0/d58/a15398.html#a437e7b72b985713d22883f3e33f30942", null ]
+    [ "npc_arthasAI", "d6/d01/a15402.html", "d6/d01/a15402" ],
+    [ "npc_arthas", "d0/d58/a15398.html#a87c280ff9861187b0a713f795e657266", null ],
+    [ "GetAI", "d0/d58/a15398.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
+    [ "OnGossipHello", "d0/d58/a15398.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
+    [ "OnGossipSelect", "d0/d58/a15398.html#aeca2f4baa3c943281c676c6498393165", null ]
 ];

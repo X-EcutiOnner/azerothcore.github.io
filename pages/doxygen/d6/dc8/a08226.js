@@ -1,7 +1,5 @@
 var a08226 =
 [
-    [ "HyperlinkDataTokenizer", "d6/dc8/a08226.html#a1fb14152c61205ce31fcf2bfeaeceeaf", null ],
-    [ "IsEmpty", "d6/dc8/a08226.html#a4f74f1647780c9f2769443dbfeba6a7e", null ],
-    [ "TryConsumeTo", "d6/dc8/a08226.html#a42e18263129c27149bf9a91b3dc42418", null ],
-    [ "_str", "d6/dc8/a08226.html#ab497f7f0b3cab4b8c4813ba443ff1c91", null ]
+    [ "IsColorValid", "d6/dc8/a08226.html#a4e2a1ab20d086987429174f41887bc45", null ],
+    [ "IsTextValid", "d6/dc8/a08226.html#a4704555f7e926f8facce237de6772a3d", null ]
 ];

@@ -1,6 +1,7 @@
 var a17518 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "d2/deb/a17522.html", "d2/deb/a17522" ],
-    [ "npc_pos_martin_or_gorkun_second", "de/da3/a17518.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
-    [ "GetAI", "de/da3/a17518.html#a180936e3bb98eb55d29ebd51350906c0", null ]
+    [ "HandleEffectPeriodic", "de/da3/a17518.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
+    [ "PrepareAuraScript", "de/da3/a17518.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
+    [ "Register", "de/da3/a17518.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
+    [ "Validate", "de/da3/a17518.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
 ];

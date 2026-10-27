@@ -1,6 +1,8 @@
 var a27054 =
 [
-    [ "CheckRequirement", "dc/d5a/a27054.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "dc/d5a/a27054.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "dc/d5a/a27054.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "CheckProc", "dc/d5a/a27054.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
+    [ "HandleProc", "dc/d5a/a27054.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
+    [ "PrepareAuraScript", "dc/d5a/a27054.html#a876c1bda52c99c52249444414196b1d4", null ],
+    [ "Register", "dc/d5a/a27054.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
+    [ "Validate", "dc/d5a/a27054.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
 ];

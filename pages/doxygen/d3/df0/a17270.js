@@ -1,7 +1,6 @@
 var a17270 =
 [
-    [ "HandlePeriodicTick", "d3/df0/a17270.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
-    [ "PrepareAuraScript", "d3/df0/a17270.html#a93e894c642101160dd51f30952c82d24", null ],
-    [ "Register", "d3/df0/a17270.html#a49172ede0f888e391b9b4a835475220a", null ],
-    [ "Validate", "d3/df0/a17270.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
+    [ "instance_trial_of_the_crusader_InstanceMapScript", "dc/d7c/a17274.html", "dc/d7c/a17274" ],
+    [ "instance_trial_of_the_crusader", "d3/df0/a17270.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
+    [ "GetInstanceScript", "d3/df0/a17270.html#a792034e9e5687bf5fa543175692bed66", null ]
 ];

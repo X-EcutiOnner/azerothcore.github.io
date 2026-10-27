@@ -1,6 +1,7 @@
 var a20698 =
 [
-    [ "npc_ulduar_rocket_strike_trigger", "df/d9d/a20698.html#a14fc5830fe192856bd7c99f78de91070", null ],
-    [ "InitializeAI", "df/d9d/a20698.html#a50b4312f060d62e1c4e3ff144add48d8", null ],
-    [ "SpellHitTarget", "df/d9d/a20698.html#ad4a438c5143a6de2b469baa28f0893c5", null ]
+    [ "HandleEffectPeriodic", "df/d9d/a20698.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "df/d9d/a20698.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "df/d9d/a20698.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "df/d9d/a20698.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

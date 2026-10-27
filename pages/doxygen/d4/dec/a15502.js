@@ -1,7 +1,15 @@
 var a15502 =
 [
-    [ "HandleScript", "d4/dec/a15502.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
-    [ "PrepareSpellScript", "d4/dec/a15502.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
-    [ "Register", "d4/dec/a15502.html#aff966352a2babe6e6daed91f02e1190a", null ],
-    [ "Validate", "d4/dec/a15502.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
+    [ "npc_time_rift", "d4/dec/a15502.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "d4/dec/a15502.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "d4/dec/a15502.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "d4/dec/a15502.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "d4/dec/a15502.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "d4/dec/a15502.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "d4/dec/a15502.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "d4/dec/a15502.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "d4/dec/a15502.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "d4/dec/a15502.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "d4/dec/a15502.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "d4/dec/a15502.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

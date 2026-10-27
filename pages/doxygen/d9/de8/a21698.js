@@ -1,9 +1,7 @@
 var a21698 =
 [
-    [ "npc_archmage_landalockAI", "d9/de8/a21698.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "d9/de8/a21698.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "d9/de8/a21698.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "d9/de8/a21698.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "d9/de8/a21698.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "d9/de8/a21698.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "npc_azure_stalker", "d9/de8/a21698.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
+    [ "Reset", "d9/de8/a21698.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
+    [ "UpdateAI", "d9/de8/a21698.html#a22352aad7c55a4d454b9732469395139", null ],
+    [ "_events", "d9/de8/a21698.html#ad83249d787d2f763ac2d01723ff305ef", null ]
 ];

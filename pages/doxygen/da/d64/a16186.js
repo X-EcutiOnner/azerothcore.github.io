@@ -1,8 +1,6 @@
 var a16186 =
 [
-    [ "npc_lakota_windsongAI", "da/d64/a16186.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "da/d64/a16186.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "da/d64/a16186.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "da/d64/a16186.html#a6435c8b1521206789131889e5fa527a6", null ],
-    [ "WaypointReached", "da/d64/a16186.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_anachronos_the_ancientAI", "d2/d07/a16190.html", "d2/d07/a16190" ],
+    [ "npc_anachronos_the_ancient", "da/d64/a16186.html#a720884359886e6f881190471005f4cfc", null ],
+    [ "GetAI", "da/d64/a16186.html#a345c801231907d98f2ab2425b1d35cbc", null ]
 ];

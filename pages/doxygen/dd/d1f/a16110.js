@@ -1,7 +1,8 @@
 var a16110 =
 [
-    [ "npc_kaya_flathoofAI", "d6/d78/a16114.html", "d6/d78/a16114" ],
-    [ "npc_kaya_flathoof", "dd/d1f/a16110.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "dd/d1f/a16110.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "dd/d1f/a16110.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "FilterTargets", "dd/d1f/a16110.html#a47b8055fa1b28968e8323ca98613aa83", null ],
+    [ "HandleScript", "dd/d1f/a16110.html#a8f7984e510d8947a2ae4b0734409866b", null ],
+    [ "PrepareSpellScript", "dd/d1f/a16110.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
+    [ "Register", "dd/d1f/a16110.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
+    [ "Validate", "dd/d1f/a16110.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
 ];

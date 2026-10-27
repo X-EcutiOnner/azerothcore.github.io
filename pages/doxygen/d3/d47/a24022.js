@@ -1,7 +1,6 @@
 var a24022 =
 [
-    [ "HandleDummy", "d3/d47/a24022.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d3/d47/a24022.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d3/d47/a24022.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d3/d47/a24022.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "OnApply", "d3/d47/a24022.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "d3/d47/a24022.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "d3/d47/a24022.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

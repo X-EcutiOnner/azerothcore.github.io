@@ -1,7 +1,7 @@
 var a28618 =
 [
-    [ "npc_crashin_thrashin_robot", "dc/d43/a28618.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "dc/d43/a28618.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "dc/d43/a28618.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "dc/d43/a28618.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_prof_leather", "dc/d43/a28618.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
+    [ "HasLeatherSpecialty", "dc/d43/a28618.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
+    [ "OnGossipHello", "dc/d43/a28618.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
+    [ "OnGossipSelect", "dc/d43/a28618.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
 ];

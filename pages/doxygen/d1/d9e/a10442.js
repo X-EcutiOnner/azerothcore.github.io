@@ -1,12 +1,12 @@
 var a10442 =
 [
-    [ "RotateMovementGenerator", "d1/d9e/a10442.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
-    [ "Finalize", "d1/d9e/a10442.html#afd7588c7877b116cc9626a774b89d584", null ],
-    [ "GetMovementGeneratorType", "d1/d9e/a10442.html#a20677803edf5d93ceae3bf76ef426a81", null ],
-    [ "Initialize", "d1/d9e/a10442.html#a18fea8760bb24912af9349a06ff7b596", null ],
-    [ "Reset", "d1/d9e/a10442.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
-    [ "Update", "d1/d9e/a10442.html#a0dc8600e3aa862a81735dfb927232e53", null ],
-    [ "m_direction", "d1/d9e/a10442.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
-    [ "m_duration", "d1/d9e/a10442.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
-    [ "m_maxDuration", "d1/d9e/a10442.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
+    [ "BanAccount", "d1/d9e/a10442.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
+    [ "BanAccountByPlayerName", "d1/d9e/a10442.html#a35f92762d69fe32e49b9b239c74e4734", null ],
+    [ "BanCharacter", "d1/d9e/a10442.html#ad5048b36828bfe20a95dfb85515de831", null ],
+    [ "BanIP", "d1/d9e/a10442.html#a404890eab19b97773e6c9aef8cc65707", null ],
+    [ "instance", "d1/d9e/a10442.html#aa495dfaab6af98c43f645acf516a5630", null ],
+    [ "RemoveBanAccount", "d1/d9e/a10442.html#ae831e6227442edc70469229d5d73fa3f", null ],
+    [ "RemoveBanAccountByPlayerName", "d1/d9e/a10442.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
+    [ "RemoveBanCharacter", "d1/d9e/a10442.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
+    [ "RemoveBanIP", "d1/d9e/a10442.html#afcf4857007432ebff042c85c5daf2325", null ]
 ];

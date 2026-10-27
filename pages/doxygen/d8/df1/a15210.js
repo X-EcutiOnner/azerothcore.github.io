@@ -1,8 +1,6 @@
 var a15210 =
 [
-    [ "hyjalThrallAI", "d8/df1/a15210.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "d8/df1/a15210.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "d8/df1/a15210.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "d8/df1/a15210.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "d8/df1/a15210.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "HandleTriggerSpell", "d8/df1/a15210.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
+    [ "PrepareSpellScript", "d8/df1/a15210.html#a76a070da8e719198463010499f595599", null ],
+    [ "Register", "d8/df1/a15210.html#ae237c4972167a5a17b59800983496a9d", null ]
 ];

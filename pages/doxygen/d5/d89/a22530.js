@@ -1,10 +1,6 @@
 var a22530 =
 [
-    [ "OPvPCapturePointHP", "d5/d89/a22530.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
-    [ "ChangeState", "d5/d89/a22530.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
-    [ "FillInitialWorldStates", "d5/d89/a22530.html#aa8d725422951485970d9106450fb6a38", null ],
-    [ "HandlePlayerEnter", "d5/d89/a22530.html#ad9738c621df084d5a3f0070c80403642", null ],
-    [ "HandlePlayerLeave", "d5/d89/a22530.html#a86e849e5387383a6c751e69350ffa07c", null ],
-    [ "SendChangePhase", "d5/d89/a22530.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
-    [ "m_TowerType", "d5/d89/a22530.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
+    [ "HandleScript", "d5/d89/a22530.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
+    [ "PrepareSpellScript", "d5/d89/a22530.html#af0f5206d98dbc9de355abbeb03709c05", null ],
+    [ "Register", "d5/d89/a22530.html#a53d9d7de4922ed6509b6036921640352", null ]
 ];

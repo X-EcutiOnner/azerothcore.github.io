@@ -1,6 +1,8 @@
 var a22082 =
 [
-    [ "npc_boneguard_footmanAI", "d8/d4f/a22082.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "d8/d4f/a22082.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "d8/d4f/a22082.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "OnRemove", "d8/d4f/a22082.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "d8/d4f/a22082.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "d8/d4f/a22082.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "d8/d4f/a22082.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "d8/d4f/a22082.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

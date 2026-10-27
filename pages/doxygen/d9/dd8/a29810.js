@@ -1,12 +1,16 @@
 var a29810 =
 [
-    [ "TestVisibilityScript", "d9/dd8/a29810.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
-    [ "EnsureRegistered", "d9/dd8/a29810.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
-    [ "OnPlayerSetServerSideVisibility", "d9/dd8/a29810.html#a6b3701188303b644b28a52ec42bec846", null ],
-    [ "Reset", "d9/dd8/a29810.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
-    [ "CallCount", "d9/dd8/a29810.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
-    [ "Instance", "d9/dd8/a29810.html#adcf0326aa1e32db109ec920857868138", null ],
-    [ "LastPlayer", "d9/dd8/a29810.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
-    [ "LastSecurity", "d9/dd8/a29810.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
-    [ "LastType", "d9/dd8/a29810.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
+    [ "CreateTestCreature", "d9/dd8/a29810.html#a617fd4d9d90187bc2f73d4b3ae7fe2e9", null ],
+    [ "CreateTestPlayer", "d9/dd8/a29810.html#a6419bf25da27ee490712daa877adbd72", null ],
+    [ "EnsureFactionTemplates", "d9/dd8/a29810.html#a83a02366f7bf6726e14b9f3237e2b545", null ],
+    [ "GetTestMap", "d9/dd8/a29810.html#ae4ec7240a978801c7b0e680bd8072289", null ],
+    [ "GetWorldMock", "d9/dd8/a29810.html#af142aa528b5add94d80218bfb87673d2", null ],
+    [ "SetUp", "d9/dd8/a29810.html#a8ae97cc2fe6cec6678fc68828bb78311", null ],
+    [ "TearDown", "d9/dd8/a29810.html#abd9650e94915e9c9b2c00d0f5883012a", null ],
+    [ "_originalWorld", "d9/dd8/a29810.html#a68d71c2f6f685757f78855a65dfea247", null ],
+    [ "_ownedCreatureTemplates", "d9/dd8/a29810.html#a14a887c379c1bab8270e4e447d6d3710", null ],
+    [ "_testMap", "d9/dd8/a29810.html#a71376b2bd9b26c15bdc5a377c918df4f", null ],
+    [ "_trackedCreatures", "d9/dd8/a29810.html#ab782034dea584c12fcc6167f08cb1c2e", null ],
+    [ "_trackedPlayers", "d9/dd8/a29810.html#abebf5ed00a2531d755c905b0fca011d6", null ],
+    [ "_worldMock", "d9/dd8/a29810.html#a7cef42e42607cf7c562b20827a0df766", null ]
 ];

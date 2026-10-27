@@ -1,5 +1,7 @@
 var a20798 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "d8/dbe/a20798.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "d8/dbe/a20798.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "FilterTargets", "d8/dbe/a20798.html#a4ea7a7ee257a74c7ae1da47b9a75f852", null ],
+    [ "HandleScript", "d8/dbe/a20798.html#a3b5fa94cdc2da133ae0cfaab9f949a57", null ],
+    [ "PrepareSpellScript", "d8/dbe/a20798.html#a9e29a54a0c4bbc32b5d9fffe6d34a41d", null ],
+    [ "Register", "d8/dbe/a20798.html#a53f90eb4dc7cdeab5bee4ab1a21691ac", null ]
 ];

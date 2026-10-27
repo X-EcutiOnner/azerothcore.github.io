@@ -1,5 +1,5 @@
 var a20866 =
 [
-    [ "achievement_thorim_lose_your_illusion", "da/d1f/a20866.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "da/d1f/a20866.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "da/d1f/a20866.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "da/d1f/a20866.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

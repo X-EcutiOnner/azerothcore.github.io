@@ -1,8 +1,6 @@
 var a26118 =
 [
-    [ "HandleDummy", "db/d28/a26118.html#ae73e0d900e5b33f47bf2ba45d8ab26ce", null ],
-    [ "Load", "db/d28/a26118.html#a5c0e5de94faca0c2841153f7a099d2eb", null ],
-    [ "PrepareSpellScript", "db/d28/a26118.html#af89de259afbab436326a67b9eb7833ad", null ],
-    [ "Register", "db/d28/a26118.html#a78ffb20ccc10c3c632934af862273716", null ],
-    [ "Validate", "db/d28/a26118.html#ace6bdf4755f1d1c95011bb782cb2e59e", null ]
+    [ "HandlePeriodicTick", "db/d28/a26118.html#a058eeb1e0489340763a58d92d4bed832", null ],
+    [ "PrepareAuraScript", "db/d28/a26118.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
+    [ "Register", "db/d28/a26118.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
 ];

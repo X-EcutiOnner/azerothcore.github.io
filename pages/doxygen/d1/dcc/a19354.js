@@ -1,5 +1,5 @@
 var a19354 =
 [
-    [ "at_icc_putricide_trap", "d1/dcc/a19354.html#a9d4183629deada9c22750b8a34e94583", null ],
-    [ "OnTrigger", "d1/dcc/a19354.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
+    [ "at_icc_start_frostwing_gauntlet", "d1/dcc/a19354.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
+    [ "OnTrigger", "d1/dcc/a19354.html#a7137166f281876f00d4e03c846875d85", null ]
 ];

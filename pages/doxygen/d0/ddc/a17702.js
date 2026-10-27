@@ -1,6 +1,6 @@
 var a17702 =
 [
-    [ "boss_prince_valanarAI", "dc/d2d/a17706.html", "dc/d2d/a17706" ],
-    [ "boss_prince_valanar_icc", "d0/ddc/a17702.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
-    [ "GetAI", "d0/ddc/a17702.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
+    [ "boss_drakkari_colossusAI", "dc/d2d/a17706.html", "dc/d2d/a17706" ],
+    [ "boss_drakkari_colossus", "d0/ddc/a17702.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
+    [ "GetAI", "d0/ddc/a17702.html#a75c6c9c56fe11342dd8aece031059e77", null ]
 ];

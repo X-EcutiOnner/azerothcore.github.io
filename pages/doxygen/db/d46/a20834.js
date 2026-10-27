@@ -1,16 +1,13 @@
 var a20834 =
 [
-    [ "boss_thorim_runic_colossus", "db/d46/a20834.html#a3beda3351911803a0c0ea719256c4514", null ],
-    [ "JustDied", "db/d46/a20834.html#a9682ccf2c6109888385fd621ecac16a4", null ],
-    [ "JustEngagedWith", "db/d46/a20834.html#ad18388379fc026c1bf707eee8fae9826", null ],
-    [ "Reset", "db/d46/a20834.html#a5a6d3e8c1e756fe9a982c6be215a0577", null ],
-    [ "RunRunicSmash", "db/d46/a20834.html#a4b36e8e92cae14912354691f0dc09a64", null ],
-    [ "SpellHit", "db/d46/a20834.html#a9787e064886ddee55bc2434c6d4f1927", null ],
-    [ "UpdateAI", "db/d46/a20834.html#a470b0571db91075603504d91fb13721c", null ],
-    [ "_checkTarget", "db/d46/a20834.html#a16c4b7194f1db8710732b35189823efe", null ],
-    [ "_leftHand", "db/d46/a20834.html#a2d3c2799fcf9a2761c331109a713a4c6", null ],
-    [ "_nextTriggerPos", "db/d46/a20834.html#a5f265413890df938e00dc08e0dee9829", null ],
-    [ "_triggerLeftGUID", "db/d46/a20834.html#af1a54a839bcd3308edf1c7769274b889", null ],
-    [ "_triggerRightGUID", "db/d46/a20834.html#a72196fe61ab799be949b7148a52933a9", null ],
-    [ "events", "db/d46/a20834.html#a859e1d83f4002c8017d5d8f8fdf34a1e", null ]
+    [ "npc_ulduar_flames_initial", "db/d46/a20834.html#ac0ba4a5631f580b23be30f6d19545a1f", null ],
+    [ "DoAction", "db/d46/a20834.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
+    [ "GetMimironAI", "db/d46/a20834.html#a173f3b895907e518625b62c08831c1ef", null ],
+    [ "RemoveAll", "db/d46/a20834.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
+    [ "RemoveFlame", "db/d46/a20834.html#ad676a542b40b554027fc2ab491fa083d", null ],
+    [ "SpreadFlame", "db/d46/a20834.html#af50c950610f5277a755d1786b596b9d7", null ],
+    [ "UpdateAI", "db/d46/a20834.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
+    [ "_createTime", "db/d46/a20834.html#aa73a9fa2110bd5abdff9b509e13ce333", null ],
+    [ "_events", "db/d46/a20834.html#a0f99d43d373b61e9c665bd6c0d389afb", null ],
+    [ "_flameList", "db/d46/a20834.html#a50a26001f8bfe87a3a4f1feb544cf521", null ]
 ];

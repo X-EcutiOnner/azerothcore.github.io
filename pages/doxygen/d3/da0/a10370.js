@@ -1,17 +1,19 @@
 var a10370 =
 [
-    [ "GraveyardContainer", "d3/da0/a10370.html#a21ce8ad954d37b385e339c5247f17ffd", null ],
-    [ "AddGraveyardLink", "d3/da0/a10370.html#ab4884f2b2b4f00dd9ea65c1ceb2af1bb", null ],
-    [ "FindGraveyardData", "d3/da0/a10370.html#a54a4461db550d5383fded30a6ecd0408", null ],
-    [ "GetClosestGraveyard", "d3/da0/a10370.html#af989ee1a2f802a0cb5addf50a0586d63", null ],
-    [ "GetDefaultGraveyard", "d3/da0/a10370.html#ab6ef1306db71eb2f2d72167314d5e1c2", null ],
-    [ "GetGraveyard", "d3/da0/a10370.html#a9909f874812997a16895e81fccff994a", null ],
-    [ "GetGraveyard", "d3/da0/a10370.html#aeb72f07dd677dfe31d0e4b45f2f9ddd6", null ],
-    [ "GetGraveyardData", "d3/da0/a10370.html#ab9ebb6afa55d30e64d460b81f9297f09", null ],
-    [ "instance", "d3/da0/a10370.html#aaaf39d71af738cac8dd427ca94a5689b", null ],
-    [ "LoadGraveyardFromDB", "d3/da0/a10370.html#aff7880b8c557fac494e3b8213a048f32", null ],
-    [ "LoadGraveyardZones", "d3/da0/a10370.html#ac398379a421eabea55729e867d57383f", null ],
-    [ "RemoveGraveyardLink", "d3/da0/a10370.html#af957c28b4ccfc7b1853280b7441c958d", null ],
-    [ "_graveyardStore", "d3/da0/a10370.html#a77fb8dad0ae4ea7af0823c0bcafba787", null ],
-    [ "GraveyardStore", "d3/da0/a10370.html#afe83a8248fa6617b868cadd0699af96e", null ]
+    [ "MapCollisionData", "d3/da0/a10370.html#a4e894d4a959f3295d1e2c5245b9996a7", null ],
+    [ "~MapCollisionData", "d3/da0/a10370.html#a3c8a129c38560fe00b5ecbdab08da733", null ],
+    [ "GetDynamicTree", "d3/da0/a10370.html#a40d40d192d17ac69f933ab7c17887608", null ],
+    [ "GetDynamicTree", "d3/da0/a10370.html#a2c1408b48e83bc609023f41027c89064", null ],
+    [ "GetMMapData", "d3/da0/a10370.html#accd50059c333a678e03637bc9b012e4e", null ],
+    [ "GetMMapData", "d3/da0/a10370.html#ae5f0ccd86069905b9630204ee1e7ca08", null ],
+    [ "GetMMapNavMeshSharedPtr", "d3/da0/a10370.html#aac380a18735172b58bb9b35a56dc3544", null ],
+    [ "GetStaticTree", "d3/da0/a10370.html#a805068c70a0e02a58a1dbad8b5f32911", null ],
+    [ "GetStaticTree", "d3/da0/a10370.html#ad22d3261667975e3eb0cad94966a7754", null ],
+    [ "GetStaticTreeSharedPtr", "d3/da0/a10370.html#adfee9be1a687b889b7fbd155f187347a", null ],
+    [ "LoadMMapTile", "d3/da0/a10370.html#a661a7c3ee6f24c33b5598db5c87e968c", null ],
+    [ "LoadVMapTile", "d3/da0/a10370.html#a0a9ed3fdca779f0f8681d6685d295e2d", null ],
+    [ "_dynamicVMapData", "d3/da0/a10370.html#a13f5d030bee357ad4aaa97011e3d168e", null ],
+    [ "_map", "d3/da0/a10370.html#af6e685ca98230858dd13b08eb5d6175c", null ],
+    [ "_mmapData", "d3/da0/a10370.html#a8a417dcd2e8df672602954f5e3bc3153", null ],
+    [ "_staticVMapData", "d3/da0/a10370.html#ab55e6ca04cccbde9d9564194e9392b5c", null ]
 ];

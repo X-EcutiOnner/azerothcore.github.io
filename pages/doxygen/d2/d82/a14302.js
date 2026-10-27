@@ -1,7 +1,7 @@
 var a14302 =
 [
-    [ "npc_daphne_stilwellAI", "de/dc7/a14306.html", "de/dc7/a14306" ],
-    [ "npc_daphne_stilwell", "d2/d82/a14302.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "d2/d82/a14302.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "d2/d82/a14302.html#a421a7eb4c1391eb82f7874b081c66a36", null ]
+    [ "HandleHit", "d2/d82/a14302.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
+    [ "Load", "d2/d82/a14302.html#affe2cd261752db89b1b418eb18a3370c", null ],
+    [ "PrepareSpellScript", "d2/d82/a14302.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
+    [ "Register", "d2/d82/a14302.html#aaadaf49a3757e78d69ffc32768945d16", null ]
 ];

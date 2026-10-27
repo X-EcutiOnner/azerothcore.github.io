@@ -1,6 +1,6 @@
 var a01088 =
 [
-    [ "outroPosition", "d2/de3/a17409.html", "d2/de3/a17409" ],
+    [ "outroPosition", "de/d00/a17426.html", "de/d00/a17426" ],
     [ "DataHeader", "da/db7/a01088.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "ForgeOfSoulsScriptName", "da/db7/a01088.html#a3c0c936a921822a81a5164ac22d1d2be", null ],
     [ "PATH_BEGIN_VALUE", "da/db7/a01088.html#a5e53249f20085a0a3fa19bdb577ee3c0", null ],
@@ -250,7 +250,10 @@ var a01088 =
       [ "GO_TWILIGHT_PORTAL", "d5/d32/a01214.html#af5baa506e65b4caa6be6d1c6661dfe63a4ff0b6ba3331bbaa303dbea17ef3ee35", null ],
       [ "GO_NORMAL_PORTAL", "d5/d32/a01214.html#af5baa506e65b4caa6be6d1c6661dfe63a088b5df5c62fed6bc8b598e78b56f709", null ],
       [ "SPELL_TWILIGHT_SHIFT", "d5/d32/a01214.html#af5baa506e65b4caa6be6d1c6661dfe63a6b2de4b70298d53d1e8c042da94b7c87", null ],
+      [ "SPELL_TWILIGHT_TORMENT_VESPERON", "d5/d32/a01214.html#af5baa506e65b4caa6be6d1c6661dfe63a7407d48cf9398229483fbd11370f2697", null ],
+      [ "SPELL_SARTHARION_PYROBUFFET_TRIGGER", "d5/d32/a01214.html#af5baa506e65b4caa6be6d1c6661dfe63abcec629a81b27a23811be7a997faea57", null ],
       [ "SPELL_TWILIGHT_TORMENT_SARTHARION", "d5/d32/a01214.html#af5baa506e65b4caa6be6d1c6661dfe63aee30cc95ba8069cd1a17a37908e38ae5", null ],
+      [ "SPELL_FADE_ARMOR", "d5/d32/a01214.html#af5baa506e65b4caa6be6d1c6661dfe63ad48174bab4e9f24c5a2fb7d3c6936122", null ],
       [ "DATA_TROLLGORE", "d5/d54/a00938.html#af5baa506e65b4caa6be6d1c6661dfe63ac89c8939089d5a7d9d0755052bb9b0c2", null ],
       [ "DATA_NOVOS", "d5/d54/a00938.html#af5baa506e65b4caa6be6d1c6661dfe63acd2dca089c2c0629c9041488efbed69d", null ],
       [ "DATA_NOVOS_CRYSTALS", "d5/d54/a00938.html#af5baa506e65b4caa6be6d1c6661dfe63adac02ec13f85b1d974817fa65e50ef75", null ],

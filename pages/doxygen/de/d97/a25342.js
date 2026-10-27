@@ -1,7 +1,6 @@
 var a25342 =
 [
-    [ "HandleProc", "de/d97/a25342.html#ac88c41bcfcedd9194d9d3f958d605d37", null ],
-    [ "PrepareAuraScript", "de/d97/a25342.html#a66c3458e88ab5802e10445df3aeb52f6", null ],
-    [ "Register", "de/d97/a25342.html#af02b0af51a1fece0780414ab45c8d31e", null ],
-    [ "Validate", "de/d97/a25342.html#a9f955b53e5905cfb3742a58c8bedab96", null ]
+    [ "HandleEffectPeriodicUpdate", "de/d97/a25342.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "de/d97/a25342.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "de/d97/a25342.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

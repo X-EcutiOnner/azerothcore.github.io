@@ -1,7 +1,7 @@
 var a17002 =
 [
-    [ "npc_toc_retro_paladinAI", "d9/d6a/a17002.html#afe933281cea61c9a4f3ded76290a3b72", null ],
-    [ "myCanCast", "d9/d6a/a17002.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
-    [ "UpdateAI", "d9/d6a/a17002.html#a105d6b9c133c1147b310826d7be416f5", null ],
-    [ "events", "d9/d6a/a17002.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
+    [ "HandleAfterHit", "d9/d6a/a17002.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "d9/d6a/a17002.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "d9/d6a/a17002.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "d9/d6a/a17002.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

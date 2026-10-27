@@ -1,8 +1,16 @@
 var a31393 =
 [
-    [ "DBCFile", "da/d0d/a30418.html", "da/d0d/a30418" ],
-    [ "DBCFile::Exception", "da/d80/a30422.html", "da/d80/a30422" ],
-    [ "DBCFile::NotFound", "d9/d30/a30426.html", "d9/d30/a30426" ],
-    [ "DBCFile::Record", "dc/dab/a30430.html", "dc/dab/a30430" ],
-    [ "DBCFile::Iterator", "da/d41/a30434.html", "da/d41/a30434" ]
+    [ "GetGameTime", "d7/d26/a31393.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
+    [ "GetGameTimeMS", "d7/d26/a31393.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
+    [ "GetStartTime", "d7/d26/a31393.html#a872d34d3f9d420cfc749073c809931f9", null ],
+    [ "GetSystemTime", "d7/d26/a31393.html#a443eccf314fe436192278d425d6d8220", null ],
+    [ "GetUptime", "d7/d26/a31393.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
+    [ "Now", "d7/d26/a31393.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
+    [ "UpdateGameTimers", "d7/d26/a31393.html#a45712735241c9563a12fc3da54fb144d", null ],
+    [ "GameMSTime", "d7/d26/a31393.html#ad5fc2a056410eeac2e2717f91cb8295c", null ],
+    [ "GameTime", "d7/d26/a31393.html#a9a28ffdb4bb387919d2dd70a51080ce0", null ],
+    [ "GameTimeSteadyPoint", "d7/d26/a31393.html#a874057035d37aa57afc5064acffba119", null ],
+    [ "GameTimeSystemPoint", "d7/d26/a31393.html#aa393fef2187ebdd6aa34379b0f1504d7", null ],
+    [ "StartSteadyPoint", "d7/d26/a31393.html#a5d35a6ba984a07c98aad70bb266989cf", null ],
+    [ "StartTime", "d7/d26/a31393.html#a78088a0637670a1ab5125a1388f7ca52", null ]
 ];

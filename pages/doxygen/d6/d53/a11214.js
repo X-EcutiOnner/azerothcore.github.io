@@ -1,19 +1,11 @@
 var a11214 =
 [
-    [ "GuildBankSwapItems", "d6/d53/a11214.html#ab335b2ce30db878b41fa3a61953d7d60", null ],
-    [ "Read", "d6/d53/a11214.html#a3f64634235beeabb9cee055926e6260a", null ],
-    [ "AutoStore", "d6/d53/a11214.html#aa9eba5c523f7318b2c5e1fa09032920f", null ],
-    [ "Banker", "d6/d53/a11214.html#a464b37b7cb45a474531662a5032728e6", null ],
-    [ "BankItemCount", "d6/d53/a11214.html#af11a90a704181b7ed9d823367daf8dc9", null ],
-    [ "BankOnly", "d6/d53/a11214.html#a2078c50c82bb7b889575da516108f16d", null ],
-    [ "BankSlot", "d6/d53/a11214.html#a9250ac77819b5ad0be64507d890723c3", null ],
-    [ "BankSlot1", "d6/d53/a11214.html#ae1e39a84d20fe752311e839384ffdf47", null ],
-    [ "BankTab", "d6/d53/a11214.html#a39134b0defcdea989bf034decf6001e3", null ],
-    [ "BankTab1", "d6/d53/a11214.html#a714d47cb3f39425c80094ee9d7f20a12", null ],
-    [ "ContainerItemSlot", "d6/d53/a11214.html#a2d4830a216f616646e1119d7282c0f94", null ],
-    [ "ContainerSlot", "d6/d53/a11214.html#a0032741b343e3c5a05a8ca30e46126ee", null ],
-    [ "ItemID", "d6/d53/a11214.html#a6c231ac64ec02cb360bdd8bf88e134b5", null ],
-    [ "ItemID1", "d6/d53/a11214.html#adc987aa11525cb48a9e5e9d789fe47bd", null ],
-    [ "StackCount", "d6/d53/a11214.html#af4ce1f211586bd988ec884820038e049", null ],
-    [ "ToSlot", "d6/d53/a11214.html#a0294b1260e1b90386b9096e08f9f7838", null ]
+    [ "GuildRankTabPermissions", "d1/d17/a11218.html", "d1/d17/a11218" ],
+    [ "GuildPermissionsQueryResults", "d6/d53/a11214.html#aa643af51780fc550f3947936266d54f5", null ],
+    [ "Write", "d6/d53/a11214.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
+    [ "Flags", "d6/d53/a11214.html#a368162426ab526adafc7ecb223fdf865", null ],
+    [ "NumTabs", "d6/d53/a11214.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
+    [ "RankID", "d6/d53/a11214.html#a795ba45650991bd5c1aa03c17886d86b", null ],
+    [ "Tab", "d6/d53/a11214.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
+    [ "WithdrawGoldLimit", "d6/d53/a11214.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
 ];

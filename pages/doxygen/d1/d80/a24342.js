@@ -1,8 +1,11 @@
 var a24342 =
 [
-    [ "npc_pet_dk_ghoul", "d1/d80/a24342.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "d1/d80/a24342.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "d1/d80/a24342.html#a6095e3619b470283b9875b90e2805b54", null ],
-    [ "UpdateAI", "d1/d80/a24342.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
-    [ "_summonTargetGUID", "d1/d80/a24342.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
+    [ "npc_maxx_a_million_escortAI", "d1/d80/a24342.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "d1/d80/a24342.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "d1/d80/a24342.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "d1/d80/a24342.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "d1/d80/a24342.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "WaypointReached", "d1/d80/a24342.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bTake", "d1/d80/a24342.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "d1/d80/a24342.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

@@ -1,5 +1,16 @@
 var a21166 =
 [
-    [ "npc_salvaged_siege_engine", "d0/d28/a21166.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
-    [ "BeforeSpellClick", "d0/d28/a21166.html#aed2500b2315b5e508ea3d06a2355d023", null ]
+    [ "boss_yoggsaron_immortal_guardian", "d0/d28/a21166.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "d0/d28/a21166.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "EngageFromStasis", "d0/d28/a21166.html#af9717bb7058b8a51dd30dc9edacd66e7", null ],
+    [ "JustEngagedWith", "d0/d28/a21166.html#a7583d6058cf805fa1c36cd98b9e9e7d2", null ],
+    [ "MoveInLineOfSight", "d0/d28/a21166.html#acbf73ba53c74b1e663eccb6866828134", null ],
+    [ "Reset", "d0/d28/a21166.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "d0/d28/a21166.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "d0/d28/a21166.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spawnStasis", "d0/d28/a21166.html#a7de7c5e60cc888d5729273e63495e382", null ],
+    [ "DRAIN_LIFE_HEALTH_CHECK", "d0/d28/a21166.html#afc8d67d6a482a20638e17d30b58c5c8b", null ],
+    [ "DRAIN_LIFE_INTERVAL", "d0/d28/a21166.html#a1a4c5a3f9261b4da86f9bc0476216dee", null ],
+    [ "SPAWN_STASIS_TIME", "d0/d28/a21166.html#a5d8549b48c63168c205d5e126209ee66", null ],
+    [ "SPAWN_VISUAL_DELAY", "d0/d28/a21166.html#a0db02bb21ba048c236a432421c009250", null ]
 ];

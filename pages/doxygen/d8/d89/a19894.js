@@ -1,6 +1,6 @@
 var a19894 =
 [
-    [ "npc_centrifuge_constructAI", "df/d76/a19898.html", "df/d76/a19898" ],
-    [ "npc_centrifuge_construct", "d8/d89/a19894.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
-    [ "GetAI", "d8/d89/a19894.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
+    [ "ChargeRifts", "d8/d89/a19894.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "d8/d89/a19894.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "d8/d89/a19894.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

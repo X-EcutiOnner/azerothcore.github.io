@@ -1,6 +1,12 @@
 var a18530 =
 [
-    [ "MysticBuffetTargetFilter", "de/df1/a18530.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
-    [ "operator()", "de/df1/a18530.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
-    [ "_caster", "de/df1/a18530.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
+    [ "npc_big_oozeAI", "de/df1/a18530.html#a3564ffec1ac0ac2c7e29b3c7a6b60958", null ],
+    [ "DoAction", "de/df1/a18530.html#a6d39eb1f177e8670169f18fcfa2e3c4e", null ],
+    [ "EnterEvadeMode", "de/df1/a18530.html#ad7251cda20f3e2821077d2327528fd2d", null ],
+    [ "IsSummonedBy", "de/df1/a18530.html#a85d27ac9fb0b9dbb92b2b17a99eaa612", null ],
+    [ "JustDied", "de/df1/a18530.html#a2372053a84715990fc7fce3d8e269265", null ],
+    [ "UpdateAI", "de/df1/a18530.html#a2e1f52ca84363703d95da99ca93d3503", null ],
+    [ "events", "de/df1/a18530.html#a54f3baa4767f8336ff4699de426aae61", null ],
+    [ "firstUpdate", "de/df1/a18530.html#af5c34c976137e456d1779ca944f88639", null ],
+    [ "instance", "de/df1/a18530.html#a788141bf9be03161741d01d0aa4fe227", null ]
 ];

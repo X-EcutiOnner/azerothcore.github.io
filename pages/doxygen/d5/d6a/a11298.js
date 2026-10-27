@@ -1,7 +1,12 @@
 var a11298 =
 [
-    [ "AutoEquipItemSlot", "d5/d6a/a11298.html#aa51f40a4172ac41548ec6199bc84375d", null ],
-    [ "Read", "d5/d6a/a11298.html#ade6a15026e9c461b38301edf79f367be", null ],
-    [ "DestinationSlot", "d5/d6a/a11298.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
-    [ "ItemGuid", "d5/d6a/a11298.html#a9d4da587061833262acff66674d3ac41", null ]
+    [ "Charges", "d5/d6a/a11298.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
+    [ "Count", "d5/d6a/a11298.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
+    [ "EnchantmentID", "d5/d6a/a11298.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
+    [ "Flags", "d5/d6a/a11298.html#a3ca816132a756d3dc939877c57f6045d", null ],
+    [ "ItemID", "d5/d6a/a11298.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
+    [ "RandomPropertiesID", "d5/d6a/a11298.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
+    [ "RandomPropertiesSeed", "d5/d6a/a11298.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
+    [ "Slot", "d5/d6a/a11298.html#afcc0a78c2f9a3061830679fece476a64", null ],
+    [ "SocketEnchant", "d5/d6a/a11298.html#a55545d4d1b752e4f08bd05350b22892c", null ]
 ];

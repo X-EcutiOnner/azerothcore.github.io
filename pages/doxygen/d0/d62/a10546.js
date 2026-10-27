@@ -1,12 +1,6 @@
 var a10546 =
 [
-    [ "FacingInfo", "d0/d62/a10546.html#a1ac825c359704924c66e46eada64e34e", null ],
-    [ "FacingInfo", "d0/d62/a10546.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
-    [ "FacingInfo", "d0/d62/a10546.html#add6411db27c1d313d2f133adf0c35755", null ],
-    [ "angle", "d0/d62/a10546.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
-    [ "f", "d0/d62/a10546.html#a811011ef77b57be8ae86de7396f67d51", null ],
-    [ "target", "d0/d62/a10546.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
-    [ "x", "d0/d62/a10546.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
-    [ "y", "d0/d62/a10546.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
-    [ "z", "d0/d62/a10546.html#a5ff017b732d47684f675041e44227754", null ]
+    [ "End", "d0/d62/a10546.html#afe0d737ea574b9695666c77f94d32bc6", null ],
+    [ "Sag", "d0/d62/a10546.html#aa00786202657a1f09db881ad39e9e2c4", null ],
+    [ "Start", "d0/d62/a10546.html#a6e14064080d25382a9bf5c561a5423ce", null ]
 ];

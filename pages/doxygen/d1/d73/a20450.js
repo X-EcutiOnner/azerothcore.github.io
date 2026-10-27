@@ -1,7 +1,6 @@
 var a20450 =
 [
-    [ "npc_ulduar_icicle", "d1/d73/a20450.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
-    [ "UpdateAI", "d1/d73/a20450.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
-    [ "timer1", "d1/d73/a20450.html#ae277d302131abd17cef018872b12da06", null ],
-    [ "timer2", "d1/d73/a20450.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
+    [ "PrepareSpellScript", "d1/d73/a20450.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "d1/d73/a20450.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "d1/d73/a20450.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

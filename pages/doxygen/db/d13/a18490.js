@@ -1,6 +1,6 @@
 var a18490 =
 [
-    [ "FilterTargets", "db/d13/a18490.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
-    [ "PrepareSpellScript", "db/d13/a18490.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
-    [ "Register", "db/d13/a18490.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
+    [ "FilterTargetsInitial", "db/d13/a18490.html#a92cc71f268793c616bed66d9a489a145", null ],
+    [ "PrepareSpellScript", "db/d13/a18490.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
+    [ "Register", "db/d13/a18490.html#a91b96940a9e72e632989b49f7e475dba", null ]
 ];

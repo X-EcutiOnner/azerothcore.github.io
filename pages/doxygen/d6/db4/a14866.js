@@ -1,9 +1,17 @@
 var a14866 =
 [
-    [ "entries", "d6/db4/a14866.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "d6/db4/a14866.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "d6/db4/a14866.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "d6/db4/a14866.html#a318d5e1c78e24df88077fe33ba5d9b5b", null ],
-    [ "size", "d6/db4/a14866.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "d6/db4/a14866.html#a54ef87964b52bb4fc2cc2846afd7e7d3", null ]
+    [ "npc_coren_direbrew", "d6/db4/a14866.html#a51ab68feb3dde3fb23c708afcdcdbd34", null ],
+    [ "CanBeSeen", "d6/db4/a14866.html#ad4db2a85c92f69e54036f4133396f201", null ],
+    [ "DamageTaken", "d6/db4/a14866.html#a782a08ed525eab8a9e9044dc1d5814b3", null ],
+    [ "DoAction", "d6/db4/a14866.html#a2d417a9310b5b75df09879678d967794", null ],
+    [ "JustDied", "d6/db4/a14866.html#a39913e601440fcd6ffbc77ad7c204ac8", null ],
+    [ "JustSummoned", "d6/db4/a14866.html#a2cb3d9de6ccdffa73f709b82cfae790a", null ],
+    [ "MoveInLineOfSight", "d6/db4/a14866.html#a9c48c7e4a97998c2091992f51b734679", null ],
+    [ "Reset", "d6/db4/a14866.html#a49eb75eb89742ee70ca957d4e2f0b5d0", null ],
+    [ "sGossipSelect", "d6/db4/a14866.html#ad8b665606985984ad633f66ad9b73bd2", null ],
+    [ "SummonedCreatureDies", "d6/db4/a14866.html#aafdc2d271d1e267f5b3deba7d00e07fc", null ],
+    [ "SummonSister", "d6/db4/a14866.html#a358fe5922a85ea3eee6abe9451869b66", null ],
+    [ "UpdateAI", "d6/db4/a14866.html#af6615292fa853883979dc37c6e247289", null ],
+    [ "_events", "d6/db4/a14866.html#a81ee26c215b7581a13faf56ee041b9fe", null ],
+    [ "_summons", "d6/db4/a14866.html#a261d4c4dea56748e66752cb11588086a", null ]
 ];

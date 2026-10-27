@@ -1,17 +1,9 @@
 var a09346 =
 [
-    [ "ActionMenuID", "d0/d0f/a09346.html#a486f9af68a02ae52d51772a3421db377", null ],
-    [ "ActionPoiID", "d0/d0f/a09346.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
-    [ "BoxBroadcastTextID", "d0/d0f/a09346.html#a12882942190a9a568b9dc30214ee6a88", null ],
-    [ "BoxCoded", "d0/d0f/a09346.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
-    [ "BoxMoney", "d0/d0f/a09346.html#ab00c368181ccaba98e878d49de6138e2", null ],
-    [ "BoxText", "d0/d0f/a09346.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
-    [ "Conditions", "d0/d0f/a09346.html#aa1632404bbc869b17dab8833f660c52b", null ],
-    [ "MenuID", "d0/d0f/a09346.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
-    [ "OptionBroadcastTextID", "d0/d0f/a09346.html#af8af4b4c27405908482db73797cd2d49", null ],
-    [ "OptionIcon", "d0/d0f/a09346.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
-    [ "OptionID", "d0/d0f/a09346.html#adf2a8d247a88a062a75eb726dd43d019", null ],
-    [ "OptionNpcFlag", "d0/d0f/a09346.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
-    [ "OptionText", "d0/d0f/a09346.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
-    [ "OptionType", "d0/d0f/a09346.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
+    [ "day", "d0/d0f/a09346.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
+    [ "holidayId", "d0/d0f/a09346.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
+    [ "month", "d0/d0f/a09346.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
+    [ "offset", "d0/d0f/a09346.html#aaa9bf14668239ea561aecc33104e245a", null ],
+    [ "type", "d0/d0f/a09346.html#a25f2529332f23c93b37e5c918032eb3d", null ],
+    [ "weekday", "d0/d0f/a09346.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
 ];

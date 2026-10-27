@@ -1,11 +1,13 @@
 var a12574 =
 [
-    [ "pooltools_commandscript", "d9/d63/a12574.html#a3428978e91000cbe46dd2b84a30eee2d", null ],
-    [ "GetCommands", "d9/d63/a12574.html#aebd69a3ae0a0e0833f3eaeeb637d97e6", null ],
-    [ "HandlePoolAdd", "d9/d63/a12574.html#afb113b7673dbddf804f9384fbc400d67", null ],
-    [ "HandlePoolClear", "d9/d63/a12574.html#a4bde765f2949ae2db1601e8f5a103ed2", null ],
-    [ "HandlePoolDef", "d9/d63/a12574.html#a12edd3f4697bba8e03594ceed8c6c289", null ],
-    [ "HandlePoolEnd", "d9/d63/a12574.html#a039862a0ca89201187f4e06ce792cae8", null ],
-    [ "HandlePoolRemove", "d9/d63/a12574.html#a158f83f814cba8328dcb81f02525dcdb", null ],
-    [ "HandlePoolStart", "d9/d63/a12574.html#a13629c50653c80b949bdf80485e51d59", null ]
+    [ "gm_commandscript", "d9/d63/a12574.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "d9/d63/a12574.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "d9/d63/a12574.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "d9/d63/a12574.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "d9/d63/a12574.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "d9/d63/a12574.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "d9/d63/a12574.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "d9/d63/a12574.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMSpectatorCommand", "d9/d63/a12574.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
+    [ "HandleGMVisibleCommand", "d9/d63/a12574.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

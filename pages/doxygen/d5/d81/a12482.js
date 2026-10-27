@@ -1,11 +1,9 @@
 var a12482 =
 [
-    [ "instance_commandscript", "d5/d81/a12482.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "d5/d81/a12482.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "d5/d81/a12482.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "d5/d81/a12482.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "d5/d81/a12482.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "d5/d81/a12482.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "d5/d81/a12482.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "d5/d81/a12482.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "map", "d5/d81/a12482.html#a274c6d61203c24b3c680055244e1f590", null ],
+    [ "mouth", "d5/d81/a12482.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
+    [ "mouthGuid", "d5/d81/a12482.html#a2245c14e379c83bdd47165e829de2e41", null ],
+    [ "necropolisCount", "d5/d81/a12482.html#aec44e315616920ba8224be8c4831f5e9", null ],
+    [ "remainingNecropoli", "d5/d81/a12482.html#a3c18c61fcd44c32f9e0009479db85399", null ],
+    [ "zoneId", "d5/d81/a12482.html#a98e1490705f74627cf9e5483857f3f25", null ]
 ];

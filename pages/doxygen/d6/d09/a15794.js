@@ -1,7 +1,10 @@
 var a15794 =
 [
-    [ "npc_anubisath_warder", "d6/d09/a15794.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "d6/d09/a15794.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "d6/d09/a15794.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "d6/d09/a15794.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "boss_huhuran", "d6/d09/a15794.html#a64e0b20891992764c708cbb661c18196", null ],
+    [ "DamageTaken", "d6/d09/a15794.html#adb47086f29b41f4168ad5d1b2728547d", null ],
+    [ "JustEngagedWith", "d6/d09/a15794.html#a08f1d6550680d5bcf07332eade115730", null ],
+    [ "Reset", "d6/d09/a15794.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
+    [ "UpdateAI", "d6/d09/a15794.html#a23962e668f046b373f94ea6a2d75574a", null ],
+    [ "_berserk", "d6/d09/a15794.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
+    [ "_hardEnrage", "d6/d09/a15794.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
 ];

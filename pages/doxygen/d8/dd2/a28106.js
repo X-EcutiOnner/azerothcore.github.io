@@ -1,7 +1,6 @@
 var a28106 =
 [
-    [ "npc_spirit_shadeAI", "d8/dd2/a28106.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d8/dd2/a28106.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d8/dd2/a28106.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d8/dd2/a28106.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "CalculateAmount", "d8/dd2/a28106.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "d8/dd2/a28106.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "d8/dd2/a28106.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

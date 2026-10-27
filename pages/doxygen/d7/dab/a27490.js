@@ -1,8 +1,6 @@
 var a27490 =
 [
-    [ "ApplyDebuff", "d7/dab/a27490.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
-    [ "PrepareSpellScript", "d7/dab/a27490.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
-    [ "Register", "d7/dab/a27490.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
-    [ "RemoveInvalidTargets", "d7/dab/a27490.html#a1374c764b20b95febbca44c593bde218", null ],
-    [ "Validate", "d7/dab/a27490.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
+    [ "HandlePeriodic", "d7/dab/a27490.html#a6fdf93580d860712943bbff07e273fef", null ],
+    [ "PrepareAuraScript", "d7/dab/a27490.html#ac64daca8467814398251ec8e590f8281", null ],
+    [ "Register", "d7/dab/a27490.html#ad0e68442f3d12cb58781e5e2d39b49ec", null ]
 ];

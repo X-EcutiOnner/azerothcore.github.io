@@ -1,7 +1,6 @@
 var a21730 =
 [
-    [ "npc_cosmetic_toy_plane", "d3/d34/a21730.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d3/d34/a21730.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d3/d34/a21730.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d3/d34/a21730.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_sinkhole_kill_creditAI", "d9/d46/a21734.html", "d9/d46/a21734" ],
+    [ "npc_sinkhole_kill_credit", "d3/d34/a21730.html#a627d01aaaa3408986f2b4d171624e680", null ],
+    [ "GetAI", "d3/d34/a21730.html#a4d734432f132bea2c4525d049fbcfa67", null ]
 ];

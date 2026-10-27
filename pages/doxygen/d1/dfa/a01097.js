@@ -1,7 +1,7 @@
 var a01097 =
 [
-    [ "instance_forge_of_souls", "dc/d10/a17413.html", "dc/d10/a17413" ],
-    [ "instance_forge_of_souls::instance_forge_of_souls_InstanceScript", "da/dc5/a17417.html", "da/dc5/a17417" ],
+    [ "instance_forge_of_souls", "d4/d6d/a17430.html", "d4/d6d/a17430" ],
+    [ "instance_forge_of_souls::instance_forge_of_souls_InstanceScript", "d2/d16/a17434.html", "d2/d16/a17434" ],
     [ "Misc", "d1/dfa/a01097.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "dc/d71/a01664.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "dc/d71/a01664.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

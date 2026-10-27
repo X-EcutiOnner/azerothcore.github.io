@@ -1,6 +1,6 @@
 var a23802 =
 [
-    [ "HandlePeriodic", "d8/d76/a23802.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "d8/d76/a23802.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "d8/d76/a23802.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "de/d93/a23806.html", "de/d93/a23806" ],
+    [ "instance_hellfire_ramparts", "d8/d76/a23802.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "d8/d76/a23802.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

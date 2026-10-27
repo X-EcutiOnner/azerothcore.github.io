@@ -1,9 +1,7 @@
 var a17038 =
 [
-    [ "npc_fel_infernalAI", "db/d54/a17038.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
-    [ "EnterEvadeMode", "db/d54/a17038.html#aedec8729b9be931a74fe00d1aa649848", null ],
-    [ "JustDied", "db/d54/a17038.html#a599786069f98231eeb7f9ca809f8e671", null ],
-    [ "Reset", "db/d54/a17038.html#a09f408c9250467228b91ef9f6c9544f4", null ],
-    [ "UpdateAI", "db/d54/a17038.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
-    [ "events", "db/d54/a17038.html#acf955037c246f7b5f12cc5338b300b63", null ]
+    [ "npc_toc_priestAI", "db/d54/a17038.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "db/d54/a17038.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "db/d54/a17038.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "db/d54/a17038.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

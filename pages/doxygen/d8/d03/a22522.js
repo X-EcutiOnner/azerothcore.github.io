@@ -1,9 +1,14 @@
 var a22522 =
 [
-    [ "OPvPCapturePointGH", "d8/d03/a22522.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "d8/d03/a22522.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "d8/d03/a22522.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "d8/d03/a22522.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "d8/d03/a22522.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "d8/d03/a22522.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "npc_wild_wyrm", "d8/d03/a22522.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
+    [ "DamageTaken", "d8/d03/a22522.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
+    [ "DoAction", "d8/d03/a22522.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
+    [ "InitSpellsForPhase", "d8/d03/a22522.html#adcc805b0880d95c185af4a587474c2d2", null ],
+    [ "MovementInform", "d8/d03/a22522.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
+    [ "PassengerBoarded", "d8/d03/a22522.html#a362052015873c615448bec978d744c9e", null ],
+    [ "Reset", "d8/d03/a22522.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
+    [ "SpellHit", "d8/d03/a22522.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
+    [ "UpdateAI", "d8/d03/a22522.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
+    [ "_phase", "d8/d03/a22522.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
+    [ "_playerGuid", "d8/d03/a22522.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
 ];

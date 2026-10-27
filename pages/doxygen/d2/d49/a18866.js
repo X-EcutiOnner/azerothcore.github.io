@@ -1,5 +1,6 @@
 var a18866 =
 [
-    [ "achievement_neck_deep_in_vile", "d2/d49/a18866.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d2/d49/a18866.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "npc_valkyr_shadowguardAI", "dd/dbc/a18870.html", "dd/dbc/a18870" ],
+    [ "npc_valkyr_shadowguard", "d2/d49/a18866.html#a8ee90e21499eebf240c57419454c3829", null ],
+    [ "GetAI", "d2/d49/a18866.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
 ];

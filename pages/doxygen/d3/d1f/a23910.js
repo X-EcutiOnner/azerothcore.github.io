@@ -1,7 +1,5 @@
 var a23910 =
 [
-    [ "boss_gatewatcher_gyrokill", "d3/d1f/a23910.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "d3/d1f/a23910.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "d3/d1f/a23910.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "d3/d1f/a23910.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "at_shattered_halls_execution", "d3/d1f/a23910.html#a73f1d1f03960acd070b7996257f7a526", null ],
+    [ "OnTrigger", "d3/d1f/a23910.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
 ];

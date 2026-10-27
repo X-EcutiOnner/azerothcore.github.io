@@ -1,12 +1,20 @@
 var a14470 =
 [
-    [ "npc_zulian_prowlerAI", "d7/d74/a14470.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "d7/d74/a14470.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "d7/d74/a14470.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "d7/d74/a14470.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "d7/d74/a14470.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "d7/d74/a14470.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "d7/d74/a14470.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "d7/d74/a14470.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "d7/d74/a14470.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "boss_janalai", "d7/d74/a14470.html#a6a049cb60b475b6c496862205d91c39f", null ],
+    [ "Boom", "d7/d74/a14470.html#a902814fa472af7dde6096e6e1901bfd4", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d7/d74/a14470.html#a9320a91d93f1fc82ec863ecf767c0a8a", null ],
+    [ "DamageDealt", "d7/d74/a14470.html#af29b99a31b38516815390087d76c9408", null ],
+    [ "FireWall", "d7/d74/a14470.html#ac3cd768db0abbbe4b03a08f214afc5ba", null ],
+    [ "HatchAllEggs", "d7/d74/a14470.html#a7caee2554fe4f6211589e3346d1865fd", null ],
+    [ "JustDied", "d7/d74/a14470.html#a1dd381dbf7bdc25e6a5fc519b132c5e4", null ],
+    [ "JustEngagedWith", "d7/d74/a14470.html#af16f7db848ff2ddcf060ba770d0df836", null ],
+    [ "JustSummoned", "d7/d74/a14470.html#a37aacd788ee8206a8ffbaad7ba702736", null ],
+    [ "Reset", "d7/d74/a14470.html#a8f42138403eb2ef6d1737539dd352e80", null ],
+    [ "SetData", "d7/d74/a14470.html#a48636a0186d7a09e4e98d960bab5530e", null ],
+    [ "SpawnBombs", "d7/d74/a14470.html#ab352cc1bb7f2fc04505de30fe041c9bd", null ],
+    [ "StartBombing", "d7/d74/a14470.html#a9a32cbc9bb1c1542a19aea32f9a9addf", null ],
+    [ "ThrowBombs", "d7/d74/a14470.html#a9a927462879c6c81b2c919c62336a08c", null ],
+    [ "_isBombing", "d7/d74/a14470.html#a881f564fe75051c1c10e645d3f0b243b", null ],
+    [ "_isFlameBreathing", "d7/d74/a14470.html#a0fc79fcdfdd27baa047d22b86135a653", null ],
+    [ "_sideHatched", "d7/d74/a14470.html#ae5cb2bcdfd54a66f62dc807946249528", null ]
 ];

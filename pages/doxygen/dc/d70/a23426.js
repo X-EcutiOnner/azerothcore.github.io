@@ -1,6 +1,7 @@
 var a23426 =
 [
-    [ "HandleScript", "dc/d70/a23426.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "dc/d70/a23426.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "dc/d70/a23426.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "HandleEffectApply", "dc/d70/a23426.html#a3893fffea480b47d06c4903deb051aa9", null ],
+    [ "HandleEffectRemove", "dc/d70/a23426.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
+    [ "PrepareAuraScript", "dc/d70/a23426.html#a246c20ab26d1490fe38afd558a7ae406", null ],
+    [ "Register", "dc/d70/a23426.html#aea639a3ae0f003c6213143427f3b1d23", null ]
 ];

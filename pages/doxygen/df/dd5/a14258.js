@@ -1,6 +1,6 @@
 var a14258 =
 [
-    [ "boss_blight_wormAI", "d5/d44/a14262.html", "d5/d44/a14262" ],
-    [ "boss_blight_worm", "df/dd5/a14258.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "df/dd5/a14258.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "ModDestHeight", "df/dd5/a14258.html#ae5e63f8d6e9e3fa05a82cd5708b44527", null ],
+    [ "PrepareSpellScript", "df/dd5/a14258.html#a7447499330dc583210b7a172265dbb69", null ],
+    [ "Register", "df/dd5/a14258.html#a75e577bbe27b2742f6209b7d295dcafa", null ]
 ];

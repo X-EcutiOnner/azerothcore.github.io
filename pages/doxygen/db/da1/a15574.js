@@ -1,7 +1,12 @@
 var a15574 =
 [
-    [ "boss_rajaxx", "db/da1/a15574.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "db/da1/a15574.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "db/da1/a15574.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "db/da1/a15574.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "db/da1/a15574.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
+    [ "GetData", "db/da1/a15574.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
+    [ "Initialize", "db/da1/a15574.html#aed9ab9542badb0296ca0660c39541cb8", null ],
+    [ "OnGameObjectCreate", "db/da1/a15574.html#a567ac5d9a17514ede5b84c5d78204072", null ],
+    [ "ReadSaveDataMore", "db/da1/a15574.html#a7d6fefed563b0b9763b9c63136c65952", null ],
+    [ "SetData", "db/da1/a15574.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
+    [ "WriteSaveDataMore", "db/da1/a15574.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
+    [ "_firesState", "db/da1/a15574.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
+    [ "_gongPhase", "db/da1/a15574.html#a23485a35f0aa2f2ffad53398882d163a", null ]
 ];

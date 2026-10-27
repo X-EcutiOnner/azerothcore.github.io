@@ -1,8 +1,6 @@
 var a28498 =
 [
-    [ "npc_chicken_cluckAI", "da/da3/a28502.html", "da/da3/a28502" ],
-    [ "npc_chicken_cluck", "d9/d09/a28498.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "d9/d09/a28498.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "d9/d09/a28498.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "d9/d09/a28498.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "go_bashir_crystalforge", "d9/d09/a28498.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "d9/d09/a28498.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "d9/d09/a28498.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

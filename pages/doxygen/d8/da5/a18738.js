@@ -1,7 +1,7 @@
 var a18738 =
 [
-    [ "OnPeriodic", "d8/da5/a18738.html#a9635bf496ee3098e412ba7de633250b3", null ],
-    [ "PrepareAuraScript", "d8/da5/a18738.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
-    [ "Register", "d8/da5/a18738.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
-    [ "Validate", "d8/da5/a18738.html#a5675fef373315edd34d096bb91c733b0", null ]
+    [ "StartMovementEvent", "d8/da5/a18738.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "d8/da5/a18738.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "d8/da5/a18738.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "d8/da5/a18738.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

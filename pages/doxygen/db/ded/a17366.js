@@ -1,9 +1,7 @@
 var a17366 =
 [
-    [ "npc_hor_spiritual_reflection", "db/ded/a17366.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
-    [ "EnterEvadeMode", "db/ded/a17366.html#a3973e83b013df723849939635071324f", null ],
-    [ "JustDied", "db/ded/a17366.html#a913d17e1534a5940b7841e38eae246f7", null ],
-    [ "JustEngagedWith", "db/ded/a17366.html#ad47d12654c88cc94b7c17906e4096115", null ],
-    [ "Reset", "db/ded/a17366.html#aa7dad28bbe53286ec298ba5480717e69", null ],
-    [ "UpdateAI", "db/ded/a17366.html#a5093b6502bca95c22b2b0f0117f86047", null ]
+    [ "HandleEffectRemove", "db/ded/a17366.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "db/ded/a17366.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "db/ded/a17366.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "db/ded/a17366.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

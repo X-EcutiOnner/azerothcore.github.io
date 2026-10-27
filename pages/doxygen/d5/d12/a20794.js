@@ -1,5 +1,7 @@
 var a20794 =
 [
-    [ "achievement_quick_shave", "d5/d12/a20794.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "d5/d12/a20794.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "FilterTargets", "d5/d12/a20794.html#a16f739f70b052f71293846903aab8fdd", null ],
+    [ "HandleDummy", "d5/d12/a20794.html#a4290c0e73254fead6e0f1e4abf7d39f4", null ],
+    [ "PrepareSpellScript", "d5/d12/a20794.html#a430d44a79daa53fd492a0f9506bbbcc7", null ],
+    [ "Register", "d5/d12/a20794.html#af3a1324237de67b4fa507e626def7743", null ]
 ];

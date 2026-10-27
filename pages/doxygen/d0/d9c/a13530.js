@@ -1,7 +1,6 @@
 var a13530 =
 [
-    [ "HandleScript", "d0/d9c/a13530.html#a6ce169d6c1b106195f787b52ea433311", null ],
-    [ "PrepareSpellScript", "d0/d9c/a13530.html#a4f71583df2193274365944e6d228247c", null ],
-    [ "Register", "d0/d9c/a13530.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
-    [ "Validate", "d0/d9c/a13530.html#a51025308f88001f1f66d7f68f174f325", null ]
+    [ "HandleProc", "d0/d9c/a13530.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "d0/d9c/a13530.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "d0/d9c/a13530.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

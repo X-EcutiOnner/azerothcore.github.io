@@ -1,6 +1,5 @@
 var a17294 =
 [
-    [ "npc_fos_leader_secondAI", "d4/d6d/a17298.html", "d4/d6d/a17298" ],
-    [ "npc_fos_leader_second", "d9/d61/a17294.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
-    [ "GetAI", "d9/d61/a17294.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
+    [ "achievement_better_off_dred", "d9/d61/a17294.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
+    [ "OnCheck", "d9/d61/a17294.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
 ];

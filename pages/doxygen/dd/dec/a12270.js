@@ -1,6 +1,12 @@
 var a12270 =
 [
-    [ "Command", "dd/dec/a12270.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "dd/dec/a12270.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "dd/dec/a12270.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "BroadcastTextBuilder", "dd/dec/a12270.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
+    [ "operator()", "dd/dec/a12270.html#a16f9719278e00013c25902846fa1be5b", null ],
+    [ "operator()", "dd/dec/a12270.html#ac87701626dddffb6b09bf504b97c4d55", null ],
+    [ "_achievementId", "dd/dec/a12270.html#a82de25331657b17ce0de33f2b374abda", null ],
+    [ "_gender", "dd/dec/a12270.html#a71032b0749dd75f552107503528e8166", null ],
+    [ "_msgType", "dd/dec/a12270.html#a232325cefa217843da5cc6db7e5d80fe", null ],
+    [ "_source", "dd/dec/a12270.html#ab73315225b3aa36a309f45596f7089f4", null ],
+    [ "_target", "dd/dec/a12270.html#a958b154f3c82188e9684be0f0b7dae56", null ],
+    [ "_textId", "dd/dec/a12270.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
 ];

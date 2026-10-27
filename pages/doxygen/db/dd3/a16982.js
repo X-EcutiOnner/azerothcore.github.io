@@ -1,6 +1,10 @@
 var a16982 =
 [
-    [ "npc_toc_rogueAI", "d8/d42/a16986.html", "d8/d42/a16986" ],
-    [ "npc_toc_rogue", "db/dd3/a16982.html#a925840be9698e381358235a827c20b8a", null ],
-    [ "GetAI", "db/dd3/a16982.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
+    [ "npc_nerubian_burrowerAI", "db/dd3/a16982.html#a7673709e7b16a6573d9c7392ba556313", null ],
+    [ "CanAIAttack", "db/dd3/a16982.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
+    [ "JustDied", "db/dd3/a16982.html#ab5182ad65187c472b306e2177530d7b6", null ],
+    [ "Reset", "db/dd3/a16982.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
+    [ "SpellHitTarget", "db/dd3/a16982.html#a64fa2c8276f7418542190e833dd72c51", null ],
+    [ "UpdateAI", "db/dd3/a16982.html#abd2c7333625ded502a00848b09ee9a40", null ],
+    [ "events", "db/dd3/a16982.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
 ];

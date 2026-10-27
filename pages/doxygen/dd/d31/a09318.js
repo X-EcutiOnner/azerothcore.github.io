@@ -1,10 +1,9 @@
 var a09318 =
 [
-    [ "PetLevelInfo", "dd/d31/a09318.html#ad8e757abeae500063e963ffef5469809", null ],
-    [ "armor", "dd/d31/a09318.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
-    [ "health", "dd/d31/a09318.html#a322dcab3af8f98726aa6addf38e8891b", null ],
-    [ "mana", "dd/d31/a09318.html#a27352e73d6ed3945e398e0634dee1e96", null ],
-    [ "max_dmg", "dd/d31/a09318.html#a092f2600f64f2af885142b2e96d1fe64", null ],
-    [ "min_dmg", "dd/d31/a09318.html#a299d1c7f4c28893e09de79cd816afa95", null ],
-    [ "stats", "dd/d31/a09318.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
+    [ "GameEventAIHookWorker", "dd/d31/a09318.html#ad72640a18d2d32a9201c965089ee49cf", null ],
+    [ "Visit", "dd/d31/a09318.html#a23d979ee43838e7d58e9123e36474a5a", null ],
+    [ "Visit", "dd/d31/a09318.html#a79106ec550d072d690bbf3496d76cb0a", null ],
+    [ "Visit", "dd/d31/a09318.html#a165476edd8b252bbb90b8b78fae963a6", null ],
+    [ "_activate", "dd/d31/a09318.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
+    [ "_eventId", "dd/d31/a09318.html#ab1ee68bb7134e84780772eba2cfac766", null ]
 ];

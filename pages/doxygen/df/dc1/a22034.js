@@ -1,8 +1,6 @@
 var a22034 =
 [
-    [ "AfterApply", "df/dc1/a22034.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
-    [ "AfterRemove", "df/dc1/a22034.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
-    [ "PrepareAuraScript", "df/dc1/a22034.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
-    [ "Register", "df/dc1/a22034.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
-    [ "Validate", "df/dc1/a22034.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
+    [ "npc_q24545_vegard_dummyAI", "df/dc1/a22034.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "df/dc1/a22034.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "df/dc1/a22034.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

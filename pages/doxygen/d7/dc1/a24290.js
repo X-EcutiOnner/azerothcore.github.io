@@ -1,7 +1,6 @@
 var a24290 =
 [
-    [ "HandleEffectRemove", "d7/dc1/a24290.html#a317c238b165ad331beb447ea5d0de7e1", null ],
-    [ "PrepareAuraScript", "d7/dc1/a24290.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
-    [ "Register", "d7/dc1/a24290.html#a13fdde1557249328306a57e159d821a7", null ],
-    [ "Validate", "d7/dc1/a24290.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "df/d7c/a24294.html", "df/d7c/a24294" ],
+    [ "npc_creditmarker_visit_with_ancestors", "d7/dc1/a24290.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "d7/dc1/a24290.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

@@ -1,6 +1,14 @@
 var a21418 =
 [
-    [ "npc_frozen_orbAI", "d5/d22/a21422.html", "d5/d22/a21422" ],
-    [ "npc_frozen_orb", "d9/db8/a21418.html#ac14966722e39b2b6b3a907756701ed98", null ],
-    [ "GetAI", "d9/db8/a21418.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
+    [ "npc_massive_jormungarAI", "d9/db8/a21418.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
+    [ "DoAction", "d9/db8/a21418.html#a8084994ba056c907b2e487568fa7502a", null ],
+    [ "JustDied", "d9/db8/a21418.html#a02b4e75227811250e2210f754e6e04f2", null ],
+    [ "JustEngagedWith", "d9/db8/a21418.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
+    [ "JustReachedHome", "d9/db8/a21418.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
+    [ "MoveInLineOfSight", "d9/db8/a21418.html#a55c817111fab479c3abcfca8942f16e8", null ],
+    [ "Reset", "d9/db8/a21418.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
+    [ "UpdateAI", "d9/db8/a21418.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
+    [ "events", "d9/db8/a21418.html#a92334b8178317a91a7d4336096d75f33", null ],
+    [ "m_pInstance", "d9/db8/a21418.html#ad50a9852370798817fda318f71f27653", null ],
+    [ "summons", "d9/db8/a21418.html#acfa84efc38b994706015e6d82fe1f653", null ]
 ];

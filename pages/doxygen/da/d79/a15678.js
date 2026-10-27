@@ -1,10 +1,12 @@
 var a15678 =
 [
-    [ "boss_huhuran", "da/d79/a15678.html#a64e0b20891992764c708cbb661c18196", null ],
-    [ "DamageTaken", "da/d79/a15678.html#adb47086f29b41f4168ad5d1b2728547d", null ],
-    [ "JustEngagedWith", "da/d79/a15678.html#a08f1d6550680d5bcf07332eade115730", null ],
-    [ "Reset", "da/d79/a15678.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
-    [ "UpdateAI", "da/d79/a15678.html#a23962e668f046b373f94ea6a2d75574a", null ],
-    [ "_berserk", "da/d79/a15678.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
-    [ "_hardEnrage", "da/d79/a15678.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
+    [ "npc_anubisath_guardian", "da/d79/a15678.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
+    [ "DamageTaken", "da/d79/a15678.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
+    [ "JustDied", "da/d79/a15678.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
+    [ "JustEngagedWith", "da/d79/a15678.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
+    [ "Reset", "da/d79/a15678.html#af87cc86141964c48f9c57ed5bade36a5", null ],
+    [ "UpdateAI", "da/d79/a15678.html#a9a9c805c92a3e8e96914d01accb01051", null ],
+    [ "_enraged", "da/d79/a15678.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
+    [ "_scheduler", "da/d79/a15678.html#ad44455c43d53426a152547d5b0770bbe", null ],
+    [ "_spells", "da/d79/a15678.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
 ];

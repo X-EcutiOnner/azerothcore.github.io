@@ -1,6 +1,9 @@
 var a23070 =
 [
-    [ "PrepareAuraScript", "d1/df1/a23070.html#a0dca39c324a5431d4861c1f20a34355e", null ],
-    [ "Register", "d1/df1/a23070.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
-    [ "Update", "d1/df1/a23070.html#a6201eaa3b961e838a535b80679996ada", null ]
+    [ "HandleAfterCast", "d1/df1/a23070.html#a32928b579ef42f377e911ef27197ed61", null ],
+    [ "HandleDummy", "d1/df1/a23070.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
+    [ "Load", "d1/df1/a23070.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
+    [ "PrepareSpellScript", "d1/df1/a23070.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
+    [ "Register", "d1/df1/a23070.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
+    [ "_targetCount", "d1/df1/a23070.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
 ];

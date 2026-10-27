@@ -1,6 +1,7 @@
 var a18258 =
 [
-    [ "AbominationDespawner", "df/da5/a18258.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "df/da5/a18258.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "df/da5/a18258.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "DamageGunship", "df/da5/a18258.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "df/da5/a18258.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "df/da5/a18258.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "df/da5/a18258.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

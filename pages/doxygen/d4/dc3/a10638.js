@@ -1,12 +1,12 @@
 var a10638 =
 [
-    [ "QuestLocale", "d4/dc3/a10638.html#a887d474a470ee0278fb4b465a7ad9547", null ],
-    [ "AreaDescription", "d4/dc3/a10638.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
-    [ "CompletedText", "d4/dc3/a10638.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
-    [ "Details", "d4/dc3/a10638.html#afd23d37c92f2b28e1c125bba0d670497", null ],
-    [ "Objectives", "d4/dc3/a10638.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
-    [ "ObjectiveText", "d4/dc3/a10638.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
-    [ "OfferRewardText", "d4/dc3/a10638.html#aaba6d07625232a77e3457454f7d4fa77", null ],
-    [ "RequestItemsText", "d4/dc3/a10638.html#a764d2092084454844e59c484fb637017", null ],
-    [ "Title", "d4/dc3/a10638.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
+    [ "FacingInfo", "d4/dc3/a10638.html#a1ac825c359704924c66e46eada64e34e", null ],
+    [ "FacingInfo", "d4/dc3/a10638.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
+    [ "FacingInfo", "d4/dc3/a10638.html#add6411db27c1d313d2f133adf0c35755", null ],
+    [ "angle", "d4/dc3/a10638.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
+    [ "f", "d4/dc3/a10638.html#aa7ebe7aa5b11f5c67ddfe62606bbc643", null ],
+    [ "target", "d4/dc3/a10638.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
+    [ "x", "d4/dc3/a10638.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
+    [ "y", "d4/dc3/a10638.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
+    [ "z", "d4/dc3/a10638.html#a5ff017b732d47684f675041e44227754", null ]
 ];

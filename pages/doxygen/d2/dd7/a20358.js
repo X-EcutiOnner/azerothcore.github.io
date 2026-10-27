@@ -1,12 +1,13 @@
 var a20358 =
 [
-    [ "boss_freya_elder_stonebark", "d2/dd7/a20358.html#ad379afe772ff29d689bc763786d28793", null ],
-    [ "DamageTaken", "d2/dd7/a20358.html#a1a6b9897ffff95b29de351d02411f216", null ],
-    [ "JustDied", "d2/dd7/a20358.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
-    [ "JustEngagedWith", "d2/dd7/a20358.html#a363a639d65fb746cca3410427f8a1e10", null ],
-    [ "KilledUnit", "d2/dd7/a20358.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
-    [ "Reset", "d2/dd7/a20358.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
-    [ "UpdateAI", "d2/dd7/a20358.html#a913cd147d5a88189e183d817357946e3", null ],
-    [ "_chargesCount", "d2/dd7/a20358.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
-    [ "events", "d2/dd7/a20358.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
+    [ "boss_flame_leviathan_defense_turret", "d2/dd7/a20358.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
+    [ "CanAIAttack", "d2/dd7/a20358.html#a17020dc7facabb0cacac3209277a73f7", null ],
+    [ "DamageTaken", "d2/dd7/a20358.html#ac15aadce1954d827b7e833ed761faf10", null ],
+    [ "EnterEvadeMode", "d2/dd7/a20358.html#aeb9fe92f81b3734512106aa73c983a35", null ],
+    [ "JustDied", "d2/dd7/a20358.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
+    [ "JustEnteredCombat", "d2/dd7/a20358.html#a3e31c489f5bb4928cb9a3bc996940cd1", null ],
+    [ "KilledUnit", "d2/dd7/a20358.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
+    [ "UpdateAI", "d2/dd7/a20358.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
+    [ "_instance", "d2/dd7/a20358.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
+    [ "_setHealth", "d2/dd7/a20358.html#a413187aa01c119d088846a216f093baa", null ]
 ];

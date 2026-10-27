@@ -1,8 +1,6 @@
 var a19670 =
 [
-    [ "HandleAfterCast", "d3/db2/a19670.html#ac816f81a668ac3018be8f5dc4698039b", null ],
-    [ "HandleDummy", "d3/db2/a19670.html#a3009faa525c22779a0b2534b96821cfd", null ],
-    [ "PrepareSpellScript", "d3/db2/a19670.html#aca38f23f080314ab73ec2494bf877716", null ],
-    [ "Register", "d3/db2/a19670.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
-    [ "Validate", "d3/db2/a19670.html#af945e399992deb3aef5c81ad393ee50f", null ]
+    [ "boss_kelthuzadAI", "db/d14/a19674.html", "db/d14/a19674" ],
+    [ "boss_kelthuzad", "d3/db2/a19670.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
+    [ "GetAI", "d3/db2/a19670.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
 ];

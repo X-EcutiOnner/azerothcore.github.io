@@ -1,7 +1,14 @@
 var a16714 =
 [
-    [ "CountAllies", "d4/ddf/a16714.html#a207c1fd89fd726054a881e342391d2a0", null ],
-    [ "PrepareSpellScript", "d4/ddf/a16714.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
-    [ "Register", "d4/ddf/a16714.html#a47574795b2a262625c65ab23a4179684", null ],
-    [ "Validate", "d4/ddf/a16714.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
+    [ "npc_halion_controllerAI", "d4/ddf/a16714.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
+    [ "DoAction", "d4/ddf/a16714.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
+    [ "Reset", "d4/ddf/a16714.html#a3004aecb50815287d5f832f2a8a0d250", null ],
+    [ "SetData", "d4/ddf/a16714.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
+    [ "UpdateAI", "d4/ddf/a16714.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
+    [ "UpdateCorporeality", "d4/ddf/a16714.html#ac82987f2b2b069b90c509c477004bae6", null ],
+    [ "_corporeality", "d4/ddf/a16714.html#a4c23df1bb774ac724bdf537453592671", null ],
+    [ "_events", "d4/ddf/a16714.html#a92e3f116260265a2d0dbeef769eee03e", null ],
+    [ "_instance", "d4/ddf/a16714.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
+    [ "_materialDamage", "d4/ddf/a16714.html#afcc510b0d4be10ed057d1a304b803b69", null ],
+    [ "_twilightDamage", "d4/ddf/a16714.html#a13a9efcb11ed31725c45011508407287", null ]
 ];

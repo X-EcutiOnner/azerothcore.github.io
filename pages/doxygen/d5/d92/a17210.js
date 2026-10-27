@@ -1,8 +1,18 @@
 var a17210 =
 [
-    [ "HandleEffectApply", "d5/d92/a17210.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
-    [ "HandleEffectRemove", "d5/d92/a17210.html#a04504220319ec562b1b6691f471c1b8d", null ],
-    [ "PrepareAuraScript", "d5/d92/a17210.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
-    [ "Register", "d5/d92/a17210.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
-    [ "Validate", "d5/d92/a17210.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
+    [ "boss_icehowlAI", "d5/d92/a17210.html#a81fbfe9bb9d6186e36af2dd24c2dca5e", null ],
+    [ "AttackStart", "d5/d92/a17210.html#ab40b1bb5338fab72aa23f650925d5ed0", null ],
+    [ "DoTrampleIfValid", "d5/d92/a17210.html#ae3df64882f344dddc1480574d078e9a0", null ],
+    [ "EnterEvadeMode", "d5/d92/a17210.html#afeebf7a1039b3eed4b351e88751818b5", null ],
+    [ "JustDied", "d5/d92/a17210.html#ae29d8fc7d1ad3e57785c1c31ec73fa86", null ],
+    [ "JustEngagedWith", "d5/d92/a17210.html#aac8165285ec44942217e93ad25a3668b", null ],
+    [ "JustReachedHome", "d5/d92/a17210.html#a1034e0e9f5af03cd1d36aef4df724bc9", null ],
+    [ "MovementInform", "d5/d92/a17210.html#a9e3a3733647d18fce22a9afeb60a711d", null ],
+    [ "UpdateAI", "d5/d92/a17210.html#a0972a2b86426f6d0efbde3d8b802a8f3", null ],
+    [ "destX", "d5/d92/a17210.html#ace7b1c523d1845eabe1806fbf75453aa", null ],
+    [ "destY", "d5/d92/a17210.html#aebb7d901669fe987e805e0dfcfe9993a", null ],
+    [ "destZ", "d5/d92/a17210.html#ab9f08e2f505368869063093f531f8794", null ],
+    [ "events", "d5/d92/a17210.html#a302879641400e0f0b329fd960256c9fb", null ],
+    [ "pInstance", "d5/d92/a17210.html#a4149dd25a04d661448255858e57387f4", null ],
+    [ "StalkerGUID", "d5/d92/a17210.html#a03d67054baa87389d619f7a661c7d650", null ]
 ];

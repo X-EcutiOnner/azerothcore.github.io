@@ -1,6 +1,6 @@
 var a18438 =
 [
-    [ "DespawnSelf", "de/d03/a18438.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "de/d03/a18438.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "de/d03/a18438.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "FilterTargets", "de/d03/a18438.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
+    [ "PrepareSpellScript", "de/d03/a18438.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
+    [ "Register", "de/d03/a18438.html#a32e04a1110d651701b8eab1648c69a57", null ]
 ];

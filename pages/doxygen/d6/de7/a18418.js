@@ -1,7 +1,6 @@
 var a18418 =
 [
-    [ "HandleScript", "d6/de7/a18418.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "d6/de7/a18418.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "d6/de7/a18418.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "d6/de7/a18418.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "npc_putricide_mutated_abomination", "d6/de7/a18418.html#ae8aa90f98296c10cbbb54570304892ca", null ],
+    [ "AttackStart", "d6/de7/a18418.html#a4ab01c14094f37de91591ff3a81e5c23", null ],
+    [ "UpdateAI", "d6/de7/a18418.html#a84e6eed6db698c6dfa0a2e73c30c1505", null ]
 ];

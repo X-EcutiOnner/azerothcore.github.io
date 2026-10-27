@@ -1,4 +1,4 @@
 var a02624 =
 [
-    [ "MapInstanced", "dc/db6/a10361.html", "dc/db6/a10361" ]
+    [ "MapInstanced", "d8/dc3/a10374.html", "d8/dc3/a10374" ]
 ];

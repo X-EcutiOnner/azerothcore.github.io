@@ -1,9 +1,10 @@
 var a06334 =
 [
-    [ "itemId", "df/de8/a06334.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
-    [ "mailTemplate", "df/de8/a06334.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
-    [ "sender", "df/de8/a06334.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
-    [ "subject", "df/de8/a06334.html#a45644f308278529f822080f8274180d8", null ],
-    [ "text", "df/de8/a06334.html#a4d57dcb4d130552f5bf756308d79307c", null ],
-    [ "titleId", "df/de8/a06334.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
+    [ "TransactionCallback", "df/de8/a06334.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
+    [ "TransactionCallback", "df/de8/a06334.html#adeff62976c11d9d90169e4650640118b", null ],
+    [ "AfterComplete", "df/de8/a06334.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
+    [ "InvokeIfReady", "df/de8/a06334.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
+    [ "operator=", "df/de8/a06334.html#ab73d1741c21ea9fd86f65a647768e972", null ],
+    [ "m_callback", "df/de8/a06334.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
+    [ "m_future", "df/de8/a06334.html#a381e889074bc5ca48574d37fe6eea00f", null ]
 ];

@@ -1,7 +1,8 @@
 var a19106 =
 [
-    [ "npc_impaling_spearAI", "df/d71/a19106.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "df/d71/a19106.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "df/d71/a19106.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "df/d71/a19106.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "DecayPeriodicTimer", "df/d71/a19106.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "df/d71/a19106.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "df/d71/a19106.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "df/d71/a19106.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "df/d71/a19106.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

@@ -1,14 +1,10 @@
 var a08242 =
 [
-    [ "LfgQueueStatusData", "d4/dfb/a08242.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
-    [ "dps", "d4/dfb/a08242.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
-    [ "dungeonId", "d4/dfb/a08242.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
-    [ "healers", "d4/dfb/a08242.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
-    [ "queuedTime", "d4/dfb/a08242.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
-    [ "tanks", "d4/dfb/a08242.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
-    [ "waitTime", "d4/dfb/a08242.html#aa794f234bf93e66916f7eadb986f17ef", null ],
-    [ "waitTimeAvg", "d4/dfb/a08242.html#af44b91dd7ddfb702662663f989f026fc", null ],
-    [ "waitTimeDps", "d4/dfb/a08242.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
-    [ "waitTimeHealer", "d4/dfb/a08242.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
-    [ "waitTimeTank", "d4/dfb/a08242.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
+    [ "Achievement", "d4/dfb/a08242.html#a03caf33cfc9f75dfdbba2dedc747e0ce", null ],
+    [ "CharacterId", "d4/dfb/a08242.html#a0ec541a4e11d9e19f7cced7e839b1ebb", null ],
+    [ "Criteria", "d4/dfb/a08242.html#a4eae1ba9b211d8c8307000ddae428348", null ],
+    [ "Day", "d4/dfb/a08242.html#a216aaf4eed90eeb05662631e8f89b4ab", null ],
+    [ "IsFinished", "d4/dfb/a08242.html#a1aff3d0a28a12f0e4ee10bca376f335c", null ],
+    [ "Month", "d4/dfb/a08242.html#a9be9cfb6a40c527e8f6b6ad381ed5b42", null ],
+    [ "Year", "d4/dfb/a08242.html#a85612eac22d3233e620eb11e6e1b48b0", null ]
 ];

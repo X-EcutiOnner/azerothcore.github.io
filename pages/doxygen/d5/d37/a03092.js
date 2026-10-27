@@ -1,6 +1,6 @@
 var a03092 =
 [
-    [ "DynamicObject", "df/df7/a08629.html", "df/df7/a08629" ],
+    [ "DynamicObject", "d8/dad/a08642.html", "d8/dad/a08642" ],
     [ "DynamicObjectType", "d5/d37/a03092.html#aee85c2f840289bcf773609333ee91131", [
       [ "DYNAMIC_OBJECT_PORTAL", "d5/d37/a03092.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
       [ "DYNAMIC_OBJECT_AREA_SPELL", "d5/d37/a03092.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],

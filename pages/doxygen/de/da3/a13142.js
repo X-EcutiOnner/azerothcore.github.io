@@ -1,10 +1,8 @@
 var a13142 =
 [
-    [ "instance_deadmines_InstanceMapScript", "de/da3/a13142.html#afa12491c1b276d0d643822da562320c3", null ],
-    [ "GetSaveData", "de/da3/a13142.html#a775c7d564b931e157a32b0909efed859", null ],
-    [ "Initialize", "de/da3/a13142.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
-    [ "Load", "de/da3/a13142.html#ad1266c7f6a51b3f66fa67c873443c559", null ],
-    [ "OnGameObjectCreate", "de/da3/a13142.html#a095202af8915f8a1d8888c045e18d6c4", null ],
-    [ "SetData", "de/da3/a13142.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
-    [ "_encounters", "de/da3/a13142.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
+    [ "boss_garr", "de/da3/a13142.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
+    [ "JustEngagedWith", "de/da3/a13142.html#abab82d2e00b373ea1f0e444de23f4987", null ],
+    [ "Reset", "de/da3/a13142.html#a64bcae059cfa97def7e52a42d404a016", null ],
+    [ "UpdateAI", "de/da3/a13142.html#a2a412224072b47de6780ea7b8d543743", null ],
+    [ "massEruptionTimer", "de/da3/a13142.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
 ];

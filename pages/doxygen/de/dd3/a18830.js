@@ -1,6 +1,7 @@
 var a18830 =
 [
-    [ "npc_icc_lk_checktargetAI", "d2/dc0/a18834.html", "d2/dc0/a18834" ],
-    [ "npc_icc_lk_checktarget", "de/dd3/a18830.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "de/dd3/a18830.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "CheckTargetCount", "de/dd3/a18830.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
+    [ "PrepareSpellScript", "de/dd3/a18830.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
+    [ "Register", "de/dd3/a18830.html#a86e7512496fd38201d458c03a7a60296", null ],
+    [ "Validate", "de/dd3/a18830.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
 ];

@@ -1,12 +1,10 @@
 var a15338 =
 [
-    [ "boss_lieutenant_drake", "d7/d0c/a15338.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
-    [ "InitializeAI", "d7/d0c/a15338.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
-    [ "JustDied", "d7/d0c/a15338.html#aca7654e30aac96fa509f99f3447121ec", null ],
-    [ "JustEngagedWith", "d7/d0c/a15338.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
-    [ "KilledUnit", "d7/d0c/a15338.html#a833c889c28ea35a6198fe753b604a8ed", null ],
-    [ "MovementInform", "d7/d0c/a15338.html#aec6e332bc5739552cbbec27569c55759", null ],
-    [ "UpdateAI", "d7/d0c/a15338.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
-    [ "pathId", "d7/d0c/a15338.html#ac63f9c885296a797799c0cd83b0ade64", null ],
-    [ "runSecondPath", "d7/d0c/a15338.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
+    [ "npc_hyjal_gargoyle", "d7/d0c/a15338.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
+    [ "AttackStart", "d7/d0c/a15338.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
+    [ "DoAction", "d7/d0c/a15338.html#ae213c71426f438dd2b27699d7de23664", null ],
+    [ "JustEngagedWith", "d7/d0c/a15338.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
+    [ "PathEndReached", "d7/d0c/a15338.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
+    [ "Reset", "d7/d0c/a15338.html#af314bb183bde44680eeb136d2a08c142", null ],
+    [ "UpdateAI", "d7/d0c/a15338.html#ac1ca0648b08430a8bcbf99980222b684", null ]
 ];

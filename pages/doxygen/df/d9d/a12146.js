@@ -1,13 +1,8 @@
 var a12146 =
 [
-    [ "ToCloud9GroupHooks", "df/d9d/a12146.html#a56b706ee7923e004bc1097887d645793", null ],
-    [ "~ToCloud9GroupHooks", "df/d9d/a12146.html#a05fc2da0da6f565a0bc4bc234a92046f", null ],
-    [ "OnGroupConvertedToRaid", "df/d9d/a12146.html#a104b63c83abe82809e16bc86b9649011", null ],
-    [ "OnGroupCreated", "df/d9d/a12146.html#a7fa6a2d72e6891d9ab41fc113c1a27dd", null ],
-    [ "OnGroupDisbanded", "df/d9d/a12146.html#ae47dee5f18aea4827a1b320c3ba9f607", null ],
-    [ "OnGroupDungeonDifficultyChanged", "df/d9d/a12146.html#a829c7d428363bf0720f0e27e84747b88", null ],
-    [ "OnGroupLootTypeChanged", "df/d9d/a12146.html#adad70b61a54071c25a9e1950f4b656bf", null ],
-    [ "OnGroupMemberAdded", "df/d9d/a12146.html#ad001911251ec8d9f280d5aa1ab291b7e", null ],
-    [ "OnGroupMemberRemoved", "df/d9d/a12146.html#a0c63904979beb754131797a163000ec5", null ],
-    [ "OnGroupRaidDifficultyChanged", "df/d9d/a12146.html#a0c066c39c344d750164735a4f549cf69", null ]
+    [ "EffectHandler", "df/d9d/a12146.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "df/d9d/a12146.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "df/d9d/a12146.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "df/d9d/a12146.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "df/d9d/a12146.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

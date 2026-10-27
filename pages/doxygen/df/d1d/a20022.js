@@ -1,6 +1,8 @@
 var a20022 =
 [
-    [ "boss_sjonnirAI", "de/dda/a20026.html", "de/dda/a20026" ],
-    [ "boss_sjonnir", "df/d1d/a20022.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "df/d1d/a20022.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "npc_centrifuge_constructAI", "df/d1d/a20022.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "df/d1d/a20022.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "df/d1d/a20022.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "df/d1d/a20022.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "df/d1d/a20022.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

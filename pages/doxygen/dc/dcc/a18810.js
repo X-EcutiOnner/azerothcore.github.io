@@ -1,9 +1,7 @@
 var a18810 =
 [
-    [ "FilterTargets", "dc/dcc/a18810.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "dc/dcc/a18810.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "dc/dcc/a18810.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "dc/dcc/a18810.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "dc/dcc/a18810.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "dc/dcc/a18810.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "OnRemove", "dc/dcc/a18810.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "dc/dcc/a18810.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "dc/dcc/a18810.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "dc/dcc/a18810.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

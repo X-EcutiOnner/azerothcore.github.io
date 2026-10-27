@@ -1,11 +1,6 @@
 var a08830 =
 [
-    [ "PackedGuid", "d7/d70/a08830.html#a9268f8d34f24ef52369d605f94986a8d", null ],
-    [ "PackedGuid", "d7/d70/a08830.html#a6d4559bc2a1d8c27247329c95c2b6156", null ],
-    [ "PackedGuid", "d7/d70/a08830.html#adf388e273472f2699348c7a4361ebac4", null ],
-    [ "Set", "d7/d70/a08830.html#aecbb8650ca713c175c30cd3ebe86b5d5", null ],
-    [ "Set", "d7/d70/a08830.html#ae5d174d63a0b9d33b919f05760290bea", null ],
-    [ "size", "d7/d70/a08830.html#a22ac06b7072951e84bbf69abcd7d58f6", null ],
-    [ "operator<<", "d7/d70/a08830.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
-    [ "_packedGuid", "d7/d70/a08830.html#aeb0e51f1667a2627aabffd6d7cb1779c", null ]
+    [ "item_count", "d7/d70/a08830.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
+    [ "setid", "d7/d70/a08830.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
+    [ "spells", "d7/d70/a08830.html#af8156bad9771ed816fd861d3eb992aaa", null ]
 ];

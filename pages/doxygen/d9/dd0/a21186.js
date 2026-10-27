@@ -1,9 +1,7 @@
 var a21186 =
 [
-    [ "npc_vrykul_skeleton", "d9/dd0/a21186.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "d9/dd0/a21186.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "d9/dd0/a21186.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "d9/dd0/a21186.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "d9/dd0/a21186.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "d9/dd0/a21186.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "OnRemove", "d9/dd0/a21186.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "d9/dd0/a21186.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "d9/dd0/a21186.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "d9/dd0/a21186.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

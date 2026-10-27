@@ -1,7 +1,8 @@
 var a21782 =
 [
-    [ "CheckCast", "dc/ddd/a21782.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "dc/ddd/a21782.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "dc/ddd/a21782.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "dc/ddd/a21782.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "npc_mootoo_the_youngerAI", "dc/ddd/a21782.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "dc/ddd/a21782.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "dc/ddd/a21782.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "dc/ddd/a21782.html#ac758a992ed0d62a272930c84d617b348", null ],
+    [ "WaypointReached", "dc/ddd/a21782.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

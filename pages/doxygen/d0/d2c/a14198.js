@@ -1,6 +1,7 @@
 var a14198 =
 [
-    [ "OnRemove", "d0/d2c/a14198.html#aedad236b202300eee0925e3600b87bfa", null ],
-    [ "PrepareAuraScript", "d0/d2c/a14198.html#acfdeb98e274989e378d4d4c800306a24", null ],
-    [ "Register", "d0/d2c/a14198.html#a0d820ca108e3aabe87ab5867d997264c", null ]
+    [ "npc_deathstalker_erlandAI", "d0/d61/a14202.html", "d0/d61/a14202" ],
+    [ "npc_deathstalker_erland", "d0/d2c/a14198.html#ad49faf068e982f245f0d1e21f0700c40", null ],
+    [ "GetAI", "d0/d2c/a14198.html#ab59235f212ddb985056cb8e32719b723", null ],
+    [ "OnQuestAccept", "d0/d2c/a14198.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
 ];

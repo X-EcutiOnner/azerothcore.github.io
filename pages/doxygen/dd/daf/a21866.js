@@ -1,6 +1,6 @@
 var a21866 =
 [
-    [ "npc_spiritual_insightAI", "da/d7c/a21870.html", "da/d7c/a21870" ],
-    [ "npc_spiritual_insight", "dd/daf/a21866.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "dd/daf/a21866.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "npc_mei_francis_mountAI", "da/d7c/a21870.html", "da/d7c/a21870" ],
+    [ "npc_mei_francis_mount", "dd/daf/a21866.html#ab34facb1d4d9a542710340493488eaa8", null ],
+    [ "GetAI", "dd/daf/a21866.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
 ];

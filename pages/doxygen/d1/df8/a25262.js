@@ -1,7 +1,7 @@
 var a25262 =
 [
-    [ "HandleDummy", "d1/df8/a25262.html#a582208e608c9fdca7464b817c76c13b3", null ],
-    [ "PrepareSpellScript", "d1/df8/a25262.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
-    [ "Register", "d1/df8/a25262.html#a3882606b9e9201163cf76cb20b8e6364", null ],
-    [ "Validate", "d1/df8/a25262.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
+    [ "HandleApply", "d1/df8/a25262.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "d1/df8/a25262.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "d1/df8/a25262.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "d1/df8/a25262.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

@@ -1,21 +1,10 @@
 var a16246 =
 [
-    [ "npc_ranshallaAI", "da/d85/a16246.html#a8d41e290f9545fb72daf5e503b3c660b", null ],
-    [ "DoChannelTorchSpell", "da/d85/a16246.html#ade38de77f83da2f084a9ad3f8ada01d3", null ],
-    [ "DoContinueEscort", "da/d85/a16246.html#aef1192735d87a7e83ea00cc8cb9303c7", null ],
-    [ "DoSummonPriestess", "da/d85/a16246.html#a15f8706b9084b72359e4c8433d771d89", null ],
-    [ "GetSpeakerByEntry", "da/d85/a16246.html#ad930520b705ab63f903f7b68d660adbb", null ],
-    [ "JustDidDialogueStep", "da/d85/a16246.html#a6a20f536d6e360d07970955a8ff9902c", null ],
-    [ "Reset", "da/d85/a16246.html#a0b07925593835ce4d4aaab2f672ae387", null ],
-    [ "SummonedMovementInform", "da/d85/a16246.html#a453cfe020d81e27daa8d779be64012ee", null ],
-    [ "UpdateEscortAI", "da/d85/a16246.html#afabe9208f01fe3d2f128feba8f18426d", null ],
-    [ "WaypointReached", "da/d85/a16246.html#a96ff03de70b433e2ff5c35f50d062c55", null ],
-    [ "WaypointReached", "da/d85/a16246.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_altarGUID", "da/d85/a16246.html#ab9e42364744d89301944b7baa852bc9f", null ],
-    [ "_delayTimer", "da/d85/a16246.html#a219e1f257f0ddae9de5fd89ba9a338be", null ],
-    [ "_firstPriestessGUID", "da/d85/a16246.html#ae5289a2645f3d17da452810b22a77713", null ],
-    [ "_guardEluneGUID", "da/d85/a16246.html#a575afe78a40c8d49a928772fbec64dd9", null ],
-    [ "_secondPriestessGUID", "da/d85/a16246.html#a800131f5a4355e293c5edc009dbbdd20", null ],
-    [ "_voiceEluneGUID", "da/d85/a16246.html#af676158d45338ddbc2a366e399796642", null ],
-    [ "events", "da/d85/a16246.html#a1deb2de50401297451a3e314b5369b5e", null ]
+    [ "npc_custodian_of_timeAI", "da/d85/a16246.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "da/d85/a16246.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "da/d85/a16246.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "da/d85/a16246.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "da/d85/a16246.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "da/d85/a16246.html#a963736e62fbd0caea631ee3fb69fca46", null ],
+    [ "WaypointReached", "da/d85/a16246.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

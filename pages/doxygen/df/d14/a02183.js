@@ -1,7 +1,7 @@
 var a02183 =
 [
-    [ "npc_webbed_creature", "d6/dfb/a15989.html", "d6/dfb/a15989" ],
-    [ "npc_webbed_creature::npc_webbed_creatureAI", "dd/d72/a15993.html", "dd/d72/a15993" ],
+    [ "npc_webbed_creature", "d8/d63/a16006.html", "d8/d63/a16006" ],
+    [ "npc_webbed_creature::npc_webbed_creatureAI", "d3/d99/a16010.html", "d3/d99/a16010" ],
     [ "WebbedCreature", "df/d14/a02183.html#aa14073eff8de36ab4c416f5ae7bd8cd0", [
       [ "SPELL_FREE_WEBBED_CREATURE_HOSTILE_START", "df/d14/a02183.html#aa14073eff8de36ab4c416f5ae7bd8cd0a805bd712057d54d1e7aa0df25591e614", null ],
       [ "SPELL_FREE_WEBBED_CREATURE_HOSTILE_END", "df/d14/a02183.html#aa14073eff8de36ab4c416f5ae7bd8cd0a8c879cd674ceba49c398aa160ab6432e", null ],

@@ -1,8 +1,6 @@
 var a17230 =
 [
-    [ "HandleRemove", "d2/dea/a17230.html#a362b16f69a19adae6b673bd9ead55a83", null ],
-    [ "PeriodicTick", "d2/dea/a17230.html#aa432052d61dc48066433b41b84ffbe5f", null ],
-    [ "PrepareAuraScript", "d2/dea/a17230.html#a3ffbd618820adf77b2c64a29816f5204", null ],
-    [ "Register", "d2/dea/a17230.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
-    [ "Validate", "d2/dea/a17230.html#abed6574398a7d005e95feba6b54243a1", null ]
+    [ "boss_eydisAI", "d2/d96/a17234.html", "d2/d96/a17234" ],
+    [ "boss_eydis", "d2/dea/a17230.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "d2/dea/a17230.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

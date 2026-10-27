@@ -1,6 +1,6 @@
 var a11250 =
 [
-    [ "PlayerSaveGuildEmblem", "d4/d4d/a11250.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
-    [ "Write", "d4/d4d/a11250.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
-    [ "Error", "d4/d4d/a11250.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
+    [ "GuildPromoteMember", "d4/d4d/a11250.html#af623a381aa80e827c2c29987501626ae", null ],
+    [ "Read", "d4/d4d/a11250.html#a3350c1a8c81aa1368a254288849b462b", null ],
+    [ "Promotee", "d4/d4d/a11250.html#af8addf6e9bc45364f595582e8f285cde", null ]
 ];

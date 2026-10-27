@@ -1,9 +1,6 @@
 var a15126 =
 [
-    [ "boss_azuregosAI", "d7/de6/a15126.html#a839ab1e096d30062d64c1c515a7462a4", null ],
-    [ "JustDied", "d7/de6/a15126.html#aea4d204173b7882d2d9acf8204410947", null ],
-    [ "JustEngagedWith", "d7/de6/a15126.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
-    [ "KilledUnit", "d7/de6/a15126.html#aeefc791e17d2a687f8beae809c44d123", null ],
-    [ "Reset", "d7/de6/a15126.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
-    [ "UpdateAI", "d7/de6/a15126.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
+    [ "HandleAfterEffectApply", "d7/de6/a15126.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "d7/de6/a15126.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "d7/de6/a15126.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

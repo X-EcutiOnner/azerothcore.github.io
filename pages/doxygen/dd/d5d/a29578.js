@@ -1,8 +1,7 @@
 var a29578 =
 [
-    [ "auraHasCanProcFromProcs", "dd/d5d/a29578.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
-    [ "isTriggered", "dd/d5d/a29578.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
-    [ "procAuraSpellId", "dd/d5d/a29578.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
-    [ "spellHasNotAProc", "dd/d5d/a29578.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
-    [ "triggeredByAuraSpellId", "dd/d5d/a29578.html#ad62562e342e1d090e3f26f7c40a35795", null ]
+    [ "ID", "dd/d5d/a29578.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
+    [ "RadiusMax", "dd/d5d/a29578.html#ab82c1acb9309b17104958182d80b01d1", null ],
+    [ "RadiusMin", "dd/d5d/a29578.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
+    [ "RadiusPerLevel", "dd/d5d/a29578.html#a74bb59afb808af45ceff6367468fca1e", null ]
 ];

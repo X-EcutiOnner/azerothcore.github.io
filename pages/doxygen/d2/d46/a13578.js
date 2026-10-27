@@ -1,8 +1,6 @@
 var a13578 =
 [
-    [ "npc_apothecary_baxter", "d2/d46/a13578.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
-    [ "JustDied", "d2/d46/a13578.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
-    [ "Reset", "d2/d46/a13578.html#afee5103029bd761c48cbf6a11655c44a", null ],
-    [ "UpdateAI", "d2/d46/a13578.html#ad06090f599d0fda3a88f3182c990a49f", null ],
-    [ "_scheduler", "d2/d46/a13578.html#a6d813041e055f3c2b28be7cba3acde13", null ]
+    [ "boss_garaxxas", "d2/d46/a13578.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "d2/d46/a13578.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "d2/d46/a13578.html#a56e6489ce49971cb066444888355626e", null ]
 ];

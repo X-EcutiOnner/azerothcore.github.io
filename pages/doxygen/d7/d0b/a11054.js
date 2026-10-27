@@ -1,9 +1,8 @@
 var a11054 =
 [
-    [ "GuildInfoResponse", "d7/d0b/a11054.html#a256cb81ad2e08050be99c9e1061c2009", null ],
-    [ "Write", "d7/d0b/a11054.html#a3222d0018c9593400d3d01258b82371e", null ],
-    [ "CreateDate", "d7/d0b/a11054.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
-    [ "GuildName", "d7/d0b/a11054.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
-    [ "NumAccounts", "d7/d0b/a11054.html#a21b42f1654aa10f7872d87635fea66ac", null ],
-    [ "NumMembers", "d7/d0b/a11054.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
+    [ "GuildFilter", "d7/d0b/a11054.html#a20ffe6a8d19489014484722b1481cb65", null ],
+    [ "Read", "d7/d0b/a11054.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63", null ],
+    [ "MaximumLevel", "d7/d0b/a11054.html#a3e23b4e2e5bda01b55ad26ea66222f78", null ],
+    [ "MinimumLevel", "d7/d0b/a11054.html#a0c6523d46a325841cc5511a2a0f3e5c2", null ],
+    [ "MinimumRank", "d7/d0b/a11054.html#a363df89cbe7b5aba7c7df69b65468c49", null ]
 ];

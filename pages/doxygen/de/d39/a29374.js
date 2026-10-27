@@ -1,5 +1,6 @@
 var a29374 =
 [
-    [ "Price", "de/d39/a29374.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
-    [ "Slot", "de/d39/a29374.html#aa53247914bda0ceca015b8b9ca117379", null ]
+    [ "Id", "de/d39/a29374.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
+    [ "SpellId", "de/d39/a29374.html#ae8c119bacf706916f331d3f316fb1347", null ],
+    [ "TypeFlags", "de/d39/a29374.html#aae92871758e9a738a888cacf0946f16b", null ]
 ];

@@ -1,8 +1,12 @@
 var a13882 =
 [
-    [ "HandleApply", "dd/db5/a13882.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "dd/db5/a13882.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "dd/db5/a13882.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "dd/db5/a13882.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "dd/db5/a13882.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "boss_kalecgos", "dd/db5/a13882.html#a9a3eaee76ada967445cc0ed3d5ed21d2", null ],
+    [ "CanAIAttack", "dd/db5/a13882.html#aa810a7eae5a6b1102e2e96022eaf5085", null ],
+    [ "CheckInRoom", "dd/db5/a13882.html#a99cf385b11044c364b23fa8fc7e755ee", null ],
+    [ "ClearPlayerAuras", "dd/db5/a13882.html#a17ffb7ec1b591acb0e5c359cb73ed2f6", null ],
+    [ "DoAction", "dd/db5/a13882.html#aaccfa519a7290eb56990e43de4beea97", null ],
+    [ "JustEngagedWith", "dd/db5/a13882.html#ab4d440dd0b66002b840bc4b3d3a8f7ef", null ],
+    [ "KilledUnit", "dd/db5/a13882.html#a9844d54a8334ae5d20689593cd8a5e1a", null ],
+    [ "Reset", "dd/db5/a13882.html#ad30cbd6d6fe343b9eb44fb96b0779551", null ],
+    [ "_sathBanished", "dd/db5/a13882.html#a595eb66eb6f820efa29fcc5d631fe159", null ]
 ];

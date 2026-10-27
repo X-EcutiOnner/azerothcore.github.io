@@ -1,7 +1,13 @@
 var a27282 =
 [
-    [ "CalcPeriodic", "d2/d00/a27282.html#af787d0c8738284e757f808e7d138bdc6", null ],
-    [ "PrepareAuraScript", "d2/d00/a27282.html#a383db196133bbecee06fe443fdb1bc24", null ],
-    [ "Register", "d2/d00/a27282.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
-    [ "Update", "d2/d00/a27282.html#af3f4a7b82e099313d609df7f85f02d00", null ]
+    [ "spell_generic_quest_update_entry_SpellScript", "d2/d00/a27282.html#a9b022232661d4680f5bdf7080fc81b29", null ],
+    [ "HandleDummy", "d2/d00/a27282.html#a891c357279ecee2e7fce323761607285", null ],
+    [ "PrepareSpellScript", "d2/d00/a27282.html#a3bf2605d8aa31e694b479f0de9f1703e", null ],
+    [ "Register", "d2/d00/a27282.html#af04e51cff5344f1acef7607080501736", null ],
+    [ "_despawnTime", "d2/d00/a27282.html#a5481894286d3aa5ea6aec0f00dd88d22", null ],
+    [ "_effIndex", "d2/d00/a27282.html#a46dd459dc324dfea871c93a0b3b5d8f1", null ],
+    [ "_newEntry", "d2/d00/a27282.html#ad76d907c9200985e9aa1e2c5006d0c46", null ],
+    [ "_originalEntry", "d2/d00/a27282.html#ad7d8ddda30c4b9f322ddaee8b014c233", null ],
+    [ "_shouldAttack", "d2/d00/a27282.html#acf0c48dd134c5e8bb207983e8f520f22", null ],
+    [ "_spellEffect", "d2/d00/a27282.html#af02e04bbac8a4ad1d84c72b7f337249e", null ]
 ];

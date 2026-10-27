@@ -1,8 +1,7 @@
 var a16334 =
 [
-    [ "HandleAfterCast", "d2/d0c/a16334.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "d2/d0c/a16334.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "d2/d0c/a16334.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "d2/d0c/a16334.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "d2/d0c/a16334.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "npc_ameAI", "d2/d8c/a16338.html", "d2/d8c/a16338" ],
+    [ "npc_ame", "d2/d0c/a16334.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "d2/d0c/a16334.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "d2/d0c/a16334.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

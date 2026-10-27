@@ -1,7 +1,6 @@
 var a16886 =
 [
-    [ "HandleAfterHit", "d7/d49/a16886.html#a6fc446385881ddb4c94de73199649816", null ],
-    [ "PrepareSpellScript", "d7/d49/a16886.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
-    [ "Register", "d7/d49/a16886.html#aaae368b2f647aa6a56827550e50dafe1", null ],
-    [ "Validate", "d7/d49/a16886.html#ad4c84071b538b657fa1302982f8799b4", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d3/d58/a16890.html", "d3/d58/a16890" ],
+    [ "npc_black_knight_skeletal_gryphon", "d7/d49/a16886.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
+    [ "GetAI", "d7/d49/a16886.html#aad244f95877a208b56a2b6544984d724", null ]
 ];

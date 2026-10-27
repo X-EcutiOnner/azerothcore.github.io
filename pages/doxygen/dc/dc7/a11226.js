@@ -1,7 +1,6 @@
 var a11226 =
 [
-    [ "GuildBankLogQueryResults", "dc/dc7/a11226.html#a878f9545b3141a327de85771de4f1779", null ],
-    [ "Write", "dc/dc7/a11226.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
-    [ "Entry", "dc/dc7/a11226.html#a5f3704df5311f06833c3243201d35930", null ],
-    [ "Tab", "dc/dc7/a11226.html#a214db612bb08e557dd41d3962c827dca", null ]
+    [ "GuildAddRank", "dc/dc7/a11226.html#a59c75f3e40e57b5e64f6fa9753a7e0b9", null ],
+    [ "Read", "dc/dc7/a11226.html#a23636e4b8bd37ea85a282fb1630a969e", null ],
+    [ "Name", "dc/dc7/a11226.html#a25969282befa638dfb08cf12f14bce53", null ]
 ];

@@ -1,10 +1,10 @@
 var a23938 =
 [
-    [ "npc_raging_flames", "da/d00/a23938.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
-    [ "EnterEvadeMode", "da/d00/a23938.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
-    [ "FixateRandomTarget", "da/d00/a23938.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
-    [ "InitializeAI", "da/d00/a23938.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
-    [ "IsSummonedBy", "da/d00/a23938.html#ae42c4329be355807af92c1c803e61500", null ],
-    [ "Reset", "da/d00/a23938.html#a34ac2249e507784d81c4040e87a646e0", null ],
-    [ "UpdateAI", "da/d00/a23938.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
+    [ "boss_harbinger_skyriss", "da/d00/a23938.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "da/d00/a23938.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "da/d00/a23938.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "da/d00/a23938.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "da/d00/a23938.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "da/d00/a23938.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "da/d00/a23938.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

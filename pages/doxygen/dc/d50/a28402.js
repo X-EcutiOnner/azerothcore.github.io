@@ -1,7 +1,6 @@
 var a28402 =
 [
-    [ "npc_prof_leather", "dc/d50/a28402.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "dc/d50/a28402.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "dc/d50/a28402.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "dc/d50/a28402.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "go_flamesAI", "dc/d50/a28402.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
+    [ "UpdateAI", "dc/d50/a28402.html#a2d4c91f0bff924335881d1096c0af313", null ],
+    [ "timer", "dc/d50/a28402.html#ae53c7c6c669e982babf304f173b58b1a", null ]
 ];

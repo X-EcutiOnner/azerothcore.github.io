@@ -1,12 +1,9 @@
 var a05746 =
 [
-    [ "Node", "d7/d55/a05750.html", "d7/d55/a05750" ],
-    [ "MPSCQueueNonIntrusive", "d3/d16/a05746.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
-    [ "~MPSCQueueNonIntrusive", "d3/d16/a05746.html#a599e2093215f70dc4f2f7db08965d816", null ],
-    [ "MPSCQueueNonIntrusive", "d3/d16/a05746.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
-    [ "Dequeue", "d3/d16/a05746.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
-    [ "Enqueue", "d3/d16/a05746.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
-    [ "operator=", "d3/d16/a05746.html#a75063e89049903fb5305d67ea1a02034", null ],
-    [ "_head", "d3/d16/a05746.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
-    [ "_tail", "d3/d16/a05746.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
+    [ "IpLocationStore", "d3/d16/a05746.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
+    [ "~IpLocationStore", "d3/d16/a05746.html#a82360c1ce130670fde23d42135f91324", null ],
+    [ "GetLocationRecord", "d3/d16/a05746.html#a06384169031d2417a7f6bac54d3187a9", null ],
+    [ "instance", "d3/d16/a05746.html#ad740adf9b81b37cf147dc00e220b29db", null ],
+    [ "Load", "d3/d16/a05746.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
+    [ "_ipLocationStore", "d3/d16/a05746.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
 ];

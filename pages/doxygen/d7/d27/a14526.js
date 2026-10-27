@@ -1,8 +1,8 @@
 var a14526 =
 [
-    [ "FilterTargets", "d7/d27/a14526.html#a28450a72f3d8510bdf35390f56a67f71", null ],
-    [ "HandleScriptEffect", "d7/d27/a14526.html#af97c3c43da4b099bc37e2cf4f2733dce", null ],
-    [ "PrepareSpellScript", "d7/d27/a14526.html#ac9298a59bc8b9735c210b630c68a536e", null ],
-    [ "Register", "d7/d27/a14526.html#a3bfc71bb504a0eb0f63ff307c943c23e", null ],
-    [ "Validate", "d7/d27/a14526.html#a41b2f12ebf919b781fdefab3a42bdb84", null ]
+    [ "npc_zulaman_hostageAI", "d7/d14/a14530.html", "d7/d14/a14530" ],
+    [ "npc_zulaman_hostage", "d7/d27/a14526.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "d7/d27/a14526.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "d7/d27/a14526.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "d7/d27/a14526.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

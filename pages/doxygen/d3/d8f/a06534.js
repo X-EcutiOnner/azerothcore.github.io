@@ -1,7 +1,6 @@
 var a06534 =
 [
-    [ "SpellTargetSelector", "d3/d8f/a06534.html#a9f1f441e542500dc43c58b97729f7f51", null ],
-    [ "operator()", "d3/d8f/a06534.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
-    [ "_caster", "d3/d8f/a06534.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
-    [ "_spellInfo", "d3/d8f/a06534.html#a309ed04630cfb92810b7f51376b3917c", null ]
+    [ "AggressorAI", "d3/d8f/a06534.html#a2d4ba3a557832466f29906972d1e14fd", null ],
+    [ "Permissible", "d3/d8f/a06534.html#a7867a9ca7249eb94a712e34833fae930", null ],
+    [ "UpdateAI", "d3/d8f/a06534.html#ace9bc9ff47a463ceb05217ae77b5782b", null ]
 ];

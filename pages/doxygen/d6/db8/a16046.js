@@ -1,13 +1,7 @@
 var a16046 =
 [
-    [ "npc_shenthulAI", "d6/db8/a16046.html#ae056474022c27be5565bf018a1b56f0b", null ],
-    [ "JustEngagedWith", "d6/db8/a16046.html#acb202ef530bc11ea807f580ff5dfc621", null ],
-    [ "ReceiveEmote", "d6/db8/a16046.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
-    [ "Reset", "d6/db8/a16046.html#af077e96eb8bf89af2d6eb79907444a17", null ],
-    [ "UpdateAI", "d6/db8/a16046.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
-    [ "CanEmote", "d6/db8/a16046.html#a920209c374e611e96347d209337c044f", null ],
-    [ "CanTalk", "d6/db8/a16046.html#a82ea8d2ee50538135add120be7616f86", null ],
-    [ "PlayerGUID", "d6/db8/a16046.html#a4b262388aca789d19231426a8cb73379", null ],
-    [ "ResetTimer", "d6/db8/a16046.html#a475a141d639f0136ac943e6afb1ecd15", null ],
-    [ "SaluteTimer", "d6/db8/a16046.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
+    [ "npc_tharnarianAI", "d5/dab/a16050.html", "d5/dab/a16050" ],
+    [ "npc_tharnarian", "d6/db8/a16046.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "d6/db8/a16046.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "d6/db8/a16046.html#a88e82aa6c08fa85491c87d7a558efd9b", null ]
 ];

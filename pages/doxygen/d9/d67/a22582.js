@@ -1,5 +1,8 @@
 var a22582 =
 [
-    [ "OutdoorPvP_zangarmarsh", "d9/d67/a22582.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
-    [ "GetOutdoorPvP", "d9/d67/a22582.html#a145ddfe383663ed3fb46960e39691f8f", null ]
+    [ "npc_wg_spirit_guideAI", "db/d7d/a22586.html", "db/d7d/a22586" ],
+    [ "npc_wg_spirit_guide", "d9/d67/a22582.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "d9/d67/a22582.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "d9/d67/a22582.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "d9/d67/a22582.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

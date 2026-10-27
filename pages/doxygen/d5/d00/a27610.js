@@ -1,7 +1,6 @@
 var a27610 =
 [
-    [ "HandleProc", "d5/d00/a27610.html#a4ea5706e6f0caa7a9c93b779bb71349f", null ],
-    [ "PrepareAuraScript", "d5/d00/a27610.html#af83570899be1f91a1273cc5f46792b57", null ],
-    [ "Register", "d5/d00/a27610.html#a1406e9a52a4e24a71fd26192abc64c73", null ],
-    [ "Validate", "d5/d00/a27610.html#ab6528e1c69cbf7fdb8bb7e792908d02a", null ]
+    [ "FilterTargets", "d5/d00/a27610.html#a34ca370993295225a779ee6537295112", null ],
+    [ "PrepareSpellScript", "d5/d00/a27610.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
+    [ "Register", "d5/d00/a27610.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

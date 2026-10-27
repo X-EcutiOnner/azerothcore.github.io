@@ -1,11 +1,5 @@
 var a29506 =
 [
-    [ "IsAvailable", "dc/dc5/a29506.html#adfebd7a162ebae8396669de031c768a6", null ],
-    [ "operator bool", "dc/dc5/a29506.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
-    [ "operator*", "dc/dc5/a29506.html#a24733bf06b4a91abcf4945aa5303a275", null ],
-    [ "operator->", "dc/dc5/a29506.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
-    [ "SecretMgr", "dc/dc5/a29506.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
-    [ "lock", "dc/dc5/a29506.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
-    [ "state", "dc/dc5/a29506.html#acc49c1f1701d0119ea5fd92c49a80c8e", null ],
-    [ "value", "dc/dc5/a29506.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
+    [ "Id", "dc/dc5/a29506.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
+    [ "PowerType", "dc/dc5/a29506.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
 ];

@@ -1,7 +1,7 @@
 var a21370 =
 [
-    [ "HandleScript", "d6/dc2/a21370.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "d6/dc2/a21370.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "d6/dc2/a21370.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "d6/dc2/a21370.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "HandleEffectPeriodic", "d6/dc2/a21370.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "d6/dc2/a21370.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "d6/dc2/a21370.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "d6/dc2/a21370.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

@@ -1,7 +1,6 @@
 var a23990 =
 [
-    [ "npc_daranelleAI", "d1/daf/a23990.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d1/daf/a23990.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d1/daf/a23990.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d1/daf/a23990.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d8/d4e/a23994.html", "d8/d4e/a23994" ],
+    [ "instance_the_botanica", "d1/daf/a23990.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "d1/daf/a23990.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

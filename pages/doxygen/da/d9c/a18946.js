@@ -1,8 +1,7 @@
 var a18946 =
 [
-    [ "npc_suppresserAI", "da/d9c/a18946.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "da/d9c/a18946.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "da/d9c/a18946.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "da/d9c/a18946.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "da/d9c/a18946.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "HandleProc", "da/d9c/a18946.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "da/d9c/a18946.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "da/d9c/a18946.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "da/d9c/a18946.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

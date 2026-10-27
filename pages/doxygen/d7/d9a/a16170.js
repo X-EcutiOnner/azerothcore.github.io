@@ -1,20 +1,12 @@
 var a16170 =
 [
-    [ "npc_twiggy_flatheadAI", "d7/d9a/a16170.html#a03aee9619eafa0f497390c520cbfaf24", null ],
-    [ "CleanUp", "d7/d9a/a16170.html#adfe48ed23633691608b289c4751c788a", null ],
-    [ "EnterEvadeMode", "d7/d9a/a16170.html#a9fd1519e6196ba4db30740b16904964b", null ],
-    [ "JustEngagedWith", "d7/d9a/a16170.html#aa601e079ed93d4d21f2ea2decf6cdab3", null ],
-    [ "MoveInLineOfSight", "d7/d9a/a16170.html#a95188ce1d3abba7dfeef5a9cbd6d3306", null ],
-    [ "Reset", "d7/d9a/a16170.html#ab98c38a9d8c3cb3e1ac67f321cfe90fb", null ],
-    [ "UpdateAI", "d7/d9a/a16170.html#a0a9cefdaf419143eed6e6aa89489e8dd", null ],
-    [ "AffrayChallenger", "d7/d9a/a16170.html#a42354987ab877f7c113ac44b50d4a660", null ],
-    [ "BigWill", "d7/d9a/a16170.html#a4a017e9153c04e34b2c9c3ae30583856", null ],
-    [ "ChallengerChecker", "d7/d9a/a16170.html#a9908c43715426b75c06c1e2032f4fcca", null ],
-    [ "ChallengerDown", "d7/d9a/a16170.html#a8777dbc5bd40e29a46d1195414a3f754", null ],
-    [ "EventBigWill", "d7/d9a/a16170.html#a32d931e4aabbabedd05ae243038cca8e", null ],
-    [ "EventGrate", "d7/d9a/a16170.html#a8bc3907272941dbf2218cc0dbafb205f", null ],
-    [ "EventInProgress", "d7/d9a/a16170.html#a4dd84ae18a7f79238f110659db03b984", null ],
-    [ "PlayerGUID", "d7/d9a/a16170.html#aa510117962fc5294113f2f88a1f2a652", null ],
-    [ "Wave", "d7/d9a/a16170.html#a5a38a9a8da1b9cd03e800fcd90e38d1a", null ],
-    [ "WaveTimer", "d7/d9a/a16170.html#a8a0d2b9db7f49cdb367dcf6f68bc1633", null ]
+    [ "npc_thrall_warchiefAI", "d7/d9a/a16170.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
+    [ "DoAction", "d7/d9a/a16170.html#a511da19703e30f6e82e59c5223bf2770", null ],
+    [ "JustDied", "d7/d9a/a16170.html#a5e6da0a5f5190d7959faff60851e679a", null ],
+    [ "JustEngagedWith", "d7/d9a/a16170.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
+    [ "Reset", "d7/d9a/a16170.html#a920a29258228c9c2e7e0791d38b648e1", null ],
+    [ "sGossipSelect", "d7/d9a/a16170.html#aaad63a0de8acfc17355b7a35de4cc164", null ],
+    [ "UpdateAI", "d7/d9a/a16170.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
+    [ "ChainLightningTimer", "d7/d9a/a16170.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
+    [ "ShockTimer", "d7/d9a/a16170.html#aa8609f8824f68ce7259465284c01dd35", null ]
 ];

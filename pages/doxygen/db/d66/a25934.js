@@ -1,6 +1,7 @@
 var a25934 =
 [
-    [ "CheckProc", "db/d66/a25934.html#acac962ba1cb72615772fe8bc81d24f9d", null ],
-    [ "PrepareAuraScript", "db/d66/a25934.html#aebe1c8083ba09c21125c47843b2949da", null ],
-    [ "Register", "db/d66/a25934.html#adde6dada6b3012c2650ba9173c6616a0", null ]
+    [ "FilterTargets", "db/d66/a25934.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "db/d66/a25934.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "db/d66/a25934.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "db/d66/a25934.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

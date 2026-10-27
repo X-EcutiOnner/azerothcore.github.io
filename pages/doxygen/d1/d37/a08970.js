@@ -1,9 +1,5 @@
 var a08970 =
 [
-    [ "areaFlag", "d1/d37/a08970.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
-    [ "areaID", "d1/d37/a08970.html#a455a890a1d82d31873873ac497cb83b7", null ],
-    [ "x1", "d1/d37/a08970.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
-    [ "x2", "d1/d37/a08970.html#aebdb021c0b9c40d624d5115b24616a12", null ],
-    [ "y1", "d1/d37/a08970.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
-    [ "y2", "d1/d37/a08970.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
+    [ "PositionXYZOStreamer", "d1/d37/a08970.html#afddf48b02eea5399d818468cdf8795c5", null ],
+    [ "m_pos", "d1/d37/a08970.html#a6c2be4021912b753ed7da07f1c6a7464", null ]
 ];

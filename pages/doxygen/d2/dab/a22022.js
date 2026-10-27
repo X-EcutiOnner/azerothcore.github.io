@@ -1,7 +1,6 @@
 var a22022 =
 [
-    [ "npc_rodin_lightning_enabler", "d2/dab/a22022.html#ae014b208af7664acd2147663d9338583", null ],
-    [ "Reset", "d2/dab/a22022.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
-    [ "UpdateAI", "d2/dab/a22022.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
-    [ "_scheduler", "d2/dab/a22022.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
+    [ "GhoulTargetCheck", "d2/dab/a22022.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "d2/dab/a22022.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "d2/dab/a22022.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

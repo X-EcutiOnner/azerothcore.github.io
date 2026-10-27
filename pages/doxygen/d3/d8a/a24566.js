@@ -1,7 +1,5 @@
 var a24566 =
 [
-    [ "CorpseExplosionCheck", "d3/d8a/a24566.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
-    [ "operator()", "d3/d8a/a24566.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
-    [ "_allowGhoul", "d3/d8a/a24566.html#abd42a0731af969ceccdfceae722ba276", null ],
-    [ "_casterGUID", "d3/d8a/a24566.html#a497df87745f452716c652e9b1be6d46f", null ]
+    [ "npc_pet_dk_dancing_rune_weapon", "d3/d8a/a24566.html#ac838b907d56c97a911d7c7454c65e180", null ],
+    [ "InitializeAI", "d3/d8a/a24566.html#aafeac4a22f366591d6d66b6150e099e2", null ]
 ];

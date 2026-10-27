@@ -1,5 +1,4 @@
 var a08094 =
 [
-    [ "value_type", "d6/d80/a08094.html#ae75362e108b0a7323fe92cae75c4729c", null ],
-    [ "TryConsume", "d6/d80/a08094.html#a19112294c2e36c8e36fb3f77f2ccabba", null ]
+    [ "TryConsume", "d6/d80/a08094.html#a884de4dee05c4a925db4225da9512886", null ]
 ];

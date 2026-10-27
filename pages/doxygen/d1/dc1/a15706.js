@@ -1,7 +1,23 @@
 var a15706 =
 [
-    [ "npc_sartura_royal_guard", "d1/dc1/a15706.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
-    [ "JustEngagedWith", "d1/dc1/a15706.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
-    [ "Reset", "d1/dc1/a15706.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
-    [ "UpdateAI", "d1/dc1/a15706.html#a2ed50f65847133c897facecbaa4711d8", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d1/dc1/a15706.html#a1dfadd96c9cc420bb7c90ec8a2d0a1a2", null ],
+    [ "CallNextRajaxxLeader", "d1/dc1/a15706.html#a12de9882d8e71f68e7b52e4b3972dca4", null ],
+    [ "GetData", "d1/dc1/a15706.html#abe72d94186f5d5b9b97c82ac65f71fd6", null ],
+    [ "GetGuidData", "d1/dc1/a15706.html#a8a2c4b3677d8da475d1e5ea035becf15", null ],
+    [ "OnCreatureCreate", "d1/dc1/a15706.html#ac2b2bfb3ae426a82affbf363a49049ef", null ],
+    [ "OnCreatureEvade", "d1/dc1/a15706.html#af59d38b0842a962b94efcbf9af8e56ca", null ],
+    [ "OnPlayerEnter", "d1/dc1/a15706.html#aca8fbf17f8d583c1568a965bdf2b22f4", null ],
+    [ "OnUnitDeath", "d1/dc1/a15706.html#afc601fed830c0d8fe63cbf7741ff1c55", null ],
+    [ "ResetRajaxxWaves", "d1/dc1/a15706.html#a3a6aa2cc867de4842b10632ea761fb1e", null ],
+    [ "SetData", "d1/dc1/a15706.html#a4a9acbb13d81d88674b62aa49ac8a2e3", null ],
+    [ "SetGuidData", "d1/dc1/a15706.html#ac8f2440e439654e977d4a9a4b2b50b52", null ],
+    [ "_andorovGUID", "d1/dc1/a15706.html#a52168c9369fe1e691378577ea700115c", null ],
+    [ "_buruGUID", "d1/dc1/a15706.html#afbf08e65630819d5c60ecaa3d4d5bc42", null ],
+    [ "_buruPhase", "d1/dc1/a15706.html#ab8192edc41599ce20cc66efaaba5479a", null ],
+    [ "_kurinnaxxGUID", "d1/dc1/a15706.html#af1077bb8af7e756d9d548a4fe3fbd17b", null ],
+    [ "_moamGUID", "d1/dc1/a15706.html#a1025fdcd1b84e5d2c4eaa79d918ecd78", null ],
+    [ "_ossirianGUID", "d1/dc1/a15706.html#a254a550649a8f806f98d6eb90f593b54", null ],
+    [ "_paralyzedGUID", "d1/dc1/a15706.html#abc537534538f78cabf6534371ab090e9", null ],
+    [ "_rajaxWaveCounter", "d1/dc1/a15706.html#a010079e135c41de850419149ec2857f3", null ],
+    [ "_rajaxxGUID", "d1/dc1/a15706.html#aa92f25482c7c6d2bf7944a080beb858c", null ]
 ];

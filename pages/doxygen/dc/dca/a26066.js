@@ -1,6 +1,6 @@
 var a26066 =
 [
-    [ "HandleTriggerSpell", "dc/dca/a26066.html#a2c9f565aec4c42900037dd387549df18", null ],
-    [ "PrepareAuraScript", "dc/dca/a26066.html#a5864bbba50001cdb84b0015d08134c56", null ],
-    [ "Register", "dc/dca/a26066.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
+    [ "HandleDummy", "dc/dca/a26066.html#a7b56d07d46647a2790553d40e75da79d", null ],
+    [ "PrepareSpellScript", "dc/dca/a26066.html#aad36c108f4531c19ba552064ba0d3248", null ],
+    [ "Register", "dc/dca/a26066.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
 ];

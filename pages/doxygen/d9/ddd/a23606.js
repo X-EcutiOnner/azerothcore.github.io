@@ -1,6 +1,5 @@
 var a23606 =
 [
-    [ "HandleScriptEffect", "d9/ddd/a23606.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "d9/ddd/a23606.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "d9/ddd/a23606.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "go_main_chambers_access_panel", "d9/ddd/a23606.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "d9/ddd/a23606.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

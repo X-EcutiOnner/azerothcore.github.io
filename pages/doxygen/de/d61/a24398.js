@@ -1,10 +1,16 @@
 var a24398 =
 [
-    [ "npc_pet_gen_plump_turkey", "de/d61/a24398.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
-    [ "MovementInform", "de/d61/a24398.html#af27c91388891add6d00e251bf3187743", null ],
-    [ "UpdateAI", "de/d61/a24398.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
-    [ "checkTimer", "de/d61/a24398.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
-    [ "goGUID", "de/d61/a24398.html#a5fa88e045430adea9e72a3744bf72780", null ],
-    [ "jumping", "de/d61/a24398.html#a8486512b7594f2ce759fcb580f1baf34", null ],
-    [ "jumpTimer", "de/d61/a24398.html#ad53a9abad41ab6a792a55b854155135d", null ]
+    [ "npc_dragonmaw_peonAI", "de/d61/a24398.html#a6f1255fead5357001ec85fdaa6980249", null ],
+    [ "CreditPlayer", "de/d61/a24398.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
+    [ "JustEngagedWith", "de/d61/a24398.html#abd5b37793aa2fb150c808b7dc7270763", null ],
+    [ "MovementInform", "de/d61/a24398.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
+    [ "Reset", "de/d61/a24398.html#a9d876ec76b51f743c71e67749c21d939", null ],
+    [ "SpellHit", "de/d61/a24398.html#abe5162608ba0acd7360a630562ff5935", null ],
+    [ "UpdateAI", "de/d61/a24398.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
+    [ "events", "de/d61/a24398.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
+    [ "PlayerGUID", "de/d61/a24398.html#ad6838d98e34a32cbed42c77cdf096070", null ],
+    [ "Tapped", "de/d61/a24398.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
+    [ "x", "de/d61/a24398.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
+    [ "y", "de/d61/a24398.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
+    [ "z", "de/d61/a24398.html#a7722420716c030b5abe7b760199df14d", null ]
 ];

@@ -1,10 +1,11 @@
 var a11222 =
 [
-    [ "Count", "d0/d8f/a11222.html#a97b56650a40ff3d39c6281d43261f06f", null ],
-    [ "EntryType", "d0/d8f/a11222.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
-    [ "ItemID", "d0/d8f/a11222.html#a1daad03864355f94d90315fea68892d4", null ],
-    [ "Money", "d0/d8f/a11222.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
-    [ "OtherTab", "d0/d8f/a11222.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
-    [ "PlayerGUID", "d0/d8f/a11222.html#a90e01e455d373204617b2747ca95fe04", null ],
-    [ "TimeOffset", "d0/d8f/a11222.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
+    [ "GuildSetRankPermissions", "d0/d8f/a11222.html#a8b3fd3e4da77c6fb70db28721ec46714", null ],
+    [ "Read", "d0/d8f/a11222.html#a534550862a3c634697e8277f31ad4c25", null ],
+    [ "Flags", "d0/d8f/a11222.html#adea48131efa7c05b84c4de596933bfbe", null ],
+    [ "RankID", "d0/d8f/a11222.html#a0c4a8b29918d69580c749e3b48485515", null ],
+    [ "RankName", "d0/d8f/a11222.html#a24dde2aa8dd0ae1b9e8b37317334e0d4", null ],
+    [ "TabFlags", "d0/d8f/a11222.html#af19e6fd8ddfe980f8c1f1110e9332bad", null ],
+    [ "TabWithdrawItemLimit", "d0/d8f/a11222.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c", null ],
+    [ "WithdrawGoldLimit", "d0/d8f/a11222.html#a1c02002facce05010028ac8dcae7fa3f", null ]
 ];

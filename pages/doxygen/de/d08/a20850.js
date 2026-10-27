@@ -1,6 +1,6 @@
 var a20850 =
 [
-    [ "OnPeriodic", "de/d08/a20850.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "de/d08/a20850.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "de/d08/a20850.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "HandlePeriodic", "de/d08/a20850.html#ab3f6a58bcea3fc75ccbac99cd911e7f8", null ],
+    [ "PrepareAuraScript", "de/d08/a20850.html#a09d6fccb19df088780c5baa0ef656da7", null ],
+    [ "Register", "de/d08/a20850.html#abbf60dac3d36d0833e6509aac83f2b49", null ]
 ];

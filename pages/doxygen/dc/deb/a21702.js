@@ -1,6 +1,7 @@
 var a21702 =
 [
-    [ "npc_mageguard_dalaranAI", "d4/dc0/a21706.html", "d4/dc0/a21706" ],
-    [ "npc_mageguard_dalaran", "dc/deb/a21702.html#a0cec4f232b665325c421cecb5839885f", null ],
-    [ "GetAI", "dc/deb/a21702.html#a10cbddceb53a2d432da2224128c59b28", null ]
+    [ "npc_azure_spellbreaker", "dc/deb/a21702.html#ae884adc9619d3458d81a2029bd490893", null ],
+    [ "Reset", "dc/deb/a21702.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
+    [ "UpdateAI", "dc/deb/a21702.html#a938a93a71490bb42158e2215d125509f", null ],
+    [ "_events", "dc/deb/a21702.html#a9f526cff54cb949cc68046e7816c3c89", null ]
 ];

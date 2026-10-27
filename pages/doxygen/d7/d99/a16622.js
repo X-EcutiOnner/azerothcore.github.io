@@ -1,6 +1,6 @@
 var a16622 =
 [
-    [ "HandleForceCast", "d7/d99/a16622.html#a975b69649aba9de341f4e52c82a3c111", null ],
-    [ "PrepareSpellScript", "d7/d99/a16622.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
-    [ "Register", "d7/d99/a16622.html#a794a59e5fd3bda75f30d559f422895b5", null ]
+    [ "HandleLeapBack", "d7/d99/a16622.html#a71a9b9967528c1153ad1215635bc7d01", null ],
+    [ "PrepareSpellScript", "d7/d99/a16622.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
+    [ "Register", "d7/d99/a16622.html#a6ef11d0538616315fa7cf098748aa01f", null ]
 ];

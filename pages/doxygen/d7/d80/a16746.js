@@ -1,16 +1,10 @@
 var a16746 =
 [
-    [ "npc_argent_soldierAI", "d7/d80/a16746.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
-    [ "DamageTaken", "d7/d80/a16746.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
-    [ "JustDied", "d7/d80/a16746.html#aedf4dcd909c1009fedfde593522454ec", null ],
-    [ "JustEngagedWith", "d7/d80/a16746.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
-    [ "Reset", "d7/d80/a16746.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
-    [ "SetData", "d7/d80/a16746.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
-    [ "UpdateAI", "d7/d80/a16746.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
-    [ "WaypointReached", "d7/d80/a16746.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
-    [ "WaypointReached", "d7/d80/a16746.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "bCheck", "d7/d80/a16746.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
-    [ "events", "d7/d80/a16746.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
-    [ "pInstance", "d7/d80/a16746.html#ac9951514f27f343ae96e856f484e7baf", null ],
-    [ "uiWaypoint", "d7/d80/a16746.html#a87382571221c608017fd2d4cb99193dc", null ]
+    [ "spell_halion_marks_aura", "d7/d80/a16746.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
+    [ "BeforeDispel", "d7/d80/a16746.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
+    [ "OnRemove", "d7/d80/a16746.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
+    [ "PrepareAuraScript", "d7/d80/a16746.html#acd5285ea5c378b31526440d263c54770", null ],
+    [ "Register", "d7/d80/a16746.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
+    [ "_removeSpellId", "d7/d80/a16746.html#aeef9d928c6a8739337251e144558b169", null ],
+    [ "_summonSpellId", "d7/d80/a16746.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
 ];

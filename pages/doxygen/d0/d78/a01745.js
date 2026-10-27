@@ -1,8 +1,8 @@
 var a01745 =
 [
-    [ "instance_zulgurub", "d4/d5c/a14765.html", "d4/d5c/a14765" ],
-    [ "instance_zulgurub::instance_zulgurub_InstanceMapScript", "de/dc4/a14769.html", "de/dc4/a14769" ],
-    [ "go_brazier_of_madness", "d0/d8a/a14773.html", "d0/d8a/a14773" ],
+    [ "instance_zulgurub", "d0/d89/a14782.html", "d0/d89/a14782" ],
+    [ "instance_zulgurub::instance_zulgurub_InstanceMapScript", "d7/d86/a14786.html", "d7/d86/a14786" ],
+    [ "go_brazier_of_madness", "d6/d50/a14790.html", "d6/d50/a14790" ],
     [ "EdgeOfMadnessEnum", "d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416", [
       [ "EVENT_EDGE_OF_MADNESS_GRILEK", "d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7", null ],
       [ "EVENT_EDGE_OF_MADNESS_HAZZARAH", "d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4", null ],

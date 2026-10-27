@@ -1,6 +1,8 @@
 var a15714 =
 [
-    [ "FilterTargets", "da/d13/a15714.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
-    [ "PrepareSpellScript", "da/d13/a15714.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
-    [ "Register", "da/d13/a15714.html#aaf7b4fba94d94331f6b35add2b836061", null ]
+    [ "npc_obsidian_destroyer", "da/d13/a15714.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "da/d13/a15714.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "da/d13/a15714.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "da/d13/a15714.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "da/d13/a15714.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

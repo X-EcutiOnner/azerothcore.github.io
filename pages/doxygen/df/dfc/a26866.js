@@ -1,10 +1,7 @@
 var a26866 =
 [
-    [ "CalculateAmount", "df/dfc/a26866.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
-    [ "CheckDropCharge", "df/dfc/a26866.html#a69bcdbce43cee47873a2ba54ff03d928", null ],
-    [ "HandleUpdateSpellclick", "df/dfc/a26866.html#a89956d7f3a6404d5b60e46034867c82c", null ],
-    [ "InitializeAmount", "df/dfc/a26866.html#a4b0656e78d748d974d6d77a43cfa7910", null ],
-    [ "PrepareAuraScript", "df/dfc/a26866.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
-    [ "Register", "df/dfc/a26866.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ],
-    [ "_remainingAmount", "df/dfc/a26866.html#aa9a60ff01b89cb7c800d068e92c00ce3", null ]
+    [ "PeriodicTick", "df/dfc/a26866.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
+    [ "PrepareAuraScript", "df/dfc/a26866.html#ad332660b3b30ecb7b5c949c702574879", null ],
+    [ "Register", "df/dfc/a26866.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
+    [ "Validate", "df/dfc/a26866.html#a426b39c9733464c5d69d707d4e931f64", null ]
 ];

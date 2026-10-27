@@ -1,8 +1,5 @@
 var a29438 =
 [
-    [ "MapDifficulty", "d5/d64/a29438.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "d5/d64/a29438.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "d5/d64/a29438.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "d5/d64/a29438.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "d5/d64/a29438.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "ID", "d5/d64/a29438.html#a65acb5af9a688346cbb7dc144710c768", null ],
+    [ "inventoryIcon", "d5/d64/a29438.html#a26b43ee179bd546c6e956dd797fc0842", null ]
 ];

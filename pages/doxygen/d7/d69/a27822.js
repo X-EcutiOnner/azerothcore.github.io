@@ -1,6 +1,7 @@
 var a27822 =
 [
-    [ "HandleCast", "d7/d69/a27822.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
-    [ "PrepareSpellScript", "d7/d69/a27822.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "d7/d69/a27822.html#a81bc86c83ffc70602410912870e61700", null ]
+    [ "HandleProc", "d7/d69/a27822.html#a9531d72f68dfc46cb6a49c9d10ee14dc", null ],
+    [ "PrepareAuraScript", "d7/d69/a27822.html#a4bd22c4f4cbd80ca26b0e27081dcb406", null ],
+    [ "Register", "d7/d69/a27822.html#a5cdc48d549e97060e837c6396e19cfb4", null ],
+    [ "Validate", "d7/d69/a27822.html#ad69695289aca17548b11199a84bbaf37", null ]
 ];

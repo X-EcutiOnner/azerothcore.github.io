@@ -1,7 +1,11 @@
 var a15334 =
 [
-    [ "boss_epoch_hunter", "df/dd9/a15334.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "df/dd9/a15334.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "df/dd9/a15334.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "df/dd9/a15334.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "npc_hyjal_ground_trash", "df/dd9/a15334.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "df/dd9/a15334.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "df/dd9/a15334.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "df/dd9/a15334.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "df/dd9/a15334.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "df/dd9/a15334.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "df/dd9/a15334.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "df/dd9/a15334.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

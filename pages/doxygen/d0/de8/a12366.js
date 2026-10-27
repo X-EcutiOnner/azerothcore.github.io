@@ -1,9 +1,9 @@
 var a12366 =
 [
-    [ "map", "d0/de8/a12366.html#a274c6d61203c24b3c680055244e1f590", null ],
-    [ "mouth", "d0/de8/a12366.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
-    [ "mouthGuid", "d0/de8/a12366.html#a2245c14e379c83bdd47165e829de2e41", null ],
-    [ "necropolisCount", "d0/de8/a12366.html#aec44e315616920ba8224be8c4831f5e9", null ],
-    [ "remainingNecropoli", "d0/de8/a12366.html#a3c18c61fcd44c32f9e0009479db85399", null ],
-    [ "zoneId", "d0/de8/a12366.html#a98e1490705f74627cf9e5483857f3f25", null ]
+    [ "ClientKeySeed", "d0/de8/a12366.html#a3e2df88e6fd716030d70a77850e96970", null ],
+    [ "ClientKeySeedHash", "d0/de8/a12366.html#ae2523827d6f9abae5eed0b463c00062f", null ],
+    [ "Module", "d0/de8/a12366.html#a1fcce28666a614c83d06729bc9c88bb4", null ],
+    [ "ModuleKey", "d0/de8/a12366.html#ac34f4c4997f5f64a9dcf4ad7d914a215", null ],
+    [ "Seed", "d0/de8/a12366.html#a3c8e1b5c642f12e29837800f0428f34e", null ],
+    [ "ServerKeySeed", "d0/de8/a12366.html#ad29fe1f9ba6ef32f1d35657683b0e11b", null ]
 ];

@@ -1,10 +1,6 @@
 var a11662 =
 [
-    [ "WorldStateInfo", "d4/db2/a11666.html", "d4/db2/a11666" ],
-    [ "InitWorldStates", "d3/d90/a11662.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
-    [ "Write", "d3/d90/a11662.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
-    [ "AreaID", "d3/d90/a11662.html#a98ac08c68b5c004fd352f38c7084531f", null ],
-    [ "MapID", "d3/d90/a11662.html#a657c3043204c6957e8438c3c3c7068f3", null ],
-    [ "Worldstates", "d3/d90/a11662.html#a29ffba2a130f0b93d61b2025255502fb", null ],
-    [ "ZoneID", "d3/d90/a11662.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
+    [ "NameQuery", "d3/d90/a11662.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
+    [ "Read", "d3/d90/a11662.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
+    [ "Guid", "d3/d90/a11662.html#a52528a68f1c86196e7428f196f93d12b", null ]
 ];

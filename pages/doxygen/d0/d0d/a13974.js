@@ -1,7 +1,7 @@
 var a13974 =
 [
-    [ "npc_eris_hevenfireAI", "df/d6a/a13978.html", "df/d6a/a13978" ],
-    [ "npc_eris_hevenfire", "d0/d0d/a13974.html#a77f0836dc0b19114316b8b67839d8033", null ],
-    [ "GetAI", "d0/d0d/a13974.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
-    [ "OnQuestAccept", "d0/d0d/a13974.html#a1e0baec5706cfddd678b58eb9359997e", null ]
+    [ "FilterTargets", "d0/d0d/a13974.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "d0/d0d/a13974.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "d0/d0d/a13974.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "d0/d0d/a13974.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

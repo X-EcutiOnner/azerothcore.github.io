@@ -1,6 +1,7 @@
 var a27758 =
 [
-    [ "PrepareAuraScript", "d0/dab/a27758.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "d0/dab/a27758.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "d0/dab/a27758.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "HandleScriptEffect", "d0/dab/a27758.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
+    [ "PrepareSpellScript", "d0/dab/a27758.html#a7462fbeab2254046e12a262418ec0d2c", null ],
+    [ "Register", "d0/dab/a27758.html#ac14625182eb0289d8536ac322500ab45", null ],
+    [ "Validate", "d0/dab/a27758.html#a190b802f3b09655886e5bbb9980375af", null ]
 ];

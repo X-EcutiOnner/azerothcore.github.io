@@ -1,8 +1,12 @@
 var a20286 =
 [
-    [ "FilterTargets", "dd/d7f/a20286.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "dd/d7f/a20286.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "dd/d7f/a20286.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "dd/d7f/a20286.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "dd/d7f/a20286.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "npc_assembly_lightning", "dd/d7f/a20286.html#a8fcec558ec18de7bd9545779ded9e909", null ],
+    [ "AttackStart", "dd/d7f/a20286.html#a140d4166e99c223b674e55b67d709613", null ],
+    [ "EnterEvadeMode", "dd/d7f/a20286.html#a287f1e4fad8c8a046acc15952e2cb0b9", null ],
+    [ "MoveInLineOfSight", "dd/d7f/a20286.html#a3b3ec1402907a84c0ec17522568348c6", null ],
+    [ "MovementInform", "dd/d7f/a20286.html#a3117383b1d3bce6a3bbc8445e5ea7a71", null ],
+    [ "OnCharmed", "dd/d7f/a20286.html#a72e93f6e1ca82e82f8f3cc051f0f1345", null ],
+    [ "Reset", "dd/d7f/a20286.html#aee99895b9c4d1b5f4d1a2ae7f4bd09a8", null ],
+    [ "UpdateAI", "dd/d7f/a20286.html#a0ae73d6c38064d80a7297045f2b829dd", null ],
+    [ "_boomed", "dd/d7f/a20286.html#a13074c840c7e4dc94a2b30741f62ec00", null ]
 ];

@@ -1,7 +1,5 @@
 var a26418 =
 [
-    [ "HandleProc", "d0/d50/a26418.html#a88510ad234c654bbe3316f6557742f77", null ],
-    [ "PrepareAuraScript", "d0/d50/a26418.html#adff2a6b6161cc6fa6a49bd55c088394c", null ],
-    [ "Register", "d0/d50/a26418.html#aeaae510592ba20f76e322701a9c30c17", null ],
-    [ "Validate", "d0/d50/a26418.html#a1d9dc752bd385ff99ee4c39094c68d8a", null ]
+    [ "PrepareSpellScript", "d0/d50/a26418.html#ac08a5b38ac3012ad31c8ecdf4ca36585", null ],
+    [ "Register", "d0/d50/a26418.html#a7d6187a7aa8f8d67efe15ffc74fa1873", null ]
 ];

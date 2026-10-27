@@ -1,12 +1,9 @@
 var a06502 =
 [
-    [ "NullCreatureAI", "d5/df5/a06502.html#aa9969eeb9a79559c9f2d3bd907b3fd85", null ],
-    [ "AttackStart", "d5/df5/a06502.html#a94d4594e1f39143ea41ce00aeecec4b4", null ],
-    [ "EnterEvadeMode", "d5/df5/a06502.html#a726edd296c16ed2414fcc1827f88238f", null ],
-    [ "JustEnteredCombat", "d5/df5/a06502.html#ac9ccd2d260170b218acf1997a0bded97", null ],
-    [ "JustStartedThreateningMe", "d5/df5/a06502.html#a191e098763d9b73db74f843aa77115e6", null ],
-    [ "MoveInLineOfSight", "d5/df5/a06502.html#a12c54c92a08e81751563ec9522236b28", null ],
-    [ "OnCharmed", "d5/df5/a06502.html#a77b274955dcfdf2d10bbc43b64330f8d", null ],
-    [ "Permissible", "d5/df5/a06502.html#a77595426da50819a0ff0744930d19b23", null ],
-    [ "UpdateAI", "d5/df5/a06502.html#ab200fcf78dee74a2ec808c01f5855236", null ]
+    [ "itemId", "d5/df5/a06502.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
+    [ "mailTemplate", "d5/df5/a06502.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
+    [ "sender", "d5/df5/a06502.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
+    [ "subject", "d5/df5/a06502.html#a45644f308278529f822080f8274180d8", null ],
+    [ "text", "d5/df5/a06502.html#a4d57dcb4d130552f5bf756308d79307c", null ],
+    [ "titleId", "d5/df5/a06502.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
 ];

@@ -1,8 +1,10 @@
 var a20878 =
 [
-    [ "npc_scrapbot", "dc/d3e/a20878.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
-    [ "Reset", "dc/d3e/a20878.html#a2dca509a6e2b46674165e5559717f69c", null ],
-    [ "UpdateAI", "dc/d3e/a20878.html#ade90c75baf598900adaa300cef28cb6a", null ],
-    [ "_instance", "dc/d3e/a20878.html#afb8296b4d9105ee99abc534656289ae2", null ],
-    [ "_scheduler", "dc/d3e/a20878.html#a4deb841588ea244e4290bb8ffb69b483", null ]
+    [ "npc_expedition_defender", "dc/d3e/a20878.html#aa476e8cdb18fce94b7517caf7ec751c8", null ],
+    [ "CanAIAttack", "dc/d3e/a20878.html#aa223ec9592dcc5f8890cc7de0c8e4230", null ],
+    [ "DoAction", "dc/d3e/a20878.html#adbd3f69f46e33537786505a0bb2955d5", null ],
+    [ "MovementInform", "dc/d3e/a20878.html#acfa015071d54e353e4397c806fcab0a5", null ],
+    [ "Reset", "dc/d3e/a20878.html#ae5da35cb689ada77a00d545e0f795af7", null ],
+    [ "SetData", "dc/d3e/a20878.html#ab8d8681d244c13e51709c3ad446c8805", null ],
+    [ "_idx", "dc/d3e/a20878.html#ae50289231fcaac124f78246774dda01e", null ]
 ];

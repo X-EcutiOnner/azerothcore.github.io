@@ -1,10 +1,6 @@
 var a08066 =
 [
-    [ "Achievement", "d4/d5b/a08066.html#a03caf33cfc9f75dfdbba2dedc747e0ce", null ],
-    [ "CharacterId", "d4/d5b/a08066.html#a0ec541a4e11d9e19f7cced7e839b1ebb", null ],
-    [ "Criteria", "d4/d5b/a08066.html#a4eae1ba9b211d8c8307000ddae428348", null ],
-    [ "Day", "d4/d5b/a08066.html#a216aaf4eed90eeb05662631e8f89b4ab", null ],
-    [ "IsFinished", "d4/d5b/a08066.html#a1aff3d0a28a12f0e4ee10bca376f335c", null ],
-    [ "Month", "d4/d5b/a08066.html#a9be9cfb6a40c527e8f6b6ad381ed5b42", null ],
-    [ "Year", "d4/d5b/a08066.html#a85612eac22d3233e620eb11e6e1b48b0", null ]
+    [ "value_type", "d4/d5b/a08066.html#aea5c629ecdcd9c2bfc1253ef8e775c3a", null ],
+    [ "operator()", "d4/d5b/a08066.html#a864f3c2f78b80dbc4b65dffb0d38ab55", null ],
+    [ "operator()", "d4/d5b/a08066.html#a4e13ed545328e052481a0379e7f027a5", null ]
 ];

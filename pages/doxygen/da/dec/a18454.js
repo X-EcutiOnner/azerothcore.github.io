@@ -1,7 +1,7 @@
 var a18454 =
 [
-    [ "FrostBombExplosion", "da/dec/a18454.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "da/dec/a18454.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "da/dec/a18454.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "da/dec/a18454.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "HandleTriggerSpell", "da/dec/a18454.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "da/dec/a18454.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "da/dec/a18454.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "da/dec/a18454.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

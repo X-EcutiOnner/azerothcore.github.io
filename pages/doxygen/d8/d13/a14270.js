@@ -1,9 +1,11 @@
 var a14270 =
 [
-    [ "npc_thrall_bfuAI", "d0/d8b/a14274.html", "d0/d8b/a14274" ],
-    [ "npc_thrall_bfu", "d8/d13/a14270.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
-    [ "GetAI", "d8/d13/a14270.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
-    [ "OnGossipHello", "d8/d13/a14270.html#a71a7108464de9245879c8a1c08932e2a", null ],
-    [ "OnGossipSelect", "d8/d13/a14270.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
-    [ "OnQuestReward", "d8/d13/a14270.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
+    [ "npc_scarlet_ghoul", "d8/d13/a14270.html#aa256e50446b0511a0412442245be2e82", null ],
+    [ "InitializeAI", "d8/d13/a14270.html#a5e98c4a1e9a31124dc6ca67c612db1c9", null ],
+    [ "MovementInform", "d8/d13/a14270.html#a06f14ccde727b7c875f3be8243dec2a8", null ],
+    [ "OwnerAttackedBy", "d8/d13/a14270.html#aacf81b86947124cea21fc6d2e906487f", null ],
+    [ "SetGUID", "d8/d13/a14270.html#ab3840f1d6b1e63b4707d5139b63281cc", null ],
+    [ "UpdateAI", "d8/d13/a14270.html#af8637b2a7644b917aa6ef10b31a1d1e0", null ],
+    [ "events", "d8/d13/a14270.html#ad2b3d650e151a13159e119cb3fda88a4", null ],
+    [ "gothikGUID", "d8/d13/a14270.html#a9275cf7efde4c77ce114448777f25f1e", null ]
 ];

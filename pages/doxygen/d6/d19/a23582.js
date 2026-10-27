@@ -1,12 +1,16 @@
 var a23582 =
 [
-    [ "boss_watchkeeper_gargolmar", "d6/d19/a23582.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
-    [ "JustDied", "d6/d19/a23582.html#a39be5796b39bea913105fc48dda0d186", null ],
-    [ "JustEngagedWith", "d6/d19/a23582.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
-    [ "KilledUnit", "d6/d19/a23582.html#a22736c2680f41cfd3443a76cd4de9352", null ],
-    [ "MoveInLineOfSight", "d6/d19/a23582.html#adec9837fdb2595ce57acffb279a7d011", null ],
-    [ "Reset", "d6/d19/a23582.html#a356b7fe9071b073b74b21913e35e7408", null ],
-    [ "UpdateAI", "d6/d19/a23582.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
-    [ "_hasSpoken", "d6/d19/a23582.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
-    [ "_taunted", "d6/d19/a23582.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "d6/d19/a23582.html#a70db3eeeb55784250a13032728220005", null ],
+    [ "GetGuidData", "d6/d19/a23582.html#a77e77209e779b774608f739b258ae419", null ],
+    [ "OnCreatureCreate", "d6/d19/a23582.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
+    [ "OnGameObjectCreate", "d6/d19/a23582.html#a01268ee78431dfe1ed9c4bf960c92b1a", null ],
+    [ "SetGuidData", "d6/d19/a23582.html#a21a29973bcf5ef6925239213ce50bab0", null ],
+    [ "AhuneBunnyGUID", "d6/d19/a23582.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
+    [ "AhuneGUID", "d6/d19/a23582.html#a8ad4dab281db87bb2d14b925b450f09c", null ],
+    [ "BeamBunnyGUIDs", "d6/d19/a23582.html#a09e3d1ca5d040268578fa770b7153a81", null ],
+    [ "BonfireBunnyGUIDs", "d6/d19/a23582.html#a9de605ffd8092f83af8df5c1725c5d2b", null ],
+    [ "counter", "d6/d19/a23582.html#a4ea85debc35e91668723222e8ea90071", null ],
+    [ "FlameCallerGUIDs", "d6/d19/a23582.html#a50af0f1eaaa4e40d729e797212cf3ba0", null ],
+    [ "FrozenCoreGUID", "d6/d19/a23582.html#a6ac47d1f3eb4d199afdda9ad2a2cc73e", null ],
+    [ "LumaGUID", "d6/d19/a23582.html#a0e9e294b4140dc8b8a5567a54d7b0c42", null ]
 ];

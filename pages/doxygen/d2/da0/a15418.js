@@ -1,6 +1,7 @@
 var a15418 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d8/dfe/a15422.html", "d8/dfe/a15422" ],
-    [ "instance_maraudon", "d2/da0/a15418.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "d2/da0/a15418.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "npc_cos_chromie_middle", "d2/da0/a15418.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "d2/da0/a15418.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "d2/da0/a15418.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "d2/da0/a15418.html#ad9e733b4dd69f58d880aebcfe06cbf96", null ]
 ];

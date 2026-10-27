@@ -1,12 +1,15 @@
 var a19890 =
 [
-    [ "npc_oculus_drakeAI", "db/dee/a19890.html#a214d9b77a5653f1a5f60106081eaf683", null ],
-    [ "IsSummonedBy", "db/dee/a19890.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
-    [ "MovementInform", "db/dee/a19890.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
-    [ "PassengerBoarded", "db/dee/a19890.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
-    [ "SpellHitTarget", "db/dee/a19890.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
-    [ "UpdateAI", "db/dee/a19890.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
-    [ "despawnTimer", "db/dee/a19890.html#a560dc0936a78267a4036b209c6718732", null ],
-    [ "JustSummoned", "db/dee/a19890.html#a8b656a464525e881944e72e9486b0eb9", null ],
-    [ "m_pInstance", "db/dee/a19890.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
+    [ "instance_eye_of_eternity", "db/dee/a19890.html#a8b8bccd4969d18cf0c56742c65150ef1", null ],
+    [ "CheckAchievementCriteriaMeet", "db/dee/a19890.html#ae2cbbc353f1dfcb24346fb707b15e19d", null ],
+    [ "GetGuidData", "db/dee/a19890.html#a9a8a000c1f3a4139e280c7b20711dbcc", null ],
+    [ "OnCreatureCreate", "db/dee/a19890.html#a72ede46385cd3f4d36e360ed67d5634f", null ],
+    [ "OnGameObjectCreate", "db/dee/a19890.html#a276b14a880ac762439213f85b17c5b8b", null ],
+    [ "OnPlayerEnter", "db/dee/a19890.html#a1f525d686ec2447a0aa9c2b9631b2e2f", null ],
+    [ "ProcessEvent", "db/dee/a19890.html#a1408e66a14a7af228d7dfa40d09133f7", null ],
+    [ "SetBossState", "db/dee/a19890.html#a1d4ea255b6f65abd63a69e04ec43ab90", null ],
+    [ "SetData", "db/dee/a19890.html#a361bf36921e723ff38005d43be1c900b", null ],
+    [ "VortexHandling", "db/dee/a19890.html#aa413a00eeba3fa864c104b6475b72d7c", null ],
+    [ "_pokeAchievementValid", "db/dee/a19890.html#ab2d2e6d8f1117cf91646dd2634dc6014", null ],
+    [ "_vortexTriggers", "db/dee/a19890.html#a21b0f26e2bf09d875b3708c594e652bc", null ]
 ];

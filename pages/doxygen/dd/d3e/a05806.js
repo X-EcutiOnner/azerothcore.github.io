@@ -1,10 +1,7 @@
 var a05806 =
 [
-    [ "AsyncCallbackProcessor", "dd/d3e/a05806.html#aee6f273ab86fad749de85cd12ea32a98", null ],
-    [ "~AsyncCallbackProcessor", "dd/d3e/a05806.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
-    [ "AsyncCallbackProcessor", "dd/d3e/a05806.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
-    [ "AddCallback", "dd/d3e/a05806.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
-    [ "operator=", "dd/d3e/a05806.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
-    [ "ProcessReadyCallbacks", "dd/d3e/a05806.html#a4fce127f587a9da913a9e9061ba538e7", null ],
-    [ "_callbacks", "dd/d3e/a05806.html#a372d9496b9a1b3e3f718cefe50164209", null ]
+    [ "Node", "dd/d3e/a05806.html#aa4dcacffb32f3e739604ab6ef39b5031", null ],
+    [ "Node", "dd/d3e/a05806.html#aa5f116e3d84286f313ee8730bde7b936", null ],
+    [ "Data", "dd/d3e/a05806.html#aa7cdbff9817871b548fe639e0956f1f4", null ],
+    [ "Next", "dd/d3e/a05806.html#a7508e249dd3ff2b3ac291d67ddf87a71", null ]
 ];

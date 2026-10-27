@@ -1,6 +1,5 @@
 var a22770 =
 [
-    [ "HandleScriptEffect", "d6/d6c/a22770.html#aa60961c2609184e739dea3be8ba992d5", null ],
-    [ "PrepareSpellScript", "d6/d6c/a22770.html#aacde592314399112786b024153389024", null ],
-    [ "Register", "d6/d6c/a22770.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
+    [ "OutdoorPvP_silithus", "d6/d6c/a22770.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
+    [ "GetOutdoorPvP", "d6/d6c/a22770.html#a126d6acc77218addd10072199ccd2470", null ]
 ];

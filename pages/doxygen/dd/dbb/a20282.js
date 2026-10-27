@@ -1,8 +1,16 @@
 var a20282 =
 [
-    [ "OnApply", "dd/dbb/a20282.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "dd/dbb/a20282.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "dd/dbb/a20282.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "dd/dbb/a20282.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "dd/dbb/a20282.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "boss_runemaster_molgeim", "dd/dbb/a20282.html#ae465b567aeba025d2fde3baa94e55e1e", null ],
+    [ "JustDied", "dd/dbb/a20282.html#af278ce3237940684aa9909915e6d6962", null ],
+    [ "JustEngagedWith", "dd/dbb/a20282.html#a2d779d09adfd1f19ce3655d8e9740a9f", null ],
+    [ "JustReachedHome", "dd/dbb/a20282.html#a0597a7360c24899e9f74f1d3f289e9c5", null ],
+    [ "KilledUnit", "dd/dbb/a20282.html#a33c0a2d070cf6d3d850c840b048de251", null ],
+    [ "Reset", "dd/dbb/a20282.html#a9f8cca601307af0475141d6b8370199a", null ],
+    [ "SpellHit", "dd/dbb/a20282.html#a8d05dd3f38eb24cf5be700328a874ff1", null ],
+    [ "UpdateAI", "dd/dbb/a20282.html#ad8f1b523299c7a2c3dd9013fa211a090", null ],
+    [ "UpdatePhase", "dd/dbb/a20282.html#a40d0466bfbe6fae8435fb4921bca6c1a", null ],
+    [ "_phase", "dd/dbb/a20282.html#af1a8f1bf6dbf24890686c8acbf83dc2d", null ],
+    [ "events", "dd/dbb/a20282.html#a277b45a2b2399b91650907de2fb86b89", null ],
+    [ "pInstance", "dd/dbb/a20282.html#adfbc84f0922e69b38723ecbc7eeead62", null ],
+    [ "summons", "dd/dbb/a20282.html#a148c913fcc44c8dfd05260d76d389538", null ]
 ];

@@ -1,7 +1,7 @@
 var a12386 =
 [
-    [ "achievement_commandscript", "d3/de1/a12386.html#ac1c40d7b3b628cc206c44eae18592292", null ],
-    [ "GetCommands", "d3/de1/a12386.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
-    [ "HandleAchievementAddCommand", "d3/de1/a12386.html#a81a8dc82481b38763d846444b9846da7", null ],
-    [ "HandleAchievementCheckAllCommand", "d3/de1/a12386.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
+    [ "CompressedData", "d3/de1/a12386.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
+    [ "CompressedSize", "d3/de1/a12386.html#ab57879b41c825623a989db13a53f2f4e", null ],
+    [ "Id", "d3/de1/a12386.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
+    [ "Key", "d3/de1/a12386.html#ad100540b5c6722a19c938b134a985aed", null ]
 ];

@@ -1,9 +1,8 @@
 var a26726 =
 [
-    [ "CheckCast", "d7/d88/a26726.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
-    [ "HandleTriggerSpellHit", "d7/d88/a26726.html#aca027bb2995456bfcedd33c06966eb88", null ],
-    [ "HandleTriggerSpellLaunch", "d7/d88/a26726.html#aa67bf9f81086a3837037d67306979072", null ],
-    [ "PrepareSpellScript", "d7/d88/a26726.html#a9247b5f3a376bebdcf857565b5049944", null ],
-    [ "Register", "d7/d88/a26726.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
-    [ "Validate", "d7/d88/a26726.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
+    [ "CheckProc", "d7/d88/a26726.html#a801610a9f9fae5cb711850254b291268", null ],
+    [ "HandleProc", "d7/d88/a26726.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
+    [ "PrepareAuraScript", "d7/d88/a26726.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
+    [ "Register", "d7/d88/a26726.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
+    [ "Validate", "d7/d88/a26726.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
 ];

@@ -1,8 +1,7 @@
 var a24874 =
 [
-    [ "CheckProc", "db/d83/a24874.html#a465402287949b12e5f4a4fe5405c32ce", null ],
-    [ "HandleProc", "db/d83/a24874.html#a11329d2093e30e91d7582c5eb34228ab", null ],
-    [ "PrepareAuraScript", "db/d83/a24874.html#a0c17de6a23adf74e32cf7c50b09762fc", null ],
-    [ "Register", "db/d83/a24874.html#ade6720401687c7ad102e51572351705c", null ],
-    [ "Validate", "db/d83/a24874.html#a71c224e13289673e5d2ed700cde6cd6a", null ]
+    [ "HandleProc", "db/d83/a24874.html#a1c9c503e64b8e9060e7af700aabdf30b", null ],
+    [ "PrepareAuraScript", "db/d83/a24874.html#a9aa6b540ab7061d48290eb2a49113adf", null ],
+    [ "Register", "db/d83/a24874.html#a142a1a5d27b714935aa5e05619e06ae3", null ],
+    [ "Validate", "db/d83/a24874.html#a88cb3af37d3133f95355634c8bd98d61", null ]
 ];

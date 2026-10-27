@@ -1,6 +1,13 @@
 var a23042 =
 [
-    [ "instance_black_temple_InstanceMapScript", "de/dd6/a23046.html", "de/dd6/a23046" ],
-    [ "instance_black_temple", "d1/de6/a23042.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "d1/de6/a23042.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "boss_illidari_council_memberAI", "d1/de6/a23042.html#ac32366dfad13cd37ced2428d041e25c9", null ],
+    [ "DamageTaken", "d1/de6/a23042.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
+    [ "DoAction", "d1/de6/a23042.html#a203310b84d71a24145b1c39e7faff182", null ],
+    [ "EnterEvadeMode", "d1/de6/a23042.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
+    [ "JustDied", "d1/de6/a23042.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
+    [ "JustEngagedWith", "d1/de6/a23042.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
+    [ "KilledUnit", "d1/de6/a23042.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
+    [ "Reset", "d1/de6/a23042.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
+    [ "events", "d1/de6/a23042.html#ad47a350f5ed066e04816e72961a80bd0", null ],
+    [ "instance", "d1/de6/a23042.html#adb11720cd0fd87a42b9a78490a70251e", null ]
 ];

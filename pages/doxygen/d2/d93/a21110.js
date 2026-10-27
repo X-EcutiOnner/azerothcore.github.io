@@ -1,6 +1,6 @@
 var a21110 =
 [
-    [ "achievement_yogg_saron_darkness", "d2/d93/a21110.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
-    [ "OnCheck", "d2/d93/a21110.html#a809902fca87abaeb4334132763624ed6", null ],
-    [ "_keepersCount", "d2/d93/a21110.html#a765ec4606bb489760ed1e15db10de1dc", null ]
+    [ "x", "d2/d93/a21110.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "d2/d93/a21110.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "d2/d93/a21110.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

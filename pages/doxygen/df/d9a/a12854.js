@@ -1,7 +1,6 @@
 var a12854 =
 [
-    [ "boss_warmaster_voone", "df/d9a/a12854.html#a5dd3b0140dda8ef141c9598a427f6633", null ],
-    [ "DamageTaken", "df/d9a/a12854.html#a48e135857ef9e7e524e07ed979f137e6", null ],
-    [ "ExecuteEvent", "df/d9a/a12854.html#a2ff38398f38e61f91bd1aa7222867fd3", null ],
-    [ "JustEngagedWith", "df/d9a/a12854.html#a961113ecf4c46f52001d153a60ea238a", null ]
+    [ "boss_hedrum", "df/d9a/a12854.html#adf610c943b7644aa2805934f54571492", null ],
+    [ "JustEngagedWith", "df/d9a/a12854.html#a18dd15e991417b68569b5a0e93499c0f", null ],
+    [ "UpdateAI", "df/d9a/a12854.html#a4af57f4f6d8bdaf1017788f343b5439d", null ]
 ];

@@ -1,8 +1,5 @@
 var a12678 =
 [
-    [ "brd_ironhand_guardian", "db/d21/a12678.html#a635a59a53948b6e252a15384d784a969", null ],
-    [ "SetData", "db/d21/a12678.html#a7677681c4d39ed73f4143caa66a1a5de", null ],
-    [ "UpdateAI", "db/d21/a12678.html#a8840ead9b577888ec2ac15d68ddffe71", null ],
-    [ "_flamesEnabled", "db/d21/a12678.html#a1b162039fc21a7eddddd22ed9c97e9cb", null ],
-    [ "events", "db/d21/a12678.html#a01047164b0728cb6d08a7f41cf092a58", null ]
+    [ "Chance", "db/d21/a12678.html#a20ae19fc80deceb81adccb91b341fb82", null ],
+    [ "Entry", "db/d21/a12678.html#ae8b951678ec65907370ffe700cd668c8", null ]
 ];

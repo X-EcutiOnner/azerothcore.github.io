@@ -1,8 +1,7 @@
 var a27738 =
 [
-    [ "Load", "d9/d4e/a27738.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
-    [ "OnRemove", "d9/d4e/a27738.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
-    [ "PrepareAuraScript", "d9/d4e/a27738.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
-    [ "Register", "d9/d4e/a27738.html#a932760326c822f1b47df1afdec6bb9cb", null ],
-    [ "Validate", "d9/d4e/a27738.html#a69bcfedb7f566c572201aadc9e75df08", null ]
+    [ "HandleDummy", "d9/d4e/a27738.html#a6990bc24605167d38772f391aa2a5376", null ],
+    [ "PrepareSpellScript", "d9/d4e/a27738.html#af85da0790eb36b91266ffa45888068d6", null ],
+    [ "Register", "d9/d4e/a27738.html#a619dab878b3d6e332a15d772dd148e26", null ],
+    [ "Validate", "d9/d4e/a27738.html#a5a39713deabac73334442e1bdeb00aad", null ]
 ];

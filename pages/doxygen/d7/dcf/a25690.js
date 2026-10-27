@@ -1,6 +1,7 @@
 var a25690 =
 [
-    [ "CheckCast", "d7/dcf/a25690.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
-    [ "PrepareSpellScript", "d7/dcf/a25690.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
-    [ "Register", "d7/dcf/a25690.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
+    [ "OnApply", "d7/dcf/a25690.html#a455a885611978a390cd4bfa76b05f82b", null ],
+    [ "PrepareAuraScript", "d7/dcf/a25690.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
+    [ "Register", "d7/dcf/a25690.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
+    [ "Validate", "d7/dcf/a25690.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
 ];

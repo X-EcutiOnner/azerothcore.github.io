@@ -1,9 +1,10 @@
 var a10338 =
 [
-    [ "TransportAnimation", "d5/d54/a10338.html#a775b84b54deefd38af40222afd82d572", null ],
-    [ "GetAnimNode", "d5/d54/a10338.html#a73b56750c90afce38dbf57793bae16f3", null ],
-    [ "GetAnimRotation", "d5/d54/a10338.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
-    [ "Path", "d5/d54/a10338.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
-    [ "Rotations", "d5/d54/a10338.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
-    [ "TotalTime", "d5/d54/a10338.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
+    [ "ZoneDynamicInfo", "d5/d54/a10338.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
+    [ "DefaultWeather", "d5/d54/a10338.html#a8c2c7772596ec58413bee2077e46790f", null ],
+    [ "LightFadeInTime", "d5/d54/a10338.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
+    [ "MusicId", "d5/d54/a10338.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
+    [ "OverrideLightId", "d5/d54/a10338.html#a0d43acd5539d3449b7c36ee88518346e", null ],
+    [ "WeatherGrade", "d5/d54/a10338.html#a923c3231c49554addd1522f0ccc50e2d", null ],
+    [ "WeatherId", "d5/d54/a10338.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
 ];

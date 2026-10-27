@@ -1,6 +1,6 @@
 var a26970 =
 [
-    [ "CheckDummy", "d8/da1/a26970.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
-    [ "PrepareAuraScript", "d8/da1/a26970.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
-    [ "Register", "d8/da1/a26970.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
+    [ "CheckCast", "d8/da1/a26970.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "d8/da1/a26970.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "d8/da1/a26970.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

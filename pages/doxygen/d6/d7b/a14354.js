@@ -1,7 +1,8 @@
 var a14354 =
 [
-    [ "HandleDispel", "d6/d7b/a14354.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "d6/d7b/a14354.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "d6/d7b/a14354.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "d6/d7b/a14354.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_varian_wrynnAI", "d8/d8d/a14358.html", "d8/d8d/a14358" ],
+    [ "npc_varian_wrynn", "d6/d7b/a14354.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d6/d7b/a14354.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d6/d7b/a14354.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d6/d7b/a14354.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

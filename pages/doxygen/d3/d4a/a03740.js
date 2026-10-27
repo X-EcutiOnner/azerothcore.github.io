@@ -1,7 +1,7 @@
 var a03740 =
 [
-    [ "WaypointNode", "df/d3c/a10645.html", "df/d3c/a10645" ],
-    [ "WaypointPath", "d9/db7/a10649.html", "d9/db7/a10649" ],
+    [ "WaypointNode", "d6/d12/a10658.html", "d6/d12/a10658" ],
+    [ "WaypointPath", "db/d96/a10662.html", "db/d96/a10662" ],
     [ "WaypointMoveType", "d3/d4a/a03740.html#ac26115060a1cd0169937b206edddd863", [
       [ "WAYPOINT_MOVE_TYPE_WALK", "d3/d4a/a03740.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff", null ],
       [ "WAYPOINT_MOVE_TYPE_RUN", "d3/d4a/a03740.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55", null ],

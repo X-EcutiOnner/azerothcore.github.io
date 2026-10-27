@@ -1,6 +1,7 @@
 var a21826 =
 [
-    [ "SACActivateEvent", "dd/dcb/a21826.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "dd/dcb/a21826.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "dd/dcb/a21826.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "HandleProc", "dd/dcb/a21826.html#aeb5b70614b266bac0792906bf89a5b97", null ],
+    [ "PrepareAuraScript", "dd/dcb/a21826.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
+    [ "Register", "dd/dcb/a21826.html#a163e0099271f21362deeb1ba1f169f3f", null ],
+    [ "Validate", "dd/dcb/a21826.html#abdb889e4c6d19f756c143d7b36f82257", null ]
 ];

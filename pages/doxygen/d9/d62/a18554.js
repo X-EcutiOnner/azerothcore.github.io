@@ -1,6 +1,7 @@
 var a18554 =
 [
-    [ "npc_rimefangAI", "d6/da9/a18558.html", "d6/da9/a18558" ],
-    [ "npc_rimefang", "d9/d62/a18554.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
-    [ "GetAI", "d9/d62/a18554.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
+    [ "HandleCast", "d9/d62/a18554.html#aaa3262bc782e342825d4caba2954e95d", null ],
+    [ "PrepareSpellScript", "d9/d62/a18554.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
+    [ "Register", "d9/d62/a18554.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
+    [ "Validate", "d9/d62/a18554.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
 ];

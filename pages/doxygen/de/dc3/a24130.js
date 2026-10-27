@@ -1,11 +1,8 @@
 var a24130 =
 [
-    [ "npc_maxx_a_million_escortAI", "de/dc3/a24130.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "de/dc3/a24130.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "de/dc3/a24130.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "de/dc3/a24130.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "de/dc3/a24130.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "WaypointReached", "de/dc3/a24130.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "bTake", "de/dc3/a24130.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "de/dc3/a24130.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "boss_mechano_lord_capacitus", "de/dc3/a24130.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
+    [ "JustDied", "de/dc3/a24130.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
+    [ "JustEngagedWith", "de/dc3/a24130.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
+    [ "JustSummoned", "de/dc3/a24130.html#a9a0b2cac08002db63162f95b9476c251", null ],
+    [ "KilledUnit", "de/dc3/a24130.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
 ];

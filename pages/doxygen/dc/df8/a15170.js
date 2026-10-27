@@ -1,8 +1,7 @@
 var a15170 =
 [
-    [ "boss_azgalor", "dc/df8/a15170.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "dc/df8/a15170.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "dc/df8/a15170.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "dc/df8/a15170.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "dc/df8/a15170.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ]
+    [ "GetVisualThrow", "dc/df8/a15170.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "dc/df8/a15170.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "dc/df8/a15170.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "dc/df8/a15170.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

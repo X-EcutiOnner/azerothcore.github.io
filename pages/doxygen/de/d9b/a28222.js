@@ -1,7 +1,5 @@
 var a28222 =
 [
-    [ "go_pirate_day_musicAI", "de/d9b/a28222.html#a1abe263949b7a07e5143779efcddc7eb", null ],
-    [ "UpdateAI", "de/d9b/a28222.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
-    [ "_events", "de/d9b/a28222.html#a233ae55a05876c665455b106ef50d57e", null ],
-    [ "rnd", "de/d9b/a28222.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
+    [ "achievement_sa_defense_of_the_ancients", "de/d9b/a28222.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "de/d9b/a28222.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

@@ -1,5 +1,6 @@
 var a19138 =
 [
-    [ "npc_darkfallen_noble", "db/dab/a19138.html#a566c1938cadfb6fd9d171f84529e9495", null ],
-    [ "ScheduleSpells", "db/dab/a19138.html#a0f7de7ee2cf7d4eacccd42bd63b8cf6f", null ]
+    [ "CaptainSurviveTalk", "db/dab/a19138.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "db/dab/a19138.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "db/dab/a19138.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

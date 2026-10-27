@@ -1,6 +1,9 @@
 var a14230 =
 [
-    [ "npc_highborne_lamenterAI", "d2/d07/a14234.html", "d2/d07/a14234" ],
-    [ "npc_highborne_lamenter", "d3/d78/a14230.html#a40316cf73a688e34e95dd41feef8612a", null ],
-    [ "GetAI", "d3/d78/a14230.html#aad8ccb43b325b797f60a16e338458a1e", null ]
+    [ "npc_marzon_silent_bladeAI", "d3/d78/a14230.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "d3/d78/a14230.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "d3/d78/a14230.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "d3/d78/a14230.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "d3/d78/a14230.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "d3/d78/a14230.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

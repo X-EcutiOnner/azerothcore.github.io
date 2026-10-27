@@ -1,5 +1,7 @@
 var a25526 =
 [
-    [ "PrepareSpellScript", "da/dad/a25526.html#a2c88a98e1f76f62f745dbd83fa939506", null ],
-    [ "Register", "da/dad/a25526.html#a93dcf131a040c95ef1b8cc5ec1d3bc37", null ]
+    [ "HandleApplyEffect", "da/dad/a25526.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "da/dad/a25526.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "da/dad/a25526.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "da/dad/a25526.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

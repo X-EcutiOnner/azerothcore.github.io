@@ -1,6 +1,8 @@
 var a15842 =
 [
-    [ "npc_injured_draeneiAI", "d0/d96/a15846.html", "d0/d96/a15846" ],
-    [ "npc_injured_draenei", "dc/d70/a15842.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
-    [ "GetAI", "dc/d70/a15842.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
+    [ "boss_veklor", "dc/d70/a15842.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "dc/d70/a15842.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "dc/d70/a15842.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "dc/d70/a15842.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "dc/d70/a15842.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

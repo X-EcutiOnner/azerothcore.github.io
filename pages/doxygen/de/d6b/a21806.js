@@ -1,7 +1,14 @@
 var a21806 =
 [
-    [ "HandleApplyEffect", "de/d6b/a21806.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "de/d6b/a21806.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "de/d6b/a21806.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "de/d6b/a21806.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "npc_hidden_cultistAI", "de/d6b/a21806.html#a970aaa2401664337147696624cc8cac4", null ],
+    [ "AttackPlayer", "de/d6b/a21806.html#a55e3b02d05f35d134fc605a13efe9018", null ],
+    [ "Initialize", "de/d6b/a21806.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
+    [ "PreScript", "de/d6b/a21806.html#a92be5361e2b28152adcca0629b286bb8", null ],
+    [ "Reset", "de/d6b/a21806.html#afe38e448d86cdf910870d72a3890ae1f", null ],
+    [ "sGossipSelect", "de/d6b/a21806.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
+    [ "UpdateAI", "de/d6b/a21806.html#a0bba4d10439d47d44ff856c7fec18595", null ],
+    [ "_emoteState", "de/d6b/a21806.html#adb4e884787dc480358c5be22d276ec49", null ],
+    [ "_events", "de/d6b/a21806.html#ab0494e33d16a43aa1426784d1882e41c", null ],
+    [ "_npcFlags", "de/d6b/a21806.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
+    [ "_playerGUID", "de/d6b/a21806.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
 ];

@@ -1,6 +1,6 @@
 var a16350 =
 [
-    [ "ModDestHeight", "d7/df9/a16350.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "d7/df9/a16350.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "d7/df9/a16350.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "SayerEntry", "d7/df9/a16350.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "d7/df9/a16350.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "d7/df9/a16350.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

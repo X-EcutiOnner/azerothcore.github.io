@@ -1,9 +1,7 @@
 var a16106 =
 [
-    [ "go_wind_stoneAI", "d3/d94/a16106.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
-    [ "GossipHello", "d3/d94/a16106.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
-    [ "GossipSelect", "d3/d94/a16106.html#aff4dedbf3a6fea405722f7064633edb1", null ],
-    [ "InitializeAI", "d3/d94/a16106.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
-    [ "SummonNPC", "d3/d94/a16106.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
-    [ "_creatureGuid", "d3/d94/a16106.html#a50ad8b248381a6d9fac7a291796966d6", null ]
+    [ "HandleDummy", "d3/d94/a16106.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "d3/d94/a16106.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "d3/d94/a16106.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "d3/d94/a16106.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

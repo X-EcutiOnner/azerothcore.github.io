@@ -1,6 +1,17 @@
 var a19586 =
 [
-    [ "boss_maexxnaAI", "d5/db3/a19590.html", "d5/db3/a19590" ],
-    [ "boss_maexxna", "dc/d3e/a19586.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "dc/d3e/a19586.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "boss_four_horsemenAI", "dc/d3e/a19586.html#a828a858c3337791bd2acb3d6ba730233", null ],
+    [ "AttackStart", "dc/d3e/a19586.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
+    [ "EnterEvadeMode", "dc/d3e/a19586.html#a86f458f0413cab4c8129affff1b73a70", null ],
+    [ "JustDied", "dc/d3e/a19586.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
+    [ "JustEngagedWith", "dc/d3e/a19586.html#a17b8ca30ceb0efb87be77f970c526444", null ],
+    [ "KilledUnit", "dc/d3e/a19586.html#a87bdde27a69a020a26da31f01286593a", null ],
+    [ "MovementInform", "dc/d3e/a19586.html#aa900c075c04673341b3100488c45f9e7", null ],
+    [ "MoveToCorner", "dc/d3e/a19586.html#a7891dc79980c67d82867f6181685b359", null ],
+    [ "Reset", "dc/d3e/a19586.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
+    [ "UpdateAI", "dc/d3e/a19586.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
+    [ "currentWaypoint", "dc/d3e/a19586.html#ab3c2643e1b3c58452661255979e67e63", null ],
+    [ "events", "dc/d3e/a19586.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
+    [ "horsemanId", "dc/d3e/a19586.html#ab0c4162177096e7bd007996e8677fd8b", null ],
+    [ "movementPhase", "dc/d3e/a19586.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
 ];

@@ -1,6 +1,5 @@
 var a11242 =
 [
-    [ "GuildSetGuildMaster", "d8/d4e/a11242.html#ae6ca07252de719cc506042c8d3e8285e", null ],
-    [ "Read", "d8/d4e/a11242.html#a94f16e55a840c7cba991a119af5d8263", null ],
-    [ "NewMasterName", "d8/d4e/a11242.html#a02f37610492c75373266bb93000adcbf", null ]
+    [ "GuildDelete", "d8/d4e/a11242.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
+    [ "Read", "d8/d4e/a11242.html#ae5ca379b187902323638f4c10be0a4d0", null ]
 ];

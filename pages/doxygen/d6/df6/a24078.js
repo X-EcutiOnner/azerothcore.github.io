@@ -1,6 +1,7 @@
 var a24078 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d9/d49/a24082.html", "d9/d49/a24082" ],
-    [ "npc_creditmarker_visit_with_ancestors", "d6/df6/a24078.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "d6/df6/a24078.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "Load", "d6/df6/a24078.html#aba7e1a0b87607386649bb842b5058c3e", null ],
+    [ "OnRemove", "d6/df6/a24078.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
+    [ "PrepareAuraScript", "d6/df6/a24078.html#ac62b18eedbadb0b3581d772909175e96", null ],
+    [ "Register", "d6/df6/a24078.html#a17e8be131f01b2434b18740b20a08d6e", null ]
 ];

@@ -1,7 +1,7 @@
 var a24126 =
 [
-    [ "npc_maxx_a_million_escortAI", "de/dc3/a24130.html", "de/dc3/a24130" ],
-    [ "npc_maxx_a_million_escort", "d2/d5c/a24126.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d2/d5c/a24126.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d2/d5c/a24126.html#aa9a3c655ed09b1264afd8e9ca6965bf5", null ]
+    [ "boss_gatewatcher_iron_hand", "d2/d5c/a24126.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d2/d5c/a24126.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d2/d5c/a24126.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d2/d5c/a24126.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

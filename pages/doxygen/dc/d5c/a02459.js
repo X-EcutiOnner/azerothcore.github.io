@@ -1,8 +1,8 @@
 var a02459 =
 [
-    [ "AddonInfo", "d8/d74/a06509.html", "d8/d74/a06509" ],
-    [ "SavedAddon", "da/d75/a06513.html", "da/d75/a06513" ],
-    [ "BannedAddon", "de/dda/a06517.html", "de/dda/a06517" ],
+    [ "AddonInfo", "db/dc5/a06522.html", "db/dc5/a06522" ],
+    [ "SavedAddon", "d4/d0a/a06526.html", "d4/d0a/a06526" ],
+    [ "BannedAddon", "d9/d07/a06530.html", "d9/d07/a06530" ],
     [ "STANDARD_ADDON_CRC", "dc/d5c/a02459.html#a084249e215f787f3163d5d06ad2d256f", null ],
     [ "BannedAddonList", "dc/d5c/a02459.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
     [ "GetAddonInfo", "dc/d5c/a02459.html#a6edf9a462d4afcaff40e69da1e75cca5", null ],

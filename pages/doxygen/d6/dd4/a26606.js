@@ -1,7 +1,6 @@
 var a26606 =
 [
-    [ "PrepareSpellScript", "d6/dd4/a26606.html#ade3a3f956ae8be922bd1d2204919d360", null ],
-    [ "Register", "d6/dd4/a26606.html#a71d397da4a4804cf6023806c15e8bedf", null ],
-    [ "TriggerHypothermia", "d6/dd4/a26606.html#af40f92afae93778e477c50ddf18c8adc", null ],
-    [ "Validate", "d6/dd4/a26606.html#a1f0cef532c2bd13d94e647722f85457a", null ]
+    [ "CheckProc", "d6/dd4/a26606.html#adb21bbda83cf0fdc30e64cabc0fb0d1c", null ],
+    [ "PrepareAuraScript", "d6/dd4/a26606.html#a5fd08c4ff5ba410458a67eb91e612267", null ],
+    [ "Register", "d6/dd4/a26606.html#a13c9e5a0a2a6945dfa5a4425be08703d", null ]
 ];

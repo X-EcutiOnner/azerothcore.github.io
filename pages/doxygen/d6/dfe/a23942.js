@@ -1,6 +1,13 @@
 var a23942 =
 [
-    [ "HandlePeriodic", "d6/dfe/a23942.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
-    [ "PrepareAuraScript", "d6/dfe/a23942.html#a438425f3002028a0978e0dbab580ca03", null ],
-    [ "Register", "d6/dfe/a23942.html#af4b26607e8838b7bbbe8777f57601341", null ]
+    [ "boss_wrath_scryer_soccothrates", "d6/dfe/a23942.html#a771980c1022e7699c3eb02baccb68a93", null ],
+    [ "InitializeAI", "d6/dfe/a23942.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
+    [ "JustDied", "d6/dfe/a23942.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
+    [ "JustEngagedWith", "d6/dfe/a23942.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
+    [ "KilledUnit", "d6/dfe/a23942.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
+    [ "MoveInLineOfSight", "d6/dfe/a23942.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
+    [ "Reset", "d6/dfe/a23942.html#a85435a23d36f13e348112348a26e7d12", null ],
+    [ "UpdateAI", "d6/dfe/a23942.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
+    [ "events2", "d6/dfe/a23942.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
+    [ "preFight", "d6/dfe/a23942.html#a193889ee2815b93a1c9aeee394170fc4", null ]
 ];

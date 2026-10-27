@@ -1,9 +1,8 @@
 var a09250 =
 [
-    [ "day", "d2/d3d/a09250.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
-    [ "holidayId", "d2/d3d/a09250.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
-    [ "month", "d2/d3d/a09250.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
-    [ "offset", "d2/d3d/a09250.html#aaa9bf14668239ea561aecc33104e245a", null ],
-    [ "type", "d2/d3d/a09250.html#a25f2529332f23c93b37e5c918032eb3d", null ],
-    [ "weekday", "d2/d3d/a09250.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
+    [ "AttackPosition", "d2/d3d/a09250.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
+    [ "operator=", "d2/d3d/a09250.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
+    [ "operator==", "d2/d3d/a09250.html#a320adced006c0f70456492c9e9dc99c2", null ],
+    [ "_pos", "d2/d3d/a09250.html#a77783e0e6e83836ad6e5903535ad9370", null ],
+    [ "_taken", "d2/d3d/a09250.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
 ];

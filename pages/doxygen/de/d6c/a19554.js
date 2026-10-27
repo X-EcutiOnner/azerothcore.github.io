@@ -1,6 +1,7 @@
 var a19554 =
 [
-    [ "boss_kelthuzad_minionAI", "df/db0/a19558.html", "df/db0/a19558" ],
-    [ "boss_kelthuzad_minion", "de/d6c/a19554.html#a4c6d430035c964b4063139c0cda6bfff", null ],
-    [ "GetAI", "de/d6c/a19554.html#ab951068fedced148653ebf9124ba5e3d", null ]
+    [ "HandleGameObjectDamage", "de/d6c/a19554.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "de/d6c/a19554.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "de/d6c/a19554.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "de/d6c/a19554.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

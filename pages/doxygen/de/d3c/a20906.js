@@ -1,8 +1,13 @@
 var a20906 =
 [
-    [ "OnPeriodic", "de/d3c/a20906.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "de/d3c/a20906.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "de/d3c/a20906.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "de/d3c/a20906.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "de/d3c/a20906.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "npc_razorscale_dark_rune_guardian", "de/d3c/a20906.html#a539b905da508869adcc7bad601490c9f", null ],
+    [ "CanAIAttack", "de/d3c/a20906.html#a096058710ee0d02583c4402081da9f18", null ],
+    [ "GetData", "de/d3c/a20906.html#ac1bb7e2ac921fa542ec414a204117f98", null ],
+    [ "JustEngagedWith", "de/d3c/a20906.html#ac7fb0480f94e0e8ca0061947ec7fdebb", null ],
+    [ "Reset", "de/d3c/a20906.html#afd7fcb578ea65c7a060215257bcc5589", null ],
+    [ "SetData", "de/d3c/a20906.html#a7adbb5b9fa95e7ab73ac5acf81ffefdc", null ],
+    [ "UpdateAI", "de/d3c/a20906.html#ab4ab3b501994c55ce6c2a7b01b8ca70b", null ],
+    [ "_events", "de/d3c/a20906.html#a6faba05e56bdbd4453ee44f9de7dca2d", null ],
+    [ "_instance", "de/d3c/a20906.html#aa392619b8e14ec4092e78cfdfe367858", null ],
+    [ "_killed", "de/d3c/a20906.html#af9dafde2780d5be7a6e22025299dc013", null ]
 ];

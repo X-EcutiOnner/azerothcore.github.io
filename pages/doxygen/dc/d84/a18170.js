@@ -1,6 +1,10 @@
 var a18170 =
 [
-    [ "npc_cult_fanaticAI", "d3/d75/a18174.html", "d3/d75/a18174" ],
-    [ "npc_cult_fanatic", "dc/d84/a18170.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "dc/d84/a18170.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "npc_gunship_gunnerAI", "dc/d84/a18170.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
+    [ "AttackStart", "dc/d84/a18170.html#ac21b90c1892c15882794384517ef9fd2", null ],
+    [ "CanAIAttack", "dc/d84/a18170.html#aef351305ef34fa316809697125a3bc9a", null ],
+    [ "MovementInform", "dc/d84/a18170.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
+    [ "UpdateAI", "dc/d84/a18170.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
+    [ "anyValid", "dc/d84/a18170.html#a00c7dc23618c60826241133a0067c1c4", null ],
+    [ "checkTimer", "dc/d84/a18170.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
 ];

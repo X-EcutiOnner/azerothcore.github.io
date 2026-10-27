@@ -1,6 +1,7 @@
 var a14490 =
 [
-    [ "boss_grilekAI", "d8/df0/a14494.html", "d8/df0/a14494" ],
-    [ "boss_grilek", "d5/d04/a14490.html#acffe0061db18c5725c8c290822c5fed7", null ],
-    [ "GetAI", "d5/d04/a14490.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
+    [ "spell", "d5/d04/a14490.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "d5/d04/a14490.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "d5/d04/a14490.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "d5/d04/a14490.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

@@ -1,7 +1,7 @@
 var a14334 =
 [
-    [ "FilterTargets", "dd/d42/a14334.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "dd/d42/a14334.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "dd/d42/a14334.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "dd/d42/a14334.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "dc/d1b/a14338.html", "dc/d1b/a14338" ],
+    [ "npc_lady_sylvanas_windrunner", "dd/d42/a14334.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "dd/d42/a14334.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "dd/d42/a14334.html#aa3aedfe4c546842e64f5358a19614659", null ]
 ];

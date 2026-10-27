@@ -1,6 +1,6 @@
 var a12194 =
 [
-    [ "cooldown", "d9/d3d/a12194.html#affc13f6cd029447df6cb1db56df42147", null ],
-    [ "playerOnly", "d9/d3d/a12194.html#a183ae9fd6863cbc9afe1f690c87f54e2", null ],
-    [ "triggerChance", "d9/d3d/a12194.html#a3430fbb945b281cb5c2820130d4444a8", null ]
+    [ "EffectUpdatePeriodicHandler", "d9/d3d/a12194.html#a6b18a259aa84c847bcc064c5243eb590", null ],
+    [ "Call", "d9/d3d/a12194.html#a38802863e7859453cbbe58ad91018c67", null ],
+    [ "pEffectHandlerScript", "d9/d3d/a12194.html#a0e51245e089fcd9532d5789056ab944c", null ]
 ];

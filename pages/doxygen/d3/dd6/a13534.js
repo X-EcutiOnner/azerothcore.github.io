@@ -1,7 +1,7 @@
 var a13534 =
 [
-    [ "HandleScript", "d3/dd6/a13534.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
-    [ "PrepareSpellScript", "d3/dd6/a13534.html#a034195e58f02225c172b70c3967fe3ad", null ],
-    [ "Register", "d3/dd6/a13534.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
-    [ "Validate", "d3/dd6/a13534.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
+    [ "HandleDummy", "d3/dd6/a13534.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
+    [ "PrepareSpellScript", "d3/dd6/a13534.html#a5738144c85424e11f33aada38273e24e", null ],
+    [ "Register", "d3/dd6/a13534.html#a206a4d40e082246193ba36c9080cdac1", null ],
+    [ "Validate", "d3/dd6/a13534.html#a0718461731d563d2c948848f60101d49", null ]
 ];

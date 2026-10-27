@@ -1,6 +1,6 @@
 var a11362 =
 [
-    [ "ItemRefundInfo", "d0/d60/a11362.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
-    [ "Read", "d0/d60/a11362.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
-    [ "ItemGuid", "d0/d60/a11362.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
+    [ "SetDungeonDifficultyClient", "d0/d60/a11362.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
+    [ "Read", "d0/d60/a11362.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
+    [ "Mode", "d0/d60/a11362.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
 ];

@@ -1,5 +1,6 @@
 var a24446 =
 [
-    [ "npc_pet_pri_lightwell", "dc/d8e/a24446.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "dc/d8e/a24446.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "npc_enraged_spiritAI", "d8/d7f/a24450.html", "d8/d7f/a24450" ],
+    [ "npc_enraged_spirit", "dc/d8e/a24446.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "dc/d8e/a24446.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

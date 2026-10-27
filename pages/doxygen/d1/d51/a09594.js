@@ -1,9 +1,15 @@
 var a09594 =
 [
-    [ "VisibleChangesNotifier", "d1/d51/a09594.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
-    [ "Visit", "d1/d51/a09594.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
-    [ "Visit", "d1/d51/a09594.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
-    [ "Visit", "d1/d51/a09594.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
-    [ "Visit", "d1/d51/a09594.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
-    [ "i_object", "d1/d51/a09594.html#a496b982d081957cfc288f29b99b8739d", null ]
+    [ "CoordPair", "d1/d51/a09594.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
+    [ "CoordPair", "d1/d51/a09594.html#aa3b39d5ce384201907e01f95b6866b6e", null ],
+    [ "dec_x", "d1/d51/a09594.html#a69be5b72b710722120104f0c502fbb70", null ],
+    [ "dec_y", "d1/d51/a09594.html#aefa33f8766212bb71e5fd19a318142cc", null ],
+    [ "GetId", "d1/d51/a09594.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
+    [ "inc_x", "d1/d51/a09594.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
+    [ "inc_y", "d1/d51/a09594.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
+    [ "IsCoordValid", "d1/d51/a09594.html#a082960c54e2077df370f891c0534b44f", null ],
+    [ "normalize", "d1/d51/a09594.html#afac8086374bfc499e3a8d74d6afc58db", null ],
+    [ "operator=", "d1/d51/a09594.html#a68bbf6afd1600e9dd0c31a9c7ff38077", null ],
+    [ "x_coord", "d1/d51/a09594.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
+    [ "y_coord", "d1/d51/a09594.html#aacae12844cc0c0d70e26b137ad28f700", null ]
 ];

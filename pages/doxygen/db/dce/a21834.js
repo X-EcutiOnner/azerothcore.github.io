@@ -1,6 +1,7 @@
 var a21834 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "d3/d3e/a21838.html", "d3/d3e/a21838" ],
-    [ "npc_q24545_wretched_ghoul", "db/dce/a21834.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "db/dce/a21834.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "HandleScriptEffect", "db/dce/a21834.html#adc89459d7b6c073b8a60e08a9e3281cf", null ],
+    [ "PrepareSpellScript", "db/dce/a21834.html#a8f15bf27d9e54c1ee6c84f99f1f83d48", null ],
+    [ "Register", "db/dce/a21834.html#a86ef787e1db46e578a10ca25ac84ba87", null ],
+    [ "Validate", "db/dce/a21834.html#abeb8baf7dabf2d3acea4df79535770d2", null ]
 ];

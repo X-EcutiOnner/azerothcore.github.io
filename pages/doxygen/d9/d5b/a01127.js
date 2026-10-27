@@ -303,7 +303,7 @@ var a01127 =
     [ "UlduarPersistentData", "d9/d5b/a01127.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7", [
       [ "PERSISTENT_DATA_WATCHERS_MASK", "d9/d5b/a01127.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ab86bd79b912a9756639960ba251cb388", null ],
       [ "PERSISTENT_DATA_CONSPEEDATORY", "d9/d5b/a01127.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a2f4bad90049534d435ac9d2d9b495761", null ],
-      [ "PERSISTENT_DATA_UNBROKEN", "d9/d5b/a01127.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a7a41941dcd32555baa2d07915cd689fe", null ],
+      [ "PERSISTENT_DATA_UNBROKEN_FAIL", "d9/d5b/a01127.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a47c0a35a4f4e05c3e52dc23ef00fc430", null ],
       [ "PERSISTENT_DATA_ALGALON_TIMER", "d9/d5b/a01127.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7aa1d994044e6428793c48b48a5eeb04de", null ],
       [ "PERSISTENT_DATA_C_OF_ULDUAR_MASK", "d9/d5b/a01127.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7acb2638bb40b78607b204fefd94f870cb", null ],
       [ "PERSISTENT_DATA_MAGE_BARRIER", "d9/d5b/a01127.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ae4fa74b63b7b02c1327ad0ba02048289", null ],

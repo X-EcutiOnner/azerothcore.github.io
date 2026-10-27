@@ -1,7 +1,7 @@
 var a27702 =
 [
-    [ "HandleDummy", "d9/dcc/a27702.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
-    [ "PrepareSpellScript", "d9/dcc/a27702.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
-    [ "Register", "d9/dcc/a27702.html#aee02661fa8845afd666ca27163b4a761", null ],
-    [ "Validate", "d9/dcc/a27702.html#aba9079e2418281315029c839b22df1c5", null ]
+    [ "HandleDispel", "d9/dcc/a27702.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
+    [ "PrepareAuraScript", "d9/dcc/a27702.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
+    [ "Register", "d9/dcc/a27702.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
+    [ "Validate", "d9/dcc/a27702.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
 ];

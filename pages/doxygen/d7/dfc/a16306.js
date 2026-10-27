@@ -1,11 +1,7 @@
 var a16306 =
 [
-    [ "boss_amanitar", "d7/dfc/a16306.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "d7/dfc/a16306.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "d7/dfc/a16306.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "d7/dfc/a16306.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "d7/dfc/a16306.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "d7/dfc/a16306.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "d7/dfc/a16306.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "d7/dfc/a16306.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "npc_paoka_swiftmountainAI", "d6/d76/a16310.html", "d6/d76/a16310" ],
+    [ "npc_paoka_swiftmountain", "d7/dfc/a16306.html#abb3f6fab7cca158c2e139159430f880a", null ],
+    [ "GetAI", "d7/dfc/a16306.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
+    [ "OnQuestAccept", "d7/dfc/a16306.html#a3340cca58bdad2f5681725f9ba3b6bfd", null ]
 ];

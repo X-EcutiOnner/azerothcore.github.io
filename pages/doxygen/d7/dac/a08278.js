@@ -1,5 +1,6 @@
 var a08278 =
 [
-    [ "flags", "d7/dac/a08278.html#ac55cea8114883b0000fb9fd195910f65", null ],
-    [ "params", "d7/dac/a08278.html#a5426d7accbe5734016fed99e632ea313", null ]
+    [ "value_type", "d7/dac/a08278.html#abd675e353289166cc5c92524915d46af", null ],
+    [ "StoreTo", "d7/dac/a08278.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f", null ],
+    [ "tag", "d7/dac/a08278.html#a102ade7c095fcac914b95708958352f1", null ]
 ];

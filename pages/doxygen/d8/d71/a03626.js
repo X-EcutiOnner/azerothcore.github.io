@@ -1,7 +1,7 @@
 var a03626 =
 [
-    [ "rbac::RBACPermission", "d0/dde/a06373.html", "d0/dde/a06373" ],
-    [ "rbac::RBACData", "d1/df4/a06377.html", "d1/df4/a06377" ],
+    [ "rbac::RBACPermission", "d1/d03/a06386.html", "d1/d03/a06386" ],
+    [ "rbac::RBACData", "d9/d71/a06390.html", "d9/d71/a06390" ],
     [ "RBACPermissionContainer", "d8/d71/a03626.html#af0c998db2902079aaa8ce1c4939335a7", null ],
     [ "RBACCommandResult", "d8/d71/a03626.html#ad98ed22d3c49d77a33cc774e4a2e1b55", [
       [ "RBAC_OK", "d8/d71/a03626.html#ad98ed22d3c49d77a33cc774e4a2e1b55a2239af138da21b5bd0d06b9aa1cc122f", null ],

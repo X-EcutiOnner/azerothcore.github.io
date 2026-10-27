@@ -1,7 +1,7 @@
 var a22518 =
 [
-    [ "OutdoorPvPGH", "d9/d53/a22518.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "HandleKill", "d9/d53/a22518.html#a78cf572faf727c302f9be496d91004e0", null ],
-    [ "SendRemoveWorldStates", "d9/d53/a22518.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "d9/d53/a22518.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "HandleOnEffectHit", "d9/d53/a22518.html#a909ec44339061a114697cacee5fba5b2", null ],
+    [ "PrepareSpellScript", "d9/d53/a22518.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
+    [ "Register", "d9/d53/a22518.html#aa241c97b4e895d07fe89d03edca29912", null ],
+    [ "Validate", "d9/d53/a22518.html#aa84f4c29ca00789bb47661267549cda6", null ]
 ];

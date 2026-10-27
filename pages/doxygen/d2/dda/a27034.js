@@ -1,6 +1,9 @@
 var a27034 =
 [
-    [ "HandleScriptEffect", "d2/dda/a27034.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
-    [ "PrepareSpellScript", "d2/dda/a27034.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
-    [ "Register", "d2/dda/a27034.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
+    [ "spell_pal_improved_aura_effect", "d2/dda/a27034.html#a8b413208ee8842e844e4129725e8c99e", null ],
+    [ "CheckAreaTarget", "d2/dda/a27034.html#a0e61a579344eb8e91d0dd58554fc6ecb", null ],
+    [ "PrepareAuraScript", "d2/dda/a27034.html#a1aa9d9c753032febf7cc86ce53ad2a99", null ],
+    [ "Register", "d2/dda/a27034.html#acd92f952c3aeede5c7131fb84aa6334d", null ],
+    [ "Validate", "d2/dda/a27034.html#a553e45e2963e915fb5a2e123160af83a", null ],
+    [ "_auraSpellId", "d2/dda/a27034.html#a960fabe394cdf4666b637a7d65b90645", null ]
 ];

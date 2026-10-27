@@ -1,19 +1,17 @@
 var a07642 =
 [
-    [ "ArenaSeasonRewardGroupsBySeasonContainer", "d6/da6/a07642.html#a510f51e8cd7ad494dc2f0dd25640e924", null ],
-    [ "BroadcastUpdatedWorldState", "d6/da6/a07642.html#ae40b9d3ff73604045d1d7f6c59487f95", null ],
-    [ "CanDeleteArenaTeams", "d6/da6/a07642.html#a6d2302f89f8756d7ceaf210cdabea9e8", null ],
-    [ "ChangeCurrentSeason", "d6/da6/a07642.html#a05f9e4be327f8ecb65729cec2d811851", null ],
-    [ "DeleteArenaTeams", "d6/da6/a07642.html#ad28595c2f09c2cecd46ba8811374ae21", null ],
-    [ "GameEventForArenaSeason", "d6/da6/a07642.html#a3bef72c5136e9920f8b4e0438f3f1628", null ],
-    [ "GetCurrentSeason", "d6/da6/a07642.html#ae07db874a46e7d1cc8c60105635bbdf0", null ],
-    [ "GetSeasonState", "d6/da6/a07642.html#abff2ff6a3e08f37b00405f5f688cb08d", null ],
-    [ "instance", "d6/da6/a07642.html#ad9299d5394ee20830fe9aca038575ce0", null ],
-    [ "LoadActiveSeason", "d6/da6/a07642.html#a81c47f17e571dd5ba2c2617bdef09694", null ],
-    [ "LoadRewards", "d6/da6/a07642.html#a495f7d12cbe5a4bfb09a9a6de45c17e1", null ],
-    [ "RewardTeamsForTheSeason", "d6/da6/a07642.html#a4c1069779f69aa3eae885540fa2b31e6", null ],
-    [ "SetSeasonState", "d6/da6/a07642.html#a118910793bb11fba35b0cd6b28e248a8", null ],
-    [ "_arenaSeasonRewardGroupsStore", "d6/da6/a07642.html#a90d508c6ffb7c7277d0e6c6f27bafc33", null ],
-    [ "_currentSeason", "d6/da6/a07642.html#a168a36d3ae1818f22acfb168e932c10c", null ],
-    [ "_currentSeasonState", "d6/da6/a07642.html#af73eb610ed7b0e908c206aac14f2c452", null ]
+    [ "BfGraveyard", "d6/da6/a07642.html#a47eb2f535fdce943de03d8daca7f0fd8", null ],
+    [ "~BfGraveyard", "d6/da6/a07642.html#a18171fd6fbfe7529bb61fd444e762f36", null ],
+    [ "GetControlTeamId", "d6/da6/a07642.html#ac417eb4b9ff8f7c6f19e2148eb81131c", null ],
+    [ "GetDistance", "d6/da6/a07642.html#ae290db2a83278c27803d62267aebfb71", null ],
+    [ "GetGraveyardId", "d6/da6/a07642.html#ac7944db0403c37282ca90550f8ca4118", null ],
+    [ "GetSpiritGuide", "d6/da6/a07642.html#a30536791ab71cc2a0a73cdf0993ca2d3", null ],
+    [ "GiveControlTo", "d6/da6/a07642.html#a9fe22d9ebbe1b652322b9a8e5f18ee91", null ],
+    [ "HasNpc", "d6/da6/a07642.html#a5f02be27972ae3f9aa8213ddb8c8b8d2", null ],
+    [ "Initialize", "d6/da6/a07642.html#a348c0a492efab96df8855f94969c7300", null ],
+    [ "SetSpirit", "d6/da6/a07642.html#ab4385a55321e8cf90e91bd10a04f1ddf", null ],
+    [ "Bf", "d6/da6/a07642.html#a30abf6abb0dc36c9376f6f405a0a9f4e", null ],
+    [ "ControlTeam", "d6/da6/a07642.html#a4d97eae10ede29d7e617b237e2c3fe20", null ],
+    [ "GraveyardId", "d6/da6/a07642.html#a06d1c713e7180a9b4c32882835122212", null ],
+    [ "SpiritGuide", "d6/da6/a07642.html#a528a36fbd481cb5173d742ac125a2f62", null ]
 ];

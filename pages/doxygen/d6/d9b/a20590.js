@@ -1,6 +1,7 @@
 var a20590 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "d6/d9b/a20590.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "d6/d9b/a20590.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "d6/d9b/a20590.html#ad863666aec3db81f73165148ffc98033", null ]
+    [ "npc_ulduar_icicle", "d6/d9b/a20590.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
+    [ "UpdateAI", "d6/d9b/a20590.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
+    [ "timer1", "d6/d9b/a20590.html#ae277d302131abd17cef018872b12da06", null ],
+    [ "timer2", "d6/d9b/a20590.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
 ];

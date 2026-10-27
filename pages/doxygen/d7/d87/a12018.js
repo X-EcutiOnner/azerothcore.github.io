@@ -1,7 +1,4 @@
 var a12018 =
 [
-    [ "EffectNameCheck", "d7/d87/a12018.html#aa82307388bdda7864bb085a349b63f29", null ],
-    [ "Check", "d7/d87/a12018.html#a729d7f07669dedec50f009a87b8f32a4", null ],
-    [ "ToString", "d7/d87/a12018.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
-    [ "effName", "d7/d87/a12018.html#a905224fb028ea0eab350773b7230f871", null ]
+    [ "AddSpellMod", "d7/d87/a12018.html#a1c14e27dd094be2fccff3d74a1414a80", null ]
 ];

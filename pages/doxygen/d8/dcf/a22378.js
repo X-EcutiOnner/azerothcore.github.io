@@ -1,8 +1,6 @@
 var a22378 =
 [
-    [ "npc_wg_queueAI", "db/d65/a22382.html", "db/d65/a22382" ],
-    [ "npc_wg_queue", "d8/dcf/a22378.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "d8/dcf/a22378.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "d8/dcf/a22378.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "d8/dcf/a22378.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "npc_still_at_it_triggerAI", "db/d65/a22382.html", "db/d65/a22382" ],
+    [ "npc_still_at_it_trigger", "d8/dcf/a22378.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "d8/dcf/a22378.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

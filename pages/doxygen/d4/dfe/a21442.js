@@ -1,11 +1,13 @@
 var a21442 =
 [
-    [ "boss_cyanigosa", "d4/dfe/a21442.html#af85a0c366de8785cd89d14f7990bfb54", null ],
-    [ "EnterEvadeMode", "d4/dfe/a21442.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
-    [ "ExecuteEvent", "d4/dfe/a21442.html#a694dda590c17a03534f8744838ac3176", null ],
-    [ "JustDied", "d4/dfe/a21442.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
-    [ "JustEngagedWith", "d4/dfe/a21442.html#a2432aa3610747c52f6ec3de1def55f18", null ],
-    [ "KilledUnit", "d4/dfe/a21442.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
-    [ "MoveInLineOfSight", "d4/dfe/a21442.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
-    [ "SpellHitTarget", "d4/dfe/a21442.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
+    [ "npc_frenzied_worgenAI", "d4/dfe/a21442.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
+    [ "DoAction", "d4/dfe/a21442.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
+    [ "JustDied", "d4/dfe/a21442.html#a33b723baef468ef79e67aaadba1b2691", null ],
+    [ "JustEngagedWith", "d4/dfe/a21442.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
+    [ "JustReachedHome", "d4/dfe/a21442.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
+    [ "MoveInLineOfSight", "d4/dfe/a21442.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
+    [ "Reset", "d4/dfe/a21442.html#adccac21b6eff18db096eb79dab4a27a0", null ],
+    [ "UpdateAI", "d4/dfe/a21442.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
+    [ "events", "d4/dfe/a21442.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
+    [ "m_pInstance", "d4/dfe/a21442.html#a425720ce11714b145685f6d9c78a3dc1", null ]
 ];

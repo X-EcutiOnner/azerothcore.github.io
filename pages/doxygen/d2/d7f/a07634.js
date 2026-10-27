@@ -1,7 +1,14 @@
 var a07634 =
 [
-    [ "ArenaSeasonReward", "d2/d7f/a07634.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
-    [ "operator==", "d2/d7f/a07634.html#a22d6afdbc88c47d18dc840d537ae4150", null ],
-    [ "entry", "d2/d7f/a07634.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
-    [ "type", "d2/d7f/a07634.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
+    [ "AutobroadcastsMap", "d2/d7f/a07634.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
+    [ "AutobroadcastsWeightMap", "d2/d7f/a07634.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
+    [ "instance", "d2/d7f/a07634.html#aead196df7f590d43c89f179ca0bd4a68", null ],
+    [ "LoadAutobroadcasts", "d2/d7f/a07634.html#a48748969b122aee47d03697b6e9a2ee1", null ],
+    [ "LoadAutobroadcastsLocalized", "d2/d7f/a07634.html#a105fa2c33da0662785551027430d40c6", null ],
+    [ "SendAutobroadcasts", "d2/d7f/a07634.html#a225907be4944713af11c312185c8aea7", null ],
+    [ "SendNotificationAnnouncement", "d2/d7f/a07634.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
+    [ "SendWorldAnnouncement", "d2/d7f/a07634.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
+    [ "_announceType", "d2/d7f/a07634.html#a3889edc4001e26519d9df042a8b477fc", null ],
+    [ "_autobroadcasts", "d2/d7f/a07634.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
+    [ "_autobroadcastsWeights", "d2/d7f/a07634.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
 ];

@@ -1,8 +1,18 @@
 var a22810 =
 [
-    [ "HandleScriptEffect", "db/d4a/a22810.html#a8e5b81581fff787f691521d03fed66fc", null ],
-    [ "Load", "db/d4a/a22810.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
-    [ "PrepareSpellScript", "db/d4a/a22810.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
-    [ "Register", "db/d4a/a22810.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
-    [ "Validate", "db/d4a/a22810.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
+    [ "OutdoorPvPZM", "db/d4a/a22810.html#a8351867658985b66dd97f39e68c16b94", null ],
+    [ "FillInitialWorldStates", "db/d4a/a22810.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
+    [ "GetAllianceTowersControlled", "db/d4a/a22810.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
+    [ "GetHordeTowersControlled", "db/d4a/a22810.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
+    [ "HandleKillImpl", "db/d4a/a22810.html#a6cd61b99305a2838261e36652fda42b1", null ],
+    [ "HandlePlayerEnterZone", "db/d4a/a22810.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
+    [ "HandlePlayerLeaveZone", "db/d4a/a22810.html#a93105e3229db7798ad882fc7e538b250", null ],
+    [ "SendRemoveWorldStates", "db/d4a/a22810.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
+    [ "SetAllianceTowersControlled", "db/d4a/a22810.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
+    [ "SetHordeTowersControlled", "db/d4a/a22810.html#a27239875476bbce8ff18b30cdfe6815b", null ],
+    [ "SetupOutdoorPvP", "db/d4a/a22810.html#a7e71d2c2480da1a2d155981999201b99", null ],
+    [ "Update", "db/d4a/a22810.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
+    [ "m_AllianceTowersControlled", "db/d4a/a22810.html#aff4124f54572e0812c39562fbc6390c3", null ],
+    [ "m_Graveyard", "db/d4a/a22810.html#a9842f1c5de04af4db3e0397839de7765", null ],
+    [ "m_HordeTowersControlled", "db/d4a/a22810.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
 ];

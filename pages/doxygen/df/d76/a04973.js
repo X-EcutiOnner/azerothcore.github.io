@@ -1,4 +1,4 @@
 var a04973 =
 [
-    [ "EventEmitter< Signature >", "d4/d80/a05873.html", "d4/d80/a05873" ]
+    [ "CircularBuffer< T >", "d1/d9a/a05866.html", "d1/d9a/a05866" ]
 ];

@@ -1,14 +1,6 @@
 var a15330 =
 [
-    [ "boss_captain_skarloc", "d4/d74/a15330.html#a196477160ab6d07dc644ddadf756a1e0", null ],
-    [ "InitializeAI", "d4/d74/a15330.html#a1c67fb99984f666b63f8f79c6783341d", null ],
-    [ "JustDied", "d4/d74/a15330.html#aca0d536010a53efdf9270146f15f9058", null ],
-    [ "JustEngagedWith", "d4/d74/a15330.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
-    [ "JustSummoned", "d4/d74/a15330.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
-    [ "KilledUnit", "d4/d74/a15330.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
-    [ "MovementInform", "d4/d74/a15330.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
-    [ "Reset", "d4/d74/a15330.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
-    [ "UpdateAI", "d4/d74/a15330.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
-    [ "_spawnedAdds", "d4/d74/a15330.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
-    [ "summons", "d4/d74/a15330.html#a83a9e5971411de1c136cbad91f73f487", null ]
+    [ "HandleHeal", "d4/d74/a15330.html#a953536a9a393af9472bdd89018449df0", null ],
+    [ "PrepareSpellScript", "d4/d74/a15330.html#a70503fc6042001a860d361f2597b7153", null ],
+    [ "Register", "d4/d74/a15330.html#a383479896e6deb96e50b827370ccfd4d", null ]
 ];

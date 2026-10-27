@@ -1,7 +1,7 @@
 var a27850 =
 [
-    [ "HandleDummy", "dc/d7e/a27850.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "dc/d7e/a27850.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "dc/d7e/a27850.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "dc/d7e/a27850.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "HandleProc", "dc/d7e/a27850.html#a929cf5d75df313a5e119eeb03735640c", null ],
+    [ "PrepareAuraScript", "dc/d7e/a27850.html#aaeacbee6f798f25e467381aa56228355", null ],
+    [ "Register", "dc/d7e/a27850.html#a111fa9ebfc9d9e8f0907635a4ce73bbb", null ],
+    [ "Validate", "dc/d7e/a27850.html#a428e6d1f5e172390986ae8fd85570e21", null ]
 ];

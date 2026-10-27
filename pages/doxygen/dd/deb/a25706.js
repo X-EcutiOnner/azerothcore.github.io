@@ -1,8 +1,6 @@
 var a25706 =
 [
-    [ "HandleFinish", "dd/deb/a25706.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "dd/deb/a25706.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "dd/deb/a25706.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "dd/deb/a25706.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "dd/deb/a25706.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "HandleScript", "dd/deb/a25706.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
+    [ "PrepareSpellScript", "dd/deb/a25706.html#a438c4c1763688210384b24305aeebe52", null ],
+    [ "Register", "dd/deb/a25706.html#a27b25fbbdd912505738728414b79380c", null ]
 ];

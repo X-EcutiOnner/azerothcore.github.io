@@ -1,7 +1,6 @@
 var a15894 =
 [
-    [ "npc_webbed_creatureAI", "d2/dc0/a15894.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
-    [ "JustDied", "d2/dc0/a15894.html#a153d461124ec9266ffcac147a217f6d9", null ],
-    [ "JustEngagedWith", "d2/dc0/a15894.html#ac52ad6512bcaee35932f856abdac80d4", null ],
-    [ "Reset", "d2/dc0/a15894.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
+    [ "HandleDummy", "d2/dc0/a15894.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
+    [ "PrepareSpellScript", "d2/dc0/a15894.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
+    [ "Register", "d2/dc0/a15894.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
 ];

@@ -1,6 +1,6 @@
 var a04487 =
 [
-    [ "SpellProcChargeTest", "d3/d6d/a30153.html", "d3/d6d/a30153" ],
+    [ "SpellProcChargeTest", "d3/d6e/a30190.html", "d3/d6e/a30190" ],
     [ "TEST_F", "d8/dc4/a04487.html#af6b7ce5004d831afafdd960e76b497b9", null ],
     [ "TEST_F", "d8/dc4/a04487.html#a6aad9923e77ce2183a9bfd5884fe3912", null ],
     [ "TEST_F", "d8/dc4/a04487.html#a7502979bd6cdb7d72f8c6ce5a3e67598", null ],

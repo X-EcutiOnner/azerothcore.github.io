@@ -1,6 +1,6 @@
 var a26334 =
 [
-    [ "HandleStackDrop", "da/de2/a26334.html#a8e452c968558f3bd273b18a8055745d2", null ],
-    [ "PrepareAuraScript", "da/de2/a26334.html#aa18e4975db4e2831c61f38d990886676", null ],
-    [ "Register", "da/de2/a26334.html#a04ebc4be3fea42ca2352fd441841f76e", null ]
+    [ "CheckCast", "da/de2/a26334.html#a5e32bb12dd6a4feedf88b73e18dc57cc", null ],
+    [ "PrepareSpellScript", "da/de2/a26334.html#ae6b0bc8d2a443b805b44f49d79ccc949", null ],
+    [ "Register", "da/de2/a26334.html#a2ef6ded94a244c51ed71315b39e85636", null ]
 ];

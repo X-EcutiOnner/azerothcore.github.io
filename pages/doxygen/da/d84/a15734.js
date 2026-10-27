@@ -1,7 +1,5 @@
 var a15734 =
 [
-    [ "FilterTargets", "da/d84/a15734.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "da/d84/a15734.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "da/d84/a15734.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "da/d84/a15734.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "boss_yauj", "da/d84/a15734.html#a15ab7b6b35d29fb1552b11586163320e", null ],
+    [ "JustEngagedWith", "da/d84/a15734.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
 ];

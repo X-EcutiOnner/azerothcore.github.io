@@ -1,10 +1,7 @@
 var a21582 =
 [
-    [ "npc_jenny", "da/d39/a21582.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "da/d39/a21582.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "da/d39/a21582.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "da/d39/a21582.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "da/d39/a21582.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "da/d39/a21582.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "da/d39/a21582.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "PrepareAuraScript", "da/d39/a21582.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
+    [ "Register", "da/d39/a21582.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
+    [ "TriggerFists", "da/d39/a21582.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
+    [ "Validate", "da/d39/a21582.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
 ];

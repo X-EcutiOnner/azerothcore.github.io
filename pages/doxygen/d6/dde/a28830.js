@@ -1,6 +1,9 @@
 var a28830 =
 [
-    [ "Enchantment", "d6/dde/a28830.html#a480ab806214bb138d56dfd5e9e43936f", null ],
-    [ "ID", "d6/dde/a28830.html#acb673be771124b84dd3fdd5deb300de7", null ],
-    [ "Name", "d6/dde/a28830.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
+    [ "npc_arcanite_dragonling", "d6/dde/a28830.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "d6/dde/a28830.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "d6/dde/a28830.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "d6/dde/a28830.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "d6/dde/a28830.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "d6/dde/a28830.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

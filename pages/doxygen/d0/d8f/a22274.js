@@ -1,9 +1,8 @@
 var a22274 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d0/d8f/a22274.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "d0/d8f/a22274.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "d0/d8f/a22274.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "d0/d8f/a22274.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "d0/d8f/a22274.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "d0/d8f/a22274.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "npc_llod_genericAI", "d0/d8f/a22274.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "d0/d8f/a22274.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "d0/d8f/a22274.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "d0/d8f/a22274.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "d0/d8f/a22274.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

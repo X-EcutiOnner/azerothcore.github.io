@@ -1,6 +1,5 @@
 var a28578 =
 [
-    [ "npc_experience", "d5/d06/a28578.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "d5/d06/a28578.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "d5/d06/a28578.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "item_mysterious_egg", "d5/d06/a28578.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
+    [ "OnExpire", "d5/d06/a28578.html#a5ea72284626826b75819f89b3b91c540", null ]
 ];

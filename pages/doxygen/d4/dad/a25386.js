@@ -1,7 +1,6 @@
 var a25386 =
 [
-    [ "HandleEffectPeriodic", "d4/dad/a25386.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
-    [ "PrepareAuraScript", "d4/dad/a25386.html#affc698127fe0656df25bd094c02a7e50", null ],
-    [ "Register", "d4/dad/a25386.html#a4707bfaeb86b3540920a6772e1726e26", null ],
-    [ "Validate", "d4/dad/a25386.html#aef839f163d7e623a54b163e1c27542cd", null ]
+    [ "HandleScript", "d4/dad/a25386.html#a913c8c461f291ccaad2f48614c0146c6", null ],
+    [ "PrepareSpellScript", "d4/dad/a25386.html#a18913a7455cf3f158136f2d3bb415779", null ],
+    [ "Register", "d4/dad/a25386.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
 ];

@@ -1,6 +1,7 @@
 var a24034 =
 [
-    [ "npc_ancestral_wolfAI", "d2/da5/a24038.html", "d2/da5/a24038" ],
-    [ "npc_ancestral_wolf", "d1/d37/a24034.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "d1/d37/a24034.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "OnApply", "d1/d37/a24034.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "d1/d37/a24034.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "d1/d37/a24034.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "d1/d37/a24034.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

@@ -1,11 +1,7 @@
 var a13310 =
 [
-    [ "npc_kilrek", "db/d65/a13310.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
-    [ "JustDied", "db/d65/a13310.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
-    [ "JustEngagedWith", "db/d65/a13310.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
-    [ "Reset", "db/d65/a13310.html#ae0b375abe5ec909cfaff96c257da0325", null ],
-    [ "UpdateAI", "db/d65/a13310.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
-    [ "_scheduler", "db/d65/a13310.html#a93663ee806385f617e81a03062dd94d6", null ],
-    [ "instance", "db/d65/a13310.html#a13b969fa86ef57f9508117a73252a36b", null ],
-    [ "TerestianGUID", "db/d65/a13310.html#a411476da379bf687cd007e25ba11280e", null ]
+    [ "boss_maiden_of_virtue", "db/d65/a13310.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "db/d65/a13310.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "db/d65/a13310.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "db/d65/a13310.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

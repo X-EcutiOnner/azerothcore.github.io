@@ -1,5 +1,6 @@
 var a28706 =
 [
-    [ "go_transport_the_iron_eagle", "df/d6d/a28706.html#aba17edc2e3ac8e1b9996116c6f9bdc6f", null ],
-    [ "EventInform", "df/d6d/a28706.html#af1970d07730ab0e5f688200289f48b69", null ]
+    [ "npc_air_force_botsAI", "d1/da0/a28710.html", "d1/da0/a28710" ],
+    [ "npc_air_force_bots", "df/d6d/a28706.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "df/d6d/a28706.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

@@ -1,16 +1,7 @@
 var a22090 =
 [
-    [ "npc_tirions_gambit_tirionAI", "db/d79/a22090.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
-    [ "DoAction", "db/d79/a22090.html#a495e0762614020ef6d7b741447099326", null ],
-    [ "DoSummonAction", "db/d79/a22090.html#a891b31661705ed4df634059e6165d499", null ],
-    [ "JustSummoned", "db/d79/a22090.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
-    [ "Reset", "db/d79/a22090.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
-    [ "SetData", "db/d79/a22090.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
-    [ "SummonedCreatureDespawn", "db/d79/a22090.html#aca05fee85997dffba6ec998b144b9495", null ],
-    [ "UpdateEscortAI", "db/d79/a22090.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
-    [ "WaypointReached", "db/d79/a22090.html#af5fd69b799c6227dba901f434e30c434", null ],
-    [ "WaypointReached", "db/d79/a22090.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_eventOver", "db/d79/a22090.html#ac3505c2a8d55afa351543def3e8839de", null ],
-    [ "events", "db/d79/a22090.html#a711c55c26187ae695644b770a358766e", null ],
-    [ "summons", "db/d79/a22090.html#af574a4b136ff42c597e30c83e4d463ca", null ]
+    [ "OnRemove", "db/d79/a22090.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "db/d79/a22090.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "db/d79/a22090.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "db/d79/a22090.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

@@ -1,10 +1,6 @@
 var a17162 =
 [
-    [ "boss_dredAI", "d3/d94/a17162.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "d3/d94/a17162.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "d3/d94/a17162.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "d3/d94/a17162.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "ScheduleTasks", "d3/d94/a17162.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
-    [ "SetData", "d3/d94/a17162.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "_raptorCount", "d3/d94/a17162.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "npc_snobold_vassalAI", "da/d20/a17166.html", "da/d20/a17166" ],
+    [ "npc_snobold_vassal", "d3/d94/a17162.html#a243cefbc15931ebbb555936d54583314", null ],
+    [ "GetAI", "d3/d94/a17162.html#a77976a59f600591454fac197ded613ef", null ]
 ];

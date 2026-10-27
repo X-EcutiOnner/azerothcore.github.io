@@ -1,10 +1,25 @@
 var a10070 =
 [
-    [ "const_iterator", "df/d2c/a10070.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
-    [ "StorageType", "df/d2c/a10070.html#a6825a379d1af4254b920c14ab0068e7b", null ],
-    [ "BossBoundaryData", "df/d2c/a10070.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
-    [ "~BossBoundaryData", "df/d2c/a10070.html#a446a3ec16cdce76058761fce972f1e57", null ],
-    [ "begin", "df/d2c/a10070.html#a326930360d22d5fdf9a895991f2c4e49", null ],
-    [ "end", "df/d2c/a10070.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
-    [ "_data", "df/d2c/a10070.html#af60e90664c434a8d36115ca5dec889b5", null ]
+    [ "RankInfo", "df/d2c/a10070.html#a4b97f6372e87ab4061748cc58bd00096", null ],
+    [ "RankInfo", "df/d2c/a10070.html#a02c7283862334b5133f5971cee5da927", null ],
+    [ "RankInfo", "df/d2c/a10070.html#aaacf8ce1bfa6429cb5980d74f076cbd3", null ],
+    [ "CreateMissingTabsIfNeeded", "df/d2c/a10070.html#a17e8ee39681804bac73a2c699b470c37", null ],
+    [ "GetBankMoneyPerDay", "df/d2c/a10070.html#adb568b8ad70d0b42d834af5e2bf528d2", null ],
+    [ "GetBankTabRights", "df/d2c/a10070.html#a5be65cec8e2e82c027ef4062ea63c1f1", null ],
+    [ "GetBankTabSlotsPerDay", "df/d2c/a10070.html#a7cc652b0170a7f786a5a0263b4251d2d", null ],
+    [ "GetId", "df/d2c/a10070.html#a1a99822f0c886d59ac57b6eb73ff2b42", null ],
+    [ "GetName", "df/d2c/a10070.html#a3cfcabc23d610dd6130333edcd482485", null ],
+    [ "GetRights", "df/d2c/a10070.html#a59565228481689cdc073e7120a6de9f3", null ],
+    [ "LoadFromDB", "df/d2c/a10070.html#ae9f8001f2546582256b7d916d4f2b1d6", null ],
+    [ "SaveToDB", "df/d2c/a10070.html#a9fb87796b8e18ed9dd2fee53844c243f", null ],
+    [ "SetBankMoneyPerDay", "df/d2c/a10070.html#a1c553e020fe7d79564ddfc3aa74bbfae", null ],
+    [ "SetBankTabSlotsAndRights", "df/d2c/a10070.html#a9f1c622c8af7a8f7f9af027eb01b9dc6", null ],
+    [ "SetName", "df/d2c/a10070.html#a30e276b031dc1e279cfbf38aa1c9b851", null ],
+    [ "SetRights", "df/d2c/a10070.html#a8b46f3a8f91cd3a187e00d37a6ddd419", null ],
+    [ "m_bankMoneyPerDay", "df/d2c/a10070.html#a715985e1b8e8e2aa2d0b48877ae37e8f", null ],
+    [ "m_bankTabRightsAndSlots", "df/d2c/a10070.html#aeb209d1e53f55b5b48bcd00979014eb8", null ],
+    [ "m_guildId", "df/d2c/a10070.html#a86f162bdf86255f89666e20f44d114a0", null ],
+    [ "m_name", "df/d2c/a10070.html#a96281f4a307ca7657a3ba9f04c9331c3", null ],
+    [ "m_rankId", "df/d2c/a10070.html#ad7ff7ee31212be87b5cb580edef3cc16", null ],
+    [ "m_rights", "df/d2c/a10070.html#a058febd98eb3d116acbe1bc0d04a983c", null ]
 ];

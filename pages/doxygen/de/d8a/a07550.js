@@ -1,15 +1,16 @@
 var a07550 =
 [
-    [ "AuctionHouseSearcher", "de/d8a/a07550.html#adee77153a7b9efeac149e6c951082986", null ],
-    [ "~AuctionHouseSearcher", "de/d8a/a07550.html#a84842935539c5ef8b02815cc8697e568", null ],
-    [ "AddAuction", "de/d8a/a07550.html#a09e01dd8840a50f6b6dd5f70ad9ec10c", null ],
-    [ "NotifyAllWorkers", "de/d8a/a07550.html#a443577cfba0af003e7e0e8834474a6c1", null ],
-    [ "NotifyOneWorker", "de/d8a/a07550.html#a1b70b786bf6e57d9d9cae8f34f0d779b", null ],
-    [ "QueueSearchRequest", "de/d8a/a07550.html#a53caf3298638d325a8b9e97584296ad3", null ],
-    [ "RemoveAuction", "de/d8a/a07550.html#a145da4d009d9814a4e76fae0d02f33e4", null ],
-    [ "Update", "de/d8a/a07550.html#ac8c7b88346dc99bed5fe8d0efb28eebb", null ],
-    [ "UpdateBid", "de/d8a/a07550.html#a7bb50e3e903c73a83469e7323917d40d", null ],
-    [ "_requestQueue", "de/d8a/a07550.html#ac221abeb9a760c90d6110310970e6463", null ],
-    [ "_responseQueue", "de/d8a/a07550.html#a772e65025ae498b8837222ae98f49c28", null ],
-    [ "_workerThreads", "de/d8a/a07550.html#aa1cedd8cb22b840599b97bf7c7df0949", null ]
+    [ "AuctionEntryMap", "de/d8a/a07550.html#ab05cddc8805f4f6745a620aaf78490e6", null ],
+    [ "AuctionHouseObject", "de/d8a/a07550.html#ae980b3dc0cb776fa77810d488c0144aa", null ],
+    [ "~AuctionHouseObject", "de/d8a/a07550.html#abc1f401b8f18c6d5003fa337ed1e76bc", null ],
+    [ "AddAuction", "de/d8a/a07550.html#a9c61fcf5d92ad6cea5af36b1bd5cff5b", null ],
+    [ "GetAuction", "de/d8a/a07550.html#a8f549a3623e3f1c3b0b3a21dfdc24d85", null ],
+    [ "GetAuctions", "de/d8a/a07550.html#ac22a84a7e3f2c6baf5e40a1a43bbf098", null ],
+    [ "GetAuctionsBegin", "de/d8a/a07550.html#ae769fbe419c78c580fc0c6d6b91a6e28", null ],
+    [ "GetAuctionsEnd", "de/d8a/a07550.html#a9526b361608b03716918540116bc6d4d", null ],
+    [ "Getcount", "de/d8a/a07550.html#a49aa833a0d8fd698f116ebdf2544040f", null ],
+    [ "RemoveAuction", "de/d8a/a07550.html#af760e3c74242ab2bbc0cfb03a9224aff", null ],
+    [ "Update", "de/d8a/a07550.html#ae9a2bed6b57af310230134cdf2cfd46a", null ],
+    [ "_auctionsMap", "de/d8a/a07550.html#a92e8694ba6d22e26bedb19b2d0619a9f", null ],
+    [ "_next", "de/d8a/a07550.html#aa8780a803119c4350d367f39daff32a1", null ]
 ];

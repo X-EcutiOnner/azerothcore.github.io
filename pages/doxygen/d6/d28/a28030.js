@@ -1,8 +1,7 @@
 var a28030 =
 [
-    [ "CharacterActionIpLogger", "d6/d28/a28030.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d6/d28/a28030.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d6/d28/a28030.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d6/d28/a28030.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d6/d28/a28030.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "HandleProc", "d6/d28/a28030.html#a5046d3b14fcf4260da937032c043fe42", null ],
+    [ "PrepareAuraScript", "d6/d28/a28030.html#abcc31343fd53057e8116b47dd56033c1", null ],
+    [ "Register", "d6/d28/a28030.html#a9a04291ffb75010ccaa46801d06e2080", null ],
+    [ "Validate", "d6/d28/a28030.html#a13ecea64673f78b4b384a411a7aa8ca7", null ]
 ];

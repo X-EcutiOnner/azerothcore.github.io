@@ -1,6 +1,7 @@
 var a22166 =
 [
-    [ "HandleHealPct", "da/dde/a22166.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "da/dde/a22166.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "da/dde/a22166.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "HandleDummy", "da/dde/a22166.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
+    [ "PrepareSpellScript", "da/dde/a22166.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
+    [ "Register", "da/dde/a22166.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
+    [ "Validate", "da/dde/a22166.html#aeec15705a41ad2ac0e59d90086591d96", null ]
 ];

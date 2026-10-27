@@ -1,10 +1,12 @@
 var a22822 =
 [
-    [ "boss_illidari_council", "da/daf/a22822.html#a078c36be39b377f6d1cdbf061d70270d", null ],
-    [ "AttackStart", "da/daf/a22822.html#a260b15ec58164f17543aa044a89875a8", null ],
-    [ "DamageTaken", "da/daf/a22822.html#af8e88c307efaba392cc2a1d2f3862078", null ],
-    [ "DoAction", "da/daf/a22822.html#a6c3c57523ed2775ba553af1171b46463", null ],
-    [ "EnterEvadeMode", "da/daf/a22822.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
-    [ "MoveInLineOfSight", "da/daf/a22822.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
-    [ "UpdateAI", "da/daf/a22822.html#a8b30df956aa4ce1727756f1d19e151be", null ]
+    [ "boss_shirrak_the_dead_watcher", "da/daf/a22822.html#aaa6826de3b6563342b89544b38386d93", null ],
+    [ "EnterEvadeMode", "da/daf/a22822.html#a23768629c4ab48954880c3c29099f432", null ],
+    [ "getStackCount", "da/daf/a22822.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
+    [ "JustEngagedWith", "da/daf/a22822.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
+    [ "JustSummoned", "da/daf/a22822.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
+    [ "Reset", "da/daf/a22822.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
+    [ "SpellHitTarget", "da/daf/a22822.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
+    [ "UpdateAI", "da/daf/a22822.html#a855505f949f53f979187abcb5b2f617f", null ],
+    [ "focusGUID", "da/daf/a22822.html#a81a7eade42ef595c173d7828ce59ef88", null ]
 ];

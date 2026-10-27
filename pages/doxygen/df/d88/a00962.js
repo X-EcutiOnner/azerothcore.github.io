@@ -1,7 +1,7 @@
 var a00962 =
 [
-    [ "boss_zuramat", "d7/d0f/a21641.html", "d7/d0f/a21641" ],
-    [ "npc_vh_void_sentry", "d8/d35/a21645.html", "d8/d35/a21645" ],
+    [ "boss_zuramat", "d4/d6c/a21658.html", "d4/d6c/a21658" ],
+    [ "npc_vh_void_sentry", "d7/d50/a21662.html", "d7/d50/a21662" ],
     [ "eCreatures", "df/d88/a00962.html#a59602e8f26d052c0b6f6bdfe896510b8", [
       [ "NPC_KELESETH", "dd/d48/a00995.html#a59602e8f26d052c0b6f6bdfe896510b8a1aa34e102fe5c920939fbbed64fd3bdd", null ],
       [ "NPC_DALRONN", "dd/d48/a00995.html#a59602e8f26d052c0b6f6bdfe896510b8adc8eb044588758e3cfb4ed8c699e483d", null ],

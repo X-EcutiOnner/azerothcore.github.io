@@ -1,6 +1,10 @@
 var a12122 =
 [
-    [ "CheckEffectProcHandler", "dc/d16/a12122.html#ac91e234c2ec9d458a70f501e9b672af0", null ],
-    [ "Call", "dc/d16/a12122.html#aca4c845623e63c38310986b86e312247", null ],
-    [ "_HandlerScript", "dc/d16/a12122.html#a0bb540e91e691b31191983614fa737dc", null ]
+    [ "EffectHook", "dc/d16/a12122.html#a4a197e061d918dfba2bc486f3393b00d", null ],
+    [ "~EffectHook", "dc/d16/a12122.html#aa234f63b530764d12064acbe3f5c9299", null ],
+    [ "CheckEffect", "dc/d16/a12122.html#ae8823c5d649d182f572818bf3db72902", null ],
+    [ "EffIndexToString", "dc/d16/a12122.html#ab818ed274cfd66ecc565b8535b751517", null ],
+    [ "GetAffectedEffectsMask", "dc/d16/a12122.html#a31faa86590e22f5ab3ca518f4df02840", null ],
+    [ "IsEffectAffected", "dc/d16/a12122.html#a697041ffa562bb6fff792beb159c7af2", null ],
+    [ "effIndex", "dc/d16/a12122.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
 ];

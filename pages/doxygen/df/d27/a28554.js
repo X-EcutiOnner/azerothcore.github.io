@@ -1,7 +1,6 @@
 var a28554 =
 [
-    [ "npc_steam_tonkAI", "df/d27/a28554.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "df/d27/a28554.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "df/d27/a28554.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "df/d27/a28554.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "guard_shattrath_scryerAI", "db/d12/a28558.html", "db/d12/a28558" ],
+    [ "guard_shattrath_scryer", "df/d27/a28554.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "df/d27/a28554.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

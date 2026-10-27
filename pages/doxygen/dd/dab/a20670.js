@@ -1,9 +1,5 @@
 var a20670 =
 [
-    [ "OnApply", "dd/dab/a20670.html#aaf6e89fc5d101b1622666a6fe15f20e7", null ],
-    [ "OnRemove", "dd/dab/a20670.html#a9bfdefb3e212cca086dec752687e2b93", null ],
-    [ "OnRemoveSelf", "dd/dab/a20670.html#a3076446d6761263fdb7f973f01be3cf2", null ],
-    [ "PrepareAuraScript", "dd/dab/a20670.html#a685d6c0ffcc258f9d6857242cb28f6a8", null ],
-    [ "Register", "dd/dab/a20670.html#a1369972dfbf969cb39efa88075fc13df", null ],
-    [ "Validate", "dd/dab/a20670.html#ada8c858f70beb71765fd0f796209677b", null ]
+    [ "achievement_getting_cold_in_here", "dd/dab/a20670.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "dd/dab/a20670.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

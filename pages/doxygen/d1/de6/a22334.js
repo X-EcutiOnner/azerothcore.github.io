@@ -1,6 +1,7 @@
 var a22334 =
 [
-    [ "HandleDamage", "d1/de6/a22334.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
-    [ "PrepareSpellScript", "d1/de6/a22334.html#a23b6afe1e35edc4013767b119b8e0218", null ],
-    [ "Register", "d1/de6/a22334.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
+    [ "HandleScriptEffect", "d1/de6/a22334.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "d1/de6/a22334.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "d1/de6/a22334.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "d1/de6/a22334.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

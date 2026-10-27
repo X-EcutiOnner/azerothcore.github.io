@@ -1,7 +1,6 @@
 var a19186 =
 [
-    [ "HandleEvent", "d5/d37/a19186.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
-    [ "PrepareSpellScript", "d5/d37/a19186.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
-    [ "Register", "d5/d37/a19186.html#a96c6a479141f765b9c0f96b5f148a428", null ],
-    [ "Validate", "d5/d37/a19186.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
+    [ "npc_captain_arnathAI", "d8/d3f/a19190.html", "d8/d3f/a19190" ],
+    [ "npc_captain_arnath", "d5/d37/a19186.html#ab96afce64a7714ea84bab932f80c9302", null ],
+    [ "GetAI", "d5/d37/a19186.html#a302ec007389e677011334d78f410207b", null ]
 ];

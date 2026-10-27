@@ -1,9 +1,12 @@
 var a05650 =
 [
-    [ "Count", "db/d53/a05650.html#a05f606f459c905632d1452727bc93a0d", null ],
-    [ "GetElements", "db/d53/a05650.html#a260f2bd14ae022a5810539ba87cec51e", null ],
-    [ "GetElements", "db/d53/a05650.html#ab67e427fb3f82553e2253288e036d1ae", null ],
-    [ "Insert", "db/d53/a05650.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
-    [ "Remove", "db/d53/a05650.html#abfb5e987b1c711d259896708887ca6d7", null ],
-    [ "i_elements", "db/d53/a05650.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
+    [ "RegistryMapType", "db/d53/a05650.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2", null ],
+    [ "ObjectRegistry", "db/d53/a05650.html#aa3bcc30791e82bc900eacf1c5833b7f8", null ],
+    [ "~ObjectRegistry", "db/d53/a05650.html#a2734a0e6001f597b43e006bc9d84a6b1", null ],
+    [ "GetRegisteredItems", "db/d53/a05650.html#aba4a4fcc7ee59afbb4dea6df7410dc02", null ],
+    [ "GetRegistryItem", "db/d53/a05650.html#a474bdff0ab0f0a3db5f914b9dfaa48d1", null ],
+    [ "HasItem", "db/d53/a05650.html#a3c95897734a780c1f299d24a058b3595", null ],
+    [ "InsertItem", "db/d53/a05650.html#a55416824a5dff4138f5d828e352e3d7c", null ],
+    [ "instance", "db/d53/a05650.html#a7a6582a84361d5ad1142f29c9e1d9cb5", null ],
+    [ "_registeredObjects", "db/d53/a05650.html#a61e6a6eb75512241e82092abfeba7a65", null ]
 ];

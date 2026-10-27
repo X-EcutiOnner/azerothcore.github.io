@@ -1,6 +1,6 @@
 var a23206 =
 [
-    [ "HandleDummy", "dd/d29/a23206.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "dd/d29/a23206.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "dd/d29/a23206.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "npc_supremus_punch_invisible_stalker", "dd/d29/a23206.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "dd/d29/a23206.html#a2220bc31f2ef91a154a9a4eae38aa14b", null ],
+    [ "UpdateAI", "dd/d29/a23206.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

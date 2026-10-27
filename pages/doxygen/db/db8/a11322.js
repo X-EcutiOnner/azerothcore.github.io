@@ -1,7 +1,7 @@
 var a11322 =
 [
-    [ "BuybackItem", "db/db8/a11322.html#a05dec559746537669fcf32f52a171b44", null ],
-    [ "Read", "db/db8/a11322.html#aefe27701674c75f8937f72ee418a6692", null ],
-    [ "Slot", "db/db8/a11322.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
-    [ "VendorGuid", "db/db8/a11322.html#a6be9d8d3f564621780e458c4a785b709", null ]
+    [ "GuildBankLogQueryResults", "db/db8/a11322.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "db/db8/a11322.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "db/db8/a11322.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "db/db8/a11322.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

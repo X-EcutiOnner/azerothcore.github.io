@@ -1,6 +1,5 @@
 var a28590 =
 [
-    [ "npc_spring_rabbitAI", "d3/d41/a28594.html", "d3/d41/a28594" ],
-    [ "npc_spring_rabbit", "d3/d88/a28590.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "d3/d88/a28590.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "item_captured_frog", "d3/d88/a28590.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "d3/d88/a28590.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

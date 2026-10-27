@@ -1,11 +1,16 @@
 var a13314 =
 [
-    [ "npc_demon_chain", "d9/d3b/a13314.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
-    [ "AttackStart", "d9/d3b/a13314.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
-    [ "IsSummonedBy", "d9/d3b/a13314.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
-    [ "JustDied", "d9/d3b/a13314.html#a35d1b7de8612f11cdf61b9d663990686", null ],
-    [ "JustEngagedWith", "d9/d3b/a13314.html#a9743ebc31c5159a03889bfd40b09d749", null ],
-    [ "MoveInLineOfSight", "d9/d3b/a13314.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
-    [ "Reset", "d9/d3b/a13314.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
-    [ "sacrificeGUID", "d9/d3b/a13314.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
+    [ "boss_attumen", "d9/d3b/a13314.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
+    [ "DamageTaken", "d9/d3b/a13314.html#a0b426b760d9ace05211c3383e7628022", null ],
+    [ "EnterEvadeMode", "d9/d3b/a13314.html#af00f91294c04d0fe932c922fd270c5dc", null ],
+    [ "Initialize", "d9/d3b/a13314.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
+    [ "IsSummonedBy", "d9/d3b/a13314.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
+    [ "JustDied", "d9/d3b/a13314.html#a375a95d46f8db8a53ea6420dd557855e", null ],
+    [ "JustSummoned", "d9/d3b/a13314.html#af91018e54244864ca4cd1b9d40c569df", null ],
+    [ "KilledUnit", "d9/d3b/a13314.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
+    [ "Reset", "d9/d3b/a13314.html#ab8815ed9b1068e748e43346725cd9281", null ],
+    [ "ScheduleTasks", "d9/d3b/a13314.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
+    [ "SpellHit", "d9/d3b/a13314.html#a1181ae1d50d6c52483b0d90423997c90", null ],
+    [ "UpdateAI", "d9/d3b/a13314.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
+    [ "_phase", "d9/d3b/a13314.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
 ];

@@ -1,10 +1,7 @@
 var a16030 =
 [
-    [ "npc_omenAI", "d3/d47/a16030.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "d3/d47/a16030.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "d3/d47/a16030.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "d3/d47/a16030.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "d3/d47/a16030.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "d3/d47/a16030.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "d3/d47/a16030.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "npc_prospector_remtravelAI", "d5/d77/a16034.html", "d5/d77/a16034" ],
+    [ "npc_prospector_remtravel", "d3/d47/a16030.html#aa213161fc60e615682252125f6c58f7f", null ],
+    [ "GetAI", "d3/d47/a16030.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
+    [ "OnQuestAccept", "d3/d47/a16030.html#a4bc2e5264a7a2184bf8d90b7d4045cc8", null ]
 ];

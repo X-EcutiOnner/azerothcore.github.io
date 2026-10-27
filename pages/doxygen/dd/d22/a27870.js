@@ -1,8 +1,6 @@
 var a27870 =
 [
-    [ "HandleDamage", "dd/d22/a27870.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "dd/d22/a27870.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "dd/d22/a27870.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "dd/d22/a27870.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "dd/d22/a27870.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "HandleAuraApply", "dd/d22/a27870.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "dd/d22/a27870.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "dd/d22/a27870.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

@@ -1,5 +1,5 @@
 var a20682 =
 [
-    [ "go_ulduar_do_not_push_this_button", "de/df0/a20682.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "de/df0/a20682.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "achievement_staying_buffed_all_winter_10", "de/df0/a20682.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
+    [ "OnCheck", "de/df0/a20682.html#a67587b1659a8d026e73b42311148541a", null ]
 ];

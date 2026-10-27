@@ -1,8 +1,5 @@
 var a22654 =
 [
-    [ "npc_anzu_spirit", "da/d9b/a22654.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "da/d9b/a22654.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "da/d9b/a22654.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "da/d9b/a22654.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "da/d9b/a22654.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "achievement_wg_within_our_grasp", "da/d9b/a22654.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "da/d9b/a22654.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

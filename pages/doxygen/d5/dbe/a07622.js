@@ -1,12 +1,7 @@
 var a07622 =
 [
-    [ "Arena", "d5/dbe/a07622.html#a74f105bc709d4728fb07f1984abfd345", null ],
-    [ "AddPlayer", "d5/dbe/a07622.html#ae24fe304d35c0c09379203135e936450", null ],
-    [ "CheckWinConditions", "d5/dbe/a07622.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
-    [ "EndBattleground", "d5/dbe/a07622.html#a2be61602189b530a16a9ca954d180914", null ],
-    [ "FillInitialWorldStates", "d5/dbe/a07622.html#a592100d0f0ed492a5cdf941e57db787f", null ],
-    [ "HandleKillPlayer", "d5/dbe/a07622.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
-    [ "RemovePlayer", "d5/dbe/a07622.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
-    [ "RemovePlayerAtLeave", "d5/dbe/a07622.html#acae21233e11b21b612e5c051bfa7720e", null ],
-    [ "UpdateArenaWorldState", "d5/dbe/a07622.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
+    [ "AuctionSorter", "d5/dbe/a07622.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
+    [ "operator()", "d5/dbe/a07622.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
+    [ "_loc_idx", "d5/dbe/a07622.html#a11708aa660757db95c88d9dc7e9b9521", null ],
+    [ "_sort", "d5/dbe/a07622.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
 ];

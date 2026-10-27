@@ -1,5 +1,6 @@
 var a22542 =
 [
-    [ "outdoorpvp_na_halaa_creatures", "de/dcc/a22542.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
-    [ "UpdateAI", "de/dcc/a22542.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
+    [ "HandleDamage", "de/dcc/a22542.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "de/dcc/a22542.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "de/dcc/a22542.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

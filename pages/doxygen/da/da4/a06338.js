@@ -1,5 +1,11 @@
 var a06338 =
 [
-    [ "Subject", "da/da4/a06338.html#ad9bd686973c6e59518889bd5d9b6a11f", null ],
-    [ "Text", "da/da4/a06338.html#a95f203f9e53a61988a4d2af6ac6820a2", null ]
+    [ "AppenderDB", "da/da4/a06338.html#af8e48076d47a06c73f6b8ae054955a83", null ],
+    [ "~AppenderDB", "da/da4/a06338.html#a7da848083d02833acc632051a2d938bf", null ],
+    [ "_write", "da/da4/a06338.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
+    [ "getType", "da/da4/a06338.html#a96221ceed23435556df03c5f7ffab61e", null ],
+    [ "setRealmId", "da/da4/a06338.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
+    [ "enabled", "da/da4/a06338.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
+    [ "realmId", "da/da4/a06338.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
+    [ "type", "da/da4/a06338.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
 ];

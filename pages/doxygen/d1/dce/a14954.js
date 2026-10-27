@@ -1,9 +1,6 @@
 var a14954 =
 [
-    [ "npc_love_in_air_snivel", "d1/dce/a14954.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
-    [ "AllowAction", "d1/dce/a14954.html#af1097317f62bbb8f8456124001c73576", null ],
-    [ "MoveInLineOfSight", "d1/dce/a14954.html#ae6537707109b95fad20e521d07867cdd", null ],
-    [ "Reset", "d1/dce/a14954.html#a2385ea44d9f44735b193add4a0d0485b", null ],
-    [ "UpdateAI", "d1/dce/a14954.html#a9e712994663e3442359d2f574ebc812c", null ],
-    [ "delay", "d1/dce/a14954.html#a548db6245ef875ec47279246e437934c", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d5/dac/a14958.html", "d5/dac/a14958" ],
+    [ "npc_grizzlemaw_cw_trigger", "d1/dce/a14954.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
+    [ "GetAI", "d1/dce/a14954.html#a1a834bda866033a3cca4fc4ece447313", null ]
 ];

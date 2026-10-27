@@ -1,10 +1,11 @@
 var a13254 =
 [
-    [ "boss_servant_quarters", "db/d70/a13254.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
-    [ "JustDied", "db/d70/a13254.html#a3b9df7ab573f22a9e15761cb662db404", null ],
-    [ "JustEngagedWith", "db/d70/a13254.html#afe4a4a78824851f63ce560a60d55cee3", null ],
-    [ "MovementInform", "db/d70/a13254.html#a00d31d9421903b6a92c03a3bd0382328", null ],
-    [ "Reset", "db/d70/a13254.html#a273a09b1242968a5dd45ab9866fbe481", null ],
-    [ "UpdateAI", "db/d70/a13254.html#a6a41cfd67310077803733190645050e4", null ],
-    [ "_scheduler", "db/d70/a13254.html#a520142de5e8d2911684b18c85a3f37e2", null ]
+    [ "boss_mr_smiteAI", "db/d70/a13254.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
+    [ "JustEngagedWith", "db/d70/a13254.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
+    [ "MovementInform", "db/d70/a13254.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
+    [ "Reset", "db/d70/a13254.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
+    [ "UpdateAI", "db/d70/a13254.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
+    [ "events", "db/d70/a13254.html#a3471692c39233f3c25cdc875c0078f2c", null ],
+    [ "health34", "db/d70/a13254.html#adc83683c2f6a7073469cd2f5aa325717", null ],
+    [ "health67", "db/d70/a13254.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
 ];

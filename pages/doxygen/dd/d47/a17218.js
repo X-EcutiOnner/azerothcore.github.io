@@ -1,6 +1,6 @@
 var a17218 =
 [
-    [ "boss_trollgoreAI", "d3/dd5/a17222.html", "d3/dd5/a17222" ],
-    [ "boss_trollgore", "dd/d47/a17218.html#a95102f1fae6c667e0780b8b388fc156b", null ],
-    [ "GetAI", "dd/d47/a17218.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
+    [ "HandleLeapBack", "dd/d47/a17218.html#a1515071290963ea88b2f8f3efd944068", null ],
+    [ "PrepareSpellScript", "dd/d47/a17218.html#a4e309e82e471d5f2a6e9be73e1e926aa", null ],
+    [ "Register", "dd/d47/a17218.html#ae2185f1272746c4d3d8cdbcb8cca1eba", null ]
 ];

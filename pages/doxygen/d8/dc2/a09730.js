@@ -1,10 +1,13 @@
 var a09730 =
 [
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d8/dc2/a09730.html#a7d57ae865868d4848caf088c4520b2a7", null ],
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d8/dc2/a09730.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
-    [ "operator()", "d8/dc2/a09730.html#ad0c6798e28784ed547102414f4c6a31f", null ],
-    [ "i_entry", "d8/dc2/a09730.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
-    [ "i_obj", "d8/dc2/a09730.html#a104b8bece6ea78ba049dc592e54311be", null ],
-    [ "i_onlySpawned", "d8/dc2/a09730.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
-    [ "i_range", "d8/dc2/a09730.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
+    [ "WorldObjectWorker", "d8/dc2/a09730.html#a15dd68579f1a92f015cfac8577db7422", null ],
+    [ "Visit", "d8/dc2/a09730.html#ae264461e49602fd0b8a17e30ed554c64", null ],
+    [ "Visit", "d8/dc2/a09730.html#a3021825347d132f1368a77d29a8318df", null ],
+    [ "Visit", "d8/dc2/a09730.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
+    [ "Visit", "d8/dc2/a09730.html#a7de6ea339a8113d242dd099ca4d36927", null ],
+    [ "Visit", "d8/dc2/a09730.html#a29196fa36ce32a0cec68d0d67372a400", null ],
+    [ "Visit", "d8/dc2/a09730.html#a17097541c49264c15ebfe474f54aeca2", null ],
+    [ "i_do", "d8/dc2/a09730.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
+    [ "i_mapTypeMask", "d8/dc2/a09730.html#a6f8e447b9693154f56ce010869acadb9", null ],
+    [ "i_phaseMask", "d8/dc2/a09730.html#affa6245985c5d271900be12104ab6bb6", null ]
 ];

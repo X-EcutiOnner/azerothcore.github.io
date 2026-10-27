@@ -1,7 +1,10 @@
 var a14766 =
 [
-    [ "npc_direbrew_minion", "d0/d9d/a14766.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "d0/d9d/a14766.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "d0/d9d/a14766.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "d0/d9d/a14766.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "npc_zealot_zath", "d0/d9d/a14766.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "d0/d9d/a14766.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "d0/d9d/a14766.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "d0/d9d/a14766.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "d0/d9d/a14766.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "d0/d9d/a14766.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "d0/d9d/a14766.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

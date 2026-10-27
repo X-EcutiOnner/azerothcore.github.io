@@ -1,7 +1,6 @@
 var a18026 =
 [
-    [ "npc_gunship_boarding_leaderAI", "da/dd5/a18026.html#ac20099905fd6fddda2561b88cf077b77", null ],
-    [ "JustEngagedWith", "da/dd5/a18026.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
-    [ "UpdateAI", "da/dd5/a18026.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
-    [ "_events", "da/dd5/a18026.html#affb899bbaa288e72a48d5518367b023d", null ]
+    [ "npc_icc_blood_beastAI", "de/d30/a18030.html", "de/d30/a18030" ],
+    [ "npc_icc_blood_beast", "da/dd5/a18026.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "da/dd5/a18026.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

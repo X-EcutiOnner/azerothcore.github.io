@@ -1,11 +1,9 @@
 var a04772 =
 [
-    [ "VMAP::ModelPosition", "dc/d61/a05409.html", "dc/d61/a05409" ],
-    [ "VMAP::MapSpawns", "dc/d67/a05413.html", "dc/d67/a05413" ],
-    [ "VMAP::GroupModel_Raw", "d6/dd2/a05417.html", "d6/dd2/a05417" ],
-    [ "VMAP::WorldModel_Raw", "d2/d1d/a05421.html", "d2/d1d/a05421" ],
-    [ "VMAP::TileAssembler", "d7/dde/a05425.html", "d7/dde/a05425" ],
-    [ "MapData", "d0/d95/a04772.html#a28dc2e567f8620fed1128b6c4cf5b749", null ],
-    [ "TileMap", "d0/d95/a04772.html#abfe766a1b58bbf69ce3b17ff14d1c101", null ],
-    [ "UniqueEntryMap", "d0/d95/a04772.html#a3424b44a092b5f3d8074649ae11ee481", null ]
+    [ "BoundsTrait< VMAP::ModelSpawn * >", "dd/d15/a05414.html", "dd/d15/a05414" ],
+    [ "VMAP::WMOLiquidHeader", "d9/d54/a05418.html", "d9/d54/a05418" ],
+    [ "CMP_OR_RETURN", "d0/d95/a04772.html#abb356574335eee18efd5e1f4ed707637", null ],
+    [ "READ_OR_RETURN", "d0/d95/a04772.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d", null ],
+    [ "READ_OR_RETURN_WITH_DELETE", "d0/d95/a04772.html#aaf506ecfd782214a75bd609db9bef004", null ],
+    [ "readChunk", "d0/d95/a04772.html#aa923966c6cf6ce644b8335506d5f1fce", null ]
 ];

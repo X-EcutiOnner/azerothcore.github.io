@@ -1,18 +1,10 @@
 var a13362 =
 [
-    [ "boss_romulo", "dd/de0/a13362.html#a497e0e57d2abb6640081c1d141a588ff", null ],
-    [ "DamageTaken", "dd/de0/a13362.html#a603db3883d03367406cbcf3f2cb28a08", null ],
-    [ "DoAction", "dd/de0/a13362.html#acc23f4f4f5856b9956a764c1f69bbc92", null ],
-    [ "EnterEvadeMode", "dd/de0/a13362.html#ab4dda6b70337668dd36a582e8439c3db", null ],
-    [ "JustDied", "dd/de0/a13362.html#aa60d8fe07db9444f25eec9de9e5bf365", null ],
-    [ "JustEngagedWith", "dd/de0/a13362.html#ab13e2a4ebe8a1956f6de460cdb9b199d", null ],
-    [ "JustReachedHome", "dd/de0/a13362.html#af8bff3f1c107dc7d8beae7956a25fbcc", null ],
-    [ "KilledUnit", "dd/de0/a13362.html#ae4ca6736913cc8df4d016876a8fd8576", null ],
-    [ "Reset", "dd/de0/a13362.html#a15703ee7df979b8ee5892dacf84066e2", null ],
-    [ "ScheduleCombat", "dd/de0/a13362.html#a4cc20dccb171d1f4d3c680b6b5310e73", null ],
-    [ "UpdateAI", "dd/de0/a13362.html#ac42df238a2ad354a2fb21ebb558734c6", null ],
-    [ "_scheduler", "dd/de0/a13362.html#a456abfa48f038e904c427179c2a10edb", null ],
-    [ "instance", "dd/de0/a13362.html#aae979b72844ff8fcc70956925df4fa9b", null ],
-    [ "isFakingDeath", "dd/de0/a13362.html#a88ccbe761b4703e4f309d1bb3fca4085", null ],
-    [ "phase", "dd/de0/a13362.html#ab549436aec35727665150d51f1c25714", null ]
+    [ "npc_netherspite_infernal", "dd/de0/a13362.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "dd/de0/a13362.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "dd/de0/a13362.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "dd/de0/a13362.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "dd/de0/a13362.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "dd/de0/a13362.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "dd/de0/a13362.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

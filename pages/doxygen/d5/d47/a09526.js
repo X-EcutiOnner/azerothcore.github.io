@@ -1,14 +1,10 @@
 var a09526 =
 [
-    [ "areaMapOffset", "d5/d47/a09526.html#a70f82337112bb8cbff0b3344666885a1", null ],
-    [ "areaMapSize", "d5/d47/a09526.html#adfbbb622974b7942f47dd16d2300246f", null ],
-    [ "buildMagic", "d5/d47/a09526.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
-    [ "heightMapOffset", "d5/d47/a09526.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
-    [ "heightMapSize", "d5/d47/a09526.html#a71c9cd42801697a927543e3acd4c3daf", null ],
-    [ "holesOffset", "d5/d47/a09526.html#a876d70dcd6ccec9ad09de77718c02150", null ],
-    [ "holesSize", "d5/d47/a09526.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
-    [ "liquidMapOffset", "d5/d47/a09526.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
-    [ "liquidMapSize", "d5/d47/a09526.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
-    [ "mapMagic", "d5/d47/a09526.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
-    [ "versionMagic", "d5/d47/a09526.html#abe722f653ba057fbba84401acbaffbfa", null ]
+    [ "Flags", "d5/d47/a09526.html#a5292a64de662f608915844d58199542f", null ],
+    [ "Icon", "d5/d47/a09526.html#ab7460f125e05509baf9331e424b8bacf", null ],
+    [ "ID", "d5/d47/a09526.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
+    [ "Importance", "d5/d47/a09526.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
+    [ "Name", "d5/d47/a09526.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
+    [ "PositionX", "d5/d47/a09526.html#a561763556f1ac77e988c350c37a3a0a1", null ],
+    [ "PositionY", "d5/d47/a09526.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
 ];

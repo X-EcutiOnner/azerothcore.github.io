@@ -1,6 +1,5 @@
 var a28242 =
 [
-    [ "go_gilded_brazierAI", "dc/d64/a28246.html", "dc/d64/a28246" ],
-    [ "go_gilded_brazier", "d7/d79/a28242.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "d7/d79/a28242.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "achievement_fa_la_la_la_ogrila", "d7/d79/a28242.html#ab98a8ab33fec62936bf3c235659c1445", null ],
+    [ "OnCheck", "d7/d79/a28242.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
 ];

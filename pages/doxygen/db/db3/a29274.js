@@ -1,10 +1,7 @@
 var a29274 =
 [
-    [ "PvPDifficultyEntry", "db/db3/a29274.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "db/db3/a29274.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "db/db3/a29274.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "db/db3/a29274.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "db/db3/a29274.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "db/db3/a29274.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "db/db3/a29274.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "bit_index", "db/db3/a29274.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "db/db3/a29274.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "db/db3/a29274.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "db/db3/a29274.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

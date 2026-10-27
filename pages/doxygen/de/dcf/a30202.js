@@ -1,9 +1,9 @@
 var a30202 =
 [
-    [ "MapTiles", "de/dcf/a30202.html#abc58d7154eab45ae26df27e2e82dac63", null ],
-    [ "MapTiles", "de/dcf/a30202.html#a406efc53593b5bceb0a491c0b7553350", null ],
-    [ "~MapTiles", "de/dcf/a30202.html#aec1baac21c06380ba71ff5e610152519", null ],
-    [ "operator==", "de/dcf/a30202.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
-    [ "m_mapId", "de/dcf/a30202.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
-    [ "m_tiles", "de/dcf/a30202.html#ab80305bb73234e35a528701d775954b5", null ]
+    [ "defaultHitMask", "de/dcf/a30202.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
+    [ "defaultSpellPhaseMask", "de/dcf/a30202.html#af927bd441959e8e122648de610398c65", null ],
+    [ "defaultSpellTypeMask", "de/dcf/a30202.html#aa64e6ad192c41998b368b908c499574d", null ],
+    [ "name", "de/dcf/a30202.html#a3916a9a0f1cb0b599b35619c1a89f6eb", null ],
+    [ "procFlag", "de/dcf/a30202.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
+    [ "requiresSpellPhase", "de/dcf/a30202.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
 ];

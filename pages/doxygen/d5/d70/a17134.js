@@ -1,7 +1,8 @@
 var a17134 =
 [
-    [ "HandleAfterEffectAbsorb", "d5/d70/a17134.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d5/d70/a17134.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d5/d70/a17134.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d5/d70/a17134.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "npc_toc_pet_hunterAI", "d5/d70/a17134.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "d5/d70/a17134.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "d5/d70/a17134.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "d5/d70/a17134.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "d5/d70/a17134.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

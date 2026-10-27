@@ -1,8 +1,7 @@
 var a29250 =
 [
-    [ "areaTriggerText", "d2/d82/a29250.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "d2/d82/a29250.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "d2/d82/a29250.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "d2/d82/a29250.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "d2/d82/a29250.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "cutPercent", "d2/d82/a29250.html#a8581a6a5198dab10680f477a477a7c80", null ],
+    [ "depositPercent", "d2/d82/a29250.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
+    [ "faction", "d2/d82/a29250.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
+    [ "houseId", "d2/d82/a29250.html#a1bf77c1b14731def0e3de44143df2eed", null ]
 ];

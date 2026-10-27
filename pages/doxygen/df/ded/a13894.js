@@ -1,6 +1,6 @@
 var a13894 =
 [
-    [ "ChangeSummonPos", "df/ded/a13894.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "df/ded/a13894.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "df/ded/a13894.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "SpectralBlastCheck", "df/ded/a13894.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
+    [ "operator()", "df/ded/a13894.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
+    [ "_victim", "df/ded/a13894.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
 ];

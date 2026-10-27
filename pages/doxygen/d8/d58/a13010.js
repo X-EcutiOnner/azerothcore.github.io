@@ -1,9 +1,7 @@
 var a13010 =
 [
-    [ "boss_baron_geddon", "d8/d58/a13010.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
-    [ "DamageTaken", "d8/d58/a13010.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
-    [ "ExecuteEvent", "d8/d58/a13010.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
-    [ "JustEngagedWith", "d8/d58/a13010.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
-    [ "Reset", "d8/d58/a13010.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
-    [ "armageddonCasted", "d8/d58/a13010.html#a4ea01568770a91e6734d45e3730c62cc", null ]
+    [ "boss_broodlord", "d8/d58/a13010.html#a3194ef765e313daaa4a0e476ec3edafa", null ],
+    [ "JustDied", "d8/d58/a13010.html#ac3f6f747fbe61e70562f14b9aa304765", null ],
+    [ "JustEngagedWith", "d8/d58/a13010.html#acb7214857320945a646574b0130a9585", null ],
+    [ "UpdateAI", "d8/d58/a13010.html#a5cdb166366938797de9d691096f0f155", null ]
 ];

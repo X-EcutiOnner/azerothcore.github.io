@@ -1,8 +1,8 @@
 var a10174 =
 [
-    [ "ServerMailCondition", "d1/d32/a10174.html#a2ee7d2f3587159c95883fe32674cb586", null ],
-    [ "CheckCondition", "d1/d32/a10174.html#a3c223658629357f05d8879555717f624", null ],
-    [ "state", "d1/d32/a10174.html#a309f739872afaf644331335b27649561", null ],
-    [ "type", "d1/d32/a10174.html#a3b318e7743ca48fcf8ba849398a06968", null ],
-    [ "value", "d1/d32/a10174.html#af709199aed99633cc70d9118ee4fd4fc", null ]
+    [ "BossInfo", "d1/d32/a10174.html#a455f533d647927d182176c3cceb21f42", null ],
+    [ "boundary", "d1/d32/a10174.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
+    [ "door", "d1/d32/a10174.html#a858af8825ed4fe183ee19b6f10239304", null ],
+    [ "minion", "d1/d32/a10174.html#abec1469d41f286d02c34223171373cd3", null ],
+    [ "state", "d1/d32/a10174.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
 ];

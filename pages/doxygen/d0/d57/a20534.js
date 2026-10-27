@@ -1,5 +1,6 @@
 var a20534 =
 [
-    [ "achievement_i_have_the_coolest_friends", "d0/d57/a20534.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "d0/d57/a20534.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "FilterTargets", "d0/d57/a20534.html#a3ebface91881b903886ea9a10041da70", null ],
+    [ "PrepareSpellScript", "d0/d57/a20534.html#a50d5f046f75c431f9323e225ed795ea3", null ],
+    [ "Register", "d0/d57/a20534.html#aa037424d0f72823d0651f84c6d2c7449", null ]
 ];

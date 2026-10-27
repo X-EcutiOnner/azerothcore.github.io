@@ -1,6 +1,9 @@
 var a18722 =
 [
-    [ "npc_raging_spiritAI", "de/d0a/a18726.html", "de/d0a/a18726" ],
-    [ "npc_raging_spirit", "dc/d52/a18722.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "dc/d52/a18722.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "ShadowTrapLKTargetSelector", "dc/d52/a18722.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "dc/d52/a18722.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "dc/d52/a18722.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "dc/d52/a18722.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "dc/d52/a18722.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "dc/d52/a18722.html#af416013aabf3b217b07228072076603d", null ]
 ];

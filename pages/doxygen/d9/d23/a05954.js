@@ -1,8 +1,6 @@
 var a05954 =
 [
-    [ "BaseSocketMgr", "d9/d23/a05954.html#a55ca5c800a783d89fbe05bd945374b84", null ],
-    [ "CreateThreads", "d9/d23/a05954.html#a98a0866ae616017010f639f0ad9fc72d", null ],
-    [ "Instance", "d9/d23/a05954.html#a9c56ed247f209709221a3e592f4d010f", null ],
-    [ "OnSocketAccept", "d9/d23/a05954.html#a02b81323eba1428f9b5eebf7f5edc393", null ],
-    [ "StartNetwork", "d9/d23/a05954.html#a345e4f8cc1c216ed7eb9c3e96748170f", null ]
+    [ "~AsyncProcessResult", "d9/d23/a05954.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
+    [ "GetFutureResult", "d9/d23/a05954.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
+    [ "Terminate", "d9/d23/a05954.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
 ];

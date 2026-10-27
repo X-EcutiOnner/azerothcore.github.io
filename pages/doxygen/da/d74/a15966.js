@@ -1,6 +1,6 @@
 var a15966 =
 [
-    [ "npc_troll_volunteerAI", "d4/dcd/a15970.html", "d4/dcd/a15970" ],
-    [ "npc_troll_volunteer", "da/d74/a15966.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
-    [ "GetAI", "da/d74/a15966.html#aba0208b0910ace75686941c462ecca56", null ]
+    [ "npc_magwinAI", "d4/dcd/a15970.html", "d4/dcd/a15970" ],
+    [ "npc_magwin", "da/d74/a15966.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
+    [ "GetAI", "da/d74/a15966.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
 ];

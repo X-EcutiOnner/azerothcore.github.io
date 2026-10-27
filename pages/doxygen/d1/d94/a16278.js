@@ -1,22 +1,14 @@
 var a16278 =
 [
-    [ "npc_sergeant_blyAI", "d1/d94/a16278.html#a216f8b75707e25698619786b87500461", null ],
-    [ "DoAction", "d1/d94/a16278.html#a4fb20172c48257aafe284b3934a9c357", null ],
-    [ "EnterEvadeMode", "d1/d94/a16278.html#a2844efbb2f213401f83ab042f974974a", null ],
-    [ "InitializeAI", "d1/d94/a16278.html#ae3abcf75a666c5bd722ca060fca4a12c", null ],
-    [ "MovementInform", "d1/d94/a16278.html#acf32d74b4f0454f01f7313df6b35c4d3", null ],
-    [ "Reset", "d1/d94/a16278.html#a2991ad4ecd6b236d7002c3dddd540b00", null ],
-    [ "sGossipHello", "d1/d94/a16278.html#a342c8b5bd49e8cfd94c41a58159e4f5c", null ],
-    [ "sGossipSelect", "d1/d94/a16278.html#a9df8eeb695736b2a182c38a69840e99f", null ],
-    [ "switchFactionIfAlive", "d1/d94/a16278.html#a89cbd29300ca07b3366a197a7549edab", null ],
-    [ "UpdateAI", "d1/d94/a16278.html#afdcbd6c79fb31d888c5b903deb04ad9d", null ],
-    [ "ableToPortHome", "d1/d94/a16278.html#aa223fcf402ed5d99ea88275b357f398c", null ],
-    [ "instance", "d1/d94/a16278.html#acf42a824739dd69d64c3b1e3eff6a944", null ],
-    [ "PlayerGUID", "d1/d94/a16278.html#a188e306a05afa5f25271d17b4385b623", null ],
-    [ "Porthome_Timer", "d1/d94/a16278.html#aeb17b772324aa2d985606659a2aee895", null ],
-    [ "postGossipStep", "d1/d94/a16278.html#aca6869f05555499b210c09889d3f6684", null ],
-    [ "Revenge_Timer", "d1/d94/a16278.html#af6263dbfa9e4cbc6f7812a10894f3dd2", null ],
-    [ "ShieldBash_Timer", "d1/d94/a16278.html#a5ed567ac16bef8f53a66a12fbaf4573e", null ],
-    [ "startedFight", "d1/d94/a16278.html#a7a037981d3d2a37abf0d3995283ac218", null ],
-    [ "Text_Timer", "d1/d94/a16278.html#a97edb216194b16d273fe6098fdaba51e", null ]
+    [ "npc_taskmaster_fizzuleAI", "d1/d94/a16278.html#ac792f91930c869ce919f8fd96b3fb076", null ],
+    [ "DoFriend", "d1/d94/a16278.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
+    [ "JustEngagedWith", "d1/d94/a16278.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
+    [ "ReceiveEmote", "d1/d94/a16278.html#a21d0d70086f085b715a12d05fbe5d611", null ],
+    [ "Reset", "d1/d94/a16278.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
+    [ "SpellHit", "d1/d94/a16278.html#a4c35104935a3a6264c853a657dc42244", null ],
+    [ "UpdateAI", "d1/d94/a16278.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
+    [ "factionNorm", "d1/d94/a16278.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
+    [ "FlareCount", "d1/d94/a16278.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
+    [ "IsFriend", "d1/d94/a16278.html#ab7e6bd2e023545c73fba758267551eee", null ],
+    [ "ResetTimer", "d1/d94/a16278.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
 ];

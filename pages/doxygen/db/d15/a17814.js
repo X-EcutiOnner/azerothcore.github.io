@@ -1,6 +1,6 @@
 var a17814 =
 [
-    [ "BloodboltHitCheck", "db/d15/a17814.html#a84873f1ec2c1e214e35d32954622e9af", null ],
-    [ "operator()", "db/d15/a17814.html#a1eddfd7bbea8def20dcc080413af6364", null ],
-    [ "_ai", "db/d15/a17814.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
+    [ "boss_prince_taldaramAI", "d7/d7f/a17818.html", "d7/d7f/a17818" ],
+    [ "boss_prince_taldaram_icc", "db/d15/a17814.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "db/d15/a17814.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

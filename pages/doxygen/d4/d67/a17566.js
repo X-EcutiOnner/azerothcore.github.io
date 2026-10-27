@@ -1,5 +1,7 @@
 var a17566 =
 [
-    [ "at_tyrannus_event_starter", "d4/d67/a17566.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
-    [ "OnTrigger", "d4/d67/a17566.html#adccf396220ef7de47e7afeca791de894", null ]
+    [ "HandlePeriodicTick", "d4/d67/a17566.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
+    [ "PrepareAuraScript", "d4/d67/a17566.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
+    [ "Register", "d4/d67/a17566.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
+    [ "Validate", "d4/d67/a17566.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
 ];

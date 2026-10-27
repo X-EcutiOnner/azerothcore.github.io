@@ -1,6 +1,6 @@
 var a22046 =
 [
-    [ "npc_black_knight_graveyardAI", "df/dab/a22050.html", "df/dab/a22050" ],
-    [ "npc_black_knight_graveyard", "dd/d1c/a22046.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "dd/d1c/a22046.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "npc_spiritual_insightAI", "df/dab/a22050.html", "df/dab/a22050" ],
+    [ "npc_spiritual_insight", "dd/d1c/a22046.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "dd/d1c/a22046.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

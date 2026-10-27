@@ -1,6 +1,8 @@
 var a22170 =
 [
-    [ "npc_still_at_it_triggerAI", "d2/df6/a22174.html", "d2/df6/a22174" ],
-    [ "npc_still_at_it_trigger", "dc/d99/a22170.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "dc/d99/a22170.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "HandleEffectApply", "dc/d99/a22170.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "dc/d99/a22170.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "dc/d99/a22170.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "dc/d99/a22170.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "dc/d99/a22170.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

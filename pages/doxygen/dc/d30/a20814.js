@@ -1,7 +1,6 @@
 var a20814 =
 [
-    [ "boss_thorim_trap", "dc/d30/a20814.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
-    [ "Reset", "dc/d30/a20814.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
-    [ "UpdateAI", "dc/d30/a20814.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
-    [ "_checkTimer", "dc/d30/a20814.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
+    [ "ModDest", "dc/d30/a20814.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
+    [ "PrepareSpellScript", "dc/d30/a20814.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
+    [ "Register", "dc/d30/a20814.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
 ];

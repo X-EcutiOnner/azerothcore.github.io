@@ -1,6 +1,6 @@
 var a13282 =
 [
-    [ "HandleHit", "d1/d6e/a13282.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
-    [ "PrepareSpellScript", "d1/d6e/a13282.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
-    [ "Register", "d1/d6e/a13282.html#a84853f416eb8250dc3d863dbe22a157f", null ]
+    [ "HandleTriggerSpell", "d1/d6e/a13282.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "d1/d6e/a13282.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "d1/d6e/a13282.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

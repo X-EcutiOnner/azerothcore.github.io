@@ -1,6 +1,8 @@
 var a14478 =
 [
-    [ "boss_gahzranka", "d2/d14/a14478.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "d2/d14/a14478.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "d2/d14/a14478.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "FilterTargets", "d2/d14/a14478.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
+    [ "OnHit", "d2/d14/a14478.html#ac25886536c353f09838188362fb8ae84", null ],
+    [ "PrepareSpellScript", "d2/d14/a14478.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
+    [ "Register", "d2/d14/a14478.html#afa419365236c09914f758846978e2cbb", null ],
+    [ "Validate", "d2/d14/a14478.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
 ];

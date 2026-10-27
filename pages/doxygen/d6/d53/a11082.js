@@ -1,5 +1,5 @@
 var a11082 =
 [
-    [ "AcceptGuildInvite", "d6/d53/a11082.html#a4453fc550871082f6295d9229eef265a", null ],
-    [ "Read", "d6/d53/a11082.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
+    [ "LogoutComplete", "d6/d53/a11082.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
+    [ "Write", "d6/d53/a11082.html#a0d958bc07b674ed3339833351fec7d3a", null ]
 ];

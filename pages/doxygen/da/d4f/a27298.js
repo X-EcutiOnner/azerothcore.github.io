@@ -1,9 +1,8 @@
 var a27298 =
 [
-    [ "HandleAfterHit", "da/d4f/a27298.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
-    [ "HandleBeforeHit", "da/d4f/a27298.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
-    [ "Load", "da/d4f/a27298.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
-    [ "PrepareSpellScript", "da/d4f/a27298.html#a496c27472579be3b8989868765ec19ef", null ],
-    [ "Register", "da/d4f/a27298.html#a133e338413e960c442446a2a4a13b85b", null ],
-    [ "_stackAmount", "da/d4f/a27298.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
+    [ "HandleDummy", "da/d4f/a27298.html#a1afcd9c6ab96c87db8aa4899d0830899", null ],
+    [ "Load", "da/d4f/a27298.html#a11d3cd0eccd4895f5cd9d2721bd3fd0c", null ],
+    [ "PrepareSpellScript", "da/d4f/a27298.html#a252784bb4b438750db5ef7f905477140", null ],
+    [ "Register", "da/d4f/a27298.html#ab93554e82cbed0c78452846c95247584", null ],
+    [ "Validate", "da/d4f/a27298.html#a33404726f5e5986b263eb0a0beba9443", null ]
 ];

@@ -1,6 +1,7 @@
 var a16586 =
 [
-    [ "boss_twilight_halionAI", "d8/d48/a16590.html", "d8/d48/a16590" ],
-    [ "boss_twilight_halion", "d5/dfa/a16586.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "d5/dfa/a16586.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "HandleScriptEffect", "d5/dfa/a16586.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "d5/dfa/a16586.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "d5/dfa/a16586.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "d5/dfa/a16586.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

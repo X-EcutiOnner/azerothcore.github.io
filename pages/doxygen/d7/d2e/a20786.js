@@ -1,7 +1,11 @@
 var a20786 =
 [
-    [ "HandleFused", "d7/d2e/a20786.html#ab5ea77be32486664ff6c5ff7dc01f7dd", null ],
-    [ "PrepareAuraScript", "d7/d2e/a20786.html#a438c63656d2a976883fa13232cc5dc6e", null ],
-    [ "Register", "d7/d2e/a20786.html#a17300c74645f9298d8422535a61fe077", null ],
-    [ "Validate", "d7/d2e/a20786.html#a55ca732a3d0e3a69f055fd915037a5f0", null ]
+    [ "npc_ulduar_proximity_mine", "d7/d2e/a20786.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "d7/d2e/a20786.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "d7/d2e/a20786.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "d7/d2e/a20786.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "d7/d2e/a20786.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "d7/d2e/a20786.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "d7/d2e/a20786.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "d7/d2e/a20786.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

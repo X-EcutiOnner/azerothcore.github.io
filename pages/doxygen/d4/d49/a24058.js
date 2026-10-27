@@ -1,6 +1,5 @@
 var a24058 =
 [
-    [ "go_beaconAI", "d1/d78/a24062.html", "d1/d78/a24062" ],
-    [ "go_beacon", "d4/d49/a24058.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "d4/d49/a24058.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "npc_thaladred", "d4/d49/a24058.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
+    [ "ScheduleEvents", "d4/d49/a24058.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
 ];

@@ -1,6 +1,7 @@
 var a27334 =
 [
-    [ "DoAfterHit", "d2/da4/a27334.html#a38ede5147a11c41770c4483a70d81e5d", null ],
-    [ "PrepareSpellScript", "d2/da4/a27334.html#abcc738fc154e6be5de168fb23be806f4", null ],
-    [ "Register", "d2/da4/a27334.html#ac81d60d54a87a23bd9481934f5753de0", null ]
+    [ "HandleDummy", "d2/da4/a27334.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
+    [ "PrepareSpellScript", "d2/da4/a27334.html#a125f7550ce826f74ac14902bc82d5021", null ],
+    [ "Register", "d2/da4/a27334.html#a35e9132e2414383caafbde699de6061d", null ],
+    [ "Validate", "d2/da4/a27334.html#a530489a10287a6dd281d518683b1a3f3", null ]
 ];

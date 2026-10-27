@@ -1,8 +1,8 @@
 var a24782 =
 [
-    [ "AfterRemove", "dd/d6c/a24782.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "dd/d6c/a24782.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "dd/d6c/a24782.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "dd/d6c/a24782.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "dd/d6c/a24782.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "CheckCast", "dd/d6c/a24782.html#a94851a2b6a62138e28466317e9e88480", null ],
+    [ "HandleDummy", "dd/d6c/a24782.html#a970684d219c99519512c437a8efd8d43", null ],
+    [ "PrepareSpellScript", "dd/d6c/a24782.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
+    [ "Register", "dd/d6c/a24782.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
+    [ "Validate", "dd/d6c/a24782.html#a59cca008a97447e257bf24071301b366", null ]
 ];

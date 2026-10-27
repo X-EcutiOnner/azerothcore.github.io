@@ -1,5 +1,7 @@
 var a28022 =
 [
-    [ "achievement_fa_la_la_la_ogrila", "d5/d01/a28022.html#ab98a8ab33fec62936bf3c235659c1445", null ],
-    [ "OnCheck", "d5/d01/a28022.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
+    [ "HandleProc", "d5/d01/a28022.html#a1ebfd477399cbac2cba33cfd90db72e6", null ],
+    [ "PrepareAuraScript", "d5/d01/a28022.html#aadbaea984fedb04e77b92174efd5e83d", null ],
+    [ "Register", "d5/d01/a28022.html#aedd1652a571275a305db70fbbe6f725c", null ],
+    [ "Validate", "d5/d01/a28022.html#a28c281aeef80409b419753f71da80f92", null ]
 ];

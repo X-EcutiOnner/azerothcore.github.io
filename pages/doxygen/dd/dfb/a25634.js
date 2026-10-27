@@ -1,7 +1,6 @@
 var a25634 =
 [
-    [ "HandleScriptEffect", "dd/dfb/a25634.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
-    [ "PrepareSpellScript", "dd/dfb/a25634.html#acf30d245bab2e7a1ee1121008345e667", null ],
-    [ "Register", "dd/dfb/a25634.html#a303a38a41f3d9be6e3083690b234e51f", null ],
-    [ "Validate", "dd/dfb/a25634.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
+    [ "HandleScriptEffect", "dd/dfb/a25634.html#a78a131bdf6a1406604edd130c28d664b", null ],
+    [ "PrepareSpellScript", "dd/dfb/a25634.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
+    [ "Register", "dd/dfb/a25634.html#a8a70913369aa733160366f37ff1c3470", null ]
 ];

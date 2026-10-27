@@ -1,8 +1,7 @@
 var a14014 =
 [
-    [ "npc_ranger_lilatha", "d8/da9/a14014.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d8/da9/a14014.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d8/da9/a14014.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d8/da9/a14014.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ],
-    [ "WaypointReached", "d8/da9/a14014.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "PeriodicTick", "d8/da9/a14014.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "d8/da9/a14014.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "d8/da9/a14014.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "d8/da9/a14014.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

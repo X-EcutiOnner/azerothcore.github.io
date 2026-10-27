@@ -1,8 +1,12 @@
 var a23718 =
 [
-    [ "HandleEffectApply", "d0/d96/a23718.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "d0/d96/a23718.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "d0/d96/a23718.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "d0/d96/a23718.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "d0/d96/a23718.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "boss_olm_the_summoner", "d0/d96/a23718.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
+    [ "JustDied", "d0/d96/a23718.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
+    [ "JustEngagedWith", "d0/d96/a23718.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
+    [ "JustSummoned", "d0/d96/a23718.html#a546bede780b7d67b98ec251ae2e1b812", null ],
+    [ "Reset", "d0/d96/a23718.html#a8dcdc816276a1932612d554cff703a45", null ],
+    [ "UpdateAI", "d0/d96/a23718.html#a967f330966fdb29f26ab24e8f40d2152", null ],
+    [ "_scheduler", "d0/d96/a23718.html#a448ba3a88156e80eebad44585791ab21", null ],
+    [ "instance", "d0/d96/a23718.html#a8caabc31bb7a8548eb936c34c655df68", null ],
+    [ "summons", "d0/d96/a23718.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
 ];

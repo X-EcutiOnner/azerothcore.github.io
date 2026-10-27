@@ -1,13 +1,7 @@
 var a28442 =
 [
-    [ "npc_nelsonAI", "d5/d24/a28442.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
-    [ "DoAction", "d5/d24/a28442.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
-    [ "JustEngagedWith", "d5/d24/a28442.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
-    [ "JustSummoned", "d5/d24/a28442.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
-    [ "Reset", "d5/d24/a28442.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
-    [ "SpellHit", "d5/d24/a28442.html#afab81d8a6077c755c186bb619944d78d", null ],
-    [ "SummonedCreatureDies", "d5/d24/a28442.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
-    [ "UpdateAI", "d5/d24/a28442.html#ac68749942f37de5f9105556fe7b904b7", null ],
-    [ "events", "d5/d24/a28442.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
-    [ "shouldDespawn", "d5/d24/a28442.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
+    [ "go_pirate_day_musicAI", "d5/d24/a28442.html#a1abe263949b7a07e5143779efcddc7eb", null ],
+    [ "UpdateAI", "d5/d24/a28442.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
+    [ "_events", "d5/d24/a28442.html#a233ae55a05876c665455b106ef50d57e", null ],
+    [ "rnd", "d5/d24/a28442.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
 ];

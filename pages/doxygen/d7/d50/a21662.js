@@ -1,13 +1,11 @@
 var a21662 =
 [
-    [ "npc_preparations_for_war_vehicle", "d7/d50/a21662.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "MovementInform", "d7/d50/a21662.html#a5380670d521c7805a045aeac26c7c686", null ],
-    [ "PassengerBoarded", "d7/d50/a21662.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
-    [ "SpellHit", "d7/d50/a21662.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
-    [ "UpdateAI", "d7/d50/a21662.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "passenger_x", "d7/d50/a21662.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
-    [ "passenger_y", "d7/d50/a21662.html#afd99c49b3c3b996c92def21229f1ec87", null ],
-    [ "passenger_z", "d7/d50/a21662.html#a18d051868134d8c62f64923905bf19db", null ],
-    [ "searchForShipTimer", "d7/d50/a21662.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "d7/d50/a21662.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "npc_vh_void_sentry", "d7/d50/a21662.html#adeb66953fb7540aab5190b825ff98ec8", null ],
+    [ "DoAction", "d7/d50/a21662.html#a37ed72c221f23cd653694c10d536eec4", null ],
+    [ "JustDied", "d7/d50/a21662.html#aabf96934586d38d6f958c1571c0b3b56", null ],
+    [ "SummonedCreatureDespawn", "d7/d50/a21662.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
+    [ "UpdateAI", "d7/d50/a21662.html#a417af2ca21310ca105d7561e3ab21272", null ],
+    [ "_events", "d7/d50/a21662.html#a30899a2d4d8a82b26251911dc3b48008", null ],
+    [ "_instance", "d7/d50/a21662.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
+    [ "_summonedGuid", "d7/d50/a21662.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
 ];

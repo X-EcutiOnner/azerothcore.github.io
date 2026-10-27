@@ -1,8 +1,6 @@
 var a28330 =
 [
-    [ "go_bellsAI", "de/d08/a28330.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "de/d08/a28330.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "de/d08/a28330.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "de/d08/a28330.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "de/d08/a28330.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "boss_emerissAI", "d1/dfc/a28334.html", "d1/dfc/a28334" ],
+    [ "boss_emeriss", "de/d08/a28330.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "de/d08/a28330.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

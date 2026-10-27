@@ -1,7 +1,17 @@
 var a10982 =
 [
-    [ "LogoutResponse", "da/db8/a10982.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
-    [ "Write", "da/db8/a10982.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
-    [ "Instant", "da/db8/a10982.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
-    [ "LogoutResult", "da/db8/a10982.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
+    [ "WorldScript", "da/db8/a10982.html#a729919f2184c74cab388b5e5e509bc37", null ],
+    [ "OnAfterConfigLoad", "da/db8/a10982.html#affadabcae325631b2683ef458c6d13ee", null ],
+    [ "OnAfterUnloadAllMaps", "da/db8/a10982.html#a15bc203d07dd2fef96c2a6d13d3ddd44", null ],
+    [ "OnBeforeConfigLoad", "da/db8/a10982.html#a78baa1285b6495d7beace131dfba8400", null ],
+    [ "OnBeforeFinalizePlayerWorldSession", "da/db8/a10982.html#a480e411f6178e5128bc5e760d9f36d99", null ],
+    [ "OnBeforeWorldInitialized", "da/db8/a10982.html#a8ec0a2cc97986db07698392e5c503571", null ],
+    [ "OnLoadCustomDatabaseTable", "da/db8/a10982.html#af9c5296102d7ef0f716796788650ec4d", null ],
+    [ "OnMotdChange", "da/db8/a10982.html#a3a72e488dd36a672d7aaa0b59fffe154", null ],
+    [ "OnOpenStateChange", "da/db8/a10982.html#a7eab4282e8be8ef2a643478f9fe6e0e2", null ],
+    [ "OnShutdown", "da/db8/a10982.html#a3578707d9be5da90530633a93b4b2bf8", null ],
+    [ "OnShutdownCancel", "da/db8/a10982.html#a322bd84359ac77369d9aa84bc8bf9649", null ],
+    [ "OnShutdownInitiate", "da/db8/a10982.html#a83c76efd3de10b0a35c4a311c44d13c1", null ],
+    [ "OnStartup", "da/db8/a10982.html#a117234aac087ec653c83cfe01a6dce7a", null ],
+    [ "OnUpdate", "da/db8/a10982.html#ad28857965a9f6f993a47c95af6d9c5ad", null ]
 ];

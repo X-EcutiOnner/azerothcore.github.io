@@ -1,7 +1,10 @@
 var a20902 =
 [
-    [ "OnRemove", "d8/d2f/a20902.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
-    [ "PrepareAuraScript", "d8/d2f/a20902.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
-    [ "Register", "d8/d2f/a20902.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "Validate", "d8/d2f/a20902.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
+    [ "npc_razorscale_dark_rune_watcher", "d8/d2f/a20902.html#aff56f4cadfeb72f6a96f8ac86b27a6a1", null ],
+    [ "CanAIAttack", "d8/d2f/a20902.html#a68ef8f2c7014850c5107cc22deff8658", null ],
+    [ "JustEngagedWith", "d8/d2f/a20902.html#a303994b6f5e2ae6e4d6f0e44d9eb60a9", null ],
+    [ "Reset", "d8/d2f/a20902.html#aaab4be32140991366f1a004622bf3b31", null ],
+    [ "UpdateAI", "d8/d2f/a20902.html#a8d1518f80cc6427d0334770a5aaf130a", null ],
+    [ "_events", "d8/d2f/a20902.html#a15fa73dea3b9b86a6d1b42f9d1296d6e", null ],
+    [ "_instance", "d8/d2f/a20902.html#ac08ba6b60827408aeb1b63a48a57fa9e", null ]
 ];

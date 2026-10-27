@@ -1,7 +1,7 @@
 var a26510 =
 [
-    [ "CalculateSpellAmount", "da/d7e/a26510.html#ae99e08e78cf8192ea2d6210432d7a72d", null ],
-    [ "CheckCast", "da/d7e/a26510.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "da/d7e/a26510.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "da/d7e/a26510.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "HandleScript", "da/d7e/a26510.html#a1f5993561f68ab1f540fcc18fe309b7c", null ],
+    [ "PrepareSpellScript", "da/d7e/a26510.html#a91a04a3baa074b228371c6220e67f3f8", null ],
+    [ "Register", "da/d7e/a26510.html#a4f5cf691ed45724ef113e121f146c9d0", null ],
+    [ "Validate", "da/d7e/a26510.html#ae618fdfd0aa5f77e841c6992f7bc9d80", null ]
 ];

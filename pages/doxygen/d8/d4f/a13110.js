@@ -1,6 +1,18 @@
 var a13110 =
 [
-    [ "bossId", "d8/d4f/a13110.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
-    [ "circleId", "d8/d4f/a13110.html#aaa379e61fda2f7225ab4089757df5d24", null ],
-    [ "runeId", "d8/d4f/a13110.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
+    [ "boss_vaelastrasz", "d8/d4f/a13110.html#a34f13f4de3f268c8fe034e8577186966", null ],
+    [ "BeginSpeech", "d8/d4f/a13110.html#aa6bbbbe76f890112fc1d2e4cd4159346", null ],
+    [ "Initialize", "d8/d4f/a13110.html#a8b3356d4fcc6c17c097890bbd98947d5", null ],
+    [ "JustEngagedWith", "d8/d4f/a13110.html#ac742f8acce5060e5496f43900b1e3cc0", null ],
+    [ "JustSummoned", "d8/d4f/a13110.html#a73f72d397a277301d1b5e2020f0f6146", null ],
+    [ "KilledUnit", "d8/d4f/a13110.html#abff4fd6f7f15771b8fccabf4f633c067", null ],
+    [ "Reset", "d8/d4f/a13110.html#ac496730fdeb5e55c125a1880626c76e4", null ],
+    [ "sGossipSelect", "d8/d4f/a13110.html#ae25b1d667393f9af0f3424137d78a9d0", null ],
+    [ "UpdateAI", "d8/d4f/a13110.html#a7a78dd37d5055212cc6d23dc3d831d6d", null ],
+    [ "_burningAdrenalineCast", "d8/d4f/a13110.html#acb5c8baf13a39d560447f3e16f07966c", null ],
+    [ "_eventsIntro", "d8/d4f/a13110.html#a7e3fb2f93d36789d1e123a73c619de23", null ],
+    [ "_introDone", "d8/d4f/a13110.html#a3d0d4ee1c9a47715e22f3567783dd11e", null ],
+    [ "HasYelled", "d8/d4f/a13110.html#aa73cdc2f26c0710d5d917c4f787a1793", null ],
+    [ "m_nefariusGuid", "d8/d4f/a13110.html#ae1a22491288380cb50264a51e0b624f6", null ],
+    [ "PlayerGUID", "d8/d4f/a13110.html#a8ba86f17a35448edd8d98f49c7d16fa6", null ]
 ];

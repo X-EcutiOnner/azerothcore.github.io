@@ -1,8 +1,15 @@
 var a23874 =
 [
-    [ "HandleScriptEffect", "da/dc1/a23874.html#a7cde39fc0844f19604c8026a853e8216", null ],
-    [ "Load", "da/dc1/a23874.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
-    [ "PrepareSpellScript", "da/dc1/a23874.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
-    [ "Register", "da/dc1/a23874.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
-    [ "_currentSpellId", "da/dc1/a23874.html#a0ad25535ba345fe9672150af67687305", null ]
+    [ "npc_shattered_hand_scout", "da/dc1/a23874.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
+    [ "DamageTaken", "da/dc1/a23874.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
+    [ "FireArrows", "da/dc1/a23874.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
+    [ "GetPorung", "da/dc1/a23874.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
+    [ "MoveInLineOfSight", "da/dc1/a23874.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
+    [ "MovementInform", "da/dc1/a23874.html#a6f6198c2faf68823b1d4c8237044784b", null ],
+    [ "Reset", "da/dc1/a23874.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
+    [ "SetData", "da/dc1/a23874.html#a9416dd89c4728538971abc5975c7080f", null ],
+    [ "UpdateAI", "da/dc1/a23874.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
+    [ "_firstZealots", "da/dc1/a23874.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
+    [ "_scheduler", "da/dc1/a23874.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
+    [ "_zealotGUIDs", "da/dc1/a23874.html#a26381a05bb007fdb4b7da97a19a878da", null ]
 ];

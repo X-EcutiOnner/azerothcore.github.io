@@ -1,6 +1,8 @@
 var a13538 =
 [
-    [ "instance_scholomance_InstanceMapScript", "d0/d46/a13542.html", "d0/d46/a13542" ],
-    [ "instance_scholomance", "d1/d68/a13538.html#ace7a781c45623419daad6143480d8fe2", null ],
-    [ "GetInstanceScript", "d1/d68/a13538.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
+    [ "CheckProc", "d1/d68/a13538.html#a085f6affd2bf76fe66f9023e67725848", null ],
+    [ "HandleProc", "d1/d68/a13538.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
+    [ "PrepareAuraScript", "d1/d68/a13538.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
+    [ "Register", "d1/d68/a13538.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
+    [ "Validate", "d1/d68/a13538.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
 ];

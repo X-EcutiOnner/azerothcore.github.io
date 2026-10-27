@@ -1,5 +1,6 @@
 var a19226 =
 [
-    [ "at_icc_start_blood_quickening", "d5/dd3/a19226.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "d5/dd3/a19226.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "npc_impaling_spearAI", "d4/db3/a19230.html", "d4/db3/a19230" ],
+    [ "npc_impaling_spear", "d5/dd3/a19226.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "d5/dd3/a19226.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

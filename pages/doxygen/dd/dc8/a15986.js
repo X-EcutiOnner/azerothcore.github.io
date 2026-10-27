@@ -1,8 +1,6 @@
 var a15986 =
 [
-    [ "CheckRequirement", "dd/dc8/a15986.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "dd/dc8/a15986.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "dd/dc8/a15986.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "dd/dc8/a15986.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "dd/dc8/a15986.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_stillpine_capitiveAI", "d9/d77/a15990.html", "d9/d77/a15990" ],
+    [ "npc_stillpine_capitive", "dd/dc8/a15986.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
+    [ "GetAI", "dd/dc8/a15986.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
 ];

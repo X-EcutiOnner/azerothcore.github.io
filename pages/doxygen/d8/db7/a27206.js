@@ -1,6 +1,6 @@
 var a27206 =
 [
-    [ "PrepareSpellScript", "d8/db7/a27206.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
-    [ "Register", "d8/db7/a27206.html#ab58938808e460e843e42f2b6fa644e8a", null ],
-    [ "SetDest", "d8/db7/a27206.html#ab87932c73a2e53647bda584aeb58f789", null ]
+    [ "HandleDummyEffect", "d8/db7/a27206.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "d8/db7/a27206.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "d8/db7/a27206.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

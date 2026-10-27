@@ -1,19 +1,11 @@
 var a08902 =
 [
-    [ "PetInfo", "d2/df8/a08902.html#a1bee56222719503aef508dd3f2ddd2f1", null ],
-    [ "ActionBar", "d2/df8/a08902.html#affe10e9845d23f597df23ed271d91039", null ],
-    [ "CreatedBySpellId", "d2/df8/a08902.html#a40d2f28579271de9b1533b5d412fecbb", null ],
-    [ "CreatureId", "d2/df8/a08902.html#a879009caeaa61fdef801db178599197e", null ],
-    [ "DisplayId", "d2/df8/a08902.html#ab7128ea7655961abfb3f8f074006bc7c", null ],
-    [ "Experience", "d2/df8/a08902.html#aee5536e251e20d8f4ee293f7f5eab2d3", null ],
-    [ "Happiness", "d2/df8/a08902.html#a39ee3606989e65fc284a6701482c2aa9", null ],
-    [ "Health", "d2/df8/a08902.html#a5e0835afbf2f396e8030236484984628", null ],
-    [ "LastSaveTime", "d2/df8/a08902.html#afafdbe4176d1bf26ab5022ab2d219ed6", null ],
-    [ "Level", "d2/df8/a08902.html#aabcf03700a0207df9086a6f7a354a7b9", null ],
-    [ "Mana", "d2/df8/a08902.html#a25a72a18fd6e38dea4db6ff8d3942423", null ],
-    [ "Name", "d2/df8/a08902.html#adb037d9f6d2606baa469c5c63385476a", null ],
-    [ "PetNumber", "d2/df8/a08902.html#af57645f36ae45c0045abe991419b797d", null ],
-    [ "ReactState", "d2/df8/a08902.html#ad7cd098ff265de389412626fad6d6d6f", null ],
-    [ "Type", "d2/df8/a08902.html#ae8fa5344688bb4bf34b806f9b67ef32c", null ],
-    [ "WasRenamed", "d2/df8/a08902.html#a98827cf01b6f610692fe4295582ead34", null ]
+    [ "MovableMapObject", "d2/df8/a08902.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
+    [ "GetCurrentCell", "d2/df8/a08902.html#a6d7d87cff5f00f3b370584675caf7870", null ],
+    [ "SetCurrentCell", "d2/df8/a08902.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
+    [ "Map", "d2/df8/a08902.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "ObjectGridLoader", "d2/df8/a08902.html#a9551c85ae0e43e4d212225c643da2262", null ],
+    [ "RandomMovementGenerator", "d2/df8/a08902.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
+    [ "_currentCell", "d2/df8/a08902.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
+    [ "_moveState", "d2/df8/a08902.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
 ];

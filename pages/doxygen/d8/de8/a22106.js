@@ -1,7 +1,6 @@
 var a22106 =
 [
-    [ "HandleDummy", "d8/de8/a22106.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "d8/de8/a22106.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "d8/de8/a22106.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "d8/de8/a22106.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "npc_mrfloppyAI", "d2/d50/a22110.html", "d2/d50/a22110" ],
+    [ "npc_mrfloppy", "d8/de8/a22106.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "d8/de8/a22106.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

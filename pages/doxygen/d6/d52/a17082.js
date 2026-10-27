@@ -1,4 +1,6 @@
 var a17082 =
 [
-    [ "boss_acidmawAI", "d6/d52/a17082.html#a185e04be9d28b9ac6755ade2cd552293", null ]
+    [ "npc_toc_warriorAI", "d9/d9d/a17086.html", "d9/d9d/a17086" ],
+    [ "npc_toc_warrior", "d6/d52/a17082.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "d6/d52/a17082.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

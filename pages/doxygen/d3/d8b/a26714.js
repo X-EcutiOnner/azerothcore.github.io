@@ -1,9 +1,10 @@
 var a26714 =
 [
-    [ "spell_pal_judgement", "d3/d8b/a26714.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
-    [ "HandleScriptEffect", "d3/d8b/a26714.html#add419a824dbebdc168d2b6dc49d07913", null ],
-    [ "PrepareSpellScript", "d3/d8b/a26714.html#a2cffed69c16a1a6189048ed52af35152", null ],
-    [ "Register", "d3/d8b/a26714.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
-    [ "Validate", "d3/d8b/a26714.html#a3971c195a279338253771675131b4802", null ],
-    [ "_spellId", "d3/d8b/a26714.html#ad49ea02800078c672747f4fdbbab1d20", null ]
+    [ "CheckProc", "d3/d8b/a26714.html#a787008462dce35eb27deda41301b146d", null ],
+    [ "HandleProc", "d3/d8b/a26714.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
+    [ "Load", "d3/d8b/a26714.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
+    [ "PrepareAuraScript", "d3/d8b/a26714.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
+    [ "Register", "d3/d8b/a26714.html#aa4ef731870355dc386fcd07c5f19d090", null ],
+    [ "Validate", "d3/d8b/a26714.html#ad04864f0710262364cf40e071446d87c", null ],
+    [ "_procTargetGUID", "d3/d8b/a26714.html#a1cabf65eacb5d10d9430a3ff320bfe1d", null ]
 ];

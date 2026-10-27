@@ -1,6 +1,6 @@
 var a25930 =
 [
-    [ "CalculateAmount", "d2/ddc/a25930.html#ad80edf403addb2d907d0d3d778b6745f", null ],
-    [ "PrepareAuraScript", "d2/ddc/a25930.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
-    [ "Register", "d2/ddc/a25930.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
+    [ "CheckCast", "d2/ddc/a25930.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
+    [ "PrepareSpellScript", "d2/ddc/a25930.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
+    [ "Register", "d2/ddc/a25930.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
 ];

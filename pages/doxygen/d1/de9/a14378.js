@@ -1,7 +1,7 @@
 var a14378 =
 [
-    [ "spell", "d1/de9/a14378.html#a55423d09b2f1775dc386a36168ad764d", null ],
-    [ "spiritEntry", "d1/de9/a14378.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
-    [ "text", "d1/de9/a14378.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
-    [ "unaura", "d1/de9/a14378.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
+    [ "HandleScript", "d1/de9/a14378.html#acd4373ab762d00d262984c36190d6f93", null ],
+    [ "PrepareSpellScript", "d1/de9/a14378.html#a113216b272d0386f248a75bfcf30c6a3", null ],
+    [ "Register", "d1/de9/a14378.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
+    [ "Validate", "d1/de9/a14378.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
 ];

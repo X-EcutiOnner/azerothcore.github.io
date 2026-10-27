@@ -1,6 +1,7 @@
 var a14466 =
 [
-    [ "npc_zulian_prowlerAI", "d7/d74/a14470.html", "d7/d74/a14470" ],
-    [ "npc_zulian_prowler", "da/d8b/a14466.html#a27ae990985976d02bb221b6d669fa849", null ],
-    [ "GetAI", "da/d8b/a14466.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
+    [ "HandleDispel", "da/d8b/a14466.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "da/d8b/a14466.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "da/d8b/a14466.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "da/d8b/a14466.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

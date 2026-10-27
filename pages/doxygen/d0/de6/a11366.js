@@ -1,6 +1,6 @@
 var a11366 =
 [
-    [ "ItemRefund", "d0/de6/a11366.html#aa257d579519d45da88694ff6306395da", null ],
-    [ "Read", "d0/de6/a11366.html#a6d031070a4832bdc716f8b73629ebc8d", null ],
-    [ "ItemGuid", "d0/de6/a11366.html#ac394336b15540248770f81d748206f7b", null ]
+    [ "ResetFailedNotify", "d0/de6/a11366.html#a82e12a0f207590b6176253cf36a22d2f", null ],
+    [ "Write", "d0/de6/a11366.html#af03055514ef0e1e97f24c66d2cd94185", null ],
+    [ "MapId", "d0/de6/a11366.html#a17f065fc6d5438d74f38bde67a841be7", null ]
 ];

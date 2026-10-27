@@ -1,6 +1,7 @@
 var a23966 =
 [
-    [ "npc_deaths_fel_cannonAI", "d4/dda/a23970.html", "d4/dda/a23970" ],
-    [ "npc_deaths_fel_cannon", "df/db4/a23966.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "df/db4/a23966.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "HandleCast", "df/db4/a23966.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "df/db4/a23966.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "df/db4/a23966.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "df/db4/a23966.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

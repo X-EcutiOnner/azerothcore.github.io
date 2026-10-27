@@ -1,9 +1,9 @@
 var a27438 =
 [
-    [ "Absorb", "db/df7/a27438.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
-    [ "CalculateAmount", "db/df7/a27438.html#a820c27c2161063307a10903cbbc5c0fa", null ],
-    [ "Load", "db/df7/a27438.html#a7b71990051faaa083110408c13b8401f", null ],
-    [ "PrepareAuraScript", "db/df7/a27438.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
-    [ "Register", "db/df7/a27438.html#aa443ab0eed74229883884fbced0426d7", null ],
-    [ "absorbPct", "db/df7/a27438.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
+    [ "HandleKnockBack", "db/df7/a27438.html#acaa8f445874270f34ea5b42a506671db", null ],
+    [ "HandleScript", "db/df7/a27438.html#a29e47298601cb55c5442a3fa59bb3646", null ],
+    [ "Load", "db/df7/a27438.html#a45700aba665b601b2c860af5a869d1af", null ],
+    [ "PrepareSpellScript", "db/df7/a27438.html#aad1c175a2611152278d847ac59f93090", null ],
+    [ "Register", "db/df7/a27438.html#ad790d435f422fabd128e601fb2dff103", null ],
+    [ "Validate", "db/df7/a27438.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
 ];

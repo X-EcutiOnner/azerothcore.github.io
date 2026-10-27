@@ -1,8 +1,11 @@
 var a11466 =
 [
-    [ "TrainerBuyFailed", "d5/db4/a11466.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
-    [ "Write", "d5/db4/a11466.html#a75c3bff5da4699fc412793caef1b75af", null ],
-    [ "SpellID", "d5/db4/a11466.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
-    [ "TrainerFailedReason", "d5/db4/a11466.html#a746ff497fba16adb16bbb647dff385df", null ],
-    [ "TrainerGUID", "d5/db4/a11466.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
+    [ "LFGJoin", "d5/db4/a11466.html#a50c79bdef7393907673a328bc36ff8ae", null ],
+    [ "Read", "d5/db4/a11466.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
+    [ "Achievements", "d5/db4/a11466.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
+    [ "Comment", "d5/db4/a11466.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
+    [ "Needs", "d5/db4/a11466.html#a313c16e84e2cd0b55551d16273e95917", null ],
+    [ "NoPartialClear", "d5/db4/a11466.html#aad54be871d0978034fb69a464fd5b9df", null ],
+    [ "Roles", "d5/db4/a11466.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
+    [ "Slots", "d5/db4/a11466.html#aa14a07716504723283ad80c6357cf53f", null ]
 ];

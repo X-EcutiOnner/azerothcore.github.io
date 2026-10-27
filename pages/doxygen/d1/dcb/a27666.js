@@ -1,8 +1,9 @@
 var a27666 =
 [
-    [ "CalcPeriodic", "d1/dcb/a27666.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
-    [ "CalculateAmount", "d1/dcb/a27666.html#a525009acb345d6b0a9857c30cfce2230", null ],
-    [ "HandlePeriodic", "d1/dcb/a27666.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
-    [ "PrepareAuraScript", "d1/dcb/a27666.html#a5627212e48a3044a9a7480851787a839", null ],
-    [ "Register", "d1/dcb/a27666.html#a09ea5265d7105a4bd487d383948901a0", null ]
+    [ "HandleHeal", "d1/dcb/a27666.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "d1/dcb/a27666.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "d1/dcb/a27666.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "d1/dcb/a27666.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "d1/dcb/a27666.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "d1/dcb/a27666.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

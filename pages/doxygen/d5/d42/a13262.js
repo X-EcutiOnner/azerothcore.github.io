@@ -1,9 +1,10 @@
 var a13262 =
 [
-    [ "FilterTargets", "d5/d42/a13262.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "d5/d42/a13262.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "d5/d42/a13262.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "d5/d42/a13262.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "d5/d42/a13262.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "d5/d42/a13262.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "instance_deadmines_InstanceMapScript", "d5/d42/a13262.html#afa12491c1b276d0d643822da562320c3", null ],
+    [ "GetSaveData", "d5/d42/a13262.html#a775c7d564b931e157a32b0909efed859", null ],
+    [ "Initialize", "d5/d42/a13262.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
+    [ "Load", "d5/d42/a13262.html#ad1266c7f6a51b3f66fa67c873443c559", null ],
+    [ "OnGameObjectCreate", "d5/d42/a13262.html#a095202af8915f8a1d8888c045e18d6c4", null ],
+    [ "SetData", "d5/d42/a13262.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
+    [ "_encounters", "d5/d42/a13262.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
 ];

@@ -1,6 +1,6 @@
 var a18006 =
 [
-    [ "npc_igb_ship_crewAI", "de/d29/a18010.html", "de/d29/a18010" ],
-    [ "npc_igb_ship_crew", "de/d33/a18006.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "de/d33/a18006.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "ModAuraValue", "de/d33/a18006.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "de/d33/a18006.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "de/d33/a18006.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

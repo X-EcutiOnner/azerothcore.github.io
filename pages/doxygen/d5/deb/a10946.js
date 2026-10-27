@@ -1,6 +1,7 @@
 var a10946 =
 [
-    [ "BuyBankSlotResult", "d5/deb/a10946.html#a93b60814becc451c38f06f9702a9e027", null ],
-    [ "Write", "d5/deb/a10946.html#a55a6609863b0d3ef966f222526268acb", null ],
-    [ "Result", "d5/deb/a10946.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
+    [ "SpellScriptLoader", "d5/deb/a10946.html#a3b6fe2ba310f95c438b7cf941865fe46", null ],
+    [ "GetAuraScript", "d5/deb/a10946.html#a9c60850e39ffe3d151a128b12777859d", null ],
+    [ "GetSpellScript", "d5/deb/a10946.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
+    [ "IsDatabaseBound", "d5/deb/a10946.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
 ];

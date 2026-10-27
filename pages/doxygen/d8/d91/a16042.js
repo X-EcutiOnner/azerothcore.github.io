@@ -1,7 +1,10 @@
 var a16042 =
 [
-    [ "npc_shenthulAI", "d6/db8/a16046.html", "d6/db8/a16046" ],
-    [ "npc_shenthul", "d8/d91/a16042.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "d8/d91/a16042.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "d8/d91/a16042.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "npc_rabid_thistle_bearAI", "d8/d91/a16042.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
+    [ "Initialize", "d8/d91/a16042.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
+    [ "Reset", "d8/d91/a16042.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
+    [ "SpellHit", "d8/d91/a16042.html#a62bde5a122748564cc806046bf9dcbaa", null ],
+    [ "UpdateAI", "d8/d91/a16042.html#a8f6c5b873756a58760b2861bc8b86804", null ],
+    [ "_events", "d8/d91/a16042.html#ad3852bf4588c453642e75fcdc544767b", null ],
+    [ "_playerGUID", "d8/d91/a16042.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
 ];

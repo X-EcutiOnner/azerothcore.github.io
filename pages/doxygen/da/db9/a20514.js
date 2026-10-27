@@ -1,6 +1,9 @@
 var a20514 =
 [
-    [ "HandleAfterEffectApply", "da/db9/a20514.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "da/db9/a20514.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "da/db9/a20514.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "boss_freya_nature_bomb", "da/db9/a20514.html#a050672942ab467557d21a930ab22827c", null ],
+    [ "Reset", "da/db9/a20514.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
+    [ "UpdateAI", "da/db9/a20514.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
+    [ "_explodeTimer", "da/db9/a20514.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
+    [ "_goGUID", "da/db9/a20514.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
+    [ "Timer", "da/db9/a20514.html#affadb797817ddf512209d1d71097baf3", null ]
 ];

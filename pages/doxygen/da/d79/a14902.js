@@ -1,8 +1,7 @@
 var a14902 =
 [
-    [ "HandleDummy", "da/d79/a14902.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
-    [ "Load", "da/d79/a14902.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
-    [ "PrepareSpellScript", "da/d79/a14902.html#af1d1ad32d41d79008d650b388353346b", null ],
-    [ "Register", "da/d79/a14902.html#a53a7c4c025324b205a29f92dd48aefde", null ],
-    [ "handled", "da/d79/a14902.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
+    [ "PeriodicTick", "da/d79/a14902.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "da/d79/a14902.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "da/d79/a14902.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "da/d79/a14902.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

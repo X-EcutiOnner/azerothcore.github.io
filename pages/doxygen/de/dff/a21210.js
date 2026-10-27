@@ -1,10 +1,7 @@
 var a21210 =
 [
-    [ "npc_dragonflayer_forge_master", "de/dff/a21210.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "de/dff/a21210.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "de/dff/a21210.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "de/dff/a21210.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "de/dff/a21210.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "de/dff/a21210.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "de/dff/a21210.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "FilterTargets", "de/dff/a21210.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "de/dff/a21210.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "de/dff/a21210.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "de/dff/a21210.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

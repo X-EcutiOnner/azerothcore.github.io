@@ -1,8 +1,8 @@
 var a24414 =
 [
-    [ "npc_pet_darting_hatchling", "d4/d76/a24414.html#a7ae5973061068396bf382dc21e88cd44", null ],
-    [ "SpellHit", "d4/d76/a24414.html#a29ea5438bab7e606175c02165a607f9b", null ],
-    [ "UpdateAI", "d4/d76/a24414.html#a23196d05aebe5fa4a65455c55368820a", null ],
-    [ "checkTimer", "d4/d76/a24414.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
-    [ "goFast", "d4/d76/a24414.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
+    [ "CreatureId", "d4/d76/a24414.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "d4/d76/a24414.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "d4/d76/a24414.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "d4/d76/a24414.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "d4/d76/a24414.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

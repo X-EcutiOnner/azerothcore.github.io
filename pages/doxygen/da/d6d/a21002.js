@@ -1,6 +1,6 @@
 var a21002 =
 [
-    [ "boss_yoggsaron_influence_tentacle", "da/d6d/a21002.html#ac5908d64a4749303a08d352d470995dd", null ],
-    [ "DamageTaken", "da/d6d/a21002.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
-    [ "JustDied", "da/d6d/a21002.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
+    [ "OnPeriodic", "da/d6d/a21002.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "da/d6d/a21002.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "da/d6d/a21002.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

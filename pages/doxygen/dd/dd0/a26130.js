@@ -1,7 +1,7 @@
 var a26130 =
 [
-    [ "HandleHeal", "dd/dd0/a26130.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "dd/dd0/a26130.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "dd/dd0/a26130.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "dd/dd0/a26130.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "OnRemove", "dd/dd0/a26130.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
+    [ "PrepareAuraScript", "dd/dd0/a26130.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
+    [ "Register", "dd/dd0/a26130.html#a35a8adc4944fc2333488e72498f6d252", null ],
+    [ "Validate", "dd/dd0/a26130.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
 ];

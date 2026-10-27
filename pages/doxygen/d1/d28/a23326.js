@@ -1,7 +1,8 @@
 var a23326 =
 [
-    [ "PeriodicTick", "d1/d28/a23326.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
-    [ "PrepareAuraScript", "d1/d28/a23326.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
-    [ "Register", "d1/d28/a23326.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
-    [ "Validate", "d1/d28/a23326.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
+    [ "CalculateAmount", "d1/d28/a23326.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
+    [ "OnPeriodic", "d1/d28/a23326.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
+    [ "PrepareAuraScript", "d1/d28/a23326.html#a1278420b279449c1c6a53b1a7b53f539", null ],
+    [ "Register", "d1/d28/a23326.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
+    [ "Validate", "d1/d28/a23326.html#a601c2db3a8e47d48b956ed102cbca104", null ]
 ];

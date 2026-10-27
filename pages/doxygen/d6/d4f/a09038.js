@@ -1,10 +1,6 @@
 var a09038 =
 [
-    [ "PlayerSetting", "d6/d4f/a09038.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
-    [ "PlayerSetting", "d6/d4f/a09038.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
-    [ "AddFlag", "d6/d4f/a09038.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
-    [ "HasFlag", "d6/d4f/a09038.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
-    [ "IsEnabled", "d6/d4f/a09038.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
-    [ "RemoveFlag", "d6/d4f/a09038.html#a4ca3645233a466345d6be217d7a0df2b", null ],
-    [ "value", "d6/d4f/a09038.html#a74592e45f8ae4c5f411a982227f809f3", null ]
+    [ "PlayerClassLevelInfo", "d6/d4f/a09038.html#a60153094e3179bfc6c028d2b76775805", null ],
+    [ "basehealth", "d6/d4f/a09038.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
+    [ "basemana", "d6/d4f/a09038.html#a939a8d8739a553c919d84e399ce17d22", null ]
 ];

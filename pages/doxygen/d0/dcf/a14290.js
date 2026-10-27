@@ -1,8 +1,12 @@
 var a14290 =
 [
-    [ "npc_the_scourge_cauldronAI", "d0/dcf/a14290.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "d0/dcf/a14290.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "d0/dcf/a14290.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "d0/dcf/a14290.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "d0/dcf/a14290.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "npc_koltira_deathweaver", "d0/dcf/a14290.html#a4d71e3da1340693b08127d9647efb7bb", null ],
+    [ "MovementInform", "d0/dcf/a14290.html#a708ed9530e94397252d28b0f25e5f0c0", null ],
+    [ "Reset", "d0/dcf/a14290.html#a5997672bc9bea9d119b79fdc9bd70b2e", null ],
+    [ "sGossipSelect", "d0/dcf/a14290.html#a23a56674749f287a59fa34fe3027a800", null ],
+    [ "sQuestAccept", "d0/dcf/a14290.html#a099e6f33720417ff376343ad9e64abae", null ],
+    [ "StartEvent", "d0/dcf/a14290.html#a8c40b2c1d232d2cf4cc4e1f2e99a431c", null ],
+    [ "SummonedCreatureDies", "d0/dcf/a14290.html#abd016ea1f5bc6e2167e5e09d1d05bf27", null ],
+    [ "UpdateAI", "d0/dcf/a14290.html#a110d20298f724095b1c526714268c98e", null ],
+    [ "_valrothGUID", "d0/dcf/a14290.html#ab2f9e13993b7b0a357a3264c487e77aa", null ]
 ];

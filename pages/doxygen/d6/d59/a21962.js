@@ -1,6 +1,7 @@
 var a21962 =
 [
-    [ "npc_lake_frogAI", "d6/dba/a21966.html", "d6/dba/a21966" ],
-    [ "npc_lake_frog", "d6/d59/a21962.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
-    [ "GetAI", "d6/d59/a21962.html#a9730da684a81fced304f10b2806c10e5", null ]
+    [ "CheckCast", "d6/d59/a21962.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
+    [ "HandleScript", "d6/d59/a21962.html#a8128bb2d7588409dae73bed78d5285a7", null ],
+    [ "PrepareSpellScript", "d6/d59/a21962.html#aee17a8a21ec5df027082c6990189dccc", null ],
+    [ "Register", "d6/d59/a21962.html#a2a97265e102e9ce31997d99275b42973", null ]
 ];

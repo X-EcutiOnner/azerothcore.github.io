@@ -1,10 +1,12 @@
 var a23770 =
 [
-    [ "boss_thorngrin_the_tender", "dc/dd9/a23770.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
-    [ "JustDied", "dc/dd9/a23770.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
-    [ "JustEngagedWith", "dc/dd9/a23770.html#a647ed5b29861b719d3c4a11fd110c512", null ],
-    [ "KilledUnit", "dc/dd9/a23770.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
-    [ "MoveInLineOfSight", "dc/dd9/a23770.html#a9467e59287b3e917907de82507d1a16d", null ],
-    [ "Reset", "dc/dd9/a23770.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
-    [ "_intro", "dc/dd9/a23770.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
+    [ "boss_omor_the_unscarred", "dc/dd9/a23770.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "dc/dd9/a23770.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "dc/dd9/a23770.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "dc/dd9/a23770.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "dc/dd9/a23770.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "dc/dd9/a23770.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "dc/dd9/a23770.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "dc/dd9/a23770.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "dc/dd9/a23770.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

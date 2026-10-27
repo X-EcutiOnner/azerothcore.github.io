@@ -1,7 +1,8 @@
 var a11562 =
 [
-    [ "PetDismissSound", "d7/dc0/a11562.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
-    [ "Write", "d7/dc0/a11562.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
-    [ "ModelId", "d7/dc0/a11562.html#aba65e6547adde55978ce7b2abb779d51", null ],
-    [ "ModelPosition", "d7/dc0/a11562.html#a06e6bff9d70996ba890c31ea74363dad", null ]
+    [ "TrainerBuyFailed", "d7/dc0/a11562.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
+    [ "Write", "d7/dc0/a11562.html#a75c3bff5da4699fc412793caef1b75af", null ],
+    [ "SpellID", "d7/dc0/a11562.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
+    [ "TrainerFailedReason", "d7/dc0/a11562.html#a746ff497fba16adb16bbb647dff385df", null ],
+    [ "TrainerGUID", "d7/dc0/a11562.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
 ];

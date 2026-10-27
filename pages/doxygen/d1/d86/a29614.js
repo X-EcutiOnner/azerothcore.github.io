@@ -1,6 +1,9 @@
 var a29614 =
 [
-    [ "hasInstantTargetProcs", "d1/d86/a29614.html#a043a2884a456208d85bc3bf8d4733682", null ],
-    [ "isRemoved", "d1/d86/a29614.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
-    [ "spellId", "d1/d86/a29614.html#aee26a119051d638047018aeb93d593f6", null ]
+    [ "Category", "d1/d86/a29614.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "d1/d86/a29614.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "d1/d86/a29614.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "d1/d86/a29614.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "d1/d86/a29614.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "d1/d86/a29614.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

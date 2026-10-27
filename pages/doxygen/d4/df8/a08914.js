@@ -1,7 +1,7 @@
 var a08914 =
 [
-    [ "IsInSpec", "d4/df8/a08914.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
-    [ "Active", "d4/df8/a08914.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
-    [ "specMask", "d4/df8/a08914.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
-    [ "State", "d4/df8/a08914.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
+    [ "ObjectDistanceOrderPred", "d4/df8/a08914.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
+    [ "operator()", "d4/df8/a08914.html#aaa5023735568f6df28a177fbd9ed866e", null ],
+    [ "m_ascending", "d4/df8/a08914.html#a313cd0450096e49716bfb52f8f238bfc", null ],
+    [ "m_refObj", "d4/df8/a08914.html#aec421fd45a60545bf92b7236e0d0b360", null ]
 ];

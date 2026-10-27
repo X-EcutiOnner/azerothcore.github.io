@@ -1,7 +1,8 @@
 var a20406 =
 [
-    [ "npc_ulduar_saronite_vapors", "dd/d80/a20406.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
-    [ "IsSummonedBy", "dd/d80/a20406.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
-    [ "JustDied", "dd/d80/a20406.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "_instance", "dd/d80/a20406.html#ad304110ff1bfc33066cd17f04cf40181", null ]
+    [ "OnApply", "dd/d80/a20406.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "dd/d80/a20406.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "dd/d80/a20406.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "dd/d80/a20406.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "dd/d80/a20406.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

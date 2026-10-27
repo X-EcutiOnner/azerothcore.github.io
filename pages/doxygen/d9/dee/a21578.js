@@ -1,10 +1,7 @@
 var a21578 =
 [
-    [ "npc_lurgglbrAI", "d9/dee/a21578.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "d9/dee/a21578.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "d9/dee/a21578.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "d9/dee/a21578.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "WaypointReached", "d9/dee/a21578.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "IntroPhase", "d9/dee/a21578.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "d9/dee/a21578.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "HandleDummy", "d9/dee/a21578.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "d9/dee/a21578.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "d9/dee/a21578.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "d9/dee/a21578.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

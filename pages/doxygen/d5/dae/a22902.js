@@ -1,6 +1,7 @@
 var a22902 =
 [
-    [ "boss_reliquary_of_soulsAI", "d5/def/a22906.html", "d5/def/a22906" ],
-    [ "boss_reliquary_of_souls", "d5/dae/a22902.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "d5/dae/a22902.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "npc_voidtraveler", "d5/dae/a22902.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "d5/dae/a22902.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "d5/dae/a22902.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "d5/dae/a22902.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

@@ -1,6 +1,6 @@
 var a23818 =
 [
-    [ "AfterRemove", "d2/d9c/a23818.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d2/d9c/a23818.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d2/d9c/a23818.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "HandleScriptEffect", "d2/d9c/a23818.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
+    [ "PrepareSpellScript", "d2/d9c/a23818.html#a287bff28e57a86f0176921500de78fa9", null ],
+    [ "Register", "d2/d9c/a23818.html#ad5fb101794dfdef0c08551dd9397b965", null ]
 ];

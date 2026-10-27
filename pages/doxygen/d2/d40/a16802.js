@@ -1,6 +1,6 @@
 var a16802 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "d6/da7/a16806.html", "d6/da7/a16806" ],
-    [ "npc_toc5_grand_champion_minion", "d2/d40/a16802.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
-    [ "GetAI", "d2/d40/a16802.html#a55acf397b94ba63b1db626dc1041b28e", null ]
+    [ "npc_living_infernoAI", "d2/d40/a16802.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "d2/d40/a16802.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "d2/d40/a16802.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

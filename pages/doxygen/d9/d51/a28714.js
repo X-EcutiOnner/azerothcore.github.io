@@ -1,5 +1,8 @@
 var a28714 =
 [
-    [ "go_transport_the_purple_princess", "d9/d51/a28714.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "d9/d51/a28714.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "npc_chicken_cluckAI", "db/d08/a28718.html", "db/d08/a28718" ],
+    [ "npc_chicken_cluck", "d9/d51/a28714.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "d9/d51/a28714.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "d9/d51/a28714.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "d9/d51/a28714.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

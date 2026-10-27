@@ -1,7 +1,7 @@
 var a06262 =
 [
-    [ "TransactionWithResultTask", "da/d8a/a06262.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
-    [ "Execute", "da/d8a/a06262.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
-    [ "GetFuture", "da/d8a/a06262.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
-    [ "m_result", "da/d8a/a06262.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
+    [ "ToString", "da/d8a/a06262.html#a252569604d54dedfbe28b320911aa7b7", null ],
+    [ "ToString", "da/d8a/a06262.html#ab114258f0dc260983aceea6ca63c1a5c", null ],
+    [ "ToString", "da/d8a/a06262.html#a61c3f0b723ff92ab388b5cd27cea3151", null ],
+    [ "data", "da/d8a/a06262.html#ac0fb35a34d9ef399f00ab0bb146afd18", null ]
 ];

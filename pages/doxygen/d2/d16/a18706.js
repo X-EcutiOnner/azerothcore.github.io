@@ -1,7 +1,8 @@
 var a18706 =
 [
-    [ "CheckTargetCount", "d2/d16/a18706.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
-    [ "PrepareSpellScript", "d2/d16/a18706.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
-    [ "Register", "d2/d16/a18706.html#a86e7512496fd38201d458c03a7a60296", null ],
-    [ "Validate", "d2/d16/a18706.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
+    [ "FilterTargets", "d2/d16/a18706.html#a14e392760361b95578bc95de10cdd8aa", null ],
+    [ "HandleForcedCast", "d2/d16/a18706.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
+    [ "PrepareSpellScript", "d2/d16/a18706.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
+    [ "Register", "d2/d16/a18706.html#ac2105e66f692c6a991ac9190b1901505", null ],
+    [ "Validate", "d2/d16/a18706.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
 ];

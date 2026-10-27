@@ -1,8 +1,9 @@
 var a20658 =
 [
-    [ "npc_ulduar_mimiron_rocket", "df/da7/a20658.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
-    [ "InitializeAI", "df/da7/a20658.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
-    [ "Reset", "df/da7/a20658.html#a982da2f2392882a86e72de4c4769fa41", null ],
-    [ "SetData", "df/da7/a20658.html#a507124f21657b62ff2b68060b52503b1", null ],
-    [ "UpdateAI", "df/da7/a20658.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
+    [ "CheckProc", "df/da7/a20658.html#a8ab051ee6fc080f5aa88d86d181f7890", null ],
+    [ "HandleAfterEffectApply", "df/da7/a20658.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "HandleProc", "df/da7/a20658.html#a2ee2121d3d55bf6067de985e8d999de2", null ],
+    [ "PrepareAuraScript", "df/da7/a20658.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "df/da7/a20658.html#adce13201dd11c6ba83883b12ad32d1f6", null ],
+    [ "Validate", "df/da7/a20658.html#a30733bf8ca4d619d6eafafa78df4c0f7", null ]
 ];

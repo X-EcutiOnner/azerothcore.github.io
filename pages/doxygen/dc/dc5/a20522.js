@@ -1,5 +1,6 @@
 var a20522 =
 [
-    [ "achievement_cheese_the_freeze", "dc/dc5/a20522.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "dc/dc5/a20522.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "achievement_freya_knock_on_wood", "dc/dc5/a20522.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "dc/dc5/a20522.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "dc/dc5/a20522.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

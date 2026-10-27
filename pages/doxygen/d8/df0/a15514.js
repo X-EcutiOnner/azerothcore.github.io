@@ -1,9 +1,12 @@
 var a15514 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "d8/df0/a15514.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "d8/df0/a15514.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "d8/df0/a15514.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "d8/df0/a15514.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "d8/df0/a15514.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "d8/df0/a15514.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "boss_isalien", "d8/df0/a15514.html#a736a25e60ae367a45c7d6451be96126d", null ],
+    [ "DamageTaken", "d8/df0/a15514.html#a95d461e099193b5e2c1363acb1b5939a", null ],
+    [ "JustDied", "d8/df0/a15514.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
+    [ "JustEngagedWith", "d8/df0/a15514.html#ad6714da515db77c7299ee80b3268433e", null ],
+    [ "JustSummoned", "d8/df0/a15514.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
+    [ "Reset", "d8/df0/a15514.html#a4995c18e2baa62d05717617d0b1e3529", null ],
+    [ "UpdateAI", "d8/df0/a15514.html#aa067bea34557a4b2fe840ef305852bc0", null ],
+    [ "_phase", "d8/df0/a15514.html#a954bbd32948e6c416197199d96142056", null ],
+    [ "_scheduler", "d8/df0/a15514.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
 ];

@@ -1,7 +1,7 @@
 var a13090 =
 [
-    [ "HandleScript", "dd/dde/a13090.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "dd/dde/a13090.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "dd/dde/a13090.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "dd/dde/a13090.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "HandleDummy", "dd/dde/a13090.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "dd/dde/a13090.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "dd/dde/a13090.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "dd/dde/a13090.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

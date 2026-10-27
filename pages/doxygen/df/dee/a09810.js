@@ -1,8 +1,8 @@
 var a09810 =
 [
-    [ "NearestHostileUnitInAttackDistanceCheck", "df/dee/a09810.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
-    [ "NearestHostileUnitInAttackDistanceCheck", "df/dee/a09810.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
-    [ "operator()", "df/dee/a09810.html#adc28281742cd1f6a49152481b48f944e", null ],
-    [ "m_range", "df/dee/a09810.html#ab79296a88ed07257edbe3449c2515b40", null ],
-    [ "me", "df/dee/a09810.html#a298d2489b9bf30aa510407afca79a374", null ]
+    [ "RespawnDo", "df/dee/a09810.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
+    [ "operator()", "df/dee/a09810.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
+    [ "operator()", "df/dee/a09810.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
+    [ "operator()", "df/dee/a09810.html#a66335f45bb1f3c770887b263e9d84236", null ],
+    [ "operator()", "df/dee/a09810.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
 ];

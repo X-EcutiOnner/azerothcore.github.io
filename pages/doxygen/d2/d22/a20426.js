@@ -1,7 +1,7 @@
 var a20426 =
 [
-    [ "HandleAfterEffectApply", "d2/d22/a20426.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "d2/d22/a20426.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "d2/d22/a20426.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "d2/d22/a20426.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "HandleScript", "d2/d22/a20426.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
+    [ "PrepareSpellScript", "d2/d22/a20426.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
+    [ "Register", "d2/d22/a20426.html#a04a5b3a4f768200d74f4641508633d35", null ],
+    [ "Validate", "d2/d22/a20426.html#a78074b5b64b1ee5dfaab812f6c72bb9b", null ]
 ];

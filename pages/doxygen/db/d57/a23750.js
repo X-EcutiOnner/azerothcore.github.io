@@ -1,7 +1,7 @@
 var a23750 =
 [
-    [ "AfterApply", "db/d57/a23750.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "db/d57/a23750.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "db/d57/a23750.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "db/d57/a23750.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "PeriodicTick", "db/d57/a23750.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "db/d57/a23750.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "db/d57/a23750.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "db/d57/a23750.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

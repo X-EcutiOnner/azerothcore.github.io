@@ -1,8 +1,8 @@
 var a27530 =
 [
-    [ "CheckProc", "df/d6b/a27530.html#a9fedf04ae5a49ad2f2b0c9f34f5813f6", null ],
-    [ "HandleProc", "df/d6b/a27530.html#ad41f37b773e528385151f8059974b821", null ],
-    [ "PrepareAuraScript", "df/d6b/a27530.html#acd65db816c8562108272e6849481f0ca", null ],
-    [ "Register", "df/d6b/a27530.html#a56d85b502b6660ab4ecccc92dd799720", null ],
-    [ "Validate", "df/d6b/a27530.html#aa722dde17ef9142578d50b19b8c4c8e5", null ]
+    [ "HandleDummy", "df/d6b/a27530.html#a308880cf9c61c76de0fdee05fff2b463", null ],
+    [ "Load", "df/d6b/a27530.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
+    [ "PrepareSpellScript", "df/d6b/a27530.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
+    [ "Register", "df/d6b/a27530.html#a1857b342ae34a57f079f45019645c688", null ],
+    [ "Validate", "df/d6b/a27530.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
 ];

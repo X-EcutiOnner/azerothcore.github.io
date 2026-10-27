@@ -1,8 +1,7 @@
 var a13782 =
 [
-    [ "CheckCast", "d1/dc7/a13782.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
-    [ "HandleScriptEffect", "d1/dc7/a13782.html#a22f630cb9df4b435a5624f2865915753", null ],
-    [ "PrepareSpellScript", "d1/dc7/a13782.html#a6e6b27ade1cac743946a976dbf343066", null ],
-    [ "Register", "d1/dc7/a13782.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
-    [ "Validate", "d1/dc7/a13782.html#a85779288126b21f516f2feb0238ee65b", null ]
+    [ "OnRemove", "d1/dc7/a13782.html#a55460c6393c165e3096c967c81136032", null ],
+    [ "PrepareAuraScript", "d1/dc7/a13782.html#afd4e4483f704169e6d213ced134d4c62", null ],
+    [ "Register", "d1/dc7/a13782.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
+    [ "Validate", "d1/dc7/a13782.html#af580258d287f5db6103b89d3085669bc", null ]
 ];

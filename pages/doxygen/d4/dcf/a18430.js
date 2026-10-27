@@ -1,7 +1,7 @@
 var a18430 =
 [
-    [ "HandleCast", "d4/dcf/a18430.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "d4/dcf/a18430.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "d4/dcf/a18430.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "d4/dcf/a18430.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "HandleTriggerSpell", "d4/dcf/a18430.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d4/dcf/a18430.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d4/dcf/a18430.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d4/dcf/a18430.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

@@ -1,10 +1,10 @@
 var a28114 =
 [
-    [ "boss_emerissAI", "de/d3f/a28114.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "de/d3f/a28114.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "de/d3f/a28114.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "de/d3f/a28114.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "de/d3f/a28114.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "de/d3f/a28114.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "de/d3f/a28114.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "CheckProc", "de/d3f/a28114.html#a68a559c46266fc7337f7d56bb66af542", null ],
+    [ "HandleProc", "de/d3f/a28114.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
+    [ "Load", "de/d3f/a28114.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
+    [ "PrepareAuraScript", "de/d3f/a28114.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
+    [ "Register", "de/d3f/a28114.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
+    [ "Validate", "de/d3f/a28114.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
+    [ "_procTargetGUID", "de/d3f/a28114.html#af2c6243fa93ee7aba2e7e61e1e40ea60", null ]
 ];

@@ -1,6 +1,9 @@
 var a17998 =
 [
-    [ "npc_zafod_boomboxAI", "df/df1/a18002.html", "df/df1/a18002" ],
-    [ "npc_zafod_boombox", "da/da5/a17998.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
-    [ "GetAI", "da/da5/a17998.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
+    [ "CheckProc", "da/da5/a17998.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "da/da5/a17998.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "da/da5/a17998.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "da/da5/a17998.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "da/da5/a17998.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "da/da5/a17998.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

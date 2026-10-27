@@ -1,16 +1,19 @@
 var a07922 =
 [
-    [ "Print", "d0/d8a/a07922.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
-    [ "CliHandler", "d0/d8a/a07922.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
-    [ "GetAcoreString", "d0/d8a/a07922.html#ab12ec41c55bc5f92461abff538a76b66", null ],
-    [ "GetModuleString", "d0/d8a/a07922.html#aefd8e9833bbe24c6414dc6259d078df6", null ],
-    [ "GetNameLink", "d0/d8a/a07922.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
-    [ "GetSessionDbcLocale", "d0/d8a/a07922.html#a610f7431dc7b064c964e0d446160d19f", null ],
-    [ "GetSessionDbLocaleIndex", "d0/d8a/a07922.html#a5a2118d9227aa53818d736e387d77dea", null ],
-    [ "HasSession", "d0/d8a/a07922.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
-    [ "needReportToTarget", "d0/d8a/a07922.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
-    [ "ParseCommands", "d0/d8a/a07922.html#abbd02247d6094bf39b2791ba45e9942e", null ],
-    [ "SendSysMessage", "d0/d8a/a07922.html#a636be10a282a8d100b807dac119b3ff6", null ],
-    [ "m_callbackArg", "d0/d8a/a07922.html#aa1fafd68fca180506cc15680b695db9e", null ],
-    [ "m_print", "d0/d8a/a07922.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
+    [ "BattlegroundRV", "d0/d8a/a07922.html#ad8c16fa336cd5b0d98eb0009ef094632", null ],
+    [ "CheckPositionForUnit", "d0/d8a/a07922.html#a17665265c5ab837b4e2a0cdc461a7d0a", null ],
+    [ "FillInitialWorldStates", "d0/d8a/a07922.html#a62c7201196fabb6000d2df52b8323e6a", null ],
+    [ "GetPillarAtPosition", "d0/d8a/a07922.html#a0cd6f84233993bde76be990abab75f23", null ],
+    [ "GetPillarIdForPos", "d0/d8a/a07922.html#a4edb8efce09dece515e8b833142d2c55", null ],
+    [ "HandleAreaTrigger", "d0/d8a/a07922.html#aa75f63f77d1f7e8bafffe1d8cb7de9b8", null ],
+    [ "HandlePlayerUnderMap", "d0/d8a/a07922.html#a4cb2e77a45fd02a5db85b6979d622afa", null ],
+    [ "Init", "d0/d8a/a07922.html#a67853fccaddfcd946015a96c5b108641", null ],
+    [ "PostUpdateImpl", "d0/d8a/a07922.html#a9707d8805f031c01c14d78fdc1790a64", null ],
+    [ "SetupBattleground", "d0/d8a/a07922.html#abbd1a364665655cfc4f059fa63384536", null ],
+    [ "StartingEventOpenDoors", "d0/d8a/a07922.html#a450c1d8a9ad4712ab4042256ba7d9d08", null ],
+    [ "TeleportUnitToNewZ", "d0/d8a/a07922.html#ac5b158259ccc5168275c0e00ea041db0", null ],
+    [ "UpdatePillars", "d0/d8a/a07922.html#a76d16c8ab6778a6fc8a4c988a46f0306", null ],
+    [ "_checkPlayersTimer", "d0/d8a/a07922.html#a7c876ff9156f81b168aec7cf673d39b3", null ],
+    [ "_state", "d0/d8a/a07922.html#acce3fce40dbbb403749dcdb986e1d970", null ],
+    [ "_timer", "d0/d8a/a07922.html#ac5f9a8627e919eb224d78d726da1a7a1", null ]
 ];

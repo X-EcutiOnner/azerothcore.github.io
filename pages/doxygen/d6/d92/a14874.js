@@ -1,6 +1,7 @@
 var a14874 =
 [
-    [ "OnAuraRemove", "d6/d92/a14874.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "d6/d92/a14874.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "d6/d92/a14874.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "npc_direbrew_minion", "d6/d92/a14874.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "d6/d92/a14874.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "d6/d92/a14874.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "d6/d92/a14874.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

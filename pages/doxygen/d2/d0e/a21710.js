@@ -1,9 +1,8 @@
 var a21710 =
 [
-    [ "npc_minigob_manabonk", "d2/d0e/a21710.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "d2/d0e/a21710.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "d2/d0e/a21710.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "d2/d0e/a21710.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "d2/d0e/a21710.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "d2/d0e/a21710.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "npc_azure_sorceror", "d2/d0e/a21710.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
+    [ "Reset", "d2/d0e/a21710.html#af4bc0ff9b938302c399bff528dd06769", null ],
+    [ "UpdateAI", "d2/d0e/a21710.html#a36675e89aab24a92589a33f88fbec2bd", null ],
+    [ "_arcaneStreamOnCooldown", "d2/d0e/a21710.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
+    [ "_events", "d2/d0e/a21710.html#a3bd018057b31c90afd19ac6943d44591", null ]
 ];

@@ -1,6 +1,10 @@
 var a25098 =
 [
-    [ "HandleDummy", "d2/d86/a25098.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
-    [ "PrepareSpellScript", "d2/d86/a25098.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
-    [ "Register", "d2/d86/a25098.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
+    [ "CheckProc", "d2/d86/a25098.html#a1afbc5f8e86e0382be43c947e88306b3", null ],
+    [ "HandleProc", "d2/d86/a25098.html#a9fbfe3fba6283362bab181fcd15611b3", null ],
+    [ "PrepareAuraScript", "d2/d86/a25098.html#aa060ed89bc5e3c80d6402c8e79baa597", null ],
+    [ "Register", "d2/d86/a25098.html#a43cc9387ce5b1665147dcfecb1476c22", null ],
+    [ "Validate", "d2/d86/a25098.html#ad167a260f9a3d1f71a5a11b0bab6161c", null ],
+    [ "_lunarProcCooldownEnd", "d2/d86/a25098.html#a9fd6d9c34dba5cb302010df4d5c560c2", null ],
+    [ "_solarProcCooldownEnd", "d2/d86/a25098.html#a6f50d14abee53eb06f50edbcc78628c4", null ]
 ];

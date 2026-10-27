@@ -1,12 +1,12 @@
 var a12630 =
 [
-    [ "wp_commandscript", "d0/d06/a12630.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "d0/d06/a12630.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "d0/d06/a12630.html#a345a8c5a2b449dc228433b2922caab0e", null ],
-    [ "HandleWpEventCommand", "d0/d06/a12630.html#a7b9355e52cb6870e7cdec7206f800832", null ],
-    [ "HandleWpLoadCommand", "d0/d06/a12630.html#a5849689f5cd186e8fc1f91ebd5f5a21a", null ],
-    [ "HandleWpModifyCommand", "d0/d06/a12630.html#a9a3e68e19f2324783bbe9ed9fe1c3ac6", null ],
-    [ "HandleWpReloadCommand", "d0/d06/a12630.html#ae7015c0f94ca5688210d890b636a586d", null ],
-    [ "HandleWpShowCommand", "d0/d06/a12630.html#a265f60ddec02a2f24b011ccdebefa89e", null ],
-    [ "HandleWpUnLoadCommand", "d0/d06/a12630.html#a4f0a252f625e49593ad6a03086a8c7ad", null ]
+    [ "message_commandscript", "d0/d06/a12630.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
+    [ "GetCommands", "d0/d06/a12630.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
+    [ "HandleAnnounceCommand", "d0/d06/a12630.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
+    [ "HandleGMAnnounceCommand", "d0/d06/a12630.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
+    [ "HandleGMNameAnnounceCommand", "d0/d06/a12630.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
+    [ "HandleGMNotifyCommand", "d0/d06/a12630.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
+    [ "HandleNameAnnounceCommand", "d0/d06/a12630.html#a786902b70345712c6dba9f638695dd9e", null ],
+    [ "HandleNotifyCommand", "d0/d06/a12630.html#a0d53b2414931451b30abd2fe5acee1af", null ],
+    [ "HandleWhispersCommand", "d0/d06/a12630.html#a9a02c97677250136f9717968a9f47b73", null ]
 ];

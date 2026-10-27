@@ -1,10 +1,9 @@
 var a14650 =
 [
-    [ "npc_zealot_lorkhan", "d8/de4/a14650.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "d8/de4/a14650.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "d8/de4/a14650.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "d8/de4/a14650.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "d8/de4/a14650.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "d8/de4/a14650.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "d8/de4/a14650.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "boss_hazzarah", "d8/de4/a14650.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "d8/de4/a14650.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "d8/de4/a14650.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "d8/de4/a14650.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "d8/de4/a14650.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "d8/de4/a14650.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

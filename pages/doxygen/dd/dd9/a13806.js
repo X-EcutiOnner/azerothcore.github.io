@@ -1,6 +1,7 @@
 var a13806 =
 [
-    [ "FixOrientation", "dd/dd9/a13806.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
-    [ "Execute", "dd/dd9/a13806.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
-    [ "_owner", "dd/dd9/a13806.html#a5f12db3774bdeef25a300780c00db1fb", null ]
+    [ "HandleScriptEffect", "dd/dd9/a13806.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
+    [ "PrepareSpellScript", "dd/dd9/a13806.html#a17c49de5f6a37ff83126398d96b43a51", null ],
+    [ "Register", "dd/dd9/a13806.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
+    [ "Validate", "dd/dd9/a13806.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
 ];

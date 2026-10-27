@@ -1,11 +1,6 @@
 var a20018 =
 [
-    [ "boss_maiden_of_griefAI", "d2/ddf/a20018.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
-    [ "JustDied", "d2/ddf/a20018.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
-    [ "JustEngagedWith", "d2/ddf/a20018.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
-    [ "KilledUnit", "d2/ddf/a20018.html#a3d2173db5a852a356c187b2d2771b75f", null ],
-    [ "Reset", "d2/ddf/a20018.html#a46776004549b0dcfcf73351225adaad8", null ],
-    [ "UpdateAI", "d2/ddf/a20018.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
-    [ "events", "d2/ddf/a20018.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
-    [ "pInstance", "d2/ddf/a20018.html#abc195718a208a926f978d7f0fe0e7925", null ]
+    [ "npc_centrifuge_constructAI", "df/d1d/a20022.html", "df/d1d/a20022" ],
+    [ "npc_centrifuge_construct", "d2/ddf/a20018.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "d2/ddf/a20018.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

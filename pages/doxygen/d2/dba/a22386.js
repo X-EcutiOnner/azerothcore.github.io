@@ -1,7 +1,6 @@
 var a22386 =
 [
-    [ "npc_wg_quest_giver", "d2/dba/a22386.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d2/dba/a22386.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d2/dba/a22386.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d2/dba/a22386.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_mcmanus", "d2/dba/a22386.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "d2/dba/a22386.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "d2/dba/a22386.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

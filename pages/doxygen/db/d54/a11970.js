@@ -1,8 +1,14 @@
 var a11970 =
 [
-    [ "target_mapId", "db/d54/a11970.html#a6dbbb558810388e0d051d84a0279a444", null ],
-    [ "target_Orientation", "db/d54/a11970.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
-    [ "target_X", "db/d54/a11970.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
-    [ "target_Y", "db/d54/a11970.html#a6f432d8770adebf513346713b7890b5c", null ],
-    [ "target_Z", "db/d54/a11970.html#a3af706b81f8fbef12277c518964f717a", null ]
+    [ "alive", "db/d54/a11970.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
+    [ "crit", "db/d54/a11970.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
+    [ "damage", "db/d54/a11970.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
+    [ "damageBeforeTakenMods", "db/d54/a11970.html#a85196e5b5865856962898c18001880c7", null ],
+    [ "effectMask", "db/d54/a11970.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
+    [ "missCondition", "db/d54/a11970.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
+    [ "processed", "db/d54/a11970.html#a2de96d62297ff614fc3702bec035ce5b", null ],
+    [ "reflectResult", "db/d54/a11970.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
+    [ "scaleAura", "db/d54/a11970.html#a89bba366b26686d41288e9b2e725eb75", null ],
+    [ "targetGUID", "db/d54/a11970.html#acf55c1dd6f00c94296c592d988f959cf", null ],
+    [ "timeDelay", "db/d54/a11970.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
 ];

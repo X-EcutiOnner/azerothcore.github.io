@@ -1,6 +1,7 @@
 var a23986 =
 [
-    [ "npc_daranelleAI", "d1/daf/a23990.html", "d1/daf/a23990" ],
-    [ "npc_daranelle", "d7/d87/a23986.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "d7/d87/a23986.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "boss_warp_splinter", "d7/d87/a23986.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d7/d87/a23986.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d7/d87/a23986.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d7/d87/a23986.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

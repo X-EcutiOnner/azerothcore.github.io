@@ -1,7 +1,12 @@
 var a08814 =
 [
-    [ "ObjectDistanceOrderPred", "dd/d8b/a08814.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
-    [ "operator()", "dd/d8b/a08814.html#aaa5023735568f6df28a177fbd9ed866e", null ],
-    [ "m_ascending", "dd/d8b/a08814.html#a313cd0450096e49716bfb52f8f238bfc", null ],
-    [ "m_refObj", "dd/d8b/a08814.html#aec421fd45a60545bf92b7236e0d0b360", null ]
+    [ "QuaternionData", "dd/d8b/a08814.html#a8a582c133d5fba901470a776c7144432", null ],
+    [ "QuaternionData", "dd/d8b/a08814.html#a7f68a7bf3da861de017168eef5b8c6a0", null ],
+    [ "FromEulerAnglesZYX", "dd/d8b/a08814.html#a4c5f4bc5c0bd4fff3f3ad77e6fd74c09", null ],
+    [ "IsUnit", "dd/d8b/a08814.html#ab0330c115f97ff6368d8e8ab9820191e", null ],
+    [ "ToEulerAnglesZYX", "dd/d8b/a08814.html#a65c564f6ae82c8f1bfb8f7786b5f0b90", null ],
+    [ "w", "dd/d8b/a08814.html#a1f5567b478ebb94161786c85a29ad66a", null ],
+    [ "x", "dd/d8b/a08814.html#aca37b701a67eefbf72922a5e7bf98cb2", null ],
+    [ "y", "dd/d8b/a08814.html#ac222999cbb4681893fe591a5afc3587d", null ],
+    [ "z", "dd/d8b/a08814.html#a7418b0e143cc32169864d77870db5ad7", null ]
 ];

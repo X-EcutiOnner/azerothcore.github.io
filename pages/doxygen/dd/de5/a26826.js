@@ -1,7 +1,8 @@
 var a26826 =
 [
-    [ "CheckAreaTarget", "dd/de5/a26826.html#a3c2dc43efc37be1b34cba266a478f46e", null ],
-    [ "PrepareAuraScript", "dd/de5/a26826.html#a88c7c19e87106e1bbf6cc5a24a3bc2e4", null ],
-    [ "Register", "dd/de5/a26826.html#a9cbc5794b1ed54fe9313cd161ec5b19f", null ],
-    [ "Validate", "dd/de5/a26826.html#ab18a951259cc74b0ba8319f757e38eca", null ]
+    [ "CheckProc", "dd/de5/a26826.html#a05580997d10960d8a8186c42b008894f", null ],
+    [ "OnRemove", "dd/de5/a26826.html#a55cc4caf383fa643dd9df6c335937063", null ],
+    [ "PrepareAuraScript", "dd/de5/a26826.html#a19bbc19f6a8f2e59903319eb56afacea", null ],
+    [ "Register", "dd/de5/a26826.html#a2caaa38b44038e58f1715deb2af1a7ec", null ],
+    [ "Validate", "dd/de5/a26826.html#a93fe3df6878e3edb540a70871dd98e7d", null ]
 ];

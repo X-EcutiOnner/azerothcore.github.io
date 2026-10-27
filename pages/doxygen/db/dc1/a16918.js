@@ -1,6 +1,6 @@
 var a16918 =
 [
-    [ "npc_toc_priestAI", "d8/d8a/a16922.html", "d8/d8a/a16922" ],
-    [ "npc_toc_priest", "db/dc1/a16918.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "db/dc1/a16918.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "npc_toc5_grand_champion_minionAI", "d8/d8a/a16922.html", "d8/d8a/a16922" ],
+    [ "npc_toc5_grand_champion_minion", "db/dc1/a16918.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
+    [ "GetAI", "db/dc1/a16918.html#a55acf397b94ba63b1db626dc1041b28e", null ]
 ];

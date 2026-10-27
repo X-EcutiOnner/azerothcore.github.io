@@ -1,6 +1,7 @@
 var a21854 =
 [
-    [ "npc_q24545_vegard_dummyAI", "dd/d4c/a21854.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "dd/d4c/a21854.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "dd/d4c/a21854.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "npc_warmage_violetstand", "dd/d4c/a21854.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "dd/d4c/a21854.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "dd/d4c/a21854.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "dd/d4c/a21854.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

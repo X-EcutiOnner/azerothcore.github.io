@@ -1,12 +1,10 @@
 var a21394 =
 [
-    [ "boss_koralonAI", "d2/d1a/a21394.html#a3f5bc42a141011e543d1215eac09dc74", null ],
-    [ "AttackStart", "d2/d1a/a21394.html#aa84e6e9a302172e134163cd07ca57864", null ],
-    [ "JustDied", "d2/d1a/a21394.html#a102c10792d9e7df61d920b5a43f58e51", null ],
-    [ "JustEngagedWith", "d2/d1a/a21394.html#aa7503618dd09e0aebac44394595f4715", null ],
-    [ "Reset", "d2/d1a/a21394.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
-    [ "UpdateAI", "d2/d1a/a21394.html#aa944aad2eb68adc917cba743d1e530c7", null ],
-    [ "events", "d2/d1a/a21394.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
-    [ "pInstance", "d2/d1a/a21394.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
-    [ "rotateTimer", "d2/d1a/a21394.html#ad4b766094f28e940b0b7971d6dadc277", null ]
+    [ "npc_enslaved_proto_drake", "d2/d1a/a21394.html#aec835fdc8b1beb270176d5341d26c265", null ],
+    [ "MovementInform", "d2/d1a/a21394.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
+    [ "Reset", "d2/d1a/a21394.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
+    [ "SetData", "d2/d1a/a21394.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
+    [ "UpdateAI", "d2/d1a/a21394.html#a252f84198df610bac44b6bd9cd80602e", null ],
+    [ "_events", "d2/d1a/a21394.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
+    [ "_setData", "d2/d1a/a21394.html#adb997badd8831dea7763eaecc93b7773", null ]
 ];

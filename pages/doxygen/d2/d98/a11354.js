@@ -1,7 +1,7 @@
 var a11354 =
 [
-    [ "SocketGems", "d2/d98/a11354.html#a29700bfeaee0bbfec3700d48c3d37dfd", null ],
-    [ "Read", "d2/d98/a11354.html#a0e3a56488604a59a8da0bb77a1b26681", null ],
-    [ "GemGuids", "d2/d98/a11354.html#acd8001a74aa4e2b4b7614c20e4ddfd5a", null ],
-    [ "ItemGuid", "d2/d98/a11354.html#a2be27cf0fdd4ed6e6b7a9618eebe8914", null ]
+    [ "InstanceResetFailed", "d2/d98/a11354.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "d2/d98/a11354.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "d2/d98/a11354.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "d2/d98/a11354.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

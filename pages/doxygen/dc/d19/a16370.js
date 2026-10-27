@@ -1,6 +1,6 @@
 var a16370 =
 [
-    [ "PrepareSpellScript", "dc/d19/a16370.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
-    [ "Register", "dc/d19/a16370.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
-    [ "SetDest", "dc/d19/a16370.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
+    [ "creatureID", "dc/d19/a16370.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "dc/d19/a16370.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "dc/d19/a16370.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

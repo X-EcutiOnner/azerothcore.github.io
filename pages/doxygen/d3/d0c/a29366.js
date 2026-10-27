@@ -1,8 +1,11 @@
 var a29366 =
 [
-    [ "Color", "d3/d0c/a29366.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "d3/d0c/a29366.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "d3/d0c/a29366.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "d3/d0c/a29366.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "d3/d0c/a29366.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "Displayid", "d3/d0c/a29366.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
+    [ "filename", "d3/d0c/a29366.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
+    [ "maxX", "d3/d0c/a29366.html#a10563ae885d34e516825a18db95b40e7", null ],
+    [ "maxY", "d3/d0c/a29366.html#a711286df6d2bd74246dee2170052c17a", null ],
+    [ "maxZ", "d3/d0c/a29366.html#acb74e32790b2c60cca5faef1caa225e4", null ],
+    [ "minX", "d3/d0c/a29366.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
+    [ "minY", "d3/d0c/a29366.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
+    [ "minZ", "d3/d0c/a29366.html#ac88aefc2530212b9dff10e018c4e9305", null ]
 ];

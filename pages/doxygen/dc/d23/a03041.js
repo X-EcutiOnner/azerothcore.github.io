@@ -1,6 +1,7 @@
 var a03041 =
 [
     [ "LOAD_DBC", "dc/d23/a03041.html#a12fc54e4657cae3a3e84be6e33305257", null ],
+    [ "LOAD_GT_DBC", "dc/d23/a03041.html#af7160d5ee9381f316f796eab5afc563c", null ],
     [ "EmotesTextSoundKey", "dc/d23/a03041.html#aadf3b033fa1ecc56c76a5a2a1f670f89", null ],
     [ "FactionTeamMap", "dc/d23/a03041.html#a31511082db190bca0982fb65ba321b06", null ],
     [ "StoreProblemList", "dc/d23/a03041.html#adb1c40a58324f7e2389738d9fd6ef8bf", null ],
@@ -27,7 +28,7 @@ var a03041 =
     [ "GetWMOAreaTableEntryByTripple", "dc/d23/a03041.html#afc09b0f1883b13e6251568b320502f3a", null ],
     [ "GetZoneLFGDungeonEntry", "dc/d23/a03041.html#a1611914a99682fc964ef95b9a788a969", null ],
     [ "IsSharedDifficultyMap", "dc/d23/a03041.html#af7b6eff71f64ecef778f854613d72288", null ],
-    [ "LoadDBC", "dc/d23/a03041.html#aca442aaca0bc253e1badd17f0678cf06", null ],
+    [ "LoadDBC", "dc/d23/a03041.html#a929dcdd39b68f8f9634e916a97e2a198", null ],
     [ "LoadDBC_assert_print", "dc/d23/a03041.html#a58423c8b9934989c83e3b25565e597bc", null ],
     [ "LoadDBCStores", "dc/d23/a03041.html#a93774d2a6c6b1edecd697d6e60a8402d", null ],
     [ "Map2ZoneCoordinates", "dc/d23/a03041.html#a3102be8c4050f49639a6748f21fa55a1", null ],

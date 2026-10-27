@@ -1,6 +1,5 @@
 var a21342 =
 [
-    [ "boss_ymironAI", "d6/d6f/a21346.html", "d6/d6f/a21346" ],
-    [ "boss_ymiron", "d5/d6f/a21342.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "d5/d6f/a21342.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "d5/d6f/a21342.html#ae1503a754a05a77991d9955a2fb74265", null ],
+    [ "OnTrigger", "d5/d6f/a21342.html#aa7aa93e00170313de251af4e562c422c", null ]
 ];

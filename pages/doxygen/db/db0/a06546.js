@@ -1,10 +1,8 @@
 var a06546 =
 [
-    [ "RangeSelector", "db/db0/a06546.html#a4a87b90485180ede638e2c9bd2a7e9ed", null ],
-    [ "operator()", "db/db0/a06546.html#a917f21b135f402210d21e6bb3f19b9fa", null ],
-    [ "_inLos", "db/db0/a06546.html#a9dcf455d9db8d32aaebfc46eee36e1b5", null ],
-    [ "_maxDist", "db/db0/a06546.html#a973ec93b54a839f853101ad5998c10b2", null ],
-    [ "_me", "db/db0/a06546.html#a72ad35c7de0b5d540be27d9a9d46a1d4", null ],
-    [ "_minDist", "db/db0/a06546.html#ac1ce7a7a7ad6d033972b449867a1c5bf", null ],
-    [ "_playerOnly", "db/db0/a06546.html#ac68f7dfefe2e71942a3dfff7026a7ae7", null ]
+    [ "ArcherAI", "db/db0/a06546.html#a113c138958054716182c15ee9f2b47da", null ],
+    [ "AttackStart", "db/db0/a06546.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
+    [ "Permissible", "db/db0/a06546.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
+    [ "UpdateAI", "db/db0/a06546.html#aa6e072e239549d337de61670a05eb6f8", null ],
+    [ "m_minRange", "db/db0/a06546.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
 ];

@@ -1,6 +1,5 @@
 var a19830 =
 [
-    [ "boss_drakosAI", "d5/d70/a19834.html", "d5/d70/a19834" ],
-    [ "boss_drakos", "d5/dc2/a19830.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "d5/dc2/a19830.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "at_naxxramas_hub_portal", "d5/dc2/a19830.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "d5/dc2/a19830.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

@@ -1,6 +1,5 @@
 var a16670 =
 [
-    [ "OnSummon", "d3/d7d/a16670.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "d3/d7d/a16670.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "d3/d7d/a16670.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "at_baltharus_plateau", "d3/d7d/a16670.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
+    [ "OnTrigger", "d3/d7d/a16670.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
 ];

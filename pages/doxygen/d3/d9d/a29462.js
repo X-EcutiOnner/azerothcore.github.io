@@ -1,7 +1,17 @@
 var a29462 =
 [
-    [ "~ByteBufferException", "d3/d9d/a29462.html#a0ab73f9061c040127f70dbfc9a176509", null ],
-    [ "message", "d3/d9d/a29462.html#ab1a64d8fc18565a04c347de29184f68c", null ],
-    [ "what", "d3/d9d/a29462.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
-    [ "msg_", "d3/d9d/a29462.html#a314bdbb7063219f8256df894602e6b02", null ]
+    [ "Entry", "d3/d9d/a29462.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
+    [ "Difficulty", "d3/d9d/a29462.html#aa85e97ced86b0d27c753ca924eba074b", null ],
+    [ "ExpansionLevel", "d3/d9d/a29462.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
+    [ "Flags", "d3/d9d/a29462.html#a9481c296a064ec400b0f050097903557", null ],
+    [ "GroupID", "d3/d9d/a29462.html#a7a6c2971a61b171d00c885ce452601ce", null ],
+    [ "ID", "d3/d9d/a29462.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
+    [ "MapID", "d3/d9d/a29462.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
+    [ "MaxLevel", "d3/d9d/a29462.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
+    [ "MinLevel", "d3/d9d/a29462.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
+    [ "Name", "d3/d9d/a29462.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
+    [ "TargetLevel", "d3/d9d/a29462.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
+    [ "TargetLevelMax", "d3/d9d/a29462.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
+    [ "TargetLevelMin", "d3/d9d/a29462.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
+    [ "TypeID", "d3/d9d/a29462.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
 ];

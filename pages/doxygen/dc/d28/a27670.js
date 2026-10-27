@@ -1,11 +1,7 @@
 var a27670 =
 [
-    [ "CalcPeriodic", "dc/d28/a27670.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "dc/d28/a27670.html#a55f649687813eb915c71ead6afb27276", null ],
-    [ "CalculateResistanceAmount", "dc/d28/a27670.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "dc/d28/a27670.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "dc/d28/a27670.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "dc/d28/a27670.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "dc/d28/a27670.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "dc/d28/a27670.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "HandleDummy", "dc/d28/a27670.html#a96c5064738653ce16f06634196218a88", null ],
+    [ "PrepareSpellScript", "dc/d28/a27670.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
+    [ "Register", "dc/d28/a27670.html#a080969e035143ac8527443025dbacef2", null ],
+    [ "Validate", "dc/d28/a27670.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
 ];

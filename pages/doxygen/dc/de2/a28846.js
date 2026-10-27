@@ -1,8 +1,5 @@
 var a28846 =
 [
-    [ "Id", "dc/de2/a28846.html#a6943bf760d15b3f8af4109d131652d72", null ],
-    [ "MapId", "dc/de2/a28846.html#ab0cccd760636a3b42af693d6c483bed9", null ],
-    [ "X", "dc/de2/a28846.html#a91183890254546efeb3162173cc60dad", null ],
-    [ "Y", "dc/de2/a28846.html#a19ab4d026b45d74f006479641afbc4d3", null ],
-    [ "Z", "dc/de2/a28846.html#aaa23c59f20fc96aec148b82516f30036", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "dc/de2/a28846.html#afaa929276f8b131005c9b94daa9a09f9", null ],
+    [ "OnPlayerCompleteQuest", "dc/de2/a28846.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
 ];

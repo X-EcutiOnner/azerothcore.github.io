@@ -1,7 +1,6 @@
 var a19782 =
 [
-    [ "boss_commander_stoutbeard", "d2/d7f/a19782.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "d2/d7f/a19782.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "d2/d7f/a19782.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "d2/d7f/a19782.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "boss_thaddius_summonAI", "d7/df9/a19786.html", "d7/df9/a19786" ],
+    [ "boss_thaddius_summon", "d2/d7f/a19782.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "d2/d7f/a19782.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

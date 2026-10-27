@@ -1,7 +1,6 @@
 var a28906 =
 [
-    [ "EpicPropertiesPoints", "d5/d99/a28906.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "d5/d99/a28906.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "d5/d99/a28906.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "d5/d99/a28906.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "CheckCast", "d5/d99/a28906.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
+    [ "PrepareSpellScript", "d5/d99/a28906.html#aa3c18907c79309a8924a98bce41e27f1", null ],
+    [ "Register", "d5/d99/a28906.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
 ];

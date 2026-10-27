@@ -1,7 +1,6 @@
 var a13742 =
 [
-    [ "HandleScriptEffect", "df/dca/a13742.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
-    [ "PrepareSpellScript", "df/dca/a13742.html#af9deee89e837e07486a7555632008eb2", null ],
-    [ "Register", "df/dca/a13742.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
-    [ "Validate", "df/dca/a13742.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
+    [ "boss_baroness_anastariAI", "d9/dc7/a13746.html", "d9/dc7/a13746" ],
+    [ "boss_baroness_anastari", "df/dca/a13742.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "df/dca/a13742.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

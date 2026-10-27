@@ -1,9 +1,6 @@
 var a11382 =
 [
-    [ "LevelUpInfo", "d8/d58/a11382.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
-    [ "Write", "d8/d58/a11382.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
-    [ "HealthDelta", "d8/d58/a11382.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
-    [ "Level", "d8/d58/a11382.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
-    [ "PowerDelta", "d8/d58/a11382.html#a697da64ac234c24fe73e68d408697ee6", null ],
-    [ "StatDelta", "d8/d58/a11382.html#a580e4a3cd77631e960b7753542375d6d", null ]
+    [ "InstanceLockResponse", "d8/d58/a11382.html#a375d48ef2bc703f0223db82738016c6e", null ],
+    [ "Read", "d8/d58/a11382.html#a954b3d4521bc48ba5ee9807cc935e484", null ],
+    [ "Accept", "d8/d58/a11382.html#a23cd7f483abfaede6df7a51b083a4477", null ]
 ];

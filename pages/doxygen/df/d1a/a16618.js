@@ -1,7 +1,7 @@
 var a16618 =
 [
-    [ "HandlePeriodic", "df/d1a/a16618.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "df/d1a/a16618.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "df/d1a/a16618.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "df/d1a/a16618.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "HandleHit", "df/d1a/a16618.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
+    [ "PrepareSpellScript", "df/d1a/a16618.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
+    [ "Register", "df/d1a/a16618.html#af132eee38064c5123f4e01d52efb9314", null ],
+    [ "Validate", "df/d1a/a16618.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
 ];

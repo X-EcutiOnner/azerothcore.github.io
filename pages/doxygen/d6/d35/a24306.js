@@ -1,6 +1,5 @@
 var a24306 =
 [
-    [ "PrepareSpellScript", "d6/d35/a24306.html#a190f6dc3d9b336324da29f627a743fe9", null ],
-    [ "Register", "d6/d35/a24306.html#a3afc8035b852bc31abd3228e88d59819", null ],
-    [ "SetDest", "d6/d35/a24306.html#a85d66a58597954501305ad5b674cc8a2", null ]
+    [ "go_warmaul_prison", "d6/d35/a24306.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
+    [ "OnGossipHello", "d6/d35/a24306.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
 ];

@@ -1,6 +1,5 @@
 var a21746 =
 [
-    [ "npc_hourglass_of_eternityAI", "d8/d83/a21750.html", "d8/d83/a21750" ],
-    [ "npc_hourglass_of_eternity", "d4/d25/a21746.html#a40500ff582ead06bd646be86baad7d35", null ],
-    [ "GetAI", "d4/d25/a21746.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
+    [ "npc_nerubar_victim", "d4/d25/a21746.html#a218a0091d3dd5c237f49f7b2797c54d7", null ],
+    [ "JustDied", "d4/d25/a21746.html#a969b3f15d0017978e77d34131815c7e4", null ]
 ];

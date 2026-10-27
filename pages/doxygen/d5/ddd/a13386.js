@@ -1,5 +1,7 @@
 var a13386 =
 [
-    [ "textid", "d5/ddd/a13386.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
-    [ "timer", "d5/ddd/a13386.html#ab7851f383e7221c6ff2700ee345d9504", null ]
+    [ "OnRemove", "d5/ddd/a13386.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "d5/ddd/a13386.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "d5/ddd/a13386.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "d5/ddd/a13386.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

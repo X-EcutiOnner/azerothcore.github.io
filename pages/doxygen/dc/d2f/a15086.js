@@ -1,5 +1,5 @@
 var a15086 =
 [
-    [ "achievement_pb_pilgrims_peril", "dc/d2f/a15086.html#a9516eab18d7e1401a5637913d8ec9595", null ],
-    [ "OnCheck", "dc/d2f/a15086.html#a78c92eab532448080c1d28dc8fcabaca", null ]
+    [ "MidsummerPlayerScript", "dc/d2f/a15086.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
+    [ "OnPlayerUpdateZone", "dc/d2f/a15086.html#af512e1744264ac69fe2b7f7ba3836760", null ]
 ];

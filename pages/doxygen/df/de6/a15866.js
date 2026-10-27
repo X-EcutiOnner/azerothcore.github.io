@@ -1,8 +1,6 @@
 var a15866 =
 [
-    [ "npc_death_ravagerAI", "df/de6/a15866.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "df/de6/a15866.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "df/de6/a15866.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "df/de6/a15866.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "df/de6/a15866.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "HandleOnHit", "df/de6/a15866.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "df/de6/a15866.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "df/de6/a15866.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

@@ -1,7 +1,6 @@
 var a24702 =
 [
-    [ "HandleProc", "df/d89/a24702.html#a393909e3765443aa4930d8036c36b132", null ],
-    [ "PrepareAuraScript", "df/d89/a24702.html#aeaacd337fd8a02e7c19ead8912fc68d9", null ],
-    [ "Register", "df/d89/a24702.html#af37fd1db3dc6cbbe985734853ea59109", null ],
-    [ "Validate", "df/d89/a24702.html#a0966b67c38486fb32c3e442f388320b1", null ]
+    [ "HandleSummon", "df/d89/a24702.html#a00e265d830ea3e8a0a1952984c438071", null ],
+    [ "PrepareSpellScript", "df/d89/a24702.html#a96df13b19964b6e89babb312465b90bc", null ],
+    [ "Register", "df/d89/a24702.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
 ];

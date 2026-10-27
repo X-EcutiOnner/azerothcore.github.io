@@ -1,7 +1,6 @@
 var a13266 =
 [
-    [ "OnRemove", "d4/d2a/a13266.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
-    [ "PrepareAuraScript", "d4/d2a/a13266.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
-    [ "Register", "d4/d2a/a13266.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
-    [ "Validate", "d4/d2a/a13266.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "d0/db6/a13270.html", "d0/db6/a13270" ],
+    [ "instance_gnomeregan", "d4/d2a/a13266.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
+    [ "GetInstanceScript", "d4/d2a/a13266.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
 ];

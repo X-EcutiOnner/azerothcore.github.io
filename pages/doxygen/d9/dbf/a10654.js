@@ -1,10 +1,23 @@
 var a10654 =
 [
-    [ "QuestStatusData", "d9/dbf/a10654.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
-    [ "CreatureOrGOCount", "d9/dbf/a10654.html#aa5892dc0744a41ac565568307f12ad35", null ],
-    [ "Explored", "d9/dbf/a10654.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
-    [ "ItemCount", "d9/dbf/a10654.html#a466999cea52f65bf58916bc34750bf95", null ],
-    [ "PlayerCount", "d9/dbf/a10654.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
-    [ "Status", "d9/dbf/a10654.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
-    [ "Timer", "d9/dbf/a10654.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
+    [ "LengthArray", "d9/dbf/a10654.html#a20cf3df436c8fc337019cb8dbd4fc74f", null ],
+    [ "LengthType", "d9/dbf/a10654.html#a5bbffaf9ea67b7747d5c0749d38162fb", null ],
+    [ "Spline", "d9/dbf/a10654.html#a9aaaf0914627ffdad08de010920fd626", null ],
+    [ "clear", "d9/dbf/a10654.html#a091e42262c66dff880bfa787c74a0bcc", null ],
+    [ "computeIndex", "d9/dbf/a10654.html#a69a59bf415f83e6770694799e3c905b1", null ],
+    [ "computeIndexInBounds", "d9/dbf/a10654.html#aa344531c5931b35d759830991174c6a0", null ],
+    [ "computeIndexInBounds", "d9/dbf/a10654.html#a97b872ca05f947444945860e04bb2651", null ],
+    [ "evaluate_derivative", "d9/dbf/a10654.html#ad4b8334bf969be613fdf68043b602fb1", null ],
+    [ "evaluate_derivative", "d9/dbf/a10654.html#ae0801ccc74dc971248f743cfadc248a3", null ],
+    [ "evaluate_percent", "d9/dbf/a10654.html#ae05046412e2825316172dc8b1cdac870", null ],
+    [ "evaluate_percent", "d9/dbf/a10654.html#a249fa3aa29b3baa59a5afec0e14c7ef5", null ],
+    [ "init_cyclic_spline", "d9/dbf/a10654.html#a8986ec43a095199017245bc3cf00a8e0", null ],
+    [ "init_spline", "d9/dbf/a10654.html#a0aa38bde854589ea2b41b1751eaf5107", null ],
+    [ "initLengths", "d9/dbf/a10654.html#ad1cdf5235b5a2a64f32125bcf9048094", null ],
+    [ "initLengths", "d9/dbf/a10654.html#a708b60c2b21178db578520dfd98af6f7", null ],
+    [ "length", "d9/dbf/a10654.html#aab929569bba2417387acd22f0634504d", null ],
+    [ "length", "d9/dbf/a10654.html#a6791d5411365109dffcc699170f03291", null ],
+    [ "length", "d9/dbf/a10654.html#a73b3a47713e07a5d07959a2eb17be87e", null ],
+    [ "set_length", "d9/dbf/a10654.html#a7c5aba567e41d196c8bf0faf175ed43e", null ],
+    [ "lengths", "d9/dbf/a10654.html#a307a7a746de042f0cd21f48797768afb", null ]
 ];

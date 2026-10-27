@@ -1,11 +1,11 @@
 var a24158 =
 [
-    [ "npc_invis_infernal_casterAI", "dc/d84/a24158.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
-    [ "Reset", "dc/d84/a24158.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
-    [ "SetData", "dc/d84/a24158.html#aee88dc141757384f96da969fcdc20671", null ],
-    [ "SummonInfernal", "dc/d84/a24158.html#a78d53d09e5544b3fe8301da4415d297b", null ],
-    [ "UpdateAI", "dc/d84/a24158.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
-    [ "events", "dc/d84/a24158.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
-    [ "ground", "dc/d84/a24158.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
-    [ "infernalGUID", "dc/d84/a24158.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
+    [ "boss_pathaleon_the_calculator", "dc/d84/a24158.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "dc/d84/a24158.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "dc/d84/a24158.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "dc/d84/a24158.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "dc/d84/a24158.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "dc/d84/a24158.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "dc/d84/a24158.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "dc/d84/a24158.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

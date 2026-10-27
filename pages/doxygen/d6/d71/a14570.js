@@ -1,6 +1,6 @@
 var a14570 =
 [
-    [ "HandleOnHit", "d6/d71/a14570.html#a76b09288d14d399735250607e2105eb3", null ],
-    [ "PrepareSpellScript", "d6/d71/a14570.html#a2270ce546ae286ffa701d094df591aa2", null ],
-    [ "Register", "d6/d71/a14570.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
+    [ "boss_arlokkAI", "d5/d38/a14574.html", "d5/d38/a14574" ],
+    [ "boss_arlokk", "d6/d71/a14570.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "d6/d71/a14570.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

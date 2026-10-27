@@ -1,5 +1,6 @@
 var a24114 =
 [
-    [ "at_commander_dawnforge", "d3/d03/a24114.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d3/d03/a24114.html#a240a2a8a3de913c840c0a14fa4427e7e", null ]
+    [ "instance_the_eye_InstanceMapScript", "de/d7c/a24118.html", "de/d7c/a24118" ],
+    [ "instance_the_eye", "d3/d03/a24114.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "d3/d03/a24114.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

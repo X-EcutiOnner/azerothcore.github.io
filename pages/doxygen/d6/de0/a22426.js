@@ -1,6 +1,8 @@
 var a22426 =
 [
-    [ "HandlePeriodicDummy", "d6/de0/a22426.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d6/de0/a22426.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d6/de0/a22426.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "npc_adventurous_dwarfAI", "da/dc5/a22430.html", "da/dc5/a22430" ],
+    [ "npc_adventurous_dwarf", "d6/de0/a22426.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "d6/de0/a22426.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "d6/de0/a22426.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "d6/de0/a22426.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

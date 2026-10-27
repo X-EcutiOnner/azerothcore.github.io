@@ -1,11 +1,7 @@
 var a11710 =
 [
-    [ "OptionalData", "d9/dc8/a11714.html", "d9/dc8/a11714" ],
-    [ "ArrivalTicks", "d0/d20/a11710.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
-    [ "ConnectionId", "d0/d20/a11710.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
-    [ "Direction", "d0/d20/a11710.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
-    [ "Length", "d0/d20/a11710.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
-    [ "Opcode", "d0/d20/a11710.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
-    [ "OptionalData", "d0/d20/a11710.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
-    [ "OptionalDataSize", "d0/d20/a11710.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
+    [ "QuestPushResult", "d0/d20/a11710.html#a71a5435a0d9dbc648a83ec90ec99215f", null ],
+    [ "Write", "d0/d20/a11710.html#a90c79fdc1bf593e4d51f3d7a6e423eac", null ],
+    [ "PlayerGuid", "d0/d20/a11710.html#a449c6537a692edae94f173236d0d449e", null ],
+    [ "QuestShareMessage", "d0/d20/a11710.html#af80f4138f3689721f44059a9250246f0", null ]
 ];

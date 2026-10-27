@@ -1,16 +1,16 @@
 var a01151 =
 [
-    [ "npc_ulduar_keeper", "da/dee/a21293.html", "da/dee/a21293" ],
-    [ "npc_ulduar_keeper::npc_ulduar_keeperAI", "d5/d15/a21297.html", "d5/d15/a21297" ],
-    [ "spell_ulduar_energy_sap_aura", "d0/d84/a21301.html", "d0/d84/a21301" ],
-    [ "spell_ulduar_random_aggro_periodic", "dc/dd7/a21305.html", "dc/dd7/a21305" ],
-    [ "npc_ulduar_snow_mound", "de/df5/a21309.html", "de/df5/a21309" ],
-    [ "npc_ulduar_storm_tempered_keeper", "d6/d4a/a21313.html", "d6/d4a/a21313" ],
-    [ "npc_ulduar_arachnopod_destroyer", "d6/dff/a21317.html", "d6/dff/a21317" ],
-    [ "spell_ulduar_arachnopod_damaged_aura", "d6/d16/a21321.html", "d6/d16/a21321" ],
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "de/d5e/a21325.html", "de/d5e/a21325" ],
-    [ "npc_salvaged_siege_engine", "df/d88/a21329.html", "df/d88/a21329" ],
-    [ "spell_ulduar_teleporter", "d6/d9b/a21333.html", "d6/d9b/a21333" ],
+    [ "npc_ulduar_keeper", "de/d4e/a21310.html", "de/d4e/a21310" ],
+    [ "npc_ulduar_keeper::npc_ulduar_keeperAI", "dc/ddc/a21314.html", "dc/ddc/a21314" ],
+    [ "spell_ulduar_energy_sap_aura", "d9/d82/a21318.html", "d9/d82/a21318" ],
+    [ "spell_ulduar_random_aggro_periodic", "d9/d78/a21322.html", "d9/d78/a21322" ],
+    [ "npc_ulduar_snow_mound", "d0/d68/a21326.html", "d0/d68/a21326" ],
+    [ "npc_ulduar_storm_tempered_keeper", "d3/dac/a21330.html", "d3/dac/a21330" ],
+    [ "npc_ulduar_arachnopod_destroyer", "d4/d11/a21334.html", "d4/d11/a21334" ],
+    [ "spell_ulduar_arachnopod_damaged_aura", "de/d15/a21338.html", "de/d15/a21338" ],
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "d5/d6f/a21342.html", "d5/d6f/a21342" ],
+    [ "npc_salvaged_siege_engine", "d6/d6f/a21346.html", "d6/d6f/a21346" ],
+    [ "spell_ulduar_teleporter", "da/dfc/a21350.html", "da/dfc/a21350" ],
     [ "EnergySap", "de/df1/a01151.html#acd2ead68f64ce23404d27b404679d93d", [
       [ "SPELL_ENERGY_SAP_DAMAGE_1", "de/df1/a01151.html#acd2ead68f64ce23404d27b404679d93da5efbbf6eb2348bbf207329be3daa22ab", null ],
       [ "SPELL_ENERGY_SAP_DAMAGE_2", "de/df1/a01151.html#acd2ead68f64ce23404d27b404679d93dad68983f43f8b3b69e6106291177d645d", null ]
@@ -705,14 +705,15 @@ var a01151 =
       [ "GOBJ_SNOW_MOUND", "de/df1/a01151.html#a51b87489a88947e854cb187e28ead3aaa233cf03dd9bf576e44d7cc038e30c63e", null ]
     ] ],
     [ "UldNPCs", "de/df1/a01151.html#a8e998b5fb88f3b3f473a27db4836b00c", [
-      [ "NPC_WINTER_JORMUNGAR", "de/df1/a01151.html#a8e998b5fb88f3b3f473a27db4836b00ca9e47edb2b8ebecd8f6bea4def90b3cd6", null ],
       [ "NPC_SNOW_MOUND_4", "de/df1/a01151.html#a8e998b5fb88f3b3f473a27db4836b00caa11811fdbfb8f74e252570087685666e", null ],
       [ "NPC_SNOW_MOUND_6", "de/df1/a01151.html#a8e998b5fb88f3b3f473a27db4836b00ca9994e8f29e13d43324f2b9e30e9c8dbb", null ],
       [ "NPC_SNOW_MOUND_8", "de/df1/a01151.html#a8e998b5fb88f3b3f473a27db4836b00cad516f79bbf6412d217a98495744bf512", null ]
     ] ],
     [ "UldSpells", "de/df1/a01151.html#addfe4ba782b5f341c14812aa09dd2f53", [
       [ "SPELL_KEEPER_TELEPORT", "de/df1/a01151.html#addfe4ba782b5f341c14812aa09dd2f53a8fe91c9c0c48c22ebe17945c5ab0abef", null ],
+      [ "SPELL_ANCHOR_HERE", "de/df1/a01151.html#addfe4ba782b5f341c14812aa09dd2f53a4429e1c1ee508e5a51a36258773fa882", null ],
       [ "SPELL_SNOW_MOUND_PARTICLES", "de/df1/a01151.html#addfe4ba782b5f341c14812aa09dd2f53a555a4abaecb1b980f5cad7394d8c3cf3", null ],
+      [ "SPELL_EJECT_PASSENGER_1", "de/df1/a01151.html#addfe4ba782b5f341c14812aa09dd2f53a2d3e090b42693ee3eda1af3f2dc302f7", null ],
       [ "SPELL_ENERGY_SAP_10", "de/df1/a01151.html#addfe4ba782b5f341c14812aa09dd2f53ad9e0ae4d03a7c40f6506fe6815840ef4", null ],
       [ "SPELL_FLAME_SPRAY", "de/df1/a01151.html#addfe4ba782b5f341c14812aa09dd2f53a2817c9a7ba6d581931ea40fd06d8ad24", null ],
       [ "SPELL_MACHINE_GUN", "de/df1/a01151.html#addfe4ba782b5f341c14812aa09dd2f53a15a2c2d1a96e0116506722e9739600f8", null ]

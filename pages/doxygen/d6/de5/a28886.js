@@ -1,5 +1,7 @@
 var a28886 =
 [
-    [ "Id", "d6/de5/a28886.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
-    [ "PowerType", "d6/de5/a28886.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
+    [ "npc_flameshocker", "d6/de5/a28886.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "d6/de5/a28886.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "d6/de5/a28886.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "d6/de5/a28886.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

@@ -1,13 +1,9 @@
 var a21154 =
 [
-    [ "npc_ulduar_arachnopod_destroyer", "d2/d89/a21154.html#a13422abe59c4aa11bee16225d689c054", null ],
-    [ "AttackStart", "d2/d89/a21154.html#ac634717023bd5827e2b8b1f4c79c6084", null ],
-    [ "DamageTaken", "d2/d89/a21154.html#a80a63823a5ffb19fd84fe3da5e9e4659", null ],
-    [ "EnterEvadeMode", "d2/d89/a21154.html#acb089a5226af27005ac2356e84e976aa", null ],
-    [ "OnCharmed", "d2/d89/a21154.html#a3d24ff7efa6a822b5d5c6c762b026d75", null ],
-    [ "PassengerBoarded", "d2/d89/a21154.html#a1b15edb1527095dcac5f9c0ef183fb55", null ],
-    [ "Reset", "d2/d89/a21154.html#a7fa3aa16e4764b5ce4a93eef855010f8", null ],
-    [ "UpdateAI", "d2/d89/a21154.html#a87d4086066ac53697793152fdcebf841", null ],
-    [ "_spawnedMechanic", "d2/d89/a21154.html#ae781e2c258ac3ce268821b98ae310a0f", null ],
-    [ "events", "d2/d89/a21154.html#a7cb0d83e8b94808fa16539ea098e1a2f", null ]
+    [ "boss_yoggsaron_keeper", "d2/d89/a21154.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "Activate", "d2/d89/a21154.html#a54edd78e856dbf519a0e2d76ae781ab8", null ],
+    [ "DoAction", "d2/d89/a21154.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustSummoned", "d2/d89/a21154.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "d2/d89/a21154.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "d2/d89/a21154.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

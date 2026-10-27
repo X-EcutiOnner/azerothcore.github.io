@@ -1,11 +1,13 @@
 var a23510 =
 [
-    [ "boss_kiggler_the_crazed", "d6/ddc/a23510.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
-    [ "AttackStart", "d6/ddc/a23510.html#a47c18487637dcb911852573e3aec85a2", null ],
-    [ "JustDied", "d6/ddc/a23510.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
-    [ "JustEngagedWith", "d6/ddc/a23510.html#acd10951a5b148579d0bd4196cc2e686e", null ],
-    [ "Reset", "d6/ddc/a23510.html#a3bd8ca2488b2db298a198038a849189e", null ],
-    [ "UpdateAI", "d6/ddc/a23510.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
-    [ "_scheduler", "d6/ddc/a23510.html#af041c254910df663a03fcc815db635da", null ],
-    [ "instance", "d6/ddc/a23510.html#aa78db443f19814c66b977fe008de74fa", null ]
+    [ "npc_ahune_bunny", "d6/ddc/a23510.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
+    [ "DoAction", "d6/ddc/a23510.html#ad071787c47254f603ba7692889733202", null ],
+    [ "JustDied", "d6/ddc/a23510.html#a8733a3e495ebf69df4f9d1213df50170", null ],
+    [ "JustSummoned", "d6/ddc/a23510.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
+    [ "ResetFlameCallers", "d6/ddc/a23510.html#a60a74aabbf42116079081134a332a100", null ],
+    [ "UpdateAI", "d6/ddc/a23510.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
+    [ "_events", "d6/ddc/a23510.html#af84154fff16cbdb15586b3b07223e010", null ],
+    [ "_instance", "d6/ddc/a23510.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
+    [ "_submerged", "d6/ddc/a23510.html#a15fdcc2fda18e118f398ccc055f52942", null ],
+    [ "_summons", "d6/ddc/a23510.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
 ];

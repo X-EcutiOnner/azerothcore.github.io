@@ -1,6 +1,7 @@
 var a27130 =
 [
-    [ "HandleEffectApply", "dc/d22/a27130.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "dc/d22/a27130.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "dc/d22/a27130.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "HandleProc", "dc/d22/a27130.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
+    [ "PrepareAuraScript", "dc/d22/a27130.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
+    [ "Register", "dc/d22/a27130.html#a44a82b94d509eeb04f3520ded1d62891", null ],
+    [ "Validate", "dc/d22/a27130.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
 ];

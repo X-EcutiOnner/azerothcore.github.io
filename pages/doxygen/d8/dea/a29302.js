@@ -1,8 +1,4 @@
 var a29302 =
 [
-    [ "ClassMask", "d8/dea/a29302.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "d8/dea/a29302.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "d8/dea/a29302.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "d8/dea/a29302.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "d8/dea/a29302.html#ab6153043461b71336e12b00957499075", null ]
+    [ "DisplayRaceID", "d8/dea/a29302.html#a5f3897281f18061c4508d752b2291552", null ]
 ];

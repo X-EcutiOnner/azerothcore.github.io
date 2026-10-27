@@ -1,7 +1,8 @@
 var a29586 =
 [
-    [ "flatModifier", "d5/dcf/a29586.html#a781485dfaede63716eddba66971600e3", null ],
-    [ "hasSpellModOwner", "d5/dcf/a29586.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
-    [ "hasSpellProto", "d5/dcf/a29586.html#a96607da311b5774eeaa01674d32ab22e", null ],
-    [ "pctModifier", "d5/dcf/a29586.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
+    [ "NoRuneCost", "d5/dcf/a29586.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "d5/dcf/a29586.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "d5/dcf/a29586.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "d5/dcf/a29586.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "d5/dcf/a29586.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

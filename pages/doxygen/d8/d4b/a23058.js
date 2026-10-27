@@ -1,8 +1,7 @@
 var a23058 =
 [
-    [ "CalcPeriodic", "d8/d4b/a23058.html#aad87c25b9b3255a4871bec39d9787299", null ],
-    [ "PrepareAuraScript", "d8/d4b/a23058.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
-    [ "Register", "d8/d4b/a23058.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
-    [ "Update", "d8/d4b/a23058.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
-    [ "Validate", "d8/d4b/a23058.html#ae4f7bfb1cd95666acada217173876352", null ]
+    [ "boss_veras_darkshadow", "d8/d4b/a23058.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d8/d4b/a23058.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d8/d4b/a23058.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d8/d4b/a23058.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

@@ -1,6 +1,6 @@
 var a09530 =
 [
-    [ "flags", "d4/d86/a09530.html#a953acfd67349f028a839390ebe7fc398", null ],
-    [ "fourcc", "d4/d86/a09530.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
-    [ "gridArea", "d4/d86/a09530.html#a4ee571320d5d346bbf74709677bbee05", null ]
+    [ "EmoteDelay", "d4/d86/a09530.html#a053adbedc95026b192360e13d32c9401", null ],
+    [ "EmoteType", "d4/d86/a09530.html#aa5189cb250b3f46086ecd69dee23414b", null ],
+    [ "Greeting", "d4/d86/a09530.html#a84aa5fced9b8989487d1468c4eccb976", null ]
 ];

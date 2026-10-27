@@ -1,6 +1,4 @@
 var a21990 =
 [
-    [ "HandleOnEffectRemove", "d1/dc4/a21990.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d1/dc4/a21990.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d1/dc4/a21990.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "operator()", "d1/dc4/a21990.html#a8176fb574f0eac852ed3528dcadac288", null ]
 ];

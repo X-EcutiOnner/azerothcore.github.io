@@ -1,7 +1,11 @@
 var a15358 =
 [
-    [ "npc_tarethaAI", "d7/dd7/a15362.html", "d7/dd7/a15362" ],
-    [ "npc_taretha", "db/d9f/a15358.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "db/d9f/a15358.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "db/d9f/a15358.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "boss_epochAI", "db/d9f/a15358.html#a35d80bf8032fba5908132ad29f372293", null ],
+    [ "JustDied", "db/d9f/a15358.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "db/d9f/a15358.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "db/d9f/a15358.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "db/d9f/a15358.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "db/d9f/a15358.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "db/d9f/a15358.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "warps", "db/d9f/a15358.html#a478113af1ce565c729604c6039f55551", null ]
 ];

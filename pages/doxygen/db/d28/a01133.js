@@ -1,12 +1,12 @@
 var a01133 =
 [
-    [ "npc_ulduar_iron_construct", "d4/d1d/a20673.html", "d4/d1d/a20673" ],
-    [ "boss_ignis", "d1/d4b/a20677.html", "d1/d4b/a20677" ],
-    [ "spell_ignis_scorch_aura", "db/d53/a20681.html", "db/d53/a20681" ],
-    [ "spell_ignis_grab_initial", "dd/dc8/a20685.html", "dd/dc8/a20685" ],
-    [ "spell_ignis_slag_pot_aura", "d5/d82/a20689.html", "d5/d82/a20689" ],
-    [ "spell_ignis_brittle_aura", "d6/dff/a20693.html", "d6/dff/a20693" ],
-    [ "achievement_ignis_shattered", "db/d22/a20697.html", "db/d22/a20697" ],
+    [ "npc_ulduar_iron_construct", "d5/d2f/a20690.html", "d5/d2f/a20690" ],
+    [ "boss_ignis", "d1/d02/a20694.html", "d1/d02/a20694" ],
+    [ "spell_ignis_scorch_aura", "df/d9d/a20698.html", "df/d9d/a20698" ],
+    [ "spell_ignis_grab_initial", "d1/d64/a20702.html", "d1/d64/a20702" ],
+    [ "spell_ignis_slag_pot_aura", "d1/d27/a20706.html", "d1/d27/a20706" ],
+    [ "spell_ignis_brittle_aura", "dd/dac/a20710.html", "dd/dac/a20710" ],
+    [ "achievement_ignis_shattered", "d4/d1e/a20714.html", "d4/d1e/a20714" ],
     [ "ACHIEV_STOKIN_THE_FURNACE_EVENT", "db/d28/a01133.html#a1c74f54ec8223535d573a022bf59557a", null ],
     [ "eEvents", "db/d28/a01133.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "d3/da4/a01343.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],

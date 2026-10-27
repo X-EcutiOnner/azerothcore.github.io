@@ -1,6 +1,6 @@
 var a19314 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "d9/d0e/a19318.html", "d9/d0e/a19318" ],
-    [ "npc_icc_vengeful_fleshreaper", "dc/d06/a19314.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
-    [ "GetAI", "dc/d06/a19314.html#abf1903616dbf52718313c8b404b504a5", null ]
+    [ "HandleEvent", "dc/d06/a19314.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "dc/d06/a19314.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "dc/d06/a19314.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

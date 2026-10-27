@@ -1,6 +1,7 @@
 var a27254 =
 [
-    [ "HandleScript", "db/d9c/a27254.html#acde0ae837d0cd3af0f38481027200291", null ],
-    [ "PrepareSpellScript", "db/d9c/a27254.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
-    [ "Register", "db/d9c/a27254.html#a2dc2628984358628afe7d9b62ced7794", null ]
+    [ "CheckTarget", "db/d9c/a27254.html#abaef73201d2e0bd1d6789309442019e0", null ],
+    [ "HandleScriptEffect", "db/d9c/a27254.html#a545196cd976bfabbd85ba48942012e1e", null ],
+    [ "PrepareSpellScript", "db/d9c/a27254.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
+    [ "Register", "db/d9c/a27254.html#a36563a197b7377660b7c3f9e85d478bd", null ]
 ];

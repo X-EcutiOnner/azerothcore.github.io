@@ -1,12 +1,8 @@
 var a20826 =
 [
-    [ "boss_thorim_start_npcs", "d5/d4a/a20826.html#a3ed7da48fc86ea00124181bb943a778d", null ],
-    [ "DamageTaken", "d5/d4a/a20826.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
-    [ "JustDied", "d5/d4a/a20826.html#af5a00c3bc633464e9fd5d02991845294", null ],
-    [ "JustEngagedWith", "d5/d4a/a20826.html#a636dd7264dd01aa5fc3c69af17425103", null ],
-    [ "Reset", "d5/d4a/a20826.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
-    [ "UpdateAI", "d5/d4a/a20826.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
-    [ "_isCaster", "d5/d4a/a20826.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
-    [ "_playerAttack", "d5/d4a/a20826.html#ab1bf0c011692377fc591610c5131d5e2", null ],
-    [ "events", "d5/d4a/a20826.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
+    [ "HandleEffectApply", "d5/d4a/a20826.html#a9b4ef881ded9d7b1e4cbdf61af70cdeb", null ],
+    [ "HandleEffectPeriodic", "d5/d4a/a20826.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "HandleEffectRemove", "d5/d4a/a20826.html#a5750666947a5899d7ef46678eadb4872", null ],
+    [ "PrepareAuraScript", "d5/d4a/a20826.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "d5/d4a/a20826.html#a524c071390365b7dab59bc7a79b50f15", null ]
 ];

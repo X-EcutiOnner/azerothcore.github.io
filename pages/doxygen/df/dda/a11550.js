@@ -1,6 +1,11 @@
 var a11550 =
 [
-    [ "PetUnlearnedSpell", "df/dda/a11550.html#aa2b125a271228aee0d942a207de170b7", null ],
-    [ "Write", "df/dda/a11550.html#a11cf7780eba530026a0898bfafd27109", null ],
-    [ "SpellID", "df/dda/a11550.html#adfca5feb5be2408e489edc44e9cd215b", null ]
+    [ "MoneyCost", "df/dda/a11550.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
+    [ "PointCost", "df/dda/a11550.html#aebcad3f23dbca753ad970081af0a78c9", null ],
+    [ "ReqAbility", "df/dda/a11550.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
+    [ "ReqLevel", "df/dda/a11550.html#a9478dc1065bc10ebc591ff8022e43993", null ],
+    [ "ReqSkillLine", "df/dda/a11550.html#a5267f4615e01571a4a16d17d6914981b", null ],
+    [ "ReqSkillRank", "df/dda/a11550.html#ae6f9640e257d83d633c48168edc658b6", null ],
+    [ "SpellID", "df/dda/a11550.html#accf0f9aa4c8f2130f6926235dca69476", null ],
+    [ "Usable", "df/dda/a11550.html#a35d7186073a231f0dd1fe5920eec175b", null ]
 ];

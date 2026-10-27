@@ -1,6 +1,8 @@
 var a27926 =
 [
-    [ "AfterCheckProc", "d3/df5/a27926.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "d3/df5/a27926.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "d3/df5/a27926.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "CheckProc", "d3/df5/a27926.html#afcda3b112699e108e2db6270836fce1b", null ],
+    [ "OnProc", "d3/df5/a27926.html#ab953f817368120933828d6b3e5e200c0", null ],
+    [ "PrepareAuraScript", "d3/df5/a27926.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
+    [ "Register", "d3/df5/a27926.html#abfdd5179215432a3e89ea7b498d49867", null ],
+    [ "Validate", "d3/df5/a27926.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
 ];

@@ -1,10 +1,7 @@
 var a28822 =
 [
-    [ "ID", "dd/d2c/a28822.html#a906c42770a619884f08b67e2870bff93", null ],
-    [ "reqarenapoints", "dd/d2c/a28822.html#a5d45007a832d6120e29c7821c07646de", null ],
-    [ "reqarenaslot", "dd/d2c/a28822.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
-    [ "reqhonorpoints", "dd/d2c/a28822.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
-    [ "reqitem", "dd/d2c/a28822.html#a9cba8872c909260a55dcfdf7f4726899", null ],
-    [ "reqitemcount", "dd/d2c/a28822.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
-    [ "reqpersonalarenarating", "dd/d2c/a28822.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
+    [ "npc_venomhide_hatchlingAI", "d3/df7/a28826.html", "d3/df7/a28826" ],
+    [ "npc_venomhide_hatchling", "dd/d2c/a28822.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "dd/d2c/a28822.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "dd/d2c/a28822.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

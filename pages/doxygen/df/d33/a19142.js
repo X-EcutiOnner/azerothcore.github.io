@@ -1,8 +1,6 @@
 var a19142 =
 [
-    [ "npc_vampiric_fiend", "df/d33/a19142.html#a4ddef98ac3b9d166980243b0dbe821f7", null ],
-    [ "EnterEvadeMode", "df/d33/a19142.html#ac9f90234d1f100c671f70b249a339314", null ],
-    [ "JustEngagedWith", "df/d33/a19142.html#a6167d1529b88c3b85cf21547b89bbc98", null ],
-    [ "UpdateAI", "df/d33/a19142.html#aba3a8c1bfaa1f841f820e9540bc2267a", null ],
-    [ "_scheduler", "df/d33/a19142.html#a8978bf1ffc6009b29c738ebe3232887f", null ]
+    [ "npc_highlord_tirion_fordringAI", "df/db6/a19146.html", "df/db6/a19146" ],
+    [ "npc_highlord_tirion_fordring_lh", "df/d33/a19142.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "df/d33/a19142.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

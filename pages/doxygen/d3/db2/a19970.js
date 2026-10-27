@@ -1,12 +1,6 @@
 var a19970 =
 [
-    [ "boss_loken", "d3/db2/a19970.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
-    [ "JustDied", "d3/db2/a19970.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
-    [ "JustEngagedWith", "d3/db2/a19970.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
-    [ "KilledUnit", "d3/db2/a19970.html#a85ae3094927f7484216b44582f9a2bf6", null ],
-    [ "MoveInLineOfSight", "d3/db2/a19970.html#ac9f3115629e5595d06c213d3e04afa68", null ],
-    [ "OnAuraRemove", "d3/db2/a19970.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
-    [ "Reset", "d3/db2/a19970.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
-    [ "ScheduleTasks", "d3/db2/a19970.html#a600e211be40226679212a7078b26f3ed", null ],
-    [ "_introDone", "d3/db2/a19970.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
+    [ "boss_eregosAI", "d9/d2e/a19974.html", "d9/d2e/a19974" ],
+    [ "boss_eregos", "d3/db2/a19970.html#a105820f29aa1391d77a56e024c4b5637", null ],
+    [ "GetAI", "d3/db2/a19970.html#aee43f0dfee70ab9618c560a27504cb02", null ]
 ];

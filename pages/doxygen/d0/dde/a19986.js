@@ -1,6 +1,6 @@
 var a19986 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d7/d31/a19990.html", "d7/d31/a19990" ],
-    [ "instance_halls_of_lightning", "d0/dde/a19986.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "d0/dde/a19986.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "boss_varosAI", "d7/d31/a19990.html", "d7/d31/a19990" ],
+    [ "boss_varos", "d0/dde/a19986.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
+    [ "GetAI", "d0/dde/a19986.html#a36733c4eb6179e43d61a1c37480666ea", null ]
 ];

@@ -1,6 +1,6 @@
 var a18342 =
 [
-    [ "HandleScript", "d8/da8/a18342.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
-    [ "PrepareSpellScript", "d8/da8/a18342.html#a50560d754709e6b9ec6863142c1ffce3", null ],
-    [ "Register", "d8/da8/a18342.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
+    [ "npc_coldflameAI", "d7/d9f/a18346.html", "d7/d9f/a18346" ],
+    [ "npc_coldflame", "d8/da8/a18342.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "d8/da8/a18342.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

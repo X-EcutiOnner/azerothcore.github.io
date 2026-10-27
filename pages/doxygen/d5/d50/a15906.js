@@ -1,7 +1,8 @@
 var a15906 =
 [
-    [ "npc_kerlonianAI", "d0/d49/a15910.html", "d0/d49/a15910" ],
-    [ "npc_kerlonian", "d5/d50/a15906.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "d5/d50/a15906.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "d5/d50/a15906.html#a353f482c843066031397b1bfaf193b5f", null ]
+    [ "npc_obsidian_eradicator", "d5/d50/a15906.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d5/d50/a15906.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d5/d50/a15906.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d5/d50/a15906.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d5/d50/a15906.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

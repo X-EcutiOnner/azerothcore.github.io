@@ -1,8 +1,8 @@
 var a27114 =
 [
-    [ "HandleDummy", "d8/d7a/a27114.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
-    [ "Load", "d8/d7a/a27114.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
-    [ "PrepareSpellScript", "d8/d7a/a27114.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
-    [ "Register", "d8/d7a/a27114.html#afb1c744f263b21c30a5dfd3675acb364", null ],
-    [ "Validate", "d8/d7a/a27114.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
+    [ "HandleApplyEffect", "d8/d7a/a27114.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
+    [ "Load", "d8/d7a/a27114.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
+    [ "PrepareAuraScript", "d8/d7a/a27114.html#a6e212284f72320356cfa2f0c2a59999d", null ],
+    [ "Register", "d8/d7a/a27114.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
+    [ "Validate", "d8/d7a/a27114.html#a985a52f71371443454d6dd36f7fe83b2", null ]
 ];

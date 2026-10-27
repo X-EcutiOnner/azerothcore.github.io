@@ -1,6 +1,7 @@
 var a19686 =
 [
-    [ "DespawnTime", "d3/d1f/a19686.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d3/d1f/a19686.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d3/d1f/a19686.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "FilterTargets", "d3/d1f/a19686.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "d3/d1f/a19686.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "d3/d1f/a19686.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "d3/d1f/a19686.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

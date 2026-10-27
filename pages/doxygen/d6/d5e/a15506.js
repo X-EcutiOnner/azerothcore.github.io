@@ -1,7 +1,5 @@
 var a15506 =
 [
-    [ "HandleScript", "d6/d5e/a15506.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "d6/d5e/a15506.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "d6/d5e/a15506.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "d6/d5e/a15506.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "npc_black_morass_summoned_add", "d6/d5e/a15506.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "d6/d5e/a15506.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

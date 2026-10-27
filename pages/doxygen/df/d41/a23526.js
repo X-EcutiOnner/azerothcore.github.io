@@ -1,8 +1,6 @@
 var a23526 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "df/d41/a23526.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "df/d41/a23526.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "df/d41/a23526.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "df/d41/a23526.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "df/d41/a23526.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "go_ahune_ice_stone", "df/d41/a23526.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "df/d41/a23526.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "df/d41/a23526.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

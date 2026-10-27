@@ -1,6 +1,8 @@
 var a22870 =
 [
-    [ "PrepareAuraScript", "da/d65/a22870.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
-    [ "Register", "da/d65/a22870.html#a75d0cf142e299783b06903ea03287e28", null ],
-    [ "Update", "da/d65/a22870.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
+    [ "boss_darkweaver_syth", "da/d65/a22870.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "da/d65/a22870.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "da/d65/a22870.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "da/d65/a22870.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "da/d65/a22870.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

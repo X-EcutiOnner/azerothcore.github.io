@@ -1,5 +1,5 @@
 var a14942 =
 [
-    [ "go_loosely_turned_soilAI", "dc/d73/a14942.html#a603641bc52d26521d64afaaeed3abc4d", null ],
-    [ "CanBeSeen", "dc/d73/a14942.html#a424b51b08d17ceb04b015cd535256889", null ]
+    [ "at_bring_your_orphan_to", "dc/d73/a14942.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "dc/d73/a14942.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

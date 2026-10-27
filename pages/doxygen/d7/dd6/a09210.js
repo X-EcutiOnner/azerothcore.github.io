@@ -1,8 +1,11 @@
 var a09210 =
 [
-    [ "VehicleSeat", "d7/dd6/a09210.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
-    [ "IsEmpty", "d7/dd6/a09210.html#a9f68076857cb85ee7679f04043acdedc", null ],
-    [ "Passenger", "d7/dd6/a09210.html#ac334f2f573bf52f164d570f8b83fc197", null ],
-    [ "SeatAddon", "d7/dd6/a09210.html#a3c46401aa5859287e4bcb24141c848cc", null ],
-    [ "SeatInfo", "d7/dd6/a09210.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
+    [ "DispelInfo", "d7/dd6/a09210.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
+    [ "GetDispeller", "d7/dd6/a09210.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
+    [ "GetDispellerSpellId", "d7/dd6/a09210.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
+    [ "GetRemovedCharges", "d7/dd6/a09210.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
+    [ "SetRemovedCharges", "d7/dd6/a09210.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
+    [ "_chargesRemoved", "d7/dd6/a09210.html#a5b6105f37470acb57bbda3e14ee664be", null ],
+    [ "_dispellerSpell", "d7/dd6/a09210.html#a484e6d516c5de30413e97f2c4abb5515", null ],
+    [ "_dispellerUnit", "d7/dd6/a09210.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
 ];

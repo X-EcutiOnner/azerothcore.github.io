@@ -1,6 +1,6 @@
 var a21234 =
 [
-    [ "npc_massive_jormungarAI", "dd/d92/a21238.html", "dd/d92/a21238" ],
-    [ "npc_massive_jormungar", "d8/df3/a21234.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "d8/df3/a21234.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "ModSanityStacks", "d8/df3/a21234.html#a38b8425689f91b91e23096d658b462cf", null ],
+    [ "PrepareSpellScript", "d8/df3/a21234.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
+    [ "Register", "d8/df3/a21234.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
 ];

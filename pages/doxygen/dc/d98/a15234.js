@@ -1,10 +1,9 @@
 var a15234 =
 [
-    [ "npc_hyjal_frost_wyrm", "dc/d98/a15234.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "dc/d98/a15234.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "dc/d98/a15234.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "dc/d98/a15234.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "dc/d98/a15234.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "dc/d98/a15234.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "dc/d98/a15234.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "boss_azuregosAI", "dc/d98/a15234.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "dc/d98/a15234.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "dc/d98/a15234.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "dc/d98/a15234.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "dc/d98/a15234.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "dc/d98/a15234.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

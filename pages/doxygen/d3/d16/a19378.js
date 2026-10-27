@@ -1,6 +1,7 @@
 var a19378 =
 [
-    [ "RespawnEvent", "d3/d16/a19378.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "d3/d16/a19378.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "d3/d16/a19378.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "HandleDummy", "d3/d16/a19378.html#a4bfc155129bd80c94b4b59474f30d748", null ],
+    [ "PrepareSpellScript", "d3/d16/a19378.html#a9c72772f9d17b34562bd11418d67872d", null ],
+    [ "Register", "d3/d16/a19378.html#a10c9f511da4eb366117d356c118408c6", null ],
+    [ "Validate", "d3/d16/a19378.html#a655f2081d17c06c155641efc45efc1f8", null ]
 ];

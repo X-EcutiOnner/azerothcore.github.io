@@ -1,13 +1,21 @@
 var a15698 =
 [
-    [ "npc_dirt_mound", "d1/dcc/a15698.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
-    [ "ChaseNewTarget", "d1/dcc/a15698.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
-    [ "EnterEvadeMode", "d1/dcc/a15698.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
-    [ "JustEngagedWith", "d1/dcc/a15698.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
-    [ "JustSummoned", "d1/dcc/a15698.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
-    [ "Reset", "d1/dcc/a15698.html#ae1662eb73f21351e07d00a717421de68", null ],
-    [ "SetData", "d1/dcc/a15698.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
-    [ "UpdateAI", "d1/dcc/a15698.html#a88447191070cf8b84df96db565eef48d", null ],
-    [ "_instance", "d1/dcc/a15698.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
-    [ "_ouroHealth", "d1/dcc/a15698.html#ac83391fa5069ae4574748f82d15e833d", null ]
+    [ "npc_general_andorov", "d1/dcc/a15698.html#ac3bbdeaad9c7bb303a5de6773916dcff", null ],
+    [ "GetData", "d1/dcc/a15698.html#adf1b6a0767c3633c96d41d6a8c59e670", null ],
+    [ "InitializeAI", "d1/dcc/a15698.html#a701221e8fd8830a3586d9791fd8eca56", null ],
+    [ "JustDied", "d1/dcc/a15698.html#ae6342cc5d033bc2900594cabccaf7233", null ],
+    [ "JustEngagedWith", "d1/dcc/a15698.html#a9f1261cde233466b814b53be03406370", null ],
+    [ "JustSummoned", "d1/dcc/a15698.html#a3add3fa13ffae3cd688eaf564c3f835d", null ],
+    [ "KilledUnit", "d1/dcc/a15698.html#a728b73ed109ee6b2b45eb3f1415b4744", null ],
+    [ "MoveInLineOfSight", "d1/dcc/a15698.html#a230803b7f29829118d105ec768941ffa", null ],
+    [ "sGossipSelect", "d1/dcc/a15698.html#a38eadfe7e465c276f7496c5b51f60d03", null ],
+    [ "UpdateEscortAI", "d1/dcc/a15698.html#ab5f5af15cf76071dcce833514bb8c867", null ],
+    [ "WaypointReached", "d1/dcc/a15698.html#ab9edc924b6e5ade56e3f6443a7454eaa", null ],
+    [ "WaypointReached", "d1/dcc/a15698.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_initialAttackTimer", "d1/dcc/a15698.html#a38dd94fea45cf2c1821cb01e3d3e70d8", null ],
+    [ "_paused", "d1/dcc/a15698.html#aa0708d2c1e4829371b93697744fb10b7", null ],
+    [ "_summons", "d1/dcc/a15698.html#ac8cb94b3870f655b61a52cdb5076fc4c", null ],
+    [ "Endwaypoint", "d1/dcc/a15698.html#a6897bb1ed63743ce8b225786d63910df", null ],
+    [ "events", "d1/dcc/a15698.html#aa7eace59bc5f630cafba513f9e2ec0f8", null ],
+    [ "instance", "d1/dcc/a15698.html#ae79d42dc7fa334ace67f07651ce4720a", null ]
 ];

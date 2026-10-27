@@ -1,10 +1,8 @@
 var a22118 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d6/ddc/a22118.html#aed712ea3625971e059e2ecd158227287", null ],
-    [ "DamageTaken", "d6/ddc/a22118.html#a8f860368df96e430b441c8316db99c93", null ],
-    [ "GetSummoner", "d6/ddc/a22118.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
-    [ "IsSummonedBy", "d6/ddc/a22118.html#a79676717b7c6219ea74ebe5a580eab28", null ],
-    [ "SpreadFire", "d6/ddc/a22118.html#a5727c839b7dd02ea64eccce3606688d1", null ],
-    [ "UpdateAI", "d6/ddc/a22118.html#a252875777655e963965676a24c15e766", null ],
-    [ "events", "d6/ddc/a22118.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
+    [ "npc_ravenous_worgAI", "d6/ddc/a22118.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d6/ddc/a22118.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d6/ddc/a22118.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d6/ddc/a22118.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d6/ddc/a22118.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

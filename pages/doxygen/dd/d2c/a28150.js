@@ -1,6 +1,8 @@
 var a28150 =
 [
-    [ "go_witherbark_totem_bundleAI", "df/d08/a28154.html", "df/d08/a28154" ],
-    [ "go_witherbark_totem_bundle", "dd/d2c/a28150.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "dd/d2c/a28150.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "CheckProc", "dd/d2c/a28150.html#a77739dee36e546ff0e91a2a266a8e107", null ],
+    [ "HandleProc", "dd/d2c/a28150.html#a2cde3c808e4ad060bb34c30507f210b7", null ],
+    [ "PrepareAuraScript", "dd/d2c/a28150.html#a796c2a915069385cdca89cf3f7d09c82", null ],
+    [ "Register", "dd/d2c/a28150.html#af144533458a912ac19c6b772114586cd", null ],
+    [ "Validate", "dd/d2c/a28150.html#ac6bde14a034888642aa97de6b2d4a21d", null ]
 ];

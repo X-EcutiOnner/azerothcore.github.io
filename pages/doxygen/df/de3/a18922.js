@@ -1,7 +1,6 @@
 var a18922 =
 [
-    [ "npc_valithria_portalAI", "df/de3/a18922.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "df/de3/a18922.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "df/de3/a18922.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "df/de3/a18922.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "npc_terenas_menethilAI", "db/dc9/a18926.html", "db/dc9/a18926" ],
+    [ "npc_terenas_menethil", "df/de3/a18922.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "df/de3/a18922.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

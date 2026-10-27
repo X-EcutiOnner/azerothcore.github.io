@@ -1,7 +1,9 @@
 var a24482 =
 [
-    [ "HandleEffectApply", "d5/d0a/a24482.html#a9923e38a2b5999d932d85be17a50ac83", null ],
-    [ "HandleEffectRemove", "d5/d0a/a24482.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
-    [ "PrepareAuraScript", "d5/d0a/a24482.html#a105df22901477c34757e62a0305006d4", null ],
-    [ "Register", "d5/d0a/a24482.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
+    [ "npc_kservantAI", "d5/d0a/a24482.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d5/d0a/a24482.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d5/d0a/a24482.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "UpdateAI", "d5/d0a/a24482.html#a0f2b37f4575f32d9ce0a441157a80a8b", null ],
+    [ "WaypointReached", "d5/d0a/a24482.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
+    [ "WaypointReached", "d5/d0a/a24482.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

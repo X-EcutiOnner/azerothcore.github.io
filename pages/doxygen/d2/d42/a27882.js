@@ -1,6 +1,6 @@
 var a27882 =
 [
-    [ "FilterTargets", "d2/d42/a27882.html#a6224b3193474f569d09edaf29b40c2fb", null ],
-    [ "PrepareSpellScript", "d2/d42/a27882.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
-    [ "Register", "d2/d42/a27882.html#a2fab1592d19331239b1ef63045389886", null ]
+    [ "HandleAuraApply", "d2/d42/a27882.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
+    [ "PrepareAuraScript", "d2/d42/a27882.html#a6eedadacba366104fdca2791862be216", null ],
+    [ "Register", "d2/d42/a27882.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
 ];

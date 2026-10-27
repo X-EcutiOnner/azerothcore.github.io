@@ -1,7 +1,9 @@
 var a25722 =
 [
-    [ "FilterTargets", "d0/d41/a25722.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "d0/d41/a25722.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "d0/d41/a25722.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "d0/d41/a25722.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "spell_gen_translocate", "d0/d41/a25722.html#a56a3df0eba3e1521aa2898194c39e919", null ],
+    [ "HandleScript", "d0/d41/a25722.html#a67684fb76da60fdc13dbece055dae157", null ],
+    [ "PrepareSpellScript", "d0/d41/a25722.html#a6f0986e54ad410c2f42a7935645485ed", null ],
+    [ "Register", "d0/d41/a25722.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
+    [ "Validate", "d0/d41/a25722.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
+    [ "_spellId", "d0/d41/a25722.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
 ];

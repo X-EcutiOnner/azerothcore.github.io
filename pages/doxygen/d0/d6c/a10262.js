@@ -1,14 +1,11 @@
 var a10262 =
 [
-    [ "BattlegroundMap", "d0/d6c/a10262.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
-    [ "~BattlegroundMap", "d0/d6c/a10262.html#a327d241fd7930e9b3a98ba50014d5131", null ],
-    [ "AddPlayerToMap", "d0/d6c/a10262.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
-    [ "CannotEnter", "d0/d6c/a10262.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
-    [ "GetBG", "d0/d6c/a10262.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
-    [ "InitVisibilityDistance", "d0/d6c/a10262.html#af2d6847765d10fab527d77b26dd770ad", null ],
-    [ "RemoveAllPlayers", "d0/d6c/a10262.html#a5093cbf8005d06452eeb202513323c1e", null ],
-    [ "RemovePlayerFromMap", "d0/d6c/a10262.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
-    [ "SetBG", "d0/d6c/a10262.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
-    [ "SetUnload", "d0/d6c/a10262.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
-    [ "m_bg", "d0/d6c/a10262.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
+    [ "DeleteEmptyExpiredMail", "d0/d6c/a10262.html#a3cd0e2570c8c684d09931331dfb5837f", null ],
+    [ "instance", "d0/d6c/a10262.html#abe24c4d840d5f2b05958a44cd63b8b35", null ],
+    [ "LoadMailCounts", "d0/d6c/a10262.html#a6786cc5036259c23256b669da1146012", null ],
+    [ "OnMailDeleted", "d0/d6c/a10262.html#a699bf593d7f00470878504141e7fe3df", null ],
+    [ "OnMailReturned", "d0/d6c/a10262.html#ac355df32c38e8619cf18cee283894c64", null ],
+    [ "OnMailSent", "d0/d6c/a10262.html#ad22a9a0cf09a5dc7acaf14dfdd0bcdbf", null ],
+    [ "RecountMailCount", "d0/d6c/a10262.html#a595b8b31c9695c8bbec64e2f982853d0", null ],
+    [ "ReturnOrDeleteOldMails", "d0/d6c/a10262.html#ab4ef5f6ca91286c732b257f267b06f14", null ]
 ];

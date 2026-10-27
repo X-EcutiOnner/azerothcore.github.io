@@ -1,8 +1,8 @@
 var a27478 =
 [
-    [ "CheckFireTotem", "db/d7a/a27478.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
-    [ "HandleDummy", "db/d7a/a27478.html#a179d07e7090cec396a7845754e545e8e", null ],
-    [ "PrepareSpellScript", "db/d7a/a27478.html#a8311cc106da26267e90acd98698cb737", null ],
-    [ "Register", "db/d7a/a27478.html#abae5a4961888e6ba2d876e450307e362", null ],
-    [ "Validate", "db/d7a/a27478.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
+    [ "CheckCast", "db/d7a/a27478.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
+    [ "CheckQuest", "db/d7a/a27478.html#abc927d932c1d5e05eab1918364d68ed5", null ],
+    [ "HandleActiveObject", "db/d7a/a27478.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
+    [ "PrepareSpellScript", "db/d7a/a27478.html#a96e69476965cc2466213a5371a57093a", null ],
+    [ "Register", "db/d7a/a27478.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
 ];

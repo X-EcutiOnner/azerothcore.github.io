@@ -1,7 +1,10 @@
 var a24830 =
 [
-    [ "FilterTargets", "de/d2b/a24830.html#af6daf7022fc4cd18909056089c249c8a", null ],
-    [ "HandleDummy", "de/d2b/a24830.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
-    [ "PrepareSpellScript", "de/d2b/a24830.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
-    [ "Register", "de/d2b/a24830.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
+    [ "HandleEffectRemove", "de/d2b/a24830.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
+    [ "HandleImprovedBloodPresence", "de/d2b/a24830.html#a020c0ae1f74856ae070ab2104232a079", null ],
+    [ "HandleImprovedFrostPresence", "de/d2b/a24830.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
+    [ "HandleImprovedUnholyPresence", "de/d2b/a24830.html#a5da86bb3686327787da5f46fc756f0a0", null ],
+    [ "PrepareAuraScript", "de/d2b/a24830.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
+    [ "Register", "de/d2b/a24830.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
+    [ "Validate", "de/d2b/a24830.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
 ];

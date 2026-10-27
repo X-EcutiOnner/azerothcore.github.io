@@ -1,13 +1,9 @@
 var a15638 =
 [
-    [ "boss_cthun", "da/d4a/a15638.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "da/d4a/a15638.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "da/d4a/a15638.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "da/d4a/a15638.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "da/d4a/a15638.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "da/d4a/a15638.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "da/d4a/a15638.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "da/d4a/a15638.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "da/d4a/a15638.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "da/d4a/a15638.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "npc_buru_egg", "da/d4a/a15638.html#a6aa2896342b802caecde1c1dffcf4907", null ],
+    [ "JustDied", "da/d4a/a15638.html#a3de169b252374f0b2daed3ecb5a11502", null ],
+    [ "JustEngagedWith", "da/d4a/a15638.html#a8cde6848569671876a17b00d75228ebe", null ],
+    [ "JustSummoned", "da/d4a/a15638.html#abebb96dcb3d653bddd4210da6567fb87", null ],
+    [ "UpdateAI", "da/d4a/a15638.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
+    [ "_instance", "da/d4a/a15638.html#a5b168226755a57368f17827e3457a0ca", null ]
 ];

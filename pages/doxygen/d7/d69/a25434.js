@@ -1,7 +1,6 @@
 var a25434 =
 [
-    [ "ModDest", "d7/d69/a25434.html#afe0fb68de61a657ce6900e71973e4d77", null ],
-    [ "ModifyCookingSkill", "d7/d69/a25434.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
-    [ "PrepareSpellScript", "d7/d69/a25434.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
-    [ "Register", "d7/d69/a25434.html#a6919079b43a816eb601a68c51ad39794", null ]
+    [ "HandleScriptEffect", "d7/d69/a25434.html#ab3f415ae783f2a778178cc3319b32773", null ],
+    [ "PrepareSpellScript", "d7/d69/a25434.html#a4ba7f7935c4acda891190dc375086dee", null ],
+    [ "Register", "d7/d69/a25434.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a", null ]
 ];

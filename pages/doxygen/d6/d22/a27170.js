@@ -1,6 +1,7 @@
 var a27170 =
 [
-    [ "OnApply", "d6/d22/a27170.html#a50ced6d5a475ccad9429dfbb05130394", null ],
-    [ "PrepareAuraScript", "d6/d22/a27170.html#abd02e129b1201449d473a66aea77d569", null ],
-    [ "Register", "d6/d22/a27170.html#a8c09775f642335252c6e548900dc9d3a", null ]
+    [ "HandleProc", "d6/d22/a27170.html#a512ec25fe649e42930d64effa4f7868b", null ],
+    [ "PrepareAuraScript", "d6/d22/a27170.html#ac1c7dcf63d7c67ec5fad424531519b58", null ],
+    [ "Register", "d6/d22/a27170.html#a6118148ac0e641a6c3e4490c2cdd86c0", null ],
+    [ "Validate", "d6/d22/a27170.html#a22dea9fb57d89b1d4813722968b5429f", null ]
 ];

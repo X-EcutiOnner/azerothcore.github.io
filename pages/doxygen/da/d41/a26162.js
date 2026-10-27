@@ -1,7 +1,8 @@
 var a26162 =
 [
-    [ "HandleScript", "da/d41/a26162.html#aad0be226a2d294d3361c1afbf644c5e4", null ],
-    [ "PrepareSpellScript", "da/d41/a26162.html#a85dee311aab08d796a3a0c1bc9e9390d", null ],
-    [ "Register", "da/d41/a26162.html#a2b22be9826db241ecf3f99ff16c309c0", null ],
-    [ "Validate", "da/d41/a26162.html#a98df659504307fc0666fe2b1001eaa00", null ]
+    [ "HandleProc", "da/d41/a26162.html#ad92c7804b26bd29d135e55c8adad9093", null ],
+    [ "OnRemove", "da/d41/a26162.html#afa8e065ed835243f3ebb95c10792adf8", null ],
+    [ "PrepareAuraScript", "da/d41/a26162.html#a5e986f77b23fd0402089ea36f0360c79", null ],
+    [ "Register", "da/d41/a26162.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
+    [ "Validate", "da/d41/a26162.html#a51f81afec6ff0918530208d9de9dae24", null ]
 ];

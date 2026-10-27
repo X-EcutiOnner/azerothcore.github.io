@@ -1,7 +1,7 @@
 var a27150 =
 [
-    [ "HandleDummy", "de/d4d/a27150.html#a1abe1e04be6b6c410e0ff273d8aa15c9", null ],
-    [ "Load", "de/d4d/a27150.html#a249e9c3c74bcc20ea2c0d5ce63fbd88c", null ],
-    [ "PrepareSpellScript", "de/d4d/a27150.html#aeffcc8db6125a35227545911fa03a850", null ],
-    [ "Register", "de/d4d/a27150.html#a1de981482ebb05b8507b308dba7a426b", null ]
+    [ "CheckProc", "de/d4d/a27150.html#a068e3d66059d0d34b39ef43bc259eb70", null ],
+    [ "HandleProc", "de/d4d/a27150.html#ac3da721ff9df529738eeb33e95fb0dac", null ],
+    [ "PrepareAuraScript", "de/d4d/a27150.html#ab346f33f7d467f89c9bc9ecc569a8c8c", null ],
+    [ "Register", "de/d4d/a27150.html#afa041c16f5d6c80aa74402fbdbea1701", null ]
 ];

@@ -1,6 +1,5 @@
 var a28190 =
 [
-    [ "go_heatAI", "d8/dfe/a28190.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "d8/dfe/a28190.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "d8/dfe/a28190.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "achievement_bg_ic_resource_glut", "d8/dfe/a28190.html#ace247962dccee2601ceade593b0874d4", null ],
+    [ "OnCheck", "d8/dfe/a28190.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
 ];

@@ -1,10 +1,17 @@
 var a10658 =
 [
-    [ "Flags", "d6/d12/a10658.html#abf9c2701e766951e5a211bf6bf85b175", null ],
-    [ "ID", "d6/d12/a10658.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
-    [ "needSave", "d6/d12/a10658.html#aae888b1bf10f654ee212f3d687c111e9", null ],
-    [ "needSend", "d6/d12/a10658.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
-    [ "ReputationListID", "d6/d12/a10658.html#a052caeeae1ecdca831097591e0fddaf6", null ],
-    [ "roundedUp", "d6/d12/a10658.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
-    [ "Standing", "d6/d12/a10658.html#ae87da6cada559e11a9607e194013d671", null ]
+    [ "WaypointNode", "d6/d12/a10658.html#a8f4aa765b3bedfec2a11da0c8ce2c116", null ],
+    [ "WaypointNode", "d6/d12/a10658.html#ab57dd64800b87f26256509533dc31f5c", null ],
+    [ "Delay", "d6/d12/a10658.html#a03268e85010c56f29325b80a9624a73b", null ],
+    [ "EventChance", "d6/d12/a10658.html#a2bffe84cee4076217d7c9cc09b880ad2", null ],
+    [ "EventId", "d6/d12/a10658.html#a244afd47ae7c71a15c82d9ee7036ebdb", null ],
+    [ "Id", "d6/d12/a10658.html#aec030367189f87dec789df49303916ed", null ],
+    [ "MoveType", "d6/d12/a10658.html#afd3a16c9a60b7f05816ab935b3578b8a", null ],
+    [ "Orientation", "d6/d12/a10658.html#a91fd08cd83ae7bb1b27563c38e674722", null ],
+    [ "SmoothTransition", "d6/d12/a10658.html#a8c9c60d5c5b0941291b6e3ba0cbece5f", null ],
+    [ "SplinePoints", "d6/d12/a10658.html#a1a9c709edeb58be70f51da2079bba579", null ],
+    [ "Velocity", "d6/d12/a10658.html#ab353b7326bb6bdbd5efd35574dcebbc0", null ],
+    [ "X", "d6/d12/a10658.html#aa62bd26c57e5cfbe62de0eb2d63e4610", null ],
+    [ "Y", "d6/d12/a10658.html#aba6568aff3a204c9e4ad8bfaeeaabc56", null ],
+    [ "Z", "d6/d12/a10658.html#aab4756345912b48fd2f352464e24bc1a", null ]
 ];

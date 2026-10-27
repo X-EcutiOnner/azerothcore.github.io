@@ -1,7 +1,7 @@
 var a14794 =
 [
-    [ "PeriodicTick", "d3/de2/a14794.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "d3/de2/a14794.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "d3/de2/a14794.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "d3/de2/a14794.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "FilterTargets", "d3/de2/a14794.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
+    [ "HandleEffect", "d3/de2/a14794.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
+    [ "PrepareSpellScript", "d3/de2/a14794.html#a08127992c96fb02e87e9ade65a5375d5", null ],
+    [ "Register", "d3/de2/a14794.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
 ];

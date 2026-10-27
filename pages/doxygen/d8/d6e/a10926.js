@@ -1,9 +1,6 @@
 var a10926 =
 [
-    [ "ServerPacket", "d8/d6e/a10926.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
-    [ "Clear", "d8/d6e/a10926.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
-    [ "GetOpcode", "d8/d6e/a10926.html#a639ab6c078d7c746bcb328526df705be", null ],
-    [ "Move", "d8/d6e/a10926.html#a659397042201ae571bb564872e54d2c6", null ],
-    [ "Read", "d8/d6e/a10926.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
-    [ "ShrinkToFit", "d8/d6e/a10926.html#a6fa19a94d57484aaff3498be01495258", null ]
+    [ "OutdoorPvPScript", "d8/d6e/a10926.html#a1dfe19b5cc4e1eb2ad02ad8773aff290", null ],
+    [ "GetOutdoorPvP", "d8/d6e/a10926.html#aa213974f384c88ab65f7b7308dadb026", null ],
+    [ "IsDatabaseBound", "d8/d6e/a10926.html#ac22c6a9945738270452848f997d2818f", null ]
 ];

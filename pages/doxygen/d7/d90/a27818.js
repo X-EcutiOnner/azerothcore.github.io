@@ -1,6 +1,7 @@
 var a27818 =
 [
-    [ "HandleOnHit", "d7/d90/a27818.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
-    [ "PrepareSpellScript", "d7/d90/a27818.html#a999b019665dec9b0690a1019be428072", null ],
-    [ "Register", "d7/d90/a27818.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
+    [ "HandleBonus", "d7/d90/a27818.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
+    [ "PrepareAuraScript", "d7/d90/a27818.html#aebf4afa25b50be9b99900ef830f26f04", null ],
+    [ "Register", "d7/d90/a27818.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
+    [ "Validate", "d7/d90/a27818.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
 ];

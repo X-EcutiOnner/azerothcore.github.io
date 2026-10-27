@@ -1,8 +1,8 @@
 var a15510 =
 [
-    [ "HandleScript", "d2/d5a/a15510.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "d2/d5a/a15510.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "d2/d5a/a15510.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "d2/d5a/a15510.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "d2/d5a/a15510.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "Load", "d2/d5a/a15510.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "d2/d5a/a15510.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "d2/d5a/a15510.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "d2/d5a/a15510.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "d2/d5a/a15510.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

@@ -1,18 +1,10 @@
 var a09610 =
 [
-    [ "MessageDistDeliverer", "d1/d2e/a09610.html#a93eee46f61a89e78757792f3c6c508be", null ],
-    [ "SendPacket", "d1/d2e/a09610.html#ad7b98ce0b0d971ab44dabf917230824e", null ],
-    [ "Visit", "d1/d2e/a09610.html#af44878b494b1412f0d08248f6a88fff6", null ],
-    [ "Visit", "d1/d2e/a09610.html#a2e8d0ad4bdc5fc8961d9f67b6a93b69d", null ],
-    [ "Visit", "d1/d2e/a09610.html#a8c56d33ec988bfb6ba078fce00beab1a", null ],
-    [ "Visit", "d1/d2e/a09610.html#a09171ca5e494d7cc4b19340e95367a64", null ],
-    [ "Visit", "d1/d2e/a09610.html#ab8bf1e8d9f81dac6baa006262835628f", null ],
-    [ "i_distSq", "d1/d2e/a09610.html#a871dda581863f0919f1d5b2f60c2fcd9", null ],
-    [ "i_message", "d1/d2e/a09610.html#ac49c2d8b9120edbafd6b04656a6d2909", null ],
-    [ "i_phaseMask", "d1/d2e/a09610.html#abca07d041f9b45b4002f15dfff6e1c9e", null ],
-    [ "i_source", "d1/d2e/a09610.html#aa65c4e298a1302647fdaad1b1227a3a2", null ],
-    [ "required3dDist", "d1/d2e/a09610.html#abdce98d93c98513a434df80b97c096c6", null ],
-    [ "skipped_receiver", "d1/d2e/a09610.html#a7f92e1c65cdc8346dd4bac47f1ba8b5b", null ],
-    [ "teamFilter", "d1/d2e/a09610.html#a9433a519c61c618235cf4dc98f473c0e", null ],
-    [ "teamId", "d1/d2e/a09610.html#acfda3713bbde51a110cb160f0325f848", null ]
+    [ "iterator", "d1/d2e/a09610.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
+    [ "begin", "d1/d2e/a09610.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
+    [ "end", "d1/d2e/a09610.html#a266acb421cfc6ccc56dc2acff3202971", null ],
+    [ "getFirst", "d1/d2e/a09610.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
+    [ "getLast", "d1/d2e/a09610.html#a46a36813eaf752815a3f8c739db88a5d", null ],
+    [ "rbegin", "d1/d2e/a09610.html#ae69734978b5eec009a696861b7b7152b", null ],
+    [ "rend", "d1/d2e/a09610.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
 ];

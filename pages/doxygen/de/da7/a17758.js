@@ -1,6 +1,6 @@
 var a17758 =
 [
-    [ "ModAuraStack", "de/da7/a17758.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "de/da7/a17758.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "de/da7/a17758.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "boss_moorabiAI", "d6/d9f/a17762.html", "d6/d9f/a17762" ],
+    [ "boss_moorabi", "de/da7/a17758.html#a94e14b2a9b06143985f785e781d1c302", null ],
+    [ "GetAI", "de/da7/a17758.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
 ];

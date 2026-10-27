@@ -1,6 +1,5 @@
 var a19258 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d8/d36/a19262.html", "d8/d36/a19262" ],
-    [ "npc_icc_skybreaker_hierophant", "d1/d44/a19258.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "d1/d44/a19258.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "npc_darkfallen_blood_knight", "d1/d44/a19258.html#ad5b43cff525dc18855a0b51a23fa6fd0", null ],
+    [ "ScheduleSpells", "d1/d44/a19258.html#ad275e8b9562587a61b8db4440eaf43b3", null ]
 ];

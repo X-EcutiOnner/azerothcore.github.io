@@ -1,10 +1,10 @@
 var a12942 =
 [
-    [ "npc_corrupted_totem", "d9/d53/a12942.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
-    [ "IsSummonedBy", "d9/d53/a12942.html#ae8314903c9006b7bca94a47115a0d05b", null ],
-    [ "JustDied", "d9/d53/a12942.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
-    [ "Reset", "d9/d53/a12942.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
-    [ "SetAura", "d9/d53/a12942.html#a509688befda49f789f77ee0e4170a74e", null ],
-    [ "UpdateAI", "d9/d53/a12942.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
-    [ "_auraAdded", "d9/d53/a12942.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
+    [ "npc_rookery_hatcher", "d9/d53/a12942.html#ab4740540a6fc2661c3c99bd2569a0bfa", null ],
+    [ "InitializeAI", "d9/d53/a12942.html#a58d6bb3ba8d39c0e92d30f4c124e3734", null ],
+    [ "JustEngagedWith", "d9/d53/a12942.html#a9d2e256f8df44254cc0301fe2b1fa628", null ],
+    [ "UpdateAI", "d9/d53/a12942.html#a011cf0384a7bf6dd502a767d6667140a", null ],
+    [ "events", "d9/d53/a12942.html#ab49d35c9d22408b01e27c8c7933433e0", null ],
+    [ "targetEgg", "d9/d53/a12942.html#a4fd5ed979e2c3d600e89e4592b7da98c", null ],
+    [ "targetPosition", "d9/d53/a12942.html#ac49345c80e58f7c0094fe1b62ac4bf84", null ]
 ];

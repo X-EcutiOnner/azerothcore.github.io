@@ -1,16 +1,19 @@
 var a05814 =
 [
-    [ "difference_type", "d6/db5/a05814.html#aeb2086c6034a734b92b3cb8d0382a293", null ],
-    [ "iterator_category", "d6/db5/a05814.html#a60f6936503d386c555d012e8763611ca", null ],
-    [ "pointer", "d6/db5/a05814.html#aa25ef6456bed8f4e599a48c7c1448363", null ],
-    [ "reference", "d6/db5/a05814.html#a95fa5b0dac0017e43bc5683fb040836d", null ],
-    [ "value_type", "d6/db5/a05814.html#ab19bfdfea57f6de2bbef93aff14481ec", null ],
-    [ "CheckedBufferOutputIterator", "d6/db5/a05814.html#a49de38fe9f4e296bcd229d486864c65e", null ],
-    [ "check", "d6/db5/a05814.html#ab8414d5a971d77718de7f610bb000443", null ],
-    [ "operator*", "d6/db5/a05814.html#a2d4635aa952b03df738046667197b6f9", null ],
-    [ "operator++", "d6/db5/a05814.html#a1bdbf99823ee46a88094480b5040211b", null ],
-    [ "operator++", "d6/db5/a05814.html#a8a72bd229fb92e389ec311142ca2a139", null ],
-    [ "remaining", "d6/db5/a05814.html#ae804b558c6912a00405070e170572407", null ],
-    [ "_buf", "d6/db5/a05814.html#abee1c6def8872acea5f34f0ae22aa467", null ],
-    [ "_end", "d6/db5/a05814.html#a83a86f648edeeaf34b01581b972b2f1d", null ]
+    [ "ProducerConsumerQueue", "d6/db5/a05814.html#a79b3575e4e25204841ad6b2ca43b0b38", null ],
+    [ "Cancel", "d6/db5/a05814.html#a7e9de516e77945411ad4f8bfa161489d", null ],
+    [ "DeleteQueuedObject", "d6/db5/a05814.html#af375e232b14a288b4e514f4e1e726f06", null ],
+    [ "DeleteQueuedObject", "d6/db5/a05814.html#a10e893856377f7f7a4be62c224a2aef3", null ],
+    [ "Empty", "d6/db5/a05814.html#a1ad8d5d17442d0148b2d8d99e8c798b4", null ],
+    [ "Pop", "d6/db5/a05814.html#afe8119f67dd7d95bbcd749d7ac9404d4", null ],
+    [ "Push", "d6/db5/a05814.html#ac7598291c31b28aaf95408ffe017c85a", null ],
+    [ "Reset", "d6/db5/a05814.html#a3837624afaf35f764f6cdd50dfe023c8", null ],
+    [ "Shutdown", "d6/db5/a05814.html#aff2060f9ae351caf2da543a5379911ca", null ],
+    [ "Size", "d6/db5/a05814.html#adeefabd0da1df47a9ef3ec2fc6a78b80", null ],
+    [ "WaitAndPop", "d6/db5/a05814.html#a172ef4211bcb237478ec57531c8dcc4d", null ],
+    [ "_cancel", "d6/db5/a05814.html#a54223137936cfa679327d01313adfa01", null ],
+    [ "_condition", "d6/db5/a05814.html#ace83931f4236e97f32c58067b05d35e9", null ],
+    [ "_queue", "d6/db5/a05814.html#a5fc3a20c094041e2da999c4b37d735f0", null ],
+    [ "_queueLock", "d6/db5/a05814.html#a18c7223e356b338f9ddbc17eadc6a21e", null ],
+    [ "_shutdown", "d6/db5/a05814.html#a994ad012dfe4e9cd4d76d8eb9270f0d2", null ]
 ];

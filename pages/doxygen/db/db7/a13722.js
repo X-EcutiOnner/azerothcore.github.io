@@ -1,5 +1,7 @@
 var a13722 =
 [
-    [ "go_eredar_twins_blaze", "db/db7/a13722.html#a19d28875d3506d337e0ecbd93169f140", null ],
-    [ "InitializeAI", "db/db7/a13722.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
+    [ "OnPeriodic", "db/db7/a13722.html#ab193b7cf8a8fe91879317e7d21522976", null ],
+    [ "PrepareAuraScript", "db/db7/a13722.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
+    [ "Register", "db/db7/a13722.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
+    [ "Validate", "db/db7/a13722.html#a290b864756ceff85d52ba3f974a28217", null ]
 ];

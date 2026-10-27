@@ -1,14 +1,10 @@
 var a16598 =
 [
-    [ "npc_halion_controllerAI", "d4/dbc/a16598.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
-    [ "DoAction", "d4/dbc/a16598.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
-    [ "Reset", "d4/dbc/a16598.html#a3004aecb50815287d5f832f2a8a0d250", null ],
-    [ "SetData", "d4/dbc/a16598.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
-    [ "UpdateAI", "d4/dbc/a16598.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
-    [ "UpdateCorporeality", "d4/dbc/a16598.html#ac82987f2b2b069b90c509c477004bae6", null ],
-    [ "_corporeality", "d4/dbc/a16598.html#a4c23df1bb774ac724bdf537453592671", null ],
-    [ "_events", "d4/dbc/a16598.html#a92e3f116260265a2d0dbeef769eee03e", null ],
-    [ "_instance", "d4/dbc/a16598.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
-    [ "_materialDamage", "d4/dbc/a16598.html#afcc510b0d4be10ed057d1a304b803b69", null ],
-    [ "_twilightDamage", "d4/dbc/a16598.html#a13a9efcb11ed31725c45011508407287", null ]
+    [ "boss_sartharion_tenebron", "d4/dbc/a16598.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
+    [ "ClearInstance", "d4/dbc/a16598.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
+    [ "ExecuteEvent", "d4/dbc/a16598.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
+    [ "JustDied", "d4/dbc/a16598.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
+    [ "JustSummoned", "d4/dbc/a16598.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
+    [ "Reset", "d4/dbc/a16598.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
+    [ "summons2", "d4/dbc/a16598.html#a59b131fcd2298640390fcd0f662f132d", null ]
 ];

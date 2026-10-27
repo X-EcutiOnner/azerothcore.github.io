@@ -1,6 +1,8 @@
 var a16454 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "d5/d84/a16458.html", "d5/d84/a16458" ],
-    [ "instance_azjol_nerub", "d5/d4d/a16454.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "d5/d4d/a16454.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "HandleScriptEffect", "d5/d4d/a16454.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
+    [ "Load", "d5/d4d/a16454.html#ab293f8b536957558fa8886e1f4a23e74", null ],
+    [ "PrepareSpellScript", "d5/d4d/a16454.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
+    [ "Register", "d5/d4d/a16454.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
+    [ "Validate", "d5/d4d/a16454.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
 ];

@@ -1,6 +1,11 @@
 var a21622 =
 [
-    [ "npc_warmage_coldarraAI", "d3/d13/a21626.html", "d3/d13/a21626" ],
-    [ "npc_warmage_coldarra", "d4/d36/a21622.html#a358f8ab26991798ff076ac764cd7abe2", null ],
-    [ "GetAI", "d4/d36/a21622.html#aa29181e0ad61b44eff685267f3231382", null ]
+    [ "boss_cyanigosa", "d4/d36/a21622.html#af85a0c366de8785cd89d14f7990bfb54", null ],
+    [ "EnterEvadeMode", "d4/d36/a21622.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
+    [ "ExecuteEvent", "d4/d36/a21622.html#a694dda590c17a03534f8744838ac3176", null ],
+    [ "JustDied", "d4/d36/a21622.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
+    [ "JustEngagedWith", "d4/d36/a21622.html#a2432aa3610747c52f6ec3de1def55f18", null ],
+    [ "KilledUnit", "d4/d36/a21622.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
+    [ "MoveInLineOfSight", "d4/d36/a21622.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
+    [ "SpellHitTarget", "d4/d36/a21622.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
 ];

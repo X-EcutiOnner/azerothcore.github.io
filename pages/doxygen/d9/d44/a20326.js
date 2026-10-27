@@ -1,8 +1,12 @@
 var a20326 =
 [
-    [ "HandleOnEffectApply", "d9/d44/a20326.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "d9/d44/a20326.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "d9/d44/a20326.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "d9/d44/a20326.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "d9/d44/a20326.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "npc_auriaya_feral_defender", "d9/d44/a20326.html#a84425204b0ad06789edb331ed8495774", null ],
+    [ "DamageTaken", "d9/d44/a20326.html#aaebbf27345a546bf66e4ab7ed8eae556", null ],
+    [ "DoAction", "d9/d44/a20326.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
+    [ "JustDied", "d9/d44/a20326.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
+    [ "JustEngagedWith", "d9/d44/a20326.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
+    [ "JustSummoned", "d9/d44/a20326.html#acea3175bcd4df4cf88dc9561c01bee64", null ],
+    [ "Reset", "d9/d44/a20326.html#a02b09b7dfdd4036827bb474a57296491", null ],
+    [ "UpdateAI", "d9/d44/a20326.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
+    [ "_summons", "d9/d44/a20326.html#a0b7960f590ba76068c377cf08291ce35", null ]
 ];

@@ -1,7 +1,7 @@
 var a01157 =
 [
-    [ "instance_halls_of_stone", "d7/d09/a20177.html", "d7/d09/a20177" ],
-    [ "instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript", "d4/d90/a20181.html", "d4/d90/a20181" ],
+    [ "instance_halls_of_stone", "df/da1/a20194.html", "df/da1/a20194" ],
+    [ "instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript", "d5/d80/a20198.html", "d5/d80/a20198" ],
     [ "AddSC_instance_halls_of_stone", "d9/d25/a01157.html#a81d8c56de5920b1e73d7955e1c7399ed", null ],
     [ "boundaries", "d9/d25/a01157.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "d9/d25/a01157.html#a412286b689bd324fedd65ddd8dde8afb", null ],

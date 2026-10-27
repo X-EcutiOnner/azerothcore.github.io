@@ -1,8 +1,10 @@
 var a13374 =
 [
-    [ "CalcPeriodic", "d5/d5a/a13374.html#a493609298c152df8216641ba2e5861cd", null ],
-    [ "PrepareAuraScript", "d5/d5a/a13374.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
-    [ "Register", "d5/d5a/a13374.html#a44002db5980dfc1db816cf61fd446491", null ],
-    [ "Update", "d5/d5a/a13374.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
-    [ "Validate", "d5/d5a/a13374.html#a060e189aaa4396681d42906b65c9196f", null ]
+    [ "boss_servant_quarters", "d5/d5a/a13374.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
+    [ "JustDied", "d5/d5a/a13374.html#a3b9df7ab573f22a9e15761cb662db404", null ],
+    [ "JustEngagedWith", "d5/d5a/a13374.html#afe4a4a78824851f63ce560a60d55cee3", null ],
+    [ "MovementInform", "d5/d5a/a13374.html#a00d31d9421903b6a92c03a3bd0382328", null ],
+    [ "Reset", "d5/d5a/a13374.html#a273a09b1242968a5dd45ab9866fbe481", null ],
+    [ "UpdateAI", "d5/d5a/a13374.html#a6a41cfd67310077803733190645050e4", null ],
+    [ "_scheduler", "d5/d5a/a13374.html#a520142de5e8d2911684b18c85a3f37e2", null ]
 ];

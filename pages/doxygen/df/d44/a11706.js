@@ -1,12 +1,8 @@
 var a11706 =
 [
-    [ "Build", "df/d44/a11706.html#aa5ed2806342a36723f1317105ebc13fa", null ],
-    [ "FormatVersion", "df/d44/a11706.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
-    [ "Locale", "df/d44/a11706.html#acdcbe4c10ad6143b756638349c185ae5", null ],
-    [ "OptionalDataSize", "df/d44/a11706.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
-    [ "SessionKey", "df/d44/a11706.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
-    [ "Signature", "df/d44/a11706.html#a34b88d6d83daeee7827176993c152de4", null ],
-    [ "SnifferId", "df/d44/a11706.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
-    [ "SniffStartTicks", "df/d44/a11706.html#a1884076ea4fe5af08964471d0058fd4d", null ],
-    [ "SniffStartUnixtime", "df/d44/a11706.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
+    [ "QuestConfirmAccept", "df/d44/a11706.html#a96504f0bcddeb3f339552d95052595c9", null ],
+    [ "Write", "df/d44/a11706.html#add2f826fb7a8c9eed85e46a217dff0fc", null ],
+    [ "PlayerGuid", "df/d44/a11706.html#a591f77f3c6de30ac07e62a5bedded7d5", null ],
+    [ "QuestId", "df/d44/a11706.html#a4c857c0b173f5fd19f2a83123e8e0d44", null ],
+    [ "QuestTitle", "df/d44/a11706.html#abf35fe4b947f0b645010009388d80bcd", null ]
 ];

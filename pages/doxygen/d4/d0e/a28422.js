@@ -1,6 +1,6 @@
 var a28422 =
 [
-    [ "npc_preciousAI", "db/d83/a28426.html", "db/d83/a28426" ],
-    [ "npc_precious", "d4/d0e/a28422.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
-    [ "GetAI", "d4/d0e/a28422.html#a754ad85c8b1942b400a47c28297bad62", null ]
+    [ "go_l70_etc_musicAI", "db/d83/a28426.html", "db/d83/a28426" ],
+    [ "go_l70_etc_music", "d4/d0e/a28422.html#a766dccca12fc7959273ba1e3a278564f", null ],
+    [ "GetAI", "d4/d0e/a28422.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
 ];

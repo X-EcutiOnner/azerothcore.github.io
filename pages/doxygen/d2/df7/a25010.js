@@ -1,6 +1,6 @@
 var a25010 =
 [
-    [ "PrepareSpellScript", "d2/df7/a25010.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
-    [ "Register", "d2/df7/a25010.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
-    [ "SelectTarget", "d2/df7/a25010.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
+    [ "PrepareAuraScript", "d2/df7/a25010.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
+    [ "Register", "d2/df7/a25010.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
+    [ "UpdateAmount", "d2/df7/a25010.html#a621e73a09438f3f9cbaa232125df3b87", null ]
 ];

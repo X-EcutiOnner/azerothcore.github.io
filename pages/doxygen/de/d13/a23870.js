@@ -1,6 +1,6 @@
 var a23870 =
 [
-    [ "lapseTeleport", "de/d13/a23870.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "de/d13/a23870.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "de/d13/a23870.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "boss_porung", "de/d13/a23870.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "de/d13/a23870.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "de/d13/a23870.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

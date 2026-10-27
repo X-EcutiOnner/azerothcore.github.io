@@ -1,7 +1,8 @@
 var a06170 =
 [
-    [ "TransactionWithResultTask", "d4/de0/a06170.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
-    [ "Execute", "d4/de0/a06170.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
-    [ "GetFuture", "d4/de0/a06170.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
-    [ "m_result", "d4/de0/a06170.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
+    [ "Statements", "d4/de0/a06170.html#a7527387a1261a4307515ed0c56dd6520", null ],
+    [ "CharacterDatabaseConnection", "d4/de0/a06170.html#aa7308d6978756861043c1c0c861bfffc", null ],
+    [ "CharacterDatabaseConnection", "d4/de0/a06170.html#af7c6148029613ce06159b5867bba9cad", null ],
+    [ "~CharacterDatabaseConnection", "d4/de0/a06170.html#a01224074cff69c86792d0b77e804d7f4", null ],
+    [ "DoPrepareStatements", "d4/de0/a06170.html#afbbb8d2bb335119e5bc8b37764301db5", null ]
 ];

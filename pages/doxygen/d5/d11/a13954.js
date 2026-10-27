@@ -1,6 +1,7 @@
 var a13954 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d8/d98/a13958.html", "d8/d98/a13958" ],
-    [ "npc_professor_phizzlethorpe", "d5/d11/a13954.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "d5/d11/a13954.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "HandleRemove", "d5/d11/a13954.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
+    [ "PrepareAuraScript", "d5/d11/a13954.html#a6fa407996b59d98d0eeef877ee89784d", null ],
+    [ "Register", "d5/d11/a13954.html#a7dc81b47954ee8c10b99f389740de0be", null ],
+    [ "Validate", "d5/d11/a13954.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
 ];

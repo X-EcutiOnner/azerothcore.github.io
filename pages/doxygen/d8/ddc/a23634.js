@@ -1,20 +1,6 @@
 var a23634 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d8/ddc/a23634.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
-    [ "Initialize", "d8/ddc/a23634.html#afa054fb11fe777019baa70f46bfd8212", null ],
-    [ "IsAnyChannelerAlive", "d8/ddc/a23634.html#a6cfc7ec365ab5c5d8ec9d257bca59a48", null ],
-    [ "OnCreatureCreate", "d8/ddc/a23634.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
-    [ "OnCreatureEvade", "d8/ddc/a23634.html#a3a757de295ca8b11d3bdf5452a859489", null ],
-    [ "OnCreatureRemove", "d8/ddc/a23634.html#a727d4d3bfc52391a088e86fef013617c", null ],
-    [ "OnGameObjectCreate", "d8/ddc/a23634.html#a020584d79926d170c02655c5e2841127", null ],
-    [ "OnGameObjectRemove", "d8/ddc/a23634.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
-    [ "OnUnitDeath", "d8/ddc/a23634.html#a9c5e797960f924ddb60d0730ebd2463c", null ],
-    [ "SetBossState", "d8/ddc/a23634.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
-    [ "SetData", "d8/ddc/a23634.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
-    [ "_burningAbyssalsSet", "d8/ddc/a23634.html#a9b616072e8775a10db1c10d0438eb19a", null ],
-    [ "_channelersSet", "d8/ddc/a23634.html#a7921231ff7314d1370dffc63e1815e16", null ],
-    [ "_columnSet", "d8/ddc/a23634.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
-    [ "_cubesSet", "d8/ddc/a23634.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
-    [ "_magtheridonGUID", "d8/ddc/a23634.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
-    [ "_wardersSet", "d8/ddc/a23634.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
+    [ "HandlePeriodic", "d8/ddc/a23634.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
+    [ "PrepareAuraScript", "d8/ddc/a23634.html#a75515896f3d94d227963a3c5258e2d0d", null ],
+    [ "Register", "d8/ddc/a23634.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
 ];

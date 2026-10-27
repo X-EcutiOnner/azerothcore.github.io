@@ -1,7 +1,7 @@
 var a04523 =
 [
-    [ "SpellProcFullCoverageTest", "d6/d28/a30189.html", "d6/d28/a30189" ],
-    [ "SpellProcCoverageStatsTest", "d3/db4/a30193.html", "d3/db4/a30193" ],
+    [ "SpellProcFullCoverageTest", "d1/d69/a30226.html", "d1/d69/a30226" ],
+    [ "SpellProcCoverageStatsTest", "d2/d5c/a30230.html", "d2/d5c/a30230" ],
     [ "INSTANTIATE_TEST_SUITE_P", "d7/ddc/a04523.html#a61682528719e3b8378b320b23c04a5fe", null ],
     [ "TEST_F", "d7/ddc/a04523.html#ae9fadbe0c8fda36e7ad66d20ac078dcd", null ],
     [ "TEST_F", "d7/ddc/a04523.html#a211abe742bb26f4df00d5d809796614d", null ],

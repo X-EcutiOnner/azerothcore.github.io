@@ -1,10 +1,9 @@
 var a10674 =
 [
-    [ "AchievementScript", "d6/d40/a10674.html#ab09a80bc238814358e1397da529e9584", null ],
-    [ "CanCheckCriteria", "d6/d40/a10674.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
-    [ "IsCompletedCriteria", "d6/d40/a10674.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
-    [ "IsDatabaseBound", "d6/d40/a10674.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
-    [ "IsRealmCompleted", "d6/d40/a10674.html#abc54c295c1bcad45e21aed99e43a3713", null ],
-    [ "OnBeforeCheckCriteria", "d6/d40/a10674.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
-    [ "SetRealmCompleted", "d6/d40/a10674.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
+    [ "entry", "d6/d40/a10674.html#a63e9b557b5e712d30580376ad811ff6c", null ],
+    [ "map", "d6/d40/a10674.html#a762951c4230f0b40a59071e20852bf77", null ],
+    [ "o", "d6/d40/a10674.html#a70e425f84949f6964a33250e6e9650ef", null ],
+    [ "x", "d6/d40/a10674.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
+    [ "y", "d6/d40/a10674.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
+    [ "z", "d6/d40/a10674.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
 ];

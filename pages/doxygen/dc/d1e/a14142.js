@@ -1,7 +1,10 @@
 var a14142 =
 [
-    [ "HandleScriptEffect", "dc/d1e/a14142.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
-    [ "PrepareSpellScript", "dc/d1e/a14142.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
-    [ "Register", "dc/d1e/a14142.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
-    [ "Validate", "dc/d1e/a14142.html#a20f7416465ba1cc04426f24037e8074e", null ]
+    [ "npc_sentinel_leader", "dc/d1e/a14142.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "dc/d1e/a14142.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "dc/d1e/a14142.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "dc/d1e/a14142.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "dc/d1e/a14142.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "dc/d1e/a14142.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "dc/d1e/a14142.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

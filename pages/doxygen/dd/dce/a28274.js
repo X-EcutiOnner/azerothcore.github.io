@@ -1,6 +1,5 @@
 var a28274 =
 [
-    [ "go_fel_crystalforge", "dd/dce/a28274.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "dd/dce/a28274.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "dd/dce/a28274.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "AreaTrigger_at_last_rites", "dd/dce/a28274.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
+    [ "OnTrigger", "dd/dce/a28274.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
 ];

@@ -1,6 +1,6 @@
 var a19406 =
 [
-    [ "npc_four_car_garageAI", "de/d55/a19406.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "de/d55/a19406.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "de/d55/a19406.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d3/d67/a19410.html", "d3/d67/a19410" ],
+    [ "npc_icc_skybreaker_luminary", "de/d55/a19406.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
+    [ "GetAI", "de/d55/a19406.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
 ];

@@ -1,6 +1,6 @@
 var a16786 =
 [
-    [ "HandleSpellHit", "df/dd2/a16786.html#a8c801b92f6e405668edae54989dd58e8", null ],
-    [ "PrepareSpellScript", "df/dd2/a16786.html#abae02a74f626b890f61df551318dcc81", null ],
-    [ "Register", "df/dd2/a16786.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
+    [ "OnSummon", "df/dd2/a16786.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "df/dd2/a16786.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "df/dd2/a16786.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

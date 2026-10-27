@@ -1,6 +1,8 @@
 var a12554 =
 [
-    [ "player_settings_commandscript", "d5/da1/a12554.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "d5/da1/a12554.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "d5/da1/a12554.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "CreatureCountWorker", "d5/da1/a12554.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
+    [ "GetTopCreatureCount", "d5/da1/a12554.html#a5d4d009b6685dd71703f96f9945a463e", null ],
+    [ "Visit", "d5/da1/a12554.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
+    [ "Visit", "d5/da1/a12554.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
+    [ "creatureIds", "d5/da1/a12554.html#a3a6f946c40b1006164793dbaed2b3948", null ]
 ];

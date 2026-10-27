@@ -1,7 +1,7 @@
 var a19006 =
 [
-    [ "FrostwingVrykulSearcher", "d4/d82/a19006.html#a10aa54184b42a0538dc4f325204399e9", null ],
-    [ "operator()", "d4/d82/a19006.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
-    [ "_range", "d4/d82/a19006.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
-    [ "_source", "d4/d82/a19006.html#af5d3c93f41698e71c867336d0453d40a", null ]
+    [ "ValithriaDespawner", "d4/d82/a19006.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d4/d82/a19006.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d4/d82/a19006.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d4/d82/a19006.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

@@ -1,7 +1,12 @@
 var a06538 =
 [
-    [ "NonTankTargetSelector", "df/d7e/a06538.html#ac8d9ecc1fa9a29dc54e33eae9c1fb8ce", null ],
-    [ "operator()", "df/d7e/a06538.html#a3a4cf85033650b1d31e9f93ec8e74b22", null ],
-    [ "_playerOnly", "df/d7e/a06538.html#a59a14629522e0a3850991b1852d368ee", null ],
-    [ "_source", "df/d7e/a06538.html#a54f9bf9a14d2b39f5ef038675cfcc30f", null ]
+    [ "CombatAI", "df/d7e/a06538.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
+    [ "InitializeAI", "df/d7e/a06538.html#a70caf22165251220365d03873b3d3f17", null ],
+    [ "JustDied", "df/d7e/a06538.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
+    [ "JustEngagedWith", "df/d7e/a06538.html#ab157082819d821cf0b0093f084111e16", null ],
+    [ "Permissible", "df/d7e/a06538.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
+    [ "Reset", "df/d7e/a06538.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
+    [ "UpdateAI", "df/d7e/a06538.html#af12583d15ccd183f6236c1889d539b9b", null ],
+    [ "events", "df/d7e/a06538.html#af59650830fa1abdf8eec179a12e328e7", null ],
+    [ "spells", "df/d7e/a06538.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
 ];

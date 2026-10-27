@@ -1,6 +1,6 @@
 var a27470 =
 [
-    [ "FilterTargets", "d0/dda/a27470.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "d0/dda/a27470.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "d0/dda/a27470.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "PrepareAuraScript", "d0/dda/a27470.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "d0/dda/a27470.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "d0/dda/a27470.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

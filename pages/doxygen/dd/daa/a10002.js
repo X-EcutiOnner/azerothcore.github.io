@@ -1,9 +1,7 @@
 var a10002 =
 [
-    [ "LoginQueryHolder", "dd/daa/a10002.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
-    [ "GetAccountId", "dd/daa/a10002.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
-    [ "GetGuid", "dd/daa/a10002.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
-    [ "Initialize", "dd/daa/a10002.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
-    [ "m_accountId", "dd/daa/a10002.html#abc8056182803af44a062fe6153fdd009", null ],
-    [ "m_guid", "dd/daa/a10002.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
+    [ "RaidCheck", "dd/daa/a10002.html#ad8c3717b9a645c7806c8c027a8d90ef5", null ],
+    [ "operator()", "dd/daa/a10002.html#a0c076b737e8e1eacb9aab0981ff66f51", null ],
+    [ "_compare", "dd/daa/a10002.html#a5fffdd5901fb03c5e9a9adfb58e3d759", null ],
+    [ "_equals", "dd/daa/a10002.html#a7d253c94403bd50012722a9a9b113c3a", null ]
 ];

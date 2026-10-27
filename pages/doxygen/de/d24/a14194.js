@@ -1,7 +1,13 @@
 var a14194 =
 [
-    [ "CheckCast", "de/d24/a14194.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
-    [ "HandleScriptEffect", "de/d24/a14194.html#af265f0bba7028f45763a7f9afea2d051", null ],
-    [ "PrepareSpellScript", "de/d24/a14194.html#a27518fd5482e65e0324100057e747d68", null ],
-    [ "Register", "de/d24/a14194.html#a07789d7d092eb1b6633200442466c52b", null ]
+    [ "npc_corporal_keeshanAI", "de/d24/a14194.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "de/d24/a14194.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "de/d24/a14194.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "de/d24/a14194.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "de/d24/a14194.html#a3edc9ab54068e47f955116db70454f6c", null ],
+    [ "WaypointReached", "de/d24/a14194.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "mockingBlowTimer", "de/d24/a14194.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "de/d24/a14194.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "de/d24/a14194.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "de/d24/a14194.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

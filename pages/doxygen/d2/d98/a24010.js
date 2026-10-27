@@ -1,6 +1,7 @@
 var a24010 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d4/dae/a24014.html", "d4/dae/a24014" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "d2/d98/a24010.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "d2/d98/a24010.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "CastQuill", "d2/d98/a24010.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "d2/d98/a24010.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "d2/d98/a24010.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "d2/d98/a24010.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

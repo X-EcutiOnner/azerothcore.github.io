@@ -1,7 +1,9 @@
 var a14130 =
 [
-    [ "HandleScriptEffect", "d9/d6f/a14130.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "d9/d6f/a14130.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "d9/d6f/a14130.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "d9/d6f/a14130.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "npc_partygoer", "d9/d6f/a14130.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d9/d6f/a14130.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d9/d6f/a14130.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d9/d6f/a14130.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d9/d6f/a14130.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d9/d6f/a14130.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

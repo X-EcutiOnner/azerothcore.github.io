@@ -1,7 +1,7 @@
 var a24298 =
 [
-    [ "HandleSendEvent", "d8/d17/a24298.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d8/d17/a24298.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d8/d17/a24298.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d8/d17/a24298.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "npc_kurenai_captiveAI", "d7/dfe/a24302.html", "d7/dfe/a24302" ],
+    [ "npc_kurenai_captive", "d8/d17/a24298.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d8/d17/a24298.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d8/d17/a24298.html#a5e87cd850d0fc6272d89dd3c7901af5f", null ]
 ];

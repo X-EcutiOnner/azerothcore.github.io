@@ -1,8 +1,5 @@
 var a28482 =
 [
-    [ "npc_target_dummy", "d8/dbb/a28482.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
-    [ "DamageTaken", "d8/dbb/a28482.html#ae137fc2935f306807128850e9761253e", null ],
-    [ "Reset", "d8/dbb/a28482.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
-    [ "UpdateAI", "d8/dbb/a28482.html#a32e9e139a54375b336c112deee3687cd", null ],
-    [ "_deathTimer", "d8/dbb/a28482.html#a304b79f8ec2afda669b43d2e248d026a", null ]
+    [ "go_southfury_moonstone", "d8/dbb/a28482.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
+    [ "OnGossipHello", "d8/dbb/a28482.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
 ];

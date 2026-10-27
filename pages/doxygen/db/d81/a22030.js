@@ -1,8 +1,6 @@
 var a22030 =
 [
-    [ "CheckCast", "db/d81/a22030.html#a49e425fa95e5107f38aa16e546674b7d", null ],
-    [ "HandleScript", "db/d81/a22030.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
-    [ "PrepareSpellScript", "db/d81/a22030.html#a9e7a1239e165131b70c437793b5371d0", null ],
-    [ "Register", "db/d81/a22030.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
-    [ "Validate", "db/d81/a22030.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
+    [ "npc_q24545_vegard_dummyAI", "df/dc1/a22034.html", "df/dc1/a22034" ],
+    [ "npc_q24545_vegard_dummy", "db/d81/a22030.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "db/d81/a22030.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

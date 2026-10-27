@@ -1,11 +1,10 @@
 var a06158 =
 [
-    [ "SQLOperation", "d6/d0c/a06158.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "d6/d0c/a06158.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "d6/d0c/a06158.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "d6/d0c/a06158.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "d6/d0c/a06158.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "d6/d0c/a06158.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "d6/d0c/a06158.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "d6/d0c/a06158.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "Alias", "d6/d0c/a06158.html#ac885c365760ade7b0c74e5fead82a210", null ],
+    [ "Index", "d6/d0c/a06158.html#ad841e71a9394fc114a35f0234ef581b6", null ],
+    [ "Name", "d6/d0c/a06158.html#af8b9f87733157401cff6b0846a545fa4", null ],
+    [ "TableAlias", "d6/d0c/a06158.html#aa9ca2448829defe395b479a9a4ca3c3e", null ],
+    [ "TableName", "d6/d0c/a06158.html#ada6594cc2aa67c8d34bdb45e757fda8c", null ],
+    [ "Type", "d6/d0c/a06158.html#a76dec8aee42dce6698e4fda0ee1e3eba", null ],
+    [ "TypeName", "d6/d0c/a06158.html#aba1b90e43c4f4c545f76568cae86ad43", null ]
 ];

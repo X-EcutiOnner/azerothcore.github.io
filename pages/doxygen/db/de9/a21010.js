@@ -1,11 +1,6 @@
 var a21010 =
 [
-    [ "boss_yoggsaron_lich_king", "db/de9/a21010.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
-    [ "NextStep", "db/de9/a21010.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
-    [ "Reset", "db/de9/a21010.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
-    [ "Say", "db/de9/a21010.html#ac7687fe1253701c702cf2c17986727ec", null ],
-    [ "UpdateAI", "db/de9/a21010.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
-    [ "_checkTimer", "db/de9/a21010.html#a196ffc443569494bed79f623dd9cdca3", null ],
-    [ "_running", "db/de9/a21010.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
-    [ "_step", "db/de9/a21010.html#a97244534b8c6a69807388b620df2263f", null ]
+    [ "OnPeriodic", "db/de9/a21010.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "db/de9/a21010.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "db/de9/a21010.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

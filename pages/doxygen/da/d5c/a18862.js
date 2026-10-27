@@ -1,5 +1,7 @@
 var a18862 =
 [
-    [ "achievement_been_waiting_long_time", "da/d5c/a18862.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "da/d5c/a18862.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "OnPeriodic", "da/d5c/a18862.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "da/d5c/a18862.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "da/d5c/a18862.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "da/d5c/a18862.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

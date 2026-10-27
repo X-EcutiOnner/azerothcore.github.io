@@ -1,6 +1,6 @@
 var a17718 =
 [
-    [ "npc_dark_nucleusAI", "dc/d2b/a17722.html", "dc/d2b/a17722" ],
-    [ "npc_dark_nucleus", "d0/d83/a17718.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "d0/d83/a17718.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "npc_living_mojoAI", "dc/d2b/a17722.html", "dc/d2b/a17722" ],
+    [ "npc_living_mojo", "d0/d83/a17718.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d0/d83/a17718.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

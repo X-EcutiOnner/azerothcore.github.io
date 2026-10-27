@@ -1,7 +1,8 @@
 var a31414 =
 [
-    [ "MPQArchive", "d3/d63/a30454.html", "d3/d63/a30454" ],
-    [ "MPQFile", "d8/db6/a30458.html", "d8/db6/a30458" ],
-    [ "ArchiveSet", "d6/d3b/a31414.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d6/d3b/a31414.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "DBCFile", "df/d58/a30378.html", "df/d58/a30378" ],
+    [ "DBCFile::Exception", "dd/d86/a30382.html", "dd/d86/a30382" ],
+    [ "DBCFile::NotFound", "d4/d42/a30386.html", "d4/d42/a30386" ],
+    [ "DBCFile::Record", "d8/d60/a30390.html", "d8/d60/a30390" ],
+    [ "DBCFile::Iterator", "df/db7/a30394.html", "df/db7/a30394" ]
 ];

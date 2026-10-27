@@ -1,7 +1,7 @@
 var a20502 =
 [
-    [ "HandleEffectPeriodic", "da/db3/a20502.html#af6c50396e9b47cd909184aea80244728", null ],
-    [ "PrepareAuraScript", "da/db3/a20502.html#aeb41825334049c8e3a39b48cbf271477", null ],
-    [ "Register", "da/db3/a20502.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
-    [ "Validate", "da/db3/a20502.html#a0098e4949fc75b1a2464128f4df869aa", null ]
+    [ "boss_freya_lifebinder", "da/db3/a20502.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "da/db3/a20502.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "da/db3/a20502.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_scheduler", "da/db3/a20502.html#a5c19f04cec9cd899feee7ce2878563cf", null ]
 ];

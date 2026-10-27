@@ -1,6 +1,9 @@
 var a18942 =
 [
-    [ "npc_suppresserAI", "da/d9c/a18946.html", "da/d9c/a18946" ],
-    [ "npc_suppresser", "dd/d0d/a18942.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "dd/d0d/a18942.html#a48869515abbac1491337a93b987231da", null ]
+    [ "npc_spirit_wardenAI", "dd/d0d/a18942.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "dd/d0d/a18942.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "dd/d0d/a18942.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "dd/d0d/a18942.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "dd/d0d/a18942.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "dd/d0d/a18942.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

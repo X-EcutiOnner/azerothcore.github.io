@@ -1,8 +1,8 @@
 var a11722 =
 [
-    [ "ServerPktHeader", "dc/d7d/a11722.html#a761e294fccc02055a46bfc46656da706", null ],
-    [ "getHeaderLength", "dc/d7d/a11722.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
-    [ "isLargePacket", "dc/d7d/a11722.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
-    [ "header", "dc/d7d/a11722.html#adc69128832b16124c284c584e7540b11", null ],
-    [ "size", "dc/d7d/a11722.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
+    [ "QuestUpdateAddPvPKill", "dc/d7d/a11722.html#a22b1143d1ee7c28f0ae63c0d215e64ce", null ],
+    [ "Write", "dc/d7d/a11722.html#ab58c8dc6918834caa654e05992abde6a", null ],
+    [ "CurrentCount", "dc/d7d/a11722.html#a4c6df4b5647d8b71084c4495548cdd58", null ],
+    [ "QuestId", "dc/d7d/a11722.html#ae80d16619ecac6b381b89483ce96b810", null ],
+    [ "RequiredCount", "dc/d7d/a11722.html#a95d2c68a8383bcac985a891de7771274", null ]
 ];

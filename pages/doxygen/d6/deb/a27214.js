@@ -1,7 +1,7 @@
 var a27214 =
 [
-    [ "HandleDummy", "d6/deb/a27214.html#a2ea424e6c740305340001b1c09bfec91", null ],
-    [ "PrepareSpellScript", "d6/deb/a27214.html#afe722c970155b47eac94bb9861a4eb46", null ],
-    [ "Register", "d6/deb/a27214.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
-    [ "Validate", "d6/deb/a27214.html#ac5f782da8b5e387c31e048759baf3e16", null ]
+    [ "if", "d6/deb/a27214.html#ab8b37bc08a05d5369ce6ecdfd835404c", null ],
+    [ "PrepareAuraScript", "d6/deb/a27214.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "d6/deb/a27214.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "d6/deb/a27214.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

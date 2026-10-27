@@ -1,6 +1,8 @@
 var a27202 =
 [
-    [ "CheckRequirement", "d8/d90/a27202.html#a4ad49f2f781d1c6b27dd04f46203c6d4", null ],
-    [ "PrepareSpellScript", "d8/d90/a27202.html#a4263eebcb64f00152a4b64dafef20510", null ],
-    [ "Register", "d8/d90/a27202.html#a8b825a97f50abb0231036a3ff651531d", null ]
+    [ "HandleEffectApply", "d8/d90/a27202.html#aed959961fcd07649cd4914fcd38a3214", null ],
+    [ "if", "d8/d90/a27202.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
+    [ "PrepareAuraScript", "d8/d90/a27202.html#a42167bc6bf7992debea8582680251da4", null ],
+    [ "Register", "d8/d90/a27202.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
+    [ "AuraEffectHandleModes", "d8/d90/a27202.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
 ];

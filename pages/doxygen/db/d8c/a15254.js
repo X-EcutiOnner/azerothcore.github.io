@@ -1,6 +1,7 @@
 var a15254 =
 [
-    [ "boss_infinite_corruptorAI", "da/d94/a15258.html", "da/d94/a15258" ],
-    [ "boss_infinite_corruptor", "db/d8c/a15254.html#a78a939073ab44b818cefdb25419f92be", null ],
-    [ "GetAI", "db/d8c/a15254.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
+    [ "HandleProc", "db/d8c/a15254.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
+    [ "PrepareAuraScript", "db/d8c/a15254.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
+    [ "Register", "db/d8c/a15254.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
+    [ "Validate", "db/d8c/a15254.html#a18398f81a80f9a1f47958de3be7b9189", null ]
 ];

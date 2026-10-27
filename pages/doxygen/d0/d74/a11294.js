@@ -1,7 +1,5 @@
 var a11294 =
 [
-    [ "SwapInventoryItem", "d0/d74/a11294.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
-    [ "Read", "d0/d74/a11294.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
-    [ "DestinationSlot", "d0/d74/a11294.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
-    [ "SourceSlot", "d0/d74/a11294.html#a59117b7ce21919acc55b3da079050dc3", null ]
+    [ "SocketEnchantID", "d0/d74/a11294.html#ae682a8405a5fa1c70033d190dde25d99", null ],
+    [ "SocketIndex", "d0/d74/a11294.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
 ];

@@ -1,8 +1,11 @@
 var a06290 =
 [
-    [ "UpdateResult", "da/dc8/a06290.html#af32cdf09d32607955c98353fbfa7d392", null ],
-    [ "UpdateResult", "da/dc8/a06290.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
-    [ "archived", "da/dc8/a06290.html#adee274af5f5d6981e28b3587008d690c", null ],
-    [ "recent", "da/dc8/a06290.html#aea54f4388b659def734957a47e9cca8c", null ],
-    [ "updated", "da/dc8/a06290.html#a12b3fffe01639493fc405bd5a797f463", null ]
+    [ "SQLQueryHolderBase", "da/dc8/a06290.html#a05946ea4a26798e5567f632cf9f66eff", null ],
+    [ "~SQLQueryHolderBase", "da/dc8/a06290.html#aa9e2407821d0c40a728337f174571fc5", null ],
+    [ "GetPreparedResult", "da/dc8/a06290.html#a402f961642eaa239ff8726ad66e78640", null ],
+    [ "SetPreparedQueryImpl", "da/dc8/a06290.html#a6657bb34fab696a26af9751ded41f1d7", null ],
+    [ "SetPreparedResult", "da/dc8/a06290.html#a34bcdec6591ce40a58667197f240fbe0", null ],
+    [ "SetSize", "da/dc8/a06290.html#a9e62f0171bd39a13348d097ee99cb17c", null ],
+    [ "SQLQueryHolderTask", "da/dc8/a06290.html#a4d6be4ca13ec7a0d213da9d1e6ec922b", null ],
+    [ "m_queries", "da/dc8/a06290.html#a432a52e6f9dc7f51cbc8f2877d0894e1", null ]
 ];

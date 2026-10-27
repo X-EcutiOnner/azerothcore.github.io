@@ -1,11 +1,6 @@
 var a18322 =
 [
-    [ "Load", "d3/d3f/a18322.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "d3/d3f/a18322.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "d3/d3f/a18322.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "d3/d3f/a18322.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "d3/d3f/a18322.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "d3/d3f/a18322.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "d3/d3f/a18322.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "d3/d3f/a18322.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "HandlePeriodicTick", "d3/d3f/a18322.html#a29bf443cdb53b10032ba382b8ae44828", null ],
+    [ "PrepareAuraScript", "d3/d3f/a18322.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
+    [ "Register", "d3/d3f/a18322.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
 ];

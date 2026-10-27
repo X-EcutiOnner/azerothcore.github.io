@@ -1,6 +1,9 @@
 var a25022 =
 [
-    [ "CheckAreaTarget", "da/d02/a25022.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
-    [ "PrepareAuraScript", "da/d02/a25022.html#a2b6dbd33e34357917f662000a1cd932f", null ],
-    [ "Register", "da/d02/a25022.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
+    [ "Absorb", "da/d02/a25022.html#a8f6e773840274e07d685c891561f72d8", null ],
+    [ "CalculateAmount", "da/d02/a25022.html#af337ef5d5cea283f4e43b943961838d6", null ],
+    [ "Load", "da/d02/a25022.html#a65f51613dd3614f5b0e3e1dc938f56cf", null ],
+    [ "PrepareAuraScript", "da/d02/a25022.html#a5c2eca05834a29fa6d5d7dd3c75e52ed", null ],
+    [ "Register", "da/d02/a25022.html#a80982626e1b67374629cb6e0800ccaea", null ],
+    [ "absorbPct", "da/d02/a25022.html#a7ce98d22bb4a28f94366b4c08f76b61a", null ]
 ];

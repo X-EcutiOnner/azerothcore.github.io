@@ -1,9 +1,11 @@
 var a05274 =
 [
-    [ "DynamicTreeIntersectionCallback", "dd/d95/a05274.html#a77d71c68e20f4d19059317b307c27441", null ],
-    [ "didHit", "dd/d95/a05274.html#a616d15c3cce00574d604591bc8af4140", null ],
-    [ "operator()", "dd/d95/a05274.html#a6235d0b9a1ebff77e0d16c90a9fb9b36", null ],
-    [ "_didHit", "dd/d95/a05274.html#a1805d508be79660d90f991e4453c2c9a", null ],
-    [ "_ignoreFlags", "dd/d95/a05274.html#a6559c66c8451c32078187a1c43b3a85e", null ],
-    [ "_phaseMask", "dd/d95/a05274.html#a52e7470145db9cc4c2369024fbf7bbb8", null ]
+    [ "IoContext", "dd/d95/a05274.html#a6ba4b629a3704fcb5d110a71f09900be", null ],
+    [ "IoContext", "dd/d95/a05274.html#a8dc945d02df9d28f3dda6c17f1c91502", null ],
+    [ "get_executor", "dd/d95/a05274.html#aa642c9d6e49d2396c267c6fc404b2a6b", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase &", "dd/d95/a05274.html#a51e3067d9ba9b0b4a557a7e586b1ef91", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase const &", "dd/d95/a05274.html#af4aa281948ab71b76bc8f66b735425b3", null ],
+    [ "run", "dd/d95/a05274.html#a086cd2ed56d61cf1ec0dbfdec16c50fe", null ],
+    [ "stop", "dd/d95/a05274.html#a1165b11f60d138d56eba43657fc299cd", null ],
+    [ "_impl", "dd/d95/a05274.html#a22cdb3c45a6dbacb13f90f654bc0c65d", null ]
 ];

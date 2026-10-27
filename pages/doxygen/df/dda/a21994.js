@@ -1,7 +1,6 @@
 var a21994 =
 [
-    [ "HandleScript", "df/dda/a21994.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "df/dda/a21994.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "df/dda/a21994.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "df/dda/a21994.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_q24545_lich_kingAI", "d6/d9b/a21998.html", "d6/d9b/a21998" ],
+    [ "npc_q24545_lich_king", "df/dda/a21994.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "df/dda/a21994.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

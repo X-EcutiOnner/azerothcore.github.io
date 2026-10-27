@@ -1,8 +1,5 @@
 var a13778 =
 [
-    [ "OnPeriodic", "db/db6/a13778.html#acd400b0a061d1814591e33d16bf4180a", null ],
-    [ "OnRemove", "db/db6/a13778.html#a3da85c726007690220e9b4f81d30f185", null ],
-    [ "PrepareAuraScript", "db/db6/a13778.html#a216d723f309ffa46df4bba7af79752c8", null ],
-    [ "Register", "db/db6/a13778.html#a43fe84c2717d73e20a2562f596a84f36", null ],
-    [ "Validate", "db/db6/a13778.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
+    [ "at_malfurion_stormrage", "db/db6/a13778.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
+    [ "OnTrigger", "db/db6/a13778.html#aaeae64b901ee7b0752425e35af9f4af6", null ]
 ];

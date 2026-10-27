@@ -1,7 +1,4 @@
 var a11794 =
 [
-    [ "IsValidOpcode", "df/df3/a11794.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "df/df3/a11794.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "df/df3/a11794.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "df/df3/a11794.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "ServerOpcodeHandler", "d0/d42/a05127.html#ga15d54f5e037e138c90bd0c9bf9628ac9", null ]
 ];

@@ -1,7 +1,4 @@
 var a17190 =
 [
-    [ "HandleScript", "d7/df7/a17190.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "d7/df7/a17190.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "d7/df7/a17190.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "d7/df7/a17190.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "boss_acidmawAI", "d7/df7/a17190.html#a185e04be9d28b9ac6755ade2cd552293", null ]
 ];

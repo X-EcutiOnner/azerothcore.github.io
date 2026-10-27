@@ -1,6 +1,6 @@
 var a17766 =
 [
-    [ "ChangeSummonPos", "d2/d14/a17766.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d2/d14/a17766.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d2/d14/a17766.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "HandlePeriodic", "d2/d14/a17766.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "d2/d14/a17766.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "d2/d14/a17766.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

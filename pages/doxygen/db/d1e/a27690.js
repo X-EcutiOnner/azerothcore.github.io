@@ -1,6 +1,6 @@
 var a27690 =
 [
-    [ "HandleScriptEffect", "db/d1e/a27690.html#a3f8988017d088d08df08ba8b696b552b", null ],
-    [ "PrepareSpellScript", "db/d1e/a27690.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
-    [ "Register", "db/d1e/a27690.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
+    [ "FilterTargets", "db/d1e/a27690.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
+    [ "PrepareSpellScript", "db/d1e/a27690.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
+    [ "Register", "db/d1e/a27690.html#abe63ec69fe15fd8924fb63235489e088", null ]
 ];

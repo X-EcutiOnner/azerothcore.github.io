@@ -1,6 +1,5 @@
 var a22242 =
 [
-    [ "HandleScriptEffect", "df/df7/a22242.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "df/df7/a22242.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "df/df7/a22242.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "go_sister_mercy", "df/df7/a22242.html#a3c29ef699afe163b9a505f472709a795", null ],
+    [ "EventInform", "df/df7/a22242.html#a5ad9020e2717ef93d97a742ec16b14e6", null ]
 ];

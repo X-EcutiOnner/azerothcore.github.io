@@ -1,8 +1,7 @@
 var a26442 =
 [
-    [ "CheckProc", "db/d62/a26442.html#ae0e2b86fc99705d7a80c2122643db33f", null ],
-    [ "HandleProc", "db/d62/a26442.html#ae1027c9041171c9ed613acfd68be5ba3", null ],
-    [ "PrepareAuraScript", "db/d62/a26442.html#a69d4c898f52ce6334f0bf9963e8c5085", null ],
-    [ "Register", "db/d62/a26442.html#acfea07ba1efeba58bcfc465122a3f66d", null ],
-    [ "Validate", "db/d62/a26442.html#a69daf001676f73289682ff63897e81cb", null ]
+    [ "CheckCast", "db/d62/a26442.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
+    [ "HandleEffect", "db/d62/a26442.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
+    [ "PrepareSpellScript", "db/d62/a26442.html#aa63cb903e7c6037a6c08381334ccc126", null ],
+    [ "Register", "db/d62/a26442.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
 ];

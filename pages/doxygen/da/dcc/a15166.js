@@ -1,7 +1,5 @@
 var a15166 =
 [
-    [ "PeriodicTick", "da/dcc/a15166.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
-    [ "PrepareAuraScript", "da/dcc/a15166.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
-    [ "Register", "da/dcc/a15166.html#a24058b120f4fa06b89f6d582c53a365a", null ],
-    [ "Validate", "da/dcc/a15166.html#a093b09be5abde91a1487d67a7a554d30", null ]
+    [ "npc_pilgrims_bounty_plate", "da/dcc/a15166.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "da/dcc/a15166.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

@@ -1,7 +1,7 @@
 var a21402 =
 [
-    [ "PrepareAuraScript", "da/dd3/a21402.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "da/dd3/a21402.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "da/dd3/a21402.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "da/dd3/a21402.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "HandleOnEffectRemove", "da/dd3/a21402.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "da/dd3/a21402.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "da/dd3/a21402.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "da/dd3/a21402.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

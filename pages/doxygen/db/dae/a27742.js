@@ -1,8 +1,7 @@
 var a27742 =
 [
-    [ "ApplyEffect", "db/dae/a27742.html#a0c303c58064236969e17d1f2df3e0556", null ],
-    [ "PrepareAuraScript", "db/dae/a27742.html#a716a483282946f840ac15d73c6e21a94", null ],
-    [ "Register", "db/dae/a27742.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
-    [ "RemoveEffect", "db/dae/a27742.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
-    [ "Validate", "db/dae/a27742.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
+    [ "PeriodicTick", "db/dae/a27742.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
+    [ "PrepareAuraScript", "db/dae/a27742.html#afd362a7dd0373e9480445a99023a5c8c", null ],
+    [ "Register", "db/dae/a27742.html#a0332788648661d5c2665c5d1431e4ca7", null ],
+    [ "Validate", "db/dae/a27742.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
 ];

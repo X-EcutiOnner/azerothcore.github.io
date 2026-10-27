@@ -1,5 +1,10 @@
 var a29666 =
 [
-    [ "SetUp", "da/d61/a29666.html#a93dbc1c1155d8e324f9020a62fffdee0", null ],
-    [ "permission", "da/d61/a29666.html#ab69437451437743e0e5078ea2123846b", null ]
+    [ "area_id", "da/d61/a29666.html#acbd77950bf9548d266e568640cf38458", null ],
+    [ "map_id", "da/d61/a29666.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
+    [ "virtual_map_id", "da/d61/a29666.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
+    [ "x1", "da/d61/a29666.html#a78967fef40841f705c2564a177cb36f3", null ],
+    [ "x2", "da/d61/a29666.html#a037dca812715df0b4f2551f8684b537c", null ],
+    [ "y1", "da/d61/a29666.html#a7f90073656e1cd00a88add9f8d881d11", null ],
+    [ "y2", "da/d61/a29666.html#ad8e0164952e5565488d5443f269ec79e", null ]
 ];

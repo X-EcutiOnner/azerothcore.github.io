@@ -1,8 +1,6 @@
 var a17854 =
 [
-    [ "npc_high_overlord_saurfangAI", "d9/dee/a17858.html", "d9/dee/a17858" ],
-    [ "npc_high_overlord_saurfang_icc", "d3/dfd/a17854.html#ac02fe80550572e142406c2d80c0392df", null ],
-    [ "GetAI", "d3/dfd/a17854.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
-    [ "OnGossipHello", "d3/dfd/a17854.html#a515a87f751527412222cfdd968febe7c", null ],
-    [ "OnGossipSelect", "d3/dfd/a17854.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
+    [ "npc_kinetic_bombAI", "d9/dee/a17858.html", "d9/dee/a17858" ],
+    [ "npc_kinetic_bomb", "d3/dfd/a17854.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "d3/dfd/a17854.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

@@ -1,14 +1,9 @@
 var a22626 =
 [
-    [ "boss_nexusprince_shaffar", "d9/d00/a22626.html#a2e861fb53bca7a40e967971b5e7be533", null ],
-    [ "JustDied", "d9/d00/a22626.html#abf2fef0888bced83511883027bf4d500", null ],
-    [ "JustEngagedWith", "d9/d00/a22626.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
-    [ "JustSummoned", "d9/d00/a22626.html#a576240b46ce0988f0ef86e1460c831ef", null ],
-    [ "KilledUnit", "d9/d00/a22626.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
-    [ "MoveInLineOfSight", "d9/d00/a22626.html#a71e501225d88851210d2e0e58de27f99", null ],
-    [ "Reset", "d9/d00/a22626.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
-    [ "SummonedCreatureDespawn", "d9/d00/a22626.html#ab806564e96708ca12f444249abd3c88c", null ],
-    [ "UpdateAI", "d9/d00/a22626.html#a147500575a3821262ec718ec023b458c", null ],
-    [ "HasTaunted", "d9/d00/a22626.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
-    [ "summons", "d9/d00/a22626.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
+    [ "HandleFinish", "d9/d00/a22626.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "d9/d00/a22626.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "d9/d00/a22626.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "d9/d00/a22626.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "d9/d00/a22626.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "d9/d00/a22626.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

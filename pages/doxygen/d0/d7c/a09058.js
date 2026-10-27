@@ -1,14 +1,18 @@
 var a09058 =
 [
-    [ "SocialMap", "d0/d7c/a09058.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
-    [ "SocialMgr", "d0/d7c/a09058.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
-    [ "~SocialMgr", "d0/d7c/a09058.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
-    [ "BroadcastToFriendListers", "d0/d7c/a09058.html#a55b35ea17ebfea4ff31710186b87865f", null ],
-    [ "GetFriendInfo", "d0/d7c/a09058.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
-    [ "instance", "d0/d7c/a09058.html#a223f3d7811d8c360da7f467b70af808f", null ],
-    [ "LoadFromDB", "d0/d7c/a09058.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
-    [ "MakeFriendStatusPacket", "d0/d7c/a09058.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
-    [ "RemovePlayerSocial", "d0/d7c/a09058.html#af537c83cc3d481dde68d0a60aa122289", null ],
-    [ "SendFriendStatus", "d0/d7c/a09058.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
-    [ "m_socialMap", "d0/d7c/a09058.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
+    [ "PlayerInfo", "d0/d7c/a09058.html#a8a26bdeb267824135b3f84baa2585baa", null ],
+    [ "action", "d0/d7c/a09058.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
+    [ "areaId", "d0/d7c/a09058.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
+    [ "castSpells", "d0/d7c/a09058.html#a35ab273058db0828c91f01d823467e02", null ],
+    [ "customSpells", "d0/d7c/a09058.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
+    [ "displayId_f", "d0/d7c/a09058.html#adf14854368c9351fe2fba3215194f2f9", null ],
+    [ "displayId_m", "d0/d7c/a09058.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
+    [ "item", "d0/d7c/a09058.html#ad76819034c64c0c691561eff683b7e57", null ],
+    [ "levelInfo", "d0/d7c/a09058.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
+    [ "mapId", "d0/d7c/a09058.html#ad8d359374f74de40c1c591bb61976405", null ],
+    [ "orientation", "d0/d7c/a09058.html#a041a37c356d50860cab9f1ced33a28d0", null ],
+    [ "positionX", "d0/d7c/a09058.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
+    [ "positionY", "d0/d7c/a09058.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
+    [ "positionZ", "d0/d7c/a09058.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
+    [ "skills", "d0/d7c/a09058.html#a3bec7891e115ab3cff40c3d95174981c", null ]
 ];

@@ -1,10 +1,8 @@
 var a06530 =
 [
-    [ "DefaultTargetSelector", "d9/d07/a06530.html#a4ec61d03309c7d8a977afb2060b549a3", null ],
-    [ "operator()", "d9/d07/a06530.html#aa028e0b06c45bc1eaaa8ca0bb2208a35", null ],
-    [ "except", "d9/d07/a06530.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e", null ],
-    [ "m_aura", "d9/d07/a06530.html#a93cae8f794de101a6a0a821961c312b8", null ],
-    [ "m_dist", "d9/d07/a06530.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f", null ],
-    [ "m_playerOnly", "d9/d07/a06530.html#aa7d50214f6fcb051279373e3373a6f68", null ],
-    [ "me", "d9/d07/a06530.html#a4e468ce5a085ef402659db46f71d6262", null ]
+    [ "BannedAddon", "d9/d07/a06530.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "d9/d07/a06530.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "d9/d07/a06530.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "d9/d07/a06530.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "d9/d07/a06530.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

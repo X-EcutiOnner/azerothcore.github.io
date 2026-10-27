@@ -1,6 +1,5 @@
 var a16566 =
 [
-    [ "npc_onyx_flamecallerAI", "d7/dab/a16570.html", "d7/dab/a16570" ],
-    [ "npc_onyx_flamecaller", "dc/d05/a16566.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "dc/d05/a16566.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "achievement_watch_him_die", "dc/d05/a16566.html#a0d885871eac61d859780e08c8518bb15", null ],
+    [ "OnCheck", "dc/d05/a16566.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
 ];

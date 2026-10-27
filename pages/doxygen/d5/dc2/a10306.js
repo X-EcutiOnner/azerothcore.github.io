@@ -1,7 +1,13 @@
 var a10306 =
 [
-    [ "MapPreloadRequest", "d5/dc2/a10306.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
-    [ "call", "d5/dc2/a10306.html#a688f4e2c5517c29c10c0810325211b50", null ],
-    [ "_mapId", "d5/dc2/a10306.html#aa207469ff8369f9b5559b35404d16847", null ],
-    [ "_updater", "d5/dc2/a10306.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
+    [ "ParallelogramBoundary", "d5/dc2/a10306.html#ace1e1ffbcb84343ca2641541fe000691", null ],
+    [ "IsWithinBoundaryArea", "d5/dc2/a10306.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
+    [ "_a", "d5/dc2/a10306.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
+    [ "_abx", "d5/dc2/a10306.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
+    [ "_aby", "d5/dc2/a10306.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
+    [ "_b", "d5/dc2/a10306.html#a9d5d06cc3673f89644e45e62f96510db", null ],
+    [ "_c", "d5/dc2/a10306.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
+    [ "_d", "d5/dc2/a10306.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
+    [ "_dax", "d5/dc2/a10306.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
+    [ "_day", "d5/dc2/a10306.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
 ];

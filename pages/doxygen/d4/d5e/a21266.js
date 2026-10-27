@@ -1,5 +1,7 @@
 var a21266 =
 [
-    [ "go_palehoof_sphere", "d4/d5e/a21266.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "d4/d5e/a21266.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "OnApply", "d4/d5e/a21266.html#a458871e0d2c1969a91ce9474b3ad87d0", null ],
+    [ "PrepareAuraScript", "d4/d5e/a21266.html#a3a6b71d35bfcf681c98bb3bb4331e91c", null ],
+    [ "Register", "d4/d5e/a21266.html#a4d6bb68d17bbc1b10d828b1d70155f65", null ],
+    [ "Validate", "d4/d5e/a21266.html#a1ffe527d33de10a7dc8431311f4d738e", null ]
 ];

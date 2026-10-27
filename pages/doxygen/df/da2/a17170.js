@@ -1,6 +1,6 @@
 var a17170 =
 [
-    [ "HandleDummy", "df/da2/a17170.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
-    [ "PrepareSpellScript", "df/da2/a17170.html#accbf8f40b1ab123a2be81a514c94c836", null ],
-    [ "Register", "df/da2/a17170.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
+    [ "boss_gormokAI", "d9/d66/a17174.html", "d9/d66/a17174" ],
+    [ "boss_gormok", "df/da2/a17170.html#a86ce0681be4370198c44dde5aa98a593", null ],
+    [ "GetAI", "df/da2/a17170.html#a45cff2e7ee0525de37382cf09b116a32", null ]
 ];

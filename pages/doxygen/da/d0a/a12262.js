@@ -1,9 +1,8 @@
 var a12262 =
 [
-    [ "bytes", "da/d0a/a12262.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "da/d0a/a12262.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "da/d0a/a12262.html#a2743b5da8366ea651923bf7f3332bc32", null ],
-    [ "ints", "da/d0a/a12262.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "da/d0a/a12262.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "da/d0a/a12262.html#a0506a09adc966923adb490153f095f84", null ]
+    [ "ToCloud9GuildHooks", "da/d0a/a12262.html#af92ed08219fca9b8967779a936332bee", null ],
+    [ "~ToCloud9GuildHooks", "da/d0a/a12262.html#a6352d89ded523200d4a60b91ff5c7fa4", null ],
+    [ "OnGuildMemberAdded", "da/d0a/a12262.html#aea11728fdf49e5a6677051ab61d87180", null ],
+    [ "OnGuildMemberLeft", "da/d0a/a12262.html#adada89524f817edcc5d2cfafb93ee6a1", null ],
+    [ "OnGuildMemberRemoved", "da/d0a/a12262.html#a98d80a4bec269157bebfabbddfd60054", null ]
 ];

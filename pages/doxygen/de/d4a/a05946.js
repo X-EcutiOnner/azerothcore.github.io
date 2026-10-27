@@ -1,9 +1,8 @@
 var a05946 =
 [
-    [ "TimeTrackerSmall", "de/d4a/a05946.html#a38a962c928eac8546d1fd37a094077cc", null ],
-    [ "GetExpiry", "de/d4a/a05946.html#a2ebcfabed1bf252b6afb6c3182142c7b", null ],
-    [ "Passed", "de/d4a/a05946.html#af4455d0ebb784497e9fd1a08cc915062", null ],
-    [ "Reset", "de/d4a/a05946.html#ab8a3c45ffe0e83132e708b5e87625c02", null ],
-    [ "Update", "de/d4a/a05946.html#a6c10a37051caf7c16f1aa057bf2bf7da", null ],
-    [ "i_expiryTime", "de/d4a/a05946.html#a332f650bcfc81fb4b0de1b58ff1e0c9b", null ]
+    [ "category", "de/d4a/a05946.html#a6a53b4b68647fdde65e3c2363127fc4f", null ],
+    [ "char_type", "de/d4a/a05946.html#aaecf7407fc4cff91008168377114d7cd", null ],
+    [ "ACLogSink", "de/d4a/a05946.html#a070880d742fd84b44c4614a76952e589", null ],
+    [ "write", "de/d4a/a05946.html#adad5e421ed10b296eae8b9c52f5e76f5", null ],
+    [ "callback_", "de/d4a/a05946.html#a360b91b740efaa05309725f6678eb22a", null ]
 ];

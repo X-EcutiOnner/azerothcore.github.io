@@ -1,6 +1,5 @@
 var a20854 =
 [
-    [ "PrepareSpellScript", "de/da7/a20854.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
-    [ "Register", "de/da7/a20854.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
-    [ "SelectPillar", "de/da7/a20854.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
+    [ "achievement_mimiron_firefighter", "de/da7/a20854.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
+    [ "OnCheck", "de/da7/a20854.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
 ];

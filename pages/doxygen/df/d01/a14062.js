@@ -1,6 +1,14 @@
 var a14062 =
 [
-    [ "CheckProc", "df/d01/a14062.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "df/d01/a14062.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "df/d01/a14062.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "instance_uldaman_InstanceMapScript", "df/d01/a14062.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "df/d01/a14062.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "df/d01/a14062.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "df/d01/a14062.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "df/d01/a14062.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "df/d01/a14062.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "df/d01/a14062.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "df/d01/a14062.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "df/d01/a14062.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "df/d01/a14062.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "df/d01/a14062.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

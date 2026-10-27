@@ -1,5 +1,5 @@
 var a15614 =
 [
-    [ "boss_vem", "de/db3/a15614.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
-    [ "JustEngagedWith", "de/db3/a15614.html#ae4b7fa599d31155bdee566b31c60b237", null ]
+    [ "pathId", "de/db3/a15614.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
+    [ "spellId", "de/db3/a15614.html#af495f984d5b81baeaa61ddca127a9508", null ]
 ];

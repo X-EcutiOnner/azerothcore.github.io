@@ -1,10 +1,5 @@
 var a28510 =
 [
-    [ "npc_dancing_flamesAI", "df/d57/a28510.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "df/d57/a28510.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "df/d57/a28510.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "df/d57/a28510.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "df/d57/a28510.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "df/d57/a28510.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "df/d57/a28510.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "go_jotunheim_cage", "df/d57/a28510.html#a28c9312de97a822e34f05c7358b42df4", null ],
+    [ "OnGossipHello", "df/d57/a28510.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
 ];

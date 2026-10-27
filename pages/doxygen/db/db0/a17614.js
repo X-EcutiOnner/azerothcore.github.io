@@ -1,6 +1,6 @@
 var a17614 =
 [
-    [ "HandleScriptEffect", "db/db0/a17614.html#ab9c289e946cfaf2b63f2526914d79812", null ],
-    [ "PrepareSpellScript", "db/db0/a17614.html#a832f8ab737254760fe2b91f19d119781", null ],
-    [ "Register", "db/db0/a17614.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
+    [ "npc_pos_tyrannus_eventsAI", "dd/dad/a17618.html", "dd/dad/a17618" ],
+    [ "npc_pos_tyrannus_events", "db/db0/a17614.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
+    [ "GetAI", "db/db0/a17614.html#ae5863e99d77815de71c1774e908b3f65", null ]
 ];

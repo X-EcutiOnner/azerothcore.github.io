@@ -1,7 +1,7 @@
 var a11842 =
 [
-    [ "DynObjAura", "df/d3e/a11842.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "df/d3e/a11842.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "df/d3e/a11842.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "df/d3e/a11842.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "MapSessionFilter", "df/d3e/a11842.html#ad11a700c36f8f45640402e96edc74b49", null ],
+    [ "~MapSessionFilter", "df/d3e/a11842.html#a82960e741c8f64d24a764a915f14e2b8", null ],
+    [ "Process", "df/d3e/a11842.html#a54483596fe2a5a0d30fab9a13506b375", null ],
+    [ "ProcessUnsafe", "df/d3e/a11842.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
 ];

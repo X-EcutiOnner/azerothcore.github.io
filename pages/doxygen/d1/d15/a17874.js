@@ -1,8 +1,7 @@
 var a17874 =
 [
-    [ "npc_saurfang_eventAI", "d1/d15/a17874.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "d1/d15/a17874.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "SetData", "d1/d15/a17874.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "d1/d15/a17874.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "_index", "d1/d15/a17874.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "HandleScript", "d1/d15/a17874.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "d1/d15/a17874.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "d1/d15/a17874.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "d1/d15/a17874.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

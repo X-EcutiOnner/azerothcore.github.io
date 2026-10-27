@@ -1,12 +1,14 @@
 var a22958 =
 [
-    [ "boss_shade_of_akama", "d5/df1/a22958.html#a385bf995d19652254d6ae8a447c23c37", null ],
-    [ "EnterEvadeMode", "d5/df1/a22958.html#a690f8058fb4358b98960177d76864275", null ],
-    [ "JustDied", "d5/df1/a22958.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
-    [ "MovementInform", "d5/df1/a22958.html#a345707efebd5027c01a25a563d1e6f43", null ],
-    [ "Reset", "d5/df1/a22958.html#a19a1aca1a599704612ac845001895b4f", null ],
-    [ "SpellHit", "d5/df1/a22958.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
-    [ "UpdateAI", "d5/df1/a22958.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "d5/df1/a22958.html#a258bbeecb517a04ab8e3bac2a753a5bd", null ],
-    [ "generators", "d5/df1/a22958.html#a94a1010bce54768ee2dca72d4f6eec34", null ]
+    [ "npc_maiev_illidan", "d5/df1/a22958.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
+    [ "DamageTaken", "d5/df1/a22958.html#a780cc558c483efa3293d798cc6048a33", null ],
+    [ "DoAction", "d5/df1/a22958.html#a53607a158edf8fd772908b5d7af6edf1", null ],
+    [ "IsSummonedBy", "d5/df1/a22958.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
+    [ "JustEngagedWith", "d5/df1/a22958.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
+    [ "JustExitedCombat", "d5/df1/a22958.html#a5606060b12e17edfd6ad05f4f01dd339", null ],
+    [ "Reset", "d5/df1/a22958.html#a100db757c89634a58b9382216e2791ec", null ],
+    [ "SpellHit", "d5/df1/a22958.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
+    [ "UpdateAI", "d5/df1/a22958.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
+    [ "_outroActive", "d5/df1/a22958.html#af0f1e48d3712039cb110d5a69a464009", null ],
+    [ "instance", "d5/df1/a22958.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
 ];

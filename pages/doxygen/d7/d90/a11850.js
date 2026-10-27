@@ -1,12 +1,17 @@
 var a11850 =
 [
-    [ "SpellDestination", "d7/d90/a11850.html#aa91f31101de3139b2e2d2976dac94686", null ],
-    [ "SpellDestination", "d7/d90/a11850.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
-    [ "SpellDestination", "d7/d90/a11850.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
-    [ "SpellDestination", "d7/d90/a11850.html#a7b8949fa80249aee8bebc56620ec746c", null ],
-    [ "Relocate", "d7/d90/a11850.html#ab565861d5013130639013e3c4d22d712", null ],
-    [ "RelocateOffset", "d7/d90/a11850.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
-    [ "_position", "d7/d90/a11850.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
-    [ "_transportGUID", "d7/d90/a11850.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
-    [ "_transportOffset", "d7/d90/a11850.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
+    [ "CharacterCreateInfo", "d7/d90/a11850.html#a9b19c0f868654d27235e0d0291a5603c", null ],
+    [ "Player", "d7/d90/a11850.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d7/d90/a11850.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "CharCount", "d7/d90/a11850.html#aad61b8ca0caf09d6b62ee9fffd78cceb", null ],
+    [ "Class", "d7/d90/a11850.html#a41e354593f59bc8546688a37c2a5e504", null ],
+    [ "Face", "d7/d90/a11850.html#aba49d87691e9d2b10d430450c3f66493", null ],
+    [ "FacialHair", "d7/d90/a11850.html#a5a88b2c2556dd1239c417ea4fcc55287", null ],
+    [ "Gender", "d7/d90/a11850.html#ac4ed75d1527549051a92cbb958fa8eb4", null ],
+    [ "HairColor", "d7/d90/a11850.html#a0ded70bbcf30bba4de4ac0ee88fb6eb6", null ],
+    [ "HairStyle", "d7/d90/a11850.html#aa4b2800384a89a5c30c2edb7ff567865", null ],
+    [ "Name", "d7/d90/a11850.html#a4f81603fda1ae148e6d6174ea8d861fe", null ],
+    [ "OutfitId", "d7/d90/a11850.html#a15baddc70b46d48bd9f128e73aaac606", null ],
+    [ "Race", "d7/d90/a11850.html#aeee5ee1a2dc34e1b2ad1f8edd31679ff", null ],
+    [ "Skin", "d7/d90/a11850.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e", null ]
 ];

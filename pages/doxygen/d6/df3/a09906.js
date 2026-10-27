@@ -1,7 +1,8 @@
 var a09906 =
 [
-    [ "RaidCheck", "d6/df3/a09906.html#ad8c3717b9a645c7806c8c027a8d90ef5", null ],
-    [ "operator()", "d6/df3/a09906.html#a0c076b737e8e1eacb9aab0981ff66f51", null ],
-    [ "_compare", "d6/df3/a09906.html#a5fffdd5901fb03c5e9a9adfb58e3d759", null ],
-    [ "_equals", "d6/df3/a09906.html#a7d253c94403bd50012722a9a9b113c3a", null ]
+    [ "NearestHostileUnitInAttackDistanceCheck", "d6/df3/a09906.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
+    [ "NearestHostileUnitInAttackDistanceCheck", "d6/df3/a09906.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
+    [ "operator()", "d6/df3/a09906.html#adc28281742cd1f6a49152481b48f944e", null ],
+    [ "m_range", "d6/df3/a09906.html#ab79296a88ed07257edbe3449c2515b40", null ],
+    [ "me", "d6/df3/a09906.html#a298d2489b9bf30aa510407afca79a374", null ]
 ];

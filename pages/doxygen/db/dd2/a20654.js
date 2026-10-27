@@ -1,7 +1,7 @@
 var a20654 =
 [
-    [ "FilterTargets", "db/dd2/a20654.html#a4ea7a7ee257a74c7ae1da47b9a75f852", null ],
-    [ "HandleScript", "db/dd2/a20654.html#a3b5fa94cdc2da133ae0cfaab9f949a57", null ],
-    [ "PrepareSpellScript", "db/dd2/a20654.html#a9e29a54a0c4bbc32b5d9fffe6d34a41d", null ],
-    [ "Register", "db/dd2/a20654.html#a53f90eb4dc7cdeab5bee4ab1a21691ac", null ]
+    [ "HandleEffectPeriodic", "db/dd2/a20654.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "db/dd2/a20654.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "db/dd2/a20654.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "db/dd2/a20654.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

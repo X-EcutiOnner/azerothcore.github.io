@@ -1,6 +1,11 @@
 var a17462 =
 [
-    [ "instance_pit_of_saron_InstanceScript", "dc/d19/a17466.html", "dc/d19/a17466" ],
-    [ "instance_pit_of_saron", "d4/da1/a17462.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
-    [ "GetInstanceScript", "d4/da1/a17462.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
+    [ "npc_phantom_mage", "d4/da1/a17462.html#a96702110e1bd587aaa88a076773cac72", null ],
+    [ "AttackStart", "d4/da1/a17462.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
+    [ "DoAction", "d4/da1/a17462.html#a8adf87e600eeab3678f369ab48b73927", null ],
+    [ "EnterEvadeMode", "d4/da1/a17462.html#a270f664ad9545f672405d051d1a8932a", null ],
+    [ "JustDied", "d4/da1/a17462.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
+    [ "JustEngagedWith", "d4/da1/a17462.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
+    [ "Reset", "d4/da1/a17462.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
+    [ "UpdateAI", "d4/da1/a17462.html#a919416fd6b52060e271e79afaaf14085", null ]
 ];

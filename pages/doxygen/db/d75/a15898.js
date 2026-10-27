@@ -1,6 +1,10 @@
 var a15898 =
 [
-    [ "npc_murkdeepAI", "dc/d8f/a15902.html", "dc/d8f/a15902" ],
-    [ "npc_murkdeep", "db/d75/a15898.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "db/d75/a15898.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "npc_anubisath_defender", "db/d75/a15898.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "db/d75/a15898.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "db/d75/a15898.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "db/d75/a15898.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "db/d75/a15898.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "db/d75/a15898.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "db/d75/a15898.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

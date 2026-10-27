@@ -1,7 +1,6 @@
 var a11762 =
 [
-    [ "Player", "d1/db5/a11762.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d1/db5/a11762.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "d1/db5/a11762.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "d1/db5/a11762.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "WorldStateInfo", "d1/db5/a11762.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
+    [ "Value", "d1/db5/a11762.html#afe5a0e98713c986a17f431795c488c6c", null ],
+    [ "VariableID", "d1/db5/a11762.html#a627bba237bce23aff74fd2bf7a274657", null ]
 ];

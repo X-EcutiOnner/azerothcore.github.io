@@ -1,8 +1,12 @@
 var a07818 =
 [
-    [ "NodeId", "d6/d6e/a07818.html#a09d4904c622dd7810e154bc0f3bd7eaf", null ],
-    [ "TextAllianceTaken", "d6/d6e/a07818.html#a20cb8eaefa0e45b45a57645c62409ba4", null ],
-    [ "TextAssaulted", "d6/d6e/a07818.html#a2e49a6d7f8ca935800062d98f1c660de", null ],
-    [ "TextDefended", "d6/d6e/a07818.html#a27ee2d5be23a110943438a8888b14202", null ],
-    [ "TextHordeTaken", "d6/d6e/a07818.html#a835c00ebdc2fe61f7e7757b0ed26bd1d", null ]
+    [ "BGQueueRemoveEvent", "d6/d6e/a07818.html#ab751b728f64b2928eefb21f756539d81", null ],
+    [ "~BGQueueRemoveEvent", "d6/d6e/a07818.html#aab9ea24041888975439aafb246c571c3", null ],
+    [ "Abort", "d6/d6e/a07818.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
+    [ "Execute", "d6/d6e/a07818.html#a42482ff784da4b23b568888a74a0b531", null ],
+    [ "m_BgInstanceGUID", "d6/d6e/a07818.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
+    [ "m_BgQueueTypeId", "d6/d6e/a07818.html#ac059a823ae49bd0250eec15845bf153b", null ],
+    [ "m_BgTypeId", "d6/d6e/a07818.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
+    [ "m_PlayerGuid", "d6/d6e/a07818.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
+    [ "m_RemoveTime", "d6/d6e/a07818.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
 ];

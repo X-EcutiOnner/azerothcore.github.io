@@ -1,8 +1,10 @@
 var a09926 =
 [
-    [ "flags", "db/d15/a09926.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "db/d15/a09926.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "db/d15/a09926.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "db/d15/a09926.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "db/d15/a09926.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "AnyPlayerInObjectRangeCheck", "db/d15/a09926.html#ae636bd72045687920ec1d460508bc74b", null ],
+    [ "operator()", "db/d15/a09926.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
+    [ "operator()", "db/d15/a09926.html#a70c477213c8b271d3402857edd87ef8b", null ],
+    [ "_disallowGM", "db/d15/a09926.html#a9c43efd575de2edfdaa0b84def91c727", null ],
+    [ "_obj", "db/d15/a09926.html#a07a346225f675433792d2298673acd1f", null ],
+    [ "_range", "db/d15/a09926.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
+    [ "_reqAlive", "db/d15/a09926.html#af1e397c5033711e65d9ac5b35311e893", null ]
 ];

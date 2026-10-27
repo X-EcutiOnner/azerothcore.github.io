@@ -1,8 +1,6 @@
 var a23610 =
 [
-    [ "HandleDummyApply", "df/d43/a23610.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "df/d43/a23610.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "df/d43/a23610.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "df/d43/a23610.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "df/d43/a23610.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d9/df4/a23614.html", "d9/df4/a23614" ],
+    [ "instance_steam_vault", "df/d43/a23610.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "df/d43/a23610.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

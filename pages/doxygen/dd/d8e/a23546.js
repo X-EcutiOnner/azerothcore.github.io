@@ -1,7 +1,8 @@
 var a23546 =
 [
-    [ "boss_the_maker", "dd/d8e/a23546.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "dd/d8e/a23546.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "dd/d8e/a23546.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "dd/d8e/a23546.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "FilterTargets", "dd/d8e/a23546.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
+    [ "HandleDummy", "dd/d8e/a23546.html#addb3580259be74126b7de36d1b0a8a97", null ],
+    [ "PrepareSpellScript", "dd/d8e/a23546.html#aba82de0886d03037de4564f9908b8c89", null ],
+    [ "Register", "dd/d8e/a23546.html#a1650962493d48f5553a9e2771e594f1f", null ],
+    [ "Validate", "dd/d8e/a23546.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
 ];

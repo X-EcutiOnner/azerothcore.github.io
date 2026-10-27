@@ -1,13 +1,12 @@
 var a10902 =
 [
-    [ "ScriptObject", "dd/d6e/a10902.html#a494e983ccabd1d2311fe3afe0c2afbe5", null ],
-    [ "~ScriptObject", "dd/d6e/a10902.html#a80c704c939f54eee6655d68509598c42", null ],
-    [ "checkValidity", "dd/d6e/a10902.html#a585e75e34aed7aa32205daad85f8fe08", null ],
-    [ "GetName", "dd/d6e/a10902.html#a3f66eb7597f020167b7d75202d28b83a", null ],
-    [ "GetTotalAvailableHooks", "dd/d6e/a10902.html#a69ee35ec7d54226264efef558022c1c0", null ],
-    [ "isAfterLoadScript", "dd/d6e/a10902.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
-    [ "IsDatabaseBound", "dd/d6e/a10902.html#a37da453729d5c8fbe2d06f905563f47c", null ],
-    [ "ScriptMgr", "dd/d6e/a10902.html#a7a753f61d57353451e90f3f23fec4851", null ],
-    [ "_name", "dd/d6e/a10902.html#a90b63e382cac17922ae57fe22b84718c", null ],
-    [ "_totalAvailableHooks", "dd/d6e/a10902.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
+    [ "ItemScript", "dd/d6e/a10902.html#afed37ed2bb8b2fda6e40b3a3469ef966", null ],
+    [ "IsDatabaseBound", "dd/d6e/a10902.html#ae0ae6754a17b88deaf3648b74a58bb9d", null ],
+    [ "OnCastItemCombatSpell", "dd/d6e/a10902.html#a08a73378706fdfb0cee5e6214060ad1b", null ],
+    [ "OnExpire", "dd/d6e/a10902.html#a2ac915f9f966df87a963a328363deb77", null ],
+    [ "OnGossipSelect", "dd/d6e/a10902.html#a78b540902816ee3b3f9a6b108aa155ab", null ],
+    [ "OnGossipSelectCode", "dd/d6e/a10902.html#a0832c990b3efbb6310014937f4425996", null ],
+    [ "OnQuestAccept", "dd/d6e/a10902.html#a87ab2f706bbb4e71921852d1ae6d78c7", null ],
+    [ "OnRemove", "dd/d6e/a10902.html#a1c8d706593fce54b1e4627493c38a6d3", null ],
+    [ "OnUse", "dd/d6e/a10902.html#a0e45d02f07def65de2eb94735189e7f5", null ]
 ];

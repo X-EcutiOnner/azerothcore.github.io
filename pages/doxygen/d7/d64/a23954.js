@@ -1,8 +1,10 @@
 var a23954 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d7/d64/a23954.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "d7/d64/a23954.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "d7/d64/a23954.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "d7/d64/a23954.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "d7/d64/a23954.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d7/d64/a23954.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "d7/d64/a23954.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "d7/d64/a23954.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "d7/d64/a23954.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "d7/d64/a23954.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "d7/d64/a23954.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "d7/d64/a23954.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

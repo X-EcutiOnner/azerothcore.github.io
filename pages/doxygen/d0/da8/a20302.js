@@ -1,7 +1,8 @@
 var a20302 =
 [
-    [ "HandleScript", "d0/da8/a20302.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
-    [ "PrepareSpellScript", "d0/da8/a20302.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
-    [ "Register", "d0/da8/a20302.html#a04a5b3a4f768200d74f4641508633d35", null ],
-    [ "Validate", "d0/da8/a20302.html#a78074b5b64b1ee5dfaab812f6c72bb9b", null ]
+    [ "OnPeriodic", "d0/da8/a20302.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
+    [ "OnRemove", "d0/da8/a20302.html#ac6d961793ddb6423540da9d97e016b82", null ],
+    [ "PrepareAuraScript", "d0/da8/a20302.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
+    [ "Register", "d0/da8/a20302.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
+    [ "Validate", "d0/da8/a20302.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
 ];

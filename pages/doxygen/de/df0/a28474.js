@@ -1,7 +1,5 @@
 var a28474 =
 [
-    [ "npc_riggle_bassbaitAI", "de/df0/a28474.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "de/df0/a28474.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "de/df0/a28474.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "de/df0/a28474.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "go_jump_a_tron", "de/df0/a28474.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
+    [ "OnGossipHello", "de/df0/a28474.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
 ];

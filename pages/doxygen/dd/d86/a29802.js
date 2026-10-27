@@ -1,11 +1,15 @@
 var a29802 =
 [
-    [ "SetUp", "dd/d86/a29802.html#a6905326495d9902c04075e1278ceee09", null ],
-    [ "TearDown", "dd/d86/a29802.html#a93922bbc8b0748ea2744da16bb9be908", null ],
-    [ "_map", "dd/d86/a29802.html#a7488073f59af18ddff83352153bce0f9", null ],
-    [ "_previousWorld", "dd/d86/a29802.html#a5098326e6ea76115910d5d87e9146106", null ],
-    [ "_snake", "dd/d86/a29802.html#a8fa5bbd89471aa9b332b27d2183b823d", null ],
-    [ "_targetA", "dd/d86/a29802.html#a57f036093e543f841c808380d3bb6708", null ],
-    [ "_targetB", "dd/d86/a29802.html#ae722aaab98cdbd47252f6b95df507679", null ],
-    [ "_worldMock", "dd/d86/a29802.html#ac4ea643a5b5a1e40790a254b2809c11b", null ]
+    [ "DamageInfoStubBuilder", "dd/d86/a29802.html#a282b4f92722f9cf12358a9f603df6902", null ],
+    [ "Build", "dd/d86/a29802.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
+    [ "WithAbsorb", "dd/d86/a29802.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
+    [ "WithAttackType", "dd/d86/a29802.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
+    [ "WithBlock", "dd/d86/a29802.html#a81381d471627ddd6e86678551ca4ab5b", null ],
+    [ "WithDamage", "dd/d86/a29802.html#abf9d30cde831f2094a181a312bcfe9df", null ],
+    [ "WithHitMask", "dd/d86/a29802.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
+    [ "WithOriginalDamage", "dd/d86/a29802.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
+    [ "WithResist", "dd/d86/a29802.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
+    [ "WithSchoolMask", "dd/d86/a29802.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
+    [ "WithSpellInfo", "dd/d86/a29802.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
+    [ "_stub", "dd/d86/a29802.html#abf06c6b638dcd9489fa0e3d755433514", null ]
 ];

@@ -1,6 +1,12 @@
 var a23778 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d6/d83/a23782.html", "d6/d83/a23782" ],
-    [ "instance_the_botanica", "d2/d67/a23778.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "d2/d67/a23778.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "boss_nazan", "d2/d67/a23778.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "d2/d67/a23778.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "d2/d67/a23778.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "d2/d67/a23778.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "d2/d67/a23778.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "d2/d67/a23778.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "d2/d67/a23778.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "d2/d67/a23778.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "d2/d67/a23778.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

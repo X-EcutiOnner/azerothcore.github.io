@@ -1,5 +1,6 @@
 var a29242 =
 [
-    [ "content", "d5/de6/a29242.html#a936eb07adb8a41480dfc196127b7e5c0", null ],
-    [ "ID", "d5/de6/a29242.html#a1a33aff67b979c3c7a76c26debb5fc25", null ]
+    [ "AreaGroupId", "d5/de6/a29242.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "d5/de6/a29242.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "d5/de6/a29242.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

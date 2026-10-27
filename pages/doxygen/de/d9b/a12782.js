@@ -1,8 +1,6 @@
 var a12782 =
 [
-    [ "CheckProc", "de/d9b/a12782.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "de/d9b/a12782.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "de/d9b/a12782.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "de/d9b/a12782.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "de/d9b/a12782.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_vanndarAI", "d5/d79/a12786.html", "d5/d79/a12786" ],
+    [ "boss_vanndar", "de/d9b/a12782.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
+    [ "GetAI", "de/d9b/a12782.html#ad1879cc6123a323ada04c49a2c691349", null ]
 ];

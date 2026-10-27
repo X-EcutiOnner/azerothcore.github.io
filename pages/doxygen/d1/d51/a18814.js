@@ -1,6 +1,11 @@
 var a18814 =
 [
-    [ "npc_spirit_wardenAI", "de/d32/a18818.html", "de/d32/a18818" ],
-    [ "npc_spirit_warden", "d1/d51/a18814.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d1/d51/a18814.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "AddMissingStack", "d1/d51/a18814.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "d1/d51/a18814.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "d1/d51/a18814.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "d1/d51/a18814.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "d1/d51/a18814.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "d1/d51/a18814.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "d1/d51/a18814.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "d1/d51/a18814.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

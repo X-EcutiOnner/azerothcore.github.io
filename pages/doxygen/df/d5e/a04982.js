@@ -1,4 +1,4 @@
 var a04982 =
 [
-    [ "MessageBuffer", "db/da8/a05901.html", "db/da8/a05901" ]
+    [ "EventEmitter< Signature >", "d8/d1d/a05886.html", "d8/d1d/a05886" ]
 ];

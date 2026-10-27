@@ -1,7 +1,12 @@
 var a17142 =
 [
-    [ "HandleEffectPeriodic", "d0/d7e/a17142.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
-    [ "PrepareAuraScript", "d0/d7e/a17142.html#af84222492b3209c97695895c4c991f4a", null ],
-    [ "Register", "d0/d7e/a17142.html#a4d1741913631bb649508ef238e25a6c8", null ],
-    [ "Validate", "d0/d7e/a17142.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
+    [ "boss_jaraxxus", "d0/d7e/a17142.html#a86082ca12767e4d04bd24c0b3bec3176", null ],
+    [ "EnterEvadeMode", "d0/d7e/a17142.html#a5e11dff4d8fc0820f60044ddcfdc6ab5", null ],
+    [ "JustDied", "d0/d7e/a17142.html#a87fcb2c9ca26b498a17138459ea45e7a", null ],
+    [ "JustEngagedWith", "d0/d7e/a17142.html#adc9cd34f103c026a9d91f5b7b076ac02", null ],
+    [ "JustSummoned", "d0/d7e/a17142.html#ab5b9ac68b23be5833e3e061f2623ee37", null ],
+    [ "MoveInLineOfSight", "d0/d7e/a17142.html#a86a9d40e9fabd693dd936758ccdb8a9a", null ],
+    [ "Reset", "d0/d7e/a17142.html#ab41962c64bd1a4b0e93bc83ae5f62889", null ],
+    [ "SpellHit", "d0/d7e/a17142.html#ad024c86f49c0ff49bc8ccde187d59088", null ],
+    [ "UpdateAI", "d0/d7e/a17142.html#a0d598a20f10a0f3187ad9dfe6405cf13", null ]
 ];

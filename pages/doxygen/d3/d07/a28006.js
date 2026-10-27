@@ -1,5 +1,7 @@
 var a28006 =
 [
-    [ "achievement_tilted", "d3/d07/a28006.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "d3/d07/a28006.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "HandleProc", "d3/d07/a28006.html#a9296b52700f070af311047166f6a913b", null ],
+    [ "PrepareAuraScript", "d3/d07/a28006.html#a067cc24e65f79bab10b9d1258fad3460", null ],
+    [ "Register", "d3/d07/a28006.html#affbd8840159048b6ea55ab98900d38c0", null ],
+    [ "Validate", "d3/d07/a28006.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
 ];

@@ -1,14 +1,20 @@
 var a13334 =
 [
-    [ "boss_strawman", "df/d68/a13334.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
-    [ "DoAction", "df/d68/a13334.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
-    [ "EnterEvadeMode", "df/d68/a13334.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
-    [ "JustDied", "df/d68/a13334.html#ab175b0104d316b8929e32d9eb939780f", null ],
-    [ "JustEngagedWith", "df/d68/a13334.html#a40657516c4f1b049dd0514a50e299a10", null ],
-    [ "JustReachedHome", "df/d68/a13334.html#a4235b2de2540199f9570cbadb7326871", null ],
-    [ "KilledUnit", "df/d68/a13334.html#a06b92dbb6907ace60df7e10893be7af0", null ],
-    [ "SpellHit", "df/d68/a13334.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
-    [ "UpdateAI", "df/d68/a13334.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
-    [ "_scheduler", "df/d68/a13334.html#a409539c771b373c165bdbccac8a59e7f", null ],
-    [ "instance", "df/d68/a13334.html#a157a6faacf83432b8227173f6b14a7d3", null ]
+    [ "boss_netherspite", "df/d68/a13334.html#a41665f388b5abcf6d64e6f58326fe0cc", null ],
+    [ "DestroyPortals", "df/d68/a13334.html#aef861122117f86230157dfba2aae4b84", null ],
+    [ "dist", "df/d68/a13334.html#a01862bcde441d4873e2f01d65726b7c7", null ],
+    [ "HandleDoors", "df/d68/a13334.html#ac5f2ddb87e93c3d85f7912132bbe5bfe", null ],
+    [ "IsBetween", "df/d68/a13334.html#ae3d1579bd742d2ac38dc47e529c047e1", null ],
+    [ "JustDied", "df/d68/a13334.html#abf986442648091792058cff6110bc670", null ],
+    [ "JustEngagedWith", "df/d68/a13334.html#a49a114ce9744c1758294f56088f91348", null ],
+    [ "Reset", "df/d68/a13334.html#a24b4282d0004fe07810f9210211a28f4", null ],
+    [ "SummonPortals", "df/d68/a13334.html#a98bbd9ae476eba086de3f70d4b5970e2", null ],
+    [ "SwitchToBanishPhase", "df/d68/a13334.html#ac049b2b76c796c3d7dd74e8df7fafb99", null ],
+    [ "SwitchToPortalPhase", "df/d68/a13334.html#ae347618233c5c15f73056629512fcdfa", null ],
+    [ "UpdateAI", "df/d68/a13334.html#a5610c1eb1e20fb09a0b4680b0170a691", null ],
+    [ "UpdatePortals", "df/d68/a13334.html#a16a028d881ad1439f699ca9e29c8ce11", null ],
+    [ "BeamerGUID", "df/d68/a13334.html#af0f9b48c0ef7af916d14681473681744", null ],
+    [ "BeamTarget", "df/d68/a13334.html#a61cf090860a7866ca0222dd79b697b13", null ],
+    [ "berserk", "df/d68/a13334.html#a3eab6bee2123d34e6d85fb519c047f00", null ],
+    [ "PortalGUID", "df/d68/a13334.html#a98824fb7502f2774fc8e5b2c63eeaa7f", null ]
 ];

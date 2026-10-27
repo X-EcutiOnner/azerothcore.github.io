@@ -1,6 +1,7 @@
 var a16658 =
 [
-    [ "HandlePeriodic", "da/d22/a16658.html#a7753587518171689f86f3f76269c1b8a", null ],
-    [ "PrepareAuraScript", "da/d22/a16658.html#aa73351e7200bee94b0068fb8dabfada5", null ],
-    [ "Register", "da/d22/a16658.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
+    [ "CheckDistance", "da/d22/a16658.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "da/d22/a16658.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "da/d22/a16658.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "da/d22/a16658.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

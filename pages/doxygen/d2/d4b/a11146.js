@@ -1,5 +1,5 @@
 var a11146 =
 [
-    [ "GuildDelete", "d2/d4b/a11146.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
-    [ "Read", "d2/d4b/a11146.html#ae5ca379b187902323638f4c10be0a4d0", null ]
+    [ "GuildGetInfo", "d2/d4b/a11146.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
+    [ "Read", "d2/d4b/a11146.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
 ];

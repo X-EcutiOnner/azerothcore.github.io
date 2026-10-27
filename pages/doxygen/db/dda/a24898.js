@@ -1,8 +1,7 @@
 var a24898 =
 [
-    [ "CheckProc", "db/dda/a24898.html#a1b9f36ea8dae6ad947a75bbe23f7fc2d", null ],
-    [ "HandleProc", "db/dda/a24898.html#a506420e3e109bf8f4e7c83b101c80c3c", null ],
-    [ "PrepareAuraScript", "db/dda/a24898.html#a5e81587c47cbb6f331b6d5f8f22d7616", null ],
-    [ "Register", "db/dda/a24898.html#a38de7578466df47ebe6fc7b5bfab616b", null ],
-    [ "Validate", "db/dda/a24898.html#ad81044da0924211cbbaccc671839983c", null ]
+    [ "CheckProc", "db/dda/a24898.html#a841b1a19cafcbf3b3bf82867cbb23384", null ],
+    [ "HandleProc", "db/dda/a24898.html#a1d2e356b47d793bf9193b03f635ce579", null ],
+    [ "PrepareAuraScript", "db/dda/a24898.html#addfa11cf74409b4bb369c2bbf583c13c", null ],
+    [ "Register", "db/dda/a24898.html#a180fbfc09087cb2cd919734c447fef10", null ]
 ];

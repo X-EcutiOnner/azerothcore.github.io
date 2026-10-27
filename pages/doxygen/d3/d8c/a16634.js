@@ -1,10 +1,7 @@
 var a16634 =
 [
-    [ "spell_halion_damage_aoe_summon", "d3/d8c/a16634.html#a6152e7a0515076af2c7c2155506257b0", null ],
-    [ "HandleSummon", "d3/d8c/a16634.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
-    [ "PrepareSpellScript", "d3/d8c/a16634.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
-    [ "Register", "d3/d8c/a16634.html#aa1f9239a2910d53c85539abba6333893", null ],
-    [ "Validate", "d3/d8c/a16634.html#acb359257b29354b5962d9865e06137e7", null ],
-    [ "_auraSpell", "d3/d8c/a16634.html#a497a74eca703470964157639a6f372e2", null ],
-    [ "_explosionSpell", "d3/d8c/a16634.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
+    [ "DelayedTalk", "d3/d8c/a16634.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d3/d8c/a16634.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d3/d8c/a16634.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d3/d8c/a16634.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

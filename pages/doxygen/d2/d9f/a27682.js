@@ -1,7 +1,8 @@
 var a27682 =
 [
-    [ "HandleScriptEffect", "d2/d9f/a27682.html#a328c1ba6ccd98e25e477a3f784cb47ff", null ],
-    [ "PrepareSpellScript", "d2/d9f/a27682.html#aa211032991d8fd11d574cb364533a515", null ],
-    [ "Register", "d2/d9f/a27682.html#a13315f197f2e6975dca00b53cbc599d2", null ],
-    [ "Validate", "d2/d9f/a27682.html#a3b752f07631223199ed7ac404ed1afed", null ]
+    [ "Apply", "d2/d9f/a27682.html#ac3145df90b6b179fece1c76da114e395", null ],
+    [ "HandleEffectPeriodic", "d2/d9f/a27682.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
+    [ "PrepareAuraScript", "d2/d9f/a27682.html#aa911ba0b5a13a933bf50a072799a040f", null ],
+    [ "Register", "d2/d9f/a27682.html#ae0dff9b5002d3d3361d794a75645057f", null ],
+    [ "Validate", "d2/d9f/a27682.html#ad81184b508474a89fbafc63594ef0ab1", null ]
 ];

@@ -1,6 +1,6 @@
 var a28530 =
 [
-    [ "npc_garments_of_questsAI", "d4/dcf/a28534.html", "d4/dcf/a28534" ],
-    [ "npc_garments_of_quests", "dd/dc7/a28530.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "dd/dc7/a28530.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "go_amberpine_outhouse", "dd/dc7/a28530.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
+    [ "OnGossipHello", "dd/dc7/a28530.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
+    [ "OnGossipSelect", "dd/dc7/a28530.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
 ];

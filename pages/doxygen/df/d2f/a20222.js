@@ -1,7 +1,8 @@
 var a20222 =
 [
-    [ "HandleOnHit", "df/d2f/a20222.html#a3a0f411a652a5753a543f57433212425", null ],
-    [ "PrepareSpellScript", "df/d2f/a20222.html#a93008907295d79e9c98747bc416b6b5a", null ],
-    [ "Register", "df/d2f/a20222.html#a858cc1c717a7cadc9eac41b89738d7e1", null ],
-    [ "Validate", "df/d2f/a20222.html#a56f021a02c261dfb694e57af35c0ca14", null ]
+    [ "npc_algalon_worm_hole", "df/d2f/a20222.html#a546bd0ede2586fcbe3812698b68528d4", null ],
+    [ "JustSummoned", "df/d2f/a20222.html#a077425b35d86c007daa93fc8b1fd9717", null ],
+    [ "Reset", "df/d2f/a20222.html#a363814abdee714faddfd966b11a4fddc", null ],
+    [ "UpdateAI", "df/d2f/a20222.html#a16f644be53169adc67fc971bdeaa7263", null ],
+    [ "_summonTimer", "df/d2f/a20222.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
 ];

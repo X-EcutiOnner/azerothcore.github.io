@@ -1,5 +1,6 @@
 var a28322 =
 [
-    [ "go_veil_skith_cage", "d8/dff/a28322.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
-    [ "OnGossipHello", "d8/dff/a28322.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
+    [ "npc_spirit_shadeAI", "d9/d59/a28326.html", "d9/d59/a28326" ],
+    [ "npc_spirit_shade", "d8/dff/a28322.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d8/dff/a28322.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

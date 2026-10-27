@@ -1,4 +1,4 @@
 var a08082 =
 [
-    [ "type", "de/de3/a08082.html#a20bf3321a2bb91eead362115f5c9bcc7", null ]
+    [ "TryConsume", "de/de3/a08082.html#afb6bc0250c190a2b52c031e3540ddf78", null ]
 ];

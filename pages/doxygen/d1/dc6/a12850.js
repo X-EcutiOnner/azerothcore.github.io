@@ -1,7 +1,7 @@
 var a12850 =
 [
-    [ "boss_urok_doomhowl", "d1/dc6/a12850.html#af1ee215f3d8d6471587ef184bdb0d47c", null ],
-    [ "InitializeAI", "d1/dc6/a12850.html#acb14f233eff038e0cc2ef0b44cac5357", null ],
-    [ "JustEngagedWith", "d1/dc6/a12850.html#acf6c649e69b5e7104aa2ffca01fef6dc", null ],
-    [ "UpdateAI", "d1/dc6/a12850.html#aff302dd58a2f0ef8d801b0b6813d3233", null ]
+    [ "boss_grizzle", "d1/dc6/a12850.html#af5d864d2e06859a3c21506b8def424d0", null ],
+    [ "JustEngagedWith", "d1/dc6/a12850.html#ad925b3a8190037e1768b1c5565656be7", null ],
+    [ "UpdateAI", "d1/dc6/a12850.html#a72c28686adf331ed291585f830041041", null ],
+    [ "nextTremorTime", "d1/dc6/a12850.html#a220d7e426d7bd2034cf2dc70d0a18f26", null ]
 ];

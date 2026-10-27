@@ -1,7 +1,5 @@
 var a26434 =
 [
-    [ "HandleProc", "d8/d59/a26434.html#a00864fa29b0f4e01f0ec3b007ba56913", null ],
-    [ "PrepareAuraScript", "d8/d59/a26434.html#a83020e052309f9905adde86bac3ef925", null ],
-    [ "Register", "d8/d59/a26434.html#a7d0a5ebb4f9f9742694967bf23a76ba8", null ],
-    [ "Validate", "d8/d59/a26434.html#ac296ca5433b5bf1fc0d8c3401e43d912", null ]
+    [ "PrepareSpellScript", "d8/d59/a26434.html#ad7b3235062959af1f28bb6c7b2f929c3", null ],
+    [ "Register", "d8/d59/a26434.html#ae35dad0d33ee0dd571a8f5fcccd2ce58", null ]
 ];

@@ -1,13 +1,6 @@
 var a22506 =
 [
-    [ "OPvPCapturePointEP_PWT", "d6/d15/a22506.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
-    [ "ChangeState", "d6/d15/a22506.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
-    [ "FillInitialWorldStates", "d6/d15/a22506.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
-    [ "HandlePlayerEnter", "d6/d15/a22506.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
-    [ "HandlePlayerLeave", "d6/d15/a22506.html#a5772e54263c613eee365856def5e74e6", null ],
-    [ "SendChangePhase", "d6/d15/a22506.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
-    [ "SummonFlightMaster", "d6/d15/a22506.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
-    [ "UpdateTowerState", "d6/d15/a22506.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
-    [ "m_FlightMasterSpawnedId", "d6/d15/a22506.html#afeefd804849b925e6d0a880d8efb5319", null ],
-    [ "m_TowerState", "d6/d15/a22506.html#a914dcbb37baf457750cfe9829d95d88c", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "db/dfa/a22510.html", "db/dfa/a22510" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d6/d15/a22506.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "d6/d15/a22506.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

@@ -1,10 +1,7 @@
 var a13958 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d8/d98/a13958.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "d8/d98/a13958.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "d8/d98/a13958.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "d8/d98/a13958.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "d8/d98/a13958.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "d8/d98/a13958.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ],
-    [ "WaypointReached", "d8/d98/a13958.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "HandleScriptEffect", "d8/d98/a13958.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "d8/d98/a13958.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "d8/d98/a13958.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "d8/d98/a13958.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

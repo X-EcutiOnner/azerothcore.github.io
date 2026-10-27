@@ -1,6 +1,8 @@
 var a23958 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "dc/dfe/a23962.html", "dc/dfe/a23962" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "d5/d77/a23958.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "d5/d77/a23958.html#a250707096229da28024960beeb7725bf", null ]
+    [ "boss_commander_sarannis", "d5/d77/a23958.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d5/d77/a23958.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d5/d77/a23958.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d5/d77/a23958.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d5/d77/a23958.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

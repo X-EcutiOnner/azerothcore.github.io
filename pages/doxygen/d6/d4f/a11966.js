@@ -1,6 +1,6 @@
 var a11966 =
 [
-    [ "apPctMod", "d6/d4f/a11966.html#a35f5f8f7a3ac33768299913fecc1cf8d", null ],
-    [ "flatMod", "d6/d4f/a11966.html#a0d66e48d986f246e6aea08dd00837158", null ],
-    [ "pctMod", "d6/d4f/a11966.html#af13802a7f6872cfce3a1d14655f30287", null ]
+    [ "ChannelTargetData", "d6/d4f/a11966.html#a551ade29c4e2e43ac938aeb3bf67e0ad", null ],
+    [ "channelGUID", "d6/d4f/a11966.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "d6/d4f/a11966.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

@@ -1,6 +1,8 @@
 var a21362 =
 [
-    [ "boss_archavonAI", "d7/d7e/a21366.html", "d7/d7e/a21366" ],
-    [ "boss_archavon", "d2/d62/a21362.html#a44e20480f8d86cf763afe67de49c6c33", null ],
-    [ "GetAI", "d2/d62/a21362.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
+    [ "boss_keleseth", "d2/d62/a21362.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
+    [ "AttackStart", "d2/d62/a21362.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
+    [ "JustDied", "d2/d62/a21362.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
+    [ "JustEngagedWith", "d2/d62/a21362.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
+    [ "KilledUnit", "d2/d62/a21362.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
 ];

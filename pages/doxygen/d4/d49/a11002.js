@@ -1,6 +1,5 @@
 var a11002 =
 [
-    [ "PlayedTimeClient", "d4/d49/a11002.html#a1c82d4d153606da9887d64599f319883", null ],
-    [ "Read", "d4/d49/a11002.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
-    [ "TriggerScriptEvent", "d4/d49/a11002.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
+    [ "UpdatableScript", "d4/d49/a11002.html#a2d6cf85d1eb98438b5022804296eff11", null ],
+    [ "OnUpdate", "d4/d49/a11002.html#abf328325e08aa0d6adf36e6f70b02328", null ]
 ];

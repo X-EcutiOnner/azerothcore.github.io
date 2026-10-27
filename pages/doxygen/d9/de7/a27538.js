@@ -1,7 +1,7 @@
 var a27538 =
 [
-    [ "HandleScriptEffect", "d9/de7/a27538.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
-    [ "PrepareSpellScript", "d9/de7/a27538.html#a7462fbeab2254046e12a262418ec0d2c", null ],
-    [ "Register", "d9/de7/a27538.html#ac14625182eb0289d8536ac322500ab45", null ],
-    [ "Validate", "d9/de7/a27538.html#a190b802f3b09655886e5bbb9980375af", null ]
+    [ "CalculateAmount", "d9/de7/a27538.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "d9/de7/a27538.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "d9/de7/a27538.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "d9/de7/a27538.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

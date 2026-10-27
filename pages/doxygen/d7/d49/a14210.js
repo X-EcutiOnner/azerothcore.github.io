@@ -1,7 +1,6 @@
 var a14210 =
 [
-    [ "OnApply", "d7/d49/a14210.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "d7/d49/a14210.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "d7/d49/a14210.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "d7/d49/a14210.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "npc_ravenclaw_apparitionAI", "de/dd8/a14214.html", "de/dd8/a14214" ],
+    [ "npc_ravenclaw_apparition", "d7/d49/a14210.html#a961044571250519e62d7d33633974038", null ],
+    [ "GetAI", "d7/d49/a14210.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
 ];

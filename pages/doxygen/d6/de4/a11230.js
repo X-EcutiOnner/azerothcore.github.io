@@ -1,6 +1,5 @@
 var a11230 =
 [
-    [ "GuildBankTextQuery", "d6/de4/a11230.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
-    [ "Read", "d6/de4/a11230.html#af20bd5c8e58b891028613625fb14807d", null ],
-    [ "Tab", "d6/de4/a11230.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
+    [ "GuildDeleteRank", "d6/de4/a11230.html#ae21057ea5cc30ed07deaa736149617b3", null ],
+    [ "Read", "d6/de4/a11230.html#a91a7883299fe09e08c247c96987a8333", null ]
 ];

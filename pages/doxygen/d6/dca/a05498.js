@@ -1,10 +1,6 @@
 var a05498 =
 [
-    [ "Hash", "d6/dca/a05498.html#ae23bd592ac284f3068c36688d084c24f", null ],
-    [ "Verify", "d6/dca/a05498.html#a7a041ffc17e4d4291f81d4090f31e1fd", null ],
-    [ "DEFAULT_ITERATIONS", "d6/dca/a05498.html#a898bbe9b4ffddef1eb067915740d6100", null ],
-    [ "DEFAULT_MEMORY_COST", "d6/dca/a05498.html#a413b8cdff629f26836a776412362056d", null ],
-    [ "ENCODED_HASH_LEN", "d6/dca/a05498.html#a07dd0a8033f54177570f62a2a1a0da3d", null ],
-    [ "HASH_LEN", "d6/dca/a05498.html#a923313625297d08ff3ca9a04bbe527aa", null ],
-    [ "PARALLELISM", "d6/dca/a05498.html#a4aabf2fcc43b23c9d565ced3a2adb405", null ]
+    [ "NodeArray", "d6/dca/a05498.html#ad14de28828d5dd9c425e47a261125423", null ],
+    [ "AddNode", "d6/dca/a05498.html#a370b6e8633c2c739ff68c0399e315a7e", null ],
+    [ "_nodes", "d6/dca/a05498.html#a581a71d15d245efc585297c218313134", null ]
 ];

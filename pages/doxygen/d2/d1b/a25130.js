@@ -1,6 +1,7 @@
 var a25130 =
 [
-    [ "CheckAreaTarget", "d2/d1b/a25130.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
-    [ "PrepareAuraScript", "d2/d1b/a25130.html#afbc45652033397067a439b45afd2e90e", null ],
-    [ "Register", "d2/d1b/a25130.html#aa24679e1243470056f74249e1b26767d", null ]
+    [ "HandleProc", "d2/d1b/a25130.html#a8cdacf8f2562c0c35fafaa24ac9d18c2", null ],
+    [ "PrepareAuraScript", "d2/d1b/a25130.html#a9cc42ed6528e9e6dd253808c59286e02", null ],
+    [ "Register", "d2/d1b/a25130.html#a3d4b8bfcc77087533d9bb1b1d5f6f637", null ],
+    [ "Validate", "d2/d1b/a25130.html#abe19ae79c5bf1b0104cc3bc16570853a", null ]
 ];

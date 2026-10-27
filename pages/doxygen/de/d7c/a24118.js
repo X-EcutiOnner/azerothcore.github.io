@@ -1,7 +1,9 @@
 var a24118 =
 [
-    [ "npc_bessyAI", "d6/d10/a24122.html", "d6/d10/a24122" ],
-    [ "npc_bessy", "de/d7c/a24118.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "de/d7c/a24118.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "de/d7c/a24118.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "instance_the_eye_InstanceMapScript", "de/d7c/a24118.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
+    [ "GetGuidData", "de/d7c/a24118.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
+    [ "OnGameObjectCreate", "de/d7c/a24118.html#a56c6933c2c231c228ca147107fbfc930", null ],
+    [ "BridgeWindowGUID", "de/d7c/a24118.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
+    [ "KaelStateLeftGUID", "de/d7c/a24118.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
+    [ "KaelStateRightGUID", "de/d7c/a24118.html#a25ba703325800d2976eff860437f3d57", null ]
 ];

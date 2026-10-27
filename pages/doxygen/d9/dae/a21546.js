@@ -1,8 +1,11 @@
 var a21546 =
 [
-    [ "HandleEffectRemove", "d9/dae/a21546.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "d9/dae/a21546.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "d9/dae/a21546.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "d9/dae/a21546.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "d9/dae/a21546.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "boss_archavonAI", "d9/dae/a21546.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "d9/dae/a21546.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "d9/dae/a21546.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "d9/dae/a21546.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "d9/dae/a21546.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "d9/dae/a21546.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "d9/dae/a21546.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "d9/dae/a21546.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

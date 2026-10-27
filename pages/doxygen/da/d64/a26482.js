@@ -1,7 +1,7 @@
 var a26482 =
 [
-    [ "OnRemove", "da/d64/a26482.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
-    [ "PrepareAuraScript", "da/d64/a26482.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
-    [ "Register", "da/d64/a26482.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
-    [ "Validate", "da/d64/a26482.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
+    [ "HandleDummy", "da/d64/a26482.html#a4dde221fa768ef5c6b99c981969f35fe", null ],
+    [ "PrepareSpellScript", "da/d64/a26482.html#a85333c5f493b70037bcc1a1d42e97e9c", null ],
+    [ "Register", "da/d64/a26482.html#acfafbf43e12f72131e58434051dcc510", null ],
+    [ "Validate", "da/d64/a26482.html#a73458b57dc107b3215cf5d44567d330f", null ]
 ];

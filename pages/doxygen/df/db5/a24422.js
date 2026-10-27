@@ -1,10 +1,17 @@
 var a24422 =
 [
-    [ "npc_pet_hunter_snake_trap", "df/db5/a24422.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "InitializeAI", "df/db5/a24422.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
-    [ "JustEngagedWith", "df/db5/a24422.html#a695af9c49daa05c787dac03c4af91645", null ],
-    [ "MoveInLineOfSight", "df/db5/a24422.html#a099a34f12399fe24349644da3dafe7a4", null ],
-    [ "UpdateAI", "df/db5/a24422.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_isViper", "df/db5/a24422.html#ab49c69ca25014ef63e775b236255e4c1", null ],
-    [ "_spellTimer", "df/db5/a24422.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_torloth_the_magnificentAI", "df/db5/a24422.html#ad34b85c80ebfb2332709c7ee21c053b7", null ],
+    [ "HandleAnimation", "df/db5/a24422.html#ab69f481e3871e5ce803ab1f389a2385c", null ],
+    [ "JustDied", "df/db5/a24422.html#aef9d2bcc04b8c1a54bf59f4744eba3ae", null ],
+    [ "JustEngagedWith", "df/db5/a24422.html#abf3fc3538e82fceaa916d4e217d6f9fd", null ],
+    [ "Reset", "df/db5/a24422.html#aa7944f80bb6718a65a07128be830ed94", null ],
+    [ "UpdateAI", "df/db5/a24422.html#ad5f7769462aa39fabb7ec5e79670cda1", null ],
+    [ "AggroTargetGUID", "df/db5/a24422.html#a826ecad9e9a06050a3ebc0861bf52c1e", null ],
+    [ "AnimationCount", "df/db5/a24422.html#afbe712b9e3dfe97417e1e621f4eff113", null ],
+    [ "AnimationTimer", "df/db5/a24422.html#a2485ad15002946c0c5b2ebce65221629", null ],
+    [ "LordIllidanGUID", "df/db5/a24422.html#ad135529fe083af2ce3e79823213d2735", null ],
+    [ "SpellTimer1", "df/db5/a24422.html#a991868074e39e2a4d06c37afc642a756", null ],
+    [ "SpellTimer2", "df/db5/a24422.html#a7da30509a017de1392cc3ba181a0dc53", null ],
+    [ "SpellTimer3", "df/db5/a24422.html#a0caf2b2d48c78b2eb032ff73168e2556", null ],
+    [ "Timers", "df/db5/a24422.html#a0eb0c24aff4cdab76d234ba17dbc4b5b", null ]
 ];

@@ -1,10 +1,10 @@
 var a24962 =
 [
-    [ "HandleEffectApply", "df/d37/a24962.html#ac977d07e0b054af33345538f10d80c56", null ],
-    [ "HandleEffectRemove", "df/d37/a24962.html#acd9c460acb60eae5db8874c246014147", null ],
-    [ "PrepareAuraScript", "df/d37/a24962.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
-    [ "Register", "df/d37/a24962.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
-    [ "_hasFlag", "df/d37/a24962.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
-    [ "_itemId", "df/d37/a24962.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
-    [ "_modelId", "df/d37/a24962.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
+    [ "CalculateAPAmount", "df/d37/a24962.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
+    [ "CalculateResistanceAmount", "df/d37/a24962.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
+    [ "CalculateSPAmount", "df/d37/a24962.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
+    [ "CalculateStatAmount", "df/d37/a24962.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
+    [ "HandleEffectApply", "df/d37/a24962.html#aeebb14424a6ae336edd4b66d824d648a", null ],
+    [ "PrepareAuraScript", "df/d37/a24962.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
+    [ "Register", "df/d37/a24962.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
 ];

@@ -1,10 +1,12 @@
 var a14710 =
 [
-    [ "npc_brewfest_super_brew_trigger", "d4/de3/a14710.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "d4/de3/a14710.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "d4/de3/a14710.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "d4/de3/a14710.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "d4/de3/a14710.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "d4/de3/a14710.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "d4/de3/a14710.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "npc_chained_spirit", "d4/de3/a14710.html#a5f407e700a2086f971bed0e8c0def0db", null ],
+    [ "DoAction", "d4/de3/a14710.html#a7205ef13ca0d164a9222c049bc582254", null ],
+    [ "JustDied", "d4/de3/a14710.html#a3b405503231173e7ff7aa52e34f63da5", null ],
+    [ "MovementInform", "d4/de3/a14710.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
+    [ "Reset", "d4/de3/a14710.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
+    [ "SetGUID", "d4/de3/a14710.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
+    [ "UpdateAI", "d4/de3/a14710.html#a38d14b69c71bf2902a916028580fbfad", null ],
+    [ "instance", "d4/de3/a14710.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
+    [ "revivePlayerGUID", "d4/de3/a14710.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
 ];

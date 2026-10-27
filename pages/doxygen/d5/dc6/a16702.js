@@ -1,6 +1,6 @@
 var a16702 =
 [
-    [ "HandleScript", "d5/dc6/a16702.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "d5/dc6/a16702.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "d5/dc6/a16702.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "boss_twilight_halionAI", "d4/d09/a16706.html", "d4/d09/a16706" ],
+    [ "boss_twilight_halion", "d5/dc6/a16702.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
+    [ "GetAI", "d5/dc6/a16702.html#a56842d74b16cbd5636649cbc643c50d8", null ]
 ];

@@ -1,6 +1,8 @@
 var a18970 =
 [
-    [ "HandleScript", "de/de7/a18970.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "de/de7/a18970.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "de/de7/a18970.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "npc_lk_spirit_bombAI", "de/de7/a18970.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "de/de7/a18970.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "de/de7/a18970.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "de/de7/a18970.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "de/de7/a18970.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

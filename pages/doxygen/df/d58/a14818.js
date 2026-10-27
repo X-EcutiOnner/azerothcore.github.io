@@ -1,11 +1,19 @@
 var a14818 =
 [
-    [ "npc_high_oracle_soo_roo", "df/d58/a14818.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
-    [ "MoveInLineOfSight", "df/d58/a14818.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
-    [ "Reset", "df/d58/a14818.html#a89a60a83a46e0095045b2353e50483ed", null ],
-    [ "UpdateAI", "df/d58/a14818.html#ac22cfa519e478da643a51ae887f306fd", null ],
-    [ "orphanGUID", "df/d58/a14818.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
-    [ "phase", "df/d58/a14818.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
-    [ "playerGUID", "df/d58/a14818.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
-    [ "timer", "df/d58/a14818.html#aa5238d3ee361374681947de874391a1f", null ]
+    [ "npc_dark_iron_guzzler", "df/d58/a14818.html#a53ce152d0bf8e727ed0b385bb2293363", null ],
+    [ "AttackStart", "df/d58/a14818.html#a47295b69eaecf3c001c43a1550dd1a80", null ],
+    [ "DamageTaken", "df/d58/a14818.html#affd1f78b5c1df26824b08416d6bd03a1", null ],
+    [ "FindNextKeg", "df/d58/a14818.html#ac063799097f89c09f30bed79151e8ed6", null ],
+    [ "GetTarget", "df/d58/a14818.html#a076305d37ce348b24b35f7956385e8fc", null ],
+    [ "JustEngagedWith", "df/d58/a14818.html#ae8142b745e493ab4a77b9df12ea9474d", null ],
+    [ "KilledUnit", "df/d58/a14818.html#a018513f23158fcd6f929a90cfecfde4c", null ],
+    [ "MoveInLineOfSight", "df/d58/a14818.html#aaa4df56f1f587029b24626ae1aca552a", null ],
+    [ "MovementInform", "df/d58/a14818.html#ada6c7f97e25eb545926d6531495bb397", null ],
+    [ "Reset", "df/d58/a14818.html#af608024d4b41fa218a7baeae9bee72ef", null ],
+    [ "SayText", "df/d58/a14818.html#a872bdd2e2ff2b72c983658c63d74e2c3", null ],
+    [ "SpellHit", "df/d58/a14818.html#ae195867416885e570c2c9a4837ac33c1", null ],
+    [ "UpdateAI", "df/d58/a14818.html#a5decab6f76369ec9ce037dd050898423", null ],
+    [ "attacking", "df/d58/a14818.html#a18a1d7e61b99819666366c6791154e01", null ],
+    [ "targetGUID", "df/d58/a14818.html#a620df1502373954020a910853cb6dd3a", null ],
+    [ "timer", "df/d58/a14818.html#a9748d587b61c148a27be690a6354473f", null ]
 ];

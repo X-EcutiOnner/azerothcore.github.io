@@ -1,11 +1,7 @@
 var a23194 =
 [
-    [ "boss_leotheras_the_blind", "da/db1/a23194.html#a9229850f996812366a20508931965a87", null ],
-    [ "AttackStart", "da/db1/a23194.html#a678ed3eba7d53976fd6efa9051d11124", null ],
-    [ "DemonTime", "da/db1/a23194.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
-    [ "DoAction", "da/db1/a23194.html#a4f3fd791f12b3f176ce109237c516889", null ],
-    [ "ElfTime", "da/db1/a23194.html#a52f101530de8883231faa7f5fe689691", null ],
-    [ "MoveToTargetIfOutOfRange", "da/db1/a23194.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
-    [ "Reset", "da/db1/a23194.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "da/db1/a23194.html#a89deeb1888046d1f4756bcb6447d8f0d", null ]
+    [ "HandleEffectApply", "da/db1/a23194.html#a5857dbdb088de67cc15717dca0c5f7b5", null ],
+    [ "HandleEffectRemove", "da/db1/a23194.html#aab0536f7f73d9e354a526f56f587fff0", null ],
+    [ "PrepareAuraScript", "da/db1/a23194.html#a80a6b51bc6c1457edc0fb8a0089513d1", null ],
+    [ "Register", "da/db1/a23194.html#a194ff31e6168bca23881f3804154d479", null ]
 ];

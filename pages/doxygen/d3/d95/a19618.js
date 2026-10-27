@@ -1,10 +1,6 @@
 var a19618 =
 [
-    [ "boss_patchwerkAI", "d3/d95/a19618.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "d3/d95/a19618.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "d3/d95/a19618.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "d3/d95/a19618.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "d3/d95/a19618.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "d3/d95/a19618.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "d3/d95/a19618.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "npc_boss_gothik_minionAI", "dd/d8b/a19622.html", "dd/d8b/a19622" ],
+    [ "npc_boss_gothik_minion", "d3/d95/a19618.html#a6cabeae812639ac179133245d85a0e15", null ],
+    [ "GetAI", "d3/d95/a19618.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
 ];

@@ -1,5 +1,6 @@
 var a24274 =
 [
-    [ "npc_shattrath_daily_quest", "d2/d1c/a24274.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "d2/d1c/a24274.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "go_beaconAI", "d2/d1c/a24274.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "d2/d1c/a24274.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "_whelpGUIDs", "d2/d1c/a24274.html#a083094ececd327c833649da6a755c635", null ]
 ];

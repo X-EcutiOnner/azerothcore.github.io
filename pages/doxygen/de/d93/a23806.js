@@ -1,6 +1,8 @@
 var a23806 =
 [
-    [ "HandleCast", "de/d93/a23806.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "de/d93/a23806.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "de/d93/a23806.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "de/d93/a23806.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "de/d93/a23806.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "de/d93/a23806.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "de/d93/a23806.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "de/d93/a23806.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

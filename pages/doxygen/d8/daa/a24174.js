@@ -1,14 +1,14 @@
 var a24174 =
 [
-    [ "npc_mature_netherwing_drakeAI", "d8/daa/a24174.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
-    [ "JustReachedHome", "d8/daa/a24174.html#a0de69b5fda6342217697ad264d64d4e6", null ],
-    [ "MovementInform", "d8/daa/a24174.html#a456b5de60672120f82506d177faf6b47", null ],
-    [ "Reset", "d8/daa/a24174.html#a72eb39e259aed0ab230d4d43722cba13", null ],
-    [ "SpellHit", "d8/daa/a24174.html#a749690b386c0c726d11b77bc705b9b01", null ],
-    [ "UpdateAI", "d8/daa/a24174.html#a624c256f29d3cefed0bb909da3841853", null ],
-    [ "bCanEat", "d8/daa/a24174.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
-    [ "bIsEating", "d8/daa/a24174.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
-    [ "CastTimer", "d8/daa/a24174.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
-    [ "EatTimer", "d8/daa/a24174.html#aa50d3a21103dc769d162b1c917100630", null ],
-    [ "uiPlayerGUID", "d8/daa/a24174.html#a6b9a435245ddce156d0657aa9e35175b", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d8/daa/a24174.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "d8/daa/a24174.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "d8/daa/a24174.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "d8/daa/a24174.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "d8/daa/a24174.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "d8/daa/a24174.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "d8/daa/a24174.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "d8/daa/a24174.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "d8/daa/a24174.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "d8/daa/a24174.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "d8/daa/a24174.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

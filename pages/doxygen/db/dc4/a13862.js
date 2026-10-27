@@ -1,9 +1,9 @@
 var a13862 =
 [
-    [ "boss_entropius", "db/dc4/a13862.html#a458deaa80c9694cd2608150bc5519c76", null ],
-    [ "EnterEvadeMode", "db/dc4/a13862.html#a01889b192525af082471d092bff28c88", null ],
-    [ "JustDied", "db/dc4/a13862.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
-    [ "JustEngagedWith", "db/dc4/a13862.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
-    [ "Reset", "db/dc4/a13862.html#ad9da990a540703d38cb45dd2da72c179", null ],
-    [ "UpdateAI", "db/dc4/a13862.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
+    [ "npc_demonic_vapor_trail", "db/dc4/a13862.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "db/dc4/a13862.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "db/dc4/a13862.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "db/dc4/a13862.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "db/dc4/a13862.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "db/dc4/a13862.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

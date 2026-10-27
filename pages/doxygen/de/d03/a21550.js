@@ -1,6 +1,7 @@
 var a21550 =
 [
-    [ "npc_sinkhole_kill_creditAI", "d9/da7/a21554.html", "d9/da7/a21554" ],
-    [ "npc_sinkhole_kill_credit", "de/d03/a21550.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "de/d03/a21550.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "HandleScript", "de/d03/a21550.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "de/d03/a21550.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "de/d03/a21550.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "de/d03/a21550.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

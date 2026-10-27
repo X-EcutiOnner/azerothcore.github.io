@@ -1,5 +1,5 @@
 var a13298 =
 [
-    [ "at_karazhan_mirkblood_entrance", "d5/d21/a13298.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
-    [ "OnTrigger", "d5/d21/a13298.html#ad99c85de36a369752fa61bab761a402e", null ]
+    [ "npc_chess_move_trigger", "d5/d21/a13298.html#a6c0c37677db45ee11ebe158893d99632", null ],
+    [ "DamageTaken", "d5/d21/a13298.html#af413c7af2254c1cc06462b2a62ac88db", null ]
 ];

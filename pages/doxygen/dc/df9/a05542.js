@@ -1,25 +1,17 @@
 var a05542 =
 [
-    [ "Record", "d1/d22/a05546.html", "d1/d22/a05546" ],
-    [ "DBCFileLoader", "dc/df9/a05542.html#a99ba418c63c49cf9a028626b8e282a01", null ],
-    [ "~DBCFileLoader", "dc/df9/a05542.html#a2e8dd3e5d88b870ea01e0c8dbfa55acd", null ],
-    [ "DBCFileLoader", "dc/df9/a05542.html#a2e75536e8df1449449b4b6fe5585074d", null ],
-    [ "AutoProduceData", "dc/df9/a05542.html#af8810dd9cef9ed82036bbebb4c938521", null ],
-    [ "AutoProduceStrings", "dc/df9/a05542.html#a12054e13d90636076ce04587aacf8ff6", null ],
-    [ "GetCols", "dc/df9/a05542.html#a3c536a9333a06213a37c95087eaaf8e3", null ],
-    [ "GetFormatRecordSize", "dc/df9/a05542.html#acbca26ec315c5f6ea59c9f1cbd70c376", null ],
-    [ "GetNumRows", "dc/df9/a05542.html#aeedb51dd9b316063a58a989b175d0bc5", null ],
-    [ "GetOffset", "dc/df9/a05542.html#ae624604ad0cdae8d3eb7212630a33613", null ],
-    [ "getRecord", "dc/df9/a05542.html#ac4b1c79585f63f53f6d48db235732e20", null ],
-    [ "GetRowSize", "dc/df9/a05542.html#af322bc9e92472463998ca8082c5da3d6", null ],
-    [ "IsLoaded", "dc/df9/a05542.html#a28bf265dafc284e9edb55fc1ed261694", null ],
-    [ "Load", "dc/df9/a05542.html#a0fb54606f89f93db180c507082d64bd3", null ],
-    [ "operator=", "dc/df9/a05542.html#ac2b0f30fb125b8dae385ca8330d02e8b", null ],
-    [ "data", "dc/df9/a05542.html#a137152d873bfa3cb2d3860fe6001f404", null ],
-    [ "fieldCount", "dc/df9/a05542.html#a920472d71232fa759bce768fdca9a1c4", null ],
-    [ "fieldsOffset", "dc/df9/a05542.html#a7aa68d259f6295df3029456bde143862", null ],
-    [ "recordCount", "dc/df9/a05542.html#a1a17426b679598ee27363e897b40f2bf", null ],
-    [ "recordSize", "dc/df9/a05542.html#ab4f28de7c57a6e25c715bb009ed5f701", null ],
-    [ "stringSize", "dc/df9/a05542.html#a0761727ba38d899f337c733873742d69", null ],
-    [ "stringTable", "dc/df9/a05542.html#a5961bf01316cc14a075c1b874000e8a2", null ]
+    [ "Reloadable", "dc/df9/a05542.html#a5ce3ea201b2a7f6bc16e5594e001680b", [
+      [ "No", "dc/df9/a05542.html#a5ce3ea201b2a7f6bc16e5594e001680babafd7322c6e97d25b6299b5d6fe8920b", null ],
+      [ "Yes", "dc/df9/a05542.html#a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435", null ]
+    ] ],
+    [ "ConfigValueCache", "dc/df9/a05542.html#afc10aa10787175aac1155ab576c44868", null ],
+    [ "BuildConfigCache", "dc/df9/a05542.html#a8e49c987c471c98f707ffc8c697d959d", null ],
+    [ "GetConfigValue", "dc/df9/a05542.html#a274d23acbfb0b10d6b1482bf37b41b0c", null ],
+    [ "GetConfigValue", "dc/df9/a05542.html#a9a3a6bb71fd3c695625d5dc64525fb51", null ],
+    [ "Initialize", "dc/df9/a05542.html#a3645d00d7d88bac526ab2da095e2893e", null ],
+    [ "OverwriteConfigValue", "dc/df9/a05542.html#a38f4fd18a5b1bcf1a87736b6e7bf52cf", null ],
+    [ "SetConfigValue", "dc/df9/a05542.html#a2fd376bdf015db27133e636c3051410f", null ],
+    [ "VerifyAllConfigsLoaded", "dc/df9/a05542.html#a69bceb7d8f714b478dfe6e6aea29c65a", null ],
+    [ "_configs", "dc/df9/a05542.html#aaca9aa5722cca588ed3149dc5b5098f3", null ],
+    [ "_reloading", "dc/df9/a05542.html#a70b2a229ff1caa9924f404f5b98cf801", null ]
 ];

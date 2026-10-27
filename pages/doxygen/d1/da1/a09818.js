@@ -1,8 +1,8 @@
 var a09818 =
 [
-    [ "AnyAssistCreatureInRangeCheck", "d1/da1/a09818.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
-    [ "operator()", "d1/da1/a09818.html#a314a4800047f7e661cd011010b3f148e", null ],
-    [ "i_enemy", "d1/da1/a09818.html#a37318ae783e6cf4a658063aab149e8a3", null ],
-    [ "i_funit", "d1/da1/a09818.html#add1071091d1696c3f537483810dcb6f1", null ],
-    [ "i_range", "d1/da1/a09818.html#a4bcf67be5bae4649d82586349d30be04", null ]
+    [ "NearestGameObjectFishingHole", "d1/da1/a09818.html#ab0e4734202edf26b69881ab85abe1d93", null ],
+    [ "NearestGameObjectFishingHole", "d1/da1/a09818.html#a256c64e6c82d98349b958647d98bf4ce", null ],
+    [ "operator()", "d1/da1/a09818.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
+    [ "i_obj", "d1/da1/a09818.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
+    [ "i_range", "d1/da1/a09818.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
 ];

@@ -1,16 +1,13 @@
 var a14338 =
 [
-    [ "boss_halazzi", "dc/d1b/a14338.html#aed961a9e12b44dfd97bd31c981184be5", null ],
-    [ "AttackStart", "dc/d1b/a14338.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
-    [ "DamageTaken", "dc/d1b/a14338.html#aaa698dfa4d4a991968eebee3330e967a", null ],
-    [ "DoAction", "dc/d1b/a14338.html#a1685c7c99a797ec332b67797a294d83a", null ],
-    [ "EnterPhase", "dc/d1b/a14338.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
-    [ "JustDied", "dc/d1b/a14338.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
-    [ "JustEngagedWith", "dc/d1b/a14338.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
-    [ "JustSummoned", "dc/d1b/a14338.html#a152267cb31912106443ceea9488fee0a", null ],
-    [ "KilledUnit", "dc/d1b/a14338.html#a4d69fa8e754f823a599c52e227361600", null ],
-    [ "Reset", "dc/d1b/a14338.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
-    [ "SpellHit", "dc/d1b/a14338.html#a36141673391a423174db874ca425ea07", null ],
-    [ "_phase", "dc/d1b/a14338.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
-    [ "_transformCount", "dc/d1b/a14338.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "dc/d1b/a14338.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
+    [ "JustDied", "dc/d1b/a14338.html#a410c84a1fcf50b50e6ebc340c1b58939", null ],
+    [ "JustEngagedWith", "dc/d1b/a14338.html#a36324482fb264cc3cacf11c3ed542eee", null ],
+    [ "JustSummoned", "dc/d1b/a14338.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
+    [ "Reset", "dc/d1b/a14338.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
+    [ "SetGUID", "dc/d1b/a14338.html#a10ecf7bf7551be186e1c00390eaad203", null ],
+    [ "UpdateAI", "dc/d1b/a14338.html#ab704e4f3af8aa734910efd259db31407", null ],
+    [ "_events", "dc/d1b/a14338.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
+    [ "LamentEvent", "dc/d1b/a14338.html#ace9e901a965665e0f97cb9646af308aa", null ],
+    [ "playerGUID", "dc/d1b/a14338.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
 ];

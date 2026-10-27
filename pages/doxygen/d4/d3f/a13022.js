@@ -1,8 +1,14 @@
 var a13022 =
 [
-    [ "boss_garr", "d4/d3f/a13022.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
-    [ "JustEngagedWith", "d4/d3f/a13022.html#abab82d2e00b373ea1f0e444de23f4987", null ],
-    [ "Reset", "d4/d3f/a13022.html#a64bcae059cfa97def7e52a42d404a016", null ],
-    [ "UpdateAI", "d4/d3f/a13022.html#a2a412224072b47de6780ea7b8d543743", null ],
-    [ "massEruptionTimer", "d4/d3f/a13022.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
+    [ "boss_chromaggus", "d4/d3f/a13022.html#a2da694ece234807365ce4f22e067eb5c", null ],
+    [ "CanAIAttack", "d4/d3f/a13022.html#aed1d8ef49450c5495045bd62f0f3e2e6", null ],
+    [ "Initialize", "d4/d3f/a13022.html#ac8d72d4c3b265abca798c9ddc166df3b", null ],
+    [ "JustEngagedWith", "d4/d3f/a13022.html#a7a9e301d17657ace82b4243814cbb52c", null ],
+    [ "PathEndReached", "d4/d3f/a13022.html#a790a3e06fb4db275bb447b15bb838508", null ],
+    [ "Reset", "d4/d3f/a13022.html#a003db2053b634c969499d45f7f65be6e", null ],
+    [ "SetGUID", "d4/d3f/a13022.html#afec7a40681ff89c4712bc50b7bc49d6a", null ],
+    [ "UpdateAI", "d4/d3f/a13022.html#abc27a22d82555fe3301708e9aaa61997", null ],
+    [ "_breathSpells", "d4/d3f/a13022.html#a5d46c6903fd106fd83f8115b48d40cf9", null ],
+    [ "_playerGUID", "d4/d3f/a13022.html#a3c04a19e87a122c12508e181319411a0", null ],
+    [ "Enraged", "d4/d3f/a13022.html#a4c19a112decabb38f1bca7dc60d622ef", null ]
 ];

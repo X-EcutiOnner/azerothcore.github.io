@@ -1,6 +1,7 @@
 var a22990 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "dc/d0a/a22990.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "dc/d0a/a22990.html#a2220bc31f2ef91a154a9a4eae38aa14b", null ],
-    [ "UpdateAI", "dc/d0a/a22990.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "HandleDummy", "dc/d0a/a22990.html#af5ac581f7d471300fba2c23548037eea", null ],
+    [ "PrepareSpellScript", "dc/d0a/a22990.html#adda61c05b544b52d98af5b7a76d4f808", null ],
+    [ "Register", "dc/d0a/a22990.html#a270a64dffdce230d97515f116ec49706", null ],
+    [ "Validate", "dc/d0a/a22990.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
 ];

@@ -1,11 +1,8 @@
 var a10470 =
 [
-    [ "EffectMovementGenerator", "da/d14/a10470.html#a5b00ae06964d5c572bf2c6d14c82147e", null ],
-    [ "Finalize", "da/d14/a10470.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
-    [ "GetMovementGeneratorType", "da/d14/a10470.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
-    [ "Initialize", "da/d14/a10470.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
-    [ "Reset", "da/d14/a10470.html#a9627573a7206e12ff469e8e6e076862b", null ],
-    [ "Update", "da/d14/a10470.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
-    [ "i_spline", "da/d14/a10470.html#a35b92e440aa2af623f62d4fe8ecf216e", null ],
-    [ "m_Id", "da/d14/a10470.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
+    [ "AbstractFollower", "da/d14/a10470.html#a08d292896f2419dd73ae68c8e1238d4b", null ],
+    [ "~AbstractFollower", "da/d14/a10470.html#acb394f5326ab5ea5146c79788a085647", null ],
+    [ "GetTarget", "da/d14/a10470.html#a43f037557454528a956c379d9efb42ac", null ],
+    [ "SetTarget", "da/d14/a10470.html#ad49748abec4bb2fe06cc8ba2699bdbd0", null ],
+    [ "_target", "da/d14/a10470.html#aa4e43d8e60442eee41398648fd7fd45d", null ]
 ];

@@ -1,7 +1,6 @@
 var a27082 =
 [
-    [ "HandleEffectPeriodic", "d2/d4a/a27082.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
-    [ "PrepareAuraScript", "d2/d4a/a27082.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
-    [ "Register", "d2/d4a/a27082.html#ac3741617faacf83a707f1359aab1886e", null ],
-    [ "Validate", "d2/d4a/a27082.html#a9378252b6711cc0bec3e63efce026495", null ]
+    [ "HandleAfterHit", "d2/d4a/a27082.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
+    [ "PrepareSpellScript", "d2/d4a/a27082.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
+    [ "Register", "d2/d4a/a27082.html#a2a780069022e62b14992a7b69626ac3d", null ]
 ];

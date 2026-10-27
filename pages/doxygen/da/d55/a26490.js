@@ -1,7 +1,7 @@
 var a26490 =
 [
-    [ "HandleKnockBack", "da/d55/a26490.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
-    [ "PrepareSpellScript", "da/d55/a26490.html#ab951d6403188f178f79311cead8a0a8f", null ],
-    [ "Register", "da/d55/a26490.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
-    [ "Validate", "da/d55/a26490.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
+    [ "HandleDummy", "da/d55/a26490.html#a787b5b1c0d0687bad944452c678f33b9", null ],
+    [ "Load", "da/d55/a26490.html#a8d7e2821f74443292c43c40bbfb9ed92", null ],
+    [ "PrepareSpellScript", "da/d55/a26490.html#a79dcac5234ca195488e647a280806e69", null ],
+    [ "Register", "da/d55/a26490.html#ae9cbe89924c2578bb1ed21a55a48cf6b", null ]
 ];

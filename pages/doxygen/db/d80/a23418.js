@@ -1,7 +1,6 @@
 var a23418 =
 [
-    [ "npc_underbog_mushroom", "db/d80/a23418.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "db/d80/a23418.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "db/d80/a23418.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "db/d80/a23418.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "HandleDummy", "db/d80/a23418.html#a3347413822ce083085bcf1418fbdbae2", null ],
+    [ "PrepareSpellScript", "db/d80/a23418.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
+    [ "Register", "db/d80/a23418.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
 ];

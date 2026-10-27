@@ -1,8 +1,6 @@
 var a22634 =
 [
-    [ "boss_pandemonius", "d6/d4a/a22634.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "d6/d4a/a22634.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "d6/d4a/a22634.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "d6/d4a/a22634.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "d6/d4a/a22634.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "CheckCast", "d6/d4a/a22634.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
+    [ "PrepareSpellScript", "d6/d4a/a22634.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
+    [ "Register", "d6/d4a/a22634.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
 ];

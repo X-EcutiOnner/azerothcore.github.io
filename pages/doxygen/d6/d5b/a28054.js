@@ -1,5 +1,7 @@
 var a28054 =
 [
-    [ "AreaTrigger_at_last_rites", "d6/d5b/a28054.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "d6/d5b/a28054.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "FilterTargets", "d6/d5b/a28054.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "d6/d5b/a28054.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "d6/d5b/a28054.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "d6/d5b/a28054.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

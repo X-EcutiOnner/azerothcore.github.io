@@ -1,8 +1,8 @@
 var a22230 =
 [
-    [ "CheckCast", "de/da4/a22230.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "de/da4/a22230.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "de/da4/a22230.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "de/da4/a22230.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "de/da4/a22230.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "FilterTargets", "de/da4/a22230.html#aa78b0121f4c30f69d51695b2f5e74eb6", null ],
+    [ "HandleScript", "de/da4/a22230.html#a588bcf6f271491dc42eb8455fe594aea", null ],
+    [ "PrepareSpellScript", "de/da4/a22230.html#a0e1998798f47ebdccdc649925967be47", null ],
+    [ "Register", "de/da4/a22230.html#adc24d17bdeaeb30b9304ed5e2365414f", null ],
+    [ "Validate", "de/da4/a22230.html#a4f11c9bd5563529e6b62db239a1ce1b7", null ]
 ];

@@ -1,7 +1,6 @@
 var a22330 =
 [
-    [ "HandleScript", "da/d45/a22330.html#ad38771460ddf0f95783718775690d1f0", null ],
-    [ "PrepareSpellScript", "da/d45/a22330.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
-    [ "Register", "da/d45/a22330.html#a3ba23fd54c35c2d2866db647811c948d", null ],
-    [ "Validate", "da/d45/a22330.html#a6a58808356785c25032c2befd429ff2b", null ]
+    [ "ChangeSummonPos", "da/d45/a22330.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "da/d45/a22330.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "da/d45/a22330.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

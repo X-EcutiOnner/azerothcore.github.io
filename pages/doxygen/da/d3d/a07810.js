@@ -1,9 +1,10 @@
 var a07810 =
 [
-    [ "entry", "da/d3d/a07810.html#a2238cabe763a588a5572611e0aefe6ba", null ],
-    [ "o", "da/d3d/a07810.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
-    [ "type", "da/d3d/a07810.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
-    [ "x", "da/d3d/a07810.html#a616d422b4e8c99ec3285a87f553d4091", null ],
-    [ "y", "da/d3d/a07810.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
-    [ "z", "da/d3d/a07810.html#a78cff0661e6d9440574306ec01389d42", null ]
+    [ "SelectionPool", "da/d3d/a07810.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "da/d3d/a07810.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "da/d3d/a07810.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "da/d3d/a07810.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "da/d3d/a07810.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "da/d3d/a07810.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "da/d3d/a07810.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

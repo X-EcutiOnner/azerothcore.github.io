@@ -1,5 +1,8 @@
 var a28250 =
 [
-    [ "go_tablet_of_the_seven", "d1/daa/a28250.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "d1/daa/a28250.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "CharacterActionIpLogger", "d1/daa/a28250.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "d1/daa/a28250.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnPlayerCreate", "d1/daa/a28250.html#a48844efac9d9af9c6415ad49d2473688", null ],
+    [ "OnPlayerLogin", "d1/daa/a28250.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
+    [ "OnPlayerLogout", "d1/daa/a28250.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
 ];

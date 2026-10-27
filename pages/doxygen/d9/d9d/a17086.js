@@ -1,6 +1,7 @@
 var a17086 =
 [
-    [ "boss_dreadscaleAI", "de/d85/a17090.html", "de/d85/a17090" ],
-    [ "boss_dreadscale", "d9/d9d/a17086.html#ab3276e515419303358b0ee59bc92c12e", null ],
-    [ "GetAI", "d9/d9d/a17086.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
+    [ "npc_toc_warriorAI", "d9/d9d/a17086.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
+    [ "myCanCast", "d9/d9d/a17086.html#ac815e13cbbe9a8833330e15213420c65", null ],
+    [ "UpdateAI", "d9/d9d/a17086.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
+    [ "events", "d9/d9d/a17086.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
 ];

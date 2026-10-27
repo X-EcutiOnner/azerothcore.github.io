@@ -1,6 +1,8 @@
 var a10298 =
 [
-    [ "UpdateRequest", "d5/d5b/a10298.html#a23b3dbcff54691b2710109a822a486a0", null ],
-    [ "~UpdateRequest", "d5/d5b/a10298.html#a240bdc56685c270c597588231c3bf8f8", null ],
-    [ "call", "d5/d5b/a10298.html#a8221fa415f828a4866f85f3983f7dab9", null ]
+    [ "EllipseBoundary", "d5/d5b/a10298.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "d5/d5b/a10298.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "d5/d5b/a10298.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "d5/d5b/a10298.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "d5/d5b/a10298.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

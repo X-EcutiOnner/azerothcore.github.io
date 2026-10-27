@@ -1,22 +1,13 @@
 var a05430 =
 [
-    [ "WmoLiquid", "d4/de8/a05430.html#a260246db4d77ec6490e164359a99d78d", null ],
-    [ "WmoLiquid", "d4/de8/a05430.html#acfe274d06450c40475a499178f8175cb", null ],
-    [ "~WmoLiquid", "d4/de8/a05430.html#a7e7ec569e5d10c9d5fdba43bfddf4233", null ],
-    [ "WmoLiquid", "d4/de8/a05430.html#af5142dee41d1e9d3e6a9aa06f5bd26d3", null ],
-    [ "GetFileSize", "d4/de8/a05430.html#a3d61f521e6946002c2f2feac29990372", null ],
-    [ "GetFlagsStorage", "d4/de8/a05430.html#ab687769751c9d17d11805a6cd6fdd859", null ],
-    [ "GetHeightStorage", "d4/de8/a05430.html#a684771989847a5e67232a643245c609f", null ],
-    [ "GetLiquidHeight", "d4/de8/a05430.html#a682d2297a5bb7116f3100dc1318b51bc", null ],
-    [ "GetPosInfo", "d4/de8/a05430.html#ad23b901e2fda90b2c5fe8cd573cf14f1", null ],
-    [ "GetType", "d4/de8/a05430.html#a76a22c1edffc043aaac20564c2c832db", null ],
-    [ "operator=", "d4/de8/a05430.html#a8af1f2fc4a75b3baa65a478400248a7a", null ],
-    [ "readFromFile", "d4/de8/a05430.html#a86a76dc13130581b32ad1f11c6337e51", null ],
-    [ "writeToFile", "d4/de8/a05430.html#ae967557a94887ba57a66a89c1720008e", null ],
-    [ "iCorner", "d4/de8/a05430.html#a15fceab148716e91732e9a286186059d", null ],
-    [ "iFlags", "d4/de8/a05430.html#a773994f9887a6f0d763258ef51fdd97d", null ],
-    [ "iHeight", "d4/de8/a05430.html#a4096781f6ec886953db9f08ccb4bfc18", null ],
-    [ "iTilesX", "d4/de8/a05430.html#a5c75de17db5c782f9d6a42ac545cfa75", null ],
-    [ "iTilesY", "d4/de8/a05430.html#a0c9af1171f2182d5d68234814ecadd4a", null ],
-    [ "iType", "d4/de8/a05430.html#a2c396a3abf92043c928ab0611d552102", null ]
+    [ "GroupModel_Raw", "d4/de8/a05430.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
+    [ "~GroupModel_Raw", "d4/de8/a05430.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
+    [ "Read", "d4/de8/a05430.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
+    [ "bounds", "d4/de8/a05430.html#a830d79fdd2f21164bd805051352a3aa8", null ],
+    [ "GroupWMOID", "d4/de8/a05430.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
+    [ "liquid", "d4/de8/a05430.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
+    [ "liquidflags", "d4/de8/a05430.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
+    [ "mogpflags", "d4/de8/a05430.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
+    [ "triangles", "d4/de8/a05430.html#af692734697f525672027f251addebe6d", null ],
+    [ "vertexArray", "d4/de8/a05430.html#ad73c215408218900973df4dbdd8fcd18", null ]
 ];
