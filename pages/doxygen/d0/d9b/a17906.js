@@ -1,6 +1,6 @@
 var a17906 =
 [
-    [ "PrepareSpellScript", "d0/d9b/a17906.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d0/d9b/a17906.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d0/d9b/a17906.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "FilterTargets", "d0/d9b/a17906.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
+    [ "PrepareSpellScript", "d0/d9b/a17906.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
+    [ "Register", "d0/d9b/a17906.html#add40d7731b07b30b595f76f7d4e983f4", null ]
 ];

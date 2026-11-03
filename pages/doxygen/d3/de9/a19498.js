@@ -1,5 +1,9 @@
 var a19498 =
 [
-    [ "creatureEntry", "d3/de9/a19498.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "d3/de9/a19498.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "npc_isle_of_conquest_turretAI", "d3/de9/a19498.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "d3/de9/a19498.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "d3/de9/a19498.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "d3/de9/a19498.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "d3/de9/a19498.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "d3/de9/a19498.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

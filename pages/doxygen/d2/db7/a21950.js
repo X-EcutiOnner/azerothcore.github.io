@@ -1,6 +1,6 @@
 var a21950 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "dc/dde/a21954.html", "dc/dde/a21954" ],
-    [ "npc_injured_7th_legion_soldier", "d2/db7/a21950.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "d2/db7/a21950.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "npc_heated_battleAI", "dc/dde/a21954.html", "dc/dde/a21954" ],
+    [ "npc_heated_battle", "d2/db7/a21950.html#aceafde04a60940c1027a6e838ffdc137", null ],
+    [ "GetAI", "d2/db7/a21950.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
 ];

@@ -1,6 +1,6 @@
 var a17806 =
 [
-    [ "boss_prince_kelesethAI", "d0/d49/a17810.html", "d0/d49/a17810" ],
-    [ "boss_prince_keleseth_icc", "de/dcb/a17806.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "de/dcb/a17806.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "npc_blood_queen_lana_thelAI", "d0/d49/a17810.html", "d0/d49/a17810" ],
+    [ "npc_blood_queen_lana_thel", "de/dcb/a17806.html#a39adef3ae54efd4433805bd8ad4719be", null ],
+    [ "GetAI", "de/dcb/a17806.html#a02d928ac4ef1704cee2498ebe6533561", null ]
 ];

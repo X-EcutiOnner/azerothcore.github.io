@@ -1,44 +1,12 @@
 var a01295 =
 [
-    [ "AzjolNerubScriptName", "d2/d68/a01295.html#a49c3c3627ce229fce6b1f55755bcb7d7", null ],
-    [ "DataHeader", "d2/d68/a01295.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAzjolNerubCreatureAI", "d2/d68/a01295.html#a4a60f3abea9a1edadc00e60726067bba", null ],
-    [ "ANActions", "d2/d68/a01295.html#a353c804af4bd1bd2a5d5193704607689", [
-      [ "ACTION_MINION_DIED", "d2/d68/a01295.html#a353c804af4bd1bd2a5d5193704607689a185e4f622f3b411d7980209389e63777", null ]
-    ] ],
-    [ "ANData", "d2/d68/a01295.html#a38e14ca59c29a20c7d83feecae87365e", [
-      [ "DATA_KRIKTHIR", "d2/d68/a01295.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c", null ],
-      [ "DATA_HADRONOX", "d2/d68/a01295.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8", null ],
-      [ "DATA_ANUBARAK", "d2/d68/a01295.html#a38e14ca59c29a20c7d83feecae87365ea635a7e23dc02368d27e70d3dd833bdbf", null ],
-      [ "MAX_ENCOUNTERS", "d2/d68/a01295.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ],
-      [ "DATA_GASHRA", "d2/d68/a01295.html#a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f", null ],
-      [ "DATA_NARJIL", "d2/d68/a01295.html#a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6", null ],
-      [ "DATA_SILTHIK", "d2/d68/a01295.html#a38e14ca59c29a20c7d83feecae87365ea8cfb18f4044960fc20ceb21676d64eb2", null ]
-    ] ],
-    [ "ANIds", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eb", [
-      [ "NPC_WATCHER_NARJIL", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f", null ],
-      [ "NPC_WATCHER_GASHRA", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8", null ],
-      [ "NPC_WATCHER_SILTHIK", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08", null ],
-      [ "NPC_ANUBAR_SKIRMISHER", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080ebaab6881c6b204dd808545bca2050e3fcf", null ],
-      [ "NPC_ANUBAR_SHADOWCASTER", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080ebacc327c02c47a2a2ad6994c7c87132127", null ],
-      [ "NPC_ANUBAR_WARRIOR", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba0e94bdd3b8ef0aba807bba8e440a07ca", null ],
-      [ "NPC_SKITTERING_SWARMER", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429", null ],
-      [ "NPC_SKITTERING_INFECTIOR", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b", null ],
-      [ "NPC_KRIKTHIR_THE_GATEWATCHER", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],
-      [ "NPC_HADRONOX", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a", null ],
-      [ "NPC_ANUBARAK", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba9ccdc8bccffd48df50721fc98c1b6bc3", null ],
-      [ "NPC_WORLD_TRIGGER_LAOI", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba8ad05c18f75770b596b6a87987d4ecdd", null ],
-      [ "NPC_ANUB_AR_CHAMPION", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc", null ],
-      [ "NPC_ANUB_AR_NECROMANCER", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea", null ],
-      [ "NPC_ANUB_AR_CRYPTFIEND", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c", null ],
-      [ "NPC_ANUB_AR_CHAMPION_LOWER", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba3b8eaddabbf87a1060d0a78643954f41", null ],
-      [ "NPC_ANUB_AR_CRYPT_FIEND_LOWER", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba87021af661ad301b9b0a8e2a9f4c5b13", null ],
-      [ "NPC_ANUB_AR_NECROMANCER_LOWER", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba2a706dfefef7b3b194db9a989b8c6a2c", null ],
-      [ "GO_KRIKTHIR_DOORS", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b", null ],
-      [ "GO_ANUBARAK_DOORS1", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316", null ],
-      [ "GO_ANUBARAK_DOORS2", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc", null ],
-      [ "GO_ANUBARAK_DOORS3", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0", null ],
-      [ "SPELL_WEB_WRAP_TRIGGER", "d2/d68/a01295.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b", null ]
-    ] ],
-    [ "GetAzjolNerubAI", "d2/d68/a01295.html#a19b3f42ba299e1f42de805f494cd5812", null ]
+    [ "WorldObjectScript", "da/db8/a10982.html", "da/db8/a10982" ],
+    [ "WorldObjectHook", "d2/d68/a01295.html#ab8a14556853bd2637a19973d68ba6d1c", [
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_DESTROY", "d2/d68/a01295.html#ab8a14556853bd2637a19973d68ba6d1ca19911e8e8d81b83808647214673201ce", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_CREATE", "d2/d68/a01295.html#ab8a14556853bd2637a19973d68ba6d1caa4f7a14c3e5de3e6ace4c9a4bacc656c", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_SET_MAP", "d2/d68/a01295.html#ab8a14556853bd2637a19973d68ba6d1ca06f900f1b11de87d54d283b4433d5100", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_RESET_MAP", "d2/d68/a01295.html#ab8a14556853bd2637a19973d68ba6d1cac1f7c2d5eb2a8755ef8e628c8c769241", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_UPDATE", "d2/d68/a01295.html#ab8a14556853bd2637a19973d68ba6d1ca7fcc241c6d7db7844d86f1d88fb06144", null ],
+      [ "WORLDOBJECTHOOK_END", "d2/d68/a01295.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59", null ]
+    ] ]
 ];

@@ -1,10 +1,6 @@
 var a19758 =
 [
-    [ "boss_razuvious_minionAI", "da/dbf/a19758.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "da/dbf/a19758.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "da/dbf/a19758.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "da/dbf/a19758.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "da/dbf/a19758.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "da/dbf/a19758.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "da/dbf/a19758.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "boss_thaddius_summonAI", "d8/d14/a19762.html", "d8/d14/a19762" ],
+    [ "boss_thaddius_summon", "da/dbf/a19758.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "da/dbf/a19758.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

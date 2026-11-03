@@ -1,12 +1,5 @@
 var a10854 =
 [
-    [ "DatabaseScript", "d7/dfc/a10854.html#a323ab8c4dc1e4c2501eeb833ce89ab87", null ],
-    [ "IsDatabaseBound", "d7/dfc/a10854.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
-    [ "OnAfterDatabaseLoadCreatureTemplates", "d7/dfc/a10854.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
-    [ "OnAfterDatabasesLoaded", "d7/dfc/a10854.html#ab52afc833cb462693f5e0d79cff6bb3f", null ],
-    [ "OnDatabaseGetDBRevision", "d7/dfc/a10854.html#a61dba3526358f020f10965c1285ea17f", null ],
-    [ "OnDatabaseWarnAboutSyncQueries", "d7/dfc/a10854.html#a03a50d201a9290fc9cfd0856156bc77a", null ],
-    [ "OnModuleDatabasesClosing", "d7/dfc/a10854.html#af011bbb81be4c1f5d88456880233499f", null ],
-    [ "OnModuleDatabasesKeepAlive", "d7/dfc/a10854.html#a18bf8214af415218f6b4a911b32d9109", null ],
-    [ "OnModuleDatabasesLoading", "d7/dfc/a10854.html#a887413cff0c9e65acead62797944d8b3", null ]
+    [ "FactoryCreatureScript", "d7/dfc/a10854.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
+    [ "GetAI", "d7/dfc/a10854.html#a0e491e4cda2b03456d798f6726dbde54", null ]
 ];

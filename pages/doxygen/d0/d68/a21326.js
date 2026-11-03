@@ -1,11 +1,6 @@
 var a21326 =
 [
-    [ "npc_ulduar_snow_mound", "d0/d68/a21326.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
-    [ "MoveInLineOfSight", "d0/d68/a21326.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
-    [ "PassengerBoarded", "d0/d68/a21326.html#a8c5be073d1901f98d602581d79d3dd68", null ],
-    [ "UpdateAI", "d0/d68/a21326.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
-    [ "_activated", "d0/d68/a21326.html#ac48f6985d857276e0e59c2a429f5b359", null ],
-    [ "_count", "d0/d68/a21326.html#a1856c3bba24842f33720a83e1de40421", null ],
-    [ "_counter", "d0/d68/a21326.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
-    [ "_scheduler", "d0/d68/a21326.html#aafe42af9ba1402cad91326eb1037e476", null ]
+    [ "CheckRequirement", "d0/d68/a21326.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
+    [ "PrepareSpellScript", "d0/d68/a21326.html#a06e1b98a589717bdef6444912a7ad602", null ],
+    [ "Register", "d0/d68/a21326.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
 ];

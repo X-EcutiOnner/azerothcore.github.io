@@ -1,6 +1,7 @@
 var a17090 =
 [
-    [ "npc_toc_dkAI", "d7/da7/a17094.html", "d7/da7/a17094" ],
-    [ "npc_toc_dk", "de/d85/a17090.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
-    [ "GetAI", "de/d85/a17090.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
+    [ "npc_toc_enh_shamanAI", "de/d85/a17090.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
+    [ "myCanCast", "de/d85/a17090.html#a8a38da4063a22361b25835a67f14ff52", null ],
+    [ "UpdateAI", "de/d85/a17090.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
+    [ "events", "de/d85/a17090.html#adec973540bf3b046f54547fb845c06b1", null ]
 ];

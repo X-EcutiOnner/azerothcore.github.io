@@ -1,7 +1,7 @@
 var a08610 =
 [
-    [ "entry", "d4/d3a/a08610.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
-    [ "pos", "d4/d3a/a08610.html#af264c1262d9fcd204a2a536847a613b1", null ],
-    [ "respawnTime", "d4/d3a/a08610.html#abeadd86c92a8c301626dde6943da1b9b", null ],
-    [ "rot", "d4/d3a/a08610.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
+    [ "entry", "d4/d3a/a08610.html#aabf7002fbd171e7f1832be5f066dbe44", null ],
+    [ "pos", "d4/d3a/a08610.html#aad6aa76796625075e4fcfb7d1a3eb88c", null ],
+    [ "time", "d4/d3a/a08610.html#a8a38eed04cdb2efb89e98f869e0d800d", null ],
+    [ "type", "d4/d3a/a08610.html#a40927a435b557e4c1e5c5eedbb5d5e5b", null ]
 ];

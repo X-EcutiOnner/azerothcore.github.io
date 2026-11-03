@@ -1,10 +1,6 @@
 var a00899 =
 [
-    [ "ban_commandscript", "d8/d01/a12518.html", "d8/d01/a12518" ],
-    [ "BanMode", "d3/d8a/a00899.html#aee9acfaac97a86a40bad738a75eb5264", [
-      [ "BAN_ACCOUNT", "d3/d8a/a00899.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1", null ],
-      [ "BAN_CHARACTER", "d3/d8a/a00899.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79", null ],
-      [ "BAN_IP", "d3/d8a/a00899.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b", null ]
-    ] ],
-    [ "AddSC_ban_commandscript", "d3/d8a/a00899.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff", null ]
+    [ "RealmBuildInfo", "d7/d03/a29726.html", "d7/d03/a29726" ],
+    [ "RealmList", "d6/d1b/a29730.html", "d6/d1b/a29730" ],
+    [ "sRealmList", "d3/d8a/a00899.html#a639c880efde6e31a4bf6be6b5bcc3cd3", null ]
 ];

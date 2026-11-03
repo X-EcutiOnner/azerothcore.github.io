@@ -1,6 +1,5 @@
 var a20922 =
 [
-    [ "go_razorscale_mole_machineAI", "de/d94/a20926.html", "de/d94/a20926" ],
-    [ "go_razorscale_mole_machine", "d9/d33/a20922.html#a94d4c7900c139202cd0e57489ecb5a02", null ],
-    [ "GetAI", "d9/d33/a20922.html#a56de10f80d50b667bfae81994a618304", null ]
+    [ "achievement_quick_shave", "d9/d33/a20922.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
+    [ "OnCheck", "d9/d33/a20922.html#a151c479da3d4cec05999ad8a249b100c", null ]
 ];

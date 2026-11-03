@@ -1,6 +1,5 @@
 var a19450 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "d5/d10/a19454.html", "d5/d10/a19454" ],
-    [ "npc_icc_nerubar_broodkeeper", "d2/d5c/a19450.html#adf9c3bfb444fed50420c2e780b373f34", null ],
-    [ "GetAI", "d2/d5c/a19450.html#ad12186da36f7bbf99275a746bc874bfc", null ]
+    [ "at_icc_gauntlet_event", "d2/d5c/a19450.html#ae8790bad655661aeda887f56b9393847", null ],
+    [ "OnTrigger", "d2/d5c/a19450.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
 ];

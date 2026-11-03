@@ -1,7 +1,6 @@
 var a26546 =
 [
-    [ "HandleDummy", "d7/d5b/a26546.html#aa510199edee85bfcf6314559e9c72928", null ],
-    [ "PrepareSpellScript", "d7/d5b/a26546.html#a8d2dce1e15f87bb3f744f89b7a531c72", null ],
-    [ "Register", "d7/d5b/a26546.html#a1da7830a42eabcccba81000b7094b205", null ],
-    [ "Validate", "d7/d5b/a26546.html#ad5f88629afe87669a18a7424b8b34ba0", null ]
+    [ "HandleStackDrop", "d7/d5b/a26546.html#a8e452c968558f3bd273b18a8055745d2", null ],
+    [ "PrepareAuraScript", "d7/d5b/a26546.html#aa18e4975db4e2831c61f38d990886676", null ],
+    [ "Register", "d7/d5b/a26546.html#a04ebc4be3fea42ca2352fd441841f76e", null ]
 ];

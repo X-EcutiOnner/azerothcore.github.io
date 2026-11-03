@@ -1,7 +1,6 @@
 var a10946 =
 [
-    [ "SpellScriptLoader", "d5/deb/a10946.html#a3b6fe2ba310f95c438b7cf941865fe46", null ],
-    [ "GetAuraScript", "d5/deb/a10946.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "d5/deb/a10946.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "d5/deb/a10946.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "SessionScript", "d5/deb/a10946.html#abcb2b96997e16966f8cc519856fbad56", null ],
+    [ "OnSessionUpdate", "d5/deb/a10946.html#a38af0c7fcfb9187d5795d2858be668ef", null ],
+    [ "OnWardenCheckExpectedResult", "d5/deb/a10946.html#a526960f434665b49b41483e7dd64bcce", null ]
 ];

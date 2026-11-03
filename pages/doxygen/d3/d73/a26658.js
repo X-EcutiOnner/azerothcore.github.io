@@ -1,9 +1,9 @@
 var a26658 =
 [
-    [ "HandleAfterCast", "d3/d73/a26658.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "d3/d73/a26658.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "d3/d73/a26658.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "d3/d73/a26658.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "d3/d73/a26658.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "d3/d73/a26658.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "CheckProc", "d3/d73/a26658.html#abc802dd38555c1165e290046418018b6", null ],
+    [ "HasManaCost", "d3/d73/a26658.html#a951452680451b435b622b9ccb0de535c", null ],
+    [ "IsPenanceChannel", "d3/d73/a26658.html#ab020e0b8e7697b196adca557cf4654c7", null ],
+    [ "PrepareAuraScript", "d3/d73/a26658.html#ac999475afaf03801a085b0f1ded23b6d", null ],
+    [ "Register", "d3/d73/a26658.html#ab3ccb71330c9d6d94003cbfb3b7ca261", null ],
+    [ "Validate", "d3/d73/a26658.html#aa7e88d03e994533ebcc486d12464452f", null ]
 ];

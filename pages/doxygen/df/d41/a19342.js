@@ -1,5 +1,7 @@
 var a19342 =
 [
-    [ "at_icc_saurfang_portal", "df/d41/a19342.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "df/d41/a19342.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "HandleEffectPeriodic", "df/d41/a19342.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "df/d41/a19342.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "df/d41/a19342.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "df/d41/a19342.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

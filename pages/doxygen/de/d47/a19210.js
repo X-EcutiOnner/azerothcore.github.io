@@ -1,6 +1,5 @@
 var a19210 =
 [
-    [ "npc_captain_rupertAI", "d4/dbd/a19214.html", "d4/dbd/a19214" ],
-    [ "npc_captain_rupert", "de/d47/a19210.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
-    [ "GetAI", "de/d47/a19210.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
+    [ "npc_alchemist_adrianna", "de/d47/a19210.html#a310d375bc73c51e407580b063a6543fa", null ],
+    [ "OnGossipHello", "de/d47/a19210.html#a02ec6a66037d72e30bbe821ceee38691", null ]
 ];

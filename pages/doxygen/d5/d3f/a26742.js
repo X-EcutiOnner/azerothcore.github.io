@@ -1,8 +1,8 @@
 var a26742 =
 [
-    [ "HandleDummy", "d5/d3f/a26742.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
-    [ "PrepareSpellScript", "d5/d3f/a26742.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
-    [ "Register", "d5/d3f/a26742.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
-    [ "Validate", "d5/d3f/a26742.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
-    [ "PolymorhForms", "d5/d3f/a26742.html#a1443d2532a060514e697a8d5e0c21b20", null ]
+    [ "CheckProc", "d5/d3f/a26742.html#a23dc61d8a007832a37ab7da71c36537d", null ],
+    [ "HandleProc", "d5/d3f/a26742.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "d5/d3f/a26742.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "d5/d3f/a26742.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "d5/d3f/a26742.html#a3d2d6f1a00825ac66f507a790f468198", null ]
 ];

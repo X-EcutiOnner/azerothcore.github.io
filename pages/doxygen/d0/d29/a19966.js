@@ -1,13 +1,15 @@
 var a19966 =
 [
-    [ "npc_oculus_unstable_sphereAI", "d0/d29/a19966.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
-    [ "AttackStart", "d0/d29/a19966.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
-    [ "MoveInLineOfSight", "d0/d29/a19966.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
-    [ "MovementInform", "d0/d29/a19966.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
-    [ "PickNewLocation", "d0/d29/a19966.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
-    [ "Reset", "d0/d29/a19966.html#ac2e391d0149b62823ac9074d45c694cf", null ],
-    [ "UpdateAI", "d0/d29/a19966.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
-    [ "gonext", "d0/d29/a19966.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
-    [ "located", "d0/d29/a19966.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
-    [ "timer", "d0/d29/a19966.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
+    [ "boss_varosAI", "d0/d29/a19966.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
+    [ "EnterEvadeMode", "d0/d29/a19966.html#a0b7eeef4529b47357d729852cdeab002", null ],
+    [ "JustDied", "d0/d29/a19966.html#a2724167a66a059e1c0ca1612d8405d68", null ],
+    [ "JustEngagedWith", "d0/d29/a19966.html#a2f25555ca2884f6bffb289d209e87740", null ],
+    [ "JustSummoned", "d0/d29/a19966.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
+    [ "MoveInLineOfSight", "d0/d29/a19966.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
+    [ "Reset", "d0/d29/a19966.html#aef24d04954a26bb6381c860403e84288", null ],
+    [ "UpdateAI", "d0/d29/a19966.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
+    [ "events", "d0/d29/a19966.html#a36746118770c936e7606962365e102d8", null ],
+    [ "pInstance", "d0/d29/a19966.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
+    [ "step", "d0/d29/a19966.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
+    [ "ZapAngle", "d0/d29/a19966.html#aef225fcf580c5e500d3242ac4be24260", null ]
 ];

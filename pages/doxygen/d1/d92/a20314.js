@@ -1,14 +1,7 @@
 var a20314 =
 [
-    [ "boss_auriaya", "d1/d92/a20314.html#a2d946ada185a29bf00dc49d28089e64e", null ],
-    [ "DespawnFormationMembers", "d1/d92/a20314.html#a46dcb873d4101174687b4189d0494403", null ],
-    [ "DoAction", "d1/d92/a20314.html#aa58503020e3382e0c541047b233945a7", null ],
-    [ "ExecuteEvent", "d1/d92/a20314.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
-    [ "GetData", "d1/d92/a20314.html#a44781b758392f8f519b9684617757620", null ],
-    [ "JustDied", "d1/d92/a20314.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
-    [ "JustEngagedWith", "d1/d92/a20314.html#ac80d7bbc334e20df9e85540556b8714e", null ],
-    [ "KilledUnit", "d1/d92/a20314.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
-    [ "Reset", "d1/d92/a20314.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
-    [ "_feralDied", "d1/d92/a20314.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
-    [ "_nineLives", "d1/d92/a20314.html#a26d80573eda1aa1005e1bc5453c182af", null ]
+    [ "HandleOnHit", "d1/d92/a20314.html#a3a0f411a652a5753a543f57433212425", null ],
+    [ "PrepareSpellScript", "d1/d92/a20314.html#a93008907295d79e9c98747bc416b6b5a", null ],
+    [ "Register", "d1/d92/a20314.html#a858cc1c717a7cadc9eac41b89738d7e1", null ],
+    [ "Validate", "d1/d92/a20314.html#a56f021a02c261dfb694e57af35c0ca14", null ]
 ];

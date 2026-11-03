@@ -1,11 +1,7 @@
 var a21662 =
 [
-    [ "npc_vh_void_sentry", "d7/d50/a21662.html#adeb66953fb7540aab5190b825ff98ec8", null ],
-    [ "DoAction", "d7/d50/a21662.html#a37ed72c221f23cd653694c10d536eec4", null ],
-    [ "JustDied", "d7/d50/a21662.html#aabf96934586d38d6f958c1571c0b3b56", null ],
-    [ "SummonedCreatureDespawn", "d7/d50/a21662.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
-    [ "UpdateAI", "d7/d50/a21662.html#a417af2ca21310ca105d7561e3ab21272", null ],
-    [ "_events", "d7/d50/a21662.html#a30899a2d4d8a82b26251911dc3b48008", null ],
-    [ "_instance", "d7/d50/a21662.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
-    [ "_summonedGuid", "d7/d50/a21662.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
+    [ "npc_azure_binder", "d7/d50/a21662.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
+    [ "Reset", "d7/d50/a21662.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
+    [ "UpdateAI", "d7/d50/a21662.html#add9f304212a1a10267e564cd939f3751", null ],
+    [ "_events", "d7/d50/a21662.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
 ];

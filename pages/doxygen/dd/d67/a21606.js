@@ -1,6 +1,10 @@
 var a21606 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d3/df0/a21610.html", "d3/df0/a21610" ],
-    [ "npc_frozen_orb_stalker", "dd/d67/a21606.html#a7f025c829106aa6668427f913d07a722", null ],
-    [ "GetAI", "dd/d67/a21606.html#af33e27138a70286bac561113ed09f350", null ]
+    [ "npc_erekem_guard", "dd/d67/a21606.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
+    [ "JustEngagedWith", "dd/d67/a21606.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
+    [ "MoveInLineOfSight", "dd/d67/a21606.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
+    [ "Reset", "dd/d67/a21606.html#aacdc16855938d9f133b751f91b5e9402", null ],
+    [ "UpdateAI", "dd/d67/a21606.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
+    [ "_events", "dd/d67/a21606.html#a13829cd26d18c42213be1f6640a2b979", null ],
+    [ "_instance", "dd/d67/a21606.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
 ];

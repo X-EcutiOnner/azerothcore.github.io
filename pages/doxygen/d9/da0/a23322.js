@@ -1,11 +1,6 @@
 var a23322 =
 [
-    [ "boss_doomlordkazzakAI", "d9/da0/a23322.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "d9/da0/a23322.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "d9/da0/a23322.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "d9/da0/a23322.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "d9/da0/a23322.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "d9/da0/a23322.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "d9/da0/a23322.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "d9/da0/a23322.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "boss_doomlordkazzakAI", "d1/d28/a23326.html", "d1/d28/a23326" ],
+    [ "boss_doomlord_kazzak", "d9/da0/a23322.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "d9/da0/a23322.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

@@ -1,9 +1,8 @@
 var a11922 =
 [
-    [ "PreDeathAuraTickScope", "d8/de7/a11922.html#afdeb33f30b342a8136fa6f957cd83d7d", null ],
-    [ "~PreDeathAuraTickScope", "d8/de7/a11922.html#ad81f72ee399164959b6b5255f98ae7ff", null ],
-    [ "PreDeathAuraTickScope", "d8/de7/a11922.html#ae9e4cdb7224ab88142806e592c09055c", null ],
-    [ "operator=", "d8/de7/a11922.html#a0b847c45a08c8310d8244b03e3abcabe", null ],
-    [ "_caster", "d8/de7/a11922.html#a15bc270162fe815d64e31dd8e930ee8b", null ],
-    [ "_wasInTick", "d8/de7/a11922.html#ae7a69389a1ac8a7ac1c3ae073047ba03", null ]
+    [ "SkillExtraItemEntry", "d8/de7/a11922.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "d8/de7/a11922.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "d8/de7/a11922.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "d8/de7/a11922.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "d8/de7/a11922.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

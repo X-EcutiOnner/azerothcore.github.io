@@ -1,8 +1,8 @@
 var a11726 =
 [
-    [ "QuestPushResultClient", "d8/db2/a11726.html#a900078368c8626a81dc4718f5aed7b71", null ],
-    [ "Read", "d8/db2/a11726.html#a63dcedbd02a64775a60c45cb2b30eea7", null ],
-    [ "PlayerGuid", "d8/db2/a11726.html#afafc0742bc5d17222b981142fc10a9c5", null ],
-    [ "QuestId", "d8/db2/a11726.html#ada7d9d3d874403ffb3472affb40c0f2b", null ],
-    [ "QuestShareMessage", "d8/db2/a11726.html#a83d8ff8ab8c8e3e883066cc6035ec307", null ]
+    [ "QuestUpdateAddPvPKill", "d8/db2/a11726.html#a22b1143d1ee7c28f0ae63c0d215e64ce", null ],
+    [ "Write", "d8/db2/a11726.html#ab58c8dc6918834caa654e05992abde6a", null ],
+    [ "CurrentCount", "d8/db2/a11726.html#a4c6df4b5647d8b71084c4495548cdd58", null ],
+    [ "QuestId", "d8/db2/a11726.html#ae80d16619ecac6b381b89483ce96b810", null ],
+    [ "RequiredCount", "d8/db2/a11726.html#a95d2c68a8383bcac985a891de7771274", null ]
 ];

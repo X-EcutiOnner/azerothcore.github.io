@@ -1,6 +1,7 @@
 var a21666 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "d1/dcb/a21670.html", "d1/dcb/a21670" ],
-    [ "instance_violet_hold", "d0/de0/a21666.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "d0/de0/a21666.html#ab459840bcb0c8bcc58d20e658be0f63a", null ]
+    [ "npc_azure_mage_slayer", "d0/de0/a21666.html#a8f537bf85f7d50dda0f3e2e9cb7bd293", null ],
+    [ "Reset", "d0/de0/a21666.html#ad760e69d3246117726b2a2e066e6c5ce", null ],
+    [ "UpdateAI", "d0/de0/a21666.html#a412a23b56efad90af180dee17f9f2be3", null ],
+    [ "_events", "d0/de0/a21666.html#aadb7b09a9fbdd9ca8f04ba38e79901b3", null ]
 ];

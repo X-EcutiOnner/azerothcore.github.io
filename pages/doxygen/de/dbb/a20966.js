@@ -1,7 +1,11 @@
 var a20966 =
 [
-    [ "boss_thorim_trap", "de/dbb/a20966.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
-    [ "Reset", "de/dbb/a20966.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
-    [ "UpdateAI", "de/dbb/a20966.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
-    [ "_checkTimer", "de/dbb/a20966.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
+    [ "boss_thorim_ancient_rune_giant", "de/dbb/a20966.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
+    [ "DoAction", "de/dbb/a20966.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
+    [ "JustDied", "de/dbb/a20966.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
+    [ "JustEngagedWith", "de/dbb/a20966.html#a98fa309963245a0c57676ff019085fac", null ],
+    [ "Reset", "de/dbb/a20966.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
+    [ "UpdateAI", "de/dbb/a20966.html#a903d7448d9441866475d77fce8ca6d37", null ],
+    [ "_isInCombat", "de/dbb/a20966.html#a148ff1fa8010466de069032f660cd08e", null ],
+    [ "events", "de/dbb/a20966.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
 ];

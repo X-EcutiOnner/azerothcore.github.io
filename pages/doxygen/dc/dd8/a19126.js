@@ -1,5 +1,6 @@
 var a19126 =
 [
-    [ "achievement_portal_jockey", "dc/dd8/a19126.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "dc/dd8/a19126.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "npc_rotting_frost_giantAI", "d8/d0e/a19130.html", "d8/d0e/a19130" ],
+    [ "npc_rotting_frost_giant", "dc/dd8/a19126.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "dc/dd8/a19126.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

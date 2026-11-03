@@ -1,6 +1,6 @@
 var a21134 =
 [
-    [ "boss_yoggsaron_death_orb", "d9/de7/a21134.html#a8e967885da35381db767d941a2174a82", null ],
-    [ "IsSummonedBy", "d9/de7/a21134.html#a86965a290bf5714fe5e81577ae80775a", null ],
-    [ "JustSummoned", "d9/de7/a21134.html#a916588e3cdd0520fe5c1947a797c0042", null ]
+    [ "boss_yoggsaron_descend_portal", "d9/de7/a21134.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "d9/de7/a21134.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "d9/de7/a21134.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

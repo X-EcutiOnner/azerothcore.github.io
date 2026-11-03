@@ -1,6 +1,6 @@
 var a12234 =
 [
-    [ "AfterCheckProcHandler", "df/d52/a12234.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "df/d52/a12234.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "df/d52/a12234.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "CheckEffectProcHandler", "df/d52/a12234.html#ac91e234c2ec9d458a70f501e9b672af0", null ],
+    [ "Call", "df/d52/a12234.html#aca4c845623e63c38310986b86e312247", null ],
+    [ "_HandlerScript", "df/d52/a12234.html#a0bb540e91e691b31191983614fa737dc", null ]
 ];

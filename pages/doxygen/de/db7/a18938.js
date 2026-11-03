@@ -1,6 +1,6 @@
 var a18938 =
 [
-    [ "npc_spirit_wardenAI", "dd/d0d/a18942.html", "dd/d0d/a18942" ],
-    [ "npc_spirit_warden", "de/db7/a18938.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "de/db7/a18938.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "HandleScript", "de/db7/a18938.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
+    [ "PrepareSpellScript", "de/db7/a18938.html#a2c6acef52962f606130d643cbd93104b", null ],
+    [ "Register", "de/db7/a18938.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
 ];

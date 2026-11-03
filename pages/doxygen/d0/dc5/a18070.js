@@ -1,9 +1,6 @@
 var a18070 =
 [
-    [ "npc_stinky_iccAI", "d0/dc5/a18070.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "d0/dc5/a18070.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "d0/dc5/a18070.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "d0/dc5/a18070.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "d0/dc5/a18070.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "d0/dc5/a18070.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "npc_gunshipAI", "d7/df2/a18074.html", "d7/df2/a18074" ],
+    [ "npc_gunship", "d0/dc5/a18070.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
+    [ "GetAI", "d0/dc5/a18070.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
 ];

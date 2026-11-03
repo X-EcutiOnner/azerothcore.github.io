@@ -1,21 +1,26 @@
 var a01862 =
 [
-    [ "npc_partygoer_pather", "df/da3/a14126.html", "df/da3/a14126" ],
-    [ "npc_partygoer", "d9/d6f/a14130.html", "d9/d6f/a14130" ],
-    [ "npc_lor_themar_theron", "d0/d7d/a14134.html", "d0/d7d/a14134" ],
-    [ "Partygoer", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
-      [ "EVENT_RANDOM_ACTION", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
-      [ "EVENT_REMOVE_EQUIPMENT", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
-      [ "EVENT_STOP_DANCING", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
-      [ "EVENT_THROW_FIREWORKS", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
-      [ "EVENT_RESET_FACING", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
-      [ "GO_FIREWORKS_LAUNCHER", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
+    [ "PlayerDump", "d8/d14/a12354.html", "d8/d14/a12354" ],
+    [ "PlayerDumpWriter", "d5/de3/a12358.html", "d5/de3/a12358" ],
+    [ "PlayerDumpReader", "db/d6b/a12362.html", "db/d6b/a12362" ],
+    [ "DumpReturn", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866", [
+      [ "DUMP_SUCCESS", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
+      [ "DUMP_FILE_OPEN_ERROR", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
+      [ "DUMP_TOO_MANY_CHARS", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
+      [ "DUMP_FILE_BROKEN", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
+      [ "DUMP_CHARACTER_DELETED", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ],
+      [ "DUMP_GUID_OVERFLOW", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866ad611e98ad0ae594831f17cbab86dcb6a", null ]
     ] ],
-    [ "Partygoer_Pather", "d0/d4a/a01862.html#a3222d14ce03d75912e65560ebf2a961b", [
-      [ "EVENT_PATH", "d0/d4a/a01862.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
-      [ "EVENT_RANDOM_ACTION_PATHER", "d0/d4a/a01862.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
-      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "d0/d4a/a01862.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
-      [ "EVENT_STOP_DANCING_PATHER", "d0/d4a/a01862.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
-    ] ],
-    [ "AddSC_eversong_woods", "d0/d4a/a01862.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
+    [ "DumpTableType", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7ef", [
+      [ "DTT_CHARACTER", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
+      [ "DTT_CHAR_TABLE", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
+      [ "DTT_EQSET_TABLE", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
+      [ "DTT_INVENTORY", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
+      [ "DTT_MAIL", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
+      [ "DTT_MAIL_ITEM", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
+      [ "DTT_ITEM", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
+      [ "DTT_ITEM_GIFT", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
+      [ "DTT_PET", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
+      [ "DTT_PET_TABLE", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
+    ] ]
 ];

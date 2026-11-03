@@ -1,7 +1,6 @@
 var a21210 =
 [
-    [ "FilterTargets", "de/dff/a21210.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "de/dff/a21210.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "de/dff/a21210.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "de/dff/a21210.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "ModSanityStacks", "de/dff/a21210.html#a38b8425689f91b91e23096d658b462cf", null ],
+    [ "PrepareSpellScript", "de/dff/a21210.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
+    [ "Register", "de/dff/a21210.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
 ];

@@ -1,11 +1,15 @@
 var a19642 =
 [
-    [ "boss_grobbulusAI", "dc/d2b/a19642.html#ad9e7cd519e30eded06f76bcc69189117", null ],
-    [ "JustEngagedWith", "dc/d2b/a19642.html#a4c74d53fe029d02df9652dbb87a09242", null ],
-    [ "JustSummoned", "dc/d2b/a19642.html#af266d40889fbecd50a118a579b711757", null ],
-    [ "KilledUnit", "dc/d2b/a19642.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
-    [ "PullChamberAdds", "dc/d2b/a19642.html#a0d68b84c035bb8b4b16075116a6d7992", null ],
-    [ "Reset", "dc/d2b/a19642.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
-    [ "UpdateAI", "dc/d2b/a19642.html#aafd79debbe76b02a1478c03daf235b05", null ],
-    [ "dropSludgeTimer", "dc/d2b/a19642.html#a5fdcf157f498b8e47d6380b03fe819d6", null ]
+    [ "boss_heigan", "dc/d2b/a19642.html#a402b76bd927dd738bdbdf7faff93394c", null ],
+    [ "CheckSafetyDance", "dc/d2b/a19642.html#a378397cc91408b812c76f657a96285e1", null ],
+    [ "JustDied", "dc/d2b/a19642.html#a259c99e12b92ccb99af16949e37b5c48", null ],
+    [ "JustEngagedWith", "dc/d2b/a19642.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
+    [ "KilledUnit", "dc/d2b/a19642.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
+    [ "Reset", "dc/d2b/a19642.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
+    [ "StartFightPhase", "dc/d2b/a19642.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
+    [ "UpdateAI", "dc/d2b/a19642.html#a36c0bc5abff61b435f2a8163687b122a", null ],
+    [ "_currentPhase", "dc/d2b/a19642.html#a1065c6221b30536344e7d4d0779abd17", null ],
+    [ "_currentSection", "dc/d2b/a19642.html#adcf2448a0868ea3e900609c8e7e34154", null ],
+    [ "_eruptionScheduler", "dc/d2b/a19642.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
+    [ "_moveRight", "dc/d2b/a19642.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
 ];

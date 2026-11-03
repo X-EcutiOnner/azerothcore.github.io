@@ -1,11 +1,8 @@
 var a03845 =
 [
-    [ "Movement::counter< T, limit >", "d2/d62/a10602.html", "d2/d62/a10602" ],
-    [ "UInt32Counter", "de/d6b/a03845.html#adebd21803156b193f9b8a733b6cbd3c7", null ],
-    [ "computeFallElevation", "de/d6b/a03845.html#a87260372150c8322b45e75bfaa445f14", null ],
-    [ "computeFallTime", "de/d6b/a03845.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
-    [ "MSToSec", "de/d6b/a03845.html#aefc83834e7badc5f8450322da9567bd6", null ],
-    [ "SecToMS", "de/d6b/a03845.html#a418fff34f8aed72d6d80876be5a33c58", null ],
-    [ "gravity", "de/d6b/a03845.html#a15b376933a666c7f7c4600e62d7afe91", null ],
-    [ "splineIdGen", "de/d6b/a03845.html#a5149db3325f467381006d8d5df24a2a8", null ]
+    [ "instance_utgarde_pinnacle", "df/d52/a21506.html", "df/d52/a21506" ],
+    [ "instance_utgarde_pinnacle::instance_utgarde_pinnacle_InstanceMapScript", "d1/dee/a21510.html", "d1/dee/a21510" ],
+    [ "AddSC_instance_utgarde_pinnacle", "de/d6b/a03845.html#a3469cdfafe3d81dca68950e7a6a6370d", null ],
+    [ "creatureData", "de/d6b/a03845.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "summonData", "de/d6b/a03845.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

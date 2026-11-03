@@ -1,7 +1,12 @@
 var a02660 =
 [
-    [ "UpdateRequest", "d6/d23/a10390.html", "d6/d23/a10390" ],
-    [ "MapUpdateRequest", "dc/dc1/a10394.html", "dc/dc1/a10394" ],
-    [ "MapPreloadRequest", "de/da5/a10398.html", "de/da5/a10398" ],
-    [ "LFGUpdateRequest", "d8/d99/a10402.html", "d8/d99/a10402" ]
+    [ "Escort_Waypoint", "d5/de3/a06702.html", "d5/de3/a06702" ],
+    [ "npc_escortAI", "d2/da4/a06706.html", "d2/da4/a06706" ],
+    [ "DEFAULT_MAX_PLAYER_DISTANCE", "de/d7b/a02660.html#ad23dc39ce2da634e67360fab90e3b9e2", null ],
+    [ "eEscortState", "de/d7b/a02660.html#af40ca4990501264cb0359ab6d93fb08a", [
+      [ "STATE_ESCORT_NONE", "de/d7b/a02660.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5", null ],
+      [ "STATE_ESCORT_ESCORTING", "de/d7b/a02660.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92", null ],
+      [ "STATE_ESCORT_RETURNING", "de/d7b/a02660.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48", null ],
+      [ "STATE_ESCORT_PAUSED", "de/d7b/a02660.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6", null ]
+    ] ]
 ];

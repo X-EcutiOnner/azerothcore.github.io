@@ -1,4 +1,5 @@
 var a20242 =
 [
-    [ "operator()", "d9/d1d/a20242.html#aae8aeaabdecc3d8ff68c8764b166741d", null ]
+    [ "achievement_algalon_he_feeds_on_your_tears", "d9/d1d/a20242.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
+    [ "OnCheck", "d9/d1d/a20242.html#affea33614581545c65513bfe533d7246", null ]
 ];

@@ -1,5 +1,7 @@
 var a20310 =
 [
-    [ "achievement_cant_do_that_while_stunned", "d2/dcf/a20310.html#a4d474b36f61631688ea723d2e4033574", null ],
-    [ "OnCheck", "d2/dcf/a20310.html#a0b108bdcab0bc412975e61247f226bf8", null ]
+    [ "HandleScriptEffect", "d2/dcf/a20310.html#a96033c335117fa39e96a2dd70c44616a", null ],
+    [ "PrepareSpellScript", "d2/dcf/a20310.html#abf5f28d0fdb86a55b5b6f545a1fec633", null ],
+    [ "Register", "d2/dcf/a20310.html#a0acb0e31242fda06456081ef2937157e", null ],
+    [ "Validate", "d2/dcf/a20310.html#a648ce84276009cdee91c921b99193aea", null ]
 ];

@@ -1,8 +1,10 @@
 var a10470 =
 [
-    [ "AbstractFollower", "da/d14/a10470.html#a08d292896f2419dd73ae68c8e1238d4b", null ],
-    [ "~AbstractFollower", "da/d14/a10470.html#acb394f5326ab5ea5146c79788a085647", null ],
-    [ "GetTarget", "da/d14/a10470.html#a43f037557454528a956c379d9efb42ac", null ],
-    [ "SetTarget", "da/d14/a10470.html#ad49748abec4bb2fe06cc8ba2699bdbd0", null ],
-    [ "_target", "da/d14/a10470.html#aa4e43d8e60442eee41398648fd7fd45d", null ]
+    [ "CreateWorldPacket", "da/d14/a10470.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
+    [ "GetMotd", "da/d14/a10470.html#ab589dd8bfad950e02ee716ea9005253f", null ],
+    [ "GetMotdPacket", "da/d14/a10470.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
+    [ "instance", "da/d14/a10470.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
+    [ "LoadMotd", "da/d14/a10470.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
+    [ "LoadMotdLocale", "da/d14/a10470.html#a21aa89787d5b0bbf69158f799122edd5", null ],
+    [ "SetMotd", "da/d14/a10470.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
 ];

@@ -1,5 +1,5 @@
 var a08342 =
 [
-    [ "CompareThreatLessThan", "d2/df9/a08342.html#aa19219c7046b00951d23157bf00ee57d", null ],
-    [ "operator()", "d2/df9/a08342.html#a6534d7e3cab45f2aab4f0eab96ec4416", null ]
+    [ "ThreatReferenceImpl", "d2/df9/a08342.html#ae69492bf301cc65e2554ac6d46039086", null ],
+    [ "_handle", "d2/df9/a08342.html#a500806ed499b69bcae1d9a05071dea2c", null ]
 ];

@@ -1,12 +1,7 @@
 var a17994 =
 [
-    [ "npc_saurfang_eventAI", "df/dcf/a17994.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "df/dcf/a17994.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "MovementInform", "df/dcf/a17994.html#a712de3075d5b37b19e80641023796733", null ],
-    [ "Reset", "df/dcf/a17994.html#a5e7f11d5c09a8f08a2869ab6481fad18", null ],
-    [ "SetData", "df/dcf/a17994.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "df/dcf/a17994.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "UpdateAI", "df/dcf/a17994.html#af35f211e302489b7ab82852b737a199c", null ],
-    [ "_events", "df/dcf/a17994.html#a70cfc908f5a4ff86571661bab9181cc9", null ],
-    [ "_index", "df/dcf/a17994.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "FilterTargets", "df/dcf/a17994.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "df/dcf/a17994.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "df/dcf/a17994.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "df/dcf/a17994.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

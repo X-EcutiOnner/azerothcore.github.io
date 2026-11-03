@@ -1,7 +1,6 @@
 var a18358 =
 [
-    [ "HandleScriptEffect", "d4/d91/a18358.html#abeb703f8f050677bafb8f5ce4173751a", null ],
-    [ "PrepareSpellScript", "d4/d91/a18358.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
-    [ "Register", "d4/d91/a18358.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
-    [ "SelectTarget", "d4/d91/a18358.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
+    [ "UnboundPlagueTargetSelector", "d4/d91/a18358.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "d4/d91/a18358.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "d4/d91/a18358.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

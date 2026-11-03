@@ -1,6 +1,5 @@
 var a21322 =
 [
-    [ "HandleEffectPeriodic", "d9/d78/a21322.html#a35ad284954a023da2ed50d010fcf8946", null ],
-    [ "PrepareAuraScript", "d9/d78/a21322.html#a6835238f872248a76e386ded28340c81", null ],
-    [ "Register", "d9/d78/a21322.html#aba7eea4dbaff16d49f30165cdd29a3d4", null ]
+    [ "npc_salvaged_siege_engine", "d9/d78/a21322.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
+    [ "BeforeSpellClick", "d9/d78/a21322.html#aed2500b2315b5e508ea3d06a2355d023", null ]
 ];

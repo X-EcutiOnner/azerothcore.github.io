@@ -1,6 +1,6 @@
 var a30226 =
 [
-    [ "SetUp", "d1/d69/a30226.html#a1aea096e3b4fe9657c3166e0688a2407", null ],
-    [ "_entry", "d1/d69/a30226.html#a36067d0031cbdbc00b1c6dcfbfe2358c", null ],
-    [ "_procEntry", "d1/d69/a30226.html#affb4da9ec7478c526f07056b83bfff60", null ]
+    [ "CreateArmorProcConfig", "d1/d69/a30226.html#aae16272567352cb8730edcba3908a08f", null ],
+    [ "CreateWeaponProcConfig", "d1/d69/a30226.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
+    [ "SetUp", "d1/d69/a30226.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
 ];

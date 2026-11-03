@@ -1,7 +1,29 @@
 var a08950 =
 [
-    [ "UsedPos", "de/d45/a08950.html#aef230e392619ad4abc2da649d11b2394", null ],
-    [ "dist", "de/d45/a08950.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
-    [ "sign", "de/d45/a08950.html#a2b5f97425309d56482a1f287b6d5be69", null ],
-    [ "size", "de/d45/a08950.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
+    [ "UsedPos", "dc/d5e/a08954.html", "dc/d5e/a08954" ],
+    [ "UsedPosList", "de/d45/a08950.html#a76a3553e006171560baf7aa7cc2bc163", null ],
+    [ "ObjectPosSelector", "de/d45/a08950.html#a353fa17ca519ace0ba637271e8dc1e8b", null ],
+    [ "AddUsedPos", "de/d45/a08950.html#abb77ce4bf44b926a4bc1db59e7b84e36", null ],
+    [ "CheckAngle", "de/d45/a08950.html#a678445810801988c429489ba187b28f0", null ],
+    [ "CheckOriginal", "de/d45/a08950.html#ab5ea7dc197cac7156a5feaf965afe902", null ],
+    [ "FirstAngle", "de/d45/a08950.html#a34a49751e6810835d4e4f2828d7c8b0c", null ],
+    [ "GetAngle", "de/d45/a08950.html#ad0fc5c7a577bd9584d7a81346ff78c14", null ],
+    [ "InitializeAngle", "de/d45/a08950.html#ac58836fb3671cf87b156072910b811c2", null ],
+    [ "IsNonBalanced", "de/d45/a08950.html#a092252be70aef7ba47a2e81d183d68ab", null ],
+    [ "NextAngle", "de/d45/a08950.html#ae45835290af001233a7d76e1a5be6df0", null ],
+    [ "NextAngleFor", "de/d45/a08950.html#a1d792bc79d1646eae7651705bc0afdd5", null ],
+    [ "NextPosibleAngle", "de/d45/a08950.html#a3ca2304f7f268685b22db941d70fab36", null ],
+    [ "NextSmallStepAngle", "de/d45/a08950.html#a81959e17cd93eb5590dc3533ffa2217b", null ],
+    [ "NextUsedAngle", "de/d45/a08950.html#a779268da0c5b089c9752601543a0f856", null ],
+    [ "nextUsedPos", "de/d45/a08950.html#a93e3a877fef90a3fa933addeb53e3e8e", null ],
+    [ "m_anglestep", "de/d45/a08950.html#ad33b5ad5af8ebfd14851085b5c67cc95", null ],
+    [ "m_center_x", "de/d45/a08950.html#a25ec0d7656c52f0a9c4b24ea81e37771", null ],
+    [ "m_center_y", "de/d45/a08950.html#aa0d25b2794648c6a1f6895632e8a10ea", null ],
+    [ "m_dist", "de/d45/a08950.html#a7b6cf79a4806aff044b3f6b7d9181aaf", null ],
+    [ "m_nextUsedPos", "de/d45/a08950.html#a56ff73252996b988d6d1ea384dad1de8", null ],
+    [ "m_size", "de/d45/a08950.html#a3a61d5b8187c602ba5a2213283b5139c", null ],
+    [ "m_smallStepAngle", "de/d45/a08950.html#a39bfdb4e3b3e3e3d902387c548bf81ff", null ],
+    [ "m_smallStepNextUsedPos", "de/d45/a08950.html#aa98dfa81684059fe8f96f64d228e8d6b", null ],
+    [ "m_smallStepOk", "de/d45/a08950.html#a7f798861b78a0b54ad121e6acb5e442c", null ],
+    [ "m_UsedPosLists", "de/d45/a08950.html#afa4cdf73a3473398e0fa2106b6680e55", null ]
 ];

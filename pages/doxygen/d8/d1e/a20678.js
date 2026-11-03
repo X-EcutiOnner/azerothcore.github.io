@@ -1,5 +1,7 @@
 var a20678 =
 [
-    [ "achievement_i_have_the_coolest_friends", "d8/d1e/a20678.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "d8/d1e/a20678.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "HandleScript", "d8/d1e/a20678.html#a760bb60198017605111d02af98c827b1", null ],
+    [ "PrepareSpellScript", "d8/d1e/a20678.html#a6128956f1037b62fff2e6f10ec22d956", null ],
+    [ "Register", "d8/d1e/a20678.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
+    [ "Validate", "d8/d1e/a20678.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
 ];

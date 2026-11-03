@@ -1,50 +1,14 @@
 var a01358 =
 [
-    [ "npc_oculus_drakegiver", "dc/d15/a20002.html", "dc/d15/a20002" ],
-    [ "npc_oculus_drakegiver::npc_oculus_drakegiverAI", "d3/d5c/a20006.html", "d3/d5c/a20006" ],
-    [ "npc_oculus_drake", "db/dcd/a20010.html", "db/dcd/a20010" ],
-    [ "npc_oculus_drake::npc_oculus_drakeAI", "d2/d54/a20014.html", "d2/d54/a20014" ],
-    [ "npc_centrifuge_construct", "d2/ddf/a20018.html", "d2/ddf/a20018" ],
-    [ "npc_centrifuge_construct::npc_centrifuge_constructAI", "df/d1d/a20022.html", "df/d1d/a20022" ],
-    [ "spell_oculus_stop_time_aura", "de/dda/a20026.html", "de/dda/a20026" ],
-    [ "spell_oculus_evasive_maneuvers_aura", "d2/db3/a20030.html", "d2/db3/a20030" ],
-    [ "spell_oculus_shock_lance", "d6/d47/a20034.html", "d6/d47/a20034" ],
-    [ "spell_oculus_temporal_rift_aura", "d3/dd2/a20038.html", "d3/dd2/a20038" ],
-    [ "spell_oculus_touch_the_nightmare", "d8/d63/a20042.html", "d8/d63/a20042" ],
-    [ "spell_oculus_dream_funnel_aura", "de/df6/a20046.html", "de/df6/a20046" ],
-    [ "spell_oculus_call_ruby_emerald_amber_drake", "df/d2b/a20050.html", "df/d2b/a20050" ],
-    [ "spell_oculus_ride_ruby_emerald_amber_drake_que_aura", "d6/dfd/a20054.html", "d6/dfd/a20054" ],
-    [ "spell_oculus_evasive_charges_aura", "d8/d35/a20058.html", "d8/d35/a20058" ],
-    [ "spell_oculus_soar_aura", "d2/daa/a20062.html", "d2/daa/a20062" ],
-    [ "spell_oculus_rider_aura", "de/df4/a20066.html", "de/df4/a20066" ],
-    [ "spell_oculus_drake_flag_aura", "dc/dc1/a20070.html", "dc/dc1/a20070" ],
-    [ "HAS_ESSENCE", "de/d5c/a01358.html#aad8883e78e9afef9daca7491aa162c8c", null ],
-    [ "DrakeGiverTexts", "de/d5c/a01358.html#ac3a5c0d6b6a7ab24832adce4fd436e58", [
-      [ "GOSSIP_TEXTID_DRAKES", "de/d5c/a01358.html#ac3a5c0d6b6a7ab24832adce4fd436e58a5dd545edd279e8b713f39d9d5b725c9e", null ],
-      [ "GOSSIP_TEXTID_BELGARISTRASZ1", "de/d5c/a01358.html#ac3a5c0d6b6a7ab24832adce4fd436e58a8e5b7d65d8983abc140c8aa681cf9a1c", null ],
-      [ "GOSSIP_TEXTID_BELGARISTRASZ2", "de/d5c/a01358.html#ac3a5c0d6b6a7ab24832adce4fd436e58a506e9eee232ad98a72834b04e5c9787e", null ],
-      [ "GOSSIP_TEXTID_VERDISA1", "de/d5c/a01358.html#ac3a5c0d6b6a7ab24832adce4fd436e58a988e54c528362900b72b40027d3eef5d", null ],
-      [ "GOSSIP_TEXTID_VERDISA2", "de/d5c/a01358.html#ac3a5c0d6b6a7ab24832adce4fd436e58a5a05abc18f63f569b4856d1b5a2098fb", null ],
-      [ "GOSSIP_TEXTID_VERDISA3", "de/d5c/a01358.html#ac3a5c0d6b6a7ab24832adce4fd436e58aebdd6b2cdac7983c247a1a42e78771cc", null ],
-      [ "GOSSIP_TEXTID_ETERNOS1", "de/d5c/a01358.html#ac3a5c0d6b6a7ab24832adce4fd436e58ae1a121435466004734f56085e9e46925", null ],
-      [ "GOSSIP_TEXTID_ETERNOS2", "de/d5c/a01358.html#ac3a5c0d6b6a7ab24832adce4fd436e58ab2bb3a053b68620eefaf1997dce0bf5f", null ],
-      [ "GOSSIP_TEXTID_ETERNOS3", "de/d5c/a01358.html#ac3a5c0d6b6a7ab24832adce4fd436e58ab6324d1c2afca8bc0980d58bfe5a6677", null ]
-    ] ],
-    [ "Drakes", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528", [
-      [ "SPELL_RIDE_RUBY_DRAKE_QUE", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528af541b20e84bf5f579d9e482d7aa8a8be", null ],
-      [ "SPELL_RIDE_AMBER_DRAKE_QUE", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528a92fce45d9cbce0450ed91e2e78b025d2", null ],
-      [ "SPELL_RIDE_EMERALD_DRAKE_QUE", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528a778d5f012fd7d1541bfae3038c1d0a85", null ],
-      [ "SPELL_EMPOWERING_BLOWS", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528a54228d0fabb74c8e39747855c9302e75", null ],
-      [ "SPELL_AMBER_SHOCK_CHARGE", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528a08e9f1ae93fd2469f2c97cf4c98731af", null ],
-      [ "SPELL_RUBY_EVASIVE_CHARGES", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528a7c4cc6300acfcaaf61fc0dc7e31cda35", null ],
-      [ "SPELL_DRAKE_FLAG_VISUAL", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528a09668a45c49a57b5d70e2961a2ccdf9a", null ],
-      [ "SPELL_SOAR_TRIGGER", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528adfbf98e4377ddf5ada53b9d204099c5d", null ],
-      [ "SPELL_SOAR_BUFF", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528a9ec1abead0774fc9b03a5fdfd3b94c62", null ],
-      [ "SPELL_SCALE_STATS", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528a300f58de77f75b2f78df18d76a69ca14", null ],
-      [ "SPELL_RUBY_EVASIVE_AURA", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528a5ce8fff57a28a3412818d08a7a1de535", null ],
-      [ "SPELL_RUBY_EVASIVE_MANEUVERS", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528a20e83133eb94ba56940fd74c655fa3eb", null ],
-      [ "POINT_LAND", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528a858ba1dc5b34b3ff5f41a194feea519f", null ],
-      [ "POINT_TAKE_OFF", "de/d5c/a01358.html#a222a3a69cee0aa1d09375ffa8e2ab528a5d2a7910d1b37d273b0cf215d624b394", null ]
-    ] ],
-    [ "AddSC_oculus", "de/d5c/a01358.html#aa8f1a8c35b82599cd1ebfc60ae15931c", null ]
+    [ "BattlefieldScript", "d6/dd9/a10826.html", "d6/dd9/a10826" ],
+    [ "BattlefieldHook", "de/d5c/a01358.html#ad9fb0d66e6cd28e54d79830f1d725089", [
+      [ "BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE", "de/d5c/a01358.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE", "de/d5c/a01358.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR", "de/d5c/a01358.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR", "de/d5c/a01358.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab", null ],
+      [ "BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR", "de/d5c/a01358.html#ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710", null ],
+      [ "BATTLEFIELDHOOK_ON_WAR_END", "de/d5c/a01358.html#ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_KILL", "de/d5c/a01358.html#ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e", null ],
+      [ "BATTLEFIELDHOOK_END", "de/d5c/a01358.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac", null ]
+    ] ]
 ];

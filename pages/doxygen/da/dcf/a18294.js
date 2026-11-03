@@ -1,10 +1,12 @@
 var a18294 =
 [
-    [ "npc_cult_fanaticAI", "da/dcf/a18294.html#a766e536288b84110f88a8bd282e97932", null ],
-    [ "JustEngagedWith", "da/dcf/a18294.html#a709b75f4b1519bc7c6988985a22d076f", null ],
-    [ "Reset", "da/dcf/a18294.html#a772830df1d16d0463c8c00f14c337db0", null ],
-    [ "SpellHit", "da/dcf/a18294.html#a17c02a83b522c9717de3d89517104e42", null ],
-    [ "UpdateAI", "da/dcf/a18294.html#ac79afdab3721d78d2b7e5da360083cea", null ],
-    [ "_instance", "da/dcf/a18294.html#a7448fdf85cccfcb12509b0274205bff4", null ],
-    [ "events", "da/dcf/a18294.html#a9576978141062fa1babbbc5ed42483c4", null ]
+    [ "npc_darnavanAI", "da/dcf/a18294.html#ae06019c24910c873877398f29f5a1737", null ],
+    [ "JustDied", "da/dcf/a18294.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
+    [ "JustEngagedWith", "da/dcf/a18294.html#acbaedacea5ad19d82002c25b68623a27", null ],
+    [ "MovementInform", "da/dcf/a18294.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
+    [ "Reset", "da/dcf/a18294.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
+    [ "UpdateAI", "da/dcf/a18294.html#a2b3b5e168989db21fc047acaf01413d9", null ],
+    [ "_canCharge", "da/dcf/a18294.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
+    [ "_canShatter", "da/dcf/a18294.html#aa7750edc8051c8ee453143491dccf122", null ],
+    [ "events", "da/dcf/a18294.html#aa8a022ccb1367432480f72d305c752ac", null ]
 ];

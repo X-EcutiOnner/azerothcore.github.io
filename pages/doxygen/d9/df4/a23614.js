@@ -1,6 +1,6 @@
 var a23614 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d9/df4/a23614.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
-    [ "OnGameObjectCreate", "d9/df4/a23614.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
-    [ "SetBossState", "d9/df4/a23614.html#ab1e344fbf169ee40f28741217f3dca14", null ]
+    [ "instance_steam_vault_InstanceMapScript", "da/d73/a23618.html", "da/d73/a23618" ],
+    [ "instance_steam_vault", "d9/df4/a23614.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "d9/df4/a23614.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

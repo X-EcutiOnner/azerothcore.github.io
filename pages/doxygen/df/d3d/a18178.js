@@ -1,7 +1,8 @@
 var a18178 =
 [
-    [ "npc_gunship_rocketeerAI", "df/d3d/a18178.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
-    [ "CanAIAttack", "df/d3d/a18178.html#a4b4e2839e426bdb752beea09394f13dc", null ],
-    [ "MovementInform", "df/d3d/a18178.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
-    [ "UpdateAI", "df/d3d/a18178.html#af73d71750f116fb90be1c2acba75ca70", null ]
+    [ "Load", "df/d3d/a18178.html#ad1105149d5e42318382af6c07149d522", null ],
+    [ "PeriodicTick", "df/d3d/a18178.html#a8e675178256746d08af50a6b75ec582e", null ],
+    [ "PrepareAuraScript", "df/d3d/a18178.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
+    [ "Register", "df/d3d/a18178.html#a0fa7d86214827711edd019dd3b40c667", null ],
+    [ "_tickNo", "df/d3d/a18178.html#a418212d2daa873d69a83b4c1341a8903", null ]
 ];

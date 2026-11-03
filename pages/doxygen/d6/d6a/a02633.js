@@ -1,4 +1,5 @@
 var a02633 =
 [
-    [ "SplineRawInitializer", "d5/d43/a10418.html", "d5/d43/a10418" ]
+    [ "TotemAI", "dd/d84/a06602.html", "dd/d84/a06602" ],
+    [ "KillMagnetEvent", "d4/d2f/a06606.html", "d4/d2f/a06606" ]
 ];

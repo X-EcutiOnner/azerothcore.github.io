@@ -1,8 +1,5 @@
 var a19246 =
 [
-    [ "ICCOrbControllerMinionSearch", "de/dcd/a19246.html#a4ad0fe75b994f2bf9cda7e52a2aa21cb", null ],
-    [ "operator()", "de/dcd/a19246.html#a4b7f4833f5dc780cc0c946b530bb9767", null ],
-    [ "_checkCasting", "de/dcd/a19246.html#a46624ac7610ccc72baa93d68bf89e070", null ],
-    [ "_owner", "de/dcd/a19246.html#a056aa0d3240c47c65138ec4469e39953", null ],
-    [ "_range", "de/dcd/a19246.html#a2a2d14d469f39d6af0e9110266b20b6c", null ]
+    [ "npc_darkfallen_archmage", "de/dcd/a19246.html#a8d21215aba6a282cf6d6450551876813", null ],
+    [ "ScheduleSpells", "de/dcd/a19246.html#a9a0e12d3d69a7c409d5c32ec68c51f60", null ]
 ];

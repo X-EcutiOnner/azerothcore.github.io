@@ -5,7 +5,5 @@ var a13430 =
     [ "JustEngagedWith", "df/d01/a13430.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
     [ "Reset", "df/d01/a13430.html#ae0b375abe5ec909cfaff96c257da0325", null ],
     [ "UpdateAI", "df/d01/a13430.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
-    [ "_scheduler", "df/d01/a13430.html#a93663ee806385f617e81a03062dd94d6", null ],
-    [ "instance", "df/d01/a13430.html#a13b969fa86ef57f9508117a73252a36b", null ],
-    [ "TerestianGUID", "df/d01/a13430.html#a411476da379bf687cd007e25ba11280e", null ]
+    [ "_scheduler", "df/d01/a13430.html#a93663ee806385f617e81a03062dd94d6", null ]
 ];

@@ -1,9 +1,8 @@
 var a26654 =
 [
-    [ "CheckProc", "da/d91/a26654.html#abc802dd38555c1165e290046418018b6", null ],
-    [ "HasManaCost", "da/d91/a26654.html#a951452680451b435b622b9ccb0de535c", null ],
-    [ "IsPenanceChannel", "da/d91/a26654.html#ab020e0b8e7697b196adca557cf4654c7", null ],
-    [ "PrepareAuraScript", "da/d91/a26654.html#ac999475afaf03801a085b0f1ded23b6d", null ],
-    [ "Register", "da/d91/a26654.html#ab3ccb71330c9d6d94003cbfb3b7ca261", null ],
-    [ "Validate", "da/d91/a26654.html#aa7e88d03e994533ebcc486d12464452f", null ]
+    [ "CheckProc", "da/d91/a26654.html#ae0e2b86fc99705d7a80c2122643db33f", null ],
+    [ "HandleProc", "da/d91/a26654.html#ae1027c9041171c9ed613acfd68be5ba3", null ],
+    [ "PrepareAuraScript", "da/d91/a26654.html#a69d4c898f52ce6334f0bf9963e8c5085", null ],
+    [ "Register", "da/d91/a26654.html#acfea07ba1efeba58bcfc465122a3f66d", null ],
+    [ "Validate", "da/d91/a26654.html#a69daf001676f73289682ff63897e81cb", null ]
 ];

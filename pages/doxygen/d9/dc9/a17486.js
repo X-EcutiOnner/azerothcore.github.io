@@ -1,9 +1,8 @@
 var a17486 =
 [
-    [ "npc_hor_spiritual_reflection", "d9/dc9/a17486.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
-    [ "EnterEvadeMode", "d9/dc9/a17486.html#a3973e83b013df723849939635071324f", null ],
-    [ "JustDied", "d9/dc9/a17486.html#a913d17e1534a5940b7841e38eae246f7", null ],
-    [ "JustEngagedWith", "d9/dc9/a17486.html#ad47d12654c88cc94b7c17906e4096115", null ],
-    [ "Reset", "d9/dc9/a17486.html#aa7dad28bbe53286ec298ba5480717e69", null ],
-    [ "UpdateAI", "d9/dc9/a17486.html#a5093b6502bca95c22b2b0f0117f86047", null ]
+    [ "npc_hor_risen_witch_doctor", "d9/dc9/a17486.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "d9/dc9/a17486.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "d9/dc9/a17486.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "d9/dc9/a17486.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "d9/dc9/a17486.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

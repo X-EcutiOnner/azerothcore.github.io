@@ -1,6 +1,8 @@
 var a19698 =
 [
-    [ "boss_loathebAI", "d7/df7/a19702.html", "d7/df7/a19702" ],
-    [ "boss_loatheb", "de/da7/a19698.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
-    [ "GetAI", "de/da7/a19698.html#aca9b3a2515777f81b354c01a9727276e", null ]
+    [ "boss_maexxna_webwrapAI", "de/da7/a19698.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "de/da7/a19698.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "de/da7/a19698.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "de/da7/a19698.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "de/da7/a19698.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

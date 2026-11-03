@@ -1,6 +1,6 @@
 var a19510 =
 [
-    [ "instance_icecrown_citadel_InstanceMapScript", "d1/d80/a19514.html", "d1/d80/a19514" ],
-    [ "instance_icecrown_citadel", "df/d00/a19510.html#a0901e23025cff08d1a7516bbef099ffa", null ],
-    [ "GetInstanceScript", "df/d00/a19510.html#a787c32626681f15f5515385a9ba6b848", null ]
+    [ "npc_ioc_gunship_captainAI", "d1/d80/a19514.html", "d1/d80/a19514" ],
+    [ "npc_ioc_gunship_captain", "df/d00/a19510.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
+    [ "GetAI", "df/d00/a19510.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
 ];

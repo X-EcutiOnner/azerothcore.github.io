@@ -1,6 +1,6 @@
 var a19670 =
 [
-    [ "boss_kelthuzadAI", "db/d14/a19674.html", "db/d14/a19674" ],
-    [ "boss_kelthuzad", "d3/db2/a19670.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
-    [ "GetAI", "d3/db2/a19670.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
+    [ "HandleAfterHit", "d3/db2/a19670.html#a4f9ee2b8830fc812a78154f8b54a0a47", null ],
+    [ "PrepareSpellScript", "d3/db2/a19670.html#a75d2e4bc16170348893654d53c1bb6d7", null ],
+    [ "Register", "d3/db2/a19670.html#a5e33a371d519c2fdc8561f2ac8d9dd82", null ]
 ];

@@ -1,6 +1,7 @@
 var a22134 =
 [
-    [ "CheckRequirement", "dc/d50/a22134.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "dc/d50/a22134.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "dc/d50/a22134.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "HandleAfterEffectApply", "dc/d50/a22134.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "dc/d50/a22134.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "dc/d50/a22134.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "dc/d50/a22134.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

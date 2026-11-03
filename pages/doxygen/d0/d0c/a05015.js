@@ -1,17 +1,21 @@
 var a05015 =
 [
-    [ "FormatArgs", "d0/d0c/a05015.html#a300bea6aa9ed219f5f3636b900db3ac9", null ],
-    [ "FormatString", "d0/d0c/a05015.html#a32c972cafca136b88de5b298d6cba338", null ],
-    [ "FormatStringView", "d0/d0c/a05015.html#a9a310e3057a14b5ee0f7520e08cb0410", null ],
-    [ "AddSuffixIfNotExists", "d0/d0c/a05015.html#a712bea71ec99d750664fd46c690a1ad9", null ],
-    [ "format_as", "d0/d0c/a05015.html#aaa7f21af5991452196a22cd79e127825", null ],
-    [ "IsFormatEmptyOrNull", "d0/d0c/a05015.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
-    [ "IsFormatEmptyOrNull", "d0/d0c/a05015.html#a84459e91f517fc4f79414cc23370b9f1", null ],
-    [ "MakeFormatArgs", "d0/d0c/a05015.html#abd5773b7124dcbc8deb88f522cdcc86f", null ],
-    [ "StringFormat", "d0/d0c/a05015.html#a1b97349dfcb88c6974882d7e34c55895", null ],
-    [ "StringFormatTo", "d0/d0c/a05015.html#a7c53f407c3169d5a97d012ca3470880d", null ],
-    [ "StringVFormat", "d0/d0c/a05015.html#acc68f8d815604ae13c370c09fbb60efd", null ],
-    [ "StringVFormatTo", "d0/d0c/a05015.html#a17112c1b25595793b63f24de06f90081", null ],
-    [ "Trim", "d0/d0c/a05015.html#ad9cd9e0eab5d7794778d1270b2720337", null ],
-    [ "TrimRightInPlace", "d0/d0c/a05015.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
+    [ "item_only_for_flight", "da/d9f/a28570.html", "da/d9f/a28570" ],
+    [ "item_incendiary_explosives", "d8/d3d/a28574.html", "d8/d3d/a28574" ],
+    [ "item_mysterious_egg", "d5/d06/a28578.html", "d5/d06/a28578" ],
+    [ "item_disgusting_jar", "df/dfe/a28582.html", "df/dfe/a28582" ],
+    [ "item_petrov_cluster_bombs", "de/dcf/a28586.html", "de/dcf/a28586" ],
+    [ "item_captured_frog", "d3/d88/a28590.html", "d3/d88/a28590" ],
+    [ "item_generic_limit_chance_above_60", "d3/d41/a28594.html", "d3/d41/a28594" ],
+    [ "CapturedFrog", "d0/d0c/a05015.html#a3a51d3f5cfd1964cbec23fcba5046cca", [
+      [ "QUEST_THE_PERFECT_SPIES", "d0/d0c/a05015.html#a3a51d3f5cfd1964cbec23fcba5046ccaac3f8eeb86f6f3fe350b15b7a2d86bb04", null ],
+      [ "NPC_VANIRAS_SENTRY_TOTEM", "d0/d0c/a05015.html#a3a51d3f5cfd1964cbec23fcba5046ccaac387e8b467655f50a7dbaa8bcd0de57f", null ]
+    ] ],
+    [ "OnlyForFlight", "d0/d0c/a05015.html#afa5a0f3082f0a49fcc796209c7828151", [
+      [ "SPELL_ARCANE_CHARGES", "d0/d0c/a05015.html#afa5a0f3082f0a49fcc796209c7828151aeefbb491736447da40481cf5a8742e2d", null ]
+    ] ],
+    [ "PetrovClusterBombs", "d0/d0c/a05015.html#a5481d2bf1b9efa370833eed302f6f94c", [
+      [ "SPELL_PETROV_BOMB", "d0/d0c/a05015.html#a5481d2bf1b9efa370833eed302f6f94ca52897b7254f1ac012c7e278d8dcbd8b6", null ]
+    ] ],
+    [ "AddSC_item_scripts", "d0/d0c/a05015.html#a3e28ebf5a580887bb117f786689a34c6", null ]
 ];

@@ -1,6 +1,5 @@
 var a20642 =
 [
-    [ "FilterTargets", "d4/deb/a20642.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "d4/deb/a20642.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "d4/deb/a20642.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "achievement_cheese_the_freeze", "d4/deb/a20642.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
+    [ "OnCheck", "d4/deb/a20642.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
 ];

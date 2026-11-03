@@ -1,6 +1,7 @@
 var a21242 =
 [
-    [ "OnEffect", "d7/dbb/a21242.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d7/dbb/a21242.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d7/dbb/a21242.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "OnApply", "d7/dbb/a21242.html#a458871e0d2c1969a91ce9474b3ad87d0", null ],
+    [ "PrepareAuraScript", "d7/dbb/a21242.html#a3a6b71d35bfcf681c98bb3bb4331e91c", null ],
+    [ "Register", "d7/dbb/a21242.html#a4d6bb68d17bbc1b10d828b1d70155f65", null ],
+    [ "Validate", "d7/dbb/a21242.html#a1ffe527d33de10a7dc8431311f4d738e", null ]
 ];

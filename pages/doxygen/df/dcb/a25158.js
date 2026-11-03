@@ -1,10 +1,6 @@
 var a25158 =
 [
-    [ "HandleTickUpdate", "df/dcb/a25158.html#aa9c1d6c644a3e42b21d1025fc3b06f69", null ],
-    [ "PrepareAuraScript", "df/dcb/a25158.html#aa930d63d22acf8e7aebbdd828cd09f36", null ],
-    [ "Register", "df/dcb/a25158.html#abf597eb55f63858528325eef387fc344", null ],
-    [ "SetTickHeal", "df/dcb/a25158.html#a2eabcc9aa3898c11062677eca73d1de1", null ],
-    [ "Validate", "df/dcb/a25158.html#ab59a1830ca97e1bda455da330a894d5c", null ],
-    [ "_baseReduction", "df/dcb/a25158.html#a8a3a8adce3dde9300e380500c6877d37", null ],
-    [ "_baseTick", "df/dcb/a25158.html#acd801570e2a1b274ed0d9e8bcc6b66f0", null ]
+    [ "HandleHeal", "df/dcb/a25158.html#a682a496d59201774de50951ffd2c7c0d", null ],
+    [ "PrepareSpellScript", "df/dcb/a25158.html#a10dd1c0f67ff07f8e35ba0322c934899", null ],
+    [ "Register", "df/dcb/a25158.html#abc29f509e703f3807241b63f728a69af", null ]
 ];

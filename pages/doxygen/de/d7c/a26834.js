@@ -1,7 +1,6 @@
 var a26834 =
 [
-    [ "CheckProc", "de/d7c/a26834.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
-    [ "HandleProc", "de/d7c/a26834.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
-    [ "PrepareAuraScript", "de/d7c/a26834.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
-    [ "Register", "de/d7c/a26834.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
+    [ "CheckEffectProc", "de/d7c/a26834.html#af7756cdb71cc2acc15c56fffc49609f4", null ],
+    [ "PrepareAuraScript", "de/d7c/a26834.html#a1025c7edec455f647c5c37ffebdf7576", null ],
+    [ "Register", "de/d7c/a26834.html#a282d4aced8b34e5d800e13dc8e71ef7b", null ]
 ];

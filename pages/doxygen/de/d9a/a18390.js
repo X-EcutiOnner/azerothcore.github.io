@@ -1,6 +1,5 @@
 var a18390 =
 [
-    [ "boss_professor_putricideAI", "d2/da3/a18394.html", "d2/da3/a18394" ],
-    [ "boss_professor_putricide", "de/d9a/a18390.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "de/d9a/a18390.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "npc_gas_cloudAI", "de/d9a/a18390.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
+    [ "CastMainSpell", "de/d9a/a18390.html#a61681f6f9616fe33274302d4160c709b", null ]
 ];

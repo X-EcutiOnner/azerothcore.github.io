@@ -1,7 +1,6 @@
 var a24282 =
 [
-    [ "npc_maghar_captiveAI", "d9/d41/a24286.html", "d9/d41/a24286" ],
-    [ "npc_maghar_captive", "dd/d1c/a24282.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "dd/d1c/a24282.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "dd/d1c/a24282.html#a0cd3a423866b9b5449f8efc729b69c27", null ]
+    [ "go_magtheridons_head", "dd/d1c/a24282.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "dd/d1c/a24282.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "dd/d1c/a24282.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

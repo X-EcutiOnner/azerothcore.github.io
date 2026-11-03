@@ -1,6 +1,6 @@
 var a21262 =
 [
-    [ "FilterTargets", "dc/dff/a21262.html#a8303045991c638e87c72940174f69a7f", null ],
-    [ "PrepareSpellScript", "dc/dff/a21262.html#a18fdfdfa7f90a903086902d249678565", null ],
-    [ "Register", "dc/dff/a21262.html#af8d3f834e06a543a96065102fa78bc5c", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "dc/dff/a21262.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "dc/dff/a21262.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "dc/dff/a21262.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

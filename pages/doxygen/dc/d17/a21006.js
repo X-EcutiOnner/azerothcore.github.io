@@ -1,6 +1,8 @@
 var a21006 =
 [
-    [ "PrepareSpellScript", "dc/d17/a21006.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
-    [ "Register", "dc/d17/a21006.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
-    [ "SelectPillar", "dc/d17/a21006.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
+    [ "npc_scrapbot", "dc/d17/a21006.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
+    [ "Reset", "dc/d17/a21006.html#a2dca509a6e2b46674165e5559717f69c", null ],
+    [ "UpdateAI", "dc/d17/a21006.html#ade90c75baf598900adaa300cef28cb6a", null ],
+    [ "_instance", "dc/d17/a21006.html#afb8296b4d9105ee99abc534656289ae2", null ],
+    [ "_scheduler", "dc/d17/a21006.html#a4deb841588ea244e4290bb8ffb69b483", null ]
 ];

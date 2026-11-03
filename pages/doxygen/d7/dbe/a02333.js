@@ -1,8 +1,10 @@
 var a02333 =
 [
-    [ "PingOperation", "d6/d30/a06150.html", "d6/d30/a06150" ],
-    [ "DatabaseIncompatibleVersion", "d7/dbe/a02333.html#a31d71bc4748fa66e040eb20dc995e12e", null ],
-    [ "DatabaseWorkerPool< CharacterDatabaseConnection >", "d7/dbe/a02333.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18", null ],
-    [ "DatabaseWorkerPool< LoginDatabaseConnection >", "d7/dbe/a02333.html#a8751940b74a554bf0a86046325e0c5ed", null ],
-    [ "DatabaseWorkerPool< WorldDatabaseConnection >", "d7/dbe/a02333.html#a25e66781580e4e7fcbd8e8ca6ef9f13a", null ]
+    [ "TradeData", "d3/d38/a09166.html", "d3/d38/a09166" ],
+    [ "TradeSlots", "d7/dbe/a02333.html#ad8fd978c4198825d89a1f02643d20c62", [
+      [ "TRADE_SLOT_COUNT", "d7/dbe/a02333.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488", null ],
+      [ "TRADE_SLOT_TRADED_COUNT", "d7/dbe/a02333.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79", null ],
+      [ "TRADE_SLOT_NONTRADED", "d7/dbe/a02333.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f", null ],
+      [ "TRADE_SLOT_INVALID", "d7/dbe/a02333.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4", null ]
+    ] ]
 ];

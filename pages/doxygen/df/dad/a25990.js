@@ -1,5 +1,7 @@
 var a25990 =
 [
-    [ "PrepareSpellScript", "df/dad/a25990.html#a999d5173e12b643e0bdcefcd099f65d1", null ],
-    [ "Register", "df/dad/a25990.html#afd92511fb578c1df33248dba5055315e", null ]
+    [ "OnDummyEffect", "df/dad/a25990.html#a333c11c7ee2821bcc4d74d316f55bf5a", null ],
+    [ "PrepareSpellScript", "df/dad/a25990.html#aa15334f23b837a005a34a12d238fc9d5", null ],
+    [ "Register", "df/dad/a25990.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ],
+    [ "Validate", "df/dad/a25990.html#a359fba1475e52b24635cc8dda51cc922", null ]
 ];

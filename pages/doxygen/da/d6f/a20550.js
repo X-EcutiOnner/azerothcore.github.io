@@ -1,8 +1,5 @@
 var a20550 =
 [
-    [ "npc_ulduar_saronite_animus", "da/d6f/a20550.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
-    [ "JustDied", "da/d6f/a20550.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
-    [ "UpdateAI", "da/d6f/a20550.html#afc7899752e25669b37ab04b50fb2d604", null ],
-    [ "_instance", "da/d6f/a20550.html#a6f2bf52c82185365efe88941b7922504", null ],
-    [ "timer", "da/d6f/a20550.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
+    [ "achievement_smell_saronite", "da/d6f/a20550.html#a42dce2aefa2561952dcf5289126035a8", null ],
+    [ "OnCheck", "da/d6f/a20550.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
 ];

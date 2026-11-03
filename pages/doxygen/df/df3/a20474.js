@@ -1,7 +1,7 @@
 var a20474 =
 [
-    [ "achievement_flame_leviathan_garage", "df/df3/a20474.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "df/df3/a20474.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "df/df3/a20474.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "df/df3/a20474.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "boss_freya_iron_root", "df/df3/a20474.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "df/df3/a20474.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ],
+    [ "OnDespawn", "df/df3/a20474.html#abd0258796a696e6665ecd51b27cc0b1e", null ],
+    [ "ReleaseRootedPlayer", "df/df3/a20474.html#a87fe9f9e32bcc44e8692fd317ab864db", null ]
 ];

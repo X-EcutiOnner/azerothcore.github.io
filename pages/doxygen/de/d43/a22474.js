@@ -1,7 +1,10 @@
 var a22474 =
 [
-    [ "HandleDummy", "de/d43/a22474.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "de/d43/a22474.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "de/d43/a22474.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "de/d43/a22474.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_time_lost_proto_drakeAI", "de/d43/a22474.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "ArmHiddenState", "de/d43/a22474.html#ac397eb8580e523214dec0cf9b15b18f5", null ],
+    [ "DoAction", "de/d43/a22474.html#a0357600a1ed7bc17cd5dfdf822c5296b", null ],
+    [ "JustEngagedWith", "de/d43/a22474.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "JustRespawned", "de/d43/a22474.html#ac59dcf8cd9c19f2bf4a1bdba6f21b9d1", null ],
+    [ "Reset", "de/d43/a22474.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "de/d43/a22474.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

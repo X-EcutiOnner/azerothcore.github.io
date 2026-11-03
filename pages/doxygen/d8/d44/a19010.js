@@ -1,6 +1,6 @@
 var a19010 =
 [
-    [ "boss_valithria_dreamwalkerAI", "db/d3a/a19014.html", "db/d3a/a19014" ],
-    [ "boss_valithria_dreamwalker", "d8/d44/a19010.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d8/d44/a19010.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "npc_risen_archmageAI", "db/d3a/a19014.html", "db/d3a/a19014" ],
+    [ "npc_risen_archmage", "d8/d44/a19010.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
+    [ "GetAI", "d8/d44/a19010.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
 ];

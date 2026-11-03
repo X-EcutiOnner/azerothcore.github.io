@@ -1,6 +1,7 @@
 var a20398 =
 [
-    [ "npc_salvaged_chopper", "dd/db1/a20398.html#ad2d875ba3e7de8e44213cd8fdf383df0", null ],
-    [ "PassengerBoarded", "dd/db1/a20398.html#a12e63e4a2ce543293a398bfe3e9635ad", null ],
-    [ "SwapActionButton", "dd/db1/a20398.html#afe67864f4315ad1fa876572c840cc190", null ]
+    [ "FilterTargets", "dd/db1/a20398.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "dd/db1/a20398.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "dd/db1/a20398.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "dd/db1/a20398.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

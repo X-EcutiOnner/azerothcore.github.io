@@ -1,9 +1,7 @@
 var a00605 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "d0/de6/a22738.html", "d0/de6/a22738" ],
-    [ "AddSC_outdoorpvp_hp", "d0/d1c/a00605.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "HP_LANG_CAPTURE_A", "d0/d1c/a00605.html#a642fe1233b764402bae812604b684442", null ],
-    [ "HP_LANG_CAPTURE_H", "d0/d1c/a00605.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
-    [ "HP_LANG_LOSE_A", "d0/d1c/a00605.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
-    [ "HP_LANG_LOSE_H", "d0/d1c/a00605.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
+    [ "Crash", "d0/d1c/a00605.html#a510bae7d9948cf497418ec913452009f", null ],
+    [ "GetDebugInfo", "d0/d1c/a00605.html#a29601d3ea684d75bac9c331eb4866951", null ],
+    [ "MakeAbortMessage", "d0/d1c/a00605.html#a52b8a43ee2424672ac8de45dcc283eda", null ],
+    [ "MakeMessage", "d0/d1c/a00605.html#a31219fe016a9b170fc6ae111157ba552", null ]
 ];

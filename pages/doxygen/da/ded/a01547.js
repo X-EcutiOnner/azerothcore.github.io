@@ -1,20 +1,21 @@
 var a01547 =
 [
-    [ "instance_blackwing_lair", "de/dfc/a13118.html", "de/dfc/a13118" ],
-    [ "spell_bwl_shadowflame", "d2/dd9/a13122.html", "d2/dd9/a13122" ],
-    [ "at_orb_of_command", "d3/d1e/a13126.html", "d3/d1e/a13126" ],
-    [ "orb_of_command_misc", "da/ded/a01547.html#a5ddae3d5f11ae5a5d826e7e18d4cded5", [
-      [ "QUEST_BLACKHANDS_COMMAND", "da/ded/a01547.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5", null ]
-    ] ],
-    [ "ShadowFlame", "da/ded/a01547.html#a18a82309d32c08f1de5944fde20789fa", [
-      [ "SPELL_ONYXIA_SCALE_CLOAK", "da/ded/a01547.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0", null ],
-      [ "SPELL_SHADOW_FLAME_DOT", "da/ded/a01547.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e", null ]
-    ] ],
-    [ "AddSC_instance_blackwing_lair", "da/ded/a01547.html#a942a9ad3e1b872492dfc7d62615df103", null ],
-    [ "creatureData", "da/ded/a01547.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "da/ded/a01547.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "Entry", "da/ded/a01547.html#a79d118516d0621008a183666ffecc3ad", null ],
-    [ "objectData", "da/ded/a01547.html#a59ddfa91084111da23b5d47482e4ff8d", null ],
-    [ "orbOfCommandTP", "da/ded/a01547.html#a9ee49a7ad7d4b8e8f52533faa578370f", null ],
-    [ "SummonPosition", "da/ded/a01547.html#a2c79c628fd8c60d02dc0b2368a70be04", null ]
+    [ "WorldPackets::Misc::Weather", "d6/d8c/a11478.html", "d6/d8c/a11478" ],
+    [ "WorldPackets::Misc::LevelUpInfo", "d2/d54/a11482.html", "d2/d54/a11482" ],
+    [ "WorldPackets::Misc::PlayMusic", "d3/d9c/a11486.html", "d3/d9c/a11486" ],
+    [ "WorldPackets::Misc::PlayObjectSound", "d6/d9d/a11490.html", "d6/d9d/a11490" ],
+    [ "WorldPackets::Misc::Playsound", "d5/df1/a11494.html", "d5/df1/a11494" ],
+    [ "WorldPackets::Misc::MinimapPingClient", "de/d9f/a11498.html", "de/d9f/a11498" ],
+    [ "WorldPackets::Misc::MinimapPing", "dc/d77/a11502.html", "dc/d77/a11502" ],
+    [ "WorldPackets::Misc::RandomRollClient", "da/d63/a11506.html", "da/d63/a11506" ],
+    [ "WorldPackets::Misc::RandomRoll", "d4/d97/a11510.html", "d4/d97/a11510" ],
+    [ "WorldPackets::Misc::StartMirrorTimer", "d5/dcb/a11514.html", "d5/dcb/a11514" ],
+    [ "WorldPackets::Misc::PauseMirrorTimer", "d9/db3/a11518.html", "d9/db3/a11518" ],
+    [ "WorldPackets::Misc::StopMirrorTimer", "d6/d79/a11522.html", "d6/d79/a11522" ],
+    [ "WorldPackets::Misc::DurabilityDamageDeath", "da/dbd/a11526.html", "da/dbd/a11526" ],
+    [ "WorldPackets::Misc::CrossedInebriationThreshold", "d7/d90/a11530.html", "d7/d90/a11530" ],
+    [ "WorldPackets::Misc::UITime", "df/d71/a11534.html", "df/d71/a11534" ],
+    [ "WorldPackets::Misc::Complain", "dd/d35/a11538.html", "dd/d35/a11538" ],
+    [ "WorldPackets::Misc::ComplainResult", "d2/df7/a11542.html", "d2/df7/a11542" ],
+    [ "WorldPackets::Misc::PlayTimeWarning", "d1/d94/a11546.html", "d1/d94/a11546" ]
 ];

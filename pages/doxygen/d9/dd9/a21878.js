@@ -1,9 +1,6 @@
 var a21878 =
 [
-    [ "npc_archmage_landalockAI", "d9/dd9/a21878.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "d9/dd9/a21878.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "d9/dd9/a21878.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "d9/dd9/a21878.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "d9/dd9/a21878.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "d9/dd9/a21878.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "npc_dalaran_warriorAI", "d4/d55/a21882.html", "d4/d55/a21882" ],
+    [ "npc_dalaran_warrior", "d9/dd9/a21878.html#a13d44b85173232ddedcc35184d50549c", null ],
+    [ "GetAI", "d9/dd9/a21878.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
 ];

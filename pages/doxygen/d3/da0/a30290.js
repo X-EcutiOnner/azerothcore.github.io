@@ -1,10 +1,12 @@
 var a30290 =
 [
-    [ "MakeMemCheck", "d3/da0/a30290.html#a6ba8703f579decb2202833c00cd2d5a3", null ],
-    [ "SetUp", "d3/da0/a30290.html#a4b898d4d33a7f0534a4191355b7acbfe", null ],
-    [ "TearDown", "d3/da0/a30290.html#a3a557860ba88c7994bacee63ec60ee58", null ],
-    [ "enUsSession", "d3/da0/a30290.html#a0df9384783a37b13a85f1155ef01ff29", null ],
-    [ "originalWorld", "d3/da0/a30290.html#a2e04dd19db57deec1c4d0f56ed161d10", null ],
-    [ "ruRuSession", "d3/da0/a30290.html#a966f8e7c043efbab4d1ad7acff8bafb0", null ],
-    [ "worldMock", "d3/da0/a30290.html#a11c5676d49c0e8401f3151d1e9328fbf", null ]
+    [ "TestWardenSessionScript", "d3/da0/a30290.html#a5614d752b606909d8abcb659e471947c", null ],
+    [ "EnsureRegistered", "d3/da0/a30290.html#adcf3992d30c967c81c43593b72eff070", null ],
+    [ "OnWardenCheckExpectedResult", "d3/da0/a30290.html#aa78c744ddf1c231a3a83b1b571d043c3", null ],
+    [ "Reset", "d3/da0/a30290.html#a8728fd7ae859bcf41322bd16aeed86f9", null ],
+    [ "Answer", "d3/da0/a30290.html#a8ad7df675f6f4409f4e28b75ed960d38", null ],
+    [ "AnswerCheckId", "d3/da0/a30290.html#ad4ae56ceec782164ff3551177655f4bd", null ],
+    [ "AnswerLocale", "d3/da0/a30290.html#a90999961a164870696a386d81d88c418", null ],
+    [ "CallCount", "d3/da0/a30290.html#a455429117fe739492cde147cf9320c83", null ],
+    [ "Instance", "d3/da0/a30290.html#ab8f3927a4ec622d5ee2c1d929f7880b4", null ]
 ];

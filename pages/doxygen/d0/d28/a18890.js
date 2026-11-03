@@ -1,7 +1,6 @@
 var a18890 =
 [
-    [ "PrepareSpellScript", "d0/d28/a18890.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "d0/d28/a18890.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "d0/d28/a18890.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "d0/d28/a18890.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "npc_strangulate_vehicleAI", "d5/dc7/a18894.html", "d5/dc7/a18894" ],
+    [ "npc_strangulate_vehicle", "d0/d28/a18890.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "d0/d28/a18890.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

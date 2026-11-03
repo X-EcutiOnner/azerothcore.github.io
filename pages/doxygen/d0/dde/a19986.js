@@ -1,6 +1,6 @@
 var a19986 =
 [
-    [ "boss_varosAI", "d7/d31/a19990.html", "d7/d31/a19990" ],
-    [ "boss_varos", "d0/dde/a19986.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "d0/dde/a19986.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "npc_oculus_drakeAI", "d7/d31/a19990.html", "d7/d31/a19990" ],
+    [ "npc_oculus_drake", "d0/dde/a19986.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "d0/dde/a19986.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

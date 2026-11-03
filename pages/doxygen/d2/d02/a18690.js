@@ -1,5 +1,6 @@
 var a18690 =
 [
-    [ "at_sindragosa_lair", "d2/d02/a18690.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "d2/d02/a18690.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "PeriodicTick", "d2/d02/a18690.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
+    [ "PrepareAuraScript", "d2/d02/a18690.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
+    [ "Register", "d2/d02/a18690.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
 ];

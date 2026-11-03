@@ -1,12 +1,20 @@
 var a23770 =
 [
-    [ "boss_omor_the_unscarred", "dc/dd9/a23770.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "dc/dd9/a23770.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "dc/dd9/a23770.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "dc/dd9/a23770.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "dc/dd9/a23770.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "dc/dd9/a23770.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "dc/dd9/a23770.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "dc/dd9/a23770.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "dc/dd9/a23770.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "dc/dd9/a23770.html#adb0173cb42642836f7734d8b0fb3e98f", null ],
+    [ "ActivateCell", "dc/dd9/a23770.html#abd718216778850455c758d79a5866958", null ],
+    [ "ActivatePrisoners", "dc/dd9/a23770.html#a18488afb78747a35ce7e3b4b9a2468b5", null ],
+    [ "GetGuidData", "dc/dd9/a23770.html#af7f6acc97bf16f4d31236dcbb2d94007", null ],
+    [ "Initialize", "dc/dd9/a23770.html#a3441a24486ec686d42b7320e6f105139", null ],
+    [ "OnCreatureCreate", "dc/dd9/a23770.html#ac58da5acec155e596791464c48f29773", null ],
+    [ "OnGameObjectCreate", "dc/dd9/a23770.html#a3894ce1d0dff79cee2ff0df51d19e1ea", null ],
+    [ "OnUnitDeath", "dc/dd9/a23770.html#a78b07bfe30c7f329046ff572f783c4b9", null ],
+    [ "PrisonerDied", "dc/dd9/a23770.html#a16315f7921b1960c7720f855cdddee96", null ],
+    [ "ResetPrisoner", "dc/dd9/a23770.html#a57f58c502b5fb2064307adb8c4976979", null ],
+    [ "ResetPrisoners", "dc/dd9/a23770.html#ac46b0ed98e69ac0d5b8582bb21a81dc8", null ],
+    [ "ResetPrisons", "dc/dd9/a23770.html#a728bbc185bb91cf024f8ff3bd878a10e", null ],
+    [ "SetBossState", "dc/dd9/a23770.html#aad428e00762795d8f817d6cfa25505fe", null ],
+    [ "StorePrisoner", "dc/dd9/a23770.html#ade72b3e7a2129b8a4f722990aef5ac5f", null ],
+    [ "_prisonerCounter", "dc/dd9/a23770.html#a50c371edc425191f610a0e8a6b44d2ab", null ],
+    [ "_prisonersCell", "dc/dd9/a23770.html#a3492a327f4c0d637fd5701f3997c1887", null ],
+    [ "_prisonGUIDs", "dc/dd9/a23770.html#a9a737e495b638ec65fbd306c6aa0267c", null ]
 ];

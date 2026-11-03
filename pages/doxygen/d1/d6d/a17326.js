@@ -1,6 +1,8 @@
 var a17326 =
 [
-    [ "OnPeriodic", "d1/d6d/a17326.html#ab71faf6fb2900e176aac245317113758", null ],
-    [ "PrepareAuraScript", "d1/d6d/a17326.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
-    [ "Register", "d1/d6d/a17326.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
+    [ "HandleRemove", "d1/d6d/a17326.html#a362b16f69a19adae6b673bd9ead55a83", null ],
+    [ "PeriodicTick", "d1/d6d/a17326.html#aa432052d61dc48066433b41b84ffbe5f", null ],
+    [ "PrepareAuraScript", "d1/d6d/a17326.html#a3ffbd618820adf77b2c64a29816f5204", null ],
+    [ "Register", "d1/d6d/a17326.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
+    [ "Validate", "d1/d6d/a17326.html#abed6574398a7d005e95feba6b54243a1", null ]
 ];

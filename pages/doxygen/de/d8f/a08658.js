@@ -1,10 +1,15 @@
 var a08658 =
 [
-    [ "SpellCategory", "de/d8f/a08658.html#ad170ffceb499879a4b0d638e9c922703", null ],
-    [ "SpellCategoryCooldown", "de/d8f/a08658.html#a8a33274d71b410f24f110e9a5921ff18", null ],
-    [ "SpellCharges", "de/d8f/a08658.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
-    [ "SpellCooldown", "de/d8f/a08658.html#a8ef7106595ed25ce23ca2163258d769a", null ],
-    [ "SpellId", "de/d8f/a08658.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
-    [ "SpellPPMRate", "de/d8f/a08658.html#a5b208a667802e4c3766619c96d267287", null ],
-    [ "SpellTrigger", "de/d8f/a08658.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
+    [ "AnimationInfo", "de/d8f/a08658.html#aa443028e95ae416e09f1acfef0575803", null ],
+    [ "Building", "de/d8f/a08658.html#a62dd50c49d4d4cffe0273bb16fb6b7dd", null ],
+    [ "CapturePoint", "de/d8f/a08658.html#ab2f5e5262f8b7c2f1ed266fba7484c0d", null ],
+    [ "FishingHole", "de/d8f/a08658.html#a4e9da5f2c5b3341a1ecb3c4dfd76dd6f", null ],
+    [ "Health", "de/d8f/a08658.html#af70b72663064c9c4b88c93a824f1e14b", null ],
+    [ "MaxHealth", "de/d8f/a08658.html#ab606f11596c1dd3d1cf7588346338721", null ],
+    [ "MaxOpens", "de/d8f/a08658.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
+    [ "OPvPObj", "de/d8f/a08658.html#a565624b690fa7fabf21b175548765652", null ],
+    [ "PathProgress", "de/d8f/a08658.html#a9e07a147b2be08a78f052e0cdb817111", null ],
+    [ "TargetSearcherCheckType", "de/d8f/a08658.html#a45f194976165fc840d8409a36e42175a", null ],
+    [ "Transport", "de/d8f/a08658.html#a6750869ae9afe5ffa61cb6e5f1a29d60", null ],
+    [ "Trap", "de/d8f/a08658.html#ab0106e6ae1560516a42de913a9129adb", null ]
 ];

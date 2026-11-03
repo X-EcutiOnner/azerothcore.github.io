@@ -1,19 +1,7 @@
 var a17494 =
 [
-    [ "npc_hor_lich_king", "dd/da4/a17494.html#a2d062432ca688b498c99b1a404939482", null ],
-    [ "DoAction", "dd/da4/a17494.html#ad6c3d39fa2762b82af94c75cb13e5293", null ],
-    [ "JustSummoned", "dd/da4/a17494.html#a616641dc2e0f46d3f0a86edc87a9a301", null ],
-    [ "MovementInform", "dd/da4/a17494.html#ae7f41d3aaa28699aee477dfada1a962f", null ],
-    [ "Reset", "dd/da4/a17494.html#a5c9512ccad51c881c9e8759341fd9d14", null ],
-    [ "SpellHitTarget", "dd/da4/a17494.html#a44b63fa387d05676c992cc100fb92806", null ],
-    [ "SummonedCreatureDespawn", "dd/da4/a17494.html#ac261de86ded5c319226867dfc3a5f42f", null ],
-    [ "SummonedCreatureDies", "dd/da4/a17494.html#a56b91c8d991778306bfea3702d94f1e7", null ],
-    [ "UpdateAI", "dd/da4/a17494.html#a0b5247d0e23ede8b867343803cec9774", null ],
-    [ "WallCompleted", "dd/da4/a17494.html#ad668e38cc7c651700686665d088d3a1d", null ],
-    [ "currentWall", "dd/da4/a17494.html#a5bac2be147e9725b68f56f056a341442", null ],
-    [ "div2", "dd/da4/a17494.html#af656d33ad0117378a75551d54d2a376f", null ],
-    [ "events", "dd/da4/a17494.html#acab01caba2cf66c21fe8a164f77491f1", null ],
-    [ "instance", "dd/da4/a17494.html#acaf28a6ecc646d551795bcb10d803923", null ],
-    [ "summons", "dd/da4/a17494.html#ad7c511cfa480c3b6801b63e63c0013c6", null ],
-    [ "summonsCount", "dd/da4/a17494.html#aa2e468e58f92cbdf7377805d5711c45e", null ]
+    [ "HandleEffectPeriodic", "dd/da4/a17494.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
+    [ "PrepareAuraScript", "dd/da4/a17494.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
+    [ "Register", "dd/da4/a17494.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
+    [ "Validate", "dd/da4/a17494.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
 ];

@@ -1,6 +1,12 @@
 var a25614 =
 [
-    [ "HandleCast", "de/d99/a25614.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "de/d99/a25614.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "de/d99/a25614.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "EtherealSoulTrader", "de/d99/a25614.html#a8fd600957c21bdd8a1c1793e36ea3953", [
+      [ "NPC_ETHEREAL_SOUL_TRADER", "de/d99/a25614.html#a8fd600957c21bdd8a1c1793e36ea3953af260b92af2c0a22e3d0de607611f3673", null ],
+      [ "SPELL_OWNER_KILLED_INFORM", "de/d99/a25614.html#a8fd600957c21bdd8a1c1793e36ea3953a0ece3b3d2fa217b809d77915cc6f30d2", null ],
+      [ "SPELL_STEAL_ESSENCE_VISUAL", "de/d99/a25614.html#a8fd600957c21bdd8a1c1793e36ea3953aa4a66122509fdf013a6c6b3a5edbbba7", null ]
+    ] ],
+    [ "CheckProc", "de/d99/a25614.html#a59752617fc790359fdb13cc88aaed15e", null ],
+    [ "HandleProc", "de/d99/a25614.html#ab52656d4827f3fe980edd281e82debd5", null ],
+    [ "PrepareAuraScript", "de/d99/a25614.html#a49a6a07b66e5b99c67d4fcef13aeb933", null ],
+    [ "Register", "de/d99/a25614.html#a16d9e04ba3bc3144cd539033a5053d1a", null ]
 ];

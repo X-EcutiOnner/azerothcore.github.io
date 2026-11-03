@@ -1,6 +1,6 @@
 var a19638 =
 [
-    [ "boss_grobbulusAI", "dc/d2b/a19642.html", "dc/d2b/a19642" ],
-    [ "boss_grobbulus", "db/d22/a19638.html#acf1b781e86e33a363b68354d34d3c015", null ],
-    [ "GetAI", "db/d22/a19638.html#ae918614566a0b9979aef4e1aeaac394c", null ]
+    [ "HandleHit", "db/d22/a19638.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
+    [ "PrepareSpellScript", "db/d22/a19638.html#a87b57541a36d711ecbca6f485915c9ab", null ],
+    [ "Register", "db/d22/a19638.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
 ];

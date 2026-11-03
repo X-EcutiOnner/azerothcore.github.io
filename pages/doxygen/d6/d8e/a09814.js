@@ -1,7 +1,8 @@
 var a09814 =
 [
-    [ "GameObjectFocusCheck", "d6/d8e/a09814.html#a4e85da5aa745128d8103c8214ae32af5", null ],
-    [ "operator()", "d6/d8e/a09814.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
-    [ "i_caster", "d6/d8e/a09814.html#a2cc23e9fbd7beee5314b72036cba9ebf", null ],
-    [ "i_focusId", "d6/d8e/a09814.html#ace009546c2dcc6dac5de98b3c34152a5", null ]
+    [ "RespawnDo", "d6/d8e/a09814.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
+    [ "operator()", "d6/d8e/a09814.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
+    [ "operator()", "d6/d8e/a09814.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
+    [ "operator()", "d6/d8e/a09814.html#a66335f45bb1f3c770887b263e9d84236", null ],
+    [ "operator()", "d6/d8e/a09814.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
 ];

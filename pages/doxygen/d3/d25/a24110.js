@@ -1,8 +1,6 @@
 var a24110 =
 [
-    [ "boss_void_reaver", "d3/d25/a24110.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "d3/d25/a24110.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "d3/d25/a24110.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "d3/d25/a24110.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "d3/d25/a24110.html#a02c36ea960de24991f879943991a93c6", null ]
+    [ "HandleScriptEffect", "d3/d25/a24110.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
+    [ "PrepareSpellScript", "d3/d25/a24110.html#af475c0968aabaf56e8ca38950ad651f0", null ],
+    [ "Register", "d3/d25/a24110.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
 ];

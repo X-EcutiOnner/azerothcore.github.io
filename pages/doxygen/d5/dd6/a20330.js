@@ -1,6 +1,15 @@
 var a20330 =
 [
-    [ "FilterTargets", "d5/dd6/a20330.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "d5/dd6/a20330.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "d5/dd6/a20330.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "boss_flame_leviathan_seat", "d5/dd6/a20330.html#a2fc2adc846b2939cf633bf47b4307896", null ],
+    [ "ActivateTurret", "d5/dd6/a20330.html#a444d5abcb47488ffedd5d3a6737e7f2c", null ],
+    [ "ActivateTurrets", "d5/dd6/a20330.html#abb69910faf565fc1b484baa1ad9d5f11", null ],
+    [ "AttackStart", "d5/dd6/a20330.html#a88d8a972e5f079c0111c0f189d599e8c", null ],
+    [ "EnterEvadeMode", "d5/dd6/a20330.html#ac0f5d43d4be0773fdae62d0ab433713f", null ],
+    [ "PassengerBoarded", "d5/dd6/a20330.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],
+    [ "Reset", "d5/dd6/a20330.html#aec34fec1a6a3857ea7895a2762bf82d0", null ],
+    [ "UpdateAI", "d5/dd6/a20330.html#a303c50b5684410013f95b0202ea33c8e", null ],
+    [ "_despawnCheckTimer", "d5/dd6/a20330.html#ad902023776db0a5d846168167974f694", null ],
+    [ "_pending10ManDespawn", "d5/dd6/a20330.html#a147da457d02a4977439c635fb150f005", null ],
+    [ "DESPAWN_DELAY_10MAN", "d5/dd6/a20330.html#a1bda734e377ce71dd3c7f1257ab89d20", null ],
+    [ "vehicle", "d5/dd6/a20330.html#a9772b52283f16120dbefb5d218844c38", null ]
 ];

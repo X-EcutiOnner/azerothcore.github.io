@@ -1,12 +1,12 @@
 var a20126 =
 [
-    [ "boss_krystallusAI", "d5/df7/a20126.html#adfa2ab8498279937bf497292d6e7cba5", null ],
-    [ "JustDied", "d5/df7/a20126.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
-    [ "JustEngagedWith", "d5/df7/a20126.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
-    [ "KilledUnit", "d5/df7/a20126.html#acf9101c5b776820039fd80e5d6e0c138", null ],
-    [ "RemoveStonedEffect", "d5/df7/a20126.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
-    [ "Reset", "d5/df7/a20126.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
-    [ "UpdateAI", "d5/df7/a20126.html#a79095e25f1d9dac927f63cef67db60ec", null ],
-    [ "events", "d5/df7/a20126.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
-    [ "pInstance", "d5/df7/a20126.html#aec9cf7053476298f72dccf3bd1579c63", null ]
+    [ "boss_sjonnirAI", "d5/df7/a20126.html#a53127766553d1bee4d7331e6f4fcda05", null ],
+    [ "ActivatePipe", "d5/df7/a20126.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
+    [ "DoAction", "d5/df7/a20126.html#afb2f73908bc17c763a8028af4b499481", null ],
+    [ "JustDied", "d5/df7/a20126.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
+    [ "JustEngagedWith", "d5/df7/a20126.html#aade776baf55155bb3814129ddc2f9632", null ],
+    [ "KilledUnit", "d5/df7/a20126.html#ac79740a8c5e4263f2917647c74e995aa", null ],
+    [ "Reset", "d5/df7/a20126.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
+    [ "ScheduleTasks", "d5/df7/a20126.html#a5c3c31c5be424795e4e96291c910c73c", null ],
+    [ "SlugeCount", "d5/df7/a20126.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
 ];

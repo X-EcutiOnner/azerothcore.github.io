@@ -1,5 +1,7 @@
 var a20598 =
 [
-    [ "npc_ulduar_toasty_fire", "d4/d6a/a20598.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "d4/d6a/a20598.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ]
+    [ "HandleEffectPeriodic", "d4/d6a/a20598.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "d4/d6a/a20598.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "d4/d6a/a20598.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "d4/d6a/a20598.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

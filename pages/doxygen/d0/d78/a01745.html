@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/ZulGurub/instance_zulgurub.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Handlers/TradeHandler.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,218 +105,211 @@ $(document).ready(function(){initNavTree('d0/d78/a01745.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">instance_zulgurub.cpp File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">TradeHandler.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObjectScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">zulgurub.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Item.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Language.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">RBAC.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SocialMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TC9Sidecar.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a14782.html">instance_zulgurub</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d86/a14786.html">instance_zulgurub::instance_zulgurub_InstanceMapScript</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d50/a14790.html">go_brazier_of_madness</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a45822838f1310b1a812eba191cb3d416"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416">EdgeOfMadnessEnum</a> { <br />
-&#160;&#160;<a class="el" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7">EVENT_EDGE_OF_MADNESS_GRILEK</a> = 27
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4">EVENT_EDGE_OF_MADNESS_HAZZARAH</a> = 28
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d">EVENT_EDGE_OF_MADNESS_RENATAKI</a> = 29
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073">EVENT_EDGE_OF_MADNESS_WUSHOOLAY</a> = 30
-<br />
- }</td></tr>
-<tr class="separator:a45822838f1310b1a812eba191cb3d416"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a224e147b1990c0996e0ac61a1865e34c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#a224e147b1990c0996e0ac61a1865e34c">AddSC_instance_zulgurub</a> ()</td></tr>
-<tr class="separator:a224e147b1990c0996e0ac61a1865e34c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d8b/a10154.html">DoorData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#a69c4a0ca4694d5ed1d42f0373dd5d80c">doorData</a> []</td></tr>
-<tr class="separator:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d10/a10170.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
-<tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a808ff75d7f4ab6555cdc154544ef727f"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::pair&lt; <a class="el" href="../../d6/d8c/a04703.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d6/d8c/a04703.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#a808ff75d7f4ab6555cdc154544ef727f">BrazierOfMadnessContainer</a></td></tr>
-<tr class="separator:a808ff75d7f4ab6555cdc154544ef727f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a352683729da59da9923d0f67d510f73c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d90/a08958.html">Position</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#a352683729da59da9923d0f67d510f73c">edgeOfMagnessSummonPos</a> = { -11901.229f, -1906.366f, 65.358f, 0.942f }</td></tr>
-<tr class="separator:a352683729da59da9923d0f67d510f73c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63b255ea813e0ea4f109492ed7f0213c"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#a63b255ea813e0ea4f109492ed7f0213c">setAcceptTradeMode</a> (<a class="el" href="../../d3/d38/a09166.html">TradeData</a> *myTrade, <a class="el" href="../../d3/d38/a09166.html">TradeData</a> *hisTrade, <a class="el" href="../../d6/d78/a08838.html">Item</a> **myItems, <a class="el" href="../../d6/d78/a08838.html">Item</a> **hisItems)</td></tr>
+<tr class="separator:a63b255ea813e0ea4f109492ed7f0213c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b5fc6374a945ebbe9b397c1e115e952"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#a7b5fc6374a945ebbe9b397c1e115e952">clearAcceptTradeMode</a> (<a class="el" href="../../d3/d38/a09166.html">TradeData</a> *myTrade, <a class="el" href="../../d3/d38/a09166.html">TradeData</a> *hisTrade)</td></tr>
+<tr class="separator:a7b5fc6374a945ebbe9b397c1e115e952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab516bffb39dfd3d3133b1d3a515c9fb1"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#ab516bffb39dfd3d3133b1d3a515c9fb1">clearAcceptTradeMode</a> (<a class="el" href="../../d6/d78/a08838.html">Item</a> **myItems, <a class="el" href="../../d6/d78/a08838.html">Item</a> **hisItems)</td></tr>
+<tr class="separator:ab516bffb39dfd3d3133b1d3a515c9fb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a45822838f1310b1a812eba191cb3d416" name="a45822838f1310b1a812eba191cb3d416"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a45822838f1310b1a812eba191cb3d416">&#9670;&#160;</a></span>EdgeOfMadnessEnum</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416">EdgeOfMadnessEnum</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7" name="a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7"></a>EVENT_EDGE_OF_MADNESS_GRILEK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4" name="a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4"></a>EVENT_EDGE_OF_MADNESS_HAZZARAH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d" name="a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d"></a>EVENT_EDGE_OF_MADNESS_RENATAKI&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073" name="a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073"></a>EVENT_EDGE_OF_MADNESS_WUSHOOLAY&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  190</span>{</div>
-<div class="line"><span class="lineno">  191</span>    <a class="code hl_enumvalue" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7">EVENT_EDGE_OF_MADNESS_GRILEK</a>    = 27,</div>
-<div class="line"><span class="lineno">  192</span>    <a class="code hl_enumvalue" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4">EVENT_EDGE_OF_MADNESS_HAZZARAH</a>  = 28,</div>
-<div class="line"><span class="lineno">  193</span>    <a class="code hl_enumvalue" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d">EVENT_EDGE_OF_MADNESS_RENATAKI</a>  = 29,</div>
-<div class="line"><span class="lineno">  194</span>    <a class="code hl_enumvalue" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073">EVENT_EDGE_OF_MADNESS_WUSHOOLAY</a> = 30</div>
-<div class="line"><span class="lineno">  195</span>};</div>
-<div class="ttc" id="aa01745_html_a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d"><div class="ttname"><a href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d">EVENT_EDGE_OF_MADNESS_RENATAKI</a></div><div class="ttdeci">@ EVENT_EDGE_OF_MADNESS_RENATAKI</div><div class="ttdef"><b>Definition:</b> instance_zulgurub.cpp:193</div></div>
-<div class="ttc" id="aa01745_html_a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4"><div class="ttname"><a href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4">EVENT_EDGE_OF_MADNESS_HAZZARAH</a></div><div class="ttdeci">@ EVENT_EDGE_OF_MADNESS_HAZZARAH</div><div class="ttdef"><b>Definition:</b> instance_zulgurub.cpp:192</div></div>
-<div class="ttc" id="aa01745_html_a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073"><div class="ttname"><a href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073">EVENT_EDGE_OF_MADNESS_WUSHOOLAY</a></div><div class="ttdeci">@ EVENT_EDGE_OF_MADNESS_WUSHOOLAY</div><div class="ttdef"><b>Definition:</b> instance_zulgurub.cpp:194</div></div>
-<div class="ttc" id="aa01745_html_a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7"><div class="ttname"><a href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7">EVENT_EDGE_OF_MADNESS_GRILEK</a></div><div class="ttdeci">@ EVENT_EDGE_OF_MADNESS_GRILEK</div><div class="ttdef"><b>Definition:</b> instance_zulgurub.cpp:191</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a224e147b1990c0996e0ac61a1865e34c" name="a224e147b1990c0996e0ac61a1865e34c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a224e147b1990c0996e0ac61a1865e34c">&#9670;&#160;</a></span>AddSC_instance_zulgurub()</h2>
+<a id="ab516bffb39dfd3d3133b1d3a515c9fb1" name="ab516bffb39dfd3d3133b1d3a515c9fb1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab516bffb39dfd3d3133b1d3a515c9fb1">&#9670;&#160;</a></span>clearAcceptTradeMode() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_instance_zulgurub </td>
+          <td class="memname">static void clearAcceptTradeMode </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d6/d78/a08838.html">Item</a> **&#160;</td>
+          <td class="paramname"><em>myItems</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d78/a08838.html">Item</a> **&#160;</td>
+          <td class="paramname"><em>hisItems</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  246</span>{</div>
-<div class="line"><span class="lineno">  247</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/d89/a14782.html">instance_zulgurub</a>();</div>
-<div class="line"><span class="lineno">  248</span>    <a class="code hl_define" href="../../d4/ddb/a04118.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../d6/d50/a14790.html">go_brazier_of_madness</a>);</div>
-<div class="line"><span class="lineno">  249</span>}</div>
-<div class="ttc" id="aa04118_html_a87397a2ba2a1acd88f62793eae9aa30e"><div class="ttname"><a href="../../d4/ddb/a04118.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a></div><div class="ttdeci">#define RegisterGameObjectAI(ai_name)</div><div class="ttdef"><b>Definition:</b> GameObjectScript.h:77</div></div>
-<div class="ttc" id="aa14782_html"><div class="ttname"><a href="../../d0/d89/a14782.html">instance_zulgurub</a></div><div class="ttdef"><b>Definition:</b> instance_zulgurub.cpp:41</div></div>
-<div class="ttc" id="aa14790_html"><div class="ttname"><a href="../../d6/d50/a14790.html">go_brazier_of_madness</a></div><div class="ttdef"><b>Definition:</b> instance_zulgurub.cpp:208</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  226</span>{</div>
+<div class="line"><span class="lineno">  227</span>    <span class="comment">// clear &#39;in-trade&#39; flag</span></div>
+<div class="line"><span class="lineno">  228</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/db7/a00812.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d7/dbe/a02333.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79">TRADE_SLOT_TRADED_COUNT</a>; ++i)</div>
+<div class="line"><span class="lineno">  229</span>    {</div>
+<div class="line"><span class="lineno">  230</span>        <span class="keywordflow">if</span> (myItems[i])</div>
+<div class="line"><span class="lineno">  231</span>            myItems[i]-&gt;<a class="code hl_function" href="../../d6/d78/a08838.html#afcb47d626c017f93e12d3949fe3ab056">SetInTrade</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  232</span>        <span class="keywordflow">if</span> (hisItems[i])</div>
+<div class="line"><span class="lineno">  233</span>            hisItems[i]-&gt;<a class="code hl_function" href="../../d6/d78/a08838.html#afcb47d626c017f93e12d3949fe3ab056">SetInTrade</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  234</span>    }</div>
+<div class="line"><span class="lineno">  235</span>}</div>
+<div class="ttc" id="aa00812_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d8/db7/a00812.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa02333_html_ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79"><div class="ttname"><a href="../../d7/dbe/a02333.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79">TRADE_SLOT_TRADED_COUNT</a></div><div class="ttdeci">@ TRADE_SLOT_TRADED_COUNT</div><div class="ttdef"><b>Definition:</b> TradeData.h:30</div></div>
+<div class="ttc" id="aa08838_html_afcb47d626c017f93e12d3949fe3ab056"><div class="ttname"><a href="../../d6/d78/a08838.html#afcb47d626c017f93e12d3949fe3ab056">Item::SetInTrade</a></div><div class="ttdeci">void SetInTrade(bool b=true)</div><div class="ttdef"><b>Definition:</b> Item.h:259</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">RegisterGameObjectAI</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00165">AddEasternKingdomsScripts()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00259">Item::SetInTrade()</a>, and <a class="el" href="../../#l00030">TRADE_SLOT_TRADED_COUNT</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a808ff75d7f4ab6555cdc154544ef727f" name="a808ff75d7f4ab6555cdc154544ef727f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a808ff75d7f4ab6555cdc154544ef727f">&#9670;&#160;</a></span>BrazierOfMadnessContainer</h2>
+<a id="a7b5fc6374a945ebbe9b397c1e115e952" name="a7b5fc6374a945ebbe9b397c1e115e952"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b5fc6374a945ebbe9b397c1e115e952">&#9670;&#160;</a></span>clearAcceptTradeMode() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;std::pair&lt;<a class="el" href="../../d6/d8c/a04703.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d6/d8c/a04703.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; &gt; BrazierOfMadnessContainer</td>
+          <td class="memname">static void clearAcceptTradeMode </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d38/a09166.html">TradeData</a> *&#160;</td>
+          <td class="paramname"><em>myTrade</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/d38/a09166.html">TradeData</a> *&#160;</td>
+          <td class="paramname"><em>hisTrade</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7">EVENT_EDGE_OF_MADNESS_GRILEK</a>,     <a class="code hl_enumvalue" href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963eae57b1999f65187adb68357eb42f491cb">NPC_GRILEK</a>      },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4">EVENT_EDGE_OF_MADNESS_HAZZARAH</a>,   <a class="code hl_enumvalue" href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963ea4e217da14b95b49418a2c8ad63bf03db">NPC_HAZZARAH</a>    },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d">EVENT_EDGE_OF_MADNESS_RENATAKI</a>,   <a class="code hl_enumvalue" href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963ea95e557f5d65bd89bc6f0d6be45a1128f">NPC_RENATAKI</a>    },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073">EVENT_EDGE_OF_MADNESS_WUSHOOLAY</a>,  <a class="code hl_enumvalue" href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963eaac864c8121b5a7e73adfee70c2649dee">NPC_WUSHOOLAY</a>   }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa01727_html_a92f6fd626e1834a4cc509efc1186963ea4e217da14b95b49418a2c8ad63bf03db"><div class="ttname"><a href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963ea4e217da14b95b49418a2c8ad63bf03db">NPC_HAZZARAH</a></div><div class="ttdeci">@ NPC_HAZZARAH</div><div class="ttdef"><b>Definition:</b> zulgurub.h:71</div></div>
-<div class="ttc" id="aa01727_html_a92f6fd626e1834a4cc509efc1186963ea95e557f5d65bd89bc6f0d6be45a1128f"><div class="ttname"><a href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963ea95e557f5d65bd89bc6f0d6be45a1128f">NPC_RENATAKI</a></div><div class="ttdeci">@ NPC_RENATAKI</div><div class="ttdef"><b>Definition:</b> zulgurub.h:72</div></div>
-<div class="ttc" id="aa01727_html_a92f6fd626e1834a4cc509efc1186963eaac864c8121b5a7e73adfee70c2649dee"><div class="ttname"><a href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963eaac864c8121b5a7e73adfee70c2649dee">NPC_WUSHOOLAY</a></div><div class="ttdeci">@ NPC_WUSHOOLAY</div><div class="ttdef"><b>Definition:</b> zulgurub.h:73</div></div>
-<div class="ttc" id="aa01727_html_a92f6fd626e1834a4cc509efc1186963eae57b1999f65187adb68357eb42f491cb"><div class="ttname"><a href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963eae57b1999f65187adb68357eb42f491cb">NPC_GRILEK</a></div><div class="ttdeci">@ NPC_GRILEK</div><div class="ttdef"><b>Definition:</b> zulgurub.h:70</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  220</span>{</div>
+<div class="line"><span class="lineno">  221</span>    myTrade-&gt;<a class="code hl_function" href="../../d3/d38/a09166.html#a4851016708b0e8336ec33c64ab41aa8a">SetInAcceptProcess</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  222</span>    hisTrade-&gt;<a class="code hl_function" href="../../d3/d38/a09166.html#a4851016708b0e8336ec33c64ab41aa8a">SetInAcceptProcess</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  223</span>}</div>
+<div class="ttc" id="aa09166_html_a4851016708b0e8336ec33c64ab41aa8a"><div class="ttname"><a href="../../d3/d38/a09166.html#a4851016708b0e8336ec33c64ab41aa8a">TradeData::SetInAcceptProcess</a></div><div class="ttdeci">void SetInAcceptProcess(bool state)</div><div class="ttdef"><b>Definition:</b> TradeData.h:62</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00211">go_brazier_of_madness::GossipHello()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00062">TradeData::SetInAcceptProcess()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00237">WorldSession::HandleAcceptTradeOpcode()</a>.</p>
 
 </div>
 </div>
-<a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
+<a id="a63b255ea813e0ea4f109492ed7f0213c" name="a63b255ea813e0ea4f109492ed7f0213c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a63b255ea813e0ea4f109492ed7f0213c">&#9670;&#160;</a></span>setAcceptTradeMode()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/d10/a10170.html">ObjectData</a> const creatureData[]</td>
+          <td class="memname">static void setAcceptTradeMode </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d38/a09166.html">TradeData</a> *&#160;</td>
+          <td class="paramname"><em>myTrade</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/d38/a09166.html">TradeData</a> *&#160;</td>
+          <td class="paramname"><em>hisTrade</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d78/a08838.html">Item</a> **&#160;</td>
+          <td class="paramname"><em>myItems</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d78/a08838.html">Item</a> **&#160;</td>
+          <td class="paramname"><em>hisItems</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963eadd734b4514069d16c998e71b6a8f3d28">NPC_HIGH_PRIEST_THEKAL</a>, <a class="code hl_enumvalue" href="../../de/d0f/a01727.html#afb6eb4f28419b652027fad41104a6d22a107858797dc4fd29d6b7b6a1d7590de6">DATA_THEKAL</a>  },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963eafb093e2adcf49778aa2380c21b0b14f8">NPC_ZEALOT_LORKHAN</a>,     <a class="code hl_enumvalue" href="../../de/d0f/a01727.html#afb6eb4f28419b652027fad41104a6d22a0c3c72cb67d3f3ee9204ff95714703bc">DATA_LORKHAN</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963ea0fb32dbef739097d4512236285d886e3">NPC_ZEALOT_ZATH</a>,        <a class="code hl_enumvalue" href="../../de/d0f/a01727.html#afb6eb4f28419b652027fad41104a6d22a6fb6dafeb13f966a4be293589e809949">DATA_ZATH</a>    },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963eaed8d419037736ccfa39e3e97d2947931">NPC_PRIESTESS_MARLI</a>,    <a class="code hl_enumvalue" href="../../de/d0f/a01727.html#afb6eb4f28419b652027fad41104a6d22a4abd552de0f1e952a1976c1bd03919fe">DATA_MARLI</a>   },</div>
-<div class="line">    { 0,                      0            }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa01727_html_a92f6fd626e1834a4cc509efc1186963ea0fb32dbef739097d4512236285d886e3"><div class="ttname"><a href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963ea0fb32dbef739097d4512236285d886e3">NPC_ZEALOT_ZATH</a></div><div class="ttdeci">@ NPC_ZEALOT_ZATH</div><div class="ttdef"><b>Definition:</b> zulgurub.h:53</div></div>
-<div class="ttc" id="aa01727_html_a92f6fd626e1834a4cc509efc1186963eadd734b4514069d16c998e71b6a8f3d28"><div class="ttname"><a href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963eadd734b4514069d16c998e71b6a8f3d28">NPC_HIGH_PRIEST_THEKAL</a></div><div class="ttdeci">@ NPC_HIGH_PRIEST_THEKAL</div><div class="ttdef"><b>Definition:</b> zulgurub.h:57</div></div>
-<div class="ttc" id="aa01727_html_a92f6fd626e1834a4cc509efc1186963eaed8d419037736ccfa39e3e97d2947931"><div class="ttname"><a href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963eaed8d419037736ccfa39e3e97d2947931">NPC_PRIESTESS_MARLI</a></div><div class="ttdeci">@ NPC_PRIESTESS_MARLI</div><div class="ttdef"><b>Definition:</b> zulgurub.h:55</div></div>
-<div class="ttc" id="aa01727_html_a92f6fd626e1834a4cc509efc1186963eafb093e2adcf49778aa2380c21b0b14f8"><div class="ttname"><a href="../../de/d0f/a01727.html#a92f6fd626e1834a4cc509efc1186963eafb093e2adcf49778aa2380c21b0b14f8">NPC_ZEALOT_LORKHAN</a></div><div class="ttdeci">@ NPC_ZEALOT_LORKHAN</div><div class="ttdef"><b>Definition:</b> zulgurub.h:52</div></div>
-<div class="ttc" id="aa01727_html_afb6eb4f28419b652027fad41104a6d22a0c3c72cb67d3f3ee9204ff95714703bc"><div class="ttname"><a href="../../de/d0f/a01727.html#afb6eb4f28419b652027fad41104a6d22a0c3c72cb67d3f3ee9204ff95714703bc">DATA_LORKHAN</a></div><div class="ttdeci">@ DATA_LORKHAN</div><div class="ttdef"><b>Definition:</b> zulgurub.h:41</div></div>
-<div class="ttc" id="aa01727_html_afb6eb4f28419b652027fad41104a6d22a107858797dc4fd29d6b7b6a1d7590de6"><div class="ttname"><a href="../../de/d0f/a01727.html#afb6eb4f28419b652027fad41104a6d22a107858797dc4fd29d6b7b6a1d7590de6">DATA_THEKAL</a></div><div class="ttdeci">@ DATA_THEKAL</div><div class="ttdef"><b>Definition:</b> zulgurub.h:35</div></div>
-<div class="ttc" id="aa01727_html_afb6eb4f28419b652027fad41104a6d22a4abd552de0f1e952a1976c1bd03919fe"><div class="ttname"><a href="../../de/d0f/a01727.html#afb6eb4f28419b652027fad41104a6d22a4abd552de0f1e952a1976c1bd03919fe">DATA_MARLI</a></div><div class="ttdeci">@ DATA_MARLI</div><div class="ttdef"><b>Definition:</b> zulgurub.h:33</div></div>
-<div class="ttc" id="aa01727_html_afb6eb4f28419b652027fad41104a6d22a6fb6dafeb13f966a4be293589e809949"><div class="ttname"><a href="../../de/d0f/a01727.html#afb6eb4f28419b652027fad41104a6d22a6fb6dafeb13f966a4be293589e809949">DATA_ZATH</a></div><div class="ttdeci">@ DATA_ZATH</div><div class="ttdef"><b>Definition:</b> zulgurub.h:42</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  195</span>{</div>
+<div class="line"><span class="lineno">  196</span>    myTrade-&gt;<a class="code hl_function" href="../../d3/d38/a09166.html#a4851016708b0e8336ec33c64ab41aa8a">SetInAcceptProcess</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  197</span>    hisTrade-&gt;<a class="code hl_function" href="../../d3/d38/a09166.html#a4851016708b0e8336ec33c64ab41aa8a">SetInAcceptProcess</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  198</span> </div>
+<div class="line"><span class="lineno">  199</span>    <span class="comment">// store items in local list and set &#39;in-trade&#39; flag</span></div>
+<div class="line"><span class="lineno">  200</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/db7/a00812.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d7/dbe/a02333.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79">TRADE_SLOT_TRADED_COUNT</a>; ++i)</div>
+<div class="line"><span class="lineno">  201</span>    {</div>
+<div class="line"><span class="lineno">  202</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d78/a08838.html">Item</a>* item = myTrade-&gt;<a class="code hl_function" href="../../d3/d38/a09166.html#a6c769042535c69e89bdc19234dd680e4">GetItem</a>(<a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a>(i)))</div>
+<div class="line"><span class="lineno">  203</span>        {</div>
+<div class="line"><span class="lineno">  204</span>            <a class="code hl_define" href="../../d0/d0a/a00743.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network.opcode&quot;</span>, <span class="stringliteral">&quot;player trade item {} bag: {} slot: {}&quot;</span>, item-&gt;GetGUID().ToString(), item-&gt;GetBagSlot(), item-&gt;GetSlot());</div>
+<div class="line"><span class="lineno">  205</span>            <span class="comment">//Can return nullptr</span></div>
+<div class="line"><span class="lineno">  206</span>            myItems[i] = item;</div>
+<div class="line"><span class="lineno">  207</span>            myItems[i]-&gt;<a class="code hl_function" href="../../d6/d78/a08838.html#afcb47d626c017f93e12d3949fe3ab056">SetInTrade</a>();</div>
+<div class="line"><span class="lineno">  208</span>        }</div>
+<div class="line"><span class="lineno">  209</span> </div>
+<div class="line"><span class="lineno">  210</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d78/a08838.html">Item</a>* item = hisTrade-&gt;<a class="code hl_function" href="../../d3/d38/a09166.html#a6c769042535c69e89bdc19234dd680e4">GetItem</a>(<a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a>(i)))</div>
+<div class="line"><span class="lineno">  211</span>        {</div>
+<div class="line"><span class="lineno">  212</span>            <a class="code hl_define" href="../../d0/d0a/a00743.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network.opcode&quot;</span>, <span class="stringliteral">&quot;partner trade item {} bag: {} slot: {}&quot;</span>, item-&gt;GetGUID().ToString(), item-&gt;GetBagSlot(), item-&gt;GetSlot());</div>
+<div class="line"><span class="lineno">  213</span>            hisItems[i] = item;</div>
+<div class="line"><span class="lineno">  214</span>            hisItems[i]-&gt;<a class="code hl_function" href="../../d6/d78/a08838.html#afcb47d626c017f93e12d3949fe3ab056">SetInTrade</a>();</div>
+<div class="line"><span class="lineno">  215</span>        }</div>
+<div class="line"><span class="lineno">  216</span>    }</div>
+<div class="line"><span class="lineno">  217</span>}</div>
+<div class="ttc" id="aa00743_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d0/d0a/a00743.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+<div class="ttc" id="aa02333_html_ad8fd978c4198825d89a1f02643d20c62"><div class="ttname"><a href="../../d7/dbe/a02333.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a></div><div class="ttdeci">TradeSlots</div><div class="ttdef"><b>Definition:</b> TradeData.h:28</div></div>
+<div class="ttc" id="aa08838_html"><div class="ttname"><a href="../../d6/d78/a08838.html">Item</a></div><div class="ttdef"><b>Definition:</b> Item.h:220</div></div>
+<div class="ttc" id="aa09166_html_a6c769042535c69e89bdc19234dd680e4"><div class="ttname"><a href="../../d3/d38/a09166.html#a6c769042535c69e89bdc19234dd680e4">TradeData::GetItem</a></div><div class="ttdeci">Item * GetItem(TradeSlots slot) const</div><div class="ttdef"><b>Definition:</b> TradeData.cpp:26</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00047">instance_zulgurub::instance_zulgurub_InstanceMapScript::instance_zulgurub_InstanceMapScript()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00026">TradeData::GetItem()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00062">TradeData::SetInAcceptProcess()</a>, <a class="el" href="../../#l00259">Item::SetInTrade()</a>, and <a class="el" href="../../#l00030">TRADE_SLOT_TRADED_COUNT</a>.</p>
 
-</div>
-</div>
-<a id="a69c4a0ca4694d5ed1d42f0373dd5d80c" name="a69c4a0ca4694d5ed1d42f0373dd5d80c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a69c4a0ca4694d5ed1d42f0373dd5d80c">&#9670;&#160;</a></span>doorData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../df/d8b/a10154.html">DoorData</a> const doorData[]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../de/d3c/a01490.html#aff286ae066e6cc855674e730f4adba43ac105595980d08e30052b055a49d6be01">GO_FORCEFIELD</a>, <a class="code hl_enumvalue" href="../../de/d0f/a01727.html#afb6eb4f28419b652027fad41104a6d22a23fdf3e31769648f898f606a18e4597a">DATA_ARLOKK</a>, <a class="code hl_enumvalue" href="../../d8/db7/a02450.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a> },</div>
-<div class="line">    { 0,             0,           <a class="code hl_enumvalue" href="../../d8/db7/a02450.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a> }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa01490_html_aff286ae066e6cc855674e730f4adba43ac105595980d08e30052b055a49d6be01"><div class="ttname"><a href="../../de/d3c/a01490.html#aff286ae066e6cc855674e730f4adba43ac105595980d08e30052b055a49d6be01">GO_FORCEFIELD</a></div><div class="ttdeci">@ GO_FORCEFIELD</div><div class="ttdef"><b>Definition:</b> sunken_temple.h:48</div></div>
-<div class="ttc" id="aa01727_html_afb6eb4f28419b652027fad41104a6d22a23fdf3e31769648f898f606a18e4597a"><div class="ttname"><a href="../../de/d0f/a01727.html#afb6eb4f28419b652027fad41104a6d22a23fdf3e31769648f898f606a18e4597a">DATA_ARLOKK</a></div><div class="ttdeci">@ DATA_ARLOKK</div><div class="ttdef"><b>Definition:</b> zulgurub.h:34</div></div>
-<div class="ttc" id="aa02450_html_ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70"><div class="ttname"><a href="../../d8/db7/a02450.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a></div><div class="ttdeci">@ DOOR_TYPE_ROOM</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:68</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00047">instance_zulgurub::instance_zulgurub_InstanceMapScript::instance_zulgurub_InstanceMapScript()</a>.</p>
-
-</div>
-</div>
-<a id="a352683729da59da9923d0f67d510f73c" name="a352683729da59da9923d0f67d510f73c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a352683729da59da9923d0f67d510f73c">&#9670;&#160;</a></span>edgeOfMagnessSummonPos</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/d90/a08958.html">Position</a> const edgeOfMagnessSummonPos = { -11901.229f, -1906.366f, 65.358f, 0.942f }</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00211">go_brazier_of_madness::GossipHello()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00237">WorldSession::HandleAcceptTradeOpcode()</a>.</p>
 
 </div>
 </div>
@@ -325,8 +318,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_704a0a1c688c1952f17cd27e5650d099.html">ZulGurub</a></li><li class="navelem"><a class="el" href="../../d0/d78/a01745.html">instance_zulgurub.cpp</a></li>
-    <li class="footer">Generated on Tue Oct 27 2026 00:03:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_c6aa1690377d4e56e32ba0c89772ac1d.html">Handlers</a></li><li class="navelem"><a class="el" href="../../d0/d78/a01745.html">TradeHandler.cpp</a></li>
+    <li class="footer">Generated on Tue Nov 3 2026 02:35:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

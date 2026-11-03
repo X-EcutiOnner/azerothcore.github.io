@@ -1,6 +1,6 @@
 var a23258 =
 [
-    [ "instance_black_temple_InstanceMapScript", "dc/df8/a23262.html", "dc/df8/a23262" ],
-    [ "instance_black_temple", "df/dfc/a23258.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "df/dfc/a23258.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "PrepareSpellScript", "df/dfc/a23258.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "df/dfc/a23258.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "df/dfc/a23258.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

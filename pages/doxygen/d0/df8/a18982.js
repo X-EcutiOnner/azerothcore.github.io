@@ -1,8 +1,7 @@
 var a18982 =
 [
-    [ "npc_lk_wicked_spiritAI", "d0/df8/a18982.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
-    [ "CanAIAttack", "d0/df8/a18982.html#ae094420b1a6e134632baa0b086c806c6", null ],
-    [ "JustDied", "d0/df8/a18982.html#adf153fab1c8639b2b5790ed418afb85d", null ],
-    [ "JustRespawned", "d0/df8/a18982.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
-    [ "Reset", "d0/df8/a18982.html#a8b15079251b6855679d738a342126006", null ]
+    [ "ValithriaDespawner", "d0/df8/a18982.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d0/df8/a18982.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d0/df8/a18982.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d0/df8/a18982.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

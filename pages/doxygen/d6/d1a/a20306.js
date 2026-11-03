@@ -1,6 +1,6 @@
 var a20306 =
 [
-    [ "achievement_assembly_of_iron", "d6/d1a/a20306.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "d6/d1a/a20306.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "d6/d1a/a20306.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "FilterTargets", "d6/d1a/a20306.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "d6/d1a/a20306.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "d6/d1a/a20306.html#a4e803984a3eded2736825f631786c204", null ]
 ];

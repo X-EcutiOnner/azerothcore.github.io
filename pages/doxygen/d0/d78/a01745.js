@@ -1,17 +1,6 @@
 var a01745 =
 [
-    [ "instance_zulgurub", "d0/d89/a14782.html", "d0/d89/a14782" ],
-    [ "instance_zulgurub::instance_zulgurub_InstanceMapScript", "d7/d86/a14786.html", "d7/d86/a14786" ],
-    [ "go_brazier_of_madness", "d6/d50/a14790.html", "d6/d50/a14790" ],
-    [ "EdgeOfMadnessEnum", "d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416", [
-      [ "EVENT_EDGE_OF_MADNESS_GRILEK", "d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7", null ],
-      [ "EVENT_EDGE_OF_MADNESS_HAZZARAH", "d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4", null ],
-      [ "EVENT_EDGE_OF_MADNESS_RENATAKI", "d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d", null ],
-      [ "EVENT_EDGE_OF_MADNESS_WUSHOOLAY", "d0/d78/a01745.html#a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073", null ]
-    ] ],
-    [ "AddSC_instance_zulgurub", "d0/d78/a01745.html#a224e147b1990c0996e0ac61a1865e34c", null ],
-    [ "BrazierOfMadnessContainer", "d0/d78/a01745.html#a808ff75d7f4ab6555cdc154544ef727f", null ],
-    [ "creatureData", "d0/d78/a01745.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d0/d78/a01745.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "edgeOfMagnessSummonPos", "d0/d78/a01745.html#a352683729da59da9923d0f67d510f73c", null ]
+    [ "clearAcceptTradeMode", "d0/d78/a01745.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
+    [ "clearAcceptTradeMode", "d0/d78/a01745.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
+    [ "setAcceptTradeMode", "d0/d78/a01745.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
 ];

@@ -1,9 +1,16 @@
 var a21142 =
 [
-    [ "boss_yoggsaron_crusher_tentacle", "d0/dfd/a21142.html#a1649412beffbc87ce046a591775b02b2", null ],
-    [ "DamageTaken", "d0/dfd/a21142.html#aa38dbd7050000d3aab774a7b719912f4", null ],
-    [ "DoAction", "d0/dfd/a21142.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
-    [ "Reset", "d0/dfd/a21142.html#aba082f8d2fa200eca9c52336df544221", null ],
-    [ "UpdateAI", "d0/dfd/a21142.html#ae22a12401dc98534da1cb771468a58ce", null ],
-    [ "_diminishReady", "d0/dfd/a21142.html#af8d417c56918cf59dfe3d8429c4cf239", null ]
+    [ "boss_yoggsaron_immortal_guardian", "d0/dfd/a21142.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "d0/dfd/a21142.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "EngageFromStasis", "d0/dfd/a21142.html#af9717bb7058b8a51dd30dc9edacd66e7", null ],
+    [ "JustEngagedWith", "d0/dfd/a21142.html#a7583d6058cf805fa1c36cd98b9e9e7d2", null ],
+    [ "MoveInLineOfSight", "d0/dfd/a21142.html#acbf73ba53c74b1e663eccb6866828134", null ],
+    [ "Reset", "d0/dfd/a21142.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "d0/dfd/a21142.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "d0/dfd/a21142.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spawnStasis", "d0/dfd/a21142.html#a7de7c5e60cc888d5729273e63495e382", null ],
+    [ "DRAIN_LIFE_HEALTH_CHECK", "d0/dfd/a21142.html#afc8d67d6a482a20638e17d30b58c5c8b", null ],
+    [ "DRAIN_LIFE_INTERVAL", "d0/dfd/a21142.html#a1a4c5a3f9261b4da86f9bc0476216dee", null ],
+    [ "SPAWN_STASIS_TIME", "d0/dfd/a21142.html#a5d8549b48c63168c205d5e126209ee66", null ],
+    [ "SPAWN_VISUAL_DELAY", "d0/dfd/a21142.html#a0db02bb21ba048c236a432421c009250", null ]
 ];

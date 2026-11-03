@@ -1,16 +1,6 @@
 var a20610 =
 [
-    [ "npc_ulduar_hodir_shaman", "d2/d36/a20610.html#a3277cda17d5409be3426bdaa61e092cd", null ],
-    [ "AttackStart", "d2/d36/a20610.html#a933908d61afac33002411874060c0f74", null ],
-    [ "CanAIAttack", "d2/d36/a20610.html#a8907c7300cef735a70b088de3c16cfb9", null ],
-    [ "DoAction", "d2/d36/a20610.html#ae27325cc9b794a84d82faa0f410fa844", null ],
-    [ "EnterEvadeMode", "d2/d36/a20610.html#afa6124e630cd878659172a06df68d39f", null ],
-    [ "JustDied", "d2/d36/a20610.html#a08af85d3446c86443ff5a620b159d000", null ],
-    [ "MoveInLineOfSight", "d2/d36/a20610.html#a29de52dcae485f00403dae8e28ff1395", null ],
-    [ "ScheduleAbilities", "d2/d36/a20610.html#ab9aa67f07721c0bf60e9db75b5b3e888", null ],
-    [ "SpellHit", "d2/d36/a20610.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
-    [ "SpellHitTarget", "d2/d36/a20610.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
-    [ "UpdateAI", "d2/d36/a20610.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
-    [ "_instance", "d2/d36/a20610.html#aa09753bc9b54ea8dcc9b61a9ace77ae3", null ],
-    [ "events", "d2/d36/a20610.html#a7e147f6f230513cfb666473c61ab4be4", null ]
+    [ "FilterTargets", "d2/d36/a20610.html#a16c036791c9dc94490d0504d6e530bad", null ],
+    [ "PrepareSpellScript", "d2/d36/a20610.html#a0c1a162a3dfb2b508f9efaebe478ca74", null ],
+    [ "Register", "d2/d36/a20610.html#a061c3091e981f09d20016c4f523f3c17", null ]
 ];

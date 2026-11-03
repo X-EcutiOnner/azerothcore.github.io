@@ -1,10 +1,7 @@
 var a23494 =
 [
-    [ "Spells", "d2/d37/a23494.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "d2/d37/a23494.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "d2/d37/a23494.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "d2/d37/a23494.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "d2/d37/a23494.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "d2/d37/a23494.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "HandleEffectRemove", "d2/d37/a23494.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "d2/d37/a23494.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "d2/d37/a23494.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "d2/d37/a23494.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

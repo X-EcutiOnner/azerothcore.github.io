@@ -1,8 +1,6 @@
 var a10714 =
 [
-    [ "_OnTrigger", "d0/dc2/a10714.html#a6da93a21c84345bd77e467377810e756", null ],
-    [ "AreaTriggerScript", "d0/dc2/a10714.html#a8544003872aa5871ee4132e5155ed297", null ],
-    [ "OnTrigger", "d0/dc2/a10714.html#a4ac7e4963d36c8163a560dc8401b5f34", null ],
-    [ "ResetAreaTriggerDone", "d0/dc2/a10714.html#a3b44c1892c1100028b387d15bfbdae60", null ],
-    [ "ResetAreaTriggerDone", "d0/dc2/a10714.html#a3917da4a6f605077720172cda25322ee", null ]
+    [ "PoolObject", "d0/dc2/a10714.html#a772dc7bc9e1ce25edba89977bf87e3f0", null ],
+    [ "chance", "d0/dc2/a10714.html#ae129795bb2f358af900dbc8892502123", null ],
+    [ "guid", "d0/dc2/a10714.html#ae10fa01f5959e231fe2c16d38d9f3615", null ]
 ];

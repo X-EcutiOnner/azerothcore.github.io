@@ -1,7 +1,6 @@
 var a18002 =
 [
-    [ "HandleDummy", "df/df1/a18002.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "df/df1/a18002.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "df/df1/a18002.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "df/df1/a18002.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "npc_icc_blood_beastAI", "de/d33/a18006.html", "de/d33/a18006" ],
+    [ "npc_icc_blood_beast", "df/df1/a18002.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "df/df1/a18002.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

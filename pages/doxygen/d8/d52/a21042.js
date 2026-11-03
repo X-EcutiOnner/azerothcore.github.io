@@ -1,8 +1,9 @@
 var a21042 =
 [
-    [ "npc_life_spark", "d8/d52/a21042.html#a76bbbdc610dbc433007930c7a45d03be", null ],
-    [ "JustEngagedWith", "d8/d52/a21042.html#af4111bf747f0d5c510f72f32d42f90e3", null ],
-    [ "Reset", "d8/d52/a21042.html#a3c5b0ee2fac3bc444cc3c58e70284b72", null ],
-    [ "UpdateAI", "d8/d52/a21042.html#a3dffda7a220e41302b928f55995d4dce", null ],
-    [ "_scheduler", "d8/d52/a21042.html#a7e77d71508031a75655db8aaa34d0f9d", null ]
+    [ "GetRandomToyPile", "d8/d52/a21042.html#a4e119696b212c6a57f11b284c2bb0c82", null ],
+    [ "HandleScript", "d8/d52/a21042.html#a62eb106c6a55406adc682b372a94aaef", null ],
+    [ "PrepareSpellScript", "d8/d52/a21042.html#acb19b4f65324ce419004e969274c4816", null ],
+    [ "Register", "d8/d52/a21042.html#aba572e339d50b51cb33d04270d29b733", null ],
+    [ "Validate", "d8/d52/a21042.html#a59acb2775caa76c05797d7c8dfd0f3fb", null ],
+    [ "ToyPileSearchDistance", "d8/d52/a21042.html#aa7c7f5e7298e89e431464105d5d8bbdf", null ]
 ];

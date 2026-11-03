@@ -1,14 +1,6 @@
 var a00719 =
 [
-    [ "npc_artorius", "d8/d08/a28630.html", "d8/d08/a28630" ],
-    [ "npc_artorius::npc_artoriusAI", "d7/df8/a28634.html", "d7/df8/a28634" ],
-    [ "npc_precious", "d9/d45/a28638.html", "d9/d45/a28638" ],
-    [ "npc_precious::npc_preciousAI", "d9/d92/a28642.html", "d9/d92/a28642" ],
-    [ "npc_simone", "d8/d45/a28646.html", "d8/d45/a28646" ],
-    [ "npc_simone::npc_simoneAI", "d5/d96/a28650.html", "d5/d96/a28650" ],
-    [ "npc_nelson", "d1/de8/a28654.html", "d1/de8/a28654" ],
-    [ "npc_nelson::npc_nelsonAI", "db/ddc/a28658.html", "db/ddc/a28658" ],
-    [ "npc_franklin", "d4/d4d/a28662.html", "d4/d4d/a28662" ],
-    [ "npc_franklin::npc_franklinAI", "d9/d83/a28666.html", "d9/d83/a28666" ],
-    [ "AddSC_npc_stave_of_ancients", "dd/dd8/a00719.html#a81e200e5d045a2403cd76a0559a6fd8c", null ]
+    [ "GetDefaultNetmaskV4", "dd/dd8/a00719.html#af75b2c10ca445dc89c53b7ed8d17eae0", null ],
+    [ "IsInNetwork", "dd/dd8/a00719.html#af108d05a57113d16ab9c8f3b26870be2", null ],
+    [ "IsInNetwork", "dd/dd8/a00719.html#a2617cb1c747a45e5af4e2c32cc29d5de", null ]
 ];

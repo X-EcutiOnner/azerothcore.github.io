@@ -1,5 +1,14 @@
 var a03884 =
 [
-    [ "MotdMgr", "d1/d4e/a10466.html", "d1/d4e/a10466" ],
-    [ "sMotdMgr", "d6/db7/a03884.html#a0ad6ba4db6e433e72e172e659af2cada", null ]
+    [ "instance_violet_hold", "d5/d2b/a21642.html", "d5/d2b/a21642" ],
+    [ "instance_violet_hold::instance_violet_hold_InstanceMapScript", "df/df0/a21646.html", "df/df0/a21646" ],
+    [ "VHYells", "d6/db7/a03884.html#a3b04686d1d725527c68f5a3354f3badc", [
+      [ "CYANIGOSA_SAY_SPAWN", "d6/db7/a03884.html#a3b04686d1d725527c68f5a3354f3badcad55452f43eb6c2a7803dd3a6914ff586", null ],
+      [ "SAY_SINCLARI_LEAVING", "d6/db7/a03884.html#a3b04686d1d725527c68f5a3354f3badca98abfd4974743840603721fea2cd0192", null ],
+      [ "SAY_SINCLARI_DOOR_LOCK", "d6/db7/a03884.html#a3b04686d1d725527c68f5a3354f3badca009be97ca2bddcb508aeed20f057fd61", null ],
+      [ "SAY_SINCLARI_COMPLETE", "d6/db7/a03884.html#a3b04686d1d725527c68f5a3354f3badcaeb5bea74e085aa8ec9a176deb36cdcf1", null ]
+    ] ],
+    [ "AddSC_instance_violet_hold", "d6/db7/a03884.html#a3d339190942c6b50cafaf9780d32ffb4", null ],
+    [ "creatureData", "d6/db7/a03884.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "goData", "d6/db7/a03884.html#a03bbafc34e5890481edb24bb48d0dd38", null ]
 ];

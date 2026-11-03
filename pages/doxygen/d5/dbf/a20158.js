@@ -1,5 +1,6 @@
 var a20158 =
 [
-    [ "boss_sjonnir_dwarfAI", "d5/dbf/a20158.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
-    [ "UpdateAI", "d5/dbf/a20158.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
+    [ "HandleScript", "d5/dbf/a20158.html#a992dbad02eab01824d870bdd3fca93d0", null ],
+    [ "PrepareSpellScript", "d5/dbf/a20158.html#a0e6b4d1f59896a255929556baa943bdb", null ],
+    [ "Register", "d5/dbf/a20158.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
 ];

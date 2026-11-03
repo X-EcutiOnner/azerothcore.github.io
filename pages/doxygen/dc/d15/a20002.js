@@ -1,10 +1,7 @@
 var a20002 =
 [
-    [ "npc_oculus_drakegiverAI", "d3/d5c/a20006.html", "d3/d5c/a20006" ],
-    [ "npc_oculus_drakegiver", "dc/d15/a20002.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "dc/d15/a20002.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "dc/d15/a20002.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "dc/d15/a20002.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "dc/d15/a20002.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "dc/d15/a20002.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
+    [ "Apply", "dc/d15/a20002.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "dc/d15/a20002.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "dc/d15/a20002.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "dc/d15/a20002.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

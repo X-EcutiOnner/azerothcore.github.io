@@ -1,29 +1,17 @@
 var a01688 =
 [
-    [ "instance_stratholme", "dc/d42/a13758.html", "dc/d42/a13758" ],
-    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "de/d26/a13762.html", "de/d26/a13762" ],
-    [ "go_enchanted_scarlet_thread", "d4/d5b/a13766.html", "d4/d5b/a13766" ],
-    [ "GateTrapIndexes", "d6/d53/a01688.html#a1e3e0f954f38fb8ebd1631cecce73103", [
-      [ "GATE_TRAP_SCARLET", "d6/d53/a01688.html#a1e3e0f954f38fb8ebd1631cecce73103a74abfbe1ca83a5c82b940d51d80917a2", null ],
-      [ "GATE_TRAP_UNDEAD", "d6/d53/a01688.html#a1e3e0f954f38fb8ebd1631cecce73103a3c280740e9b426876dcb1d9cbadeddbf", null ],
-      [ "MAX_GATE_TRAPS", "d6/d53/a01688.html#a1e3e0f954f38fb8ebd1631cecce73103a3e65c2448e5f5476658383fd1cb57b7d", null ]
-    ] ],
-    [ "SlaughterPhases", "d6/d53/a01688.html#ab74452e13a914118aee0795762828b27", [
-      [ "SLAUGHTER_ABOMINATIONS", "d6/d53/a01688.html#ab74452e13a914118aee0795762828b27a0177abc1f7a27f2a63f64b9da96ea9b1", null ],
-      [ "SLAUGHTER_RAMSTEIN", "d6/d53/a01688.html#ab74452e13a914118aee0795762828b27a122175ef2b70c82254134dd16eb909fc", null ],
-      [ "SLAUGHTER_MINDLESS_UNDEAD", "d6/d53/a01688.html#ab74452e13a914118aee0795762828b27a5ac54f5e0104f0c8d3275c6b71d143c8", null ],
-      [ "SLAUGHTER_BLACK_GUARD", "d6/d53/a01688.html#ab74452e13a914118aee0795762828b27ac961d397b2a43acbb08f5094bb5a6880", null ],
-      [ "SLAUGHTER_COMPLETE", "d6/d53/a01688.html#ab74452e13a914118aee0795762828b27a66ea693c409f7b7648b521e34d32d976", null ]
-    ] ],
-    [ "AddSC_instance_stratholme", "d6/d53/a01688.html#add44fd9ad05267cc5db256b112db2585", null ],
-    [ "aGateTrap", "d6/d53/a01688.html#aa404f6799978911e2f0e4de3b4386c59", null ],
-    [ "AllScarletThreadLocations", "d6/d53/a01688.html#a055cb3e623dd7500b61e9e36afb72af7", null ],
-    [ "aPlaguedCritters", "d6/d53/a01688.html#a4108af811b2731f9784942b89f333054", null ],
-    [ "BarthilasPos", "d6/d53/a01688.html#a3c5bc53064d7ed19146d61fbe2f25502", null ],
-    [ "BlackGuardPos", "d6/d53/a01688.html#a8ed1ccc03c022b129aa9bb9464fedd0a", null ],
-    [ "GATE_TRAP_COOLDOWN", "d6/d53/a01688.html#a4f079c66cab2d51167491563e985a489", null ],
-    [ "MAX_GATE_TRAP_GATES", "d6/d53/a01688.html#a5c405cce21d296f25e84d39b7d1d075f", null ],
-    [ "MindlessUndeadPos", "d6/d53/a01688.html#a1a89feed6c582c3bf3e51bf3a1027081", null ],
-    [ "ScarletThreadSpawnCount", "d6/d53/a01688.html#ab43e7dbe9fa919ee1b3442d6be2762f6", null ],
-    [ "SlaughterPos", "d6/d53/a01688.html#aec64d79cbf450b10fd485f2e559e0472", null ]
+    [ "Petition", "d0/d90/a10698.html", "d0/d90/a10698" ],
+    [ "Signatures", "d3/d32/a10702.html", "d3/d32/a10702" ],
+    [ "PetitionMgr", "d2/da2/a10706.html", "d2/da2/a10706" ],
+    [ "CHARTER_DISPLAY_ID", "d6/d53/a01688.html#a33856c1d078b61fa0516a63176297c49", null ],
+    [ "sPetitionMgr", "d6/d53/a01688.html#a2910b9c8b8c58925b562acf66b3e46d2", null ],
+    [ "PetitionContainer", "d6/d53/a01688.html#a223a8d1b8f865a0d4e8f100758e36bce", null ],
+    [ "SignatureContainer", "d6/d53/a01688.html#a541d3cf929662ff3a4ab97f63d54b16f", null ],
+    [ "SignatureMap", "d6/d53/a01688.html#a52c6b38c9d018efa6f8a95153a0eb2b5", null ],
+    [ "CharterItemIDs", "d6/d53/a01688.html#acec0915ab4c4246cd1eda0ddd63d47bb", [
+      [ "GUILD_CHARTER", "d6/d53/a01688.html#acec0915ab4c4246cd1eda0ddd63d47bba2e6b069055001141f4bee95616a7720d", null ],
+      [ "ARENA_TEAM_CHARTER_2v2", "d6/d53/a01688.html#acec0915ab4c4246cd1eda0ddd63d47bba2f39a42139b3361ca2547f4c3c517e27", null ],
+      [ "ARENA_TEAM_CHARTER_3v3", "d6/d53/a01688.html#acec0915ab4c4246cd1eda0ddd63d47bbac155da3886ba50a00694a0b600855470", null ],
+      [ "ARENA_TEAM_CHARTER_5v5", "d6/d53/a01688.html#acec0915ab4c4246cd1eda0ddd63d47bba3d4ede0990919580bc749e110995dc37", null ]
+    ] ]
 ];

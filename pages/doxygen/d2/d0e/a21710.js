@@ -1,8 +1,10 @@
 var a21710 =
 [
-    [ "npc_azure_sorceror", "d2/d0e/a21710.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
-    [ "Reset", "d2/d0e/a21710.html#af4bc0ff9b938302c399bff528dd06769", null ],
-    [ "UpdateAI", "d2/d0e/a21710.html#a36675e89aab24a92589a33f88fbec2bd", null ],
-    [ "_arcaneStreamOnCooldown", "d2/d0e/a21710.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
-    [ "_events", "d2/d0e/a21710.html#a3bd018057b31c90afd19ac6943d44591", null ]
+    [ "npc_sinkhole_kill_creditAI", "d2/d0e/a21710.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "d2/d0e/a21710.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "d2/d0e/a21710.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "d2/d0e/a21710.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "d2/d0e/a21710.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "d2/d0e/a21710.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "d2/d0e/a21710.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

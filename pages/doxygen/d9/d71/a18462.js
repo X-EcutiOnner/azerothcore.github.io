@@ -1,6 +1,6 @@
 var a18462 =
 [
-    [ "HandlePeriodic", "d9/d71/a18462.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "d9/d71/a18462.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "d9/d71/a18462.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "OnRemove", "d9/d71/a18462.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d9/d71/a18462.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d9/d71/a18462.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

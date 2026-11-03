@@ -1,7 +1,6 @@
 var a17158 =
 [
-    [ "FilterTargets", "d4/d7e/a17158.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d4/d7e/a17158.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d4/d7e/a17158.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d4/d7e/a17158.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "HandleRemove", "d4/d7e/a17158.html#a299077c537b7b78390649b36fdda738f", null ],
+    [ "PrepareAuraScript", "d4/d7e/a17158.html#ae4591520913f56b9d369ec937f5cb71b", null ],
+    [ "Register", "d4/d7e/a17158.html#a33c5574523b15b00976164ad38bcbf13", null ]
 ];

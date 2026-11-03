@@ -1,9 +1,6 @@
 var a24118 =
 [
-    [ "instance_the_eye_InstanceMapScript", "de/d7c/a24118.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
-    [ "GetGuidData", "de/d7c/a24118.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
-    [ "OnGameObjectCreate", "de/d7c/a24118.html#a56c6933c2c231c228ca147107fbfc930", null ],
-    [ "BridgeWindowGUID", "de/d7c/a24118.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
-    [ "KaelStateLeftGUID", "de/d7c/a24118.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
-    [ "KaelStateRightGUID", "de/d7c/a24118.html#a25ba703325800d2976eff860437f3d57", null ]
+    [ "instance_the_eye_InstanceMapScript", "d6/d10/a24122.html", "d6/d10/a24122" ],
+    [ "instance_the_eye", "de/d7c/a24118.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "de/d7c/a24118.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

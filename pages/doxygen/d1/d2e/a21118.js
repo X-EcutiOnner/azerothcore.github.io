@@ -1,12 +1,9 @@
 var a21118 =
 [
-    [ "boss_yoggsaron_cloud", "d1/d2e/a21118.html#a4efbeab85d5770784f1474176a23fd74", null ],
-    [ "DoAction", "d1/d2e/a21118.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
-    [ "JustSummoned", "d1/d2e/a21118.html#a2c321419548e8ce151d639c3fbd7b1b4", null ],
-    [ "MoveCircle", "d1/d2e/a21118.html#ae5b286e1fd294f8f8fafdf4589226bf6", null ],
-    [ "Reset", "d1/d2e/a21118.html#ad548ae65a05f600487a57899760ebab0", null ],
-    [ "UpdateAI", "d1/d2e/a21118.html#aa4b62a29fe7d62a2124d8cfaf9c612ec", null ],
-    [ "_checkTimer", "d1/d2e/a21118.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
-    [ "_isSummoning", "d1/d2e/a21118.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ],
-    [ "clockwise", "d1/d2e/a21118.html#ad57ebcd626b3333a5785caeb1dd43fd5", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "d1/d2e/a21118.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "d1/d2e/a21118.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "d1/d2e/a21118.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "d1/d2e/a21118.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "d1/d2e/a21118.html#ae22a12401dc98534da1cb771468a58ce", null ],
+    [ "_diminishReady", "d1/d2e/a21118.html#af8d417c56918cf59dfe3d8429c4cf239", null ]
 ];

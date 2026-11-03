@@ -1,14 +1,9 @@
 var a01676 =
 [
-    [ "npc_tapoke_slim_jahn", "de/db3/a14422.html", "de/db3/a14422" ],
-    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "d9/d76/a14426.html", "d9/d76/a14426" ],
-    [ "npc_mikhail", "dd/d94/a14430.html", "dd/d94/a14430" ],
-    [ "TapokeSlim", "de/d3e/a01676.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
-      [ "QUEST_MISSING_DIPLO_PT11", "de/d3e/a01676.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
-      [ "SPELL_STEALTH", "de/d3e/a01676.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
-      [ "SPELL_CALL_FRIENDS", "de/d3e/a01676.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
-      [ "NPC_SLIMS_FRIEND", "de/d3e/a01676.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
-      [ "NPC_TAPOKE_SLIM_JAHN", "de/d3e/a01676.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
-    ] ],
-    [ "AddSC_wetlands", "de/d3e/a01676.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
+    [ "MapType", "de/d3e/a01676.html#a2a540ae6cb73c9914f0253464b155227", null ],
+    [ "Find", "de/d3e/a01676.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
+    [ "Insert", "de/d3e/a01676.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
+    [ "Remove", "de/d3e/a01676.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
+    [ "RemoveByName", "de/d3e/a01676.html#a9c5298580060e7a6078ffb5f4008c549", null ],
+    [ "PlayerNameMap", "de/d3e/a01676.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
 ];

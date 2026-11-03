@@ -1,14 +1,15 @@
 var a19950 =
 [
-    [ "npc_crystalline_frayer", "db/dcd/a19950.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
-    [ "DamageTaken", "db/dcd/a19950.html#a2580575a58353e8cb94561bafd74f502", null ],
-    [ "EnterEvadeMode", "db/dcd/a19950.html#a9240adcfe966f11c925db82add432aa5", null ],
-    [ "EnterSeedPod", "db/dcd/a19950.html#a070554a809ba40726d005fdba19a16b0", null ],
-    [ "JustEngagedWith", "db/dcd/a19950.html#a91e8c4015b9b238fd2144999bcef9362", null ],
-    [ "LeaveSeedPod", "db/dcd/a19950.html#afe6ba31b18fa65aaa15daad3101149c2", null ],
-    [ "Reset", "db/dcd/a19950.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
-    [ "UpdateAI", "db/dcd/a19950.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
-    [ "_allowDeath", "db/dcd/a19950.html#adc85054030146067d2cff47db2886a07", null ],
-    [ "_inSeedPod", "db/dcd/a19950.html#a26e0c5f780bc661796f922c52000c30a", null ],
-    [ "_scheduler", "db/dcd/a19950.html#a1faafa1c39716f7679ca0b2b2f10a641", null ]
+    [ "boss_eregosAI", "db/dcd/a19950.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
+    [ "DamageTaken", "db/dcd/a19950.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
+    [ "JustDied", "db/dcd/a19950.html#ade16be2804b857fc8e93a62d4be42380", null ],
+    [ "JustEngagedWith", "db/dcd/a19950.html#a1544782732beba5d7114c3bb70419ae1", null ],
+    [ "JustSummoned", "db/dcd/a19950.html#a33ef5a080e457f4e08e7997b467b0974", null ],
+    [ "KilledUnit", "db/dcd/a19950.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
+    [ "MoveInLineOfSight", "db/dcd/a19950.html#ac622481abb0190bdc7654b383766a9ed", null ],
+    [ "Reset", "db/dcd/a19950.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
+    [ "UpdateAI", "db/dcd/a19950.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
+    [ "events", "db/dcd/a19950.html#ae6f1f2e3146525596c3dbb646283b744", null ],
+    [ "pInstance", "db/dcd/a19950.html#abf0b366d7b0931ccc30711a33736dda8", null ],
+    [ "shiftNumber", "db/dcd/a19950.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
 ];

@@ -1,6 +1,7 @@
 var a26026 =
 [
-    [ "OnBaseRemove", "d6/dfe/a26026.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "PrepareAuraScript", "d6/dfe/a26026.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "d6/dfe/a26026.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "CheckProc", "d6/dfe/a26026.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
+    [ "HandleProc", "d6/dfe/a26026.html#a5cf9cea911ead2f261522e55e94c745a", null ],
+    [ "PrepareAuraScript", "d6/dfe/a26026.html#a3f2b20607f90ad641769eb284ddfab85", null ],
+    [ "Register", "d6/dfe/a26026.html#a55557026689613e91aeabce1af442237", null ]
 ];

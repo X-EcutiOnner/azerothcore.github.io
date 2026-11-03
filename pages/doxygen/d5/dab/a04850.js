@@ -1,7 +1,6 @@
 var a04850 =
 [
-    [ "Crash", "d5/dab/a04850.html#a510bae7d9948cf497418ec913452009f", null ],
-    [ "GetDebugInfo", "d5/dab/a04850.html#a29601d3ea684d75bac9c331eb4866951", null ],
-    [ "MakeAbortMessage", "d5/dab/a04850.html#a52b8a43ee2424672ac8de45dcc283eda", null ],
-    [ "MakeMessage", "d5/dab/a04850.html#a31219fe016a9b170fc6ae111157ba552", null ]
+    [ "instance_culling_of_stratholme", "d1/d3b/a15430.html", "d1/d3b/a15430" ],
+    [ "instance_culling_of_stratholme::instance_culling_of_stratholme_InstanceMapScript", "d5/d9f/a15434.html", "d5/d9f/a15434" ],
+    [ "AddSC_instance_culling_of_stratholme", "d5/dab/a04850.html#adb1b78926a09436f6897c9050ef2d9ef", null ]
 ];

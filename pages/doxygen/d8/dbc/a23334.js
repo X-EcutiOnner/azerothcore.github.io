@@ -1,11 +1,7 @@
 var a23334 =
 [
-    [ "boss_doomwalker", "d8/dbc/a23334.html#a47811086ff98b1a09af5300af94b6c0e", null ],
-    [ "JustDied", "d8/dbc/a23334.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
-    [ "JustEngagedWith", "d8/dbc/a23334.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
-    [ "KilledUnit", "d8/dbc/a23334.html#a2335eb642940397f73ee2a8051624e8e", null ],
-    [ "MoveInLineOfSight", "d8/dbc/a23334.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
-    [ "Reset", "d8/dbc/a23334.html#aba08b227d629c9f35e59f465e29c267b", null ],
-    [ "UpdateAI", "d8/dbc/a23334.html#a3105c50e512c6f709985cece619b131f", null ],
-    [ "_inEnrage", "d8/dbc/a23334.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
+    [ "HandleProc", "d8/dbc/a23334.html#a43892c85339867a65e992b7f17fdc61c", null ],
+    [ "PrepareAuraScript", "d8/dbc/a23334.html#ab5728e2c3df5b887c26f2485575087ff", null ],
+    [ "Register", "d8/dbc/a23334.html#aae9f80730de402ebbda918e0116e59a0", null ],
+    [ "Validate", "d8/dbc/a23334.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
 ];

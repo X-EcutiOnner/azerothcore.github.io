@@ -1,6 +1,6 @@
 var a10830 =
 [
-    [ "BattlegroundScript", "dc/da5/a10830.html#a482219a4f398dbc40b33f6e8de6f98e3", null ],
-    [ "GetBattleground", "dc/da5/a10830.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
-    [ "IsDatabaseBound", "dc/da5/a10830.html#a35b571d570c85a861af6f949b51453cb", null ]
+    [ "BattlegroundMapScript", "dc/da5/a10830.html#aa976810defac9b6838553f8d28ea9366", null ],
+    [ "checkValidity", "dc/da5/a10830.html#a90584770132eb71cffc6e25a674750ad", null ],
+    [ "isAfterLoadScript", "dc/da5/a10830.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
 ];

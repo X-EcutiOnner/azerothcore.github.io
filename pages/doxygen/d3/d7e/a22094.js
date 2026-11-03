@@ -1,7 +1,8 @@
 var a22094 =
 [
-    [ "HandlePeriodic", "d3/d7e/a22094.html#a39e103c4bd60ce54eb7ecbdb37013e04", null ],
-    [ "PrepareAuraScript", "d3/d7e/a22094.html#ac198489764c878822e38a1ea225ab287", null ],
-    [ "Register", "d3/d7e/a22094.html#a66933e6f4b5689b0b05de63aa7402354", null ],
-    [ "Validate", "d3/d7e/a22094.html#a0db3843573837c53aeeaca69a6019d06", null ]
+    [ "npc_ravenous_worgAI", "d3/d7e/a22094.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d3/d7e/a22094.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d3/d7e/a22094.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d3/d7e/a22094.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d3/d7e/a22094.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

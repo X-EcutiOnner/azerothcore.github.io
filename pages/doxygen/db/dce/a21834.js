@@ -1,7 +1,6 @@
 var a21834 =
 [
-    [ "HandleScriptEffect", "db/dce/a21834.html#adc89459d7b6c073b8a60e08a9e3281cf", null ],
-    [ "PrepareSpellScript", "db/dce/a21834.html#a8f15bf27d9e54c1ee6c84f99f1f83d48", null ],
-    [ "Register", "db/dce/a21834.html#a86ef787e1db46e578a10ca25ac84ba87", null ],
-    [ "Validate", "db/dce/a21834.html#abeb8baf7dabf2d3acea4df79535770d2", null ]
+    [ "npc_steam_powered_auctioneerAI", "d3/d3e/a21838.html", "d3/d3e/a21838" ],
+    [ "npc_steam_powered_auctioneer", "db/dce/a21834.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "db/dce/a21834.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

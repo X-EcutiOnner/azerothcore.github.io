@@ -1,9 +1,11 @@
 var a05009 =
 [
-    [ "Acore::Impl::StringConvertImpl::For< T, typename >", "d9/d69/a05958.html", null ],
-    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "d9/dd6/a05962.html", "d9/dd6/a05962" ],
-    [ "Acore::Impl::StringConvertImpl::For< bool, void >", "d7/d14/a05966.html", "d7/d14/a05966" ],
-    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "de/d73/a05970.html", "de/d73/a05970" ],
-    [ "StringTo", "d1/d91/a05009.html#a71739ada07c2f1b12bcd0aa811eea903", null ],
-    [ "ToString", "d1/d91/a05009.html#ac2cb308fb001c35fbaa90489ea6cf478", null ]
+    [ "npc_innkeeper", "dc/d61/a28606.html", "dc/d61/a28606" ],
+    [ "AddSC_npc_innkeeper", "d1/d91/a05009.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "GOSSIP_MENU", "d1/d91/a05009.html#a3115623eb3e0408aad7cd637686aaaee", null ],
+    [ "GOSSIP_MENU_EVENT", "d1/d91/a05009.html#a6bb09725b9e6b10b76686a9059038e6b", null ],
+    [ "HALLOWEEN_EVENTID", "d1/d91/a05009.html#a2e23760d3d379f3fa92c139f067b5984", null ],
+    [ "SPELL_TREAT", "d1/d91/a05009.html#a072a033da374692139d9d33e63be89ca", null ],
+    [ "SPELL_TRICK", "d1/d91/a05009.html#ad2b2ba30383cca3be221f38a809e2da1", null ],
+    [ "SPELL_TRICKED_OR_TREATED", "d1/d91/a05009.html#a022e344eaf73aa8ab6655d2c6aaac688", null ]
 ];

@@ -1,17 +1,9 @@
 var a03545 =
 [
-    [ "SmartAI", "d6/dbb/a06695.html", "d6/dbb/a06695" ],
-    [ "SmartGameObjectAI", "d4/db6/a06699.html", "d4/db6/a06699" ],
-    [ "DISTANCING_CONSTANT", "dd/d25/a03545.html#a9a381b0c4b9dc5403d4a93b3afb19dff", null ],
-    [ "SmartEscortState", "dd/d25/a03545.html#a0911043eb49fd7958a828a60e0537d54", [
-      [ "SMART_ESCORT_NONE", "dd/d25/a03545.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
-      [ "SMART_ESCORT_ESCORTING", "dd/d25/a03545.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],
-      [ "SMART_ESCORT_RETURNING", "dd/d25/a03545.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8", null ],
-      [ "SMART_ESCORT_PAUSED", "dd/d25/a03545.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7", null ]
-    ] ],
-    [ "SmartEscortVars", "dd/d25/a03545.html#a598eb331d977fa893d589fe3e6cebfbf", [
-      [ "SMART_ESCORT_MAX_PLAYER_DIST", "dd/d25/a03545.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba", null ],
-      [ "SMART_MAX_AID_DIST", "dd/d25/a03545.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f", null ]
-    ] ],
-    [ "AddSC_SmartScripts", "dd/d25/a03545.html#ab6012619ba76775b314475ec60f8c7d7", null ]
+    [ "instance_ruby_sanctum", "d1/d82/a16822.html", "d1/d82/a16822" ],
+    [ "instance_ruby_sanctum::instance_ruby_sanctum_InstanceMapScript", "d7/dc2/a16826.html", "d7/dc2/a16826" ],
+    [ "spell_ruby_sanctum_rallying_shout", "d5/d1b/a16830.html", "d5/d1b/a16830" ],
+    [ "AddSC_instance_ruby_sanctum", "dd/d25/a03545.html#a93f8126d2e36ad7caab980f1c3f83a14", null ],
+    [ "boundaries", "dd/d25/a03545.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "doorData", "dd/d25/a03545.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

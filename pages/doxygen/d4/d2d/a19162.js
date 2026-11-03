@@ -1,7 +1,6 @@
 var a19162 =
 [
-    [ "npc_frost_freeze_trapAI", "d4/d2d/a19162.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
-    [ "DoAction", "d4/d2d/a19162.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
-    [ "UpdateAI", "d4/d2d/a19162.html#ae8efccb090f38968f3c0ca51f022013b", null ],
-    [ "_events", "d4/d2d/a19162.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
+    [ "npc_captain_arnathAI", "dd/d80/a19166.html", "dd/d80/a19166" ],
+    [ "npc_captain_arnath", "d4/d2d/a19162.html#ab96afce64a7714ea84bab932f80c9302", null ],
+    [ "GetAI", "d4/d2d/a19162.html#a302ec007389e677011334d78f410207b", null ]
 ];

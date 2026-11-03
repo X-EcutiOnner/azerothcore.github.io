@@ -1,6 +1,6 @@
 var a18914 =
 [
-    [ "npc_strangulate_vehicleAI", "dd/d6e/a18918.html", "dd/d6e/a18918" ],
-    [ "npc_strangulate_vehicle", "d0/dcf/a18914.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "d0/dcf/a18914.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "npc_spirit_wardenAI", "dd/d6e/a18918.html", "dd/d6e/a18918" ],
+    [ "npc_spirit_warden", "d0/dcf/a18914.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "d0/dcf/a18914.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

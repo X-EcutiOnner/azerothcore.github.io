@@ -1,10 +1,7 @@
 var a20910 =
 [
-    [ "npc_razorscale_dark_rune_sentinel", "d9/d8f/a20910.html#ab05b135a3c4cc45c132b3bb38127494c", null ],
-    [ "CanAIAttack", "d9/d8f/a20910.html#a99f74f401c846f56f6adf70a755e5a84", null ],
-    [ "JustEngagedWith", "d9/d8f/a20910.html#afdba7ecd994d92484a75444387bffaee", null ],
-    [ "Reset", "d9/d8f/a20910.html#ad83e4b28dc7562a627f9d1330c3bb2fc", null ],
-    [ "UpdateAI", "d9/d8f/a20910.html#a621e7a4804a74ce74717a9b0212ab8a3", null ],
-    [ "_events", "d9/d8f/a20910.html#a5dc9139c7d2897b6f1a9e9d86a5f663a", null ],
-    [ "_instance", "d9/d8f/a20910.html#a83f67be54dde276f3ed5efd867450756", null ]
+    [ "HandleScript", "d9/d8f/a20910.html#ab2cfe77248b3e0e3d04c203635f2f4fa", null ],
+    [ "PrepareSpellScript", "d9/d8f/a20910.html#a07041d1278d7c12ca40e341fdf0a0b4e", null ],
+    [ "Register", "d9/d8f/a20910.html#af75bed8e253cb372f1bceb0ae1e54e1a", null ],
+    [ "Validate", "d9/d8f/a20910.html#aa2d5bae5c41f6975aecc4d951a565e81", null ]
 ];

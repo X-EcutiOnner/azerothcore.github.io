@@ -1,7 +1,13 @@
 var a20334 =
 [
-    [ "HandleScriptEffect", "d7/dd1/a20334.html#a96033c335117fa39e96a2dd70c44616a", null ],
-    [ "PrepareSpellScript", "d7/dd1/a20334.html#abf5f28d0fdb86a55b5b6f545a1fec633", null ],
-    [ "Register", "d7/dd1/a20334.html#a0acb0e31242fda06456081ef2937157e", null ],
-    [ "Validate", "d7/dd1/a20334.html#a648ce84276009cdee91c921b99193aea", null ]
+    [ "boss_flame_leviathan_defense_turret", "d7/dd1/a20334.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
+    [ "CanAIAttack", "d7/dd1/a20334.html#a17020dc7facabb0cacac3209277a73f7", null ],
+    [ "DamageTaken", "d7/dd1/a20334.html#ac15aadce1954d827b7e833ed761faf10", null ],
+    [ "EnterEvadeMode", "d7/dd1/a20334.html#aeb9fe92f81b3734512106aa73c983a35", null ],
+    [ "JustDied", "d7/dd1/a20334.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
+    [ "JustEnteredCombat", "d7/dd1/a20334.html#a3e31c489f5bb4928cb9a3bc996940cd1", null ],
+    [ "KilledUnit", "d7/dd1/a20334.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
+    [ "UpdateAI", "d7/dd1/a20334.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
+    [ "_instance", "d7/dd1/a20334.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
+    [ "_setHealth", "d7/dd1/a20334.html#a413187aa01c119d088846a216f093baa", null ]
 ];

@@ -1,15 +1,6 @@
 var a17742 =
 [
-    [ "boss_gal_darah", "da/d27/a17742.html#a036b5f96ecf5096040f16e0205e4d57c", null ],
-    [ "GetData", "da/d27/a17742.html#a1f8ec6a0a95b10953506e08275db7a2c", null ],
-    [ "JustDied", "da/d27/a17742.html#a98f53f7131155114da1eeb19f5a50daa", null ],
-    [ "JustEngagedWith", "da/d27/a17742.html#acf7696bdfa868808f29a90dbec4b0688", null ],
-    [ "JustReachedHome", "da/d27/a17742.html#aba3c2011a01d4e00b7e1c28f0c4326b9", null ],
-    [ "JustSummoned", "da/d27/a17742.html#a490e259cf452c417864c978510d06fd2", null ],
-    [ "KilledUnit", "da/d27/a17742.html#a799e52cfe029164149017ea7f963937f", null ],
-    [ "Reset", "da/d27/a17742.html#a712339fe4a06d6a4836f4cbb5bd01625", null ],
-    [ "ScheduleEvents", "da/d27/a17742.html#ad5acba3d3bc049bb5bdcb95d31ef06d6", null ],
-    [ "SpellHit", "da/d27/a17742.html#a3f8cbe22aa2e0d39272b5b4dbfc5f06b", null ],
-    [ "_stampedeVictim", "da/d27/a17742.html#a0d34c4486c4188fcc6eb75e904d52a61", null ],
-    [ "impaledList", "da/d27/a17742.html#a08f311b7b7cec3bc4056b7d7071bfbf0", null ]
+    [ "HandlePeriodic", "da/d27/a17742.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "da/d27/a17742.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "da/d27/a17742.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

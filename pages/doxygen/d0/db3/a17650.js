@@ -1,6 +1,6 @@
 var a17650 =
 [
-    [ "npc_pos_freed_slaveAI", "d0/db3/a17650.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "d0/db3/a17650.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "d0/db3/a17650.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "HandleDummy", "d0/db3/a17650.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
+    [ "PrepareSpellScript", "d0/db3/a17650.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
+    [ "Register", "d0/db3/a17650.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
 ];

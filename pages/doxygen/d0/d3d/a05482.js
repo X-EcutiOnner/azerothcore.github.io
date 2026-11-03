@@ -1,8 +1,7 @@
 var a05482 =
 [
-    [ "MeshTriangle", "d0/d3d/a05482.html#af99ecf0b02af73e6727095df1dce8422", null ],
-    [ "MeshTriangle", "d0/d3d/a05482.html#a36109fc79a9ca9c6bf19959fd1493e60", null ],
-    [ "idx0", "d0/d3d/a05482.html#aed1048a2b6745215a7b8f70dec378371", null ],
-    [ "idx1", "d0/d3d/a05482.html#a560bb163f63ff7202aade4d115f31664", null ],
-    [ "idx2", "d0/d3d/a05482.html#ac939c5e66526c67c067288b9d6484cac", null ]
+    [ "WModelAreaCallback", "d0/d3d/a05482.html#aef7e8c21f6be4d6889faddda6b3be326", null ],
+    [ "operator()", "d0/d3d/a05482.html#a8024f924c258932c874c0ac3539d2755", null ],
+    [ "hit", "d0/d3d/a05482.html#a92b907262a6e2fa630148580da43c612", null ],
+    [ "prims", "d0/d3d/a05482.html#abe509366e68fff92e07c1aacb90da04f", null ]
 ];

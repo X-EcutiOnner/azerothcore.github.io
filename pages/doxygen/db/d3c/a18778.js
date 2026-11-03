@@ -1,15 +1,10 @@
 var a18778 =
 [
-    [ "npc_tirion_fordringAI", "db/d3c/a18778.html#aa0f94cef85e96cda4a2e280eaa7110de", null ],
-    [ "CanAIAttack", "db/d3c/a18778.html#a1bdef323e9c7364fab789abc39ef00a0", null ],
-    [ "DoAction", "db/d3c/a18778.html#a5fd5b3fde84ed04c794546d11fe946d7", null ],
-    [ "EnterEvadeMode", "db/d3c/a18778.html#a1275cee8f49c67920041ad8d50c62aa4", null ],
-    [ "JustReachedHome", "db/d3c/a18778.html#a6e6c7c2f4f8e60126fd4adc42fe3b4f4", null ],
-    [ "MovementInform", "db/d3c/a18778.html#a7284240c4eafbc80748d5e2867a64a9f", null ],
-    [ "Reset", "db/d3c/a18778.html#ac41e569535322bb5907fa4116bbac739", null ],
-    [ "sGossipSelect", "db/d3c/a18778.html#a56599a97f019121160b2f6ac43019772", null ],
-    [ "SpellHit", "db/d3c/a18778.html#ae68b900f87c646cfb3ece5518b59e687", null ],
-    [ "UpdateAI", "db/d3c/a18778.html#a3f729624820266f1cf1e5577c5047c3b", null ],
-    [ "_events", "db/d3c/a18778.html#a7bb0d243cc9b3e836dd99864f2a5e669", null ],
-    [ "_instance", "db/d3c/a18778.html#a223a7f09ae03971487bb55e770503f7e", null ]
+    [ "npc_shambling_horror_iccAI", "db/d3c/a18778.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
+    [ "CanAIAttack", "db/d3c/a18778.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
+    [ "DamageTaken", "db/d3c/a18778.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
+    [ "Reset", "db/d3c/a18778.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
+    [ "UpdateAI", "db/d3c/a18778.html#abae6058591022057e93d48da3db1b8bc", null ],
+    [ "_events", "db/d3c/a18778.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
+    [ "_frenzied", "db/d3c/a18778.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
 ];

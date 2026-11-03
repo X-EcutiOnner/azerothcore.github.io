@@ -1,11 +1,13 @@
 var a02699 =
 [
-    [ "AuraEffect", "d7/d40/a11926.html", "d7/d40/a11926" ],
-    [ "Acore::AbsorbAuraOrderPred", "d9/de9/a11930.html", "d9/de9/a11930" ],
-    [ "pAuraEffectHandler", "dd/d9a/a02699.html#a9e98d9a1c1cc41922f386b184fd7ce67", null ],
-    [ "BrewfestEntries", "dd/d9a/a02699.html#a4ee83f582e4ebba3a5aea9ab1a5c9354", [
-      [ "BREWFEST_KODO", "dd/d9a/a02699.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5", null ],
-      [ "GREAT_BREWFEST_KODO", "dd/d9a/a02699.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa", null ],
-      [ "FRESH_BREWFEST_HOPS", "dd/d9a/a02699.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf", null ]
-    ] ]
+    [ "AreaBoundary", "da/d94/a10286.html", "da/d94/a10286" ],
+    [ "AreaBoundary::DoublePosition", "d3/d0d/a10290.html", "d3/d0d/a10290" ],
+    [ "RectangleBoundary", "d0/db2/a10294.html", "d0/db2/a10294" ],
+    [ "CircleBoundary", "d5/d5b/a10298.html", "d5/d5b/a10298" ],
+    [ "EllipseBoundary", "d7/daa/a10302.html", "d7/daa/a10302" ],
+    [ "TriangleBoundary", "d5/dc2/a10306.html", "d5/dc2/a10306" ],
+    [ "ParallelogramBoundary", "d5/dea/a10310.html", "d5/dea/a10310" ],
+    [ "ZRangeBoundary", "de/d84/a10314.html", "de/d84/a10314" ],
+    [ "BoundaryUnionBoundary", "dc/d20/a10318.html", "dc/d20/a10318" ],
+    [ "BoundaryIntersectBoundary", "d9/d3c/a10322.html", "d9/d3c/a10322" ]
 ];

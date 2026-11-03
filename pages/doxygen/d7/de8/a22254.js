@@ -1,6 +1,6 @@
 var a22254 =
 [
-    [ "npc_black_knight_graveyardAI", "db/d16/a22258.html", "db/d16/a22258" ],
-    [ "npc_black_knight_graveyard", "d7/de8/a22254.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "d7/de8/a22254.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "npc_lord_areteAI", "db/d16/a22258.html", "db/d16/a22258" ],
+    [ "npc_lord_arete", "d7/de8/a22254.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "d7/de8/a22254.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

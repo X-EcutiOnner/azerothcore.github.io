@@ -137,7 +137,7 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:adff0b9d4abad7843811c543dfd10572e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Tests that <a class="el" href="../../d9/d7c/a10810.html">ArenaScript</a> and <a class="el" href="../../d3/d6f/a10774.html">AllBattlegroundScript</a> hooks return safe defaults when no scripts are registered, ensuring core game logic (MemberWon/MemberLost, SaveToDB, etc.) is not accidentally skipped. </p>
+<div class="textblock"><p >Tests that <a class="el" href="../../df/d90/a10814.html">ArenaScript</a> and <a class="el" href="../../de/d41/a10778.html">AllBattlegroundScript</a> hooks return safe defaults when no scripts are registered, ensuring core game logic (MemberWon/MemberLost, SaveToDB, etc.) is not accidentally skipped. </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="ae5a5b6e47735560ea83b9458fb7dd7f4" name="ae5a5b6e47735560ea83b9458fb7dd7f4"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae5a5b6e47735560ea83b9458fb7dd7f4">&#9670;&#160;</a></span>EnsureScriptRegistriesInitialized()</h2>
@@ -165,16 +165,16 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   37</span>        <span class="keyword">static</span> <span class="keywordtype">bool</span> initialized = <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">   38</span>        <span class="keywordflow">if</span> (!initialized)</div>
 <div class="line"><span class="lineno">   39</span>        {</div>
-<div class="line"><span class="lineno">   40</span>            <a class="code hl_function" href="../../db/df0/a10994.html#a44238d9b122f50192b989b1efe2107bd">ScriptRegistry&lt;ArenaScript&gt;::InitEnabledHooksIfNeeded</a>(<a class="code hl_enumvalue" href="../../d1/de2/a03983.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a>);</div>
-<div class="line"><span class="lineno">   41</span>            <a class="code hl_function" href="../../db/df0/a10994.html#a44238d9b122f50192b989b1efe2107bd">ScriptRegistry&lt;BGScript&gt;::InitEnabledHooksIfNeeded</a>(<a class="code hl_enumvalue" href="../../d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af">ALLBATTLEGROUNDHOOK_END</a>);</div>
+<div class="line"><span class="lineno">   40</span>            <a class="code hl_function" href="../../d3/d24/a10998.html#a44238d9b122f50192b989b1efe2107bd">ScriptRegistry&lt;ArenaScript&gt;::InitEnabledHooksIfNeeded</a>(<a class="code hl_enumvalue" href="../../d2/d22/a01196.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a>);</div>
+<div class="line"><span class="lineno">   41</span>            <a class="code hl_function" href="../../d3/d24/a10998.html#a44238d9b122f50192b989b1efe2107bd">ScriptRegistry&lt;BGScript&gt;::InitEnabledHooksIfNeeded</a>(<a class="code hl_enumvalue" href="../../dd/d39/a01271.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af">ALLBATTLEGROUNDHOOK_END</a>);</div>
 <div class="line"><span class="lineno">   42</span>            initialized = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">   43</span>        }</div>
 <div class="line"><span class="lineno">   44</span>    }</div>
-<div class="ttc" id="aa03983_html_a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58"><div class="ttname"><a href="../../d1/de2/a03983.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a></div><div class="ttdeci">@ ARENAHOOK_END</div><div class="ttdef"><b>Definition:</b> ArenaScript.h:37</div></div>
-<div class="ttc" id="aa04112_html_a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af"><div class="ttname"><a href="../../d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af">ALLBATTLEGROUNDHOOK_END</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_END</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:47</div></div>
-<div class="ttc" id="aa10994_html_a44238d9b122f50192b989b1efe2107bd"><div class="ttname"><a href="../../db/df0/a10994.html#a44238d9b122f50192b989b1efe2107bd">ScriptRegistry::InitEnabledHooksIfNeeded</a></div><div class="ttdeci">static void InitEnabledHooksIfNeeded(uint16 totalAvailableHooks)</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:791</div></div>
+<div class="ttc" id="aa01196_html_a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58"><div class="ttname"><a href="../../d2/d22/a01196.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a></div><div class="ttdeci">@ ARENAHOOK_END</div><div class="ttdef"><b>Definition:</b> ArenaScript.h:37</div></div>
+<div class="ttc" id="aa01271_html_a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af"><div class="ttname"><a href="../../dd/d39/a01271.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af">ALLBATTLEGROUNDHOOK_END</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_END</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:47</div></div>
+<div class="ttc" id="aa10998_html_a44238d9b122f50192b989b1efe2107bd"><div class="ttname"><a href="../../d3/d24/a10998.html#a44238d9b122f50192b989b1efe2107bd">ScriptRegistry::InitEnabledHooksIfNeeded</a></div><div class="ttdeci">static void InitEnabledHooksIfNeeded(uint16 totalAvailableHooks)</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:792</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00047">ALLBATTLEGROUNDHOOK_END</a>, <a class="el" href="../../#l00037">ARENAHOOK_END</a>, and <a class="el" href="../../#l00791">ScriptRegistry&lt; TScript &gt;::InitEnabledHooksIfNeeded()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00047">ALLBATTLEGROUNDHOOK_END</a>, <a class="el" href="../../#l00037">ARENAHOOK_END</a>, and <a class="el" href="../../#l00792">ScriptRegistry&lt; TScript &gt;::InitEnabledHooksIfNeeded()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00046">SetUp()</a>.</p>
 
@@ -203,21 +203,21 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   47</span>    {</div>
-<div class="line"><span class="lineno">   48</span>        <a class="code hl_variable" href="../../d5/dc7/a30014.html#adff0b9d4abad7843811c543dfd10572e">previousWorld_</a> = std::move(<a class="code hl_define" href="../../d8/d2c/a05128.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>);</div>
+<div class="line"><span class="lineno">   48</span>        <a class="code hl_variable" href="../../d5/dc7/a30014.html#adff0b9d4abad7843811c543dfd10572e">previousWorld_</a> = std::move(<a class="code hl_define" href="../../d0/dcf/a05131.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>);</div>
 <div class="line"><span class="lineno">   49</span>        <span class="keyword">auto</span>* mock = new ::testing::NiceMock&lt;WorldMock&gt;();</div>
 <div class="line"><span class="lineno">   50</span>        ON_CALL(*mock, getIntConfig(::testing::_))</div>
 <div class="line"><span class="lineno">   51</span>            .WillByDefault(::testing::Return(0));</div>
-<div class="line"><span class="lineno">   52</span>        ON_CALL(*mock, getIntConfig(<a class="code hl_enumvalue" href="../../d4/db9/a02918.html#a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad">CONFIG_LEGACY_ARENA_START_RATING</a>))</div>
+<div class="line"><span class="lineno">   52</span>        ON_CALL(*mock, getIntConfig(<a class="code hl_enumvalue" href="../../d9/de8/a02006.html#a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad">CONFIG_LEGACY_ARENA_START_RATING</a>))</div>
 <div class="line"><span class="lineno">   53</span>            .WillByDefault(::testing::Return(1500));</div>
-<div class="line"><span class="lineno">   54</span>        ON_CALL(*mock, getIntConfig(<a class="code hl_enumvalue" href="../../d4/db9/a02918.html#a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347">CONFIG_ARENA_START_RATING</a>))</div>
+<div class="line"><span class="lineno">   54</span>        ON_CALL(*mock, getIntConfig(<a class="code hl_enumvalue" href="../../d9/de8/a02006.html#a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347">CONFIG_ARENA_START_RATING</a>))</div>
 <div class="line"><span class="lineno">   55</span>            .WillByDefault(::testing::Return(0));</div>
-<div class="line"><span class="lineno">   56</span>        <a class="code hl_define" href="../../d8/d2c/a05128.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.reset(mock);</div>
+<div class="line"><span class="lineno">   56</span>        <a class="code hl_define" href="../../d0/dcf/a05131.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.reset(mock);</div>
 <div class="line"><span class="lineno">   57</span> </div>
 <div class="line"><span class="lineno">   58</span>        <a class="code hl_function" href="../../d5/dc7/a30014.html#ae5a5b6e47735560ea83b9458fb7dd7f4">EnsureScriptRegistriesInitialized</a>();</div>
 <div class="line"><span class="lineno">   59</span>    }</div>
-<div class="ttc" id="aa02918_html_a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347"><div class="ttname"><a href="../../d4/db9/a02918.html#a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347">CONFIG_ARENA_START_RATING</a></div><div class="ttdeci">@ CONFIG_ARENA_START_RATING</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:298</div></div>
-<div class="ttc" id="aa02918_html_a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad"><div class="ttname"><a href="../../d4/db9/a02918.html#a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad">CONFIG_LEGACY_ARENA_START_RATING</a></div><div class="ttdeci">@ CONFIG_LEGACY_ARENA_START_RATING</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:299</div></div>
-<div class="ttc" id="aa05128_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d8/d2c/a05128.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:337</div></div>
+<div class="ttc" id="aa02006_html_a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347"><div class="ttname"><a href="../../d9/de8/a02006.html#a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347">CONFIG_ARENA_START_RATING</a></div><div class="ttdeci">@ CONFIG_ARENA_START_RATING</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:298</div></div>
+<div class="ttc" id="aa02006_html_a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad"><div class="ttname"><a href="../../d9/de8/a02006.html#a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad">CONFIG_LEGACY_ARENA_START_RATING</a></div><div class="ttdeci">@ CONFIG_LEGACY_ARENA_START_RATING</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:299</div></div>
+<div class="ttc" id="aa05131_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d0/dcf/a05131.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:337</div></div>
 <div class="ttc" id="aa30014_html_adff0b9d4abad7843811c543dfd10572e"><div class="ttname"><a href="../../d5/dc7/a30014.html#adff0b9d4abad7843811c543dfd10572e">ArenaHookDefaultsTest::previousWorld_</a></div><div class="ttdeci">std::unique_ptr&lt; IWorld &gt; previousWorld_</div><div class="ttdef"><b>Definition:</b> ArenaHookDefaultsTest.cpp:66</div></div>
 <div class="ttc" id="aa30014_html_ae5a5b6e47735560ea83b9458fb7dd7f4"><div class="ttname"><a href="../../d5/dc7/a30014.html#ae5a5b6e47735560ea83b9458fb7dd7f4">ArenaHookDefaultsTest::EnsureScriptRegistriesInitialized</a></div><div class="ttdeci">static void EnsureScriptRegistriesInitialized()</div><div class="ttdef"><b>Definition:</b> ArenaHookDefaultsTest.cpp:35</div></div>
 </div><!-- fragment -->
@@ -248,7 +248,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   62</span>    {</div>
-<div class="line"><span class="lineno">   63</span>        <a class="code hl_define" href="../../d8/d2c/a05128.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a> = std::move(<a class="code hl_variable" href="../../d5/dc7/a30014.html#adff0b9d4abad7843811c543dfd10572e">previousWorld_</a>);</div>
+<div class="line"><span class="lineno">   63</span>        <a class="code hl_define" href="../../d0/dcf/a05131.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a> = std::move(<a class="code hl_variable" href="../../d5/dc7/a30014.html#adff0b9d4abad7843811c543dfd10572e">previousWorld_</a>);</div>
 <div class="line"><span class="lineno">   64</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00066">previousWorld_</a>, and <a class="el" href="../../#l00337">sWorld</a>.</p>
@@ -286,7 +286,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/dc7/a30014.html">ArenaHookDefaultsTest</a></li>
-    <li class="footer">Generated on Tue Oct 27 2026 00:03:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Nov 3 2026 02:36:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

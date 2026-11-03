@@ -1,6 +1,6 @@
 var a22378 =
 [
-    [ "npc_still_at_it_triggerAI", "db/d65/a22382.html", "db/d65/a22382" ],
-    [ "npc_still_at_it_trigger", "d8/dcf/a22378.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "d8/dcf/a22378.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "HandleHealPct", "d8/dcf/a22378.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "d8/dcf/a22378.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "d8/dcf/a22378.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

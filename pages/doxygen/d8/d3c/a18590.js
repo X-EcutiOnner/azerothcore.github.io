@@ -1,6 +1,6 @@
 var a18590 =
 [
-    [ "boss_sindragosaAI", "d8/d05/a18594.html", "d8/d05/a18594" ],
-    [ "boss_sindragosa", "d8/d3c/a18590.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "d8/d3c/a18590.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "FilterTargets", "d8/d3c/a18590.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "d8/d3c/a18590.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "d8/d3c/a18590.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/VioletHold/violet_hold.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/DataStores/M2Stores.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,778 +105,446 @@ $(document).ready(function(){initNavTree('d3/dcd/a00965.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">violet_hold.cpp File Reference</div></div>
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">M2Stores.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">violet_hold.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">PassiveAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedEscortAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">M2Stores.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Containers.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DBCStores.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">M2Structure.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
+<code>#include &lt;boost/filesystem/path.hpp&gt;</code><br />
+<code>#include &lt;fstream&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d78/a21674.html">npc_vh_teleportation_portal</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd5/a21678.html">violet_hold_trashAI</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d09/a21682.html">npc_azure_invader</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d59/a21686.html">npc_azure_binder</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d36/a21690.html">npc_azure_mage_slayer</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd7/a21694.html">npc_azure_raider</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a21698.html">npc_azure_stalker</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/deb/a21702.html">npc_azure_spellbreaker</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dc0/a21706.html">npc_azure_captain</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0e/a21710.html">npc_azure_sorceror</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d05/a21714.html">npc_azure_saboteur</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d88/a21718.html">spell_destroy_door_seal_aura</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d28/a21722.html">npc_violet_hold_defense_system</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a19f2c5217c4e583e2a2e3d499977a177"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177">PortalEvents</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177aa892d532cfe73089b573009999e49707">EVENT_SUMMON_KEEPER_OR_GUARDIAN</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a518ebaf6b566ed755b032625f8ac973e">EVENT_SUMMON_KEEPER_TRASH</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a451936542d4fe56f8f10993c956007bc">EVENT_SUMMON_ELITES</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a94822388f728c343ac073a90c5d3a4f1">EVENT_SUMMON_SABOTEOUR</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a73f521266f6a8c0188f7ea4b61843c96">EVENT_CHECK_DEATHS</a>
-<br />
- }</td></tr>
-<tr class="separator:a19f2c5217c4e583e2a2e3d499977a177"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae59925ffe1ee1844f14b8f5192b50e50"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50">AzureInvaderSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50a0de0a536dbf18ec5c2e76cfee1d751eb">SPELL_CLEAVE</a> = 15496
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50aed97c932510c91b6057175b2df166f63">SPELL_IMPALE</a> = 58459
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50abd5215af7b4cc0aa95176300a5e47b0d">SPELL_BRUTAL_STRIKE</a> = 58460
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50a99eaf912c120c7fa6d85748ebf96aebb">SPELL_SUNDER_ARMOR</a> = 58461
-<br />
- }</td></tr>
-<tr class="separator:ae59925ffe1ee1844f14b8f5192b50e50"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a158603b6fe3ddb2baf3e95de37a5dcc2"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2">AzureSpellbreakerSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2af122c6c3fe00bd98cedb873409dc4803">SPELL_ARCANE_BLAST</a> = 58462
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2a8c3d41eb1b68da0f3943e5df04bfcb5c">SPELL_SLOW</a> = 25603
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2ae1f0efa4026f86ebb692786585cec455">SPELL_CHAINS_OF_ICE</a> = 58464
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2ab066547e004691aae6b23d39f4c0da4b">SPELL_CONE_OF_COLD</a> = 58463
-<br />
- }</td></tr>
-<tr class="separator:a158603b6fe3ddb2baf3e95de37a5dcc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac8ac5bae2b6aba2c00fdae1c893e94f0"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0">AzureBinderSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a3afb459a719cb129b98a146ade206c97">SPELL_ARCANE_BARRAGE</a> = 58456
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a6cef4c5e88133771f6b27aec8b8cfdce">SPELL_ARCANE_EXPLOSION</a> = 58455
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0ab913503b67c5b8f901cfc4f207bcba03">SPELL_FROST_NOVA</a> = 58458
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a1c6a7f86c2818960d6f6f23a4554e39e">SPELL_FROSTBOLT</a> = 58457
-<br />
- }</td></tr>
-<tr class="separator:ac8ac5bae2b6aba2c00fdae1c893e94f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac78605d6efa18baead82e805c7f0f20f"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#ac78605d6efa18baead82e805c7f0f20f">AzureMageSlayerSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#ac78605d6efa18baead82e805c7f0f20fa2a0c7483481c9f46b5abace7844ce0c1">SPELL_ARCANE_EMPOWERMENT</a> = 58469
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#ac78605d6efa18baead82e805c7f0f20fa224d41981eead3a852d629c3d9a3c734">SPELL_SPELL_LOCK</a> = 30849
-<br />
- }</td></tr>
-<tr class="separator:ac78605d6efa18baead82e805c7f0f20f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af46bd9d15b0cae9e73316c52a10611b9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#af46bd9d15b0cae9e73316c52a10611b9">AzureCaptainSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#af46bd9d15b0cae9e73316c52a10611b9a7794ace87705e2898f8b60f1f5228110">SPELL_MORTAL_STRIKE</a> = 32736
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#af46bd9d15b0cae9e73316c52a10611b9ad699aed428dc8515d66185aefa658efd">SPELL_WHIRLWIND_OF_STEEL</a> = 41056
-<br />
- }</td></tr>
-<tr class="separator:af46bd9d15b0cae9e73316c52a10611b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a234a6cf28e39a194632aa43a77e92096"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a234a6cf28e39a194632aa43a77e92096">AzureSorcerorSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a234a6cf28e39a194632aa43a77e92096a30a51557ca182650489da485f07a82b7">SPELL_ARCANE_STREAM</a> = 60181
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a234a6cf28e39a194632aa43a77e92096ae1f24b34bd2d1354627cad7f887d8b85">SPELL_MANA_DETONATION</a> = 60182
-<br />
- }</td></tr>
-<tr class="separator:a234a6cf28e39a194632aa43a77e92096"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4d1c4ff51073f003f5d430153811d5d6"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a4d1c4ff51073f003f5d430153811d5d6">AzureRaiderSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a4d1c4ff51073f003f5d430153811d5d6a24c8037a8967fd1efcb106b022a3aa5b">SPELL_CONCUSSION_BLOW</a> = 52719
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a4d1c4ff51073f003f5d430153811d5d6afd79f0e7035448d8f649e3282deb75dd">SPELL_MAGIC_REFLECTION</a> = 60158
-<br />
- }</td></tr>
-<tr class="separator:a4d1c4ff51073f003f5d430153811d5d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a79fc2957bc9c07cbe31064cd981b5663"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a79fc2957bc9c07cbe31064cd981b5663">AzureStalkerSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68">SPELL_BACKSTAB</a> = 58471
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a79fc2957bc9c07cbe31064cd981b5663a5f9f321e45ec4cf0e5e156021cd85402">SPELL_TACTICAL_BLINK</a> = 58470
-<br />
- }</td></tr>
-<tr class="separator:a79fc2957bc9c07cbe31064cd981b5663"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8b58b2b60d173f6f0229ce98da0f576d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576d">InvaderEvents</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576dacab09c7df503347d7760f4d02e83472a">EVENT_INVADER_CLEAVE</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576dacc59cf0e666f4c5b8fadd48a5950d459">EVENT_INVADER_IMPALE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576daace97d0d0843f602c01e225b1e1f990f">EVENT_INVADER_BRUTAL_STRIKE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576daf5925e0fb11d845fe4f68963eb7121fd">EVENT_INVADER_SUNDER_ARMOR</a>
-<br />
- }</td></tr>
-<tr class="separator:a8b58b2b60d173f6f0229ce98da0f576d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4bb0a56f6436235bc98f40cfac8409e9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9">BinderEvents</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9a63afe7fe626556d60ef561edbb5fd974">EVENT_BINDER_ARCANE_EXPLOSION</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9ae6b06bad71b78733cf920fdeb54d9a97">EVENT_BINDER_ARCANE_BARRAGE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9a5a64ff8ed1fd826b2619d44bec99dbe6">EVENT_BINDER_FROST_NOVA</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9a24c7bf49518fa324f3942699466e34df">EVENT_BINDER_FROSTBOLT</a>
-<br />
- }</td></tr>
-<tr class="separator:a4bb0a56f6436235bc98f40cfac8409e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6006a65ff2a4b2635101fb8008f35437"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a6006a65ff2a4b2635101fb8008f35437">MageSlayerEvents</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a6006a65ff2a4b2635101fb8008f35437aeb7e20e3f4f167e2468893cac3605e4a">EVENT_MAGE_SLAYER_ARCANE_EMPOWERMENT</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a6006a65ff2a4b2635101fb8008f35437ae5ca84c6982ea7e9178e71ea01b849fb">EVENT_MAGE_SLAYER_SPELL_LOCK</a>
-<br />
- }</td></tr>
-<tr class="separator:a6006a65ff2a4b2635101fb8008f35437"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a06b78ef34eb909dec4b4e0770bf24120"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a06b78ef34eb909dec4b4e0770bf24120">RaiderEvents</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a06b78ef34eb909dec4b4e0770bf24120acf995c92e9446a8b511b40b1879ad123">EVENT_RAIDER_CONCUSSION_BLOW</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a06b78ef34eb909dec4b4e0770bf24120a0f7e587264c7b59c4b1079927493e3e3">EVENT_RAIDER_MAGIC_REFLECTION</a>
-<br />
- }</td></tr>
-<tr class="separator:a06b78ef34eb909dec4b4e0770bf24120"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0f792309511e4c2acaa38c7c4cacacbc"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a0f792309511e4c2acaa38c7c4cacacbc">StalkerEvents</a> { <a class="el" href="../../d3/dcd/a00965.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f">EVENT_STALKER_BACKSTAB</a> = 1
- }</td></tr>
-<tr class="separator:a0f792309511e4c2acaa38c7c4cacacbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2b26d6e966b782d434f5f6b09f28259b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259b">SpellbreakerEvents</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259badc907fd55c6cef4620119afc8cd851f0">EVENT_SPELLBREAKER_ARCANE_BLAST</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259ba3765b2ca50fa7227baa4a70c376729da">EVENT_SPELLBREAKER_SLOW</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259baf193860ad6054383d811d863edd011d3">EVENT_SPELLBREAKER_CHAINS_OF_ICE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259ba2f026f68218ae4e52c52f9549c8efc32">EVENT_SPELLBREAKER_CONE_OF_COLD</a>
-<br />
- }</td></tr>
-<tr class="separator:a2b26d6e966b782d434f5f6b09f28259b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4dde00ab236b1d0505feebe5a51ece3c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a4dde00ab236b1d0505feebe5a51ece3c">CaptainEvents</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a4dde00ab236b1d0505feebe5a51ece3caa792ffda443764c85bfe20bd3eb87172">EVENT_CAPTAIN_MORTAL_STRIKE</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a4dde00ab236b1d0505feebe5a51ece3ca7b5e919f6bc10d86f528c593c08b60ae">EVENT_CAPTAIN_WHIRLWIND</a>
-<br />
- }</td></tr>
-<tr class="separator:a4dde00ab236b1d0505feebe5a51ece3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abc0f0004442b009bb45ce8c8843895f4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#abc0f0004442b009bb45ce8c8843895f4">SorcerorEvents</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#abc0f0004442b009bb45ce8c8843895f4a2eecd36baf3de97c8974655fd463d485">EVENT_SORCEROR_ARCANE_STREAM</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#abc0f0004442b009bb45ce8c8843895f4a005f809af6de7d14c536ca7c8b33a892">EVENT_SORCEROR_MANA_DETONATION</a>
-<br />
- }</td></tr>
-<tr class="separator:abc0f0004442b009bb45ce8c8843895f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a77eb14328c7227c669ae9a03984a5b97"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97">AzureSaboteurSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97ad925124be9a18f2a765337503fe1ffed">SABOTEUR_SHIELD_DISRUPTION</a> = 58291
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97ac1041b30568f58695d6f34546f88b75c">SABOTEUR_SHIELD_EFFECT</a> = 45775
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97a73cc106ecf58fcd3a75fa23f9ff7a21c">SPELL_TELEPORT_VISUAL</a> = 52096
-<br />
- }</td></tr>
-<tr class="separator:a77eb14328c7227c669ae9a03984a5b97"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a61f0eb737d2d6575416d40c84f7d23ac"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23ac">SaboteurEvents</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23aca3ba481a4a2d4cf944a28a5d7b532e84a">EVENT_SABOTEUR_SHIELD_DISRUPTION</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23aca7a8d5de06f3e31793e053472a621017a">EVENT_SABOTEUR_RELEASE_BOSS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23acad43be551fd59090d924f1dec36e7c5f6">EVENT_SABOTEUR_DISAPPEAR</a>
-<br />
- }</td></tr>
-<tr class="separator:a61f0eb737d2d6575416d40c84f7d23ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a058e5fb250bd785cecc9a6913132dfe4"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../d9/d6e/a08382.html">FlyByCamera</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a></td></tr>
+<tr class="separator:a058e5fb250bd785cecc9a6913132dfe4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a11e49713c62a5c479f14ca4d3e845eab"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a11e49713c62a5c479f14ca4d3e845eab">AddSC_violet_hold</a> ()</td></tr>
-<tr class="separator:a11e49713c62a5c479f14ca4d3e845eab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5274eb8fcc7646fe4fc3ea77ab6de2d9"><td class="memItemLeft" align="right" valign="top">G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9">TranslateLocation</a> (G3D::Vector4 const *DBCPosition, G3D::Vector3 const *basePosition, G3D::Vector3 const *splineVector)</td></tr>
+<tr class="separator:a5274eb8fcc7646fe4fc3ea77ab6de2d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad7c17022a3ffed42c9d4995f5f6bb7ac"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#ad7c17022a3ffed42c9d4995f5f6bb7ac">readCamera</a> (<a class="el" href="../../d7/df7/a08402.html">M2Camera</a> const *cam, <a class="el" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> buffSize, <a class="el" href="../../db/dff/a08390.html">M2Header</a> const *header, <a class="el" href="../../d1/d18/a29290.html">CinematicCameraEntry</a> const *dbcentry)</td></tr>
+<tr class="separator:ad7c17022a3ffed42c9d4995f5f6bb7ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a036ca5e535b8e25b87a67c20c2ad2d4c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a036ca5e535b8e25b87a67c20c2ad2d4c">LoadM2Cameras</a> (std::string const &amp;dataPath)</td></tr>
+<tr class="separator:a036ca5e535b8e25b87a67c20c2ad2d4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4a9ba9da1a2f4075cc36b95cce62f6f"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d9/d6e/a08382.html">FlyByCamera</a> &gt; const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#af4a9ba9da1a2f4075cc36b95cce62f6f">GetFlyByCameras</a> (<a class="el" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> cinematicCameraId)</td></tr>
+<tr class="separator:af4a9ba9da1a2f4075cc36b95cce62f6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a4acfeb7e23e1d3a74b66a1c54084e7bc"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; <a class="el" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d3/dcd/a00965.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dcd/a00965.html#a4acfeb7e23e1d3a74b66a1c54084e7bc">sFlyByCameraStore</a></td></tr>
+<tr class="separator:a4acfeb7e23e1d3a74b66a1c54084e7bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="ac8ac5bae2b6aba2c00fdae1c893e94f0" name="ac8ac5bae2b6aba2c00fdae1c893e94f0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac8ac5bae2b6aba2c00fdae1c893e94f0">&#9670;&#160;</a></span>AzureBinderSpells</h2>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a058e5fb250bd785cecc9a6913132dfe4" name="a058e5fb250bd785cecc9a6913132dfe4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a058e5fb250bd785cecc9a6913132dfe4">&#9670;&#160;</a></span>FlyByCameraCollection</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0">AzureBinderSpells</a></td>
+          <td class="memname">typedef std::vector&lt;<a class="el" href="../../d9/d6e/a08382.html">FlyByCamera</a>&gt; <a class="el" href="../../d3/dcd/a00965.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ac8ac5bae2b6aba2c00fdae1c893e94f0a3afb459a719cb129b98a146ade206c97" name="ac8ac5bae2b6aba2c00fdae1c893e94f0a3afb459a719cb129b98a146ade206c97"></a>SPELL_ARCANE_BARRAGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ac8ac5bae2b6aba2c00fdae1c893e94f0a6cef4c5e88133771f6b27aec8b8cfdce" name="ac8ac5bae2b6aba2c00fdae1c893e94f0a6cef4c5e88133771f6b27aec8b8cfdce"></a>SPELL_ARCANE_EXPLOSION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ac8ac5bae2b6aba2c00fdae1c893e94f0ab913503b67c5b8f901cfc4f207bcba03" name="ac8ac5bae2b6aba2c00fdae1c893e94f0ab913503b67c5b8f901cfc4f207bcba03"></a>SPELL_FROST_NOVA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ac8ac5bae2b6aba2c00fdae1c893e94f0a1c6a7f86c2818960d6f6f23a4554e39e" name="ac8ac5bae2b6aba2c00fdae1c893e94f0a1c6a7f86c2818960d6f6f23a4554e39e"></a>SPELL_FROSTBOLT&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  330</span>{</div>
-<div class="line"><span class="lineno">  331</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a3afb459a719cb129b98a146ade206c97">SPELL_ARCANE_BARRAGE</a>   = 58456,</div>
-<div class="line"><span class="lineno">  332</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a6cef4c5e88133771f6b27aec8b8cfdce">SPELL_ARCANE_EXPLOSION</a> = 58455,</div>
-<div class="line"><span class="lineno">  333</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0ab913503b67c5b8f901cfc4f207bcba03">SPELL_FROST_NOVA</a>       = 58458,</div>
-<div class="line"><span class="lineno">  334</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a1c6a7f86c2818960d6f6f23a4554e39e">SPELL_FROSTBOLT</a>        = 58457,</div>
-<div class="line"><span class="lineno">  335</span>};</div>
-<div class="ttc" id="aa00965_html_ac8ac5bae2b6aba2c00fdae1c893e94f0a1c6a7f86c2818960d6f6f23a4554e39e"><div class="ttname"><a href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a1c6a7f86c2818960d6f6f23a4554e39e">SPELL_FROSTBOLT</a></div><div class="ttdeci">@ SPELL_FROSTBOLT</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:334</div></div>
-<div class="ttc" id="aa00965_html_ac8ac5bae2b6aba2c00fdae1c893e94f0a3afb459a719cb129b98a146ade206c97"><div class="ttname"><a href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a3afb459a719cb129b98a146ade206c97">SPELL_ARCANE_BARRAGE</a></div><div class="ttdeci">@ SPELL_ARCANE_BARRAGE</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:331</div></div>
-<div class="ttc" id="aa00965_html_ac8ac5bae2b6aba2c00fdae1c893e94f0a6cef4c5e88133771f6b27aec8b8cfdce"><div class="ttname"><a href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a6cef4c5e88133771f6b27aec8b8cfdce">SPELL_ARCANE_EXPLOSION</a></div><div class="ttdeci">@ SPELL_ARCANE_EXPLOSION</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:332</div></div>
-<div class="ttc" id="aa00965_html_ac8ac5bae2b6aba2c00fdae1c893e94f0ab913503b67c5b8f901cfc4f207bcba03"><div class="ttname"><a href="../../d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0ab913503b67c5b8f901cfc4f207bcba03">SPELL_FROST_NOVA</a></div><div class="ttdeci">@ SPELL_FROST_NOVA</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:333</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="af46bd9d15b0cae9e73316c52a10611b9" name="af46bd9d15b0cae9e73316c52a10611b9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af46bd9d15b0cae9e73316c52a10611b9">&#9670;&#160;</a></span>AzureCaptainSpells</h2>
 
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#af46bd9d15b0cae9e73316c52a10611b9">AzureCaptainSpells</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af46bd9d15b0cae9e73316c52a10611b9a7794ace87705e2898f8b60f1f5228110" name="af46bd9d15b0cae9e73316c52a10611b9a7794ace87705e2898f8b60f1f5228110"></a>SPELL_MORTAL_STRIKE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af46bd9d15b0cae9e73316c52a10611b9ad699aed428dc8515d66185aefa658efd" name="af46bd9d15b0cae9e73316c52a10611b9ad699aed428dc8515d66185aefa658efd"></a>SPELL_WHIRLWIND_OF_STEEL&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  344</span>{</div>
-<div class="line"><span class="lineno">  345</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#af46bd9d15b0cae9e73316c52a10611b9a7794ace87705e2898f8b60f1f5228110">SPELL_MORTAL_STRIKE</a>      = 32736,</div>
-<div class="line"><span class="lineno">  346</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#af46bd9d15b0cae9e73316c52a10611b9ad699aed428dc8515d66185aefa658efd">SPELL_WHIRLWIND_OF_STEEL</a> = 41056</div>
-<div class="line"><span class="lineno">  347</span>};</div>
-<div class="ttc" id="aa00965_html_af46bd9d15b0cae9e73316c52a10611b9a7794ace87705e2898f8b60f1f5228110"><div class="ttname"><a href="../../d3/dcd/a00965.html#af46bd9d15b0cae9e73316c52a10611b9a7794ace87705e2898f8b60f1f5228110">SPELL_MORTAL_STRIKE</a></div><div class="ttdeci">@ SPELL_MORTAL_STRIKE</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:345</div></div>
-<div class="ttc" id="aa00965_html_af46bd9d15b0cae9e73316c52a10611b9ad699aed428dc8515d66185aefa658efd"><div class="ttname"><a href="../../d3/dcd/a00965.html#af46bd9d15b0cae9e73316c52a10611b9ad699aed428dc8515d66185aefa658efd">SPELL_WHIRLWIND_OF_STEEL</a></div><div class="ttdeci">@ SPELL_WHIRLWIND_OF_STEEL</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:346</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ae59925ffe1ee1844f14b8f5192b50e50" name="ae59925ffe1ee1844f14b8f5192b50e50"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae59925ffe1ee1844f14b8f5192b50e50">&#9670;&#160;</a></span>AzureInvaderSpells</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50">AzureInvaderSpells</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae59925ffe1ee1844f14b8f5192b50e50a0de0a536dbf18ec5c2e76cfee1d751eb" name="ae59925ffe1ee1844f14b8f5192b50e50a0de0a536dbf18ec5c2e76cfee1d751eb"></a>SPELL_CLEAVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae59925ffe1ee1844f14b8f5192b50e50aed97c932510c91b6057175b2df166f63" name="ae59925ffe1ee1844f14b8f5192b50e50aed97c932510c91b6057175b2df166f63"></a>SPELL_IMPALE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae59925ffe1ee1844f14b8f5192b50e50abd5215af7b4cc0aa95176300a5e47b0d" name="ae59925ffe1ee1844f14b8f5192b50e50abd5215af7b4cc0aa95176300a5e47b0d"></a>SPELL_BRUTAL_STRIKE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae59925ffe1ee1844f14b8f5192b50e50a99eaf912c120c7fa6d85748ebf96aebb" name="ae59925ffe1ee1844f14b8f5192b50e50a99eaf912c120c7fa6d85748ebf96aebb"></a>SPELL_SUNDER_ARMOR&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  314</span>{</div>
-<div class="line"><span class="lineno">  315</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50a0de0a536dbf18ec5c2e76cfee1d751eb">SPELL_CLEAVE</a>        = 15496,</div>
-<div class="line"><span class="lineno">  316</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50aed97c932510c91b6057175b2df166f63">SPELL_IMPALE</a>        = 58459,</div>
-<div class="line"><span class="lineno">  317</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50abd5215af7b4cc0aa95176300a5e47b0d">SPELL_BRUTAL_STRIKE</a> = 58460,</div>
-<div class="line"><span class="lineno">  318</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50a99eaf912c120c7fa6d85748ebf96aebb">SPELL_SUNDER_ARMOR</a>  = 58461,</div>
-<div class="line"><span class="lineno">  319</span>};</div>
-<div class="ttc" id="aa00965_html_ae59925ffe1ee1844f14b8f5192b50e50a0de0a536dbf18ec5c2e76cfee1d751eb"><div class="ttname"><a href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50a0de0a536dbf18ec5c2e76cfee1d751eb">SPELL_CLEAVE</a></div><div class="ttdeci">@ SPELL_CLEAVE</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:315</div></div>
-<div class="ttc" id="aa00965_html_ae59925ffe1ee1844f14b8f5192b50e50a99eaf912c120c7fa6d85748ebf96aebb"><div class="ttname"><a href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50a99eaf912c120c7fa6d85748ebf96aebb">SPELL_SUNDER_ARMOR</a></div><div class="ttdeci">@ SPELL_SUNDER_ARMOR</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:318</div></div>
-<div class="ttc" id="aa00965_html_ae59925ffe1ee1844f14b8f5192b50e50abd5215af7b4cc0aa95176300a5e47b0d"><div class="ttname"><a href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50abd5215af7b4cc0aa95176300a5e47b0d">SPELL_BRUTAL_STRIKE</a></div><div class="ttdeci">@ SPELL_BRUTAL_STRIKE</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:317</div></div>
-<div class="ttc" id="aa00965_html_ae59925ffe1ee1844f14b8f5192b50e50aed97c932510c91b6057175b2df166f63"><div class="ttname"><a href="../../d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50aed97c932510c91b6057175b2df166f63">SPELL_IMPALE</a></div><div class="ttdeci">@ SPELL_IMPALE</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:316</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ac78605d6efa18baead82e805c7f0f20f" name="ac78605d6efa18baead82e805c7f0f20f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac78605d6efa18baead82e805c7f0f20f">&#9670;&#160;</a></span>AzureMageSlayerSpells</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#ac78605d6efa18baead82e805c7f0f20f">AzureMageSlayerSpells</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ac78605d6efa18baead82e805c7f0f20fa2a0c7483481c9f46b5abace7844ce0c1" name="ac78605d6efa18baead82e805c7f0f20fa2a0c7483481c9f46b5abace7844ce0c1"></a>SPELL_ARCANE_EMPOWERMENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ac78605d6efa18baead82e805c7f0f20fa224d41981eead3a852d629c3d9a3c734" name="ac78605d6efa18baead82e805c7f0f20fa224d41981eead3a852d629c3d9a3c734"></a>SPELL_SPELL_LOCK&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  338</span>{</div>
-<div class="line"><span class="lineno">  339</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#ac78605d6efa18baead82e805c7f0f20fa2a0c7483481c9f46b5abace7844ce0c1">SPELL_ARCANE_EMPOWERMENT</a> = 58469,</div>
-<div class="line"><span class="lineno">  340</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#ac78605d6efa18baead82e805c7f0f20fa224d41981eead3a852d629c3d9a3c734">SPELL_SPELL_LOCK</a>         = 30849</div>
-<div class="line"><span class="lineno">  341</span>};</div>
-<div class="ttc" id="aa00965_html_ac78605d6efa18baead82e805c7f0f20fa224d41981eead3a852d629c3d9a3c734"><div class="ttname"><a href="../../d3/dcd/a00965.html#ac78605d6efa18baead82e805c7f0f20fa224d41981eead3a852d629c3d9a3c734">SPELL_SPELL_LOCK</a></div><div class="ttdeci">@ SPELL_SPELL_LOCK</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:340</div></div>
-<div class="ttc" id="aa00965_html_ac78605d6efa18baead82e805c7f0f20fa2a0c7483481c9f46b5abace7844ce0c1"><div class="ttname"><a href="../../d3/dcd/a00965.html#ac78605d6efa18baead82e805c7f0f20fa2a0c7483481c9f46b5abace7844ce0c1">SPELL_ARCANE_EMPOWERMENT</a></div><div class="ttdeci">@ SPELL_ARCANE_EMPOWERMENT</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:339</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a4d1c4ff51073f003f5d430153811d5d6" name="a4d1c4ff51073f003f5d430153811d5d6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4d1c4ff51073f003f5d430153811d5d6">&#9670;&#160;</a></span>AzureRaiderSpells</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a4d1c4ff51073f003f5d430153811d5d6">AzureRaiderSpells</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4d1c4ff51073f003f5d430153811d5d6a24c8037a8967fd1efcb106b022a3aa5b" name="a4d1c4ff51073f003f5d430153811d5d6a24c8037a8967fd1efcb106b022a3aa5b"></a>SPELL_CONCUSSION_BLOW&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d1c4ff51073f003f5d430153811d5d6afd79f0e7035448d8f649e3282deb75dd" name="a4d1c4ff51073f003f5d430153811d5d6afd79f0e7035448d8f649e3282deb75dd"></a>SPELL_MAGIC_REFLECTION&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  356</span>{</div>
-<div class="line"><span class="lineno">  357</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a4d1c4ff51073f003f5d430153811d5d6a24c8037a8967fd1efcb106b022a3aa5b">SPELL_CONCUSSION_BLOW</a>  = 52719,</div>
-<div class="line"><span class="lineno">  358</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a4d1c4ff51073f003f5d430153811d5d6afd79f0e7035448d8f649e3282deb75dd">SPELL_MAGIC_REFLECTION</a> = 60158</div>
-<div class="line"><span class="lineno">  359</span>};</div>
-<div class="ttc" id="aa00965_html_a4d1c4ff51073f003f5d430153811d5d6a24c8037a8967fd1efcb106b022a3aa5b"><div class="ttname"><a href="../../d3/dcd/a00965.html#a4d1c4ff51073f003f5d430153811d5d6a24c8037a8967fd1efcb106b022a3aa5b">SPELL_CONCUSSION_BLOW</a></div><div class="ttdeci">@ SPELL_CONCUSSION_BLOW</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:357</div></div>
-<div class="ttc" id="aa00965_html_a4d1c4ff51073f003f5d430153811d5d6afd79f0e7035448d8f649e3282deb75dd"><div class="ttname"><a href="../../d3/dcd/a00965.html#a4d1c4ff51073f003f5d430153811d5d6afd79f0e7035448d8f649e3282deb75dd">SPELL_MAGIC_REFLECTION</a></div><div class="ttdeci">@ SPELL_MAGIC_REFLECTION</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:358</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a77eb14328c7227c669ae9a03984a5b97" name="a77eb14328c7227c669ae9a03984a5b97"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a77eb14328c7227c669ae9a03984a5b97">&#9670;&#160;</a></span>AzureSaboteurSpells</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97">AzureSaboteurSpells</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a77eb14328c7227c669ae9a03984a5b97ad925124be9a18f2a765337503fe1ffed" name="a77eb14328c7227c669ae9a03984a5b97ad925124be9a18f2a765337503fe1ffed"></a>SABOTEUR_SHIELD_DISRUPTION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a77eb14328c7227c669ae9a03984a5b97ac1041b30568f58695d6f34546f88b75c" name="a77eb14328c7227c669ae9a03984a5b97ac1041b30568f58695d6f34546f88b75c"></a>SABOTEUR_SHIELD_EFFECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a77eb14328c7227c669ae9a03984a5b97a73cc106ecf58fcd3a75fa23f9ff7a21c" name="a77eb14328c7227c669ae9a03984a5b97a73cc106ecf58fcd3a75fa23f9ff7a21c"></a>SPELL_TELEPORT_VISUAL&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  815</span>{</div>
-<div class="line"><span class="lineno">  816</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97ad925124be9a18f2a765337503fe1ffed">SABOTEUR_SHIELD_DISRUPTION</a> = 58291,</div>
-<div class="line"><span class="lineno">  817</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97ac1041b30568f58695d6f34546f88b75c">SABOTEUR_SHIELD_EFFECT</a> = 45775,</div>
-<div class="line"><span class="lineno">  818</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97a73cc106ecf58fcd3a75fa23f9ff7a21c">SPELL_TELEPORT_VISUAL</a> = 52096,</div>
-<div class="line"><span class="lineno">  819</span>};</div>
-<div class="ttc" id="aa00965_html_a77eb14328c7227c669ae9a03984a5b97a73cc106ecf58fcd3a75fa23f9ff7a21c"><div class="ttname"><a href="../../d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97a73cc106ecf58fcd3a75fa23f9ff7a21c">SPELL_TELEPORT_VISUAL</a></div><div class="ttdeci">@ SPELL_TELEPORT_VISUAL</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:818</div></div>
-<div class="ttc" id="aa00965_html_a77eb14328c7227c669ae9a03984a5b97ac1041b30568f58695d6f34546f88b75c"><div class="ttname"><a href="../../d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97ac1041b30568f58695d6f34546f88b75c">SABOTEUR_SHIELD_EFFECT</a></div><div class="ttdeci">@ SABOTEUR_SHIELD_EFFECT</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:817</div></div>
-<div class="ttc" id="aa00965_html_a77eb14328c7227c669ae9a03984a5b97ad925124be9a18f2a765337503fe1ffed"><div class="ttname"><a href="../../d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97ad925124be9a18f2a765337503fe1ffed">SABOTEUR_SHIELD_DISRUPTION</a></div><div class="ttdeci">@ SABOTEUR_SHIELD_DISRUPTION</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:816</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a234a6cf28e39a194632aa43a77e92096" name="a234a6cf28e39a194632aa43a77e92096"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a234a6cf28e39a194632aa43a77e92096">&#9670;&#160;</a></span>AzureSorcerorSpells</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a234a6cf28e39a194632aa43a77e92096">AzureSorcerorSpells</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a234a6cf28e39a194632aa43a77e92096a30a51557ca182650489da485f07a82b7" name="a234a6cf28e39a194632aa43a77e92096a30a51557ca182650489da485f07a82b7"></a>SPELL_ARCANE_STREAM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a234a6cf28e39a194632aa43a77e92096ae1f24b34bd2d1354627cad7f887d8b85" name="a234a6cf28e39a194632aa43a77e92096ae1f24b34bd2d1354627cad7f887d8b85"></a>SPELL_MANA_DETONATION&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  350</span>{</div>
-<div class="line"><span class="lineno">  351</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a234a6cf28e39a194632aa43a77e92096a30a51557ca182650489da485f07a82b7">SPELL_ARCANE_STREAM</a>   = 60181,</div>
-<div class="line"><span class="lineno">  352</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a234a6cf28e39a194632aa43a77e92096ae1f24b34bd2d1354627cad7f887d8b85">SPELL_MANA_DETONATION</a> = 60182,</div>
-<div class="line"><span class="lineno">  353</span>};</div>
-<div class="ttc" id="aa00965_html_a234a6cf28e39a194632aa43a77e92096a30a51557ca182650489da485f07a82b7"><div class="ttname"><a href="../../d3/dcd/a00965.html#a234a6cf28e39a194632aa43a77e92096a30a51557ca182650489da485f07a82b7">SPELL_ARCANE_STREAM</a></div><div class="ttdeci">@ SPELL_ARCANE_STREAM</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:351</div></div>
-<div class="ttc" id="aa00965_html_a234a6cf28e39a194632aa43a77e92096ae1f24b34bd2d1354627cad7f887d8b85"><div class="ttname"><a href="../../d3/dcd/a00965.html#a234a6cf28e39a194632aa43a77e92096ae1f24b34bd2d1354627cad7f887d8b85">SPELL_MANA_DETONATION</a></div><div class="ttdeci">@ SPELL_MANA_DETONATION</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:352</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a158603b6fe3ddb2baf3e95de37a5dcc2" name="a158603b6fe3ddb2baf3e95de37a5dcc2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a158603b6fe3ddb2baf3e95de37a5dcc2">&#9670;&#160;</a></span>AzureSpellbreakerSpells</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2">AzureSpellbreakerSpells</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a158603b6fe3ddb2baf3e95de37a5dcc2af122c6c3fe00bd98cedb873409dc4803" name="a158603b6fe3ddb2baf3e95de37a5dcc2af122c6c3fe00bd98cedb873409dc4803"></a>SPELL_ARCANE_BLAST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a158603b6fe3ddb2baf3e95de37a5dcc2a8c3d41eb1b68da0f3943e5df04bfcb5c" name="a158603b6fe3ddb2baf3e95de37a5dcc2a8c3d41eb1b68da0f3943e5df04bfcb5c"></a>SPELL_SLOW&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a158603b6fe3ddb2baf3e95de37a5dcc2ae1f0efa4026f86ebb692786585cec455" name="a158603b6fe3ddb2baf3e95de37a5dcc2ae1f0efa4026f86ebb692786585cec455"></a>SPELL_CHAINS_OF_ICE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a158603b6fe3ddb2baf3e95de37a5dcc2ab066547e004691aae6b23d39f4c0da4b" name="a158603b6fe3ddb2baf3e95de37a5dcc2ab066547e004691aae6b23d39f4c0da4b"></a>SPELL_CONE_OF_COLD&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  322</span>{</div>
-<div class="line"><span class="lineno">  323</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2af122c6c3fe00bd98cedb873409dc4803">SPELL_ARCANE_BLAST</a>  = 58462,</div>
-<div class="line"><span class="lineno">  324</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2a8c3d41eb1b68da0f3943e5df04bfcb5c">SPELL_SLOW</a>          = 25603,</div>
-<div class="line"><span class="lineno">  325</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2ae1f0efa4026f86ebb692786585cec455">SPELL_CHAINS_OF_ICE</a> = 58464,</div>
-<div class="line"><span class="lineno">  326</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2ab066547e004691aae6b23d39f4c0da4b">SPELL_CONE_OF_COLD</a>  = 58463,</div>
-<div class="line"><span class="lineno">  327</span>};</div>
-<div class="ttc" id="aa00965_html_a158603b6fe3ddb2baf3e95de37a5dcc2a8c3d41eb1b68da0f3943e5df04bfcb5c"><div class="ttname"><a href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2a8c3d41eb1b68da0f3943e5df04bfcb5c">SPELL_SLOW</a></div><div class="ttdeci">@ SPELL_SLOW</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:324</div></div>
-<div class="ttc" id="aa00965_html_a158603b6fe3ddb2baf3e95de37a5dcc2ab066547e004691aae6b23d39f4c0da4b"><div class="ttname"><a href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2ab066547e004691aae6b23d39f4c0da4b">SPELL_CONE_OF_COLD</a></div><div class="ttdeci">@ SPELL_CONE_OF_COLD</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:326</div></div>
-<div class="ttc" id="aa00965_html_a158603b6fe3ddb2baf3e95de37a5dcc2ae1f0efa4026f86ebb692786585cec455"><div class="ttname"><a href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2ae1f0efa4026f86ebb692786585cec455">SPELL_CHAINS_OF_ICE</a></div><div class="ttdeci">@ SPELL_CHAINS_OF_ICE</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:325</div></div>
-<div class="ttc" id="aa00965_html_a158603b6fe3ddb2baf3e95de37a5dcc2af122c6c3fe00bd98cedb873409dc4803"><div class="ttname"><a href="../../d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2af122c6c3fe00bd98cedb873409dc4803">SPELL_ARCANE_BLAST</a></div><div class="ttdeci">@ SPELL_ARCANE_BLAST</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:323</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a79fc2957bc9c07cbe31064cd981b5663" name="a79fc2957bc9c07cbe31064cd981b5663"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a79fc2957bc9c07cbe31064cd981b5663">&#9670;&#160;</a></span>AzureStalkerSpells</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a79fc2957bc9c07cbe31064cd981b5663">AzureStalkerSpells</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68" name="a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68"></a>SPELL_BACKSTAB&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a79fc2957bc9c07cbe31064cd981b5663a5f9f321e45ec4cf0e5e156021cd85402" name="a79fc2957bc9c07cbe31064cd981b5663a5f9f321e45ec4cf0e5e156021cd85402"></a>SPELL_TACTICAL_BLINK&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  362</span>{</div>
-<div class="line"><span class="lineno">  363</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68">SPELL_BACKSTAB</a>       = 58471,</div>
-<div class="line"><span class="lineno">  364</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a79fc2957bc9c07cbe31064cd981b5663a5f9f321e45ec4cf0e5e156021cd85402">SPELL_TACTICAL_BLINK</a> = 58470</div>
-<div class="line"><span class="lineno">  365</span>};</div>
-<div class="ttc" id="aa00965_html_a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68"><div class="ttname"><a href="../../d3/dcd/a00965.html#a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68">SPELL_BACKSTAB</a></div><div class="ttdeci">@ SPELL_BACKSTAB</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:363</div></div>
-<div class="ttc" id="aa00965_html_a79fc2957bc9c07cbe31064cd981b5663a5f9f321e45ec4cf0e5e156021cd85402"><div class="ttname"><a href="../../d3/dcd/a00965.html#a79fc2957bc9c07cbe31064cd981b5663a5f9f321e45ec4cf0e5e156021cd85402">SPELL_TACTICAL_BLINK</a></div><div class="ttdeci">@ SPELL_TACTICAL_BLINK</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:364</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a4bb0a56f6436235bc98f40cfac8409e9" name="a4bb0a56f6436235bc98f40cfac8409e9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4bb0a56f6436235bc98f40cfac8409e9">&#9670;&#160;</a></span>BinderEvents</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9">BinderEvents</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4bb0a56f6436235bc98f40cfac8409e9a63afe7fe626556d60ef561edbb5fd974" name="a4bb0a56f6436235bc98f40cfac8409e9a63afe7fe626556d60ef561edbb5fd974"></a>EVENT_BINDER_ARCANE_EXPLOSION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4bb0a56f6436235bc98f40cfac8409e9ae6b06bad71b78733cf920fdeb54d9a97" name="a4bb0a56f6436235bc98f40cfac8409e9ae6b06bad71b78733cf920fdeb54d9a97"></a>EVENT_BINDER_ARCANE_BARRAGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4bb0a56f6436235bc98f40cfac8409e9a5a64ff8ed1fd826b2619d44bec99dbe6" name="a4bb0a56f6436235bc98f40cfac8409e9a5a64ff8ed1fd826b2619d44bec99dbe6"></a>EVENT_BINDER_FROST_NOVA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4bb0a56f6436235bc98f40cfac8409e9a24c7bf49518fa324f3942699466e34df" name="a4bb0a56f6436235bc98f40cfac8409e9a24c7bf49518fa324f3942699466e34df"></a>EVENT_BINDER_FROSTBOLT&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  437</span>{</div>
-<div class="line"><span class="lineno">  438</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9a63afe7fe626556d60ef561edbb5fd974">EVENT_BINDER_ARCANE_EXPLOSION</a> = 1,</div>
-<div class="line"><span class="lineno">  439</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9ae6b06bad71b78733cf920fdeb54d9a97">EVENT_BINDER_ARCANE_BARRAGE</a>,</div>
-<div class="line"><span class="lineno">  440</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9a5a64ff8ed1fd826b2619d44bec99dbe6">EVENT_BINDER_FROST_NOVA</a>,</div>
-<div class="line"><span class="lineno">  441</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9a24c7bf49518fa324f3942699466e34df">EVENT_BINDER_FROSTBOLT</a>,</div>
-<div class="line"><span class="lineno">  442</span>};</div>
-<div class="ttc" id="aa00965_html_a4bb0a56f6436235bc98f40cfac8409e9a24c7bf49518fa324f3942699466e34df"><div class="ttname"><a href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9a24c7bf49518fa324f3942699466e34df">EVENT_BINDER_FROSTBOLT</a></div><div class="ttdeci">@ EVENT_BINDER_FROSTBOLT</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:441</div></div>
-<div class="ttc" id="aa00965_html_a4bb0a56f6436235bc98f40cfac8409e9a5a64ff8ed1fd826b2619d44bec99dbe6"><div class="ttname"><a href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9a5a64ff8ed1fd826b2619d44bec99dbe6">EVENT_BINDER_FROST_NOVA</a></div><div class="ttdeci">@ EVENT_BINDER_FROST_NOVA</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:440</div></div>
-<div class="ttc" id="aa00965_html_a4bb0a56f6436235bc98f40cfac8409e9a63afe7fe626556d60ef561edbb5fd974"><div class="ttname"><a href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9a63afe7fe626556d60ef561edbb5fd974">EVENT_BINDER_ARCANE_EXPLOSION</a></div><div class="ttdeci">@ EVENT_BINDER_ARCANE_EXPLOSION</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:438</div></div>
-<div class="ttc" id="aa00965_html_a4bb0a56f6436235bc98f40cfac8409e9ae6b06bad71b78733cf920fdeb54d9a97"><div class="ttname"><a href="../../d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9ae6b06bad71b78733cf920fdeb54d9a97">EVENT_BINDER_ARCANE_BARRAGE</a></div><div class="ttdeci">@ EVENT_BINDER_ARCANE_BARRAGE</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:439</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a4dde00ab236b1d0505feebe5a51ece3c" name="a4dde00ab236b1d0505feebe5a51ece3c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4dde00ab236b1d0505feebe5a51ece3c">&#9670;&#160;</a></span>CaptainEvents</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a4dde00ab236b1d0505feebe5a51ece3c">CaptainEvents</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4dde00ab236b1d0505feebe5a51ece3caa792ffda443764c85bfe20bd3eb87172" name="a4dde00ab236b1d0505feebe5a51ece3caa792ffda443764c85bfe20bd3eb87172"></a>EVENT_CAPTAIN_MORTAL_STRIKE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4dde00ab236b1d0505feebe5a51ece3ca7b5e919f6bc10d86f528c593c08b60ae" name="a4dde00ab236b1d0505feebe5a51ece3ca7b5e919f6bc10d86f528c593c08b60ae"></a>EVENT_CAPTAIN_WHIRLWIND&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  710</span>{</div>
-<div class="line"><span class="lineno">  711</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a4dde00ab236b1d0505feebe5a51ece3caa792ffda443764c85bfe20bd3eb87172">EVENT_CAPTAIN_MORTAL_STRIKE</a> = 1,</div>
-<div class="line"><span class="lineno">  712</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a4dde00ab236b1d0505feebe5a51ece3ca7b5e919f6bc10d86f528c593c08b60ae">EVENT_CAPTAIN_WHIRLWIND</a>,</div>
-<div class="line"><span class="lineno">  713</span>};</div>
-<div class="ttc" id="aa00965_html_a4dde00ab236b1d0505feebe5a51ece3ca7b5e919f6bc10d86f528c593c08b60ae"><div class="ttname"><a href="../../d3/dcd/a00965.html#a4dde00ab236b1d0505feebe5a51ece3ca7b5e919f6bc10d86f528c593c08b60ae">EVENT_CAPTAIN_WHIRLWIND</a></div><div class="ttdeci">@ EVENT_CAPTAIN_WHIRLWIND</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:712</div></div>
-<div class="ttc" id="aa00965_html_a4dde00ab236b1d0505feebe5a51ece3caa792ffda443764c85bfe20bd3eb87172"><div class="ttname"><a href="../../d3/dcd/a00965.html#a4dde00ab236b1d0505feebe5a51ece3caa792ffda443764c85bfe20bd3eb87172">EVENT_CAPTAIN_MORTAL_STRIKE</a></div><div class="ttdeci">@ EVENT_CAPTAIN_MORTAL_STRIKE</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:711</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a8b58b2b60d173f6f0229ce98da0f576d" name="a8b58b2b60d173f6f0229ce98da0f576d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8b58b2b60d173f6f0229ce98da0f576d">&#9670;&#160;</a></span>InvaderEvents</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576d">InvaderEvents</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8b58b2b60d173f6f0229ce98da0f576dacab09c7df503347d7760f4d02e83472a" name="a8b58b2b60d173f6f0229ce98da0f576dacab09c7df503347d7760f4d02e83472a"></a>EVENT_INVADER_CLEAVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8b58b2b60d173f6f0229ce98da0f576dacc59cf0e666f4c5b8fadd48a5950d459" name="a8b58b2b60d173f6f0229ce98da0f576dacc59cf0e666f4c5b8fadd48a5950d459"></a>EVENT_INVADER_IMPALE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8b58b2b60d173f6f0229ce98da0f576daace97d0d0843f602c01e225b1e1f990f" name="a8b58b2b60d173f6f0229ce98da0f576daace97d0d0843f602c01e225b1e1f990f"></a>EVENT_INVADER_BRUTAL_STRIKE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8b58b2b60d173f6f0229ce98da0f576daf5925e0fb11d845fe4f68963eb7121fd" name="a8b58b2b60d173f6f0229ce98da0f576daf5925e0fb11d845fe4f68963eb7121fd"></a>EVENT_INVADER_SUNDER_ARMOR&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  372</span>{</div>
-<div class="line"><span class="lineno">  373</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576dacab09c7df503347d7760f4d02e83472a">EVENT_INVADER_CLEAVE</a> = 1,</div>
-<div class="line"><span class="lineno">  374</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576dacc59cf0e666f4c5b8fadd48a5950d459">EVENT_INVADER_IMPALE</a>,</div>
-<div class="line"><span class="lineno">  375</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576daace97d0d0843f602c01e225b1e1f990f">EVENT_INVADER_BRUTAL_STRIKE</a>,</div>
-<div class="line"><span class="lineno">  376</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576daf5925e0fb11d845fe4f68963eb7121fd">EVENT_INVADER_SUNDER_ARMOR</a>,</div>
-<div class="line"><span class="lineno">  377</span>};</div>
-<div class="ttc" id="aa00965_html_a8b58b2b60d173f6f0229ce98da0f576daace97d0d0843f602c01e225b1e1f990f"><div class="ttname"><a href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576daace97d0d0843f602c01e225b1e1f990f">EVENT_INVADER_BRUTAL_STRIKE</a></div><div class="ttdeci">@ EVENT_INVADER_BRUTAL_STRIKE</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:375</div></div>
-<div class="ttc" id="aa00965_html_a8b58b2b60d173f6f0229ce98da0f576dacab09c7df503347d7760f4d02e83472a"><div class="ttname"><a href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576dacab09c7df503347d7760f4d02e83472a">EVENT_INVADER_CLEAVE</a></div><div class="ttdeci">@ EVENT_INVADER_CLEAVE</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:373</div></div>
-<div class="ttc" id="aa00965_html_a8b58b2b60d173f6f0229ce98da0f576dacc59cf0e666f4c5b8fadd48a5950d459"><div class="ttname"><a href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576dacc59cf0e666f4c5b8fadd48a5950d459">EVENT_INVADER_IMPALE</a></div><div class="ttdeci">@ EVENT_INVADER_IMPALE</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:374</div></div>
-<div class="ttc" id="aa00965_html_a8b58b2b60d173f6f0229ce98da0f576daf5925e0fb11d845fe4f68963eb7121fd"><div class="ttname"><a href="../../d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576daf5925e0fb11d845fe4f68963eb7121fd">EVENT_INVADER_SUNDER_ARMOR</a></div><div class="ttdeci">@ EVENT_INVADER_SUNDER_ARMOR</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:376</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a6006a65ff2a4b2635101fb8008f35437" name="a6006a65ff2a4b2635101fb8008f35437"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6006a65ff2a4b2635101fb8008f35437">&#9670;&#160;</a></span>MageSlayerEvents</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a6006a65ff2a4b2635101fb8008f35437">MageSlayerEvents</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a6006a65ff2a4b2635101fb8008f35437aeb7e20e3f4f167e2468893cac3605e4a" name="a6006a65ff2a4b2635101fb8008f35437aeb7e20e3f4f167e2468893cac3605e4a"></a>EVENT_MAGE_SLAYER_ARCANE_EMPOWERMENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6006a65ff2a4b2635101fb8008f35437ae5ca84c6982ea7e9178e71ea01b849fb" name="a6006a65ff2a4b2635101fb8008f35437ae5ca84c6982ea7e9178e71ea01b849fb"></a>EVENT_MAGE_SLAYER_SPELL_LOCK&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  502</span>{</div>
-<div class="line"><span class="lineno">  503</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a6006a65ff2a4b2635101fb8008f35437aeb7e20e3f4f167e2468893cac3605e4a">EVENT_MAGE_SLAYER_ARCANE_EMPOWERMENT</a> = 1,</div>
-<div class="line"><span class="lineno">  504</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a6006a65ff2a4b2635101fb8008f35437ae5ca84c6982ea7e9178e71ea01b849fb">EVENT_MAGE_SLAYER_SPELL_LOCK</a>,</div>
-<div class="line"><span class="lineno">  505</span>};</div>
-<div class="ttc" id="aa00965_html_a6006a65ff2a4b2635101fb8008f35437ae5ca84c6982ea7e9178e71ea01b849fb"><div class="ttname"><a href="../../d3/dcd/a00965.html#a6006a65ff2a4b2635101fb8008f35437ae5ca84c6982ea7e9178e71ea01b849fb">EVENT_MAGE_SLAYER_SPELL_LOCK</a></div><div class="ttdeci">@ EVENT_MAGE_SLAYER_SPELL_LOCK</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:504</div></div>
-<div class="ttc" id="aa00965_html_a6006a65ff2a4b2635101fb8008f35437aeb7e20e3f4f167e2468893cac3605e4a"><div class="ttname"><a href="../../d3/dcd/a00965.html#a6006a65ff2a4b2635101fb8008f35437aeb7e20e3f4f167e2468893cac3605e4a">EVENT_MAGE_SLAYER_ARCANE_EMPOWERMENT</a></div><div class="ttdeci">@ EVENT_MAGE_SLAYER_ARCANE_EMPOWERMENT</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:503</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a19f2c5217c4e583e2a2e3d499977a177" name="a19f2c5217c4e583e2a2e3d499977a177"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19f2c5217c4e583e2a2e3d499977a177">&#9670;&#160;</a></span>PortalEvents</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177">PortalEvents</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../d0/d9d/a05123.html#_todo000186">Todo:</a></b></dt><dd>: Missing Sinclari Trigger announcements (32204) Look at its creature_text for more info. </dd></dl>
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a19f2c5217c4e583e2a2e3d499977a177aa892d532cfe73089b573009999e49707" name="a19f2c5217c4e583e2a2e3d499977a177aa892d532cfe73089b573009999e49707"></a>EVENT_SUMMON_KEEPER_OR_GUARDIAN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a19f2c5217c4e583e2a2e3d499977a177a518ebaf6b566ed755b032625f8ac973e" name="a19f2c5217c4e583e2a2e3d499977a177a518ebaf6b566ed755b032625f8ac973e"></a>EVENT_SUMMON_KEEPER_TRASH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a19f2c5217c4e583e2a2e3d499977a177a451936542d4fe56f8f10993c956007bc" name="a19f2c5217c4e583e2a2e3d499977a177a451936542d4fe56f8f10993c956007bc"></a>EVENT_SUMMON_ELITES&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a19f2c5217c4e583e2a2e3d499977a177a94822388f728c343ac073a90c5d3a4f1" name="a19f2c5217c4e583e2a2e3d499977a177a94822388f728c343ac073a90c5d3a4f1"></a>EVENT_SUMMON_SABOTEOUR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a19f2c5217c4e583e2a2e3d499977a177a73f521266f6a8c0188f7ea4b61843c96" name="a19f2c5217c4e583e2a2e3d499977a177a73f521266f6a8c0188f7ea4b61843c96"></a>EVENT_CHECK_DEATHS&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177aa892d532cfe73089b573009999e49707">EVENT_SUMMON_KEEPER_OR_GUARDIAN</a> = 1,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a518ebaf6b566ed755b032625f8ac973e">EVENT_SUMMON_KEEPER_TRASH</a>,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a451936542d4fe56f8f10993c956007bc">EVENT_SUMMON_ELITES</a>,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a94822388f728c343ac073a90c5d3a4f1">EVENT_SUMMON_SABOTEOUR</a>,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a73f521266f6a8c0188f7ea4b61843c96">EVENT_CHECK_DEATHS</a>,</div>
-<div class="line"><span class="lineno">   39</span>};</div>
-<div class="ttc" id="aa00965_html_a19f2c5217c4e583e2a2e3d499977a177a451936542d4fe56f8f10993c956007bc"><div class="ttname"><a href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a451936542d4fe56f8f10993c956007bc">EVENT_SUMMON_ELITES</a></div><div class="ttdeci">@ EVENT_SUMMON_ELITES</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:36</div></div>
-<div class="ttc" id="aa00965_html_a19f2c5217c4e583e2a2e3d499977a177a518ebaf6b566ed755b032625f8ac973e"><div class="ttname"><a href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a518ebaf6b566ed755b032625f8ac973e">EVENT_SUMMON_KEEPER_TRASH</a></div><div class="ttdeci">@ EVENT_SUMMON_KEEPER_TRASH</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:35</div></div>
-<div class="ttc" id="aa00965_html_a19f2c5217c4e583e2a2e3d499977a177a73f521266f6a8c0188f7ea4b61843c96"><div class="ttname"><a href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a73f521266f6a8c0188f7ea4b61843c96">EVENT_CHECK_DEATHS</a></div><div class="ttdeci">@ EVENT_CHECK_DEATHS</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:38</div></div>
-<div class="ttc" id="aa00965_html_a19f2c5217c4e583e2a2e3d499977a177a94822388f728c343ac073a90c5d3a4f1"><div class="ttname"><a href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a94822388f728c343ac073a90c5d3a4f1">EVENT_SUMMON_SABOTEOUR</a></div><div class="ttdeci">@ EVENT_SUMMON_SABOTEOUR</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:37</div></div>
-<div class="ttc" id="aa00965_html_a19f2c5217c4e583e2a2e3d499977a177aa892d532cfe73089b573009999e49707"><div class="ttname"><a href="../../d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177aa892d532cfe73089b573009999e49707">EVENT_SUMMON_KEEPER_OR_GUARDIAN</a></div><div class="ttdeci">@ EVENT_SUMMON_KEEPER_OR_GUARDIAN</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:34</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a06b78ef34eb909dec4b4e0770bf24120" name="a06b78ef34eb909dec4b4e0770bf24120"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a06b78ef34eb909dec4b4e0770bf24120">&#9670;&#160;</a></span>RaiderEvents</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a06b78ef34eb909dec4b4e0770bf24120">RaiderEvents</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a06b78ef34eb909dec4b4e0770bf24120acf995c92e9446a8b511b40b1879ad123" name="a06b78ef34eb909dec4b4e0770bf24120acf995c92e9446a8b511b40b1879ad123"></a>EVENT_RAIDER_CONCUSSION_BLOW&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a06b78ef34eb909dec4b4e0770bf24120a0f7e587264c7b59c4b1079927493e3e3" name="a06b78ef34eb909dec4b4e0770bf24120a0f7e587264c7b59c4b1079927493e3e3"></a>EVENT_RAIDER_MAGIC_REFLECTION&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  553</span>{</div>
-<div class="line"><span class="lineno">  554</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a06b78ef34eb909dec4b4e0770bf24120acf995c92e9446a8b511b40b1879ad123">EVENT_RAIDER_CONCUSSION_BLOW</a> = 1,</div>
-<div class="line"><span class="lineno">  555</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a06b78ef34eb909dec4b4e0770bf24120a0f7e587264c7b59c4b1079927493e3e3">EVENT_RAIDER_MAGIC_REFLECTION</a>,</div>
-<div class="line"><span class="lineno">  556</span>};</div>
-<div class="ttc" id="aa00965_html_a06b78ef34eb909dec4b4e0770bf24120a0f7e587264c7b59c4b1079927493e3e3"><div class="ttname"><a href="../../d3/dcd/a00965.html#a06b78ef34eb909dec4b4e0770bf24120a0f7e587264c7b59c4b1079927493e3e3">EVENT_RAIDER_MAGIC_REFLECTION</a></div><div class="ttdeci">@ EVENT_RAIDER_MAGIC_REFLECTION</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:555</div></div>
-<div class="ttc" id="aa00965_html_a06b78ef34eb909dec4b4e0770bf24120acf995c92e9446a8b511b40b1879ad123"><div class="ttname"><a href="../../d3/dcd/a00965.html#a06b78ef34eb909dec4b4e0770bf24120acf995c92e9446a8b511b40b1879ad123">EVENT_RAIDER_CONCUSSION_BLOW</a></div><div class="ttdeci">@ EVENT_RAIDER_CONCUSSION_BLOW</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:554</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a61f0eb737d2d6575416d40c84f7d23ac" name="a61f0eb737d2d6575416d40c84f7d23ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a61f0eb737d2d6575416d40c84f7d23ac">&#9670;&#160;</a></span>SaboteurEvents</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23ac">SaboteurEvents</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a61f0eb737d2d6575416d40c84f7d23aca3ba481a4a2d4cf944a28a5d7b532e84a" name="a61f0eb737d2d6575416d40c84f7d23aca3ba481a4a2d4cf944a28a5d7b532e84a"></a>EVENT_SABOTEUR_SHIELD_DISRUPTION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a61f0eb737d2d6575416d40c84f7d23aca7a8d5de06f3e31793e053472a621017a" name="a61f0eb737d2d6575416d40c84f7d23aca7a8d5de06f3e31793e053472a621017a"></a>EVENT_SABOTEUR_RELEASE_BOSS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a61f0eb737d2d6575416d40c84f7d23acad43be551fd59090d924f1dec36e7c5f6" name="a61f0eb737d2d6575416d40c84f7d23acad43be551fd59090d924f1dec36e7c5f6"></a>EVENT_SABOTEUR_DISAPPEAR&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  822</span>{</div>
-<div class="line"><span class="lineno">  823</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23aca3ba481a4a2d4cf944a28a5d7b532e84a">EVENT_SABOTEUR_SHIELD_DISRUPTION</a> = 1,</div>
-<div class="line"><span class="lineno">  824</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23aca7a8d5de06f3e31793e053472a621017a">EVENT_SABOTEUR_RELEASE_BOSS</a>,</div>
-<div class="line"><span class="lineno">  825</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23acad43be551fd59090d924f1dec36e7c5f6">EVENT_SABOTEUR_DISAPPEAR</a>,</div>
-<div class="line"><span class="lineno">  826</span>};</div>
-<div class="ttc" id="aa00965_html_a61f0eb737d2d6575416d40c84f7d23aca3ba481a4a2d4cf944a28a5d7b532e84a"><div class="ttname"><a href="../../d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23aca3ba481a4a2d4cf944a28a5d7b532e84a">EVENT_SABOTEUR_SHIELD_DISRUPTION</a></div><div class="ttdeci">@ EVENT_SABOTEUR_SHIELD_DISRUPTION</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:823</div></div>
-<div class="ttc" id="aa00965_html_a61f0eb737d2d6575416d40c84f7d23aca7a8d5de06f3e31793e053472a621017a"><div class="ttname"><a href="../../d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23aca7a8d5de06f3e31793e053472a621017a">EVENT_SABOTEUR_RELEASE_BOSS</a></div><div class="ttdeci">@ EVENT_SABOTEUR_RELEASE_BOSS</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:824</div></div>
-<div class="ttc" id="aa00965_html_a61f0eb737d2d6575416d40c84f7d23acad43be551fd59090d924f1dec36e7c5f6"><div class="ttname"><a href="../../d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23acad43be551fd59090d924f1dec36e7c5f6">EVENT_SABOTEUR_DISAPPEAR</a></div><div class="ttdeci">@ EVENT_SABOTEUR_DISAPPEAR</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:825</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="abc0f0004442b009bb45ce8c8843895f4" name="abc0f0004442b009bb45ce8c8843895f4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abc0f0004442b009bb45ce8c8843895f4">&#9670;&#160;</a></span>SorcerorEvents</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#abc0f0004442b009bb45ce8c8843895f4">SorcerorEvents</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="abc0f0004442b009bb45ce8c8843895f4a2eecd36baf3de97c8974655fd463d485" name="abc0f0004442b009bb45ce8c8843895f4a2eecd36baf3de97c8974655fd463d485"></a>EVENT_SORCEROR_ARCANE_STREAM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abc0f0004442b009bb45ce8c8843895f4a005f809af6de7d14c536ca7c8b33a892" name="abc0f0004442b009bb45ce8c8843895f4a005f809af6de7d14c536ca7c8b33a892"></a>EVENT_SORCEROR_MANA_DETONATION&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  759</span>{</div>
-<div class="line"><span class="lineno">  760</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#abc0f0004442b009bb45ce8c8843895f4a2eecd36baf3de97c8974655fd463d485">EVENT_SORCEROR_ARCANE_STREAM</a> = 1,</div>
-<div class="line"><span class="lineno">  761</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#abc0f0004442b009bb45ce8c8843895f4a005f809af6de7d14c536ca7c8b33a892">EVENT_SORCEROR_MANA_DETONATION</a>,</div>
-<div class="line"><span class="lineno">  762</span>};</div>
-<div class="ttc" id="aa00965_html_abc0f0004442b009bb45ce8c8843895f4a005f809af6de7d14c536ca7c8b33a892"><div class="ttname"><a href="../../d3/dcd/a00965.html#abc0f0004442b009bb45ce8c8843895f4a005f809af6de7d14c536ca7c8b33a892">EVENT_SORCEROR_MANA_DETONATION</a></div><div class="ttdeci">@ EVENT_SORCEROR_MANA_DETONATION</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:761</div></div>
-<div class="ttc" id="aa00965_html_abc0f0004442b009bb45ce8c8843895f4a2eecd36baf3de97c8974655fd463d485"><div class="ttname"><a href="../../d3/dcd/a00965.html#abc0f0004442b009bb45ce8c8843895f4a2eecd36baf3de97c8974655fd463d485">EVENT_SORCEROR_ARCANE_STREAM</a></div><div class="ttdeci">@ EVENT_SORCEROR_ARCANE_STREAM</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:760</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a2b26d6e966b782d434f5f6b09f28259b" name="a2b26d6e966b782d434f5f6b09f28259b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2b26d6e966b782d434f5f6b09f28259b">&#9670;&#160;</a></span>SpellbreakerEvents</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259b">SpellbreakerEvents</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2b26d6e966b782d434f5f6b09f28259badc907fd55c6cef4620119afc8cd851f0" name="a2b26d6e966b782d434f5f6b09f28259badc907fd55c6cef4620119afc8cd851f0"></a>EVENT_SPELLBREAKER_ARCANE_BLAST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2b26d6e966b782d434f5f6b09f28259ba3765b2ca50fa7227baa4a70c376729da" name="a2b26d6e966b782d434f5f6b09f28259ba3765b2ca50fa7227baa4a70c376729da"></a>EVENT_SPELLBREAKER_SLOW&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2b26d6e966b782d434f5f6b09f28259baf193860ad6054383d811d863edd011d3" name="a2b26d6e966b782d434f5f6b09f28259baf193860ad6054383d811d863edd011d3"></a>EVENT_SPELLBREAKER_CHAINS_OF_ICE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2b26d6e966b782d434f5f6b09f28259ba2f026f68218ae4e52c52f9549c8efc32" name="a2b26d6e966b782d434f5f6b09f28259ba2f026f68218ae4e52c52f9549c8efc32"></a>EVENT_SPELLBREAKER_CONE_OF_COLD&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  645</span>{</div>
-<div class="line"><span class="lineno">  646</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259badc907fd55c6cef4620119afc8cd851f0">EVENT_SPELLBREAKER_ARCANE_BLAST</a> = 1,</div>
-<div class="line"><span class="lineno">  647</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259ba3765b2ca50fa7227baa4a70c376729da">EVENT_SPELLBREAKER_SLOW</a>,</div>
-<div class="line"><span class="lineno">  648</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259baf193860ad6054383d811d863edd011d3">EVENT_SPELLBREAKER_CHAINS_OF_ICE</a>,</div>
-<div class="line"><span class="lineno">  649</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259ba2f026f68218ae4e52c52f9549c8efc32">EVENT_SPELLBREAKER_CONE_OF_COLD</a>,</div>
-<div class="line"><span class="lineno">  650</span>};</div>
-<div class="ttc" id="aa00965_html_a2b26d6e966b782d434f5f6b09f28259ba2f026f68218ae4e52c52f9549c8efc32"><div class="ttname"><a href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259ba2f026f68218ae4e52c52f9549c8efc32">EVENT_SPELLBREAKER_CONE_OF_COLD</a></div><div class="ttdeci">@ EVENT_SPELLBREAKER_CONE_OF_COLD</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:649</div></div>
-<div class="ttc" id="aa00965_html_a2b26d6e966b782d434f5f6b09f28259ba3765b2ca50fa7227baa4a70c376729da"><div class="ttname"><a href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259ba3765b2ca50fa7227baa4a70c376729da">EVENT_SPELLBREAKER_SLOW</a></div><div class="ttdeci">@ EVENT_SPELLBREAKER_SLOW</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:647</div></div>
-<div class="ttc" id="aa00965_html_a2b26d6e966b782d434f5f6b09f28259badc907fd55c6cef4620119afc8cd851f0"><div class="ttname"><a href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259badc907fd55c6cef4620119afc8cd851f0">EVENT_SPELLBREAKER_ARCANE_BLAST</a></div><div class="ttdeci">@ EVENT_SPELLBREAKER_ARCANE_BLAST</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:646</div></div>
-<div class="ttc" id="aa00965_html_a2b26d6e966b782d434f5f6b09f28259baf193860ad6054383d811d863edd011d3"><div class="ttname"><a href="../../d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259baf193860ad6054383d811d863edd011d3">EVENT_SPELLBREAKER_CHAINS_OF_ICE</a></div><div class="ttdeci">@ EVENT_SPELLBREAKER_CHAINS_OF_ICE</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:648</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a0f792309511e4c2acaa38c7c4cacacbc" name="a0f792309511e4c2acaa38c7c4cacacbc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0f792309511e4c2acaa38c7c4cacacbc">&#9670;&#160;</a></span>StalkerEvents</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dcd/a00965.html#a0f792309511e4c2acaa38c7c4cacacbc">StalkerEvents</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f" name="a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f"></a>EVENT_STALKER_BACKSTAB&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  602</span>{</div>
-<div class="line"><span class="lineno">  603</span>    <a class="code hl_enumvalue" href="../../d3/dcd/a00965.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f">EVENT_STALKER_BACKSTAB</a> = 1,</div>
-<div class="line"><span class="lineno">  604</span>};</div>
-<div class="ttc" id="aa00965_html_a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f"><div class="ttname"><a href="../../d3/dcd/a00965.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f">EVENT_STALKER_BACKSTAB</a></div><div class="ttdeci">@ EVENT_STALKER_BACKSTAB</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:603</div></div>
-</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a11e49713c62a5c479f14ca4d3e845eab" name="a11e49713c62a5c479f14ca4d3e845eab"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a11e49713c62a5c479f14ca4d3e845eab">&#9670;&#160;</a></span>AddSC_violet_hold()</h2>
+<a id="af4a9ba9da1a2f4075cc36b95cce62f6f" name="af4a9ba9da1a2f4075cc36b95cce62f6f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af4a9ba9da1a2f4075cc36b95cce62f6f">&#9670;&#160;</a></span>GetFlyByCameras()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_violet_hold </td>
+          <td class="memname">std::vector&lt; <a class="el" href="../../d9/d6e/a08382.html">FlyByCamera</a> &gt; const  * GetFlyByCameras </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>cinematicCameraId</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1017</span>{</div>
-<div class="line"><span class="lineno"> 1018</span>    <a class="code hl_define" href="../../d7/d98/a00983.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a>(<a class="code hl_struct" href="../../d5/d78/a21674.html">npc_vh_teleportation_portal</a>);</div>
-<div class="line"><span class="lineno"> 1019</span>    <a class="code hl_define" href="../../d7/d98/a00983.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a>(<a class="code hl_struct" href="../../d6/d05/a21714.html">npc_azure_saboteur</a>);</div>
-<div class="line"><span class="lineno"> 1020</span> </div>
-<div class="line"><span class="lineno"> 1021</span>    <a class="code hl_define" href="../../d7/d98/a00983.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a>(<a class="code hl_struct" href="../../d0/d09/a21682.html">npc_azure_invader</a>);</div>
-<div class="line"><span class="lineno"> 1022</span>    <a class="code hl_define" href="../../d7/d98/a00983.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a>(<a class="code hl_struct" href="../../dc/deb/a21702.html">npc_azure_spellbreaker</a>);</div>
-<div class="line"><span class="lineno"> 1023</span>    <a class="code hl_define" href="../../d7/d98/a00983.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a>(<a class="code hl_struct" href="../../d4/d59/a21686.html">npc_azure_binder</a>);</div>
-<div class="line"><span class="lineno"> 1024</span>    <a class="code hl_define" href="../../d7/d98/a00983.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a>(<a class="code hl_struct" href="../../d7/d36/a21690.html">npc_azure_mage_slayer</a>);</div>
-<div class="line"><span class="lineno"> 1025</span>    <a class="code hl_define" href="../../d7/d98/a00983.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a>(<a class="code hl_struct" href="../../d4/dc0/a21706.html">npc_azure_captain</a>);</div>
-<div class="line"><span class="lineno"> 1026</span>    <a class="code hl_define" href="../../d7/d98/a00983.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a>(<a class="code hl_struct" href="../../d2/d0e/a21710.html">npc_azure_sorceror</a>);</div>
-<div class="line"><span class="lineno"> 1027</span>    <a class="code hl_define" href="../../d7/d98/a00983.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a>(<a class="code hl_struct" href="../../dc/dd7/a21694.html">npc_azure_raider</a>);</div>
-<div class="line"><span class="lineno"> 1028</span>    <a class="code hl_define" href="../../d7/d98/a00983.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a>(<a class="code hl_struct" href="../../d9/de8/a21698.html">npc_azure_stalker</a>);</div>
-<div class="line"><span class="lineno"> 1029</span> </div>
-<div class="line"><span class="lineno"> 1030</span>    <a class="code hl_define" href="../../d4/d3a/a04139.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/d88/a21718.html">spell_destroy_door_seal_aura</a>);</div>
-<div class="line"><span class="lineno"> 1031</span>    <a class="code hl_define" href="../../dc/d8f/a04133.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d6/d28/a21722.html">npc_violet_hold_defense_system</a>);</div>
-<div class="line"><span class="lineno"> 1032</span>}</div>
-<div class="ttc" id="aa00983_html_a7f25ee334f81084a21cbbe9079f27bed"><div class="ttname"><a href="../../d7/d98/a00983.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a></div><div class="ttdeci">#define RegisterVioletHoldCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> violet_hold.h:339</div></div>
-<div class="ttc" id="aa04133_html_a5e7352841895df7117e2830448eb533f"><div class="ttname"><a href="../../dc/d8f/a04133.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a></div><div class="ttdeci">#define RegisterCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> CreatureScript.h:71</div></div>
-<div class="ttc" id="aa04139_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d4/d3a/a04139.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa21674_html"><div class="ttname"><a href="../../d5/d78/a21674.html">npc_vh_teleportation_portal</a></div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:42</div></div>
-<div class="ttc" id="aa21682_html"><div class="ttname"><a href="../../d0/d09/a21682.html">npc_azure_invader</a></div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:380</div></div>
-<div class="ttc" id="aa21686_html"><div class="ttname"><a href="../../d4/d59/a21686.html">npc_azure_binder</a></div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:445</div></div>
-<div class="ttc" id="aa21690_html"><div class="ttname"><a href="../../d7/d36/a21690.html">npc_azure_mage_slayer</a></div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:508</div></div>
-<div class="ttc" id="aa21694_html"><div class="ttname"><a href="../../dc/dd7/a21694.html">npc_azure_raider</a></div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:559</div></div>
-<div class="ttc" id="aa21698_html"><div class="ttname"><a href="../../d9/de8/a21698.html">npc_azure_stalker</a></div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:607</div></div>
-<div class="ttc" id="aa21702_html"><div class="ttname"><a href="../../dc/deb/a21702.html">npc_azure_spellbreaker</a></div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:653</div></div>
-<div class="ttc" id="aa21706_html"><div class="ttname"><a href="../../d4/dc0/a21706.html">npc_azure_captain</a></div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:716</div></div>
-<div class="ttc" id="aa21710_html"><div class="ttname"><a href="../../d2/d0e/a21710.html">npc_azure_sorceror</a></div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:765</div></div>
-<div class="ttc" id="aa21714_html"><div class="ttname"><a href="../../d6/d05/a21714.html">npc_azure_saboteur</a></div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:829</div></div>
-<div class="ttc" id="aa21718_html"><div class="ttname"><a href="../../d8/d88/a21718.html">spell_destroy_door_seal_aura</a></div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:964</div></div>
-<div class="ttc" id="aa21722_html"><div class="ttname"><a href="../../d6/d28/a21722.html">npc_violet_hold_defense_system</a></div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:982</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  255</span>{</div>
+<div class="line"><span class="lineno">  256</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d7/d13/a05156.html#a288324cfca487d8ecc2eab8a6014c513">Acore::Containers::MapGetValuePtr</a>(<a class="code hl_variable" href="../../d3/dcd/a00965.html#a4acfeb7e23e1d3a74b66a1c54084e7bc">sFlyByCameraStore</a>, cinematicCameraId);</div>
+<div class="line"><span class="lineno">  257</span>}</div>
+<div class="ttc" id="aa00965_html_a4acfeb7e23e1d3a74b66a1c54084e7bc"><div class="ttname"><a href="../../d3/dcd/a00965.html#a4acfeb7e23e1d3a74b66a1c54084e7bc">sFlyByCameraStore</a></div><div class="ttdeci">std::unordered_map&lt; uint32, FlyByCameraCollection &gt; sFlyByCameraStore</div><div class="ttdef"><b>Definition:</b> M2Stores.cpp:28</div></div>
+<div class="ttc" id="aa05156_html_a288324cfca487d8ecc2eab8a6014c513"><div class="ttname"><a href="../../d7/d13/a05156.html#a288324cfca487d8ecc2eab8a6014c513">Acore::Containers::MapGetValuePtr</a></div><div class="ttdeci">auto MapGetValuePtr(M &amp;map, typename M::key_type const &amp;key) -&gt; decltype(AddressOrSelf(map.find(key) -&gt;second))</div><div class="ttdef"><b>Definition:</b> Containers.h:216</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">RegisterCreatureAI</a>, <a class="el" href="../../#l00088">RegisterSpellScript</a>, and <a class="el" href="../../#l00339">RegisterVioletHoldCreatureAI</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00216">Acore::Containers::MapGetValuePtr()</a>, and <a class="el" href="../../#l00028">sFlyByCameraStore</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00182">AddNorthrendScripts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00131">debug_commandscript::HandleDebugPlayCinematicCommand()</a>, and <a class="el" href="../../#l00038">CinematicMgr::StartCinematicCamera()</a>.</p>
+
+</div>
+</div>
+<a id="a036ca5e535b8e25b87a67c20c2ad2d4c" name="a036ca5e535b8e25b87a67c20c2ad2d4c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a036ca5e535b8e25b87a67c20c2ad2d4c">&#9670;&#160;</a></span>LoadM2Cameras()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void LoadM2Cameras </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>dataPath</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  174</span>{</div>
+<div class="line"><span class="lineno">  175</span>    <a class="code hl_variable" href="../../d3/dcd/a00965.html#a4acfeb7e23e1d3a74b66a1c54084e7bc">sFlyByCameraStore</a>.clear();</div>
+<div class="line"><span class="lineno">  176</span>    <a class="code hl_define" href="../../d0/d0a/a00743.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loading Cinematic Camera files&quot;</span>);</div>
+<div class="line"><span class="lineno">  177</span> </div>
+<div class="line"><span class="lineno">  178</span>    <a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d3/d93/a00341.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">  179</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d1/d18/a29290.html">CinematicCameraEntry</a> <span class="keyword">const</span>* dbcentry : <a class="code hl_variable" href="../../df/d88/a00962.html#ae519249aa03c4d660b48646b11695c3a">sCinematicCameraStore</a>)</div>
+<div class="line"><span class="lineno">  180</span>    {</div>
+<div class="line"><span class="lineno">  181</span>        std::string filenameWork = dataPath;</div>
+<div class="line"><span class="lineno">  182</span>        filenameWork.append(dbcentry-&gt;Model);</div>
+<div class="line"><span class="lineno">  183</span> </div>
+<div class="line"><span class="lineno">  184</span>        <span class="comment">// Replace slashes (always to forward slash, because boost!)</span></div>
+<div class="line"><span class="lineno">  185</span>        std::replace(filenameWork.begin(), filenameWork.end(), <span class="charliteral">&#39;\\&#39;</span>, <span class="charliteral">&#39;/&#39;</span>);</div>
+<div class="line"><span class="lineno">  186</span> </div>
+<div class="line"><span class="lineno">  187</span>        boost::filesystem::path filename = filenameWork;</div>
+<div class="line"><span class="lineno">  188</span> </div>
+<div class="line"><span class="lineno">  189</span>        <span class="comment">// Convert to native format</span></div>
+<div class="line"><span class="lineno">  190</span>        filename.make_preferred();</div>
+<div class="line"><span class="lineno">  191</span> </div>
+<div class="line"><span class="lineno">  192</span>        <span class="comment">// Replace mdx to .m2</span></div>
+<div class="line"><span class="lineno">  193</span>        filename.replace_extension(<span class="stringliteral">&quot;m2&quot;</span>);</div>
+<div class="line"><span class="lineno">  194</span> </div>
+<div class="line"><span class="lineno">  195</span>        std::ifstream m2file(filename.string().c_str(), std::ios::in | std::ios::binary);</div>
+<div class="line"><span class="lineno">  196</span>        <span class="keywordflow">if</span> (!m2file.is_open())</div>
+<div class="line"><span class="lineno">  197</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  198</span> </div>
+<div class="line"><span class="lineno">  199</span>        <span class="comment">// Get file size</span></div>
+<div class="line"><span class="lineno">  200</span>        m2file.seekg(0, std::ios::end);</div>
+<div class="line"><span class="lineno">  201</span>        std::streamoff fileSize = m2file.tellg();</div>
+<div class="line"><span class="lineno">  202</span> </div>
+<div class="line"><span class="lineno">  203</span>        <span class="comment">// Reject if not at least the size of the header</span></div>
+<div class="line"><span class="lineno">  204</span>        <span class="keywordflow">if</span> (<span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(fileSize) &lt; <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../db/dff/a08390.html">M2Header</a>))</div>
+<div class="line"><span class="lineno">  205</span>        {</div>
+<div class="line"><span class="lineno">  206</span>            <a class="code hl_define" href="../../d0/d0a/a00743.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Camera file {} is damaged. File is smaller than header size&quot;</span>, filename.string());</div>
+<div class="line"><span class="lineno">  207</span>            m2file.close();</div>
+<div class="line"><span class="lineno">  208</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  209</span>        }</div>
+<div class="line"><span class="lineno">  210</span> </div>
+<div class="line"><span class="lineno">  211</span>        <span class="comment">// Read 4 bytes (signature)</span></div>
+<div class="line"><span class="lineno">  212</span>        m2file.seekg(0, std::ios::beg);</div>
+<div class="line"><span class="lineno">  213</span>        <span class="keywordtype">char</span> fileCheck[5];</div>
+<div class="line"><span class="lineno">  214</span>        m2file.read(fileCheck, 4);</div>
+<div class="line"><span class="lineno">  215</span>        fileCheck[4] = 0;</div>
+<div class="line"><span class="lineno">  216</span> </div>
+<div class="line"><span class="lineno">  217</span>        <span class="comment">// Check file has correct magic (MD20)</span></div>
+<div class="line"><span class="lineno">  218</span>        <span class="keywordflow">if</span> (strcmp(fileCheck, <span class="stringliteral">&quot;MD20&quot;</span>))</div>
+<div class="line"><span class="lineno">  219</span>        {</div>
+<div class="line"><span class="lineno">  220</span>            <a class="code hl_define" href="../../d0/d0a/a00743.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Camera file {} is damaged. File identifier not found&quot;</span>, filename.string());</div>
+<div class="line"><span class="lineno">  221</span>            m2file.close();</div>
+<div class="line"><span class="lineno">  222</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  223</span>        }</div>
+<div class="line"><span class="lineno">  224</span> </div>
+<div class="line"><span class="lineno">  225</span>        <span class="comment">// Now we have a good file, read it all into a vector of char&#39;s, then close the file.</span></div>
+<div class="line"><span class="lineno">  226</span>        std::vector&lt;char&gt; buffer(fileSize);</div>
+<div class="line"><span class="lineno">  227</span>        m2file.seekg(0, std::ios::beg);</div>
+<div class="line"><span class="lineno">  228</span>        <span class="keywordflow">if</span> (!m2file.read(buffer.data(), fileSize))</div>
+<div class="line"><span class="lineno">  229</span>        {</div>
+<div class="line"><span class="lineno">  230</span>            m2file.close();</div>
+<div class="line"><span class="lineno">  231</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  232</span>        }</div>
+<div class="line"><span class="lineno">  233</span>        m2file.close();</div>
+<div class="line"><span class="lineno">  234</span> </div>
+<div class="line"><span class="lineno">  235</span>        <span class="comment">// Read header</span></div>
+<div class="line"><span class="lineno">  236</span>        <a class="code hl_struct" href="../../db/dff/a08390.html">M2Header</a> <span class="keyword">const</span>* header = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../db/dff/a08390.html">M2Header</a> const*<span class="keyword">&gt;</span>(buffer.data());</div>
+<div class="line"><span class="lineno">  237</span> </div>
+<div class="line"><span class="lineno">  238</span>        <span class="keywordflow">if</span> (header-&gt;<a class="code hl_variable" href="../../db/dff/a08390.html#aba0c84ae340e0c10b57c28f1f213b1f1">ofsCameras</a> + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d7/df7/a08402.html">M2Camera</a>) &gt; <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(fileSize))</div>
+<div class="line"><span class="lineno">  239</span>        {</div>
+<div class="line"><span class="lineno">  240</span>            <a class="code hl_define" href="../../d0/d0a/a00743.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Camera file {} is damaged. Camera references position beyond file end&quot;</span>, filename.string());</div>
+<div class="line"><span class="lineno">  241</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  242</span>        }</div>
+<div class="line"><span class="lineno">  243</span> </div>
+<div class="line"><span class="lineno">  244</span>        <span class="comment">// Get camera(s) - Main header, then dump them.</span></div>
+<div class="line"><span class="lineno">  245</span>        <a class="code hl_struct" href="../../d7/df7/a08402.html">M2Camera</a> <span class="keyword">const</span>* cam = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../d7/df7/a08402.html">M2Camera</a> const*<span class="keyword">&gt;</span>(buffer.data() + header-&gt;<a class="code hl_variable" href="../../db/dff/a08390.html#aba0c84ae340e0c10b57c28f1f213b1f1">ofsCameras</a>);</div>
+<div class="line"><span class="lineno">  246</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d3/dcd/a00965.html#ad7c17022a3ffed42c9d4995f5f6bb7ac">readCamera</a>(cam, fileSize, header, dbcentry))</div>
+<div class="line"><span class="lineno">  247</span>            <a class="code hl_define" href="../../d0/d0a/a00743.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Camera file {} is damaged. Camera references position beyond file end&quot;</span>, filename.string());</div>
+<div class="line"><span class="lineno">  248</span>    }</div>
+<div class="line"><span class="lineno">  249</span> </div>
+<div class="line"><span class="lineno">  250</span>    <a class="code hl_define" href="../../d0/d0a/a00743.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Cinematic Waypoint Sets in {} ms&quot;</span>, (<a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)<a class="code hl_variable" href="../../d3/dcd/a00965.html#a4acfeb7e23e1d3a74b66a1c54084e7bc">sFlyByCameraStore</a>.size(), <a class="code hl_function" href="../../d3/d93/a00341.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">  251</span>    <a class="code hl_define" href="../../d0/d0a/a00743.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  252</span>}</div>
+<div class="ttc" id="aa00341_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d3/d93/a00341.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
+<div class="ttc" id="aa00341_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d3/d93/a00341.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
+<div class="ttc" id="aa00743_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d0/d0a/a00743.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:153</div></div>
+<div class="ttc" id="aa00743_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d0/d0a/a00743.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:145</div></div>
+<div class="ttc" id="aa00812_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00962_html_ae519249aa03c4d660b48646b11695c3a"><div class="ttname"><a href="../../df/d88/a00962.html#ae519249aa03c4d660b48646b11695c3a">sCinematicCameraStore</a></div><div class="ttdeci">DBCStorage&lt; CinematicCameraEntry &gt; sCinematicCameraStore(CinematicCameraEntryfmt)</div></div>
+<div class="ttc" id="aa00965_html_ad7c17022a3ffed42c9d4995f5f6bb7ac"><div class="ttname"><a href="../../d3/dcd/a00965.html#ad7c17022a3ffed42c9d4995f5f6bb7ac">readCamera</a></div><div class="ttdeci">bool readCamera(M2Camera const *cam, uint32 buffSize, M2Header const *header, CinematicCameraEntry const *dbcentry)</div><div class="ttdef"><b>Definition:</b> M2Stores.cpp:50</div></div>
+<div class="ttc" id="aa08390_html"><div class="ttname"><a href="../../db/dff/a08390.html">M2Header</a></div><div class="ttdef"><b>Definition:</b> M2Structure.h:35</div></div>
+<div class="ttc" id="aa08390_html_aba0c84ae340e0c10b57c28f1f213b1f1"><div class="ttname"><a href="../../db/dff/a08390.html#aba0c84ae340e0c10b57c28f1f213b1f1">M2Header::ofsCameras</a></div><div class="ttdeci">uint32 ofsCameras</div><div class="ttdef"><b>Definition:</b> M2Structure.h:95</div></div>
+<div class="ttc" id="aa08402_html"><div class="ttname"><a href="../../d7/df7/a08402.html">M2Camera</a></div><div class="ttdef"><b>Definition:</b> M2Structure.h:120</div></div>
+<div class="ttc" id="aa29290_html"><div class="ttname"><a href="../../d1/d18/a29290.html">CinematicCameraEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:731</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00095">M2Header::ofsCameras</a>, <a class="el" href="../../#l00050">readCamera()</a>, <a class="el" href="../../df/d88/a00962.html#ae519249aa03c4d660b48646b11695c3a">sCinematicCameraStore</a>, and <a class="el" href="../../#l00028">sFlyByCameraStore</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00302">World::SetInitialWorldSettings()</a>.</p>
+
+</div>
+</div>
+<a id="ad7c17022a3ffed42c9d4995f5f6bb7ac" name="ad7c17022a3ffed42c9d4995f5f6bb7ac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad7c17022a3ffed42c9d4995f5f6bb7ac">&#9670;&#160;</a></span>readCamera()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool readCamera </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/df7/a08402.html">M2Camera</a> const *&#160;</td>
+          <td class="paramname"><em>cam</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>buffSize</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../db/dff/a08390.html">M2Header</a> const *&#160;</td>
+          <td class="paramname"><em>header</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/d18/a29290.html">CinematicCameraEntry</a> const *&#160;</td>
+          <td class="paramname"><em>dbcentry</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
+<div class="line"><span class="lineno">   52</span>    <span class="keywordtype">char</span> <span class="keyword">const</span>* buffer = <span class="keyword">reinterpret_cast&lt;</span><span class="keywordtype">char</span> const*<span class="keyword">&gt;</span>(header);</div>
+<div class="line"><span class="lineno">   53</span> </div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_typedef" href="../../d3/dcd/a00965.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a> cameras;</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_typedef" href="../../d3/dcd/a00965.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a> targetcam;</div>
+<div class="line"><span class="lineno">   56</span> </div>
+<div class="line"><span class="lineno">   57</span>    G3D::Vector4 DBCData;</div>
+<div class="line"><span class="lineno">   58</span>    DBCData.x = dbcentry-&gt;Origin.X;</div>
+<div class="line"><span class="lineno">   59</span>    DBCData.y = dbcentry-&gt;Origin.Y;</div>
+<div class="line"><span class="lineno">   60</span>    DBCData.z = dbcentry-&gt;Origin.Z;</div>
+<div class="line"><span class="lineno">   61</span>    DBCData.w = dbcentry-&gt;OriginFacing;</div>
+<div class="line"><span class="lineno">   62</span> </div>
+<div class="line"><span class="lineno">   63</span>    <span class="comment">// Read target locations, only so that we can calculate orientation</span></div>
+<div class="line"><span class="lineno">   64</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> k = 0; k &lt; cam-&gt;target_positions.timestamps.number; ++k)</div>
+<div class="line"><span class="lineno">   65</span>    {</div>
+<div class="line"><span class="lineno">   66</span>        <span class="comment">// Extract Target positions</span></div>
+<div class="line"><span class="lineno">   67</span>        <span class="keywordflow">if</span> (cam-&gt;target_positions.timestamps.offset_elements + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../da/da3/a08394.html">M2Array</a>) &gt; buffSize)</div>
+<div class="line"><span class="lineno">   68</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   69</span>        <a class="code hl_struct" href="../../da/da3/a08394.html">M2Array</a> <span class="keyword">const</span>* targTsArray = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../da/da3/a08394.html">M2Array</a> const*<span class="keyword">&gt;</span>(buffer + cam-&gt;target_positions.timestamps.offset_elements);</div>
+<div class="line"><span class="lineno">   70</span>        <span class="keywordflow">if</span> (targTsArray-&gt;<a class="code hl_variable" href="../../da/da3/a08394.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a> + <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) &gt; buffSize || cam-&gt;target_positions.values.offset_elements + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../da/da3/a08394.html">M2Array</a>) &gt; buffSize)</div>
+<div class="line"><span class="lineno">   71</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   72</span>        <a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span>* targTimestamps = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const*<span class="keyword">&gt;</span>(buffer + targTsArray-&gt;<a class="code hl_variable" href="../../da/da3/a08394.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a>);</div>
+<div class="line"><span class="lineno">   73</span>        <a class="code hl_struct" href="../../da/da3/a08394.html">M2Array</a> <span class="keyword">const</span>* targArray = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../da/da3/a08394.html">M2Array</a> const*<span class="keyword">&gt;</span>(buffer + cam-&gt;target_positions.values.offset_elements);</div>
+<div class="line"><span class="lineno">   74</span> </div>
+<div class="line"><span class="lineno">   75</span>        <span class="keywordflow">if</span> (targArray-&gt;<a class="code hl_variable" href="../../da/da3/a08394.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a> + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d0/dc6/a08386.html">M2SplineKey&lt;G3D::Vector3&gt;</a>) &gt; buffSize)</div>
+<div class="line"><span class="lineno">   76</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   77</span>        <a class="code hl_struct" href="../../d0/dc6/a08386.html">M2SplineKey&lt;G3D::Vector3&gt;</a> <span class="keyword">const</span>* targPositions = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../d0/dc6/a08386.html">M2SplineKey&lt;G3D::Vector3&gt;</a> const*<span class="keyword">&gt;</span>(buffer + targArray-&gt;<a class="code hl_variable" href="../../da/da3/a08394.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a>);</div>
+<div class="line"><span class="lineno">   78</span> </div>
+<div class="line"><span class="lineno">   79</span>        <span class="comment">// Read the data for this set</span></div>
+<div class="line"><span class="lineno">   80</span>        <a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> currPos = targArray-&gt;<a class="code hl_variable" href="../../da/da3/a08394.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a>;</div>
+<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; targTsArray-&gt;<a class="code hl_variable" href="../../da/da3/a08394.html#af111e542d7a276e27d2b14757293bc42">number</a>; ++i)</div>
+<div class="line"><span class="lineno">   82</span>        {</div>
+<div class="line"><span class="lineno">   83</span>            <span class="keywordflow">if</span> (currPos + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d0/dc6/a08386.html">M2SplineKey&lt;G3D::Vector3&gt;</a>) &gt; buffSize)</div>
+<div class="line"><span class="lineno">   84</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   85</span>            <span class="comment">// Translate co-ordinates</span></div>
+<div class="line"><span class="lineno">   86</span>            G3D::Vector3 newPos = <a class="code hl_function" href="../../d3/dcd/a00965.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9">TranslateLocation</a>(&amp;DBCData, &amp;cam-&gt;target_position_base, &amp;targPositions-&gt;<a class="code hl_variable" href="../../d0/dc6/a08386.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad">p0</a>);</div>
+<div class="line"><span class="lineno">   87</span> </div>
+<div class="line"><span class="lineno">   88</span>            <span class="comment">// Add to vector</span></div>
+<div class="line"><span class="lineno">   89</span>            <a class="code hl_struct" href="../../d9/d6e/a08382.html">FlyByCamera</a> thisCam;</div>
+<div class="line"><span class="lineno">   90</span>            thisCam.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a5fed6b0484c1553a17b5303facaeb61b">timeStamp</a> = targTimestamps[i];</div>
+<div class="line"><span class="lineno">   91</span>            thisCam.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../dd/da9/a08962.html#afdbf0a257fcd7a48066fd92c4eacae3b">Relocate</a>(newPos.x, newPos.y, newPos.z, 0.0f);</div>
+<div class="line"><span class="lineno">   92</span>            targetcam.push_back(thisCam);</div>
+<div class="line"><span class="lineno">   93</span>            targPositions++;</div>
+<div class="line"><span class="lineno">   94</span>            currPos += <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d0/dc6/a08386.html">M2SplineKey&lt;G3D::Vector3&gt;</a>);</div>
+<div class="line"><span class="lineno">   95</span>        }</div>
+<div class="line"><span class="lineno">   96</span>    }</div>
+<div class="line"><span class="lineno">   97</span> </div>
+<div class="line"><span class="lineno">   98</span>    <span class="comment">// Read camera positions and timestamps (translating first position of 3 only, we don&#39;t need to translate the whole spline)</span></div>
+<div class="line"><span class="lineno">   99</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> k = 0; k &lt; cam-&gt;positions.timestamps.number; ++k)</div>
+<div class="line"><span class="lineno">  100</span>    {</div>
+<div class="line"><span class="lineno">  101</span>        <span class="comment">// Extract Camera positions for this set</span></div>
+<div class="line"><span class="lineno">  102</span>        <span class="keywordflow">if</span> (cam-&gt;positions.timestamps.offset_elements + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../da/da3/a08394.html">M2Array</a>) &gt; buffSize)</div>
+<div class="line"><span class="lineno">  103</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  104</span>        <a class="code hl_struct" href="../../da/da3/a08394.html">M2Array</a> <span class="keyword">const</span>* posTsArray = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../da/da3/a08394.html">M2Array</a> const*<span class="keyword">&gt;</span>(buffer + cam-&gt;positions.timestamps.offset_elements);</div>
+<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">if</span> (posTsArray-&gt;<a class="code hl_variable" href="../../da/da3/a08394.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a> + <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) &gt; buffSize || cam-&gt;positions.values.offset_elements + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../da/da3/a08394.html">M2Array</a>) &gt; buffSize)</div>
+<div class="line"><span class="lineno">  106</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  107</span>        <a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span>* posTimestamps = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const*<span class="keyword">&gt;</span>(buffer + posTsArray-&gt;<a class="code hl_variable" href="../../da/da3/a08394.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a>);</div>
+<div class="line"><span class="lineno">  108</span>        <a class="code hl_struct" href="../../da/da3/a08394.html">M2Array</a> <span class="keyword">const</span>* posArray = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../da/da3/a08394.html">M2Array</a> const*<span class="keyword">&gt;</span>(buffer + cam-&gt;positions.values.offset_elements);</div>
+<div class="line"><span class="lineno">  109</span>        <span class="keywordflow">if</span> (posArray-&gt;<a class="code hl_variable" href="../../da/da3/a08394.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a> + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d0/dc6/a08386.html">M2SplineKey&lt;G3D::Vector3&gt;</a>) &gt; buffSize)</div>
+<div class="line"><span class="lineno">  110</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  111</span>        <a class="code hl_struct" href="../../d0/dc6/a08386.html">M2SplineKey&lt;G3D::Vector3&gt;</a> <span class="keyword">const</span>* <a class="code hl_variable" href="../../d3/dd1/a04364.html#a55e6b22a71b5c615b82389bdf1717718">positions</a> = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../d0/dc6/a08386.html">M2SplineKey&lt;G3D::Vector3&gt;</a> const*<span class="keyword">&gt;</span>(buffer + posArray-&gt;<a class="code hl_variable" href="../../da/da3/a08394.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a>);</div>
+<div class="line"><span class="lineno">  112</span> </div>
+<div class="line"><span class="lineno">  113</span>        <span class="comment">// Read the data for this set</span></div>
+<div class="line"><span class="lineno">  114</span>        <a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> currPos = posArray-&gt;<a class="code hl_variable" href="../../da/da3/a08394.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a>;</div>
+<div class="line"><span class="lineno">  115</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; posTsArray-&gt;<a class="code hl_variable" href="../../da/da3/a08394.html#af111e542d7a276e27d2b14757293bc42">number</a>; ++i)</div>
+<div class="line"><span class="lineno">  116</span>        {</div>
+<div class="line"><span class="lineno">  117</span>            <span class="keywordflow">if</span> (currPos + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d0/dc6/a08386.html">M2SplineKey&lt;G3D::Vector3&gt;</a>) &gt; buffSize)</div>
+<div class="line"><span class="lineno">  118</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  119</span>            <span class="comment">// Translate co-ordinates</span></div>
+<div class="line"><span class="lineno">  120</span>            G3D::Vector3 newPos = <a class="code hl_function" href="../../d3/dcd/a00965.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9">TranslateLocation</a>(&amp;DBCData, &amp;cam-&gt;position_base, &amp;<a class="code hl_variable" href="../../d3/dd1/a04364.html#a55e6b22a71b5c615b82389bdf1717718">positions</a>-&gt;p0);</div>
+<div class="line"><span class="lineno">  121</span> </div>
+<div class="line"><span class="lineno">  122</span>            <span class="comment">// Add to vector</span></div>
+<div class="line"><span class="lineno">  123</span>            <a class="code hl_struct" href="../../d9/d6e/a08382.html">FlyByCamera</a> thisCam;</div>
+<div class="line"><span class="lineno">  124</span>            thisCam.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a5fed6b0484c1553a17b5303facaeb61b">timeStamp</a> = posTimestamps[i];</div>
+<div class="line"><span class="lineno">  125</span>            thisCam.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../dd/da9/a08962.html#afdbf0a257fcd7a48066fd92c4eacae3b">Relocate</a>(newPos.x, newPos.y, newPos.z);</div>
+<div class="line"><span class="lineno">  126</span> </div>
+<div class="line"><span class="lineno">  127</span>            <span class="keywordflow">if</span> (targetcam.size() &gt; 0)</div>
+<div class="line"><span class="lineno">  128</span>            {</div>
+<div class="line"><span class="lineno">  129</span>                <span class="comment">// Find the target camera before and after this camera</span></div>
+<div class="line"><span class="lineno">  130</span>                <a class="code hl_struct" href="../../d9/d6e/a08382.html">FlyByCamera</a> lastTarget;</div>
+<div class="line"><span class="lineno">  131</span>                <a class="code hl_struct" href="../../d9/d6e/a08382.html">FlyByCamera</a> nextTarget;</div>
+<div class="line"><span class="lineno">  132</span> </div>
+<div class="line"><span class="lineno">  133</span>                <span class="comment">// Pre-load first item</span></div>
+<div class="line"><span class="lineno">  134</span>                lastTarget = targetcam[0];</div>
+<div class="line"><span class="lineno">  135</span>                nextTarget = targetcam[0];</div>
+<div class="line"><span class="lineno">  136</span>                <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> j = 0; j &lt; targetcam.size(); ++j)</div>
+<div class="line"><span class="lineno">  137</span>                {</div>
+<div class="line"><span class="lineno">  138</span>                    nextTarget = targetcam[j];</div>
+<div class="line"><span class="lineno">  139</span>                    <span class="keywordflow">if</span> (targetcam[j].timeStamp &gt; posTimestamps[i])</div>
+<div class="line"><span class="lineno">  140</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  141</span> </div>
+<div class="line"><span class="lineno">  142</span>                    lastTarget = targetcam[j];</div>
+<div class="line"><span class="lineno">  143</span>                }</div>
+<div class="line"><span class="lineno">  144</span> </div>
+<div class="line"><span class="lineno">  145</span>                <span class="keywordtype">float</span> x, y, z;</div>
+<div class="line"><span class="lineno">  146</span>                lastTarget.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../dd/da9/a08962.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(x, y, z);</div>
+<div class="line"><span class="lineno">  147</span> </div>
+<div class="line"><span class="lineno">  148</span>                <span class="comment">// Now, the timestamps for target cam and position can be different. So, if they differ we interpolate</span></div>
+<div class="line"><span class="lineno">  149</span>                <span class="keywordflow">if</span> (lastTarget.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a5fed6b0484c1553a17b5303facaeb61b">timeStamp</a> != posTimestamps[i])</div>
+<div class="line"><span class="lineno">  150</span>                {</div>
+<div class="line"><span class="lineno">  151</span>                    <a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> timeDiffTarget = nextTarget.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a5fed6b0484c1553a17b5303facaeb61b">timeStamp</a> - lastTarget.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a5fed6b0484c1553a17b5303facaeb61b">timeStamp</a>;</div>
+<div class="line"><span class="lineno">  152</span>                    <a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> timeDiffThis = posTimestamps[i] - lastTarget.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a5fed6b0484c1553a17b5303facaeb61b">timeStamp</a>;</div>
+<div class="line"><span class="lineno">  153</span>                    <span class="keywordtype">float</span> xDiff = nextTarget.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../dd/da9/a08962.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() - lastTarget.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../dd/da9/a08962.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>();</div>
+<div class="line"><span class="lineno">  154</span>                    <span class="keywordtype">float</span> yDiff = nextTarget.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../dd/da9/a08962.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() - lastTarget.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../dd/da9/a08962.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>();</div>
+<div class="line"><span class="lineno">  155</span>                    x = lastTarget.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../dd/da9/a08962.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() + (xDiff * (float(timeDiffThis) / float(timeDiffTarget)));</div>
+<div class="line"><span class="lineno">  156</span>                    y = lastTarget.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../dd/da9/a08962.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() + (yDiff * (float(timeDiffThis) / float(timeDiffTarget)));</div>
+<div class="line"><span class="lineno">  157</span>                }</div>
+<div class="line"><span class="lineno">  158</span>                <span class="keywordtype">float</span> xDiff = x - thisCam.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../dd/da9/a08962.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>();</div>
+<div class="line"><span class="lineno">  159</span>                <span class="keywordtype">float</span> yDiff = y - thisCam.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../dd/da9/a08962.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>();</div>
+<div class="line"><span class="lineno">  160</span>                thisCam.<a class="code hl_variable" href="../../d9/d6e/a08382.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../dd/da9/a08962.html#aa547307fa2e6acedbcebda20a98a0fcf">SetOrientation</a>(std::atan2(yDiff, xDiff));</div>
+<div class="line"><span class="lineno">  161</span>            }</div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>            cameras.push_back(thisCam);</div>
+<div class="line"><span class="lineno">  164</span>            <a class="code hl_variable" href="../../d3/dd1/a04364.html#a55e6b22a71b5c615b82389bdf1717718">positions</a>++;</div>
+<div class="line"><span class="lineno">  165</span>            currPos += <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d0/dc6/a08386.html">M2SplineKey&lt;G3D::Vector3&gt;</a>);</div>
+<div class="line"><span class="lineno">  166</span>        }</div>
+<div class="line"><span class="lineno">  167</span>    }</div>
+<div class="line"><span class="lineno">  168</span> </div>
+<div class="line"><span class="lineno">  169</span>    <a class="code hl_variable" href="../../d3/dcd/a00965.html#a4acfeb7e23e1d3a74b66a1c54084e7bc">sFlyByCameraStore</a>[dbcentry-&gt;ID] = cameras;</div>
+<div class="line"><span class="lineno">  170</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  171</span>}</div>
+<div class="ttc" id="aa00965_html_a058e5fb250bd785cecc9a6913132dfe4"><div class="ttname"><a href="../../d3/dcd/a00965.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a></div><div class="ttdeci">std::vector&lt; FlyByCamera &gt; FlyByCameraCollection</div><div class="ttdef"><b>Definition:</b> M2Stores.cpp:27</div></div>
+<div class="ttc" id="aa00965_html_a5274eb8fcc7646fe4fc3ea77ab6de2d9"><div class="ttname"><a href="../../d3/dcd/a00965.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9">TranslateLocation</a></div><div class="ttdeci">G3D::Vector3 TranslateLocation(G3D::Vector4 const *DBCPosition, G3D::Vector3 const *basePosition, G3D::Vector3 const *splineVector)</div><div class="ttdef"><b>Definition:</b> M2Stores.cpp:31</div></div>
+<div class="ttc" id="aa04364_html_a55e6b22a71b5c615b82389bdf1717718"><div class="ttname"><a href="../../d3/dd1/a04364.html#a55e6b22a71b5c615b82389bdf1717718">positions</a></div><div class="ttdeci">const Position positions[MAX_SUMMONS]</div><div class="ttdef"><b>Definition:</b> boss_lurker_below.cpp:57</div></div>
+<div class="ttc" id="aa08382_html"><div class="ttname"><a href="../../d9/d6e/a08382.html">FlyByCamera</a></div><div class="ttdef"><b>Definition:</b> M2Stores.h:26</div></div>
+<div class="ttc" id="aa08382_html_a5fed6b0484c1553a17b5303facaeb61b"><div class="ttname"><a href="../../d9/d6e/a08382.html#a5fed6b0484c1553a17b5303facaeb61b">FlyByCamera::timeStamp</a></div><div class="ttdeci">uint32 timeStamp</div><div class="ttdef"><b>Definition:</b> M2Stores.h:27</div></div>
+<div class="ttc" id="aa08382_html_a6470ea69a14e24337aa6b0c05093b6d2"><div class="ttname"><a href="../../d9/d6e/a08382.html#a6470ea69a14e24337aa6b0c05093b6d2">FlyByCamera::locations</a></div><div class="ttdeci">Position locations</div><div class="ttdef"><b>Definition:</b> M2Stores.h:28</div></div>
+<div class="ttc" id="aa08386_html"><div class="ttname"><a href="../../d0/dc6/a08386.html">M2SplineKey</a></div><div class="ttdef"><b>Definition:</b> M2Structure.h:28</div></div>
+<div class="ttc" id="aa08386_html_aaf1df5d479ef12c6bfa9b02c8d9a54ad"><div class="ttname"><a href="../../d0/dc6/a08386.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad">M2SplineKey::p0</a></div><div class="ttdeci">T p0</div><div class="ttdef"><b>Definition:</b> M2Structure.h:29</div></div>
+<div class="ttc" id="aa08394_html"><div class="ttname"><a href="../../da/da3/a08394.html">M2Array</a></div><div class="ttdef"><b>Definition:</b> M2Structure.h:107</div></div>
+<div class="ttc" id="aa08394_html_ad633b2e9afc82762c6b43675844f8fea"><div class="ttname"><a href="../../da/da3/a08394.html#ad633b2e9afc82762c6b43675844f8fea">M2Array::offset_elements</a></div><div class="ttdeci">uint32 offset_elements</div><div class="ttdef"><b>Definition:</b> M2Structure.h:109</div></div>
+<div class="ttc" id="aa08394_html_af111e542d7a276e27d2b14757293bc42"><div class="ttname"><a href="../../da/da3/a08394.html#af111e542d7a276e27d2b14757293bc42">M2Array::number</a></div><div class="ttdeci">uint32_t number</div><div class="ttdef"><b>Definition:</b> M2Structure.h:108</div></div>
+<div class="ttc" id="aa08962_html_aa547307fa2e6acedbcebda20a98a0fcf"><div class="ttname"><a href="../../dd/da9/a08962.html#aa547307fa2e6acedbcebda20a98a0fcf">Position::SetOrientation</a></div><div class="ttdeci">void SetOrientation(float orientation)</div><div class="ttdef"><b>Definition:</b> Position.h:116</div></div>
+<div class="ttc" id="aa08962_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../dd/da9/a08962.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:121</div></div>
+<div class="ttc" id="aa08962_html_ad8e55f9b39618093aa625abe3a06e1ed"><div class="ttname"><a href="../../dd/da9/a08962.html#ad8e55f9b39618093aa625abe3a06e1ed">Position::GetPosition</a></div><div class="ttdeci">void GetPosition(float &amp;x, float &amp;y) const</div><div class="ttdef"><b>Definition:</b> Position.h:126</div></div>
+<div class="ttc" id="aa08962_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../dd/da9/a08962.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:122</div></div>
+<div class="ttc" id="aa08962_html_afdbf0a257fcd7a48066fd92c4eacae3b"><div class="ttname"><a href="../../dd/da9/a08962.html#afdbf0a257fcd7a48066fd92c4eacae3b">Position::Relocate</a></div><div class="ttdeci">void Relocate(float x, float y)</div><div class="ttdef"><b>Definition:</b> Position.h:77</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00732">CinematicCameraEntry::ID</a>, <a class="el" href="../../#l00028">FlyByCamera::locations</a>, <a class="el" href="../../#l00108">M2Array::number</a>, <a class="el" href="../../#l00109">M2Array::offset_elements</a>, <a class="el" href="../../#l00735">CinematicCameraEntry::Origin</a>, <a class="el" href="../../#l00736">CinematicCameraEntry::OriginFacing</a>, <a class="el" href="../../#l00029">M2SplineKey&lt; T &gt;::p0</a>, <a class="el" href="../../#l00126">M2Camera::position_base</a>, <a class="el" href="../../#l00125">M2Camera::positions</a>, <a class="el" href="../../#l00057">positions</a>, <a class="el" href="../../#l00077">Position::Relocate()</a>, <a class="el" href="../../#l00116">Position::SetOrientation()</a>, <a class="el" href="../../#l00028">sFlyByCameraStore</a>, <a class="el" href="../../#l00128">M2Camera::target_position_base</a>, <a class="el" href="../../#l00127">M2Camera::target_positions</a>, <a class="el" href="../../#l00027">FlyByCamera::timeStamp</a>, <a class="el" href="../../#l00115">M2Track::timestamps</a>, <a class="el" href="../../#l00031">TranslateLocation()</a>, <a class="el" href="../../#l00116">M2Track::values</a>, <a class="el" href="../../#l00026">DBCPosition3D::X</a>, <a class="el" href="../../#l00027">DBCPosition3D::Y</a>, and <a class="el" href="../../#l00028">DBCPosition3D::Z</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00173">LoadM2Cameras()</a>.</p>
+
+</div>
+</div>
+<a id="a5274eb8fcc7646fe4fc3ea77ab6de2d9" name="a5274eb8fcc7646fe4fc3ea77ab6de2d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5274eb8fcc7646fe4fc3ea77ab6de2d9">&#9670;&#160;</a></span>TranslateLocation()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">G3D::Vector3 TranslateLocation </td>
+          <td>(</td>
+          <td class="paramtype">G3D::Vector4 const *&#160;</td>
+          <td class="paramname"><em>DBCPosition</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">G3D::Vector3 const *&#160;</td>
+          <td class="paramname"><em>basePosition</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">G3D::Vector3 const *&#160;</td>
+          <td class="paramname"><em>splineVector</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
+<div class="line"><span class="lineno">   33</span>    G3D::Vector3 work;</div>
+<div class="line"><span class="lineno">   34</span>    <span class="keywordtype">float</span> x = basePosition-&gt;x + splineVector-&gt;x;</div>
+<div class="line"><span class="lineno">   35</span>    <span class="keywordtype">float</span> y = basePosition-&gt;y + splineVector-&gt;y;</div>
+<div class="line"><span class="lineno">   36</span>    <span class="keywordtype">float</span> z = basePosition-&gt;z + splineVector-&gt;z;</div>
+<div class="line"><span class="lineno">   37</span>    <span class="keywordtype">float</span> <span class="keyword">const</span> distance = std::sqrt((x * x) + (y * y));</div>
+<div class="line"><span class="lineno">   38</span>    <span class="keywordtype">float</span> angle = std::atan2(x, y) - DBCPosition-&gt;w;</div>
+<div class="line"><span class="lineno">   39</span> </div>
+<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">if</span> (angle &lt; 0)</div>
+<div class="line"><span class="lineno">   41</span>        angle += 2 * float(M_PI);</div>
+<div class="line"><span class="lineno">   42</span> </div>
+<div class="line"><span class="lineno">   43</span>    work.x = DBCPosition-&gt;x + (distance * sin(angle));</div>
+<div class="line"><span class="lineno">   44</span>    work.y = DBCPosition-&gt;y + (distance * cos(angle));</div>
+<div class="line"><span class="lineno">   45</span>    work.z = DBCPosition-&gt;z + z;</div>
+<div class="line"><span class="lineno">   46</span>    <span class="keywordflow">return</span> work;</div>
+<div class="line"><span class="lineno">   47</span>}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00050">readCamera()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a4acfeb7e23e1d3a74b66a1c54084e7bc" name="a4acfeb7e23e1d3a74b66a1c54084e7bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4acfeb7e23e1d3a74b66a1c54084e7bc">&#9670;&#160;</a></span>sFlyByCameraStore</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unordered_map&lt;<a class="el" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d3/dcd/a00965.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a>&gt; sFlyByCameraStore</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00254">GetFlyByCameras()</a>, <a class="el" href="../../#l00173">LoadM2Cameras()</a>, and <a class="el" href="../../#l00050">readCamera()</a>.</p>
 
 </div>
 </div>
@@ -885,8 +553,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_aa8854523178f757998bc0ad1b9fe275.html">VioletHold</a></li><li class="navelem"><a class="el" href="../../d3/dcd/a00965.html">violet_hold.cpp</a></li>
-    <li class="footer">Generated on Tue Oct 27 2026 00:03:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_cf66c9a7c0140de46c47cc8282fbae4a.html">DataStores</a></li><li class="navelem"><a class="el" href="../../d3/dcd/a00965.html">M2Stores.cpp</a></li>
+    <li class="footer">Generated on Tue Nov 3 2026 02:35:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

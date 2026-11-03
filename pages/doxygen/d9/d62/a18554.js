@@ -1,7 +1,7 @@
 var a18554 =
 [
-    [ "HandleCast", "d9/d62/a18554.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "d9/d62/a18554.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "d9/d62/a18554.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "d9/d62/a18554.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "FrostBombExplosion", "d9/d62/a18554.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "d9/d62/a18554.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "d9/d62/a18554.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "d9/d62/a18554.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

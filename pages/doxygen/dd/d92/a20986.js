@@ -1,11 +1,6 @@
 var a20986 =
 [
-    [ "boss_thorim_runic_colossus", "dd/d92/a20986.html#a3beda3351911803a0c0ea719256c4514", null ],
-    [ "JustDied", "dd/d92/a20986.html#a9682ccf2c6109888385fd621ecac16a4", null ],
-    [ "JustEngagedWith", "dd/d92/a20986.html#ad18388379fc026c1bf707eee8fae9826", null ],
-    [ "Reset", "dd/d92/a20986.html#a5a6d3e8c1e756fe9a982c6be215a0577", null ],
-    [ "SpellHit", "dd/d92/a20986.html#a9787e064886ddee55bc2434c6d4f1927", null ],
-    [ "UpdateAI", "dd/d92/a20986.html#a470b0571db91075603504d91fb13721c", null ],
-    [ "_checkTarget", "dd/d92/a20986.html#a16c4b7194f1db8710732b35189823efe", null ],
-    [ "events", "dd/d92/a20986.html#a859e1d83f4002c8017d5d8f8fdf34a1e", null ]
+    [ "OnPeriodic", "dd/d92/a20986.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "dd/d92/a20986.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "dd/d92/a20986.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

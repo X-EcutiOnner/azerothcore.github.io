@@ -1,23 +1,16 @@
 var a00455 =
 [
-    [ "boss_ghazan", "da/d73/a23618.html", "da/d73/a23618" ],
-    [ "at_underbog_ghazan", "d4/db7/a23622.html", "d4/db7/a23622" ],
-    [ "eBlackStalker", "dd/d63/a00455.html#afbee42c6927db9ad2cf9d9096eeac954", [
-      [ "SPELL_ACID_BREATH", "dd/d63/a00455.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c", null ],
-      [ "SPELL_ACID_SPIT", "dd/d63/a00455.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806", null ],
-      [ "SPELL_TAIL_SWEEP", "dd/d63/a00455.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823", null ],
-      [ "SPELL_ENRAGE", "dd/d63/a00455.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "ACTION_MOVE_TO_PLATFORM", "dd/d63/a00455.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa", null ],
-      [ "SPELL_LEVITATE", "de/df8/a00440.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2", null ],
-      [ "SPELL_CHAIN_LIGHTNING", "de/df8/a00440.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_STATIC_CHARGE", "de/df8/a00440.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0", null ],
-      [ "SPELL_SUMMON_SPORE_STRIDER", "de/df8/a00440.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed", null ],
-      [ "SPELL_LEVITATION_PULSE", "de/df8/a00440.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1", null ],
-      [ "SPELL_SOMEONE_GRAB_ME", "de/df8/a00440.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b", null ],
-      [ "SPELL_MAGNETIC_PULL", "de/df8/a00440.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5", null ],
-      [ "SPELL_SUSPENSION_PRIMER", "de/df8/a00440.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de", null ],
-      [ "SPELL_SUSPENSION", "de/df8/a00440.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0", null ],
-      [ "ENTRY_SPORE_STRIDER", "de/df8/a00440.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2", null ]
-    ] ],
-    [ "AddSC_boss_ghazan", "dd/d63/a00455.html#a6b7605f750dab7f676edcd83f54c249a", null ]
+    [ "RandomEngine", "df/dc9/a05922.html", "df/dc9/a05922" ],
+    [ "frand", "dd/d63/a00455.html#aa28484fcb823a22578601847e4b0ddb4", null ],
+    [ "irand", "dd/d63/a00455.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
+    [ "rand32", "dd/d63/a00455.html#ab91ed86274e1e52eb314784862b61696", null ],
+    [ "rand_chance", "dd/d63/a00455.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
+    [ "rand_norm", "dd/d63/a00455.html#ad552d8147f66d6ec0cd44271e8799599", null ],
+    [ "randtime", "dd/d63/a00455.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
+    [ "randtime", "dd/d63/a00455.html#ad7a1463dbba108f4bfc0d800fa6f99c1", null ],
+    [ "roll_chance_f", "dd/d63/a00455.html#a4b15099bc81731469c5078a778673c94", null ],
+    [ "roll_chance_i", "dd/d63/a00455.html#a50320d4edff86db31b25138ae72161ad", null ],
+    [ "urand", "dd/d63/a00455.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
+    [ "urandms", "dd/d63/a00455.html#a1a4ee564518371004a4d34135600bfa0", null ],
+    [ "urandweighted", "dd/d63/a00455.html#a673de62907a2657190e58678691d3b36", null ]
 ];

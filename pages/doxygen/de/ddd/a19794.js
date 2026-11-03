@@ -1,8 +1,5 @@
 var a19794 =
 [
-    [ "HandleAfterCast", "de/ddd/a19794.html#ac816f81a668ac3018be8f5dc4698039b", null ],
-    [ "HandleDummy", "de/ddd/a19794.html#a3009faa525c22779a0b2534b96821cfd", null ],
-    [ "PrepareSpellScript", "de/ddd/a19794.html#aca38f23f080314ab73ec2494bf877716", null ],
-    [ "Register", "de/ddd/a19794.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
-    [ "Validate", "de/ddd/a19794.html#af945e399992deb3aef5c81ad393ee50f", null ]
+    [ "npc_mr_bigglesworth", "de/ddd/a19794.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "de/ddd/a19794.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

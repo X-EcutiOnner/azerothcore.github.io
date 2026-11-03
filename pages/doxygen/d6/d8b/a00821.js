@@ -1,5 +1,6 @@
 var a00821 =
 [
-    [ "worldstate_commandscript", "db/d25/a12742.html", "db/d25/a12742" ],
-    [ "AddSC_worldstate_commandscript", "d6/d8b/a00821.html#a2ff66ad19f50180b9878cf95696fd09b", null ]
+    [ "IpLocationRecord", "d3/d16/a05746.html", "d3/d16/a05746" ],
+    [ "IpLocationStore", "d7/d55/a05750.html", "d7/d55/a05750" ],
+    [ "sIPLocation", "d6/d8b/a00821.html#a85e62bd98f395189fea9c9514d44fc31", null ]
 ];

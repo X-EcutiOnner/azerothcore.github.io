@@ -1,5 +1,7 @@
 var a21742 =
 [
-    [ "npc_khunok_the_behemothAI", "d8/d89/a21742.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "d8/d89/a21742.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "HandleScriptEffect", "d8/d89/a21742.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
+    [ "PrepareSpellScript", "d8/d89/a21742.html#a73b5af95ee4f593337c3803574d190db", null ],
+    [ "Register", "d8/d89/a21742.html#a930de2343532feb50b86304f32269e4c", null ],
+    [ "Validate", "d8/d89/a21742.html#ae9bfedf7e89487217ad927459e259c04", null ]
 ];

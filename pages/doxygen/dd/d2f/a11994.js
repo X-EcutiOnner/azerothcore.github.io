@@ -1,12 +1,7 @@
 var a11994 =
 [
-    [ "WorldObjectSpellTargetCheck", "dd/d2f/a11994.html#ac3ba0666906f8ff4993dd3551cc73ce2", null ],
-    [ "~WorldObjectSpellTargetCheck", "dd/d2f/a11994.html#a1d519b04f171d230b21da3cc637497cf", null ],
-    [ "operator()", "dd/d2f/a11994.html#a2ae263977948d2195b22a737c36bad20", null ],
-    [ "_caster", "dd/d2f/a11994.html#ad6f0ab91ac6063294dcd8c5e3dc14e23", null ],
-    [ "_condList", "dd/d2f/a11994.html#a70b9331b5871e2e4d92d642715c8192a", null ],
-    [ "_condSrcInfo", "dd/d2f/a11994.html#a288c53998aa7b744f6e3eaeba68fe6d8", null ],
-    [ "_referer", "dd/d2f/a11994.html#a789ebdb20d1c8aee99e8e759cdc1ada6", null ],
-    [ "_spellInfo", "dd/d2f/a11994.html#a66bd07338943ee307be19f22326b29b7", null ],
-    [ "_targetSelectionType", "dd/d2f/a11994.html#a0e629a6fd0da179ea0c98c93d2337603", null ]
+    [ "chance", "dd/d2f/a11994.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "dd/d2f/a11994.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "dd/d2f/a11994.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "dd/d2f/a11994.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

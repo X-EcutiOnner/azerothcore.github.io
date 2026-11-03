@@ -1,10 +1,9 @@
 var a21774 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "db/d3e/a21774.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "db/d3e/a21774.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "db/d3e/a21774.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "db/d3e/a21774.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "db/d3e/a21774.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "db/d3e/a21774.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "db/d3e/a21774.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "npc_warmage_coldarraAI", "db/d3e/a21774.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "db/d3e/a21774.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "db/d3e/a21774.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "db/d3e/a21774.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "db/d3e/a21774.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "db/d3e/a21774.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

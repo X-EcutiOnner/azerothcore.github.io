@@ -1,9 +1,6 @@
 var a17402 =
 [
-    [ "HandlePeriodicTick", "d4/d1a/a17402.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "d4/d1a/a17402.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "d4/d1a/a17402.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "d4/d1a/a17402.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "d4/d1a/a17402.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "d4/d1a/a17402.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "entry", "d4/d1a/a17402.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d4/d1a/a17402.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d4/d1a/a17402.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

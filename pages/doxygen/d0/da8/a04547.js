@@ -1,11 +1,12 @@
 var a04547 =
 [
-    [ "anonymous_namespace{AuraLoadedStateTest.cpp}::AuraLoadedStateTest", "dc/def/a30118.html", "dc/def/a30118" ],
-    [ "TEST_F", "d0/da8/a04547.html#a3c2cf023118b4939342706355b5e3e23", null ],
-    [ "TEST_F", "d0/da8/a04547.html#a895af5f48da5209f7d733deb9891ed14", null ],
-    [ "TEST_F", "d0/da8/a04547.html#a548b1d31d026d08300cee3bdae2fd6d6", null ],
-    [ "AURA_DURATION", "d0/da8/a04547.html#a3518f795a6c55dbdde7cc0ece4a705e1", null ],
-    [ "BASE_AMOUNT", "d0/da8/a04547.html#ad5f15dfa412737c696115d53ae943a5e", null ],
-    [ "SAVED_AMOUNT", "d0/da8/a04547.html#ae35607bfd8bc471969f34f8f743ff210", null ],
-    [ "TEST_AURA_SPELL_ID", "d0/da8/a04547.html#a1372aab52ee88af350f43d4b126245d5", null ]
+    [ "ACScriptName", "d0/da8/a04547.html#a44e28f969fff2c33cf76b8eaaff1898c", null ],
+    [ "DataHeader", "d0/da8/a04547.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterAuchenaiCryptsCreatureAI", "d0/da8/a04547.html#abf97bec93b670890ad0eaa7d6b4bd4b9", null ],
+    [ "ACDataTypes", "d0/da8/a04547.html#aae3060cf5aa0b4d27bcbbfeee3db2856", [
+      [ "DATA_SHIRRAK_THE_DEAD_WATCHER", "d0/da8/a04547.html#aae3060cf5aa0b4d27bcbbfeee3db2856a5d80917a3a5f108f9e625372181b85fe", null ],
+      [ "DATA_EXARCH_MALADAAR", "d0/da8/a04547.html#aae3060cf5aa0b4d27bcbbfeee3db2856aa54edd3601b7953b0bf046fa8b1bd3f8", null ]
+    ] ],
+    [ "GetAuchenaiCryptsAI", "d0/da8/a04547.html#a8c9b9cbd7dca7c2e86d7ad3fe7bfd961", null ],
+    [ "EncounterCount", "d0/da8/a04547.html#a31d630c40753c29f94ceac2db5e451a8", null ]
 ];

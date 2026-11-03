@@ -1,6 +1,6 @@
 var a17622 =
 [
-    [ "npc_pos_icicle_triggerAI", "d6/dc9/a17626.html", "d6/dc9/a17626" ],
-    [ "npc_pos_icicle_trigger", "d6/d62/a17622.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
-    [ "GetAI", "d6/d62/a17622.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
+    [ "npc_pos_freed_slaveAI", "d6/dc9/a17626.html", "d6/dc9/a17626" ],
+    [ "npc_pos_freed_slave", "d6/d62/a17622.html#a19fd79279646cb1c49c04056636615fc", null ],
+    [ "GetAI", "d6/d62/a17622.html#ac798c2584d48892162cc2bc779701e16", null ]
 ];

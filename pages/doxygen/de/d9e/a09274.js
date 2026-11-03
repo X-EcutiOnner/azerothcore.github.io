@@ -1,13 +1,8 @@
 var a09274 =
 [
-    [ "MMapTargetData", "de/d9e/a09274.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
-    [ "MMapTargetData", "de/d9e/a09274.html#a2b5741029d07e216c6632e250e934e0a", null ],
-    [ "MMapTargetData", "de/d9e/a09274.html#a5edafa643af641922f35fe25b30540c9", null ],
-    [ "MMapTargetData", "de/d9e/a09274.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
-    [ "operator=", "de/d9e/a09274.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
-    [ "operator=", "de/d9e/a09274.html#a8f3a424dd9fabdfff4522487334e931e", null ],
-    [ "PosChanged", "de/d9e/a09274.html#a23c52d1c7b528867bfe1a43e042eea3c", null ],
-    [ "_endTime", "de/d9e/a09274.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
-    [ "_posOwner", "de/d9e/a09274.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
-    [ "_posTarget", "de/d9e/a09274.html#a7f089d873690e8ea549f6345b6598fc4", null ]
+    [ "RedirectSpellEvent", "de/d9e/a09274.html#a77d243d64c2fc651d71c42e10a315161", null ],
+    [ "Execute", "de/d9e/a09274.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
+    [ "_auraEffect", "de/d9e/a09274.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
+    [ "_auraOwnerGUID", "de/d9e/a09274.html#a1b3fb598748362379fef15b3172d8e2b", null ],
+    [ "_self", "de/d9e/a09274.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
 ];

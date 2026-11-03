@@ -1,15 +1,10 @@
 var a17398 =
 [
-    [ "boss_devourer_of_souls", "de/db2/a17398.html#a8d089de7236e18003bfd484e34f77ea3", null ],
-    [ "CanAIAttack", "de/db2/a17398.html#a6e84fb1104ce99448f2aea819fc7748f", null ],
-    [ "EnterEvadeMode", "de/db2/a17398.html#adce881b46c1a9de4f0eee8dd2cbadff1", null ],
-    [ "GetData", "de/db2/a17398.html#a6df46af55679a009c7f6a30d1f1185f6", null ],
-    [ "JustDied", "de/db2/a17398.html#a8d58c994b2a0428b723bd2528c312f72", null ],
-    [ "JustEngagedWith", "de/db2/a17398.html#a25af638ab8e5c8348e5e910cfb52a1fd", null ],
-    [ "JustSummoned", "de/db2/a17398.html#ac985b112bf87341b4c0b132502517bfb", null ],
-    [ "KilledUnit", "de/db2/a17398.html#ae8ba70f003d792e499b095f2030b58b1", null ],
-    [ "Reset", "de/db2/a17398.html#a57cc2f21324c38cdc9c87adf3b425ed4", null ],
-    [ "SpellHitTarget", "de/db2/a17398.html#ad8215797d3bbd05efd93b04ae8b3cad2", null ],
-    [ "UpdateAI", "de/db2/a17398.html#a47b6ff4e3edad4f1d5a4974a5a84696a", null ],
-    [ "AchievementCompleted", "de/db2/a17398.html#a7f19641d3c3496e8cf4c86e736607441", null ]
+    [ "HandleAfterEffectAbsorb", "de/db2/a17398.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "de/db2/a17398.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "de/db2/a17398.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "de/db2/a17398.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "de/db2/a17398.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "de/db2/a17398.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "de/db2/a17398.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

@@ -1,6 +1,6 @@
 var a17674 =
 [
-    [ "HandleDummy", "d3/d2b/a17674.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "d3/d2b/a17674.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "d3/d2b/a17674.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "entry", "d3/d2b/a17674.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "d3/d2b/a17674.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "d3/d2b/a17674.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

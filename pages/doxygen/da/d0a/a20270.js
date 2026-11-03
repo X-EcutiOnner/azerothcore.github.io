@@ -1,5 +1,7 @@
 var a20270 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "da/d0a/a20270.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "da/d0a/a20270.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "OnRemove", "da/d0a/a20270.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "da/d0a/a20270.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "da/d0a/a20270.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "da/d0a/a20270.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

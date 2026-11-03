@@ -1,14 +1,7 @@
 var a17850 =
 [
-    [ "npc_ball_of_flameAI", "d4/d7d/a17850.html#a90314990bc6404bf2a4005bb94213926", null ],
-    [ "AttackStart", "d4/d7d/a17850.html#a34d51c96005f620c0010948acb6c89ec", null ],
-    [ "DamageDealt", "d4/d7d/a17850.html#ac2d36bc12bb86c329721a2af224d037f", null ],
-    [ "DoAction", "d4/d7d/a17850.html#ac589db56562987de5bbed27a2bead49f", null ],
-    [ "MoveInLineOfSight", "d4/d7d/a17850.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
-    [ "MovementInform", "d4/d7d/a17850.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
-    [ "SetGUID", "d4/d7d/a17850.html#ab82ac6ffc7f946428c26f5bd6585f95c", null ],
-    [ "_chaseGUID", "d4/d7d/a17850.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
-    [ "_exploded", "d4/d7d/a17850.html#a724de41f7b14755d704d5de335da380b", null ],
-    [ "_instance", "d4/d7d/a17850.html#af5d8717572176409eca01ae214910c7f", null ],
-    [ "_started", "d4/d7d/a17850.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
+    [ "HandleScript", "d4/d7d/a17850.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "d4/d7d/a17850.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "d4/d7d/a17850.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "d4/d7d/a17850.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

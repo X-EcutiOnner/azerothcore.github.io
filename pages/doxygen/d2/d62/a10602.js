@@ -1,9 +1,7 @@
 var a10602 =
 [
-    [ "counter", "d2/d62/a10602.html#a0efb94229f4a9370dc5b256ba623385b", null ],
-    [ "getCurrent", "d2/d62/a10602.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
-    [ "Increase", "d2/d62/a10602.html#a463e0ba077c8398a6125e715afcd8860", null ],
-    [ "init", "d2/d62/a10602.html#a0369662be009b781174021a2eb6b3202", null ],
-    [ "NewId", "d2/d62/a10602.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
-    [ "m_counter", "d2/d62/a10602.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
+    [ "WriteCommonMonsterMovePart", "d2/d62/a10602.html#a5f460aac5726580ed4d053f97ce4b95a", null ],
+    [ "WriteCreate", "d2/d62/a10602.html#a255a4de5c8cdf224e822a4e7ffe0ee5a", null ],
+    [ "WriteMonsterMove", "d2/d62/a10602.html#a7681143d50955bda880fbae74671a684", null ],
+    [ "WriteStopMovement", "d2/d62/a10602.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
 ];

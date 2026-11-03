@@ -1,12 +1,9 @@
 var a18918 =
 [
-    [ "npc_strangulate_vehicleAI", "dd/d6e/a18918.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
-    [ "DoAction", "dd/d6e/a18918.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
-    [ "IsHeroic", "dd/d6e/a18918.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
-    [ "IsSummonedBy", "dd/d6e/a18918.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
-    [ "OnCharmed", "dd/d6e/a18918.html#a40e5537897c452d35093920ddd3669b0", null ],
-    [ "PassengerBoarded", "dd/d6e/a18918.html#a819746e13af95fa964c6da3d765a7c21", null ],
-    [ "UpdateAI", "dd/d6e/a18918.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
-    [ "_events", "dd/d6e/a18918.html#a19b493e994d246128f63d9109e87737a", null ],
-    [ "_instance", "dd/d6e/a18918.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
+    [ "npc_spirit_wardenAI", "dd/d6e/a18918.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "dd/d6e/a18918.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "dd/d6e/a18918.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "dd/d6e/a18918.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "dd/d6e/a18918.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "dd/d6e/a18918.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

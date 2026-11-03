@@ -1,8 +1,5 @@
 var a24562 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "d3/d86/a24562.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "CanAIAttack", "d3/d86/a24562.html#a514fe49b143f57ef87359b3060911c02", null ],
-    [ "OwnerAttacked", "d3/d86/a24562.html#ad5189df825dc917e59c9b19e4a84cded", null ],
-    [ "OwnerAttackedBy", "d3/d86/a24562.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ],
-    [ "UpdateAI", "d3/d86/a24562.html#ac44836f84d172dfac90dfb3eaaeeac6a", null ]
+    [ "npc_pet_dk_risen_ally", "d3/d86/a24562.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "d3/d86/a24562.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

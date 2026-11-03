@@ -1,8 +1,6 @@
 var a17942 =
 [
-    [ "OnApply", "d7/d51/a17942.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "d7/d51/a17942.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "d7/d51/a17942.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "d7/d51/a17942.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "d7/d51/a17942.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "boss_deathbringer_saurfangAI", "db/d26/a17946.html", "db/d26/a17946" ],
+    [ "boss_deathbringer_saurfang", "d7/d51/a17942.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d7/d51/a17942.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

@@ -1,6 +1,6 @@
 var a21406 =
 [
-    [ "boss_palehoofAI", "d6/d2e/a21410.html", "d6/d2e/a21410" ],
-    [ "boss_palehoof", "d4/d7f/a21406.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "d4/d7f/a21406.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "npc_ravenous_furbolgAI", "d6/d2e/a21410.html", "d6/d2e/a21410" ],
+    [ "npc_ravenous_furbolg", "d4/d7f/a21406.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "d4/d7f/a21406.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

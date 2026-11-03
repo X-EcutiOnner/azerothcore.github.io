@@ -1,5 +1,6 @@
 var a21870 =
 [
-    [ "npc_mei_francis_mountAI", "da/d7c/a21870.html#aa9886ead02754faebff8b21eeb85dee6", null ],
-    [ "CanBeSeen", "da/d7c/a21870.html#ad5e33495339a0315bc7b01351810157e", null ]
+    [ "npc_dalaran_mageAI", "d6/d47/a21874.html", "d6/d47/a21874" ],
+    [ "npc_dalaran_mage", "da/d7c/a21870.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
+    [ "GetAI", "da/d7c/a21870.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
 ];

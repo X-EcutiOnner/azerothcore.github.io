@@ -1,19 +1,19 @@
 var a02927 =
 [
-    [ "CliCommandHolder", "dd/d2c/a12446.html", "dd/d2c/a12446" ],
-    [ "PreviousSessionInfo", "d8/d48/a12450.html", "d8/d48/a12450" ],
-    [ "IWorld", "d3/dae/a12454.html", "d3/dae/a12454" ],
-    [ "ServerMessageType", "d5/dea/a02927.html#a08e6f7cfaf7929274a1908b0e95c798f", [
-      [ "SERVER_MSG_SHUTDOWN_TIME", "d5/dea/a02927.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c", null ],
-      [ "SERVER_MSG_RESTART_TIME", "d5/dea/a02927.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68", null ],
-      [ "SERVER_MSG_STRING", "d5/dea/a02927.html#a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517", null ],
-      [ "SERVER_MSG_SHUTDOWN_CANCELLED", "d5/dea/a02927.html#a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b", null ],
-      [ "SERVER_MSG_RESTART_CANCELLED", "d5/dea/a02927.html#a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131", null ]
-    ] ],
-    [ "SessionShutdownType", "d5/dea/a02927.html#aae5e1957bfba3d8ce7d80428b4f9d59a", [
-      [ "SHUTDOWN_TYPE_UNKNOWN", "d5/dea/a02927.html#aae5e1957bfba3d8ce7d80428b4f9d59aa6906496fb4f1c7a108e39d0369a13130", null ],
-      [ "SHUTDOWN_TYPE_SHUTDOWN", "d5/dea/a02927.html#aae5e1957bfba3d8ce7d80428b4f9d59aa6551b367fb6b7bef332e19bc951b8136", null ],
-      [ "SHUTDOWN_TYPE_RESTART", "d5/dea/a02927.html#aae5e1957bfba3d8ce7d80428b4f9d59aa11832999a9425e7c6236d254326e23e3", null ],
-      [ "SHUTDOWN_TYPE_ERROR", "d5/dea/a02927.html#aae5e1957bfba3d8ce7d80428b4f9d59aa09750d7988ff80c0f57faa99d72c70a7", null ]
+    [ "QueryResultFieldMetadata", "d4/d3a/a06162.html", "d4/d3a/a06162" ],
+    [ "Field", "d0/d64/a06166.html", "d0/d64/a06166" ],
+    [ "Binary", "d5/dea/a02927.html#a45c2b15f675e85c1f4462be09f27c59e", null ],
+    [ "is_chrono_v", "d5/dea/a02927.html#aa6a7b1e80be2ae7ec2efb76185ee7b44", null ],
+    [ "DatabaseFieldTypes", "d5/dea/a02927.html#a52858f4c2cc23ac9372ab466fb82c091", [
+      [ "Null", "d5/dea/a02927.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94", null ],
+      [ "Int8", "d5/dea/a02927.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539", null ],
+      [ "Int16", "d5/dea/a02927.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208", null ],
+      [ "Int32", "d5/dea/a02927.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31", null ],
+      [ "Int64", "d5/dea/a02927.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487", null ],
+      [ "Float", "d5/dea/a02927.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b", null ],
+      [ "Double", "d5/dea/a02927.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b", null ],
+      [ "Decimal", "d5/dea/a02927.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3", null ],
+      [ "Date", "d5/dea/a02927.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41", null ],
+      [ "Binary", "d5/dea/a02927.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd", null ]
     ] ]
 ];

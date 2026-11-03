@@ -1,7 +1,8 @@
 var a20090 =
 [
-    [ "OnRemove", "da/d77/a20090.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "da/d77/a20090.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "da/d77/a20090.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "da/d77/a20090.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "da/d77/a20090.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "da/d77/a20090.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "da/d77/a20090.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "da/d77/a20090.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "da/d77/a20090.html#a52db8081961566ef2002424f00b60189", null ]
 ];

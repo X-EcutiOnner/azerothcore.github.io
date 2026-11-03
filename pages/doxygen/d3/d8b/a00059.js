@@ -1,8 +1,8 @@
 var a00059 =
 [
-    [ "fixname2", "d3/d8b/a00059.html#ac0029be4572a61d00eb1435db5526a74", null ],
-    [ "fixnamen", "d3/d8b/a00059.html#abdc56edc46e0804c456749761cff8daf", null ],
-    [ "GetExtension", "d3/d8b/a00059.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
-    [ "GetPlainName", "d3/d8b/a00059.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
-    [ "GetPlainName", "d3/d8b/a00059.html#a939d4568b4058bf826a517f55cb963af", null ]
+    [ "Vec3D", "dc/d32/a30534.html", "dc/d32/a30534" ],
+    [ "AaBox3D", "d6/d17/a30538.html", "d6/d17/a30538" ],
+    [ "Vec2D", "db/d11/a30542.html", "db/d11/a30542" ],
+    [ "Quaternion", "d6/db5/a30546.html", "d6/db5/a30546" ],
+    [ "rotate", "d3/d8b/a00059.html#a36f9f3de1d3e6935da68df2c6e347a4d", null ]
 ];

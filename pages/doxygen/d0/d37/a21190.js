@@ -1,6 +1,6 @@
 var a21190 =
 [
-    [ "HandleProc", "d0/d37/a21190.html#a207dcb7134a23ca5a6e86acbdc283a27", null ],
-    [ "PrepareAuraScript", "d0/d37/a21190.html#a110cd9e8c18665e1e7b1ec4bc690ce75", null ],
-    [ "Register", "d0/d37/a21190.html#a867fa7224ccd0fe3b449d36b4607ba1e", null ]
+    [ "FilterTargets", "d0/d37/a21190.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "d0/d37/a21190.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "d0/d37/a21190.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

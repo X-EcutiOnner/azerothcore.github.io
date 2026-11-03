@@ -129,7 +129,7 @@ Protected Member Functions</h2></td></tr>
 Protected Attributes</h2></td></tr>
 <tr class="memitem:ad466c2751d8e9739db56f9f82d15deff"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../db/d26/a30018.html">MockArenaSeasonTeamRewarder</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d07/a30022.html#ad466c2751d8e9739db56f9f82d15deff">_mockRewarder</a></td></tr>
 <tr class="separator:ad466c2751d8e9739db56f9f82d15deff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6c043c7543dec59e640b379aec1ad0d0"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d1/d4c/a07734.html">ArenaSeasonRewardDistributor</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d07/a30022.html#a6c043c7543dec59e640b379aec1ad0d0">_distributor</a></td></tr>
+<tr class="memitem:a6c043c7543dec59e640b379aec1ad0d0"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d3/d49/a07738.html">ArenaSeasonRewardDistributor</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d07/a30022.html#a6c043c7543dec59e640b379aec1ad0d0">_distributor</a></td></tr>
 <tr class="separator:a6c043c7543dec59e640b379aec1ad0d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aef822a2309df5d13af31ea5a5da74df7"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d3/dae/a12454.html">IWorld</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d07/a30022.html#aef822a2309df5d13af31ea5a5da74df7">_previousWorld</a></td></tr>
 <tr class="separator:aef822a2309df5d13af31ea5a5da74df7"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -161,19 +161,19 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
-<div class="line"><span class="lineno">   36</span>        <a class="code hl_variable" href="../../d5/d07/a30022.html#aef822a2309df5d13af31ea5a5da74df7">_previousWorld</a> = std::move(<a class="code hl_define" href="../../d8/d2c/a05128.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>);</div>
+<div class="line"><span class="lineno">   36</span>        <a class="code hl_variable" href="../../d5/d07/a30022.html#aef822a2309df5d13af31ea5a5da74df7">_previousWorld</a> = std::move(<a class="code hl_define" href="../../d0/dcf/a05131.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>);</div>
 <div class="line"><span class="lineno">   37</span>        <a class="code hl_variable" href="../../d5/d07/a30022.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a> = new ::testing::NiceMock&lt;WorldMock&gt;();</div>
 <div class="line"><span class="lineno">   38</span>        ON_CALL(*<a class="code hl_variable" href="../../d5/d07/a30022.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a>, getIntConfig(::testing::_)).WillByDefault(::testing::Return(0));</div>
-<div class="line"><span class="lineno">   39</span>        ON_CALL(*<a class="code hl_variable" href="../../d5/d07/a30022.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a>, getIntConfig(<a class="code hl_enumvalue" href="../../d4/db9/a02918.html#a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad">CONFIG_LEGACY_ARENA_START_RATING</a>)).WillByDefault(::testing::Return(1500));</div>
-<div class="line"><span class="lineno">   40</span>        ON_CALL(*<a class="code hl_variable" href="../../d5/d07/a30022.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a>, getIntConfig(<a class="code hl_enumvalue" href="../../d4/db9/a02918.html#a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347">CONFIG_ARENA_START_RATING</a>)).WillByDefault(::testing::Return(0));</div>
-<div class="line"><span class="lineno">   41</span>        <a class="code hl_define" href="../../d8/d2c/a05128.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.reset(<a class="code hl_variable" href="../../d5/d07/a30022.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a>);</div>
+<div class="line"><span class="lineno">   39</span>        ON_CALL(*<a class="code hl_variable" href="../../d5/d07/a30022.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a>, getIntConfig(<a class="code hl_enumvalue" href="../../d9/de8/a02006.html#a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad">CONFIG_LEGACY_ARENA_START_RATING</a>)).WillByDefault(::testing::Return(1500));</div>
+<div class="line"><span class="lineno">   40</span>        ON_CALL(*<a class="code hl_variable" href="../../d5/d07/a30022.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a>, getIntConfig(<a class="code hl_enumvalue" href="../../d9/de8/a02006.html#a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347">CONFIG_ARENA_START_RATING</a>)).WillByDefault(::testing::Return(0));</div>
+<div class="line"><span class="lineno">   41</span>        <a class="code hl_define" href="../../d0/dcf/a05131.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.reset(<a class="code hl_variable" href="../../d5/d07/a30022.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a>);</div>
 <div class="line"><span class="lineno">   42</span> </div>
 <div class="line"><span class="lineno">   43</span>        <a class="code hl_variable" href="../../d5/d07/a30022.html#ad466c2751d8e9739db56f9f82d15deff">_mockRewarder</a> = std::make_unique&lt;MockArenaSeasonTeamRewarder&gt;();</div>
 <div class="line"><span class="lineno">   44</span>        <a class="code hl_variable" href="../../d5/d07/a30022.html#a6c043c7543dec59e640b379aec1ad0d0">_distributor</a> = std::make_unique&lt;ArenaSeasonRewardDistributor&gt;(<a class="code hl_variable" href="../../d5/d07/a30022.html#ad466c2751d8e9739db56f9f82d15deff">_mockRewarder</a>.get());</div>
 <div class="line"><span class="lineno">   45</span>    }</div>
-<div class="ttc" id="aa02918_html_a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347"><div class="ttname"><a href="../../d4/db9/a02918.html#a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347">CONFIG_ARENA_START_RATING</a></div><div class="ttdeci">@ CONFIG_ARENA_START_RATING</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:298</div></div>
-<div class="ttc" id="aa02918_html_a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad"><div class="ttname"><a href="../../d4/db9/a02918.html#a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad">CONFIG_LEGACY_ARENA_START_RATING</a></div><div class="ttdeci">@ CONFIG_LEGACY_ARENA_START_RATING</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:299</div></div>
-<div class="ttc" id="aa05128_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d8/d2c/a05128.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:337</div></div>
+<div class="ttc" id="aa02006_html_a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347"><div class="ttname"><a href="../../d9/de8/a02006.html#a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347">CONFIG_ARENA_START_RATING</a></div><div class="ttdeci">@ CONFIG_ARENA_START_RATING</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:298</div></div>
+<div class="ttc" id="aa02006_html_a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad"><div class="ttname"><a href="../../d9/de8/a02006.html#a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad">CONFIG_LEGACY_ARENA_START_RATING</a></div><div class="ttdeci">@ CONFIG_LEGACY_ARENA_START_RATING</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:299</div></div>
+<div class="ttc" id="aa05131_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d0/dcf/a05131.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:337</div></div>
 <div class="ttc" id="aa30022_html_a00b242d182fd7eacc93efc9d4f3e914f"><div class="ttname"><a href="../../d5/d07/a30022.html#a00b242d182fd7eacc93efc9d4f3e914f">ArenaSeasonRewardDistributorTest::_worldMock</a></div><div class="ttdeci">::testing::NiceMock&lt; WorldMock &gt; * _worldMock</div><div class="ttdef"><b>Definition:</b> ArenaSeasonRewardDistributorTest.cpp:55</div></div>
 <div class="ttc" id="aa30022_html_a6c043c7543dec59e640b379aec1ad0d0"><div class="ttname"><a href="../../d5/d07/a30022.html#a6c043c7543dec59e640b379aec1ad0d0">ArenaSeasonRewardDistributorTest::_distributor</a></div><div class="ttdeci">std::unique_ptr&lt; ArenaSeasonRewardDistributor &gt; _distributor</div><div class="ttdef"><b>Definition:</b> ArenaSeasonRewardDistributorTest.cpp:53</div></div>
 <div class="ttc" id="aa30022_html_ad466c2751d8e9739db56f9f82d15deff"><div class="ttname"><a href="../../d5/d07/a30022.html#ad466c2751d8e9739db56f9f82d15deff">ArenaSeasonRewardDistributorTest::_mockRewarder</a></div><div class="ttdeci">std::unique_ptr&lt; MockArenaSeasonTeamRewarder &gt; _mockRewarder</div><div class="ttdef"><b>Definition:</b> ArenaSeasonRewardDistributorTest.cpp:52</div></div>
@@ -206,7 +206,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   48</span>    {</div>
-<div class="line"><span class="lineno">   49</span>        <a class="code hl_define" href="../../d8/d2c/a05128.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a> = std::move(<a class="code hl_variable" href="../../d5/d07/a30022.html#aef822a2309df5d13af31ea5a5da74df7">_previousWorld</a>);</div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_define" href="../../d0/dcf/a05131.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a> = std::move(<a class="code hl_variable" href="../../d5/d07/a30022.html#aef822a2309df5d13af31ea5a5da74df7">_previousWorld</a>);</div>
 <div class="line"><span class="lineno">   50</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00054">_previousWorld</a>, and <a class="el" href="../../#l00337">sWorld</a>.</p>
@@ -224,7 +224,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d1/d4c/a07734.html">ArenaSeasonRewardDistributor</a>&gt; ArenaSeasonRewardDistributorTest::_distributor</td>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d3/d49/a07738.html">ArenaSeasonRewardDistributor</a>&gt; ArenaSeasonRewardDistributorTest::_distributor</td>
         </tr>
       </table>
   </td>
@@ -316,7 +316,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d07/a30022.html">ArenaSeasonRewardDistributorTest</a></li>
-    <li class="footer">Generated on Tue Oct 27 2026 00:03:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Nov 3 2026 02:36:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

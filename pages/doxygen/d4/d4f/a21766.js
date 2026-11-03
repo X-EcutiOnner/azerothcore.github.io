@@ -1,7 +1,7 @@
 var a21766 =
 [
-    [ "HandleScriptEffect", "d4/d4f/a21766.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
-    [ "PrepareSpellScript", "d4/d4f/a21766.html#a73b5af95ee4f593337c3803574d190db", null ],
-    [ "Register", "d4/d4f/a21766.html#a930de2343532feb50b86304f32269e4c", null ],
-    [ "Validate", "d4/d4f/a21766.html#ae9bfedf7e89487217ad927459e259c04", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d4/d4f/a21766.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "d4/d4f/a21766.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "d4/d4f/a21766.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "d4/d4f/a21766.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

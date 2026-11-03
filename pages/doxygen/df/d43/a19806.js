@@ -1,5 +1,5 @@
 var a19806 =
 [
-    [ "at_thaddius_entrance", "df/d43/a19806.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "_OnTrigger", "df/d43/a19806.html#a5e8954c265ead9ab5347b8921e5bd1bb", null ]
+    [ "at_naxxramas_hub_portal", "df/d43/a19806.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "df/d43/a19806.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

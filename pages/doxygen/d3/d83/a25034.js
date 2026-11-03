@@ -1,6 +1,8 @@
 var a25034 =
 [
-    [ "FilterTargets", "d3/d83/a25034.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
-    [ "PrepareSpellScript", "d3/d83/a25034.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
-    [ "Register", "d3/d83/a25034.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
+    [ "AfterApply", "d3/d83/a25034.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "d3/d83/a25034.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "d3/d83/a25034.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "d3/d83/a25034.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "d3/d83/a25034.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

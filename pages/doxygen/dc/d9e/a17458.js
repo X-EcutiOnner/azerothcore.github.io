@@ -1,11 +1,10 @@
 var a17458 =
 [
-    [ "npc_ghostly_priest", "dc/d9e/a17458.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
-    [ "AttackStart", "dc/d9e/a17458.html#acbc2eb708773500136deebb8542d36aa", null ],
-    [ "DoAction", "dc/d9e/a17458.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
-    [ "EnterEvadeMode", "dc/d9e/a17458.html#ac944330e3834bd4c65e30c595752746c", null ],
-    [ "JustDied", "dc/d9e/a17458.html#ae7ef06904aa2039d3552a2a62b846042", null ],
-    [ "JustEngagedWith", "dc/d9e/a17458.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
-    [ "Reset", "dc/d9e/a17458.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
-    [ "UpdateAI", "dc/d9e/a17458.html#a3722469ea1445f7dbaf834853a9ed654", null ]
+    [ "boss_frostsworn_general", "dc/d9e/a17458.html#adae1b1d60e78a33b875ac08312a454cf", null ],
+    [ "EnterEvadeMode", "dc/d9e/a17458.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
+    [ "JustDied", "dc/d9e/a17458.html#a14741cafce857fa819418ec3208c62fc", null ],
+    [ "JustEngagedWith", "dc/d9e/a17458.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
+    [ "Reset", "dc/d9e/a17458.html#a1576562e5fe2247235b152029aa8edce", null ],
+    [ "UpdateAI", "dc/d9e/a17458.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
+    [ "instance", "dc/d9e/a17458.html#ab04347cee4d7542171d622cfde936cb1", null ]
 ];

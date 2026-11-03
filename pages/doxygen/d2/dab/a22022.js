@@ -1,6 +1,6 @@
 var a22022 =
 [
-    [ "GhoulTargetCheck", "d2/dab/a22022.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "d2/dab/a22022.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "d2/dab/a22022.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_spiritual_insightAI", "d6/de3/a22026.html", "d6/de3/a22026" ],
+    [ "npc_spiritual_insight", "d2/dab/a22022.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "d2/dab/a22022.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

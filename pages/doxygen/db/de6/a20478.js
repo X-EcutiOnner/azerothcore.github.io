@@ -1,5 +1,7 @@
 var a20478 =
 [
-    [ "achievement_flame_leviathan_unbroken", "db/de6/a20478.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "db/de6/a20478.html#a4c2053f2e6d384f6d9cd7005a2a48121", null ]
+    [ "boss_freya_lifebinder", "db/de6/a20478.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "db/de6/a20478.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "db/de6/a20478.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_scheduler", "db/de6/a20478.html#a5c19f04cec9cd899feee7ce2878563cf", null ]
 ];

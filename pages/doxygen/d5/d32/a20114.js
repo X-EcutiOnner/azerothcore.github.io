@@ -1,8 +1,6 @@
 var a20114 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d5/d32/a20114.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
-    [ "CheckAchievementCriteriaMeet", "d5/d32/a20114.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
-    [ "SetData", "d5/d32/a20114.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
-    [ "_bjarngrimAchievement", "d5/d32/a20114.html#aba06463eb70c68716f571951395c6e2a", null ],
-    [ "_volkhanAchievement", "d5/d32/a20114.html#a52db8081961566ef2002424f00b60189", null ]
+    [ "boss_maiden_of_griefAI", "df/de9/a20118.html", "df/de9/a20118" ],
+    [ "boss_maiden_of_grief", "d5/d32/a20114.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
+    [ "GetAI", "d5/d32/a20114.html#af8d2e6392a0c73add801910945b2558e", null ]
 ];

@@ -1,4 +1,5 @@
 var a04205 =
 [
-    [ "AchievementCriteriaScript", "d9/d21/a10762.html", "d9/d21/a10762" ]
+    [ "achievement_commandscript", "dc/d2e/a12502.html", "dc/d2e/a12502" ],
+    [ "AddSC_achievement_commandscript", "d7/dca/a04205.html#afeb482a8cffe8416071764bc4e78bff2", null ]
 ];

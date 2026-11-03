@@ -1,22 +1,12 @@
 var a20102 =
 [
-    [ "boss_volkhan", "d9/d25/a20102.html#aed5ec3ddb0fcff2a96d8ef8c0135b728", null ],
-    [ "DoAction", "d9/d25/a20102.html#a51f1c6cf70be4f7c534b04c8663b3b46", null ],
-    [ "GetNextPos", "d9/d25/a20102.html#a26e6fea3ae1c0cd17bc57b9ff1ccefa6", null ],
-    [ "GoToAnvil", "d9/d25/a20102.html#a7c4550a151110cd0a1224629726f846e", null ],
-    [ "HasActiveGolem", "d9/d25/a20102.html#a31f94b488a7c659af73fd68f58d0a8ed", null ],
-    [ "JustDied", "d9/d25/a20102.html#acc8230a2351ae0fb2309071a03a32ded", null ],
-    [ "JustEngagedWith", "d9/d25/a20102.html#a455d3fa27b8923dc74a676e10ff3ec46", null ],
-    [ "JustSummoned", "d9/d25/a20102.html#a4028f7914da8580382348e444c0107c0", null ],
-    [ "KilledUnit", "d9/d25/a20102.html#aac8893e2caa527ad4949a88121d38075", null ],
-    [ "MovementInform", "d9/d25/a20102.html#ab17e425121949c9229b689676bd106c2", null ],
-    [ "Reset", "d9/d25/a20102.html#a3f12d464fa4d471f905962ed9fc4237e", null ],
-    [ "SpellHitTarget", "d9/d25/a20102.html#a87e14a0076a263b160d00d917e5fde2e", null ],
-    [ "UpdateAI", "d9/d25/a20102.html#a6ab1851c270e58d0157949fd323aa693", null ],
-    [ "PointID", "d9/d25/a20102.html#adfc8f7e938fdb89e3961bb8e5346ad49", null ],
-    [ "ShatteredCount", "d9/d25/a20102.html#ab309004bce968bb858722b6bb1936b97", null ],
-    [ "shatteredStompCast", "d9/d25/a20102.html#aa31c9cab5a6d0b053dcbb59eed250cff", null ],
-    [ "x", "d9/d25/a20102.html#a3c8fcf00e363b3c195ce29c49fbb12c8", null ],
-    [ "y", "d9/d25/a20102.html#aa61700b296b51c758e34753251f9c626", null ],
-    [ "z", "d9/d25/a20102.html#a78e5238c287a005f79764c221a38ee41", null ]
+    [ "boss_krystallusAI", "d9/d25/a20102.html#adfa2ab8498279937bf497292d6e7cba5", null ],
+    [ "JustDied", "d9/d25/a20102.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
+    [ "JustEngagedWith", "d9/d25/a20102.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
+    [ "KilledUnit", "d9/d25/a20102.html#acf9101c5b776820039fd80e5d6e0c138", null ],
+    [ "RemoveStonedEffect", "d9/d25/a20102.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
+    [ "Reset", "d9/d25/a20102.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
+    [ "UpdateAI", "d9/d25/a20102.html#a79095e25f1d9dac927f63cef67db60ec", null ],
+    [ "events", "d9/d25/a20102.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
+    [ "pInstance", "d9/d25/a20102.html#aec9cf7053476298f72dccf3bd1579c63", null ]
 ];

@@ -1,11 +1,7 @@
 var a06146 =
 [
-    [ "DatabaseWorker", "dc/d71/a06146.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
-    [ "~DatabaseWorker", "dc/d71/a06146.html#a170c873cbc917ece6a87591450dbe5a9", null ],
-    [ "DatabaseWorker", "dc/d71/a06146.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
-    [ "operator=", "dc/d71/a06146.html#a15e753c757da609b55a66380f526091a", null ],
-    [ "WorkerThread", "dc/d71/a06146.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
-    [ "_connection", "dc/d71/a06146.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
-    [ "_queue", "dc/d71/a06146.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
-    [ "_workerThread", "dc/d71/a06146.html#ad02a90f600f1996c053f36e186edf292", null ]
+    [ "~DatabaseUpdatePool", "dc/d71/a06146.html#ac0431838d5a43c5323356b4c93c21157", null ],
+    [ "DirectExecute", "dc/d71/a06146.html#a271fb5dffc1a589deaa5dd2fca756f82", null ],
+    [ "GetConnectionInfo", "dc/d71/a06146.html#aab5bbf60204663389a536ea84c885538", null ],
+    [ "Query", "dc/d71/a06146.html#a982c56cafb05142ed68d3e8a36a15ccd", null ]
 ];

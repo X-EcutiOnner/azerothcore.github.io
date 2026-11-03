@@ -1,8 +1,8 @@
 var a20706 =
 [
-    [ "HandleEffectPeriodic", "d1/d27/a20706.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnRemove", "d1/d27/a20706.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "d1/d27/a20706.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "d1/d27/a20706.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "d1/d27/a20706.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "FilterTargetsInitial", "d1/d27/a20706.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "HandleScriptEffect", "d1/d27/a20706.html#ac2cb57964b5bbd9dee532f6064f3c75d", null ],
+    [ "Load", "d1/d27/a20706.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "d1/d27/a20706.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "d1/d27/a20706.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

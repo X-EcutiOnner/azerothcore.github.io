@@ -1,12 +1,15 @@
 var a10822 =
 [
-    [ "BattlefieldScript", "db/d67/a10822.html#a8b975d588e1b44aecebcbbb1b547d02c", null ],
-    [ "IsDatabaseBound", "db/d67/a10822.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
-    [ "OnBattlefieldBeforeInvitePlayerToWar", "db/d67/a10822.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
-    [ "OnBattlefieldPlayerEnterZone", "db/d67/a10822.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
-    [ "OnBattlefieldPlayerJoinWar", "db/d67/a10822.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
-    [ "OnBattlefieldPlayerKill", "db/d67/a10822.html#a835001d04260cafe35021108e2ede851", null ],
-    [ "OnBattlefieldPlayerLeaveWar", "db/d67/a10822.html#a3e88ff9ad3772d558ab72123127a550e", null ],
-    [ "OnBattlefieldPlayerLeaveZone", "db/d67/a10822.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ],
-    [ "OnBattlefieldWarEnd", "db/d67/a10822.html#ab4ed21627320723b18a09dbc4c7f6baa", null ]
+    [ "AuctionHouseScript", "db/d67/a10822.html#a9295854f6aff87a3d0d2d50c35e88312", null ],
+    [ "OnAuctionAdd", "db/d67/a10822.html#a39d172304de882d87f87e14d1df107da", null ],
+    [ "OnAuctionExpire", "db/d67/a10822.html#a32e9d0decc7d341198accc84dbc4e1ab", null ],
+    [ "OnAuctionRemove", "db/d67/a10822.html#aed67026e34ef7e8dd4d975d0b0620463", null ],
+    [ "OnAuctionSuccessful", "db/d67/a10822.html#a57f1ea958e80a30031eded088dd3c8af", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionCancelledToBidderMail", "db/d67/a10822.html#a067633221bf8e745c9ae7c4abee13fba", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionExpiredMail", "db/d67/a10822.html#a622ac5271fb3a5ecf6444fb7fde17ed9", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionOutbiddedMail", "db/d67/a10822.html#acfc00998027675d76436d4d05f578f8c", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionSalePendingMail", "db/d67/a10822.html#a3bb999a955b7b8670264c859094fe9a0", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionSuccessfulMail", "db/d67/a10822.html#a0ae714b1349e20e4303523fd551874b3", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionWonMail", "db/d67/a10822.html#a050a47e57df42faa26c8d500b7848ecf", null ],
+    [ "OnBeforeAuctionHouseMgrUpdate", "db/d67/a10822.html#a6b7ee2a551424c5a8442ce089d0fd1fc", null ]
 ];

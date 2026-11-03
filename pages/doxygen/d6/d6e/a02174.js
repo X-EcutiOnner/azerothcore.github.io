@@ -1,6 +1,6 @@
 var a02174 =
 [
-    [ "instance_razorfen_downs", "dd/dae/a15570.html", "dd/dae/a15570" ],
-    [ "instance_razorfen_downs::instance_razorfen_downs_InstanceMapScript", "db/da1/a15574.html", "db/da1/a15574" ],
-    [ "AddSC_instance_razorfen_downs", "d6/d6e/a02174.html#a0db4d34b8ea594cf2808b93c362a49c4", null ]
+    [ "AddItemsSetItem", "d6/d6e/a02174.html#a02944420353f8ba883b80737f8e63137", null ],
+    [ "ItemCanGoIntoBag", "d6/d6e/a02174.html#a0c91640134a5241ec34f91bdec13c8ec", null ],
+    [ "RemoveItemsSetItem", "d6/d6e/a02174.html#a402c3dd64769702b750f96adff4b3a14", null ]
 ];

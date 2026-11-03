@@ -1,7 +1,7 @@
 var a17138 =
 [
-    [ "HandleDispel", "d5/dd2/a17138.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "d5/dd2/a17138.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "d5/dd2/a17138.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "d5/dd2/a17138.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "FilterTargets", "d5/dd2/a17138.html#a304da18e36ff67c34b80ab39583f8c96", null ],
+    [ "HandleScript", "d5/dd2/a17138.html#adf99670bcf862288f513d2a26cbc256a", null ],
+    [ "PrepareSpellScript", "d5/dd2/a17138.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
+    [ "Register", "d5/dd2/a17138.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
 ];

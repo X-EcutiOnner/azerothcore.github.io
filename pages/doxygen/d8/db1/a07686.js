@@ -1,8 +1,10 @@
 var a07686 =
 [
-    [ "nbTowerCannonBottom", "d8/db1/a07686.html#a06e8dcf63efd928b72f3ec7d433ccb89", null ],
-    [ "nbTurretTop", "d8/db1/a07686.html#a5a728dccad89da190131cd93b62390b7", null ],
-    [ "TowerCannonBottom", "d8/db1/a07686.html#a21fa09356b3349bf45865aa3f0920268", null ],
-    [ "towerEntry", "d8/db1/a07686.html#a37e171a06a6e7bf5c0832417c597c2e1", null ],
-    [ "TurretTop", "d8/db1/a07686.html#a6849ba6967fa275950da9fec16df9bec", null ]
+    [ "CreatureBottom", "d8/db1/a07686.html#aaa8fe59aa58bf02934bf87f636582637", null ],
+    [ "CreatureTop", "d8/db1/a07686.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
+    [ "GameObject", "d8/db1/a07686.html#abc26a328692fc048d9040c44f360f4c4", null ],
+    [ "nbCreatureBottom", "d8/db1/a07686.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
+    [ "nbCreatureTop", "d8/db1/a07686.html#a38ab7536e0682efd7080b823569d504b", null ],
+    [ "nbObject", "d8/db1/a07686.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
+    [ "towerEntry", "d8/db1/a07686.html#a1c0edf97a599773b688954f2e966e794", null ]
 ];

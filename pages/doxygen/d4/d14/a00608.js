@@ -1,28 +1,47 @@
 var a00608 =
 [
-    [ "tf_tower_world_state", "dc/d6a/a22782.html", "dc/d6a/a22782" ],
-    [ "OPvPCapturePointTF", "de/de1/a22786.html", "de/de1/a22786" ],
-    [ "OutdoorPvPTF", "df/dff/a22790.html", "df/dff/a22790" ],
-    [ "TF_CAPTURE_BUFF", "d4/d14/a00608.html#a82bc235ec6d43b48511d1b3d903a934b", null ],
-    [ "OutdoorPvPTF_TowerType", "d4/d14/a00608.html#a7a4347e10a530d56e3c3ae66a5eae999", [
-      [ "TF_TOWER_NW", "d4/d14/a00608.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16", null ],
-      [ "TF_TOWER_N", "d4/d14/a00608.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b", null ],
-      [ "TF_TOWER_NE", "d4/d14/a00608.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97", null ],
-      [ "TF_TOWER_SE", "d4/d14/a00608.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65", null ],
-      [ "TF_TOWER_S", "d4/d14/a00608.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0", null ],
-      [ "TF_TOWER_NUM", "d4/d14/a00608.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3", null ]
+    [ "SymbolPair", "dc/d69/a05614.html", "dc/d69/a05614" ],
+    [ "SymbolDetail", "d4/dff/a05618.html", "d4/dff/a05618" ],
+    [ "WheatyExceptionReport", "d4/dc8/a05622.html", "d4/dc8/a05622" ],
+    [ "countof", "d4/d14/a00608.html#a8b8500b4792f1666a4ae9b19ce264875", null ],
+    [ "WER_LARGE_BUFFER_SIZE", "d4/d14/a00608.html#a2c952cc0fe3c670bb1d829b51e483755", null ],
+    [ "WER_MAX_ARRAY_ELEMENTS_COUNT", "d4/d14/a00608.html#a5ca750f3bbda2b3eab451528de39aa3c", null ],
+    [ "WER_MAX_NESTING_LEVEL", "d4/d14/a00608.html#a5562a6136a28726d82fc486fd3b81ab1", null ],
+    [ "WER_SMALL_BUFFER_SIZE", "d4/d14/a00608.html#a2c2a64833d9c531c4cf0873d15733a66", null ],
+    [ "SymbolPairs", "d4/d14/a00608.html#a5fe525a539348aba0a42a9832dfceef1", null ],
+    [ "BasicType", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526", [
+      [ "btNoType", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526ac3dbdf6b8d103138e3318c38073f7b97", null ],
+      [ "btVoid", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526a007a4bf5bd78f5389652358b7ac8596d", null ],
+      [ "btChar", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526a9b23f8704866c0e75b3471a5f2f5a93b", null ],
+      [ "btWChar", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526af1a861dbf80e81561363604629189804", null ],
+      [ "btInt", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526add8226f5758099a1441724364e5993f6", null ],
+      [ "btUInt", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526a425d00b8975d8d8250fc7d878a2224ab", null ],
+      [ "btFloat", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526af227727df84cd9c4731d00bf548af774", null ],
+      [ "btBCD", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526a28fb64a8f6457e9d125ce3c58f0d9f45", null ],
+      [ "btBool", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526ad49f3758e70cf56d6995beedd04131ac", null ],
+      [ "btLong", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526a86fe058be72472cc8e5e12da41b3063d", null ],
+      [ "btULong", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526a7c06ab11284b9cd2f76df42e7bebfb38", null ],
+      [ "btCurrency", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526ae97aff1b319f95719407a49daa6d3161", null ],
+      [ "btDate", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526ac6c6e7b6f7b4e3ec4854d87771d66ed8", null ],
+      [ "btVariant", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526a08e6f9a73dcb061bc8c3ceed8c533397", null ],
+      [ "btComplex", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526ad21dd2fec96e57eff6ff7c03dcff1e68", null ],
+      [ "btBit", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526ac1c585ea4212c17f949b7d730a5e8001", null ],
+      [ "btBSTR", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526a31037e1401828b908d2a9acf0e60960b", null ],
+      [ "btHresult", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526aead6fd771496ad5d1954f8338f1fdafe", null ],
+      [ "btStdString", "d4/d14/a00608.html#af0ea7a682b4d48afbc37a32234271526a0619304b734323c4985f439d13b530ad", null ]
     ] ],
-    [ "TFTowerStates", "d4/d14/a00608.html#a5815248809b8fd06bd664886846a7126", [
-      [ "TF_TOWERSTATE_N", "d4/d14/a00608.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f", null ],
-      [ "TF_TOWERSTATE_H", "d4/d14/a00608.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1", null ],
-      [ "TF_TOWERSTATE_A", "d4/d14/a00608.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d", null ]
+    [ "DataKind", "d4/d14/a00608.html#ace34b43f7a85070c2f233cbb13e362bf", [
+      [ "DataIsUnknown", "d4/d14/a00608.html#ace34b43f7a85070c2f233cbb13e362bfa3157bbb0d66cc4bc0ed83c406f168b75", null ],
+      [ "DataIsLocal", "d4/d14/a00608.html#ace34b43f7a85070c2f233cbb13e362bfa4b96c675dc4859521127b63697f1a304", null ],
+      [ "DataIsStaticLocal", "d4/d14/a00608.html#ace34b43f7a85070c2f233cbb13e362bfaa3f51b9fc8340e1aefe320dfc751091c", null ],
+      [ "DataIsParam", "d4/d14/a00608.html#ace34b43f7a85070c2f233cbb13e362bfaffec5f2aae03730e7de65988215e8141", null ],
+      [ "DataIsObjectPtr", "d4/d14/a00608.html#ace34b43f7a85070c2f233cbb13e362bfabf5e18782dfdb2264f25fdb53e958664", null ],
+      [ "DataIsFileStatic", "d4/d14/a00608.html#ace34b43f7a85070c2f233cbb13e362bfae1d71e110f4fc21f57e44b0f9265cff8", null ],
+      [ "DataIsGlobal", "d4/d14/a00608.html#ace34b43f7a85070c2f233cbb13e362bfa6a3d4d84eeedaae86688efb735f914df", null ],
+      [ "DataIsMember", "d4/d14/a00608.html#ace34b43f7a85070c2f233cbb13e362bfaad96ff0f53b5dc26c0cacd4f5db839a5", null ],
+      [ "DataIsStaticMember", "d4/d14/a00608.html#ace34b43f7a85070c2f233cbb13e362bfa6603206b61dfcc7d63a0e72985569329", null ],
+      [ "DataIsConstant", "d4/d14/a00608.html#ace34b43f7a85070c2f233cbb13e362bfad00151bfd9df40ccb917b378ca4386dd", null ]
     ] ],
-    [ "OutdoorPvPTFBuffZones", "d4/d14/a00608.html#a6b09030102f8c0dbb4b0e6bbfdee9b24", null ],
-    [ "OutdoorPvPTFBuffZonesNum", "d4/d14/a00608.html#acde5c9331776adb4ed27c2319476e550", null ],
-    [ "TF_ALLY_QUEST", "d4/d14/a00608.html#a3967b7bb2df0e330fbd21a68d557b19a", null ],
-    [ "TF_HORDE_QUEST", "d4/d14/a00608.html#a1bbe00a4cf0ae9f6750d23ef10539c0a", null ],
-    [ "TF_LOCK_TIME", "d4/d14/a00608.html#a925c2f6bf9c7a6d1b694382b888fa85f", null ],
-    [ "TF_LOCK_TIME_UPDATE", "d4/d14/a00608.html#a9ef7be226d98726081fd3cb435d223b5", null ],
-    [ "TFCapturePoints", "d4/d14/a00608.html#a19e9cf9859a7578f154dcdcfa0670620", null ],
-    [ "TFTowerWorldStates", "d4/d14/a00608.html#ac5dbb8989285178cfea88af6f03dd6a6", null ]
+    [ "g_WheatyExceptionReport", "d4/d14/a00608.html#a9fff8ce906026fe3179e50e97182d90d", null ],
+    [ "rgBaseType", "d4/d14/a00608.html#a1613d539e1a6f550edee20a905f7fcce", null ]
 ];

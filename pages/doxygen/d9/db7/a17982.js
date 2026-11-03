@@ -1,8 +1,6 @@
 var a17982 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "da/ddf/a17986.html", "da/ddf/a17986" ],
-    [ "npc_muradin_bronzebeard_icc", "d9/db7/a17982.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
-    [ "GetAI", "d9/db7/a17982.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
-    [ "OnGossipHello", "d9/db7/a17982.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
-    [ "OnGossipSelect", "d9/db7/a17982.html#a46c4893be723a848d985ff55e28d55a2", null ]
+    [ "ModAuraValue", "d9/db7/a17982.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "d9/db7/a17982.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "d9/db7/a17982.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

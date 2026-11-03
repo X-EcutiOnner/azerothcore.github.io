@@ -1,12 +1,10 @@
 var a10794 =
 [
-    [ "AllMapScript", "df/d4a/a10794.html#a84f63a79158f667f291070d0cbb553ea", null ],
-    [ "CanSendObjectUpdatesToPlayer", "df/d4a/a10794.html#a9748ad2d03db713c1f5d856ebf1329ad", null ],
-    [ "OnBeforeCreateInstanceScript", "df/d4a/a10794.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
-    [ "OnCreateMap", "df/d4a/a10794.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
-    [ "OnDestroyInstance", "df/d4a/a10794.html#a990130b4cd594c1cd04368aea300a49e", null ],
-    [ "OnDestroyMap", "df/d4a/a10794.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
-    [ "OnMapUpdate", "df/d4a/a10794.html#a6edbb719d998c57caba09eef7ad559e0", null ],
-    [ "OnPlayerEnterAll", "df/d4a/a10794.html#a42e4af596effb07a00b353164f32cec9", null ],
-    [ "OnPlayerLeaveAll", "df/d4a/a10794.html#adcfd501bee055317bff2a63ef28c3eab", null ]
+    [ "AllItemScript", "df/d4a/a10794.html#a705a1e113fe6b22608a6b560e477334f", null ],
+    [ "CanItemExpire", "df/d4a/a10794.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
+    [ "CanItemQuestAccept", "df/d4a/a10794.html#a545e2bc7436a064146025954eaf5ae92", null ],
+    [ "CanItemRemove", "df/d4a/a10794.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
+    [ "CanItemUse", "df/d4a/a10794.html#a89d237f426840658e4423fb9cc7428db", null ],
+    [ "OnItemGossipSelect", "df/d4a/a10794.html#a7157f72c6d09988b60480d1671892cde", null ],
+    [ "OnItemGossipSelectCode", "df/d4a/a10794.html#ae7409c8dff580bd85fbf82272324efea", null ]
 ];

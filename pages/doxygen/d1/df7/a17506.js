@@ -1,8 +1,7 @@
 var a17506 =
 [
-    [ "npc_hor_raging_ghoul", "d1/df7/a17506.html#a733d4ad92566a13ace3427aae6696bac", null ],
-    [ "JustDied", "d1/df7/a17506.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
-    [ "Reset", "d1/df7/a17506.html#aad6424be7dd53b59016963cefffe40e5", null ],
-    [ "UpdateAI", "d1/df7/a17506.html#af4024393b318ca702c6652e042036b26", null ],
-    [ "leaped", "d1/df7/a17506.html#a69dea538a87ae47de221768b6de42315", null ]
+    [ "UtherBatteredHiltEvent", "d1/df7/a17506.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d1/df7/a17506.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d1/df7/a17506.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d1/df7/a17506.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

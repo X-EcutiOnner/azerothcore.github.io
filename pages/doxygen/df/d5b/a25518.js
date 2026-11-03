@@ -1,7 +1,7 @@
 var a25518 =
 [
-    [ "CheckIfLanceEquipped", "df/d5b/a25518.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
-    [ "PrepareSpellScript", "df/d5b/a25518.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
-    [ "Register", "df/d5b/a25518.html#a4421ceaedce16777f8f04b9c40855782", null ],
-    [ "Validate", "df/d5b/a25518.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
+    [ "HandleScriptEffect", "df/d5b/a25518.html#a4444d5f146e875bae40edbcc8ed408cb", null ],
+    [ "PrepareSpellScript", "df/d5b/a25518.html#af4320dd6567d8c9cb2a1492095a98459", null ],
+    [ "Register", "df/d5b/a25518.html#ab9360c3a883dd5a7df9836306d9762ec", null ],
+    [ "Validate", "df/d5b/a25518.html#a51ebef5e7fff9dfaab553ecae7be732f", null ]
 ];

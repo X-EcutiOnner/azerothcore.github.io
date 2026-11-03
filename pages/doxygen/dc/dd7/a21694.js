@@ -1,7 +1,6 @@
 var a21694 =
 [
-    [ "npc_azure_raider", "dc/dd7/a21694.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
-    [ "Reset", "dc/dd7/a21694.html#a3579986a1769467cb17d3b15242e0551", null ],
-    [ "UpdateAI", "dc/dd7/a21694.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
-    [ "_events", "dc/dd7/a21694.html#a8d25c785974cb8c50b55b547b982b06f", null ]
+    [ "HandleEffectPeriodic", "dc/dd7/a21694.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "dc/dd7/a21694.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "dc/dd7/a21694.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

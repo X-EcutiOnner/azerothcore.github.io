@@ -1,6 +1,6 @@
 var a18190 =
 [
-    [ "PrepareSpellScript", "de/d93/a18190.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "de/d93/a18190.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "de/d93/a18190.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "IgbTeleportOnVictoryCheck", "de/d93/a18190.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "de/d93/a18190.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "de/d93/a18190.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

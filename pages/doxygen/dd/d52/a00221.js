@@ -1,23 +1,11 @@
 var a00221 =
 [
-    [ "instance_black_temple", "df/dfc/a23258.html", "df/dfc/a23258" ],
-    [ "instance_black_temple::instance_black_temple_InstanceMapScript", "dc/df8/a23262.html", "dc/df8/a23262" ],
-    [ "spell_black_template_harpooners_mark_aura", "d8/d23/a23266.html", "d8/d23/a23266" ],
-    [ "spell_black_template_free_friend", "d2/d26/a23270.html", "d2/d26/a23270" ],
-    [ "spell_black_temple_curse_of_the_bleakheart_aura", "d5/d83/a23274.html", "d5/d83/a23274" ],
-    [ "spell_black_temple_skeleton_shot_aura", "d3/d91/a23278.html", "d3/d91/a23278" ],
-    [ "spell_black_temple_wyvern_sting_aura", "dc/dad/a23282.html", "dc/dad/a23282" ],
-    [ "spell_black_temple_charge_rage_aura", "db/dd3/a23286.html", "db/dd3/a23286" ],
-    [ "spell_black_temple_shadow_inferno_aura", "d7/d56/a23290.html", "d7/d56/a23290" ],
-    [ "spell_black_temple_spell_absorption_aura", "de/df5/a23294.html", "de/df5/a23294" ],
-    [ "spell_black_temple_bloodbolt", "d0/d55/a23298.html", "d0/d55/a23298" ],
-    [ "spell_black_temple_consuming_strikes_aura", "d7/d72/a23302.html", "d7/d72/a23302" ],
-    [ "spell_black_temple_curse_of_vitality_aura", "df/d6f/a23306.html", "df/d6f/a23306" ],
-    [ "spell_black_temple_summon_shadowfiends", "de/d5b/a23310.html", "de/d5b/a23310" ],
-    [ "spell_black_temple_l5_arcane_charge", "df/da3/a23314.html", "df/da3/a23314" ],
-    [ "AddSC_instance_black_temple", "dd/d52/a00221.html#a15f766c45ce62741982e2a1711514aa8", null ],
-    [ "boundaries", "dd/d52/a00221.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "dd/d52/a00221.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "dd/d52/a00221.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "summonData", "dd/d52/a00221.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
+    [ "SpellCritDamageBonusOrderTest", "de/db6/a30158.html", null ],
+    [ "CorrectCritOrder", "dd/d52/a00221.html#ab55aeffce172b7e667fdcb86ba06d954", null ],
+    [ "OldWrongCritOrder", "dd/d52/a00221.html#ae0ad4b3cd3c2381976fd6106fc4f8088", null ],
+    [ "TEST_F", "dd/d52/a00221.html#aa932f572f1a8831ecf4bc5475b7598fb", null ],
+    [ "TEST_F", "dd/d52/a00221.html#a2f98b8f734392902e0cd2dc96a8ef637", null ],
+    [ "TEST_F", "dd/d52/a00221.html#ae30b40dccd8a24d78d006e8e9ac63f19", null ],
+    [ "TEST_F", "dd/d52/a00221.html#a4172aa23985d10af03e6a92c7fa9dd2e", null ],
+    [ "TEST_F", "dd/d52/a00221.html#ad8c6026ca0167ae177e227997c8e2388", null ]
 ];

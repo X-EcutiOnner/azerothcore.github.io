@@ -1,7 +1,5 @@
 var a21722 =
 [
-    [ "npc_violet_hold_defense_system", "d6/d28/a21722.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "d6/d28/a21722.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "d6/d28/a21722.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
-    [ "_tickCount", "d6/d28/a21722.html#a4a7504069b05480428278fd09d5e59ba", null ]
+    [ "npc_nerubar_victim", "d6/d28/a21722.html#a218a0091d3dd5c237f49f7b2797c54d7", null ],
+    [ "JustDied", "d6/d28/a21722.html#a969b3f15d0017978e77d34131815c7e4", null ]
 ];

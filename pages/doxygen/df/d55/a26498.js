@@ -1,7 +1,7 @@
 var a26498 =
 [
-    [ "HandleDummy", "df/d55/a26498.html#a14bf65690e857c6a16dfcd8e036abbbb", null ],
-    [ "PrepareSpellScript", "df/d55/a26498.html#a2ec497a2dfe2364ad9011aba8532e73c", null ],
-    [ "Register", "df/d55/a26498.html#afca09c1e1c5389db67d081d6e033f025", null ],
-    [ "Validate", "df/d55/a26498.html#af54f926b69002b2277dad34e1773e450", null ]
+    [ "HandleDummy", "df/d55/a26498.html#a334563491c3cbb9daa9d97dad738e9e5", null ],
+    [ "PrepareSpellScript", "df/d55/a26498.html#a69fe453f3c6764c3977c539d5fc71049", null ],
+    [ "Register", "df/d55/a26498.html#af81469f371224a3180d73b3cf8cf001a", null ],
+    [ "Validate", "df/d55/a26498.html#af0ab473a4ec7f1eebb70d0f2344de8ca", null ]
 ];

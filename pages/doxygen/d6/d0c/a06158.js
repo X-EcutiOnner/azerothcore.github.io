@@ -1,10 +1,8 @@
 var a06158 =
 [
-    [ "Alias", "d6/d0c/a06158.html#ac885c365760ade7b0c74e5fead82a210", null ],
-    [ "Index", "d6/d0c/a06158.html#ad841e71a9394fc114a35f0234ef581b6", null ],
-    [ "Name", "d6/d0c/a06158.html#af8b9f87733157401cff6b0846a545fa4", null ],
-    [ "TableAlias", "d6/d0c/a06158.html#aa9ca2448829defe395b479a9a4ca3c3e", null ],
-    [ "TableName", "d6/d0c/a06158.html#ada6594cc2aa67c8d34bdb45e757fda8c", null ],
-    [ "Type", "d6/d0c/a06158.html#a76dec8aee42dce6698e4fda0ee1e3eba", null ],
-    [ "TypeName", "d6/d0c/a06158.html#aba1b90e43c4f4c545f76568cae86ad43", null ]
+    [ "DatabaseWorkerPoolAdapter", "d6/d0c/a06158.html#afaf15e7b5a8305b7766452f68b0e5763", null ],
+    [ "DirectExecute", "d6/d0c/a06158.html#a001df1f9dead46304cad902e1e7689d1", null ],
+    [ "GetConnectionInfo", "d6/d0c/a06158.html#ab823ad038f84c114cb85764320a3f546", null ],
+    [ "Query", "d6/d0c/a06158.html#abe05d7ef60e96d2a054c430af6913c3f", null ],
+    [ "_pool", "d6/d0c/a06158.html#acffa90573e6f9d4889d62f4c9d57b28b", null ]
 ];

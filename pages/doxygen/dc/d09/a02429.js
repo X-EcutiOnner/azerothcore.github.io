@@ -1,6 +1,5 @@
 var a02429 =
 [
-    [ "CharacterDatabase", "dc/d09/a02429.html#a7e7534bc66d79434bd280b77cb124eec", null ],
-    [ "LoginDatabase", "dc/d09/a02429.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
-    [ "WorldDatabase", "dc/d09/a02429.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
+    [ "Acore::BattlegroundChatBuilder", "d4/d1e/a07774.html", "d4/d1e/a07774" ],
+    [ "Acore::Battleground2ChatBuilder", "df/d49/a07778.html", "df/d49/a07778" ]
 ];

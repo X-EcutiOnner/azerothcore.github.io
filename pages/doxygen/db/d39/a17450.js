@@ -1,8 +1,11 @@
 var a17450 =
 [
-    [ "npc_hor_leaderAI", "de/d40/a17454.html", "de/d40/a17454" ],
-    [ "npc_hor_leader", "db/d39/a17450.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "db/d39/a17450.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "db/d39/a17450.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "db/d39/a17450.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "npc_spectral_footman", "db/d39/a17450.html#ab12174cbf246178b52c074024453015e", null ],
+    [ "AttackStart", "db/d39/a17450.html#a0fe7529c47d56f67b15023bc432f0498", null ],
+    [ "DoAction", "db/d39/a17450.html#a9a81be4f5c159e64ba0f8926ea095f81", null ],
+    [ "EnterEvadeMode", "db/d39/a17450.html#afc51e0562045028af7161ea66e7be9f0", null ],
+    [ "JustDied", "db/d39/a17450.html#ae4292ffa4b9e142b41e58d31338b97b5", null ],
+    [ "JustEngagedWith", "db/d39/a17450.html#a9d8d723b403035660b78c332d5813d3f", null ],
+    [ "Reset", "db/d39/a17450.html#a1c3612a7d9ac3076392c5c22e4e0a73e", null ],
+    [ "UpdateAI", "db/d39/a17450.html#af76de9237937199dfa715a445b0060c3", null ]
 ];

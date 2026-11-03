@@ -1,9 +1,7 @@
 var a19298 =
 [
-    [ "FilterTargets", "d9/d1e/a19298.html#a3acf306a9cae592d93a909ee0162777f", null ],
-    [ "HandleMirror", "d9/d1e/a19298.html#aa37be5d7e140afe7ad9ef51b5d173b98", null ],
-    [ "PrepareSpellScript", "d9/d1e/a19298.html#a5344b059a1e2543e0da03dfce3d36bf4", null ],
-    [ "Register", "d9/d1e/a19298.html#a7e90d4e97a3e9a07edd6a482e8faa5c7", null ],
-    [ "Validate", "d9/d1e/a19298.html#a0e3138957535ddfebe25aa44d917d942", null ],
-    [ "_targets", "d9/d1e/a19298.html#a93afed08cf6714c896d2619e0fa0536f", null ]
+    [ "HandleQuestComplete", "d9/d1e/a19298.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "d9/d1e/a19298.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "d9/d1e/a19298.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "d9/d1e/a19298.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

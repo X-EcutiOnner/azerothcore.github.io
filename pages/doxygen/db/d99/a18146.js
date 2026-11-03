@@ -1,7 +1,10 @@
 var a18146 =
 [
-    [ "npc_gunship_boarding_leaderAI", "db/d99/a18146.html#ac20099905fd6fddda2561b88cf077b77", null ],
-    [ "JustEngagedWith", "db/d99/a18146.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
-    [ "UpdateAI", "db/d99/a18146.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
-    [ "_events", "db/d99/a18146.html#affb899bbaa288e72a48d5518367b023d", null ]
+    [ "npc_gunship_gunnerAI", "db/d99/a18146.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
+    [ "AttackStart", "db/d99/a18146.html#ac21b90c1892c15882794384517ef9fd2", null ],
+    [ "CanAIAttack", "db/d99/a18146.html#aef351305ef34fa316809697125a3bc9a", null ],
+    [ "MovementInform", "db/d99/a18146.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
+    [ "UpdateAI", "db/d99/a18146.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
+    [ "anyValid", "db/d99/a18146.html#a00c7dc23618c60826241133a0067c1c4", null ],
+    [ "checkTimer", "db/d99/a18146.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
 ];

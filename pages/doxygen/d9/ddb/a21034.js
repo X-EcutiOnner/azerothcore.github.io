@@ -1,8 +1,8 @@
 var a21034 =
 [
-    [ "npc_pummeller", "d9/ddb/a21034.html#a0c67bf3781fde8d4580aad093bf87291", null ],
-    [ "Reset", "d9/ddb/a21034.html#abdb3f0984c03780aee9dd55496fc7835", null ],
-    [ "UpdateAI", "d9/ddb/a21034.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
-    [ "_instance", "d9/ddb/a21034.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
-    [ "_scheduler", "d9/ddb/a21034.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
+    [ "OnPeriodic", "d9/ddb/a21034.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
+    [ "OnRemove", "d9/ddb/a21034.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
+    [ "PrepareAuraScript", "d9/ddb/a21034.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
+    [ "Register", "d9/ddb/a21034.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
+    [ "Validate", "d9/ddb/a21034.html#aa56622a1e57c157260940023a6c70a35", null ]
 ];

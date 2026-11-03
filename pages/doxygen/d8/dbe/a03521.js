@@ -1,12 +1,21 @@
 var a03521 =
 [
-    [ "Escort_Waypoint", "d7/ddc/a06679.html", "d7/ddc/a06679" ],
-    [ "npc_escortAI", "dd/daa/a06683.html", "dd/daa/a06683" ],
-    [ "DEFAULT_MAX_PLAYER_DISTANCE", "d8/dbe/a03521.html#ad23dc39ce2da634e67360fab90e3b9e2", null ],
-    [ "eEscortState", "d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08a", [
-      [ "STATE_ESCORT_NONE", "d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5", null ],
-      [ "STATE_ESCORT_ESCORTING", "d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92", null ],
-      [ "STATE_ESCORT_RETURNING", "d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48", null ],
-      [ "STATE_ESCORT_PAUSED", "d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6", null ]
-    ] ]
+    [ "LocationXYZ", "d4/d55/a14150.html", "d4/d55/a14150" ],
+    [ "npc_rinji", "dd/d00/a14154.html", "dd/d00/a14154" ],
+    [ "npc_rinji::npc_rinjiAI", "da/de3/a14158.html", "da/de3/a14158" ],
+    [ "Rinji", "d8/dbe/a03521.html#ab769c87cc823749a5fe9cc0ed4f59133", [
+      [ "SAY_RIN_BY_OUTRUNNER", "d8/dbe/a03521.html#ab769c87cc823749a5fe9cc0ed4f59133a3aaaf930cf9ab49ca1d76cc6ed5e766c", null ],
+      [ "SAY_RIN_FREE", "d8/dbe/a03521.html#ab769c87cc823749a5fe9cc0ed4f59133a18a3ea60620bdbd5ef82292e56df01d3", null ],
+      [ "SAY_RIN_HELP", "d8/dbe/a03521.html#ab769c87cc823749a5fe9cc0ed4f59133af6414cba0564a077856ea0ee01cde0e0", null ],
+      [ "SAY_RIN_COMPLETE", "d8/dbe/a03521.html#ab769c87cc823749a5fe9cc0ed4f59133a2e8b271174b0c30e02c7d465daca4632", null ],
+      [ "SAY_RIN_PROGRESS_1", "d8/dbe/a03521.html#ab769c87cc823749a5fe9cc0ed4f59133a8f06b066d2b30fd7440ab8d0c0450aa5", null ],
+      [ "SAY_RIN_PROGRESS_2", "d8/dbe/a03521.html#ab769c87cc823749a5fe9cc0ed4f59133a9d77a031db4f3a40f412949a95be80c5", null ],
+      [ "QUEST_RINJI_TRAPPED", "d8/dbe/a03521.html#ab769c87cc823749a5fe9cc0ed4f59133aeb5734ecb62da42fe708673351c073e8", null ],
+      [ "NPC_RANGER", "d8/dbe/a03521.html#ab769c87cc823749a5fe9cc0ed4f59133aec7fcfc9b715f5aeadff781115a0e69e", null ],
+      [ "NPC_OUTRUNNER", "d8/dbe/a03521.html#ab769c87cc823749a5fe9cc0ed4f59133abc36fa763814aa6d572492b462e191a2", null ],
+      [ "GO_RINJI_CAGE", "d8/dbe/a03521.html#ab769c87cc823749a5fe9cc0ed4f59133a8b71e8dfde4865f3891f672d000410fb", null ]
+    ] ],
+    [ "AddSC_hinterlands", "d8/dbe/a03521.html#a0b6f7497a7db75be5fe9d90d14c46720", null ],
+    [ "AmbushMoveTo", "d8/dbe/a03521.html#aa2e998c0f3d966c32be9106221fe957c", null ],
+    [ "AmbushSpawn", "d8/dbe/a03521.html#ace1d91ebeb7be507ec886616fad7eef4", null ]
 ];

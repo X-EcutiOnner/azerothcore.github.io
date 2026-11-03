@@ -1,7 +1,6 @@
 var a20026 =
 [
-    [ "Apply", "de/dda/a20026.html#add8e95d38b0c437833c11cded72fe2a7", null ],
-    [ "PrepareAuraScript", "de/dda/a20026.html#ad2112b571d97e537983b4d11207015e6", null ],
-    [ "Register", "de/dda/a20026.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
-    [ "Validate", "de/dda/a20026.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
+    [ "PrepareSpellScript", "de/dda/a20026.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "de/dda/a20026.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "de/dda/a20026.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

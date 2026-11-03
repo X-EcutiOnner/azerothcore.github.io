@@ -1,13 +1,12 @@
 var a01493 =
 [
-    [ "npc_king_magni_bronzebeard", "d0/d46/a14162.html", "d0/d46/a14162" ],
-    [ "KingMagniBronzebeard", "d2/d41/a01493.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e", [
-      [ "SOUND_AGGRO", "d2/d41/a01493.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa", null ],
-      [ "SPELL_AVATAR", "d2/d41/a01493.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35", null ],
-      [ "SPELL_KNOCK_AWAY", "d2/d41/a01493.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa", null ],
-      [ "SPELL_STORM_BOLT", "d2/d41/a01493.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2", null ],
-      [ "SAY_BROKERING_OF_PEACE", "d2/d41/a01493.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea5e7515dea0183a414914625df021100e", null ],
-      [ "QUEST_BROKERING_OF_PEACE", "d2/d41/a01493.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea3f56db670ce24d026768aafcea808670", null ]
-    ] ],
-    [ "AddSC_ironforge", "d2/d41/a01493.html#aa2f983b337fe1f23e428542f1d26d0c2", null ]
+    [ "Elapsed", "d2/d41/a01493.html#af9a7dcb5dfa331445f56900767b13e8b", null ],
+    [ "GetGameTime", "d2/d41/a01493.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
+    [ "GetGameTimeMS", "d2/d41/a01493.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
+    [ "GetStartTime", "d2/d41/a01493.html#a872d34d3f9d420cfc749073c809931f9", null ],
+    [ "GetSystemTime", "d2/d41/a01493.html#a443eccf314fe436192278d425d6d8220", null ],
+    [ "GetUptime", "d2/d41/a01493.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
+    [ "HasElapsed", "d2/d41/a01493.html#a6acb8998bc9dae720531cb39082262f2", null ],
+    [ "Now", "d2/d41/a01493.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
+    [ "UpdateGameTimers", "d2/d41/a01493.html#a45712735241c9563a12fc3da54fb144d", null ]
 ];

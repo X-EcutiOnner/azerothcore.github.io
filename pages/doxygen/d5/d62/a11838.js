@@ -1,8 +1,9 @@
 var a11838 =
 [
-    [ "PacketFilter", "d5/d62/a11838.html#accfa43359c62d2e9d6c38086c77374bd", null ],
-    [ "~PacketFilter", "d5/d62/a11838.html#a669531cfd9c06d5cf525986069117687", null ],
-    [ "Process", "d5/d62/a11838.html#a03679e3c241a535757608c63ca933ac9", null ],
-    [ "ProcessUnsafe", "d5/d62/a11838.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
-    [ "m_pSession", "d5/d62/a11838.html#ad3723289ea93f1095cf82584268335d9", null ]
+    [ "LoginQueryHolder", "d5/d62/a11838.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "d5/d62/a11838.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "d5/d62/a11838.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "d5/d62/a11838.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "_accountId", "d5/d62/a11838.html#a58897938e2c878d8665739ae38d5d116", null ],
+    [ "_guid", "d5/d62/a11838.html#aaa4b96d92d6fc702daf07b801b9bdb08", null ]
 ];

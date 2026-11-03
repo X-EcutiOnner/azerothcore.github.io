@@ -1,7 +1,7 @@
 var a26482 =
 [
-    [ "HandleDummy", "da/d64/a26482.html#a4dde221fa768ef5c6b99c981969f35fe", null ],
-    [ "PrepareSpellScript", "da/d64/a26482.html#a85333c5f493b70037bcc1a1d42e97e9c", null ],
-    [ "Register", "da/d64/a26482.html#acfafbf43e12f72131e58434051dcc510", null ],
-    [ "Validate", "da/d64/a26482.html#a73458b57dc107b3215cf5d44567d330f", null ]
+    [ "HandleProc", "da/d64/a26482.html#a682a80e8abf8c7dc94921389eb0a15b1", null ],
+    [ "PrepareAuraScript", "da/d64/a26482.html#af0d99e25521ece82c1179ec033ba4216", null ],
+    [ "Register", "da/d64/a26482.html#a6ad6a77042b9a48b5017980b2fddefce", null ],
+    [ "Validate", "da/d64/a26482.html#a147bfdbb7339eb47989f84ed6be86862", null ]
 ];

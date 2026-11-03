@@ -1,21 +1,14 @@
 var a03227 =
 [
-    [ "FormationInfo", "da/d8a/a08570.html", "da/d8a/a08570" ],
-    [ "FormationMgr", "d4/d3a/a08574.html", "d4/d3a/a08574" ],
-    [ "CreatureGroup", "d2/d54/a08578.html", "d2/d54/a08578" ],
-    [ "sFormationMgr", "d3/d1b/a03227.html#ae80a51404625cee821a8727ed7369352", null ],
-    [ "CreatureGroupInfoType", "d3/d1b/a03227.html#a2c3447bf21f430bff136da6811d93a61", null ],
-    [ "CreatureGroupMembersType", "d3/d1b/a03227.html#aca5ad8458d4d9e1da2c64850841b3a4a", null ],
-    [ "GroupAIFlags", "d3/d1b/a03227.html#a3754da8cc6b209da0180cd76de20869c", [
-      [ "GROUP_AI_FLAG_MEMBER_ASSIST_LEADER", "d3/d1b/a03227.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2", null ],
-      [ "GROUP_AI_FLAG_LEADER_ASSIST_MEMBER", "d3/d1b/a03227.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e", null ],
-      [ "GROUP_AI_FLAG_EVADE_TOGETHER", "d3/d1b/a03227.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a", null ],
-      [ "GROUP_AI_FLAG_RESPAWN_ON_EVADE", "d3/d1b/a03227.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6", null ],
-      [ "GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE", "d3/d1b/a03227.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043", null ],
-      [ "GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE", "d3/d1b/a03227.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e", null ],
-      [ "GROUP_AI_FLAG_FOLLOW_LEADER", "d3/d1b/a03227.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87", null ],
-      [ "GROUP_AI_FLAG_ASSIST_MASK", "d3/d1b/a03227.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c", null ],
-      [ "GROUP_AI_FLAG_EVADE_MASK", "d3/d1b/a03227.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd", null ],
-      [ "GROUP_AI_FLAG_SUPPORTED", "d3/d1b/a03227.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60", null ]
-    ] ]
+    [ "instance_karazhan", "db/d87/a13486.html", "db/d87/a13486" ],
+    [ "instance_karazhan::instance_karazhan_InstanceMapScript", "d3/dae/a13490.html", "d3/dae/a13490" ],
+    [ "spell_karazhan_brittle_bones_aura", "d3/d2d/a13494.html", "d3/d2d/a13494" ],
+    [ "spell_karazhan_overload_aura", "df/d9b/a13498.html", "df/d9b/a13498" ],
+    [ "spell_karazhan_blink", "d3/d88/a13502.html", "d3/d88/a13502" ],
+    [ "AddSC_instance_karazhan", "d3/d1b/a03227.html#adc62e82adedf1c9e8d47332aaa7a4cf5", null ],
+    [ "boundaries", "d3/d1b/a03227.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d3/d1b/a03227.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d3/d1b/a03227.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d3/d1b/a03227.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "OptionalSpawn", "d3/d1b/a03227.html#a9dacd53568280ba4bb7d0a7c7f65f6cf", null ]
 ];

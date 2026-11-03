@@ -1,4 +1,6 @@
 var a05282 =
 [
-    [ "Strand", "d6/d45/a05282.html#afd0efbcfbbd1ff7ef26d7f8c476380dc", null ]
+    [ "Resolver", "d6/d45/a05282.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
+    [ "Resolve", "d6/d45/a05282.html#ab190f885c84753fe65405db6fb04bf7c", null ],
+    [ "_impl", "d6/d45/a05282.html#a08ed9183a6338606524c44f0fd5695a0", null ]
 ];

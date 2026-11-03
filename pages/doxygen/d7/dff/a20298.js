@@ -1,6 +1,8 @@
 var a20298 =
 [
-    [ "HandleInstaKill", "d7/dff/a20298.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "d7/dff/a20298.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "d7/dff/a20298.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "CatsTargetSelector", "d7/dff/a20298.html#a48068e5fb4d835303d1d0fbbc4a7e66e", null ],
+    [ "operator()", "d7/dff/a20298.html#a86e65be219bb8f1fdbebba21ba16884a", null ],
+    [ "_maxDist", "d7/dff/a20298.html#a569a1fc697a16c55ef0d087993461a01", null ],
+    [ "_me", "d7/dff/a20298.html#a510937836db06bf70f2bd3737efa4369", null ],
+    [ "_minDist", "d7/dff/a20298.html#a28f5ca413d51073294888cfc97c21b04", null ]
 ];

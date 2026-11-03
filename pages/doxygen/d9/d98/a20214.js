@@ -1,6 +1,6 @@
 var a20214 =
 [
-    [ "npc_collapsing_star", "d9/d98/a20214.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
-    [ "DamageTaken", "d9/d98/a20214.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
-    [ "JustSummoned", "d9/d98/a20214.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
+    [ "HandlePeriodic", "d9/d98/a20214.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "d9/d98/a20214.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "d9/d98/a20214.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

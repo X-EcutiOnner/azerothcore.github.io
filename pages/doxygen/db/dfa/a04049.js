@@ -1,12 +1,6 @@
 var a04049 =
 [
-    [ "AchievementScript", "dc/dc5/a10766.html", "dc/dc5/a10766" ],
-    [ "AchievementHook", "db/dfa/a04049.html#a62b7eadebfd59858b2e2f1a8713a3ae1", [
-      [ "ACHIEVEMENTHOOK_SET_REALM_COMPLETED", "db/dfa/a04049.html#a62b7eadebfd59858b2e2f1a8713a3ae1ac3fc38cd750edf07c66cf42ae357a782", null ],
-      [ "ACHIEVEMENTHOOK_IS_COMPLETED_CRITERIA", "db/dfa/a04049.html#a62b7eadebfd59858b2e2f1a8713a3ae1a12f1bcc17681be9acc81dc3fb51e8f2e", null ],
-      [ "ACHIEVEMENTHOOK_IS_REALM_COMPLETED", "db/dfa/a04049.html#a62b7eadebfd59858b2e2f1a8713a3ae1a0f6e888313610e200011072afae5b8e7", null ],
-      [ "ACHIEVEMENTHOOK_ON_BEFORE_CHECK_CRITERIA", "db/dfa/a04049.html#a62b7eadebfd59858b2e2f1a8713a3ae1a5073468c76ad4823c32a7fe0cc113048", null ],
-      [ "ACHIEVEMENTHOOK_CAN_CHECK_CRITERIA", "db/dfa/a04049.html#a62b7eadebfd59858b2e2f1a8713a3ae1aa9d01d0837118bf75263bb54b21f18b1", null ],
-      [ "ACHIEVEMENTHOOK_END", "db/dfa/a04049.html#a62b7eadebfd59858b2e2f1a8713a3ae1a2df8c3284122e09fda0d8f4b7789732c", null ]
-    ] ]
+    [ "instance_pit_of_saron", "d3/d10/a17558.html", "d3/d10/a17558" ],
+    [ "instance_pit_of_saron::instance_pit_of_saron_InstanceScript", "d6/dc8/a17562.html", "d6/dc8/a17562" ],
+    [ "AddSC_instance_pit_of_saron", "db/dfa/a04049.html#a0793b7a11993f477eea1066a2da4bbb2", null ]
 ];

@@ -1,10 +1,6 @@
 var a17282 =
 [
-    [ "boss_dredAI", "d7/dbc/a17282.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "d7/dbc/a17282.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "d7/dbc/a17282.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "d7/dbc/a17282.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "ScheduleTasks", "d7/dbc/a17282.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
-    [ "SetData", "d7/dbc/a17282.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "_raptorCount", "d7/dbc/a17282.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "HandleEffectApply", "d7/dbc/a17282.html#aaea2c3733dadc19072c81774468e345a", null ],
+    [ "PrepareAuraScript", "d7/dbc/a17282.html#a3848997e9f775add50d40342b6211ff0", null ],
+    [ "Register", "d7/dbc/a17282.html#a775b1cf494049ed13d149ca6318142c3", null ]
 ];

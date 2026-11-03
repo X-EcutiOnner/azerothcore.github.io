@@ -1,8 +1,7 @@
 var a23006 =
 [
-    [ "Load", "de/d0f/a23006.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "de/d0f/a23006.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "de/d0f/a23006.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "de/d0f/a23006.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "de/d0f/a23006.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "HandleOnEffectApply", "de/d0f/a23006.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "de/d0f/a23006.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "de/d0f/a23006.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "de/d0f/a23006.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

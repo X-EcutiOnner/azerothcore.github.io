@@ -1,12 +1,11 @@
 var a20962 =
 [
-    [ "boss_thorim_lightning_orb", "d0/d0f/a20962.html#a04d4de44a41e62d6c1c4c68d3064a861", null ],
-    [ "AttackStart", "d0/d0f/a20962.html#a8e512ec039d93b1ceb7a2b8ee556fa56", null ],
-    [ "EnterEvadeMode", "d0/d0f/a20962.html#a855df9994de0901e56ac6f84d71ab7e4", null ],
-    [ "InitWaypoint", "d0/d0f/a20962.html#a46a7a73cb200d7bbaa7f38871c765254", null ],
-    [ "MoveInLineOfSight", "d0/d0f/a20962.html#a3577618ff9d5bdea191d840b6c968fad", null ],
-    [ "Reset", "d0/d0f/a20962.html#adeefc7cd014021305b77cc9c52102ce6", null ],
-    [ "WaypointReached", "d0/d0f/a20962.html#a3948ca0a57befa16e15e0d6ab97a0cbe", null ],
-    [ "WaypointReached", "d0/d0f/a20962.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "Timer", "d0/d0f/a20962.html#a79c24c42364c9932199ece2775f7a7f2", null ]
+    [ "boss_thorim_runic_colossus", "d0/d0f/a20962.html#a3beda3351911803a0c0ea719256c4514", null ],
+    [ "JustDied", "d0/d0f/a20962.html#a9682ccf2c6109888385fd621ecac16a4", null ],
+    [ "JustEngagedWith", "d0/d0f/a20962.html#ad18388379fc026c1bf707eee8fae9826", null ],
+    [ "Reset", "d0/d0f/a20962.html#a5a6d3e8c1e756fe9a982c6be215a0577", null ],
+    [ "SpellHit", "d0/d0f/a20962.html#a9787e064886ddee55bc2434c6d4f1927", null ],
+    [ "UpdateAI", "d0/d0f/a20962.html#a470b0571db91075603504d91fb13721c", null ],
+    [ "_checkTarget", "d0/d0f/a20962.html#a16c4b7194f1db8710732b35189823efe", null ],
+    [ "events", "d0/d0f/a20962.html#a859e1d83f4002c8017d5d8f8fdf34a1e", null ]
 ];

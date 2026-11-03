@@ -1,5 +1,24 @@
 var a20266 =
 [
-    [ "achievement_algalon_he_feeds_on_your_tears", "df/de1/a20266.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
-    [ "OnCheck", "df/de1/a20266.html#affea33614581545c65513bfe533d7246", null ]
+    [ "boss_stormcaller_brundir", "df/de1/a20266.html#a4f7ea635632887930bc856630ad7b122", null ],
+    [ "GetData", "df/de1/a20266.html#a977a1c9fbfa0c36100330569f6c5dbff", null ],
+    [ "JustDied", "df/de1/a20266.html#a7bbcb8f27eb6548549108f405f9be938", null ],
+    [ "JustEngagedWith", "df/de1/a20266.html#aacf0780ae29ea543afd13727e06bdbf2", null ],
+    [ "JustReachedHome", "df/de1/a20266.html#ac18c8fde64f2eb1ca6e53b0387056cdd", null ],
+    [ "KilledUnit", "df/de1/a20266.html#ade6a772b83078dc826c1e4357ccdba3e", null ],
+    [ "MovementInform", "df/de1/a20266.html#ad26e466b0aa3c04960245816df3e9041", null ],
+    [ "OnChannelFinished", "df/de1/a20266.html#a6dbf87c92553af4c3a1362104d0b0f28", null ],
+    [ "OnSpellCast", "df/de1/a20266.html#a642cbda0721e2bea3c3abcaae653073c", null ],
+    [ "OnSpellFailed", "df/de1/a20266.html#a73a7d68337abd85629cf4abe478c1398", null ],
+    [ "Reset", "df/de1/a20266.html#aac20b08efbbea66aa59a48ebfa5a447d", null ],
+    [ "SpellHit", "df/de1/a20266.html#a3948aa8499f32cc0c49c495a1ff64b0e", null ],
+    [ "SpellHitTarget", "df/de1/a20266.html#aa4c09c7e76ab84d15a953dfa87060bce", null ],
+    [ "UpdateAI", "df/de1/a20266.html#aed4d71e804f389664199e1a9431d27dd", null ],
+    [ "UpdatePhase", "df/de1/a20266.html#a8d0ae42a81038073b2438e0761142132", null ],
+    [ "_channelTimer", "df/de1/a20266.html#a88bdcdd0b085c51ce18fb6a0e8990c5b", null ],
+    [ "_flyTargetGUID", "df/de1/a20266.html#ab817c2f55bf4ed81199a27315877ab9b", null ],
+    [ "_phase", "df/de1/a20266.html#afdbef71fd252ee8d38b9cf1d2a1a4c04", null ],
+    [ "_stunnedAchievement", "df/de1/a20266.html#ae3ab50d835339a6260790901a935c914", null ],
+    [ "events", "df/de1/a20266.html#a5ccf7577ce546363abb14ba351ff7b7c", null ],
+    [ "pInstance", "df/de1/a20266.html#af9e151488987fb04ec887dde8a421f93", null ]
 ];

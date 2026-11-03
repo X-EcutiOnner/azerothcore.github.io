@@ -1,6 +1,6 @@
 var a24018 =
 [
-    [ "HandleCast", "d0/d03/a24018.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "d0/d03/a24018.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "d0/d03/a24018.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "HandlePeriodic", "d0/d03/a24018.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "d0/d03/a24018.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "d0/d03/a24018.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

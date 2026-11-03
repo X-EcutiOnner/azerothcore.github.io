@@ -1,8 +1,11 @@
 var a21602 =
 [
-    [ "npc_frozen_orbAI", "d6/d2e/a21602.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "d6/d2e/a21602.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "d6/d2e/a21602.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "d6/d2e/a21602.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "d6/d2e/a21602.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "boss_erekem", "d6/d2e/a21602.html#a32a7d3b83f201bd77423da1a98e742ae", null ],
+    [ "EnterEvadeMode", "d6/d2e/a21602.html#a3d946004c120c6daec6565e7ba815fa1", null ],
+    [ "ExecuteEvent", "d6/d2e/a21602.html#a24100918d900f974144f94f399e429b3", null ],
+    [ "GetChainHealTargetGuid", "d6/d2e/a21602.html#a809a25ac441f1ef1c60273ac1094a3b2", null ],
+    [ "JustDied", "d6/d2e/a21602.html#a23ce09bbe023ebab5dbe1bf26cd84c7a", null ],
+    [ "JustEngagedWith", "d6/d2e/a21602.html#a82faaeb00a41745d331f97037e5b4800", null ],
+    [ "KilledUnit", "d6/d2e/a21602.html#acaa92e69b5d4ff536d8a0a3e965a93d5", null ],
+    [ "MoveInLineOfSight", "d6/d2e/a21602.html#ad89c95919671fd1ae2656ed468ee022a", null ]
 ];

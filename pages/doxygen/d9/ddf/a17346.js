@@ -1,7 +1,7 @@
 var a17346 =
 [
-    [ "HandleScriptEffect", "d9/ddf/a17346.html#a62cef31900cd61167823f3e66aa2d64b", null ],
-    [ "PrepareSpellScript", "d9/ddf/a17346.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
-    [ "Register", "d9/ddf/a17346.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
-    [ "Validate", "d9/ddf/a17346.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
+    [ "HandleScriptEffect", "d9/ddf/a17346.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "d9/ddf/a17346.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "d9/ddf/a17346.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "d9/ddf/a17346.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

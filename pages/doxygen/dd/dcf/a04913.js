@@ -1,16 +1,6 @@
 var a04913 =
 [
-    [ "DBCFileLoader", "dd/d82/a05598.html", "dd/d82/a05598" ],
-    [ "DBCFileLoader::Record", "dd/dd6/a05602.html", "dd/dd6/a05602" ],
-    [ "DbcFieldFormat", "dd/dcf/a04913.html#a969264ba91452f632e809db524c68960", [
-      [ "FT_NA", "dd/dcf/a04913.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
-      [ "FT_NA_BYTE", "dd/dcf/a04913.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],
-      [ "FT_STRING", "dd/dcf/a04913.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29", null ],
-      [ "FT_FLOAT", "dd/dcf/a04913.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a", null ],
-      [ "FT_INT", "dd/dcf/a04913.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a", null ],
-      [ "FT_BYTE", "dd/dcf/a04913.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095", null ],
-      [ "FT_SORT", "dd/dcf/a04913.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642", null ],
-      [ "FT_IND", "dd/dcf/a04913.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036", null ],
-      [ "FT_LOGIC", "dd/dcf/a04913.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc", null ]
-    ] ]
+    [ "fireworkShowGameobjectStormwind", "dd/dcf/a04913.html#ae843a13f6116ce380e3890397d825ae6", null ],
+    [ "fireworkShowScheduleStormwind", "dd/dcf/a04913.html#af98c86c5b3725a8753fc620996c94b7f", null ],
+    [ "fireworkShowStormwind", "dd/dcf/a04913.html#a378278257abadcd4369abd66f412d8e6", null ]
 ];

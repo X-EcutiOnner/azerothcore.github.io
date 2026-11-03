@@ -1,6 +1,8 @@
 var a21002 =
 [
-    [ "OnPeriodic", "da/d6d/a21002.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "da/d6d/a21002.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "da/d6d/a21002.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "npc_xt002_heart", "da/d6d/a21002.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
+    [ "DoAction", "da/d6d/a21002.html#a3150ab74ea50c9de6d937b3271e782de", null ],
+    [ "JustDied", "da/d6d/a21002.html#a4f62cabc74ad43cf53f2257902982dff", null ],
+    [ "Reset", "da/d6d/a21002.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
+    [ "_instance", "da/d6d/a21002.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
 ];

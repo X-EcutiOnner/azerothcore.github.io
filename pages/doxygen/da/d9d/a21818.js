@@ -1,9 +1,8 @@
 var a21818 =
 [
-    [ "npc_bloodmage_laurithAI", "da/d9d/a21818.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "da/d9d/a21818.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "da/d9d/a21818.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
-    [ "UpdateAI", "da/d9d/a21818.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "da/d9d/a21818.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "da/d9d/a21818.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_dusk", "da/d9d/a21818.html#ab142eb266e64af625a8a38d3234ded72", null ],
+    [ "MovementInform", "da/d9d/a21818.html#a49cade56e631668c946edb6753172c87", null ],
+    [ "PassengerBoarded", "da/d9d/a21818.html#aaff19f52995db17f4dab953e2e928c68", null ],
+    [ "WaypointReached", "da/d9d/a21818.html#ac8f70426313aa6834285905e94f1d0d9", null ],
+    [ "_ejected", "da/d9d/a21818.html#a4f749f98c178a32b211bbd38b9447607", null ]
 ];

@@ -1,8 +1,8 @@
 var a19242 =
 [
-    [ "npc_arthas_teleport_visualAI", "d5/dea/a19242.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "d5/dea/a19242.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "d5/dea/a19242.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "d5/dea/a19242.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "d5/dea/a19242.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "npc_vampiric_fiend", "d5/dea/a19242.html#a4ddef98ac3b9d166980243b0dbe821f7", null ],
+    [ "EnterEvadeMode", "d5/dea/a19242.html#ac9f90234d1f100c671f70b249a339314", null ],
+    [ "JustEngagedWith", "d5/dea/a19242.html#a6167d1529b88c3b85cf21547b89bbc98", null ],
+    [ "UpdateAI", "d5/dea/a19242.html#aba3a8c1bfaa1f841f820e9540bc2267a", null ],
+    [ "_scheduler", "d5/dea/a19242.html#a8978bf1ffc6009b29c738ebe3232887f", null ]
 ];

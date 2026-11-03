@@ -1,10 +1,8 @@
 var a17714 =
 [
-    [ "boss_drakkari_elementalAI", "dc/def/a17714.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
-    [ "DoAction", "dc/def/a17714.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
-    [ "JustDied", "dc/def/a17714.html#aec2878e51a12749914e3a30c0ddea900", null ],
-    [ "JustEngagedWith", "dc/def/a17714.html#a75cbf6a164ab4337f86b600541c563f2", null ],
-    [ "Reset", "dc/def/a17714.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
-    [ "UpdateAI", "dc/def/a17714.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
-    [ "events", "dc/def/a17714.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
+    [ "boss_eck", "dc/def/a17714.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "dc/def/a17714.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "dc/def/a17714.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "dc/def/a17714.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "dc/def/a17714.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

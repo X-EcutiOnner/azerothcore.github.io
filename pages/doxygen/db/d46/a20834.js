@@ -1,13 +1,5 @@
 var a20834 =
 [
-    [ "npc_ulduar_flames_initial", "db/d46/a20834.html#ac0ba4a5631f580b23be30f6d19545a1f", null ],
-    [ "DoAction", "db/d46/a20834.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
-    [ "GetMimironAI", "db/d46/a20834.html#a173f3b895907e518625b62c08831c1ef", null ],
-    [ "RemoveAll", "db/d46/a20834.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
-    [ "RemoveFlame", "db/d46/a20834.html#ad676a542b40b554027fc2ab491fa083d", null ],
-    [ "SpreadFlame", "db/d46/a20834.html#af50c950610f5277a755d1786b596b9d7", null ],
-    [ "UpdateAI", "db/d46/a20834.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
-    [ "_createTime", "db/d46/a20834.html#aa73a9fa2110bd5abdff9b509e13ce333", null ],
-    [ "_events", "db/d46/a20834.html#a0f99d43d373b61e9c665bd6c0d389afb", null ],
-    [ "_flameList", "db/d46/a20834.html#a50a26001f8bfe87a3a4f1feb544cf521", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "db/d46/a20834.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "db/d46/a20834.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

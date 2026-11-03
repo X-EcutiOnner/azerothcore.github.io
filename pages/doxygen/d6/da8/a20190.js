@@ -1,6 +1,6 @@
 var a20190 =
 [
-    [ "HandleApplyTouch", "d6/da8/a20190.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "d6/da8/a20190.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "d6/da8/a20190.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "npc_collapsing_star", "d6/da8/a20190.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
+    [ "DamageTaken", "d6/da8/a20190.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
+    [ "JustSummoned", "d6/da8/a20190.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
 ];

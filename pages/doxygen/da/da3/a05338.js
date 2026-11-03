@@ -1,17 +1,10 @@
 var a05338 =
 [
-    [ "DynamicMapTree", "da/da3/a05338.html#ae1abe2e5e0464f2cfc6b87338698983d", null ],
-    [ "~DynamicMapTree", "da/da3/a05338.html#a6d33c22d53a1c2b8120e80c1f508cfb0", null ],
-    [ "balance", "da/da3/a05338.html#a1af866551a1ea151551ebb856797528d", null ],
-    [ "contains", "da/da3/a05338.html#a12091e2b1cf1b5a8cfa4e3942ba750a4", null ],
-    [ "GetAreaAndLiquidData", "da/da3/a05338.html#a1229eb7e83b481cb72ffc9ae4a3a28a8", null ],
-    [ "getHeight", "da/da3/a05338.html#ac10680b14e3849bd17926cef24765d9d", null ],
-    [ "GetIntersectionTime", "da/da3/a05338.html#af5d4469071212771367ddd1421b7ca63", null ],
-    [ "GetObjectHitPos", "da/da3/a05338.html#a23586412c7ada2ad96a772c20c4b56e8", null ],
-    [ "insert", "da/da3/a05338.html#a5ddd01b0ca8738dc03ecda04ea38b1ed", null ],
-    [ "isInLineOfSight", "da/da3/a05338.html#a0e585c88cf1f457ad7018ad9c6a4c542", null ],
-    [ "remove", "da/da3/a05338.html#ae6461c6804c3902df131bbdf2e433e3a", null ],
-    [ "size", "da/da3/a05338.html#aa97347b2172f8f80e360d6fcc132dbd9", null ],
-    [ "update", "da/da3/a05338.html#a97597eac8b03eccf1f61a6f2b0a9e562", null ],
-    [ "impl", "da/da3/a05338.html#a7d3a6c5c88df501d6d89e917fb44b1d0", null ]
+    [ "DynamicTreeLocationInfoCallback", "da/da3/a05338.html#a3fcb6d535b2207e2bfedb961de856e6d", null ],
+    [ "GetHitModel", "da/da3/a05338.html#ac939625c44c7be8ba8b96d55545b657c", null ],
+    [ "GetLocationInfo", "da/da3/a05338.html#ac1c3839aa1f0e9b64390502c4ce7bb3e", null ],
+    [ "operator()", "da/da3/a05338.html#a4d2569c48cfa431282119ed5bd53ffb4", null ],
+    [ "_hitModel", "da/da3/a05338.html#adef79d7627daa66d88c7146704984622", null ],
+    [ "_locationInfo", "da/da3/a05338.html#a3c9be93de73520942a8d52b78fe72438", null ],
+    [ "_phaseMask", "da/da3/a05338.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e", null ]
 ];

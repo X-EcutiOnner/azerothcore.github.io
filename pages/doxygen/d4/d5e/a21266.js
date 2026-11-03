@@ -1,7 +1,5 @@
 var a21266 =
 [
-    [ "OnApply", "d4/d5e/a21266.html#a458871e0d2c1969a91ce9474b3ad87d0", null ],
-    [ "PrepareAuraScript", "d4/d5e/a21266.html#a3a6b71d35bfcf681c98bb3bb4331e91c", null ],
-    [ "Register", "d4/d5e/a21266.html#a4d6bb68d17bbc1b10d828b1d70155f65", null ],
-    [ "Validate", "d4/d5e/a21266.html#a1ffe527d33de10a7dc8431311f4d738e", null ]
+    [ "achievement_yogg_saron_kiss_and_make_up", "d4/d5e/a21266.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
+    [ "OnCheck", "d4/d5e/a21266.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
 ];

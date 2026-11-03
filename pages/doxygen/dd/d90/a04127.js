@@ -1,4 +1,5 @@
 var a04127 =
 [
-    [ "ScriptRegistry< BattlegroundMapScript >", "dd/d90/a04127.html#a79e6d39d74f9bbf97afe75113cd4db80", null ]
+    [ "honor_commandscript", "db/da5/a12594.html", "db/da5/a12594" ],
+    [ "AddSC_honor_commandscript", "dd/d90/a04127.html#ab7c57f853cb45a82b5563b703a1ee041", null ]
 ];

@@ -1,7 +1,5 @@
 var a07618 =
 [
-    [ "AuctionSearchUpdateBid", "de/dd3/a07618.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
-    [ "auctionId", "de/dd3/a07618.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
-    [ "bid", "de/dd3/a07618.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
-    [ "bidderGuid", "de/dd3/a07618.html#a843bcff41f694075ea056d9a3c71467f", null ]
+    [ "AuctionSearchRemove", "de/dd3/a07618.html#a5a93de23f32eb653e9df2df3e2d11bcb", null ],
+    [ "auctionId", "de/dd3/a07618.html#a6e18c3999d22c1972314b4a20ed8b62f", null ]
 ];

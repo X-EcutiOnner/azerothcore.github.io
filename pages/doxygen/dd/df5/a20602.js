@@ -1,15 +1,10 @@
 var a20602 =
 [
-    [ "npc_ulduar_hodir_priest", "dd/df5/a20602.html#af18269ae027e71f86796e723111227b4", null ],
-    [ "AttackStart", "dd/df5/a20602.html#ad86f47516d9f245a4ae241bba26b37a4", null ],
-    [ "CanAIAttack", "dd/df5/a20602.html#a8545bd2492bd32d333e8d144b3d548a5", null ],
-    [ "DoAction", "dd/df5/a20602.html#a73f077b4436e06a13e59944cebd5cca0", null ],
-    [ "EnterEvadeMode", "dd/df5/a20602.html#a9d3f3e950b0f9c9a7b85ba3835000a80", null ],
-    [ "JustDied", "dd/df5/a20602.html#a3ac7967a61a774670e25aa3c0477d7ac", null ],
-    [ "MoveInLineOfSight", "dd/df5/a20602.html#abc0c766a88dd64e8f5bbcc2afd883552", null ],
-    [ "ScheduleAbilities", "dd/df5/a20602.html#a10b5f3575c2de311d54c15220c68f4b7", null ],
-    [ "SpellHit", "dd/df5/a20602.html#a2dd6faeb45ba2278e1b4693d20550d4e", null ],
-    [ "UpdateAI", "dd/df5/a20602.html#a450b21ab190ec335d910b38a6a2d9329", null ],
-    [ "_instance", "dd/df5/a20602.html#adb189dbf0e536f469f1a0d82d42de6de", null ],
-    [ "events", "dd/df5/a20602.html#a803e3f35c784716170f9fa8c4484b66c", null ]
+    [ "HandleEffectPeriodic", "dd/df5/a20602.html#aa62be73e00d9cb512806787eaf1c4144", null ],
+    [ "Load", "dd/df5/a20602.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
+    [ "PrepareAuraScript", "dd/df5/a20602.html#ad9664bff267b330565d3c706e1752e9d", null ],
+    [ "Register", "dd/df5/a20602.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
+    [ "Validate", "dd/df5/a20602.html#a3f6653b4ca202d9b0971189930e8b463", null ],
+    [ "_counter", "dd/df5/a20602.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
+    [ "_prev", "dd/df5/a20602.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
 ];

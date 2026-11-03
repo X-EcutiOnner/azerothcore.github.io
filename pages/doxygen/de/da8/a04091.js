@@ -1,4 +1,5 @@
 var a04091 =
 [
-    [ "ScriptRegistry< AllBattlegroundScript >", "de/da8/a04091.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
+    [ "disable_commandscript", "d7/d2b/a12562.html", "d7/d2b/a12562" ],
+    [ "AddSC_disable_commandscript", "de/da8/a04091.html#a232e1ddbf34ceae5a317df69255bc8de", null ]
 ];

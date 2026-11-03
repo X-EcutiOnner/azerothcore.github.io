@@ -1,5 +1,7 @@
 var a00824 =
 [
-    [ "server_commandscript", "da/d4f/a12718.html", "da/d4f/a12718" ],
-    [ "AddSC_server_commandscript", "d8/d1c/a00824.html#aaa97392c09b5045a6040d75b224bdf22", null ]
+    [ "GetBuildDirectory", "d8/d1c/a00824.html#ae2280b7f7c56992a4c3ae6e33d6c8a4b", null ],
+    [ "GetCMakeCommand", "d8/d1c/a00824.html#af38bc6d6ef36ab9b44b7bf5446659672", null ],
+    [ "GetMySQLExecutable", "d8/d1c/a00824.html#abdfee61576e0a7c64d7bb6a516ab69b7", null ],
+    [ "GetSourceDirectory", "d8/d1c/a00824.html#a84544d0c16175b62a0894c34fee2b6d7", null ]
 ];

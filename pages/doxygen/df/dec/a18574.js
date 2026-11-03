@@ -1,7 +1,6 @@
 var a18574 =
 [
-    [ "FrostwyrmLandEvent", "df/dec/a18574.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "df/dec/a18574.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "df/dec/a18574.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "df/dec/a18574.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "npc_ice_tombAI", "d3/d36/a18578.html", "d3/d36/a18578" ],
+    [ "npc_ice_tomb", "df/dec/a18574.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "df/dec/a18574.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

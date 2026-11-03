@@ -1,4 +1,10 @@
 var a02915 =
 [
-    [ "GroupReference", "d6/df5/a10003.html", "d6/df5/a10003" ]
+    [ "MySQLConnectionInfo", "d9/dac/a06190.html", "d9/dac/a06190" ],
+    [ "MySQLConnection", "d8/df6/a06194.html", "d8/df6/a06194" ],
+    [ "ConnectionFlags", "d6/deb/a02915.html#a008b1c9a9206a70569b89aea01ac321f", [
+      [ "CONNECTION_ASYNC", "d6/deb/a02915.html#a008b1c9a9206a70569b89aea01ac321faa12dee499d68ef84c216f874cb104fe9", null ],
+      [ "CONNECTION_SYNCH", "d6/deb/a02915.html#a008b1c9a9206a70569b89aea01ac321fa38de35d7007257d23046b73a6aec7946", null ],
+      [ "CONNECTION_BOTH", "d6/deb/a02915.html#a008b1c9a9206a70569b89aea01ac321fa69536f08cbcdbe5a0ff0d89981fc6b39", null ]
+    ] ]
 ];

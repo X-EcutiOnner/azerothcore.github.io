@@ -1,8 +1,5 @@
 var a02336 =
 [
-    [ "PingOperation", "d4/d84/a06131.html", "d4/d84/a06131" ],
-    [ "DatabaseIncompatibleVersion", "d3/d9c/a02336.html#a31d71bc4748fa66e040eb20dc995e12e", null ],
-    [ "DatabaseWorkerPool< CharacterDatabaseConnection >", "d3/d9c/a02336.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18", null ],
-    [ "DatabaseWorkerPool< LoginDatabaseConnection >", "d3/d9c/a02336.html#a8751940b74a554bf0a86046325e0c5ed", null ],
-    [ "DatabaseWorkerPool< WorldDatabaseConnection >", "d3/d9c/a02336.html#a25e66781580e4e7fcbd8e8ca6ef9f13a", null ]
+    [ "RaceMgr", "df/d4a/a09150.html", "df/d4a/a09150" ],
+    [ "sRaceMgr", "d3/d9c/a02336.html#a01771033df72a93fd53fc0caecbb5118", null ]
 ];

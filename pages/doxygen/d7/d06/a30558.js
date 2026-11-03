@@ -1,7 +1,8 @@
 var a30558 =
 [
-    [ "Paths", "d7/d06/a30558.html#aff167c694a55441bcf5504f5d1933f41", null ],
-    [ "References", "d7/d06/a30558.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
-    [ "Sets", "d7/d06/a30558.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
-    [ "Spawns", "d7/d06/a30558.html#a51f24c059516683f0744b81819186c0e", null ]
+    [ "Color", "d7/d06/a30558.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "d7/d06/a30558.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "d7/d06/a30558.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "d7/d06/a30558.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "d7/d06/a30558.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

@@ -1,7 +1,6 @@
 var a17890 =
 [
-    [ "HandleDummyTick", "d5/dc5/a17890.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "d5/dc5/a17890.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "d5/dc5/a17890.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "d5/dc5/a17890.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "boss_blood_queen_lana_thelAI", "dd/d34/a17894.html", "dd/d34/a17894" ],
+    [ "boss_blood_queen_lana_thel", "d5/dc5/a17890.html#a9f8fa906f01082caacd106abc2707b07", null ],
+    [ "GetAI", "d5/dc5/a17890.html#a7873efd945bdb24228866f639e32879b", null ]
 ];

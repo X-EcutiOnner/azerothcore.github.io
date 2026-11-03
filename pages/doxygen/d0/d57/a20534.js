@@ -1,6 +1,7 @@
 var a20534 =
 [
-    [ "FilterTargets", "d0/d57/a20534.html#a3ebface91881b903886ea9a10041da70", null ],
-    [ "PrepareSpellScript", "d0/d57/a20534.html#a50d5f046f75c431f9323e225ed795ea3", null ],
-    [ "Register", "d0/d57/a20534.html#aa037424d0f72823d0651f84c6d2c7449", null ]
+    [ "HandleEffectPeriodic", "d0/d57/a20534.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
+    [ "PrepareAuraScript", "d0/d57/a20534.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
+    [ "Register", "d0/d57/a20534.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
+    [ "Validate", "d0/d57/a20534.html#a16c536c913d003826ef4b86c7a497fec", null ]
 ];

@@ -1,6 +1,7 @@
 var a09326 =
 [
-    [ "Condition", "d3/dbd/a09326.html#a78172859719e85a21c0a39e41c692cf4", null ],
-    [ "EventId", "d3/dbd/a09326.html#aa5d7e88828c9f44b5913d4593496894f", null ],
-    [ "Num", "d3/dbd/a09326.html#a7cf6141e00b1a33063409c9828773b94", null ]
+    [ "Done", "d3/dbd/a09326.html#abc88850d392fb4b62e778d09445de0be", null ],
+    [ "DoneWorldState", "d3/dbd/a09326.html#a380755d90c958b6532bae7f8a4d70b44", null ],
+    [ "MaxWorldState", "d3/dbd/a09326.html#a8c144531f876b6def613c0011e0efe47", null ],
+    [ "ReqNum", "d3/dbd/a09326.html#ae1d182aef449388993e4965de447d971", null ]
 ];

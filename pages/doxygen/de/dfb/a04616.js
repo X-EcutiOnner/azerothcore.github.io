@@ -1,6 +1,12 @@
 var a04616 =
 [
-    [ "GetDefaultNetmaskV4", "de/dfb/a04616.html#af75b2c10ca445dc89c53b7ed8d17eae0", null ],
-    [ "IsInNetwork", "de/dfb/a04616.html#af108d05a57113d16ab9c8f3b26870be2", null ],
-    [ "IsInNetwork", "de/dfb/a04616.html#a2617cb1c747a45e5af4e2c32cc29d5de", null ]
+    [ "npc_webbed_creature", "d8/d63/a16006.html", "d8/d63/a16006" ],
+    [ "npc_webbed_creature::npc_webbed_creatureAI", "d3/d99/a16010.html", "d3/d99/a16010" ],
+    [ "WebbedCreature", "de/dfb/a04616.html#aa14073eff8de36ab4c416f5ae7bd8cd0", [
+      [ "SPELL_FREE_WEBBED_CREATURE_HOSTILE_START", "de/dfb/a04616.html#aa14073eff8de36ab4c416f5ae7bd8cd0a805bd712057d54d1e7aa0df25591e614", null ],
+      [ "SPELL_FREE_WEBBED_CREATURE_HOSTILE_END", "de/dfb/a04616.html#aa14073eff8de36ab4c416f5ae7bd8cd0a8c879cd674ceba49c398aa160ab6432e", null ],
+      [ "SPELL_FREE_WEBBED_CREATURE_RESEARCHER", "de/dfb/a04616.html#aa14073eff8de36ab4c416f5ae7bd8cd0ab537460526db8a8c87c52ee41e0e20c4", null ],
+      [ "NPC_EXPEDITION_RESEARCHER", "de/dfb/a04616.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3", null ]
+    ] ],
+    [ "AddSC_bloodmyst_isle", "de/dfb/a04616.html#a6b9832f4bb6cfefde5bab6937fd46fae", null ]
 ];

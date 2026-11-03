@@ -1,6 +1,25 @@
 var a19810 =
 [
-    [ "DespawnTime", "d1/d43/a19810.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d1/d43/a19810.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d1/d43/a19810.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "boss_malygos", "d1/d43/a19810.html#acd26b3f587a379b568c496ea1ec3194f", null ],
+    [ "AttackStart", "d1/d43/a19810.html#affc05cb6c51b8116257a4b1aef46ff00", null ],
+    [ "DamageTaken", "d1/d43/a19810.html#a28a85c719c91835b5f6f52d267990c0c", null ],
+    [ "EnterEvadeMode", "d1/d43/a19810.html#a53c5686a8cf473d8ed1569890bdf70a5", null ],
+    [ "GetGUID", "d1/d43/a19810.html#afb552c6ee40f0415c5d8b96d140c55e6", null ],
+    [ "HandleIntroSpeech", "d1/d43/a19810.html#a648e2f73ffead8912659bc342ec70774", null ],
+    [ "JustDied", "d1/d43/a19810.html#a597f5291a656746becdb058c538cff89", null ],
+    [ "JustEngagedWith", "d1/d43/a19810.html#a110748ba104014f161c8bb51bb6ba566", null ],
+    [ "JustSummoned", "d1/d43/a19810.html#a743aba102bcad0f032113a32c34a131e", null ],
+    [ "KilledUnit", "d1/d43/a19810.html#ad471155b4ff59d163218653cc3dfc104", null ],
+    [ "MoveInLineOfSight", "d1/d43/a19810.html#a92ba2c3af50769e45327f4081b753d1d", null ],
+    [ "MovementInform", "d1/d43/a19810.html#ab1a3fa752819f459e6eb50748f8f65b0", null ],
+    [ "Reset", "d1/d43/a19810.html#a0b2603b3691b4961977acbc593202306", null ],
+    [ "SetGUID", "d1/d43/a19810.html#ae8d1e363bc9db57af46afa838c72cfd1", null ],
+    [ "SpellHit", "d1/d43/a19810.html#ab520ae358e31225469e96d8628c6314c", null ],
+    [ "UpdateAI", "d1/d43/a19810.html#aabdec2e6a2e955cc682b122430cbdcce", null ],
+    [ "_executingVortex", "d1/d43/a19810.html#a1a838052f9465530a586132a24c7ec5b", null ],
+    [ "_surgeTargetGUID", "d1/d43/a19810.html#a832a8890c9b8cefb7c1043de745c1e25", null ],
+    [ "bLockHealthCheck", "d1/d43/a19810.html#a8809894ee687da3133030b4d4f080b35", null ],
+    [ "IntroCounter", "d1/d43/a19810.html#a88f42418d5a96d3b2630ee2975d420b1", null ],
+    [ "timer1", "d1/d43/a19810.html#ad779ad4e63ce426421fab327fc9bf9ed", null ],
+    [ "timer2", "d1/d43/a19810.html#a5cccd64acbf07ab2cbd5650feb2bb115", null ]
 ];

@@ -1,6 +1,7 @@
 var a18714 =
 [
-    [ "PeriodicTick", "d9/da2/a18714.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
-    [ "PrepareAuraScript", "d9/da2/a18714.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
-    [ "Register", "d9/da2/a18714.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
+    [ "StartMovementEvent", "d9/da2/a18714.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "d9/da2/a18714.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "d9/da2/a18714.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "d9/da2/a18714.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

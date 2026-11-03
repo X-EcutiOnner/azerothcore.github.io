@@ -1,7 +1,7 @@
 var a18430 =
 [
-    [ "HandleTriggerSpell", "d4/dcf/a18430.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "d4/dcf/a18430.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "d4/dcf/a18430.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "d4/dcf/a18430.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "HandleTriggerSpell", "d4/dcf/a18430.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "d4/dcf/a18430.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "d4/dcf/a18430.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "d4/dcf/a18430.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

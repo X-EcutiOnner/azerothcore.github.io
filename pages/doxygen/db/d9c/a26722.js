@@ -1,7 +1,7 @@
 var a26722 =
 [
-    [ "CalculateSpellAmount", "db/d9c/a26722.html#ae99e08e78cf8192ea2d6210432d7a72d", null ],
-    [ "CheckCast", "db/d9c/a26722.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "db/d9c/a26722.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "db/d9c/a26722.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "CalculateAmount", "db/d9c/a26722.html#a0934aa8eaf442314aa6050d85304c15b", null ],
+    [ "CalculateSpellAmount", "db/d9c/a26722.html#a4ec8eb1000a32fe3909e0ce32f5a83cd", null ],
+    [ "PrepareAuraScript", "db/d9c/a26722.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
+    [ "Register", "db/d9c/a26722.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
 ];

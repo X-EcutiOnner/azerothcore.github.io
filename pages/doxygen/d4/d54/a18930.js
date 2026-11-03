@@ -1,7 +1,6 @@
 var a18930 =
 [
-    [ "CalculateBonus", "d4/d54/a18930.html#ae149a739150cb7eb9fb67f19130c0510", null ],
-    [ "OnPeriodic", "d4/d54/a18930.html#a19697bd65a325870becc1c30d7deff36", null ],
-    [ "PrepareAuraScript", "d4/d54/a18930.html#a77c272d4a26323c421e4b264f79d5b66", null ],
-    [ "Register", "d4/d54/a18930.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
+    [ "npc_icc_lk_checktargetAI", "d1/d48/a18934.html", "d1/d48/a18934" ],
+    [ "npc_icc_lk_checktarget", "d4/d54/a18930.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d4/d54/a18930.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

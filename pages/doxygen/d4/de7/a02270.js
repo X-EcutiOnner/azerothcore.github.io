@@ -1,6 +1,8 @@
 var a02270 =
 [
-    [ "fireworkShowExodar", "d4/de7/a02270.html#a62ccee24b6a90b61a19256b66e97c1dd", null ],
-    [ "fireworkShowGameobjectExodar", "d4/de7/a02270.html#a5b7a7ca2308d23103ee3d053d6301e5c", null ],
-    [ "fireworkShowScheduleExodar", "d4/de7/a02270.html#a44290c427b72dfa245ba73b6fa1ea317", null ]
+    [ "CorpseUpdateFieldFlags", "d4/de7/a02270.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
+    [ "DynamicObjectUpdateFieldFlags", "d4/de7/a02270.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
+    [ "GameObjectUpdateFieldFlags", "d4/de7/a02270.html#aee13b862f51557c371d3d93341128895", null ],
+    [ "ItemUpdateFieldFlags", "d4/de7/a02270.html#ac1cca7ecf1650663132e3e220d771adf", null ],
+    [ "UnitUpdateFieldFlags", "d4/de7/a02270.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
 ];

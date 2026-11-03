@@ -1,7 +1,9 @@
 var a21854 =
 [
-    [ "npc_warmage_violetstand", "dd/d4c/a21854.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "dd/d4c/a21854.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "dd/d4c/a21854.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "dd/d4c/a21854.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_archmage_landalockAI", "dd/d4c/a21854.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
+    [ "GetImageEntry", "dd/d4c/a21854.html#ae09841969253c0baf72cc235b6fa058e", null ],
+    [ "JustSummoned", "dd/d4c/a21854.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
+    [ "UpdateAI", "dd/d4c/a21854.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
+    [ "_summonGUID", "dd/d4c/a21854.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
+    [ "_switchImageTimer", "dd/d4c/a21854.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
 ];

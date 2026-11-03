@@ -1,20 +1,24 @@
 var a04574 =
 [
-    [ "FakeAura", "db/d5c/a30066.html", "db/d5c/a30066" ],
-    [ "AuraMap", "d0/d15/a04574.html#a73555934eb70bd47712b17961d4b9dcb", null ],
-    [ "TEST", "d0/d15/a04574.html#a6f3a168c62225238ed8035c9b4f0f6fe", null ],
-    [ "TEST", "d0/d15/a04574.html#aceb73ef67334ec5f2c9cd1a8aa7bdda7", null ],
-    [ "TEST", "d0/d15/a04574.html#aff1194c7b9230434ca458f33bab9d293", null ],
-    [ "TEST", "d0/d15/a04574.html#ae700483a709735b15a0745f2dd8b0902", null ],
-    [ "TEST", "d0/d15/a04574.html#a63273c645d8dafd52aa8c6ef62136b56", null ],
-    [ "TEST", "d0/d15/a04574.html#aa2c0e9a9fa7b5b1f66bb71bc1b231130", null ],
-    [ "TEST", "d0/d15/a04574.html#a7c3253e83290d47148f3cd56ff0cd49a", null ],
-    [ "TEST", "d0/d15/a04574.html#a2ab2dcd69266567b9687bf967a256c4f", null ],
-    [ "TEST", "d0/d15/a04574.html#aa08c3c66e68eca77c0b90a7bc865ef4e", null ],
-    [ "TEST", "d0/d15/a04574.html#ab990e3e55613e3163cb61f4c84dac583", null ],
-    [ "TEST", "d0/d15/a04574.html#a462c439ae586e17a0f6faa911bdf05cc", null ],
-    [ "TEST", "d0/d15/a04574.html#a8e42d098fd67bc0c558126a0d1334c66", null ],
-    [ "TEST", "d0/d15/a04574.html#a18d7003dc969cf032e00f49b012fa303", null ],
-    [ "TEST", "d0/d15/a04574.html#a545c762236024232cb91afe6958adf38", null ],
-    [ "TEST", "d0/d15/a04574.html#a511d586a9f8ae8e0ba80b7a714c55164", null ]
+    [ "RegisterShadowLabyrinthCreatureAI", "d0/d15/a04574.html#afbd2592662281ddc8b6d11567efe9a50", null ],
+    [ "ShadowLabyrinthScriptName", "d0/d15/a04574.html#ab96ece1dcc827c0af968525da00da892", null ],
+    [ "slData", "d0/d15/a04574.html#a0bb87d52cf69de5a588288e14237b87d", [
+      [ "TYPE_RITUALISTS", "d0/d15/a04574.html#a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948", null ],
+      [ "TYPE_HELLMAW", "d0/d15/a04574.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f", null ],
+      [ "DATA_BLACKHEARTTHEINCITEREVENT", "d0/d15/a04574.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26", null ],
+      [ "DATA_GRANDMASTER_VORPIL", "d0/d15/a04574.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748", null ],
+      [ "DATA_GRANDMASTER_VORPIL_EVENT", "d0/d15/a04574.html#a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b", null ],
+      [ "DATA_MURMUR", "d0/d15/a04574.html#a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900", null ],
+      [ "DATA_MURMUREVENT", "d0/d15/a04574.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f", null ],
+      [ "MAX_ENCOUNTER", "d0/d15/a04574.html#a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d", null ]
+    ] ],
+    [ "slNPCandGO", "d0/d15/a04574.html#a5aeaf5f332ee73166572f5313be89bf1", [
+      [ "NPC_CABAL_RITUALIST", "d0/d15/a04574.html#a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a", null ],
+      [ "NPC_HELLMAW", "d0/d15/a04574.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b", null ],
+      [ "GO_REFECTORY_DOOR", "d0/d15/a04574.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c", null ],
+      [ "GO_SCREAMING_HALL_DOOR", "d0/d15/a04574.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a", null ]
+    ] ],
+    [ "GetShadowLabyrinthAI", "d0/d15/a04574.html#a04723307a726c0b79db08448db0704db", null ],
+    [ "EncounterCount", "d0/d15/a04574.html#ae1fbcd81e7256d27efa0288994753839", null ],
+    [ "PersistentDataCount", "d0/d15/a04574.html#aa38a92afffebaf4b33726515956b256b", null ]
 ];

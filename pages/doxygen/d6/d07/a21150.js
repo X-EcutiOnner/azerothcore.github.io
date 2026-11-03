@@ -1,11 +1,11 @@
 var a21150 =
 [
-    [ "boss_yoggsaron_constrictor_tentacle", "d6/d07/a21150.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
-    [ "DoAction", "d6/d07/a21150.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
-    [ "GrabPlayer", "d6/d07/a21150.html#a0ae04ac300d4f08b12f7edaa75dbe208", null ],
-    [ "IsSummonedBy", "d6/d07/a21150.html#a404e4ab66a757b6ff4fa492219198b91", null ],
-    [ "JustDied", "d6/d07/a21150.html#aac8f5a80248c4616074e7ef88fb10395", null ],
-    [ "PassengerBoarded", "d6/d07/a21150.html#afdef8417bffb0a2079199060b0c26980", null ],
-    [ "SelectConstrictTarget", "d6/d07/a21150.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
-    [ "_playerGUID", "d6/d07/a21150.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
+    [ "boss_yoggsaron_llane", "d6/d07/a21150.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
+    [ "NextStep", "d6/d07/a21150.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
+    [ "Reset", "d6/d07/a21150.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
+    [ "Say", "d6/d07/a21150.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
+    [ "UpdateAI", "d6/d07/a21150.html#a58ec957cd59b944439fe514e728e2902", null ],
+    [ "_checkTimer", "d6/d07/a21150.html#a3043382e2727bc78a74acaec28697045", null ],
+    [ "_running", "d6/d07/a21150.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
+    [ "_step", "d6/d07/a21150.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
 ];

@@ -1,6 +1,6 @@
 var a21110 =
 [
-    [ "x", "d2/d93/a21110.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d2/d93/a21110.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d2/d93/a21110.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "boss_yoggsaron_death_orb", "d2/d93/a21110.html#a8e967885da35381db767d941a2174a82", null ],
+    [ "IsSummonedBy", "d2/d93/a21110.html#a86965a290bf5714fe5e81577ae80775a", null ],
+    [ "JustSummoned", "d2/d93/a21110.html#a916588e3cdd0520fe5c1947a797c0042", null ]
 ];

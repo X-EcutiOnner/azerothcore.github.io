@@ -1,17 +1,21 @@
 var a05024 =
 [
-    [ "FormatArgs", "d7/d17/a05024.html#a300bea6aa9ed219f5f3636b900db3ac9", null ],
-    [ "FormatString", "d7/d17/a05024.html#a32c972cafca136b88de5b298d6cba338", null ],
-    [ "FormatStringView", "d7/d17/a05024.html#a9a310e3057a14b5ee0f7520e08cb0410", null ],
-    [ "AddSuffixIfNotExists", "d7/d17/a05024.html#a712bea71ec99d750664fd46c690a1ad9", null ],
-    [ "format_as", "d7/d17/a05024.html#aaa7f21af5991452196a22cd79e127825", null ],
-    [ "IsFormatEmptyOrNull", "d7/d17/a05024.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
-    [ "IsFormatEmptyOrNull", "d7/d17/a05024.html#a84459e91f517fc4f79414cc23370b9f1", null ],
-    [ "MakeFormatArgs", "d7/d17/a05024.html#abd5773b7124dcbc8deb88f522cdcc86f", null ],
-    [ "StringFormat", "d7/d17/a05024.html#a1b97349dfcb88c6974882d7e34c55895", null ],
-    [ "StringFormatTo", "d7/d17/a05024.html#a7c53f407c3169d5a97d012ca3470880d", null ],
-    [ "StringVFormat", "d7/d17/a05024.html#acc68f8d815604ae13c370c09fbb60efd", null ],
-    [ "StringVFormatTo", "d7/d17/a05024.html#a17112c1b25595793b63f24de06f90081", null ],
-    [ "Trim", "d7/d17/a05024.html#ad9cd9e0eab5d7794778d1270b2720337", null ],
-    [ "TrimRightInPlace", "d7/d17/a05024.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
+    [ "AccountActionIpLogger", "dc/d64/a28246.html", "dc/d64/a28246" ],
+    [ "CharacterActionIpLogger", "d1/daa/a28250.html", "d1/daa/a28250" ],
+    [ "CharacterDeleteActionIpLogger", "d2/de2/a28254.html", "d2/de2/a28254" ],
+    [ "IPLoggingTypes", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137b", [
+      [ "ACCOUNT_LOGIN", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8", null ],
+      [ "ACCOUNT_FAIL_LOGIN", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f", null ],
+      [ "ACCOUNT_CHANGE_PW", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059", null ],
+      [ "ACCOUNT_CHANGE_PW_FAIL", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53", null ],
+      [ "ACCOUNT_CHANGE_EMAIL", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c", null ],
+      [ "ACCOUNT_CHANGE_EMAIL_FAIL", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30", null ],
+      [ "CHARACTER_CREATE", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85", null ],
+      [ "CHARACTER_LOGIN", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363", null ],
+      [ "CHARACTER_LOGOUT", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607", null ],
+      [ "CHARACTER_DELETE", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162", null ],
+      [ "CHARACTER_FAILED_DELETE", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7", null ],
+      [ "UNKNOWN_ACTION", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8", null ]
+    ] ],
+    [ "AddSC_action_ip_logger", "d7/d17/a05024.html#a530be5efb251d5ca58e97804e48ad953", null ]
 ];

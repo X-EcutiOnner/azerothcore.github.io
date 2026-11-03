@@ -1,18 +1,7 @@
 var a17542 =
 [
-    [ "boss_garfrostAI", "de/dd5/a17542.html#af9f0a6bc8b982b025312d6b2c1f91549", null ],
-    [ "DamageTaken", "de/dd5/a17542.html#a7a033f54f2c994c74b7125fb549af513", null ],
-    [ "EnterEvadeMode", "de/dd5/a17542.html#acca25c3bf34760ed1f0e451d8d304ab6", null ],
-    [ "JustDied", "de/dd5/a17542.html#a6439d3163c49973b36ae10c85b9dd11e", null ],
-    [ "JustEngagedWith", "de/dd5/a17542.html#a06e1b8d8e0b1f0fd5fac0b2a4bad4ad6", null ],
-    [ "KilledUnit", "de/dd5/a17542.html#af3751410e925a20c21b282d1b2de3bf3", null ],
-    [ "MovementInform", "de/dd5/a17542.html#aadebdb2dd4402be150711f98dfab3f5f", null ],
-    [ "Reset", "de/dd5/a17542.html#a916fd78cf3fd309ab8b13c96325002f2", null ],
-    [ "SetData", "de/dd5/a17542.html#a3563e70e731836857837b1d4ac135130", null ],
-    [ "SpellHitTarget", "de/dd5/a17542.html#ab7a4941d3d4565215ab3ac200ee1d534", null ],
-    [ "UpdateAI", "de/dd5/a17542.html#a27cf76c48504dfb21f1a4a0caf9dd4cb", null ],
-    [ "bCanSayBoulderHit", "de/dd5/a17542.html#a587196314c341334418ea19c7f9ea597", null ],
-    [ "events", "de/dd5/a17542.html#addafeb61c54f95e71d9c45de3bddd25b", null ],
-    [ "phase", "de/dd5/a17542.html#a917a6a57e8c55b9be92f01e2e7422508", null ],
-    [ "pInstance", "de/dd5/a17542.html#a57ded0b0c7085ea978c01efa28e7d096", null ]
+    [ "HandlePeriodicTick", "de/dd5/a17542.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
+    [ "PrepareAuraScript", "de/dd5/a17542.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
+    [ "Register", "de/dd5/a17542.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
+    [ "Validate", "de/dd5/a17542.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
 ];

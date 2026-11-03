@@ -1,6 +1,6 @@
 var a17338 =
 [
-    [ "boss_trollgoreAI", "dc/dd5/a17342.html", "dc/dd5/a17342" ],
-    [ "boss_trollgore", "dc/d1a/a17338.html#a95102f1fae6c667e0780b8b388fc156b", null ],
-    [ "GetAI", "dc/d1a/a17338.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
+    [ "instance_drak_tharon_keep", "dc/d1a/a17338.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
+    [ "OnGameObjectCreate", "dc/d1a/a17338.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
+    [ "OnGameObjectRemove", "dc/d1a/a17338.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
 ];

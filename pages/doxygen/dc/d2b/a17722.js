@@ -1,11 +1,7 @@
 var a17722 =
 [
-    [ "npc_living_mojoAI", "dc/d2b/a17722.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "dc/d2b/a17722.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "dc/d2b/a17722.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "JustEngagedWith", "dc/d2b/a17722.html#adbc665cfba933007e3f630676ab75656", null ],
-    [ "MoveInLineOfSight", "dc/d2b/a17722.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "dc/d2b/a17722.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "dc/d2b/a17722.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "dc/d2b/a17722.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "HandleApplyAura", "dc/d2b/a17722.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
+    [ "PrepareSpellScript", "dc/d2b/a17722.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
+    [ "Register", "dc/d2b/a17722.html#a80638966202cb9e27d204ea621e379ef", null ],
+    [ "Validate", "dc/d2b/a17722.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
 ];

@@ -1,8 +1,7 @@
 var a22210 =
 [
-    [ "CheckCast", "d3/d7e/a22210.html#a49e425fa95e5107f38aa16e546674b7d", null ],
-    [ "HandleScript", "d3/d7e/a22210.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
-    [ "PrepareSpellScript", "d3/d7e/a22210.html#a9e7a1239e165131b70c437793b5371d0", null ],
-    [ "Register", "d3/d7e/a22210.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
-    [ "Validate", "d3/d7e/a22210.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
+    [ "HandleScript", "d3/d7e/a22210.html#a5e6265ae9928e204d429c3c1750f472d", null ],
+    [ "PrepareSpellScript", "d3/d7e/a22210.html#a554846f934c3e14a404fec3ba534eb63", null ],
+    [ "Register", "d3/d7e/a22210.html#aafd581ede5184abfe9033d7ad75c7780", null ],
+    [ "Validate", "d3/d7e/a22210.html#a03ee24e2d9c784ca83515412246e836f", null ]
 ];

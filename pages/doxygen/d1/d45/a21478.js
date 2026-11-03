@@ -1,8 +1,6 @@
 var a21478 =
 [
-    [ "FilterTargets", "d1/d45/a21478.html#a028ef84c884536a28650ace1e56f8061", null ],
-    [ "HandleScript", "d1/d45/a21478.html#a16466b4c07c06c57493082b0e84b3c66", null ],
-    [ "PrepareSpellScript", "d1/d45/a21478.html#ad43892487ca38342a61522548b34cd2c", null ],
-    [ "Register", "d1/d45/a21478.html#a90470761baccdcf8c5430006004abf29", null ],
-    [ "Validate", "d1/d45/a21478.html#a1664dcb92887f6974e1750472c02d168", null ]
+    [ "npc_ritual_channelerAI", "de/d30/a21482.html", "de/d30/a21482" ],
+    [ "npc_ritual_channeler", "d1/d45/a21478.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "d1/d45/a21478.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

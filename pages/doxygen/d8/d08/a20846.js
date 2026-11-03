@@ -1,9 +1,27 @@
 var a20846 =
 [
-    [ "npc_ulduar_rocket_strike_trigger", "d8/d08/a20846.html#a14fc5830fe192856bd7c99f78de91070", null ],
-    [ "InitializeAI", "d8/d08/a20846.html#a50b4312f060d62e1c4e3ff144add48d8", null ],
-    [ "SetData", "d8/d08/a20846.html#a9d896f09483369fcca2a45223514f855", null ],
-    [ "SpellHitTarget", "d8/d08/a20846.html#ad4a438c5143a6de2b469baa28f0893c5", null ],
-    [ "UpdateAI", "d8/d08/a20846.html#af5e5dec908f6e0f79a7f4a508d4c4403", null ],
-    [ "_events", "d8/d08/a20846.html#acdd7bdda1ecc5d6e5c18f1306153200a", null ]
+    [ "boss_razorscale", "d8/d08/a20846.html#aa60eb42c00c6d801a7b716cea40412d2", null ],
+    [ "DamageTaken", "d8/d08/a20846.html#a7dc864d3e60c786cc8153121b39938c5", null ],
+    [ "DoAction", "d8/d08/a20846.html#a63e951ce71137869004732cfbecc6db3", null ],
+    [ "EnterEvadeMode", "d8/d08/a20846.html#acc55c1b00fbf1cdea8761eabe29a55d2", null ],
+    [ "GetData", "d8/d08/a20846.html#ae32fe4aba366d47133974787a250e9ac", null ],
+    [ "HandleMusic", "d8/d08/a20846.html#a997bbed5df4521b21b2749e47a2b8413", null ],
+    [ "Initialize", "d8/d08/a20846.html#abe14fe0e1c1afbfb9baa6c16b54a6191", null ],
+    [ "JustDied", "d8/d08/a20846.html#adad076aca788a317eb8085b22ae4d9ed", null ],
+    [ "JustEngagedWith", "d8/d08/a20846.html#ae30c01218215370bab7c5a139847c9dd", null ],
+    [ "JustSummoned", "d8/d08/a20846.html#a16cab59be86221b991f382529884b17e", null ],
+    [ "MovementInform", "d8/d08/a20846.html#a722509fba200d997e50dc586184019ec", null ],
+    [ "Reset", "d8/d08/a20846.html#a4fc8f1ff4490d419fd6fec0e4ed15a8b", null ],
+    [ "ScheduleAirEvents", "d8/d08/a20846.html#a809b1ee8e83d6de04f99b723b329c434", null ],
+    [ "ScheduleGroundEvents", "d8/d08/a20846.html#ac09d5428613218a18519c63e714c80ae", null ],
+    [ "SpellHit", "d8/d08/a20846.html#ad92c40cfcc483717bb8ca08214c22add", null ],
+    [ "SummonedCreatureDies", "d8/d08/a20846.html#a678ba10c9ab7af662c0a8e2dd9de6904", null ],
+    [ "SummonMinions", "d8/d08/a20846.html#a5d059d9571a04896c27fde1b6c5db4ce", null ],
+    [ "UpdateAI", "d8/d08/a20846.html#ab86a057182e956b50dd6a3016f6e2ffe", null ],
+    [ "_defenderCnt", "d8/d08/a20846.html#aa8e48aff86695d3469c7600ee1899f03", null ],
+    [ "_engineersAlive", "d8/d08/a20846.html#aaa9392649e8116370aace87b5927adb7", null ],
+    [ "_flyCount", "d8/d08/a20846.html#a2c65bb16401d956cbdf56923ad345015", null ],
+    [ "_harpoonHits", "d8/d08/a20846.html#a11481dd5ffe2abc73d40b0aa291c6475", null ],
+    [ "_permaGround", "d8/d08/a20846.html#a410854c247c7b28d3a933ef496988cb8", null ],
+    [ "_trapperCnt", "d8/d08/a20846.html#adde8b13457bb6376ec48492e689026f3", null ]
 ];

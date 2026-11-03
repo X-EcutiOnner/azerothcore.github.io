@@ -1,9 +1,7 @@
 var a20370 =
 [
-    [ "npc_freya_ward_summon", "dc/ddf/a20370.html#ad88b954bbbb68988915ec165ccb0a3dd", null ],
-    [ "CanAIAttack", "dc/ddf/a20370.html#a6b91ab899f11e3d6f9907b73476fa61f", null ],
-    [ "IsSummonedBy", "dc/ddf/a20370.html#ab6c7cab698470dafd14a0ed2ddd94eca", null ],
-    [ "JustEngagedWith", "dc/ddf/a20370.html#a52ca4242be249900f94d918dbc4df6c3", null ],
-    [ "Reset", "dc/ddf/a20370.html#ae2e600ad8cae543bdb4b7f7b9c4c626a", null ],
-    [ "UpdateAI", "dc/ddf/a20370.html#a175d2ca7a28ab998860fdce324c48c7e", null ]
+    [ "boss_flame_leviathan_safety_container", "dc/ddf/a20370.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
+    [ "MovementInform", "dc/ddf/a20370.html#a42842de299fd9346cc0d61b649b652a4", null ],
+    [ "UpdateAI", "dc/ddf/a20370.html#a55119d077f905a8207ad2afbe31f17a4", null ],
+    [ "_allowTimer", "dc/ddf/a20370.html#a70134398c054c837407d6a22591a2d96", null ]
 ];

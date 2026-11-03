@@ -1,7 +1,6 @@
 var a18686 =
 [
-    [ "HandleTriggerMissile", "d7/dea/a18686.html#af6370594be48d35a12009fa10a38d91d", null ],
-    [ "PrepareSpellScript", "d7/dea/a18686.html#aeeca4381273f382c3abb68f34d229213", null ],
-    [ "Register", "d7/dea/a18686.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
-    [ "Validate", "d7/dea/a18686.html#abe0b9290ddf9beaa60a583840d90d914", null ]
+    [ "HandleScript", "d7/dea/a18686.html#a038a827f7fe179ff56ab581efdf08790", null ],
+    [ "PrepareSpellScript", "d7/dea/a18686.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
+    [ "Register", "d7/dea/a18686.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
 ];

@@ -1,7 +1,4 @@
 var a19302 =
 [
-    [ "HandleScript", "dd/d8e/a19302.html#ace11e192a27b2da98ff62c4eee7980ba", null ],
-    [ "PrepareSpellScript", "dd/d8e/a19302.html#a8a6351b7f87101ac8328b6e76784978c", null ],
-    [ "Register", "dd/d8e/a19302.html#ad57068b21218492078e2d2bfe76cc3c9", null ],
-    [ "Validate", "dd/d8e/a19302.html#af6f1dd22aef0595315460c149d920dff", null ]
+    [ "operator()", "dd/d8e/a19302.html#a57b4f62b35a093665bb32073a086b8c5", null ]
 ];

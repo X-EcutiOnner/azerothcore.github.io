@@ -1,24 +1,10 @@
 var a19982 =
 [
-    [ "boss_uromAI", "df/d15/a19982.html#abeb96b1a52d3daf6d8df91a4ce96dfa8", null ],
-    [ "AttackStart", "df/d15/a19982.html#ab9f197acf29e3616ef121d6c06573ccd", null ],
-    [ "EnterEvadeMode", "df/d15/a19982.html#aaf668ef4af475ec259e909567fda5d66", null ],
-    [ "GetPhaseByCurrentPosition", "df/d15/a19982.html#ab389d9d13a4a2fcca0498b1313093c17", null ],
-    [ "JustDied", "df/d15/a19982.html#a2e675e9df2dbe084b27ee81a8e33ee70", null ],
-    [ "JustEngagedWith", "df/d15/a19982.html#a02dbc09934058463d93b88268c70ca7c", null ],
-    [ "JustSummoned", "df/d15/a19982.html#ad298bdd2619770af73265b10e77f1190", null ],
-    [ "KilledUnit", "df/d15/a19982.html#abb34f62f4e4a7f88909b1293163b8c8e", null ],
-    [ "LeaveCombat", "df/d15/a19982.html#adbc7a01adc7dd95894f3d175677353e3", null ],
-    [ "MoveInLineOfSight", "df/d15/a19982.html#ad195384e0216075b7cae67875a0d7284", null ],
-    [ "Reset", "df/d15/a19982.html#a6b8817aec3aacbedbb290c178f5b9eb0", null ],
-    [ "SpellHit", "df/d15/a19982.html#a669ede4aef5ca1da7bcca867d7231c35", null ],
-    [ "UpdateAI", "df/d15/a19982.html#a037de8c5598890701fcef021abd14c71", null ],
-    [ "events", "df/d15/a19982.html#a97732ed404611bee7168e1f04722426c", null ],
-    [ "inCenter", "df/d15/a19982.html#a8a79ebc3f12e2e9b1001f81132ef4259", null ],
-    [ "lock", "df/d15/a19982.html#a9f8635cb44dd5ac3b148c69890cfb38f", null ],
-    [ "pInstance", "df/d15/a19982.html#ab4ef43ca30ccf83c81245db164288794", null ],
-    [ "releaseLockTimer", "df/d15/a19982.html#ab96273a14e3cec773d8fe79ca774ec52", null ],
-    [ "x", "df/d15/a19982.html#a8993238ebdb4b2cc2cb92e75f705d465", null ],
-    [ "y", "df/d15/a19982.html#ae4948d320ec32a56f514f8f01061c524", null ],
-    [ "z", "df/d15/a19982.html#a7bd99156fdc38c22d43e46da8509e8c7", null ]
+    [ "npc_oculus_drakegiverAI", "df/d15/a19982.html#a4bba380256a0ede70b8d90611249b444", null ],
+    [ "MovementInform", "df/d15/a19982.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
+    [ "UpdateAI", "df/d15/a19982.html#a652a8c364687d51de62356964f6f33f9", null ],
+    [ "m_pInstance", "df/d15/a19982.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
+    [ "moved", "df/d15/a19982.html#a069e202a84d99cd757862bd1a43b5562", null ],
+    [ "resetPosition", "df/d15/a19982.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
+    [ "timer", "df/d15/a19982.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
 ];

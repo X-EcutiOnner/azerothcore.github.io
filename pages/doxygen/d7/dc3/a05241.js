@@ -1,12 +1,10 @@
 var a05241 =
 [
-    [ "FrostboltPvPTest", "d4/d6f/a30146.html", "d4/d6f/a30146" ],
-    [ "TEST_F", "d7/dc3/a05241.html#a505e9af595a807914a390aa3fe2b5a3f", null ],
-    [ "TEST_F", "d7/dc3/a05241.html#a3a2bcf2a861c5ae0aa63621f4768abd6", null ],
-    [ "TEST_F", "d7/dc3/a05241.html#ac1d8ca954bc5412a7a494f77aae4ed64", null ],
-    [ "TEST_F", "d7/dc3/a05241.html#a1baefe138ddf5a4c83ade03ad1e71835", null ],
-    [ "FROSTBOLT_BASE_DAMAGE", "d7/dc3/a05241.html#a620444164ecdf992df4d10b61454d3cf", null ],
-    [ "FROSTBOLT_DURATION_MS", "d7/dc3/a05241.html#a6d55f8f70ec9e5652a08520d2533600f", null ],
-    [ "FROSTBOLT_SLOW_PCT", "d7/dc3/a05241.html#a21ce900035aa8f72aef05d123f52ee4a", null ],
-    [ "FROSTBOLT_SPELL_ID", "d7/dc3/a05241.html#a896c09069ad88a91db2f3b2182109078", null ]
+    [ "PoolQuestReloadTest", "de/d49/a30110.html", "de/d49/a30110" ],
+    [ "TEST_F", "d7/dc3/a05241.html#ae965ec2c5a54532198d25c78231d7888", null ],
+    [ "TEST_F", "d7/dc3/a05241.html#ae1ebd88d38dd3fe29dacfb916249f401", null ],
+    [ "TEST_F", "d7/dc3/a05241.html#a88949b970cd89daff9f2c804fbbd30f8", null ],
+    [ "TEST_F", "d7/dc3/a05241.html#a51f076a8299a77b2bed17414ee1ab77d", null ],
+    [ "TEST_CREATURE_ID", "d7/dc3/a05241.html#a9d99cbff2ccde67787a3c4448497f949", null ],
+    [ "TEST_QUEST_ID", "d7/dc3/a05241.html#acd85c89c48bf6aa262bd81ed03493826", null ]
 ];

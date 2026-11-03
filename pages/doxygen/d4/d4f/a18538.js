@@ -1,6 +1,6 @@
 var a18538 =
 [
-    [ "ExtraRemoveEffect", "d4/d4f/a18538.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "d4/d4f/a18538.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "d4/d4f/a18538.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "DespawnSelf", "d4/d4f/a18538.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "d4/d4f/a18538.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "d4/d4f/a18538.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

@@ -1,9 +1,6 @@
 var a17254 =
 [
-    [ "npc_concentrated_ballAI", "d8/dcf/a17254.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "d8/dcf/a17254.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "d8/dcf/a17254.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "d8/dcf/a17254.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "d8/dcf/a17254.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "d8/dcf/a17254.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "boss_dredAI", "d0/d37/a17258.html", "d0/d37/a17258" ],
+    [ "boss_dred", "d8/dcf/a17254.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "d8/dcf/a17254.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

@@ -1,13 +1,13 @@
 var a02099 =
 [
-    [ "spell_ooze_zap", "d6/d0c/a16102.html", "d6/d0c/a16102" ],
-    [ "spell_ooze_zap_channel_end", "d3/d94/a16106.html", "d3/d94/a16106" ],
-    [ "spell_energize_aoe", "dd/d1f/a16110.html", "dd/d1f/a16110" ],
-    [ "SpellScripts", "d9/dff/a02099.html#a7da1350130e8c0e2dbb048bb6d532048", [
-      [ "SPELL_OOZE_ZAP", "d9/dff/a02099.html#a7da1350130e8c0e2dbb048bb6d532048a1b2971d13842ea79dee4215970f1b0f8", null ],
-      [ "SPELL_OOZE_ZAP_CHANNEL_END", "d9/dff/a02099.html#a7da1350130e8c0e2dbb048bb6d532048a02f7e373b9176afcf3033085c6cc4a1d", null ],
-      [ "SPELL_OOZE_CHANNEL_CREDIT", "d9/dff/a02099.html#a7da1350130e8c0e2dbb048bb6d532048a5e8e7d71235ca347c586316d35c81f2b", null ],
-      [ "SPELL_ENERGIZED", "d9/dff/a02099.html#a7da1350130e8c0e2dbb048bb6d532048a37a0a6328b9098980d1ec0596ddebbca", null ]
-    ] ],
-    [ "AddSC_dustwallow_marsh", "d9/dff/a02099.html#a90fa5d1f62873c538b717bfbfb93251b", null ]
+    [ "SkillPerfectItemEntry", "d8/df2/a11918.html", "d8/df2/a11918" ],
+    [ "SkillExtraItemEntry", "d8/de7/a11922.html", "d8/de7/a11922" ],
+    [ "SkillExtraItemMap", "d9/dff/a02099.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
+    [ "SkillPerfectItemMap", "d9/dff/a02099.html#ad732be66d93ed6e8f498077f27e2766b", null ],
+    [ "canCreateExtraItems", "d9/dff/a02099.html#a49687e255d65fa15dac5e6a428c5739d", null ],
+    [ "CanCreatePerfectItem", "d9/dff/a02099.html#a818c557864790091814604b6d2175e52", null ],
+    [ "LoadSkillExtraItemTable", "d9/dff/a02099.html#a3244d04018405bafe21acc8bc96cc743", null ],
+    [ "LoadSkillPerfectItemTable", "d9/dff/a02099.html#a121df170a82be5ab5b05999a6be27b69", null ],
+    [ "SkillExtraItemStore", "d9/dff/a02099.html#acc52416c05fbae29bcbfa9f0683485cd", null ],
+    [ "SkillPerfectItemStore", "d9/dff/a02099.html#ac676f0acbf782fa2d31bd66b8eaa8260", null ]
 ];

@@ -1,7 +1,8 @@
 var a18946 =
 [
-    [ "HandleProc", "da/d9c/a18946.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "da/d9c/a18946.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "da/d9c/a18946.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "da/d9c/a18946.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "npc_lk_spirit_bombAI", "da/d9c/a18946.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "da/d9c/a18946.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "da/d9c/a18946.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "da/d9c/a18946.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "da/d9c/a18946.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

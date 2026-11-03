@@ -1,6 +1,6 @@
 var a18618 =
 [
-    [ "CheckProc", "dc/ddd/a18618.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "dc/ddd/a18618.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "dc/ddd/a18618.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "FilterTargets", "dc/ddd/a18618.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
+    [ "PrepareSpellScript", "dc/ddd/a18618.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
+    [ "Register", "dc/ddd/a18618.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
 ];

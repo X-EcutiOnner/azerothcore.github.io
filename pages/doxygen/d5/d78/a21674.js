@@ -1,15 +1,7 @@
 var a21674 =
 [
-    [ "npc_vh_teleportation_portal", "d5/d78/a21674.html#ae4ed2aebf39ab2593c07ba3098341c91", null ],
-    [ "JustDied", "d5/d78/a21674.html#af86eefc8c9e4187e52c4dd88c41cbc38", null ],
-    [ "JustSummoned", "d5/d78/a21674.html#ad3606d29d814232a492e9e3e85048bd7", null ],
-    [ "SummonedMobDied", "d5/d78/a21674.html#aa58672b2022e44b90adc8bf331ee84fc", null ],
-    [ "UpdateAI", "d5/d78/a21674.html#a3bb6021855bed917fdd2ef47f8ddca29", null ],
-    [ "_addValue", "d5/d78/a21674.html#ad71dd5636c683cfac15423375c0dcc6d", null ],
-    [ "_events", "d5/d78/a21674.html#a1eb415b24f794c8cbb0d01084eb09669", null ],
-    [ "_instance", "d5/d78/a21674.html#acf09515827ae926fe83ffc87a7e35ac5", null ],
-    [ "_isKeeperOrGuardian", "d5/d78/a21674.html#a7483553634133f980929aaeef39bd6a6", null ],
-    [ "_listOfMobs", "d5/d78/a21674.html#a8856350d299bfb25a4e77bb8753afa14", null ],
-    [ "_spawned", "d5/d78/a21674.html#ac89ccf4030e5dffe15d0b24b991176de", null ],
-    [ "_wave", "d5/d78/a21674.html#a0d82b870a2f6bc0de62502f02fd8c1b4", null ]
+    [ "npc_azure_stalker", "d5/d78/a21674.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
+    [ "Reset", "d5/d78/a21674.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
+    [ "UpdateAI", "d5/d78/a21674.html#a22352aad7c55a4d454b9732469395139", null ],
+    [ "_events", "d5/d78/a21674.html#ad83249d787d2f763ac2d01723ff305ef", null ]
 ];

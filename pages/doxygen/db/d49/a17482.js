@@ -1,10 +1,8 @@
 var a17482 =
 [
-    [ "boss_frostsworn_general", "db/d49/a17482.html#adae1b1d60e78a33b875ac08312a454cf", null ],
-    [ "EnterEvadeMode", "db/d49/a17482.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
-    [ "JustDied", "db/d49/a17482.html#a14741cafce857fa819418ec3208c62fc", null ],
-    [ "JustEngagedWith", "db/d49/a17482.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
-    [ "Reset", "db/d49/a17482.html#a1576562e5fe2247235b152029aa8edce", null ],
-    [ "UpdateAI", "db/d49/a17482.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
-    [ "instance", "db/d49/a17482.html#ab04347cee4d7542171d622cfde936cb1", null ]
+    [ "npc_hor_raging_ghoul", "db/d49/a17482.html#a733d4ad92566a13ace3427aae6696bac", null ],
+    [ "JustDied", "db/d49/a17482.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
+    [ "Reset", "db/d49/a17482.html#aad6424be7dd53b59016963cefffe40e5", null ],
+    [ "UpdateAI", "db/d49/a17482.html#af4024393b318ca702c6652e042036b26", null ],
+    [ "leaped", "db/d49/a17482.html#a69dea538a87ae47de221768b6de42315", null ]
 ];

@@ -1,9 +1,11 @@
 var a26938 =
 [
-    [ "CheckCast", "dd/d99/a26938.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
-    [ "HandleTriggerSpellHit", "dd/d99/a26938.html#aca027bb2995456bfcedd33c06966eb88", null ],
-    [ "HandleTriggerSpellLaunch", "dd/d99/a26938.html#aa67bf9f81086a3837037d67306979072", null ],
-    [ "PrepareSpellScript", "dd/d99/a26938.html#a9247b5f3a376bebdcf857565b5049944", null ],
-    [ "Register", "dd/d99/a26938.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
-    [ "Validate", "dd/d99/a26938.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
+    [ "CheckCast", "dd/d99/a26938.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleMaxHealthHeal", "dd/d99/a26938.html#a019833641487ac07cb2c8740d5686a41", null ],
+    [ "HandleScript", "dd/d99/a26938.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "dd/d99/a26938.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "dd/d99/a26938.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "dd/d99/a26938.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "dd/d99/a26938.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "dd/d99/a26938.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

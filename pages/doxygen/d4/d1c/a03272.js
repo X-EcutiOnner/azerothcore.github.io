@@ -1,9 +1,29 @@
 var a03272 =
 [
-    [ "PetSpell", "d3/d0d/a08990.html", "d3/d0d/a08990" ],
-    [ "Pet", "d1/d47/a08994.html", "d1/d47/a08994" ],
-    [ "AutoSpellList", "d4/d1c/a03272.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
-    [ "PetSpellMap", "d4/d1c/a03272.html#a5b33058abef8c309621a9029df331c0e", null ],
-    [ "HAPPINESS_LEVEL_SIZE", "d4/d1c/a03272.html#a892e58d225a828ccac38c7d241365e30", null ],
-    [ "PET_LOSE_HAPPINES_INTERVAL", "d4/d1c/a03272.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
+    [ "instance_stratholme", "dc/d42/a13758.html", "dc/d42/a13758" ],
+    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "de/d26/a13762.html", "de/d26/a13762" ],
+    [ "go_enchanted_scarlet_thread", "d4/d5b/a13766.html", "d4/d5b/a13766" ],
+    [ "GateTrapIndexes", "d4/d1c/a03272.html#a1e3e0f954f38fb8ebd1631cecce73103", [
+      [ "GATE_TRAP_SCARLET", "d4/d1c/a03272.html#a1e3e0f954f38fb8ebd1631cecce73103a74abfbe1ca83a5c82b940d51d80917a2", null ],
+      [ "GATE_TRAP_UNDEAD", "d4/d1c/a03272.html#a1e3e0f954f38fb8ebd1631cecce73103a3c280740e9b426876dcb1d9cbadeddbf", null ],
+      [ "MAX_GATE_TRAPS", "d4/d1c/a03272.html#a1e3e0f954f38fb8ebd1631cecce73103a3e65c2448e5f5476658383fd1cb57b7d", null ]
+    ] ],
+    [ "SlaughterPhases", "d4/d1c/a03272.html#ab74452e13a914118aee0795762828b27", [
+      [ "SLAUGHTER_ABOMINATIONS", "d4/d1c/a03272.html#ab74452e13a914118aee0795762828b27a0177abc1f7a27f2a63f64b9da96ea9b1", null ],
+      [ "SLAUGHTER_RAMSTEIN", "d4/d1c/a03272.html#ab74452e13a914118aee0795762828b27a122175ef2b70c82254134dd16eb909fc", null ],
+      [ "SLAUGHTER_MINDLESS_UNDEAD", "d4/d1c/a03272.html#ab74452e13a914118aee0795762828b27a5ac54f5e0104f0c8d3275c6b71d143c8", null ],
+      [ "SLAUGHTER_BLACK_GUARD", "d4/d1c/a03272.html#ab74452e13a914118aee0795762828b27ac961d397b2a43acbb08f5094bb5a6880", null ],
+      [ "SLAUGHTER_COMPLETE", "d4/d1c/a03272.html#ab74452e13a914118aee0795762828b27a66ea693c409f7b7648b521e34d32d976", null ]
+    ] ],
+    [ "AddSC_instance_stratholme", "d4/d1c/a03272.html#add44fd9ad05267cc5db256b112db2585", null ],
+    [ "aGateTrap", "d4/d1c/a03272.html#aa404f6799978911e2f0e4de3b4386c59", null ],
+    [ "AllScarletThreadLocations", "d4/d1c/a03272.html#a055cb3e623dd7500b61e9e36afb72af7", null ],
+    [ "aPlaguedCritters", "d4/d1c/a03272.html#a4108af811b2731f9784942b89f333054", null ],
+    [ "BarthilasPos", "d4/d1c/a03272.html#a3c5bc53064d7ed19146d61fbe2f25502", null ],
+    [ "BlackGuardPos", "d4/d1c/a03272.html#a8ed1ccc03c022b129aa9bb9464fedd0a", null ],
+    [ "GATE_TRAP_COOLDOWN", "d4/d1c/a03272.html#a4f079c66cab2d51167491563e985a489", null ],
+    [ "MAX_GATE_TRAP_GATES", "d4/d1c/a03272.html#a5c405cce21d296f25e84d39b7d1d075f", null ],
+    [ "MindlessUndeadPos", "d4/d1c/a03272.html#a1a89feed6c582c3bf3e51bf3a1027081", null ],
+    [ "ScarletThreadSpawnCount", "d4/d1c/a03272.html#ab43e7dbe9fa919ee1b3442d6be2762f6", null ],
+    [ "SlaughterPos", "d4/d1c/a03272.html#aec64d79cbf450b10fd485f2e559e0472", null ]
 ];

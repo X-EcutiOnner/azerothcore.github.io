@@ -1,24 +1,7 @@
 var a21022 =
 [
-    [ "boss_xt002", "d8/d49/a21022.html#af0d0a5c5bf06431e1fea6e17eb8b2598", null ],
-    [ "ChangeNextExpose", "d8/d49/a21022.html#a028ffc2154403f0e6569f3ffe4bc5312", null ],
-    [ "DisposeHeart", "d8/d49/a21022.html#a44e48a0168213a05f44eef61706fb51d", null ],
-    [ "DoAction", "d8/d49/a21022.html#a5a385912ba3cd39a0bc37139b691992a", null ],
-    [ "EnterEvadeMode", "d8/d49/a21022.html#ab26314d28056446e206d3839a5badff7", null ],
-    [ "ExposeHeart", "d8/d49/a21022.html#a6faa25629e12a242b38eec74e434ed16", null ],
-    [ "GetData", "d8/d49/a21022.html#a7ae6062be8330b21296b05720fe7b99a", null ],
-    [ "Initialize", "d8/d49/a21022.html#aa94cf49381e47338d1b2cfeebc2ec92c", null ],
-    [ "JustDied", "d8/d49/a21022.html#a4afb96f905e61c8b35941a8481e19882", null ],
-    [ "JustEngagedWith", "d8/d49/a21022.html#a97470dbcc43d0f98fda4fcb9a70bb296", null ],
-    [ "KilledUnit", "d8/d49/a21022.html#add12c0faea7346cfa62d1f600b8a7068", null ],
-    [ "MovementInform", "d8/d49/a21022.html#ad2ad9c50ebad8b23c08818cd7c7b88e1", null ],
-    [ "PassengerBoarded", "d8/d49/a21022.html#a7c2c48a83f48107f2beee753f1fcc6b8", null ],
-    [ "RescheduleEvents", "d8/d49/a21022.html#a3ff4223b4eecab9c8b193cd5f63d8f50", null ],
-    [ "Reset", "d8/d49/a21022.html#a0d33da735deae0fb5a22c4f7d6b19fa2", null ],
-    [ "SetData", "d8/d49/a21022.html#ac4ae43822c935c3ce1820bdc96d6ed2b", null ],
-    [ "UpdateAI", "d8/d49/a21022.html#a326eb111c3d94e1bb57e9fe6e1f38c57", null ],
-    [ "_exposeHeartPercent", "d8/d49/a21022.html#a1a24dd0088c00994d8f0d0eb748a37fa", null ],
-    [ "_gravityBombCasualty", "d8/d49/a21022.html#a0d6ff56b5b3655fc0f8ca96a0e55efcc", null ],
-    [ "_hardMode", "d8/d49/a21022.html#a2882a78918439bbc63902cab0179049c", null ],
-    [ "_healthRecovered", "d8/d49/a21022.html#a756db24bed94e455ed0576c2b5261afd", null ]
+    [ "npc_xt_void_zone", "d8/d49/a21022.html#ac392b70098ff8a486d1eb42c4dcd1551", null ],
+    [ "Reset", "d8/d49/a21022.html#a72b02a51f71370f83b58d3fdb32dccd2", null ],
+    [ "UpdateAI", "d8/d49/a21022.html#a7b49046e49cdf6b94ed6368197daeace", null ],
+    [ "_scheduler", "d8/d49/a21022.html#acfd9e9a23c88e74ad96a14f8fb560612", null ]
 ];

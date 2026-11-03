@@ -1,9 +1,6 @@
 var a21066 =
 [
-    [ "GetRandomToyPile", "dd/d73/a21066.html#a4e119696b212c6a57f11b284c2bb0c82", null ],
-    [ "HandleScript", "dd/d73/a21066.html#a62eb106c6a55406adc682b372a94aaef", null ],
-    [ "PrepareSpellScript", "dd/d73/a21066.html#acb19b4f65324ce419004e969274c4816", null ],
-    [ "Register", "dd/d73/a21066.html#aba572e339d50b51cb33d04270d29b733", null ],
-    [ "Validate", "dd/d73/a21066.html#a59acb2775caa76c05797d7c8dfd0f3fb", null ],
-    [ "ToyPileSearchDistance", "dd/d73/a21066.html#aa7c7f5e7298e89e431464105d5d8bbdf", null ]
+    [ "HandleScript", "dd/d73/a21066.html#aade3cab1f80d1762bfad48407f4b91cc", null ],
+    [ "PrepareSpellScript", "dd/d73/a21066.html#ab20e548d7c0a837ee4cb7198c09e53ee", null ],
+    [ "Register", "dd/d73/a21066.html#a48a0a37b8e6f799ee9035bb766fd6db2", null ]
 ];

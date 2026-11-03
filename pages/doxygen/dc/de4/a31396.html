@@ -155,16 +155,16 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_function" href="../../d8/d9b/a05219.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   26</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../d8/d9b/a05219.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
+<div class="line"><span class="lineno">   25</span>    <a class="code hl_function" href="../../d5/d9b/a05222.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
+<div class="line"><span class="lineno">   26</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../d5/d9b/a05222.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
 <div class="line"><span class="lineno">   27</span>    std::this_thread::sleep_for(50ms);</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_function" href="../../d8/d9b/a05219.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   29</span>    <span class="keyword">auto</span> elapsed = <a class="code hl_function" href="../../d8/d9b/a05219.html#af9a7dcb5dfa331445f56900767b13e8b">GameTime::Elapsed</a>(start);</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_function" href="../../d5/d9b/a05222.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
+<div class="line"><span class="lineno">   29</span>    <span class="keyword">auto</span> elapsed = <a class="code hl_function" href="../../d5/d9b/a05222.html#af9a7dcb5dfa331445f56900767b13e8b">GameTime::Elapsed</a>(start);</div>
 <div class="line"><span class="lineno">   30</span>    EXPECT_GE(elapsed, 50ms);</div>
 <div class="line"><span class="lineno">   31</span>}</div>
-<div class="ttc" id="aa05219_html_a45712735241c9563a12fc3da54fb144d"><div class="ttname"><a href="../../d8/d9b/a05219.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a></div><div class="ttdeci">void UpdateGameTimers()</div><div class="ttdoc">Update all timers.</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:64</div></div>
-<div class="ttc" id="aa05219_html_ae5cc9f17fc6b8b15c678fa7a84a6e117"><div class="ttname"><a href="../../d8/d9b/a05219.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a></div><div class="ttdeci">TimePoint Now()</div><div class="ttdoc">Current chrono steady_clock time point.</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:54</div></div>
-<div class="ttc" id="aa05219_html_af9a7dcb5dfa331445f56900767b13e8b"><div class="ttname"><a href="../../d8/d9b/a05219.html#af9a7dcb5dfa331445f56900767b13e8b">GameTime::Elapsed</a></div><div class="ttdeci">Microseconds Elapsed(TimePoint start)</div><div class="ttdoc">Uptime since a given time point.</div><div class="ttdef"><b>Definition:</b> GameTime.h:45</div></div>
+<div class="ttc" id="aa05222_html_a45712735241c9563a12fc3da54fb144d"><div class="ttname"><a href="../../d5/d9b/a05222.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a></div><div class="ttdeci">void UpdateGameTimers()</div><div class="ttdoc">Update all timers.</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:64</div></div>
+<div class="ttc" id="aa05222_html_ae5cc9f17fc6b8b15c678fa7a84a6e117"><div class="ttname"><a href="../../d5/d9b/a05222.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a></div><div class="ttdeci">TimePoint Now()</div><div class="ttdoc">Current chrono steady_clock time point.</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:54</div></div>
+<div class="ttc" id="aa05222_html_af9a7dcb5dfa331445f56900767b13e8b"><div class="ttname"><a href="../../d5/d9b/a05222.html#af9a7dcb5dfa331445f56900767b13e8b">GameTime::Elapsed</a></div><div class="ttdeci">Microseconds Elapsed(TimePoint start)</div><div class="ttdoc">Uptime since a given time point.</div><div class="ttdef"><b>Definition:</b> GameTime.h:45</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00045">GameTime::Elapsed()</a>, <a class="el" href="../../#l00054">GameTime::Now()</a>, and <a class="el" href="../../#l00064">GameTime::UpdateGameTimers()</a>.</p>
 
@@ -196,11 +196,11 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_function" href="../../d8/d9b/a05219.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   45</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../d8/d9b/a05219.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
-<div class="line"><span class="lineno">   46</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d8/d9b/a05219.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a>(start, 10s));</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_function" href="../../d5/d9b/a05222.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
+<div class="line"><span class="lineno">   45</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../d5/d9b/a05222.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
+<div class="line"><span class="lineno">   46</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d5/d9b/a05222.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a>(start, 10s));</div>
 <div class="line"><span class="lineno">   47</span>}</div>
-<div class="ttc" id="aa05219_html_a6acb8998bc9dae720531cb39082262f2"><div class="ttname"><a href="../../d8/d9b/a05219.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a></div><div class="ttdeci">bool HasElapsed(TimePoint start, T duration)</div><div class="ttdoc">Check if a duration has elapsed since a given time point.</div><div class="ttdef"><b>Definition:</b> GameTime.h:52</div></div>
+<div class="ttc" id="aa05222_html_a6acb8998bc9dae720531cb39082262f2"><div class="ttname"><a href="../../d5/d9b/a05222.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a></div><div class="ttdeci">bool HasElapsed(TimePoint start, T duration)</div><div class="ttdoc">Check if a duration has elapsed since a given time point.</div><div class="ttdef"><b>Definition:</b> GameTime.h:52</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00052">GameTime::HasElapsed()</a>, <a class="el" href="../../#l00054">GameTime::Now()</a>, and <a class="el" href="../../#l00064">GameTime::UpdateGameTimers()</a>.</p>
 
@@ -232,11 +232,11 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_function" href="../../d8/d9b/a05219.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   36</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../d8/d9b/a05219.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_function" href="../../d5/d9b/a05222.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
+<div class="line"><span class="lineno">   36</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../d5/d9b/a05222.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
 <div class="line"><span class="lineno">   37</span>    std::this_thread::sleep_for(50ms);</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_function" href="../../d8/d9b/a05219.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   39</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d8/d9b/a05219.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a>(start, 25ms));</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_function" href="../../d5/d9b/a05222.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
+<div class="line"><span class="lineno">   39</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/d9b/a05222.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a>(start, 25ms));</div>
 <div class="line"><span class="lineno">   40</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00052">GameTime::HasElapsed()</a>, <a class="el" href="../../#l00054">GameTime::Now()</a>, and <a class="el" href="../../#l00064">GameTime::UpdateGameTimers()</a>.</p>
@@ -269,13 +269,13 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_function" href="../../d8/d9b/a05219.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   59</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../d8/d9b/a05219.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_function" href="../../d5/d9b/a05222.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
+<div class="line"><span class="lineno">   59</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../d5/d9b/a05222.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
 <div class="line"><span class="lineno">   60</span>    std::this_thread::sleep_for(100us);</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_function" href="../../d8/d9b/a05219.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   62</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d8/d9b/a05219.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a>(start, <a class="code hl_typedef" href="../../d8/d10/a05018.html#a201a83ed0d59d2baf946daf42dac834f">Microseconds</a>(1)));</div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_function" href="../../d5/d9b/a05222.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
+<div class="line"><span class="lineno">   62</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/d9b/a05222.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a>(start, <a class="code hl_typedef" href="../../db/dbc/a00395.html#a201a83ed0d59d2baf946daf42dac834f">Microseconds</a>(1)));</div>
 <div class="line"><span class="lineno">   63</span>}</div>
-<div class="ttc" id="aa05018_html_a201a83ed0d59d2baf946daf42dac834f"><div class="ttname"><a href="../../d8/d10/a05018.html#a201a83ed0d59d2baf946daf42dac834f">Microseconds</a></div><div class="ttdeci">std::chrono::microseconds Microseconds</div><div class="ttdoc">Microseconds shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:24</div></div>
+<div class="ttc" id="aa00395_html_a201a83ed0d59d2baf946daf42dac834f"><div class="ttname"><a href="../../db/dbc/a00395.html#a201a83ed0d59d2baf946daf42dac834f">Microseconds</a></div><div class="ttdeci">std::chrono::microseconds Microseconds</div><div class="ttdoc">Microseconds shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:24</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00052">GameTime::HasElapsed()</a>, <a class="el" href="../../#l00054">GameTime::Now()</a>, and <a class="el" href="../../#l00064">GameTime::UpdateGameTimers()</a>.</p>
 
@@ -307,9 +307,9 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_function" href="../../d8/d9b/a05219.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   52</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../d8/d9b/a05219.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
-<div class="line"><span class="lineno">   53</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d8/d9b/a05219.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a>(start, 1s));</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_function" href="../../d5/d9b/a05222.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
+<div class="line"><span class="lineno">   52</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../d5/d9b/a05222.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
+<div class="line"><span class="lineno">   53</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d5/d9b/a05222.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a>(start, 1s));</div>
 <div class="line"><span class="lineno">   54</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00052">GameTime::HasElapsed()</a>, <a class="el" href="../../#l00054">GameTime::Now()</a>, and <a class="el" href="../../#l00064">GameTime::UpdateGameTimers()</a>.</p>
@@ -322,7 +322,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_f5e4129fec19524b88796969e1224b90.html">Time</a></li><li class="navelem"><a class="el" href="../../dc/de4/a31396.html">GameTime.cpp</a></li>
-    <li class="footer">Generated on Tue Oct 27 2026 00:02:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Nov 3 2026 02:36:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

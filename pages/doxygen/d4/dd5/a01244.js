@@ -1,15 +1,12 @@
 var a01244 =
 [
-    [ "icecrown_citadel_teleport", "dc/db8/a19490.html", "dc/db8/a19490" ],
-    [ "at_frozen_throne_teleport", "d5/d5a/a19494.html", "d5/d5a/a19494" ],
-    [ "GOSSIP_SENDER_ICC_PORT", "d4/dd5/a01244.html#a6fba34564bcdeb5d7a73d3c21850f02a", null ],
-    [ "ICCTeleportOption", "d4/dd5/a01244.html#a6fd4f2624c3269860a58fdcfbb273928", [
-      [ "ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER", "d4/dd5/a01244.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED", "d4/dd5/a01244.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS", "d4/dd5/a01244.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE", "d4/dd5/a01244.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE", "d4/dd5/a01244.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR", "d4/dd5/a01244.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b", null ]
-    ] ],
-    [ "AddSC_icecrown_citadel_teleport", "d4/dd5/a01244.html#aba5bcd7624aeee0dbd61deec7f8d5d5b", null ]
+    [ "ArenaTeamScript", "d3/d26/a10818.html", "d3/d26/a10818" ],
+    [ "ArenaTeamHook", "d4/dd5/a01244.html#adfb7077026efd17516d6b85637c2b218", [
+      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d4/dd5/a01244.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
+      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d4/dd5/a01244.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
+      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d4/dd5/a01244.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
+      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d4/dd5/a01244.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
+      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d4/dd5/a01244.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
+      [ "ARENATEAMHOOK_END", "d4/dd5/a01244.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
+    ] ]
 ];

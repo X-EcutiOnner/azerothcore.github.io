@@ -1,8 +1,5 @@
 var a05402 =
 [
-    [ "LocationInfo", "d9/d61/a05402.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
-    [ "ground_Z", "d9/d61/a05402.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
-    [ "hitInstance", "d9/d61/a05402.html#ab59b10bde437cca895b69c2035174b6d", null ],
-    [ "hitModel", "d9/d61/a05402.html#a17eef5c7a0ebf9b9963740a10fca459f", null ],
-    [ "rootId", "d9/d61/a05402.html#aae82d7d8518db5e131d6a327927c75a2", null ]
+    [ "hitModel", "d9/d61/a05402.html#a4d0c56a02fb5f454753a3dba17e9d67b", null ],
+    [ "rootId", "d9/d61/a05402.html#aa855bd49800e7a3b6713d72f0cf629d5", null ]
 ];

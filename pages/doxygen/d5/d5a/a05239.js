@@ -1,10 +1,8 @@
 var a05239 =
 [
-    [ "AuraLoadedStateTest", "dc/def/a30118.html", "dc/def/a30118" ],
-    [ "TEST_F", "d5/d5a/a05239.html#a895af5f48da5209f7d733deb9891ed14", null ],
-    [ "TEST_F", "d5/d5a/a05239.html#a548b1d31d026d08300cee3bdae2fd6d6", null ],
-    [ "AURA_DURATION", "d5/d5a/a05239.html#a3518f795a6c55dbdde7cc0ece4a705e1", null ],
-    [ "BASE_AMOUNT", "d5/d5a/a05239.html#ad5f15dfa412737c696115d53ae943a5e", null ],
-    [ "SAVED_AMOUNT", "d5/d5a/a05239.html#ae35607bfd8bc471969f34f8f743ff210", null ],
-    [ "TEST_AURA_SPELL_ID", "d5/d5a/a05239.html#a1372aab52ee88af350f43d4b126245d5", null ]
+    [ "VehiclePlayerBoardingTest", "d2/df1/a30082.html", "d2/df1/a30082" ],
+    [ "TEST_F", "d5/d5a/a05239.html#a9c4e3234f3f694685d6bba96a19b6885", null ],
+    [ "TEST_F", "d5/d5a/a05239.html#afc079b04a5f47d2d545b4844e88aebf8", null ],
+    [ "TEST_F", "d5/d5a/a05239.html#a639de3ec7dbf67a9b7db8b19d90d3c2e", null ],
+    [ "TEST_F", "d5/d5a/a05239.html#acdfacc03855790506711ee2410c8076a", null ]
 ];

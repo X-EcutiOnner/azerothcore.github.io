@@ -1,49 +1,17 @@
 var a02453 =
 [
-    [ "DoorData", "d0/db5/a10127.html", "d0/db5/a10127" ],
-    [ "BossBoundaryEntry", "da/d66/a10131.html", "da/d66/a10131" ],
-    [ "BossBoundaryData", "d5/ddf/a10135.html", "d5/ddf/a10135" ],
-    [ "MinionData", "d5/dfe/a10139.html", "d5/dfe/a10139" ],
-    [ "ObjectData", "d7/d38/a10143.html", "d7/d38/a10143" ],
-    [ "BossInfo", "d6/d71/a10147.html", "d6/d71/a10147" ],
-    [ "DoorInfo", "d9/d28/a10151.html", "d9/d28/a10151" ],
-    [ "MinionInfo", "dc/dea/a10155.html", "dc/dea/a10155" ],
-    [ "InstanceScript", "da/d3a/a10159.html", "da/d3a/a10159" ],
-    [ "OUT_LOAD_INST_DATA", "d3/d27/a02453.html#aafbf0073420e9a897ec0f243f4793a0f", null ],
-    [ "OUT_LOAD_INST_DATA_COMPLETE", "d3/d27/a02453.html#a490e19560f068912b0e3dbd61c689b44", null ],
-    [ "OUT_LOAD_INST_DATA_FAIL", "d3/d27/a02453.html#a141fd6fe34ebbd5c3ad507db42f41b4a", null ],
-    [ "OUT_SAVE_INST_DATA", "d3/d27/a02453.html#a65ed3183971093dcebed99d1ec6d6d63", null ],
-    [ "OUT_SAVE_INST_DATA_COMPLETE", "d3/d27/a02453.html#a3a93295e3500f757163145c03e90db3d", null ],
-    [ "DoorInfoMap", "d3/d27/a02453.html#ab665e2d424a75aeb6703ccd08050676c", null ],
-    [ "DoorInfoMapBounds", "d3/d27/a02453.html#ac55e7bd9aa319ccb4e7a22a3e35c3326", null ],
-    [ "DoorSet", "d3/d27/a02453.html#a17be047bdb4b0361cdee9637ff279e9f", null ],
-    [ "MinionInfoMap", "d3/d27/a02453.html#a3b05920ad054e3f59bf988485603d2de", null ],
-    [ "MinionSet", "d3/d27/a02453.html#add004a84abc4c98dae65145dce2d17bb", null ],
-    [ "ObjectGuidMap", "d3/d27/a02453.html#a3c451c29106077a2c6f8f88facbb2c69", null ],
-    [ "ObjectInfoMap", "d3/d27/a02453.html#ac2936b863aac3fd2483eae5e234ac053", null ],
-    [ "ObjectStateMap", "d3/d27/a02453.html#a4edbb4a71661ac569a73338c83672f9d", null ],
-    [ "DoorType", "d3/d27/a02453.html#ac3549b9e861c142e11e5ad86b8b6947e", [
-      [ "DOOR_TYPE_ROOM", "d3/d27/a02453.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70", null ],
-      [ "DOOR_TYPE_PASSAGE", "d3/d27/a02453.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905", null ],
-      [ "DOOR_TYPE_SPAWN_HOLE", "d3/d27/a02453.html#ac3549b9e861c142e11e5ad86b8b6947ea05ae5ae0867f3b0c721a17ac307ff7bb", null ],
-      [ "MAX_DOOR_TYPES", "d3/d27/a02453.html#ac3549b9e861c142e11e5ad86b8b6947eac54cf58ec577ca37abba35d02ff97571", null ]
+    [ "Arena", "df/d72/a07706.html", "df/d72/a07706" ],
+    [ "ArenaBroadcastTexts", "d3/d27/a02453.html#a407f2036481e3d9e2def3daa50546c71", [
+      [ "ARENA_TEXT_START_ONE_MINUTE", "d3/d27/a02453.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
+      [ "ARENA_TEXT_START_THIRTY_SECONDS", "d3/d27/a02453.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
+      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "d3/d27/a02453.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
+      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "d3/d27/a02453.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
     ] ],
-    [ "EncounterFrameType", "d3/d27/a02453.html#a2b83b4959bad3f736ee0463c50b9477d", [
-      [ "ENCOUNTER_FRAME_ENGAGE", "d3/d27/a02453.html#a2b83b4959bad3f736ee0463c50b9477daf39a3442170d2b9d97b31f1aa952053a", null ],
-      [ "ENCOUNTER_FRAME_DISENGAGE", "d3/d27/a02453.html#a2b83b4959bad3f736ee0463c50b9477daade40d90f5283e0cf9f587ddbe1bcc22", null ],
-      [ "ENCOUNTER_FRAME_UPDATE_PRIORITY", "d3/d27/a02453.html#a2b83b4959bad3f736ee0463c50b9477dab466d621ed48059fed64ca588282a9bc", null ],
-      [ "ENCOUNTER_FRAME_ADD_TIMER", "d3/d27/a02453.html#a2b83b4959bad3f736ee0463c50b9477dac4db9282020e33d1fff31aeeeac8d689", null ],
-      [ "ENCOUNTER_FRAME_ENABLE_OBJECTIVE", "d3/d27/a02453.html#a2b83b4959bad3f736ee0463c50b9477da0f44e24d1a7751fed4d394719579336c", null ],
-      [ "ENCOUNTER_FRAME_UPDATE_OBJECTIVE", "d3/d27/a02453.html#a2b83b4959bad3f736ee0463c50b9477dac2613e711f746c05f27d7aa0eae3d51b", null ],
-      [ "ENCOUNTER_FRAME_DISABLE_OBJECTIVE", "d3/d27/a02453.html#a2b83b4959bad3f736ee0463c50b9477dac1903193f76dfb04f3009b98b4ddce1c", null ],
-      [ "ENCOUNTER_FRAME_REFRESH_FRAMES", "d3/d27/a02453.html#a2b83b4959bad3f736ee0463c50b9477dac4ca16adedcc16b4cac2ad580ed3e8ec", null ]
-    ] ],
-    [ "EncounterState", "d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438", [
-      [ "NOT_STARTED", "d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5", null ],
-      [ "IN_PROGRESS", "d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012", null ],
-      [ "FAIL", "d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a936c4a5547a9360243178f726f6b2715", null ],
-      [ "DONE", "d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749", null ],
-      [ "SPECIAL", "d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465", null ],
-      [ "TO_BE_DECIDED", "d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438af259c60d63b511a33d9f0d1094c45958", null ]
+    [ "ArenaSpellIds", "d3/d27/a02453.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
+      [ "SPELL_ALLIANCE_GOLD_FLAG", "d3/d27/a02453.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
+      [ "SPELL_ALLIANCE_GREEN_FLAG", "d3/d27/a02453.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
+      [ "SPELL_HORDE_GOLD_FLAG", "d3/d27/a02453.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
+      [ "SPELL_HORDE_GREEN_FLAG", "d3/d27/a02453.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
+      [ "SPELL_LAST_MAN_STANDING", "d3/d27/a02453.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
     ] ]
 ];

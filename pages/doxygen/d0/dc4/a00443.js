@@ -1,13 +1,17 @@
 var a00443 =
 [
-    [ "npc_underbat", "df/d1c/a23674.html", "df/d1c/a23674" ],
-    [ "spell_fungal_decay", "d4/d77/a23678.html", "d4/d77/a23678" ],
-    [ "spell_allergies", "d4/d75/a23682.html", "d4/d75/a23682" ],
-    [ "AllergiesEnum", "d0/dc4/a00443.html#a597f861031d65ff9c7c3da68293f6847", [
-      [ "SPELL_SNEEZE", "d0/dc4/a00443.html#a597f861031d65ff9c7c3da68293f6847aca231923ca4e3560754e0ead3753c7e3", null ]
-    ] ],
-    [ "UnderbatSpells", "d0/dc4/a00443.html#aba9ed07daed7ae7df6becb96f5194f52", [
-      [ "SPELL_TENTACLE_LASH", "d0/dc4/a00443.html#aba9ed07daed7ae7df6becb96f5194f52a8fb7d802a437e3e383ba2095ae12b96a", null ]
-    ] ],
-    [ "AddSC_underbog", "d0/dc4/a00443.html#a8c9725cac978bfa0eb0405faa6588549", null ]
+    [ "FormatArgs", "d0/dc4/a00443.html#a300bea6aa9ed219f5f3636b900db3ac9", null ],
+    [ "FormatString", "d0/dc4/a00443.html#a32c972cafca136b88de5b298d6cba338", null ],
+    [ "FormatStringView", "d0/dc4/a00443.html#a9a310e3057a14b5ee0f7520e08cb0410", null ],
+    [ "AddSuffixIfNotExists", "d0/dc4/a00443.html#a712bea71ec99d750664fd46c690a1ad9", null ],
+    [ "format_as", "d0/dc4/a00443.html#aaa7f21af5991452196a22cd79e127825", null ],
+    [ "IsFormatEmptyOrNull", "d0/dc4/a00443.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
+    [ "IsFormatEmptyOrNull", "d0/dc4/a00443.html#a84459e91f517fc4f79414cc23370b9f1", null ],
+    [ "MakeFormatArgs", "d0/dc4/a00443.html#abd5773b7124dcbc8deb88f522cdcc86f", null ],
+    [ "StringFormat", "d0/dc4/a00443.html#a1b97349dfcb88c6974882d7e34c55895", null ],
+    [ "StringFormatTo", "d0/dc4/a00443.html#a7c53f407c3169d5a97d012ca3470880d", null ],
+    [ "StringVFormat", "d0/dc4/a00443.html#acc68f8d815604ae13c370c09fbb60efd", null ],
+    [ "StringVFormatTo", "d0/dc4/a00443.html#a17112c1b25595793b63f24de06f90081", null ],
+    [ "Trim", "d0/dc4/a00443.html#ad9cd9e0eab5d7794778d1270b2720337", null ],
+    [ "TrimRightInPlace", "d0/dc4/a00443.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
 ];

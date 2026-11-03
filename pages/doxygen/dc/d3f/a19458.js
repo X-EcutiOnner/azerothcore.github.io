@@ -1,6 +1,5 @@
 var a19458 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d7/d58/a19462.html", "d7/d58/a19462" ],
-    [ "npc_icc_gauntlet_controller", "dc/d3f/a19458.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "dc/d3f/a19458.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "at_icc_spire_frostwyrm", "dc/d3f/a19458.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "dc/d3f/a19458.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

@@ -1,8 +1,5 @@
 var a17466 =
 [
-    [ "npc_phantom_hallucination", "dc/d19/a17466.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
-    [ "EnterEvadeMode", "dc/d19/a17466.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
-    [ "JustDied", "dc/d19/a17466.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
-    [ "UpdateAI", "dc/d19/a17466.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
-    [ "numOfUpd", "dc/d19/a17466.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
+    [ "at_hor_shadow_throne", "dc/d19/a17466.html#a342808808be75079acf6a2f930afe930", null ],
+    [ "OnTrigger", "dc/d19/a17466.html#a47deb4d6506e859d90fcf16d72e43d9c", null ]
 ];

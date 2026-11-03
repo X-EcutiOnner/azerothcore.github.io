@@ -1,15 +1,9 @@
 var a19898 =
 [
-    [ "boss_anomalus", "df/d76/a19898.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "df/d76/a19898.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "df/d76/a19898.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "df/d76/a19898.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "df/d76/a19898.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "df/d76/a19898.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "df/d76/a19898.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "df/d76/a19898.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "df/d76/a19898.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "_empowered", "df/d76/a19898.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
-    [ "achievement", "df/d76/a19898.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "df/d76/a19898.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "HandleApply", "df/d76/a19898.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "df/d76/a19898.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "df/d76/a19898.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "df/d76/a19898.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "df/d76/a19898.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "df/d76/a19898.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

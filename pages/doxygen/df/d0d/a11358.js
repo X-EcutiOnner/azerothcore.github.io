@@ -1,8 +1,7 @@
 var a11358 =
 [
-    [ "SetDungeonDifficulty", "df/d0d/a11358.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
-    [ "Write", "df/d0d/a11358.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
-    [ "Difficulty", "df/d0d/a11358.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
-    [ "IsInGroup", "df/d0d/a11358.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
-    [ "Unk", "df/d0d/a11358.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
+    [ "InstanceResetFailed", "df/d0d/a11358.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "df/d0d/a11358.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "df/d0d/a11358.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "df/d0d/a11358.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

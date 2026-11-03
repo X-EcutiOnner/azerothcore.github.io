@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/StringFormat.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/World/action_ip_logger.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,95 +105,150 @@ $(document).ready(function(){initNavTree('d7/d17/a05024.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">StringFormat.h File Reference</div></div>
+  <div class="headertitle"><div class="title">action_ip_logger.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &lt;fmt/chrono.h&gt;</code><br />
-<code>#include &lt;fmt/format.h&gt;</code><br />
-<code>#include &lt;fmt/printf.h&gt;</code><br />
-<code>#include &lt;locale&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AccountScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Channel.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Group.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Guild.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">PlayerScript.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:dd/d43/a05133"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d43/a05133.html">Acore</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d64/a28246.html">AccountActionIpLogger</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d7/d13/a05156"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d13/a05156.html">Acore::String</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a28250.html">CharacterActionIpLogger</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de2/a28254.html">CharacterDeleteActionIpLogger</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a32c972cafca136b88de5b298d6cba338"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
-<tr class="memitem:a32c972cafca136b88de5b298d6cba338"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/d43/a05133.html#a32c972cafca136b88de5b298d6cba338">Acore::FormatString</a> = fmt::format_string&lt; Args... &gt;</td></tr>
-<tr class="separator:a32c972cafca136b88de5b298d6cba338"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9a310e3057a14b5ee0f7520e08cb0410"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d43/a05133.html#a9a310e3057a14b5ee0f7520e08cb0410">Acore::FormatStringView</a> = fmt::string_view</td></tr>
-<tr class="separator:a9a310e3057a14b5ee0f7520e08cb0410"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a300bea6aa9ed219f5f3636b900db3ac9"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d43/a05133.html#a300bea6aa9ed219f5f3636b900db3ac9">Acore::FormatArgs</a> = fmt::format_args</td></tr>
-<tr class="separator:a300bea6aa9ed219f5f3636b900db3ac9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a3b67d8dbf539fa5519b3e33da9d0137b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137b">IPLoggingTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8">ACCOUNT_LOGIN</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f">ACCOUNT_FAIL_LOGIN</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059">ACCOUNT_CHANGE_PW</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53">ACCOUNT_CHANGE_PW_FAIL</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c">ACCOUNT_CHANGE_EMAIL</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30">ACCOUNT_CHANGE_EMAIL_FAIL</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85">CHARACTER_CREATE</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363">CHARACTER_LOGIN</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607">CHARACTER_LOGOUT</a> = 9
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162">CHARACTER_DELETE</a> = 10
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7">CHARACTER_FAILED_DELETE</a> = 11
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8">UNKNOWN_ACTION</a> = 12
+<br />
+ }</td></tr>
+<tr class="separator:a3b67d8dbf539fa5519b3e33da9d0137b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:abd5773b7124dcbc8deb88f522cdcc86f"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
-<tr class="memitem:abd5773b7124dcbc8deb88f522cdcc86f"><td class="memTemplItemLeft" align="right" valign="top">constexpr auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/d43/a05133.html#abd5773b7124dcbc8deb88f522cdcc86f">Acore::MakeFormatArgs</a> (Args &amp;&amp;... args)</td></tr>
-<tr class="separator:abd5773b7124dcbc8deb88f522cdcc86f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1b97349dfcb88c6974882d7e34c55895"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
-<tr class="memitem:a1b97349dfcb88c6974882d7e34c55895"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/d43/a05133.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a> (FormatStringView fmt, Args &amp;&amp;... args)</td></tr>
-<tr class="memdesc:a1b97349dfcb88c6974882d7e34c55895"><td class="mdescLeft">&#160;</td><td class="mdescRight">Default AC string format function.  <a href="../../dd/d43/a05133.html#a1b97349dfcb88c6974882d7e34c55895">More...</a><br /></td></tr>
-<tr class="separator:a1b97349dfcb88c6974882d7e34c55895"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7c53f407c3169d5a97d012ca3470880d"><td class="memTemplParams" colspan="2">template&lt;typename OutputIt , typename... Args&gt; </td></tr>
-<tr class="memitem:a7c53f407c3169d5a97d012ca3470880d"><td class="memTemplItemLeft" align="right" valign="top">OutputIt&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/d43/a05133.html#a7c53f407c3169d5a97d012ca3470880d">Acore::StringFormatTo</a> (OutputIt out, FormatStringView fmt, Args &amp;&amp;... args)</td></tr>
-<tr class="memdesc:a7c53f407c3169d5a97d012ca3470880d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Format directly to an output iterator.  <a href="../../dd/d43/a05133.html#a7c53f407c3169d5a97d012ca3470880d">More...</a><br /></td></tr>
-<tr class="separator:a7c53f407c3169d5a97d012ca3470880d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acc68f8d815604ae13c370c09fbb60efd"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d43/a05133.html#acc68f8d815604ae13c370c09fbb60efd">Acore::StringVFormat</a> (FormatStringView fmt, FormatArgs args)</td></tr>
-<tr class="memdesc:acc68f8d815604ae13c370c09fbb60efd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Format with pre-built format args.  <a href="../../dd/d43/a05133.html#acc68f8d815604ae13c370c09fbb60efd">More...</a><br /></td></tr>
-<tr class="separator:acc68f8d815604ae13c370c09fbb60efd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a17112c1b25595793b63f24de06f90081"><td class="memTemplParams" colspan="2">template&lt;typename OutputIt &gt; </td></tr>
-<tr class="memitem:a17112c1b25595793b63f24de06f90081"><td class="memTemplItemLeft" align="right" valign="top">OutputIt&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/d43/a05133.html#a17112c1b25595793b63f24de06f90081">Acore::StringVFormatTo</a> (OutputIt out, FormatStringView fmt, FormatArgs args)</td></tr>
-<tr class="memdesc:a17112c1b25595793b63f24de06f90081"><td class="mdescLeft">&#160;</td><td class="mdescRight">Format with pre-built format args directly to an output iterator.  <a href="../../dd/d43/a05133.html#a17112c1b25595793b63f24de06f90081">More...</a><br /></td></tr>
-<tr class="separator:a17112c1b25595793b63f24de06f90081"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6f5584cc7346fd1972b3e8a74036467f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d43/a05133.html#a6f5584cc7346fd1972b3e8a74036467f">Acore::IsFormatEmptyOrNull</a> (char const *fmt)</td></tr>
-<tr class="memdesc:a6f5584cc7346fd1972b3e8a74036467f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if the given char pointer is null.  <a href="../../dd/d43/a05133.html#a6f5584cc7346fd1972b3e8a74036467f">More...</a><br /></td></tr>
-<tr class="separator:a6f5584cc7346fd1972b3e8a74036467f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a84459e91f517fc4f79414cc23370b9f1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d43/a05133.html#a84459e91f517fc4f79414cc23370b9f1">Acore::IsFormatEmptyOrNull</a> (std::string_view fmt)</td></tr>
-<tr class="memdesc:a84459e91f517fc4f79414cc23370b9f1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if the given std::string is empty.  <a href="../../dd/d43/a05133.html#a84459e91f517fc4f79414cc23370b9f1">More...</a><br /></td></tr>
-<tr class="separator:a84459e91f517fc4f79414cc23370b9f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad9cd9e0eab5d7794778d1270b2720337"><td class="memTemplParams" colspan="2">template&lt;class Str &gt; </td></tr>
-<tr class="memitem:ad9cd9e0eab5d7794778d1270b2720337"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="../../d6/d8c/a04703.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> Str&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d13/a05156.html#ad9cd9e0eab5d7794778d1270b2720337">Acore::String::Trim</a> (Str const &amp;s, std::locale const &amp;loc=std::locale())</td></tr>
-<tr class="separator:ad9cd9e0eab5d7794778d1270b2720337"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac78200daa5bc5f1d4c50a1df47a7a4db"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d8c/a04703.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d13/a05156.html#ac78200daa5bc5f1d4c50a1df47a7a4db">Acore::String::TrimRightInPlace</a> (std::string &amp;str)</td></tr>
-<tr class="separator:ac78200daa5bc5f1d4c50a1df47a7a4db"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a712bea71ec99d750664fd46c690a1ad9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d8c/a04703.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d13/a05156.html#a712bea71ec99d750664fd46c690a1ad9">Acore::String::AddSuffixIfNotExists</a> (std::string str, const char suffix)</td></tr>
-<tr class="memdesc:a712bea71ec99d750664fd46c690a1ad9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Util function to add a suffix char. Can be used to add a slash at the end of a path.  <a href="../../d7/d13/a05156.html#a712bea71ec99d750664fd46c690a1ad9">More...</a><br /></td></tr>
-<tr class="separator:a712bea71ec99d750664fd46c690a1ad9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa7f21af5991452196a22cd79e127825"><td class="memTemplParams" colspan="2">template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </td></tr>
-<tr class="memitem:aaa7f21af5991452196a22cd79e127825"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d17/a05024.html#aaa7f21af5991452196a22cd79e127825">format_as</a> (T f)</td></tr>
-<tr class="separator:aaa7f21af5991452196a22cd79e127825"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a530be5efb251d5ca58e97804e48ad953"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d17/a05024.html#a530be5efb251d5ca58e97804e48ad953">AddSC_action_ip_logger</a> ()</td></tr>
+<tr class="separator:a530be5efb251d5ca58e97804e48ad953"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="aaa7f21af5991452196a22cd79e127825" name="aaa7f21af5991452196a22cd79e127825"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaa7f21af5991452196a22cd79e127825">&#9670;&#160;</a></span>format_as()</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a3b67d8dbf539fa5519b3e33da9d0137b" name="a3b67d8dbf539fa5519b3e33da9d0137b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b67d8dbf539fa5519b3e33da9d0137b">&#9670;&#160;</a></span>IPLoggingTypes</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">auto format_as </td>
+          <td class="memname">enum <a class="el" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137b">IPLoggingTypes</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8" name="a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8"></a>ACCOUNT_LOGIN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f" name="a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f"></a>ACCOUNT_FAIL_LOGIN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059" name="a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059"></a>ACCOUNT_CHANGE_PW&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53" name="a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53"></a>ACCOUNT_CHANGE_PW_FAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c" name="a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c"></a>ACCOUNT_CHANGE_EMAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30" name="a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30"></a>ACCOUNT_CHANGE_EMAIL_FAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85" name="a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85"></a>CHARACTER_CREATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363" name="a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363"></a>CHARACTER_LOGIN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607" name="a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607"></a>CHARACTER_LOGOUT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162" name="a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162"></a>CHARACTER_DELETE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7" name="a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7"></a>CHARACTER_FAILED_DELETE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8" name="a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8"></a>UNKNOWN_ACTION&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <span class="comment">// AccountActionIpLogger();</span></div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8">ACCOUNT_LOGIN</a> = 0,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f">ACCOUNT_FAIL_LOGIN</a> = 1,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059">ACCOUNT_CHANGE_PW</a> = 2,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53">ACCOUNT_CHANGE_PW_FAIL</a> = 3, <span class="comment">// Only two types of account changes exist...</span></div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c">ACCOUNT_CHANGE_EMAIL</a> = 4,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30">ACCOUNT_CHANGE_EMAIL_FAIL</a> = 5, <span class="comment">// ...so we log them individually</span></div>
+<div class="line"><span class="lineno">   33</span>    <span class="comment">// OBSOLETE - ACCOUNT_LOGOUT = 6, /* Can not be logged. We still keep the type however */</span></div>
+<div class="line"><span class="lineno">   34</span>    <span class="comment">// CharacterActionIpLogger();</span></div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85">CHARACTER_CREATE</a> = 7,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363">CHARACTER_LOGIN</a> = 8,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607">CHARACTER_LOGOUT</a> = 9,</div>
+<div class="line"><span class="lineno">   38</span>    <span class="comment">// CharacterDeleteActionIpLogger();</span></div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162">CHARACTER_DELETE</a> = 10,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7">CHARACTER_FAILED_DELETE</a> = 11,</div>
+<div class="line"><span class="lineno">   41</span>    <span class="comment">// AccountActionIpLogger(), CharacterActionIpLogger(), CharacterActionIpLogger();</span></div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8">UNKNOWN_ACTION</a> = 12</div>
+<div class="line"><span class="lineno">   43</span>};</div>
+<div class="ttc" id="aa05024_html_a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162"><div class="ttname"><a href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162">CHARACTER_DELETE</a></div><div class="ttdeci">@ CHARACTER_DELETE</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:39</div></div>
+<div class="ttc" id="aa05024_html_a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059"><div class="ttname"><a href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059">ACCOUNT_CHANGE_PW</a></div><div class="ttdeci">@ ACCOUNT_CHANGE_PW</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:29</div></div>
+<div class="ttc" id="aa05024_html_a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30"><div class="ttname"><a href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30">ACCOUNT_CHANGE_EMAIL_FAIL</a></div><div class="ttdeci">@ ACCOUNT_CHANGE_EMAIL_FAIL</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:32</div></div>
+<div class="ttc" id="aa05024_html_a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85"><div class="ttname"><a href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85">CHARACTER_CREATE</a></div><div class="ttdeci">@ CHARACTER_CREATE</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:35</div></div>
+<div class="ttc" id="aa05024_html_a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363"><div class="ttname"><a href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363">CHARACTER_LOGIN</a></div><div class="ttdeci">@ CHARACTER_LOGIN</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:36</div></div>
+<div class="ttc" id="aa05024_html_a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607"><div class="ttname"><a href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607">CHARACTER_LOGOUT</a></div><div class="ttdeci">@ CHARACTER_LOGOUT</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:37</div></div>
+<div class="ttc" id="aa05024_html_a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8"><div class="ttname"><a href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8">ACCOUNT_LOGIN</a></div><div class="ttdeci">@ ACCOUNT_LOGIN</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:27</div></div>
+<div class="ttc" id="aa05024_html_a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53"><div class="ttname"><a href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53">ACCOUNT_CHANGE_PW_FAIL</a></div><div class="ttdeci">@ ACCOUNT_CHANGE_PW_FAIL</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:30</div></div>
+<div class="ttc" id="aa05024_html_a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8"><div class="ttname"><a href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8">UNKNOWN_ACTION</a></div><div class="ttdeci">@ UNKNOWN_ACTION</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:42</div></div>
+<div class="ttc" id="aa05024_html_a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c"><div class="ttname"><a href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c">ACCOUNT_CHANGE_EMAIL</a></div><div class="ttdeci">@ ACCOUNT_CHANGE_EMAIL</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:31</div></div>
+<div class="ttc" id="aa05024_html_a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f"><div class="ttname"><a href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f">ACCOUNT_FAIL_LOGIN</a></div><div class="ttdeci">@ ACCOUNT_FAIL_LOGIN</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:28</div></div>
+<div class="ttc" id="aa05024_html_a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7"><div class="ttname"><a href="../../d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7">CHARACTER_FAILED_DELETE</a></div><div class="ttdeci">@ CHARACTER_FAILED_DELETE</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:40</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a530be5efb251d5ca58e97804e48ad953" name="a530be5efb251d5ca58e97804e48ad953"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a530be5efb251d5ca58e97804e48ad953">&#9670;&#160;</a></span>AddSC_action_ip_logger()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_action_ip_logger </td>
           <td>(</td>
-          <td class="paramtype">T&#160;</td>
-          <td class="paramname"><em>f</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  123</span>{ <span class="keywordflow">return</span> fmt::underlying(f); }</div>
+<div class="fragment"><div class="line"><span class="lineno">  333</span>{</div>
+<div class="line"><span class="lineno">  334</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d64/a28246.html">AccountActionIpLogger</a>();</div>
+<div class="line"><span class="lineno">  335</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/daa/a28250.html">CharacterActionIpLogger</a>();</div>
+<div class="line"><span class="lineno">  336</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/de2/a28254.html">CharacterDeleteActionIpLogger</a>();</div>
+<div class="line"><span class="lineno">  337</span>}</div>
+<div class="ttc" id="aa28246_html"><div class="ttname"><a href="../../dc/d64/a28246.html">AccountActionIpLogger</a></div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:46</div></div>
+<div class="ttc" id="aa28250_html"><div class="ttname"><a href="../../d1/daa/a28250.html">CharacterActionIpLogger</a></div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:169</div></div>
+<div class="ttc" id="aa28254_html"><div class="ttname"><a href="../../d2/de2/a28254.html">CharacterDeleteActionIpLogger</a></div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:264</div></div>
 </div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00041">AddWorldScripts()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -201,8 +256,8 @@ template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d7/d17/a05024.html">StringFormat.h</a></li>
-    <li class="footer">Generated on Tue Oct 27 2026 00:02:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_0a0414616ece51a8570c4e36029d4e29.html">World</a></li><li class="navelem"><a class="el" href="../../d7/d17/a05024.html">action_ip_logger.cpp</a></li>
+    <li class="footer">Generated on Tue Nov 3 2026 02:36:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

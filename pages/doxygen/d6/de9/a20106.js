@@ -1,10 +1,7 @@
 var a20106 =
 [
-    [ "npc_molten_golem", "d6/de9/a20106.html#a38350948396b7df97837780531f79515", null ],
-    [ "DamageTaken", "d6/de9/a20106.html#aa3521246b0c2bed18b5466879ec1d107", null ],
-    [ "DoAction", "d6/de9/a20106.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
-    [ "Reset", "d6/de9/a20106.html#a24e23d0959bcda5be05786381a35ac77", null ],
-    [ "UpdateAI", "d6/de9/a20106.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
-    [ "events", "d6/de9/a20106.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
-    [ "m_pInstance", "d6/de9/a20106.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
+    [ "HandleScript", "d6/de9/a20106.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "d6/de9/a20106.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "d6/de9/a20106.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "d6/de9/a20106.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

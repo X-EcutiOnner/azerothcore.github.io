@@ -1,18 +1,18 @@
 var a09234 =
 [
-    [ "GameEventData", "db/d44/a09234.html#ab7963b01d9e138d79f06274ea57b9590", null ],
-    [ "isValid", "db/d44/a09234.html#a7a91c9c9cc68593812b13f6efd2ea4ff", null ],
-    [ "Announce", "db/d44/a09234.html#ae055378db69064ad4338ec2ddf6c7c75", null ],
-    [ "Conditions", "db/d44/a09234.html#a0915a0321c4c26bfb61824587a309cde", null ],
-    [ "Description", "db/d44/a09234.html#a5ab9afbc209e319839fd68de0cbc2207", null ],
-    [ "End", "db/d44/a09234.html#a4bae1cf480ee64f190e2f09640e8a8cd", null ],
-    [ "EventId", "db/d44/a09234.html#a6fe6513946fc98803fb816d2aabd8dcc", null ],
-    [ "HolidayId", "db/d44/a09234.html#a9c9979bdece8534af216b693a2a58a80", null ],
-    [ "HolidayStage", "db/d44/a09234.html#a44c52795eed59abdff72cdebdccc50ca", null ],
-    [ "Length", "db/d44/a09234.html#a72bff4c3a62db350460993d804a461ea", null ],
-    [ "NextStart", "db/d44/a09234.html#aafe5f4d5b9122f26442266c651ebd77e", null ],
-    [ "Occurence", "db/d44/a09234.html#ab4e80a88f30560a3af0c6381e974687d", null ],
-    [ "PrerequisiteEvents", "db/d44/a09234.html#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0", null ],
-    [ "Start", "db/d44/a09234.html#a3be91b7e00641ca6cb853104190845dc", null ],
-    [ "State", "db/d44/a09234.html#a6288a7c28aba2927c3e91f5d2f517a60", null ]
+    [ "absorb", "db/d44/a09234.html#a7298afcc76b856c5427f5e123030a797", null ],
+    [ "attacker", "db/d44/a09234.html#aebe14d91f54da0b25a07ff3d59df6ec2", null ],
+    [ "attackType", "db/d44/a09234.html#afd18e43bd78a9144c02ba0493921c506", null ],
+    [ "blocked_amount", "db/d44/a09234.html#a0ce1e1ff406264c7283979fe4fc70148", null ],
+    [ "cleanDamage", "db/d44/a09234.html#a452ac9be1f6e9c10616a62a128573358", null ],
+    [ "damage", "db/d44/a09234.html#ab95e1e4746b966f1301d997fdac99c94", null ],
+    [ "damages", "db/d44/a09234.html#a29dfffcda094ecafa1f393e7b8043f15", null ],
+    [ "damageSchoolMask", "db/d44/a09234.html#a01f1cc6661ef5f4e7d657ba59d06108f", null ],
+    [ "HitInfo", "db/d44/a09234.html#ae42a8a3750633d94e661ac9d5a9aa8df", null ],
+    [ "hitOutCome", "db/d44/a09234.html#a114dcabcb8bff10c2452cb27e75da115", null ],
+    [ "procAttacker", "db/d44/a09234.html#a21bed657c7e3d2338f30fb5237884d5f", null ],
+    [ "procVictim", "db/d44/a09234.html#a236b06649e715fab9dbddb074ef2f075", null ],
+    [ "resist", "db/d44/a09234.html#ab57d348b500203649bf532405cd9ceec", null ],
+    [ "target", "db/d44/a09234.html#af2976fa1245b3e3177dcbac464345829", null ],
+    [ "TargetState", "db/d44/a09234.html#a73ef30ca87444da617b8c2e05b70e9fc", null ]
 ];

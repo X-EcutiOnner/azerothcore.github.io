@@ -1,11 +1,8 @@
 var a21622 =
 [
-    [ "boss_cyanigosa", "d4/d36/a21622.html#af85a0c366de8785cd89d14f7990bfb54", null ],
-    [ "EnterEvadeMode", "d4/d36/a21622.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
-    [ "ExecuteEvent", "d4/d36/a21622.html#a694dda590c17a03534f8744838ac3176", null ],
-    [ "JustDied", "d4/d36/a21622.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
-    [ "JustEngagedWith", "d4/d36/a21622.html#a2432aa3610747c52f6ec3de1def55f18", null ],
-    [ "KilledUnit", "d4/d36/a21622.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
-    [ "MoveInLineOfSight", "d4/d36/a21622.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
-    [ "SpellHitTarget", "d4/d36/a21622.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
+    [ "boss_moragg", "d4/d36/a21622.html#a42d2508369286e5e635d47cce0b939f4", null ],
+    [ "EnterEvadeMode", "d4/d36/a21622.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
+    [ "ExecuteEvent", "d4/d36/a21622.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
+    [ "JustEngagedWith", "d4/d36/a21622.html#a29da7214373c1919b65f3512655c8bc3", null ],
+    [ "MoveInLineOfSight", "d4/d36/a21622.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
 ];

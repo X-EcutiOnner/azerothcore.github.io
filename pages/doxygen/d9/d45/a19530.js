@@ -1,6 +1,7 @@
 var a19530 =
 [
-    [ "npc_four_car_garageAI", "d9/d45/a19530.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "d9/d45/a19530.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "d9/d45/a19530.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "HandleGameObjectDamage", "d9/d45/a19530.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "d9/d45/a19530.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "d9/d45/a19530.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "d9/d45/a19530.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

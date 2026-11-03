@@ -1,10 +1,5 @@
 var a00170 =
 [
-    [ "SecretMgr", "d4/d1e/a29738.html", "d4/d1e/a29738" ],
-    [ "SecretMgr::Secret", "da/d7c/a29742.html", "da/d7c/a29742" ],
-    [ "sSecretMgr", "d5/dcb/a00170.html#a5104e1ebeb8cbf71ec16e9492a3ad622", null ],
-    [ "Secrets", "d5/dcb/a00170.html#ab54b0ec728a299f0ff9e8a7796297a01", [
-      [ "SECRET_TOTP_MASTER_KEY", "d5/dcb/a00170.html#ab54b0ec728a299f0ff9e8a7796297a01a414121b0e05fa3a392ffe0da5afe0fe9", null ],
-      [ "NUM_SECRETS", "d5/dcb/a00170.html#ab54b0ec728a299f0ff9e8a7796297a01a087643d0aa89a708bad0f254697489c6", null ]
-    ] ]
+    [ "anonymous_namespace{ScriptRegistryUnloadTest.cpp}::TestDestructGroupScript", "dc/def/a30118.html", "dc/def/a30118" ],
+    [ "TEST", "d5/dcb/a00170.html#a5c7ea23d99fb6744e5862beb0da88c09", null ]
 ];

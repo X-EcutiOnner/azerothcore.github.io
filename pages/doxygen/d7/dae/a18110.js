@@ -1,6 +1,12 @@
 var a18110 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "df/d8c/a18114.html", "df/d8c/a18114" ],
-    [ "npc_muradin_bronzebeard_igb", "d7/dae/a18110.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "d7/dae/a18110.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "gunship_npc_AI", "d7/dae/a18110.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "d7/dae/a18110.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "d7/dae/a18110.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "d7/dae/a18110.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "d7/dae/a18110.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "d7/dae/a18110.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "d7/dae/a18110.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "d7/dae/a18110.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "d7/dae/a18110.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

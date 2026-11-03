@@ -1,7 +1,7 @@
 var a22554 =
 [
-    [ "HandleDummy", "d6/d8c/a22554.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
-    [ "PrepareAuraScript", "d6/d8c/a22554.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
-    [ "Register", "d6/d8c/a22554.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
-    [ "Validate", "d6/d8c/a22554.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
+    [ "HandleDummy", "d6/d8c/a22554.html#acdf98990ad575fec751a541cac3bcffa", null ],
+    [ "PrepareSpellScript", "d6/d8c/a22554.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
+    [ "Register", "d6/d8c/a22554.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
+    [ "Validate", "d6/d8c/a22554.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
 ];

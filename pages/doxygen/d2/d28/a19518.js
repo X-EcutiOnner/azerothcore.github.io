@@ -1,6 +1,6 @@
 var a19518 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d4/d74/a19522.html", "d4/d74/a19522" ],
-    [ "npc_isle_of_conquest_turret", "d2/d28/a19518.html#ac080845203adef25e6841133b7e2f4dc", null ],
-    [ "GetAI", "d2/d28/a19518.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
+    [ "boss_isle_of_conquestAI", "d4/d74/a19522.html", "d4/d74/a19522" ],
+    [ "boss_isle_of_conquest", "d2/d28/a19518.html#ad4052d1b6865585d32016e1240449659", null ],
+    [ "GetAI", "d2/d28/a19518.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
 ];

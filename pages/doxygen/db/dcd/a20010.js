@@ -1,6 +1,7 @@
 var a20010 =
 [
-    [ "npc_oculus_drakeAI", "d2/d54/a20014.html", "d2/d54/a20014" ],
-    [ "npc_oculus_drake", "db/dcd/a20010.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "db/dcd/a20010.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "CalcDamage", "db/dcd/a20010.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "db/dcd/a20010.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "db/dcd/a20010.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "db/dcd/a20010.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

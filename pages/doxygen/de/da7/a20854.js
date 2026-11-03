@@ -1,5 +1,10 @@
 var a20854 =
 [
-    [ "achievement_mimiron_firefighter", "de/da7/a20854.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
-    [ "OnCheck", "de/da7/a20854.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
+    [ "npc_expedition_defender", "de/da7/a20854.html#aa476e8cdb18fce94b7517caf7ec751c8", null ],
+    [ "CanAIAttack", "de/da7/a20854.html#aa223ec9592dcc5f8890cc7de0c8e4230", null ],
+    [ "DoAction", "de/da7/a20854.html#adbd3f69f46e33537786505a0bb2955d5", null ],
+    [ "MovementInform", "de/da7/a20854.html#acfa015071d54e353e4397c806fcab0a5", null ],
+    [ "Reset", "de/da7/a20854.html#ae5da35cb689ada77a00d545e0f795af7", null ],
+    [ "SetData", "de/da7/a20854.html#ab8d8681d244c13e51709c3ad446c8805", null ],
+    [ "_idx", "de/da7/a20854.html#ae50289231fcaac124f78246774dda01e", null ]
 ];

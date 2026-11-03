@@ -1,6 +1,7 @@
 var a24366 =
 [
-    [ "npc_invis_infernal_casterAI", "df/d0d/a24370.html", "df/d0d/a24370" ],
-    [ "npc_invis_infernal_caster", "df/d56/a24366.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "df/d56/a24366.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "HandleEffectApply", "df/d56/a24366.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "df/d56/a24366.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "df/d56/a24366.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "df/d56/a24366.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

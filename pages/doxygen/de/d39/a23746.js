@@ -1,5 +1,8 @@
 var a23746 =
 [
-    [ "go_broggok_lever", "de/d39/a23746.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "de/d39/a23746.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "boss_broggok", "de/d39/a23746.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "de/d39/a23746.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "de/d39/a23746.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "de/d39/a23746.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "de/d39/a23746.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

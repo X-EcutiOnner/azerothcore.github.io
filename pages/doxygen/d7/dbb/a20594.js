@@ -1,8 +1,7 @@
 var a20594 =
 [
-    [ "npc_ulduar_flash_freeze", "d7/dbb/a20594.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
-    [ "DamageTaken", "d7/dbb/a20594.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "d7/dbb/a20594.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "_instance", "d7/dbb/a20594.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
-    [ "timer", "d7/dbb/a20594.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "HandleEffectPeriodic", "d7/dbb/a20594.html#acddafc5100d667e8fcc034815204f8ce", null ],
+    [ "PrepareAuraScript", "d7/dbb/a20594.html#aeee4eeb0d55d084630bf850c0af165a9", null ],
+    [ "Register", "d7/dbb/a20594.html#acc96d2a38e4da19e6cd6c72037a24202", null ],
+    [ "Validate", "d7/dbb/a20594.html#acacf8df2d00899bed640c1be0d4287f2", null ]
 ];

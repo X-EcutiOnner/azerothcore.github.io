@@ -1,7 +1,7 @@
 var a21054 =
 [
-    [ "OnRemove", "d0/da1/a21054.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
-    [ "PrepareAuraScript", "d0/da1/a21054.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
-    [ "Register", "d0/da1/a21054.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "Validate", "d0/da1/a21054.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
+    [ "FilterTargets", "d0/da1/a21054.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "d0/da1/a21054.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "d0/da1/a21054.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "d0/da1/a21054.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

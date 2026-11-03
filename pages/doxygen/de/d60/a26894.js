@@ -1,6 +1,9 @@
 var a26894 =
 [
-    [ "HandleEffectCalcSpellMod", "de/d60/a26894.html#a81395c735b9546632af71319067b575b", null ],
-    [ "PrepareAuraScript", "de/d60/a26894.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
-    [ "Register", "de/d60/a26894.html#ae49a0ec525819981595c12839133a35b", null ]
+    [ "CountTargets", "de/d60/a26894.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
+    [ "HandleDummy", "de/d60/a26894.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
+    [ "PrepareSpellScript", "de/d60/a26894.html#adfb7e3fbb52aa349573b95c457823900", null ],
+    [ "Register", "de/d60/a26894.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
+    [ "Validate", "de/d60/a26894.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
+    [ "_targetCount", "de/d60/a26894.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
 ];

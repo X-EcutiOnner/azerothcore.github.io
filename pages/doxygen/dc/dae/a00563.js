@@ -1,12 +1,11 @@
 var a00563 =
 [
-    [ "ACScriptName", "dc/dae/a00563.html#a44e28f969fff2c33cf76b8eaaff1898c", null ],
-    [ "DataHeader", "dc/dae/a00563.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAuchenaiCryptsCreatureAI", "dc/dae/a00563.html#abf97bec93b670890ad0eaa7d6b4bd4b9", null ],
-    [ "ACDataTypes", "dc/dae/a00563.html#aae3060cf5aa0b4d27bcbbfeee3db2856", [
-      [ "DATA_SHIRRAK_THE_DEAD_WATCHER", "dc/dae/a00563.html#aae3060cf5aa0b4d27bcbbfeee3db2856a5d80917a3a5f108f9e625372181b85fe", null ],
-      [ "DATA_EXARCH_MALADAAR", "dc/dae/a00563.html#aae3060cf5aa0b4d27bcbbfeee3db2856aa54edd3601b7953b0bf046fa8b1bd3f8", null ]
-    ] ],
-    [ "GetAuchenaiCryptsAI", "dc/dae/a00563.html#a8c9b9cbd7dca7c2e86d7ad3fe7bfd961", null ],
-    [ "EncounterCount", "dc/dae/a00563.html#a31d630c40753c29f94ceac2db5e451a8", null ]
+    [ "VMAP::ModelPosition", "dd/d7a/a05426.html", "dd/d7a/a05426" ],
+    [ "VMAP::MapSpawns", "d4/de8/a05430.html", "d4/de8/a05430" ],
+    [ "VMAP::GroupModel_Raw", "d9/da5/a05434.html", "d9/da5/a05434" ],
+    [ "VMAP::WorldModel_Raw", "da/d86/a05438.html", "da/d86/a05438" ],
+    [ "VMAP::TileAssembler", "d4/de2/a05442.html", "d4/de2/a05442" ],
+    [ "MapData", "dc/dae/a00563.html#a28dc2e567f8620fed1128b6c4cf5b749", null ],
+    [ "TileMap", "dc/dae/a00563.html#abfe766a1b58bbf69ce3b17ff14d1c101", null ],
+    [ "UniqueEntryMap", "dc/dae/a00563.html#a3424b44a092b5f3d8074649ae11ee481", null ]
 ];

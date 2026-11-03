@@ -1,6 +1,7 @@
 var a18558 =
 [
-    [ "CheckTarget", "d6/da9/a18558.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "d6/da9/a18558.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "d6/da9/a18558.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "IceTombSummonEvent", "d6/da9/a18558.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "d6/da9/a18558.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "d6/da9/a18558.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "d6/da9/a18558.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

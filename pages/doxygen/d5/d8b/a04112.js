@@ -1,28 +1,14 @@
 var a04112 =
 [
-    [ "AllBattlegroundScript", "d3/d6f/a10774.html", "d3/d6f/a10774" ],
-    [ "BGScript", "d5/d8b/a04112.html#ae9cb670a445a9cb3089a66cdcc822d0e", null ],
-    [ "AllBattlegroundHook", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11f", [
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_ADD_GROUP", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f", null ],
-      [ "ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7", null ],
-      [ "ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323", null ],
-      [ "ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_SETUP", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a", null ],
-      [ "ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a", null ],
-      [ "ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb", null ],
-      [ "ALLBATTLEGROUNDHOOK_END", "d5/d8b/a04112.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af", null ]
-    ] ]
+    [ "NpcFlagText", "da/d44/a12646.html", "da/d44/a12646" ],
+    [ "MechanicImmune", "d7/ded/a12650.html", "d7/ded/a12650" ],
+    [ "SpellSchoolImmune", "de/dd5/a12654.html", "de/dd5/a12654" ],
+    [ "npc_commandscript", "dd/d89/a12658.html", "dd/d89/a12658" ],
+    [ "NPCFLAG_COUNT", "d5/d8b/a04112.html#afc1ed6083684621f30fbabb23d2986c0", null ],
+    [ "CreatureEntry", "d5/d8b/a04112.html#a220449830f7fe293c9d82dcd3b84acd9", null ],
+    [ "CreatureSpawnId", "d5/d8b/a04112.html#a5e5fd5f7a85fd4ad7fe92f2125f17acc", null ],
+    [ "AddSC_npc_commandscript", "d5/d8b/a04112.html#ae99689f5e8e57f75adfcf54370ed979d", null ],
+    [ "mechanicImmunes", "d5/d8b/a04112.html#a9e8359f68aec0f69f42fe7aee7934859", null ],
+    [ "npcFlagTexts", "d5/d8b/a04112.html#a048bdd249b6deeed66fba6bad126b30b", null ],
+    [ "spellSchoolImmunes", "d5/d8b/a04112.html#a8708a11856730666b04e749bc0952c8f", null ]
 ];

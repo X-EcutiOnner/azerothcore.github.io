@@ -1,7 +1,5 @@
 var a20806 =
 [
-    [ "PrepareSpellScript", "db/dff/a20806.html#afae92a0d4e41fc2fd00b1fd0b6b11a22", null ],
-    [ "PreventSummon", "db/dff/a20806.html#a57fcc7a0e078c344e50863ba1951f244", null ],
-    [ "Register", "db/dff/a20806.html#a3813bf7e198f5f3c146b4639fa83a067", null ],
-    [ "SetDest", "db/dff/a20806.html#a4d49ebdf1dab3b4952e4f4c7c50ca16b", null ]
+    [ "go_ulduar_do_not_push_this_button", "db/dff/a20806.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "db/dff/a20806.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

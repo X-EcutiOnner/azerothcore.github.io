@@ -1,6 +1,6 @@
 var a11746 =
 [
-    [ "PushQuestToParty", "dd/d9e/a11746.html#a3c49c83653ef26f2dcaf5c73c29066e0", null ],
-    [ "Read", "dd/d9e/a11746.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c", null ],
-    [ "QuestId", "dd/d9e/a11746.html#a0d30347159622093b52d0936d93a63bf", null ]
+    [ "QuestConfirmAcceptClient", "dd/d9e/a11746.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
+    [ "Read", "dd/d9e/a11746.html#a483980152418879fd1a55db2fa4bf68a", null ],
+    [ "QuestId", "dd/d9e/a11746.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
 ];

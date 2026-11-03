@@ -1,15 +1,5 @@
 var a19890 =
 [
-    [ "instance_eye_of_eternity", "db/dee/a19890.html#a8b8bccd4969d18cf0c56742c65150ef1", null ],
-    [ "CheckAchievementCriteriaMeet", "db/dee/a19890.html#ae2cbbc353f1dfcb24346fb707b15e19d", null ],
-    [ "GetGuidData", "db/dee/a19890.html#a9a8a000c1f3a4139e280c7b20711dbcc", null ],
-    [ "OnCreatureCreate", "db/dee/a19890.html#a72ede46385cd3f4d36e360ed67d5634f", null ],
-    [ "OnGameObjectCreate", "db/dee/a19890.html#a276b14a880ac762439213f85b17c5b8b", null ],
-    [ "OnPlayerEnter", "db/dee/a19890.html#a1f525d686ec2447a0aa9c2b9631b2e2f", null ],
-    [ "ProcessEvent", "db/dee/a19890.html#a1408e66a14a7af228d7dfa40d09133f7", null ],
-    [ "SetBossState", "db/dee/a19890.html#a1d4ea255b6f65abd63a69e04ec43ab90", null ],
-    [ "SetData", "db/dee/a19890.html#a361bf36921e723ff38005d43be1c900b", null ],
-    [ "VortexHandling", "db/dee/a19890.html#aa413a00eeba3fa864c104b6475b72d7c", null ],
-    [ "_pokeAchievementValid", "db/dee/a19890.html#ab2d2e6d8f1117cf91646dd2634dc6014", null ],
-    [ "_vortexTriggers", "db/dee/a19890.html#a21b0f26e2bf09d875b3708c594e652bc", null ]
+    [ "achievement_intense_cold", "db/dee/a19890.html#a2377357d6bfc03e5b91354428d3da3de", null ],
+    [ "OnCheck", "db/dee/a19890.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
 ];

@@ -1,6 +1,5 @@
 var a10926 =
 [
-    [ "OutdoorPvPScript", "d8/d6e/a10926.html#a1dfe19b5cc4e1eb2ad02ad8773aff290", null ],
-    [ "GetOutdoorPvP", "d8/d6e/a10926.html#aa213974f384c88ab65f7b7308dadb026", null ],
-    [ "IsDatabaseBound", "d8/d6e/a10926.html#ac22c6a9945738270452848f997d2818f", null ]
+    [ "MovementHandlerScript", "d8/d6e/a10926.html#aec794d21148c9ed382d80b6c30a676cd", null ],
+    [ "OnPlayerMove", "d8/d6e/a10926.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
 ];

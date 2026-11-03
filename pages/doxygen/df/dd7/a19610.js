@@ -1,6 +1,7 @@
 var a19610 =
 [
-    [ "boss_gothikAI", "db/dd8/a19614.html", "db/dd8/a19614" ],
-    [ "boss_gothik", "df/dd7/a19610.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
-    [ "GetAI", "df/dd7/a19610.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
+    [ "FilterTargets", "df/dd7/a19610.html#a56ff062a6014099623466145a66284cc", null ],
+    [ "PrepareSpellScript", "df/dd7/a19610.html#aa14623bb948ff457e52979facf74ffab", null ],
+    [ "Register", "df/dd7/a19610.html#a9494bea35088161c9a520395d714fde1", null ],
+    [ "Validate", "df/dd7/a19610.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
 ];

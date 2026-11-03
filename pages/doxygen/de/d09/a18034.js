@@ -1,7 +1,7 @@
 var a18034 =
 [
-    [ "HandleProc", "de/d09/a18034.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
-    [ "PrepareAuraScript", "de/d09/a18034.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
-    [ "Register", "de/d09/a18034.html#acc0881cf7379525a0841426867d2d850", null ],
-    [ "Validate", "de/d09/a18034.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
+    [ "HandleScript", "de/d09/a18034.html#a276018baa590b942d90c457faea10040", null ],
+    [ "PrepareSpellScript", "de/d09/a18034.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
+    [ "Register", "de/d09/a18034.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
+    [ "Validate", "de/d09/a18034.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
 ];

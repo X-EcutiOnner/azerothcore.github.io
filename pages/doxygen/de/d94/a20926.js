@@ -1,7 +1,5 @@
 var a20926 =
 [
-    [ "go_razorscale_mole_machineAI", "de/d94/a20926.html#af648942b5794adf77d51d581aa6edeee", null ],
-    [ "Reset", "de/d94/a20926.html#ac2b96d741950c7ee1bde296a78bd5c01", null ],
-    [ "UpdateAI", "de/d94/a20926.html#acff2bc016f10597b37e868a99da03f0d", null ],
-    [ "_scheduler", "de/d94/a20926.html#aa29309e3d94e1f19cfc1557e75bb70de", null ]
+    [ "achievement_iron_dwarf_medium_rare", "de/d94/a20926.html#afb3716aab7693ba0493db24999e4b1ee", null ],
+    [ "OnCheck", "de/d94/a20926.html#aabef3a345057265ac70c6cc0c98d552d", null ]
 ];

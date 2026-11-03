@@ -1,6 +1,6 @@
 var a17734 =
 [
-    [ "HandleScriptEffect", "df/db0/a17734.html#ab9c289e946cfaf2b63f2526914d79812", null ],
-    [ "PrepareSpellScript", "df/db0/a17734.html#a832f8ab737254760fe2b91f19d119781", null ],
-    [ "Register", "df/db0/a17734.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
+    [ "boss_moorabiAI", "da/d14/a17738.html", "da/d14/a17738" ],
+    [ "boss_moorabi", "df/db0/a17734.html#a94e14b2a9b06143985f785e781d1c302", null ],
+    [ "GetAI", "df/db0/a17734.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
 ];

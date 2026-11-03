@@ -1,9 +1,9 @@
 var dir_f6031702e2b504d935bb677a6d4d89df =
 [
-    [ "boss_dred.cpp", "d6/dad/a00941.html", "d6/dad/a00941" ],
-    [ "boss_novos.cpp", "d8/dbb/a00932.html", "d8/dbb/a00932" ],
-    [ "boss_tharon_ja.cpp", "d8/d19/a00935.html", "d8/d19/a00935" ],
-    [ "boss_trollgore.cpp", "d3/d29/a00947.html", "d3/d29/a00947" ],
-    [ "drak_tharon_keep.h", "d5/d54/a00938.html", "d5/d54/a00938" ],
-    [ "instance_drak_tharon_keep.cpp", "d9/dce/a00944.html", "d9/dce/a00944" ]
+    [ "boss_dred.cpp", "d9/def/a04004.html", "d9/def/a04004" ],
+    [ "boss_novos.cpp", "d9/d0d/a03995.html", "d9/d0d/a03995" ],
+    [ "boss_tharon_ja.cpp", "df/d75/a04010.html", "df/d75/a04010" ],
+    [ "boss_trollgore.cpp", "dd/d81/a04001.html", "dd/d81/a04001" ],
+    [ "drak_tharon_keep.h", "d2/dfc/a04007.html", "d2/dfc/a04007" ],
+    [ "instance_drak_tharon_keep.cpp", "df/d58/a03998.html", "df/d58/a03998" ]
 ];

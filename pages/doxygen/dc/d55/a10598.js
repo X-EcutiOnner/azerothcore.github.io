@@ -1,7 +1,5 @@
 var a10598 =
 [
-    [ "WriteCommonMonsterMovePart", "dc/d55/a10598.html#a5f460aac5726580ed4d053f97ce4b95a", null ],
-    [ "WriteCreate", "dc/d55/a10598.html#a255a4de5c8cdf224e822a4e7ffe0ee5a", null ],
-    [ "WriteMonsterMove", "dc/d55/a10598.html#a7681143d50955bda880fbae74671a684", null ],
-    [ "WriteStopMovement", "dc/d55/a10598.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
+    [ "Cost", "dc/d55/a10598.html#a6de1eebdd222f71e874a46e5daa354a4", null ],
+    [ "PathIndex", "dc/d55/a10598.html#aa5f8bc350f2c5aeac9d5e135c34eb662", null ]
 ];

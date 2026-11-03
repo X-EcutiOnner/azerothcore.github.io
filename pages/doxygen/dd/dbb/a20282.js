@@ -1,16 +1,6 @@
 var a20282 =
 [
-    [ "boss_runemaster_molgeim", "dd/dbb/a20282.html#ae465b567aeba025d2fde3baa94e55e1e", null ],
-    [ "JustDied", "dd/dbb/a20282.html#af278ce3237940684aa9909915e6d6962", null ],
-    [ "JustEngagedWith", "dd/dbb/a20282.html#a2d779d09adfd1f19ce3655d8e9740a9f", null ],
-    [ "JustReachedHome", "dd/dbb/a20282.html#a0597a7360c24899e9f74f1d3f289e9c5", null ],
-    [ "KilledUnit", "dd/dbb/a20282.html#a33c0a2d070cf6d3d850c840b048de251", null ],
-    [ "Reset", "dd/dbb/a20282.html#a9f8cca601307af0475141d6b8370199a", null ],
-    [ "SpellHit", "dd/dbb/a20282.html#a8d05dd3f38eb24cf5be700328a874ff1", null ],
-    [ "UpdateAI", "dd/dbb/a20282.html#ad8f1b523299c7a2c3dd9013fa211a090", null ],
-    [ "UpdatePhase", "dd/dbb/a20282.html#a40d0466bfbe6fae8435fb4921bca6c1a", null ],
-    [ "_phase", "dd/dbb/a20282.html#af1a8f1bf6dbf24890686c8acbf83dc2d", null ],
-    [ "events", "dd/dbb/a20282.html#a277b45a2b2399b91650907de2fb86b89", null ],
-    [ "pInstance", "dd/dbb/a20282.html#adfbc84f0922e69b38723ecbc7eeead62", null ],
-    [ "summons", "dd/dbb/a20282.html#a148c913fcc44c8dfd05260d76d389538", null ]
+    [ "achievement_assembly_of_iron", "dd/dbb/a20282.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "dd/dbb/a20282.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "dd/dbb/a20282.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

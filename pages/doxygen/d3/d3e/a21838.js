@@ -1,7 +1,5 @@
 var a21838 =
 [
-    [ "HandleDummy", "d3/d3e/a21838.html#a476c55695b54e6f6756d9f795dbeeb07", null ],
-    [ "PrepareSpellScript", "d3/d3e/a21838.html#ae3af1398dec6d6f5faac8e026a6966df", null ],
-    [ "Register", "d3/d3e/a21838.html#a693522c8a05e2d86837bf16ef2a777b4", null ],
-    [ "Validate", "d3/d3e/a21838.html#ae1a2cdf4819859e11d6a70104c6d431a", null ]
+    [ "npc_steam_powered_auctioneerAI", "d3/d3e/a21838.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d3/d3e/a21838.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

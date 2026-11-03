@@ -1,46 +1,21 @@
 var a03176 =
 [
-    [ "ATTACK_DISTANCE", "df/d0d/a03176.html#a076c4dc8a346115fe776c593c413ef2c", null ],
-    [ "CONTACT_DISTANCE", "df/d0d/a03176.html#a76b2057afb6996f8080d661890a01c6f", null ],
-    [ "DEFAULT_COLLISION_HEIGHT", "df/d0d/a03176.html#a87d5f85dfad581145d916013245c2021", null ],
-    [ "DEFAULT_COMBAT_REACH", "df/d0d/a03176.html#ac04af878f8585da7f1264b4042bac15b", null ],
-    [ "DEFAULT_VISIBILITY_BGARENAS", "df/d0d/a03176.html#a89f7f74fa54f0edb8bf2fdf50319a39f", null ],
-    [ "DEFAULT_VISIBILITY_DISTANCE", "df/d0d/a03176.html#a22c041da6769a0cb3ef89726dd33981d", null ],
-    [ "DEFAULT_VISIBILITY_INSTANCE", "df/d0d/a03176.html#a9d99b4056bf875fdb55ac9420fba982a", null ],
-    [ "DEFAULT_WORLD_OBJECT_SIZE", "df/d0d/a03176.html#a913c166f7a4cd692f382db2df507a059", null ],
-    [ "INSPECT_DISTANCE", "df/d0d/a03176.html#a627bc4be23b34b8b8be439d4010f5669", null ],
-    [ "INTERACTION_DISTANCE", "df/d0d/a03176.html#a54eb9ac4fb3942c956544c22e84743d4", null ],
-    [ "LEEWAY_BONUS_RANGE", "df/d0d/a03176.html#a1ac531f6495ceebb8104afc87ec62b39", null ],
-    [ "LEEWAY_MIN_MOVE_SPEED", "df/d0d/a03176.html#a826d5509d2b008fbc7dea309a92f4a2a", null ],
-    [ "MAX_SEARCHER_DISTANCE", "df/d0d/a03176.html#a4e53fec710ac40ebac949ac16ed5376c", null ],
-    [ "MAX_VISIBILITY_DISTANCE", "df/d0d/a03176.html#a195874db808f155d535260d5e4080059", null ],
-    [ "MELEE_RANGE", "df/d0d/a03176.html#a96e2044bb0ae3b931a0f9f096e883595", null ],
-    [ "MIN_MELEE_REACH", "df/d0d/a03176.html#ab6869459c32ee6c2253af552a1144ddc", null ],
-    [ "NOMINAL_MELEE_RANGE", "df/d0d/a03176.html#a9417df9da24d43d6fc32162e559e0b71", null ],
-    [ "SIGHT_RANGE_UNIT", "df/d0d/a03176.html#a71fa43e66bd4fe745191d184923d6347", null ],
-    [ "SPELL_SEARCHER_COMPENSATION", "df/d0d/a03176.html#a7e825c8fa49d307a4e5b992af744c195", null ],
-    [ "TRADE_DISTANCE", "df/d0d/a03176.html#ac0046f058b6628976d44bbe6847d4a36", null ],
-    [ "VISIBILITY_COMPENSATION", "df/d0d/a03176.html#ad7ca43faef12f55e2d72393f26d69ba7", null ],
-    [ "VISIBILITY_DIST_WINTERGRASP", "df/d0d/a03176.html#a3366917d44c1184b7eea801c37f75eda", null ],
-    [ "VISIBILITY_DISTANCE_GIGANTIC", "df/d0d/a03176.html#ac42804b48d734699eef6b8f584e2fb90", null ],
-    [ "VISIBILITY_DISTANCE_INFINITE", "df/d0d/a03176.html#a383cb16bb626159d72cc6b5928429f90", null ],
-    [ "VISIBILITY_DISTANCE_LARGE", "df/d0d/a03176.html#a2c7e0d3a0783990d50e50d41a916a595", null ],
-    [ "VISIBILITY_DISTANCE_NORMAL", "df/d0d/a03176.html#a4ff4df7e2c9ebd38bfd8c298708deba9", null ],
-    [ "VISIBILITY_DISTANCE_SMALL", "df/d0d/a03176.html#ae57720dd4437b418bb332db290c71d45", null ],
-    [ "VISIBILITY_DISTANCE_TINY", "df/d0d/a03176.html#a3e2fbd681c4b511f283f7b4d429a5f80", null ],
-    [ "VisibilityDistanceType", "df/d0d/a03176.html#ae675d6469643e2aca0b1840013245a1d", [
-      [ "Normal", "df/d0d/a03176.html#ae675d6469643e2aca0b1840013245a1da960b44c579bc2f6818d2daaf9e4c16f0", null ],
-      [ "Tiny", "df/d0d/a03176.html#ae675d6469643e2aca0b1840013245a1da383c05bda6f030a44990d354b24f3338", null ],
-      [ "Small", "df/d0d/a03176.html#ae675d6469643e2aca0b1840013245a1da2660064e68655415da2628c2ae2f7592", null ],
-      [ "Large", "df/d0d/a03176.html#ae675d6469643e2aca0b1840013245a1da3a69b34ce86dacb205936a8094f6c743", null ],
-      [ "Gigantic", "df/d0d/a03176.html#ae675d6469643e2aca0b1840013245a1da87ed5c21cfc88672553ccb7896a0160b", null ],
-      [ "Infinite", "df/d0d/a03176.html#ae675d6469643e2aca0b1840013245a1dab10e24496ff8fec66189548a92a67045", null ],
-      [ "Max", "df/d0d/a03176.html#ae675d6469643e2aca0b1840013245a1da6a061313d22e51e0f25b7cd4dc065233", null ]
+    [ "npc_partygoer_pather", "df/da3/a14126.html", "df/da3/a14126" ],
+    [ "npc_partygoer", "d9/d6f/a14130.html", "d9/d6f/a14130" ],
+    [ "npc_lor_themar_theron", "d0/d7d/a14134.html", "d0/d7d/a14134" ],
+    [ "Partygoer", "df/d0d/a03176.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
+      [ "EVENT_RANDOM_ACTION", "df/d0d/a03176.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
+      [ "EVENT_REMOVE_EQUIPMENT", "df/d0d/a03176.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
+      [ "EVENT_STOP_DANCING", "df/d0d/a03176.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
+      [ "EVENT_THROW_FIREWORKS", "df/d0d/a03176.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
+      [ "EVENT_RESET_FACING", "df/d0d/a03176.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
+      [ "GO_FIREWORKS_LAUNCHER", "df/d0d/a03176.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
     ] ],
-    [ "MAKE_PAIR16", "df/d0d/a03176.html#acce67ab26aa86441d3f07fb597fdf887", null ],
-    [ "MAKE_PAIR32", "df/d0d/a03176.html#a16746aa380554e93891c528f8edf0df1", null ],
-    [ "PAIR32_HIPART", "df/d0d/a03176.html#a236b098eb2d636d290e08931dcaa1911", null ],
-    [ "PAIR32_LOPART", "df/d0d/a03176.html#ae7170f91373fc9614734d4365eaebf77", null ],
-    [ "PAIR64_HIPART", "df/d0d/a03176.html#addc54387901d7793730428b2982d3f55", null ],
-    [ "PAIR64_LOPART", "df/d0d/a03176.html#a07b26e77b0b1266a3addb26d71a74344", null ]
+    [ "Partygoer_Pather", "df/d0d/a03176.html#a3222d14ce03d75912e65560ebf2a961b", [
+      [ "EVENT_PATH", "df/d0d/a03176.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
+      [ "EVENT_RANDOM_ACTION_PATHER", "df/d0d/a03176.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
+      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "df/d0d/a03176.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
+      [ "EVENT_STOP_DANCING_PATHER", "df/d0d/a03176.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
+    ] ],
+    [ "AddSC_eversong_woods", "df/d0d/a03176.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
 ];

@@ -1,8 +1,5 @@
 var a20318 =
 [
-    [ "npc_auriaya_sanctum_sentry", "df/db0/a20318.html#ae5ed159c476c8b4569de7e2730edf447", null ],
-    [ "JustDied", "df/db0/a20318.html#a553aa98a00fd8999578d71911f231bb2", null ],
-    [ "JustEngagedWith", "df/db0/a20318.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
-    [ "Reset", "df/db0/a20318.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
-    [ "UpdateAI", "df/db0/a20318.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "df/db0/a20318.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "df/db0/a20318.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

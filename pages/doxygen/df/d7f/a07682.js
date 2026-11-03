@@ -1,10 +1,8 @@
 var a07682 =
 [
-    [ "CreatureBottom", "df/d7f/a07682.html#aaa8fe59aa58bf02934bf87f636582637", null ],
-    [ "CreatureTop", "df/d7f/a07682.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
-    [ "GameObject", "df/d7f/a07682.html#abc26a328692fc048d9040c44f360f4c4", null ],
-    [ "nbCreatureBottom", "df/d7f/a07682.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
-    [ "nbCreatureTop", "df/d7f/a07682.html#a38ab7536e0682efd7080b823569d504b", null ],
-    [ "nbObject", "df/d7f/a07682.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
-    [ "towerEntry", "df/d7f/a07682.html#a1c0edf97a599773b688954f2e966e794", null ]
+    [ "entry", "df/d7f/a07682.html#ab47ef3b15c887f46fb1bf9c88f5cc5d8", null ],
+    [ "o", "df/d7f/a07682.html#af2bf42b7d1a18e7ee1125a305ee7bc79", null ],
+    [ "x", "df/d7f/a07682.html#a4fb658cf54f9534e0686a8fa5b2328c7", null ],
+    [ "y", "df/d7f/a07682.html#aa761c9076be145dab6d2cac773bb6e7a", null ],
+    [ "z", "df/d7f/a07682.html#ac9ff501bbf00d80f5b9350a78ffbb6fb", null ]
 ];

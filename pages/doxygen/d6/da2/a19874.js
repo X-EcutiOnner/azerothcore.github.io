@@ -1,8 +1,15 @@
 var a19874 =
 [
-    [ "Load", "d6/da2/a19874.html#af8ef90a44a5405e58dbb3003642c078b", null ],
-    [ "PrepareSpellScript", "d6/da2/a19874.html#a40649371440d62e4ba8af1b077880d0b", null ],
-    [ "Register", "d6/da2/a19874.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
-    [ "SendThreeTargets", "d6/da2/a19874.html#ab16b83839ce9136da84691640020f846", null ],
-    [ "Validate", "d6/da2/a19874.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
+    [ "boss_anomalus", "d6/da2/a19874.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d6/da2/a19874.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "d6/da2/a19874.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "d6/da2/a19874.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "d6/da2/a19874.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "d6/da2/a19874.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "d6/da2/a19874.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "d6/da2/a19874.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "d6/da2/a19874.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "_empowered", "d6/da2/a19874.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
+    [ "achievement", "d6/da2/a19874.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "d6/da2/a19874.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

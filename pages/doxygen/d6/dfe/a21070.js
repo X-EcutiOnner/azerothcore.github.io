@@ -1,8 +1,6 @@
 var a21070 =
 [
-    [ "npc_xt_toy_pile", "d6/dfe/a21070.html#a843e7d05cf62baa5c006077f8dad107d", null ],
-    [ "SpellHit", "d6/dfe/a21070.html#a82af3830eaf524c587334e8eb193925f", null ],
-    [ "_lastSummonTime", "d6/dfe/a21070.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
-    [ "SummonCooldown", "d6/dfe/a21070.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
-    [ "SummonDistance", "d6/dfe/a21070.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
+    [ "HandleScript", "d6/dfe/a21070.html#a679cf770e38e1fda66f8a64fff53f968", null ],
+    [ "PrepareSpellScript", "d6/dfe/a21070.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
+    [ "Register", "d6/dfe/a21070.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
 ];

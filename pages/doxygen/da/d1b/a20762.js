@@ -1,5 +1,11 @@
 var a20762 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "da/d1b/a20762.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "da/d1b/a20762.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "npc_ulduar_proximity_mine", "da/d1b/a20762.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "da/d1b/a20762.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "da/d1b/a20762.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "da/d1b/a20762.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "da/d1b/a20762.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "da/d1b/a20762.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "da/d1b/a20762.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "da/d1b/a20762.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

@@ -1,9 +1,7 @@
 var a25506 =
 [
-    [ "PrepareAuraScript", "df/da9/a25506.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
-    [ "RefreshVisualShields", "df/da9/a25506.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
-    [ "Register", "df/da9/a25506.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
-    [ "RemoveDummyFromDriver", "df/da9/a25506.html#a399641ce72b74038a4517868267bd86a", null ],
-    [ "RemoveVisualShields", "df/da9/a25506.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
-    [ "Validate", "df/da9/a25506.html#ae5799f72b7fbce82799fd730f1525948", null ]
+    [ "HandleChargeEffect", "df/da9/a25506.html#ad8d2871e6277dd982653fa864010d084", null ],
+    [ "HandleScriptEffect", "df/da9/a25506.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
+    [ "PrepareSpellScript", "df/da9/a25506.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
+    [ "Register", "df/da9/a25506.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
 ];

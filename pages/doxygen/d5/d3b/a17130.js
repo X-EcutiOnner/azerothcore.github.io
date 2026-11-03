@@ -1,6 +1,8 @@
 var a17130 =
 [
-    [ "npc_toc_pet_hunterAI", "d5/d70/a17134.html", "d5/d70/a17134" ],
-    [ "npc_toc_pet_hunter", "d5/d3b/a17130.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
-    [ "GetAI", "d5/d3b/a17130.html#a9febc3086b0627324277f45d49cdd03f", null ]
+    [ "npc_mistress_of_pain", "d5/d3b/a17130.html#a3311d05b0b692e4d70de95ded21df23a", null ],
+    [ "EnterEvadeMode", "d5/d3b/a17130.html#a7d2e4cb30dbcf4993dbffd9bdd7b2db3", null ],
+    [ "JustDied", "d5/d3b/a17130.html#aa34fc8f7625f31fc872edd15d3c48686", null ],
+    [ "Reset", "d5/d3b/a17130.html#a0205ff2af278a7d6e44f0bfc179b022e", null ],
+    [ "UpdateAI", "d5/d3b/a17130.html#a5a6edfb39ee3fb710cd42311dc10b034", null ]
 ];

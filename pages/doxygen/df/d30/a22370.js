@@ -1,6 +1,6 @@
 var a22370 =
 [
-    [ "PrepareSpellScript", "df/d30/a22370.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "df/d30/a22370.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "df/d30/a22370.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "HandleExpire", "df/d30/a22370.html#a48579791e42b7bd979ac1ce508f5b007", null ],
+    [ "PrepareAuraScript", "df/d30/a22370.html#a025a3d796274f4b827af46ec1f322c88", null ],
+    [ "Register", "df/d30/a22370.html#ab4dfa17886e5b9440671d79131102419", null ]
 ];

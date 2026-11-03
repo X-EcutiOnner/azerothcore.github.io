@@ -1,6 +1,6 @@
 var a20790 =
 [
-    [ "HandleDamage", "dc/d32/a20790.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "dc/d32/a20790.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "dc/d32/a20790.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "ModDest", "dc/d32/a20790.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
+    [ "PrepareSpellScript", "dc/d32/a20790.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
+    [ "Register", "dc/d32/a20790.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
 ];

@@ -1,6 +1,5 @@
 var a05060 =
 [
-    [ "IpLocationRecord", "df/ddb/a05729.html", "df/ddb/a05729" ],
-    [ "IpLocationStore", "d1/dc7/a05733.html", "d1/dc7/a05733" ],
-    [ "sIPLocation", "dc/d96/a05060.html#a85e62bd98f395189fea9c9514d44fc31", null ]
+    [ "OutdoorPvP_grizzly_hills", "d0/dfa/a22730.html", "d0/dfa/a22730" ],
+    [ "AddSC_outdoorpvp_gh", "dc/d96/a05060.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ]
 ];

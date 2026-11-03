@@ -1,9 +1,7 @@
 var a10098 =
 [
-    [ "EmoteChatBuilder", "d9/dbb/a10098.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
-    [ "operator()", "d9/dbb/a10098.html#a133a7bb35e86cf40425910c4f19a3337", null ],
-    [ "i_emote_num", "d9/dbb/a10098.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
-    [ "i_player", "d9/dbb/a10098.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
-    [ "i_target", "d9/dbb/a10098.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
-    [ "i_text_emote", "d9/dbb/a10098.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
+    [ "AddonHandler", "d9/dbb/a10098.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
+    [ "~AddonHandler", "d9/dbb/a10098.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
+    [ "BuildAddonPacket", "d9/dbb/a10098.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
+    [ "instance", "d9/dbb/a10098.html#a2925b829b803dd07e96685086357ef85", null ]
 ];

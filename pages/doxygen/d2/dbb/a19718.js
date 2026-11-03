@@ -1,6 +1,10 @@
 var a19718 =
 [
-    [ "boss_maexxna_webwrapAI", "d5/d8d/a19722.html", "d5/d8d/a19722" ],
-    [ "boss_maexxna_webwrap", "d2/dbb/a19718.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
-    [ "GetAI", "d2/dbb/a19718.html#a6d86d58a86b831a219ecc598044be4f3", null ]
+    [ "boss_patchwerkAI", "d2/dbb/a19718.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "d2/dbb/a19718.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "d2/dbb/a19718.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "d2/dbb/a19718.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "d2/dbb/a19718.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "d2/dbb/a19718.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "d2/dbb/a19718.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

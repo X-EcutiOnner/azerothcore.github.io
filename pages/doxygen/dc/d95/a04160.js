@@ -1,4 +1,5 @@
 var a04160 =
 [
-    [ "ScriptRegistry< BattlefieldScript >", "dc/d95/a04160.html#a66e07787094ffe5d2156ad0768c6dd4e", null ]
+    [ "titles_commandscript", "de/d6c/a12738.html", "de/d6c/a12738" ],
+    [ "AddSC_titles_commandscript", "dc/d95/a04160.html#abd13948cbed6e10bdbf797847a0f6839", null ]
 ];

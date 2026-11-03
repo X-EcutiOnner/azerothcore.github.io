@@ -1,6 +1,6 @@
 var a21234 =
 [
-    [ "ModSanityStacks", "d8/df3/a21234.html#a38b8425689f91b91e23096d658b462cf", null ],
-    [ "PrepareSpellScript", "d8/df3/a21234.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
-    [ "Register", "d8/df3/a21234.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
+    [ "HandleScript", "d8/df3/a21234.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "d8/df3/a21234.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "d8/df3/a21234.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

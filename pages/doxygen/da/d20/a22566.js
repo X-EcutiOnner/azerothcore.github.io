@@ -1,6 +1,8 @@
 var a22566 =
 [
-    [ "HandleSummon", "da/d20/a22566.html#a98c5df8b6c561a5aa7d766b639f3c2c8", null ],
-    [ "PrepareSpellScript", "da/d20/a22566.html#ab5605e1d401d7a762fc8b5a530ecd640", null ],
-    [ "Register", "da/d20/a22566.html#a9c9a0fd43758a6441a086860e8276cc0", null ]
+    [ "npc_oathbound_warder", "da/d20/a22566.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
+    [ "AttackStart", "da/d20/a22566.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
+    [ "InitializeAI", "da/d20/a22566.html#a62c4c568ad615013afa46c7da84d057a", null ],
+    [ "JustEngagedWith", "da/d20/a22566.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
+    [ "UpdateAI", "da/d20/a22566.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
 ];

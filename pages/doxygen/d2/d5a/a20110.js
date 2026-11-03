@@ -1,6 +1,6 @@
 var a20110 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d5/d32/a20114.html", "d5/d32/a20114" ],
-    [ "instance_halls_of_lightning", "d2/d5a/a20110.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "d2/d5a/a20110.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "CalculateDamage", "d2/d5a/a20110.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d2/d5a/a20110.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d2/d5a/a20110.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

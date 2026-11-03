@@ -1,7 +1,7 @@
 var a25554 =
 [
-    [ "HandleProc", "dc/d42/a25554.html#ac88c41bcfcedd9194d9d3f958d605d37", null ],
-    [ "PrepareAuraScript", "dc/d42/a25554.html#a66c3458e88ab5802e10445df3aeb52f6", null ],
-    [ "Register", "dc/d42/a25554.html#af02b0af51a1fece0780414ab45c8d31e", null ],
-    [ "Validate", "dc/d42/a25554.html#a9f955b53e5905cfb3742a58c8bedab96", null ]
+    [ "HandleEffectApply", "dc/d42/a25554.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
+    [ "OnRemove", "dc/d42/a25554.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
+    [ "PrepareAuraScript", "dc/d42/a25554.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
+    [ "Register", "dc/d42/a25554.html#a473189971d0a03e7305b7b9e41dc5207", null ]
 ];

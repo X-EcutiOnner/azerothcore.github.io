@@ -1,6 +1,6 @@
 var a22446 =
 [
-    [ "PrepareSpellScript", "d4/d1d/a22446.html#a87014fc73af805b7ad052d1f4f45d7cd", null ],
-    [ "Register", "d4/d1d/a22446.html#a306252bb3bc9af689400981b198f66e8", null ],
-    [ "SetDest", "d4/d1d/a22446.html#a0bffbc57932a2efe33a9912d608eb79d", null ]
+    [ "HandleScript", "d4/d1d/a22446.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
+    [ "PrepareSpellScript", "d4/d1d/a22446.html#a5a4ce9453638d61fe52514240f0a9384", null ],
+    [ "Register", "d4/d1d/a22446.html#a889f931aaa37d3a283f4d585b384a68e", null ]
 ];

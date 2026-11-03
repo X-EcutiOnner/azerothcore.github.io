@@ -1,7 +1,7 @@
 var a20798 =
 [
-    [ "FilterTargets", "d8/dbe/a20798.html#a4ea7a7ee257a74c7ae1da47b9a75f852", null ],
-    [ "HandleScript", "d8/dbe/a20798.html#a3b5fa94cdc2da133ae0cfaab9f949a57", null ],
-    [ "PrepareSpellScript", "d8/dbe/a20798.html#a9e29a54a0c4bbc32b5d9fffe6d34a41d", null ],
-    [ "Register", "d8/dbe/a20798.html#a53f90eb4dc7cdeab5bee4ab1a21691ac", null ]
+    [ "HandleEffectPeriodic", "d8/dbe/a20798.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "d8/dbe/a20798.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "d8/dbe/a20798.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "d8/dbe/a20798.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

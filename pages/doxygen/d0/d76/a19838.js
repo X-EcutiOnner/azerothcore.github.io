@@ -1,10 +1,7 @@
 var a19838 =
 [
-    [ "npc_power_spark", "d0/d76/a19838.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
-    [ "DamageTaken", "d0/d76/a19838.html#afe33d511823666929232bfd0179ee72a", null ],
-    [ "DoAction", "d0/d76/a19838.html#ab99a859ee718d49ce59171e7e7159abc", null ],
-    [ "UpdateAI", "d0/d76/a19838.html#ab36e75c87aa262a57be1594289284730", null ],
-    [ "_checkTimer", "d0/d76/a19838.html#ae63f0f359037363b840fe51a797969b5", null ],
-    [ "_instance", "d0/d76/a19838.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
-    [ "_moveTimer", "d0/d76/a19838.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
+    [ "HandleScript", "d0/d76/a19838.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
+    [ "Load", "d0/d76/a19838.html#a94661c7652572b1671a611b35c8f68a7", null ],
+    [ "PrepareSpellScript", "d0/d76/a19838.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
+    [ "Register", "d0/d76/a19838.html#a09352bd458fe3dbeacea38c5104656ff", null ]
 ];

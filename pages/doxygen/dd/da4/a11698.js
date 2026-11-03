@@ -1,6 +1,7 @@
 var a11698 =
 [
-    [ "QuestUpdateFailedTimer", "dd/da4/a11698.html#ae31656f1e3b3d145809113a8b7ce4400", null ],
-    [ "Write", "dd/da4/a11698.html#a35a0b6609205c7eaa1ea6c3e4e1486ac", null ],
-    [ "QuestId", "dd/da4/a11698.html#afce18ee4eea44b6c223ff2efc782d31d", null ]
+    [ "QuestGiverQuestFailed", "dd/da4/a11698.html#aec524e18a6a0fb666061bd08b17ff9cb", null ],
+    [ "Write", "dd/da4/a11698.html#a97d19e4fe5ccc50afaf91d58321d31ec", null ],
+    [ "FailureReason", "dd/da4/a11698.html#a5c4d887fd352e97c10a52bb095d8e33d", null ],
+    [ "QuestId", "dd/da4/a11698.html#a1c09d090cd3b7fc73becca4f523141f6", null ]
 ];

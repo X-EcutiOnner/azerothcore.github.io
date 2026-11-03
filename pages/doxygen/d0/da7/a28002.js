@@ -1,8 +1,6 @@
 var a28002 =
 [
-    [ "CheckProc", "d0/da7/a28002.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
-    [ "HandleProc", "d0/da7/a28002.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
-    [ "PrepareAuraScript", "d0/da7/a28002.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
-    [ "Register", "d0/da7/a28002.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
-    [ "Validate", "d0/da7/a28002.html#a28801b99335380a7e366e766b6aaea2c", null ]
+    [ "CheckProc", "d0/da7/a28002.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
+    [ "PrepareAuraScript", "d0/da7/a28002.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
+    [ "Register", "d0/da7/a28002.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
 ];

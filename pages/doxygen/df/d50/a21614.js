@@ -1,6 +1,12 @@
 var a21614 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "dd/dbe/a21618.html", "dd/dbe/a21618" ],
-    [ "instance_vault_of_archavon", "df/d50/a21614.html#a0be8d95ff0f3b751e6f833689e436310", null ],
-    [ "GetInstanceScript", "df/d50/a21614.html#abb955a8873a3a3021e164225dd1f857a", null ]
+    [ "npc_ichor_globule", "df/d50/a21614.html#a59443a6748d81ef27a030f8656697fc1", null ],
+    [ "AttackStart", "df/d50/a21614.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
+    [ "JustDied", "df/d50/a21614.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
+    [ "MoveInLineOfSight", "df/d50/a21614.html#af14fada689a1a6a780ae44865d16e465", null ],
+    [ "Reset", "df/d50/a21614.html#a78030360fcd39754744384cdba17fd9e", null ],
+    [ "SpellHit", "df/d50/a21614.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
+    [ "UpdateAI", "df/d50/a21614.html#acccc54db59a18e78330011465e109439", null ],
+    [ "_events", "df/d50/a21614.html#a221c58177666ea1eb4a6b831916297eb", null ],
+    [ "_instance", "df/d50/a21614.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
 ];

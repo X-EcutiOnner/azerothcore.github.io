@@ -1,7 +1,8 @@
 var a21046 =
 [
-    [ "npc_xt_void_zone", "d1/df0/a21046.html#ac392b70098ff8a486d1eb42c4dcd1551", null ],
-    [ "Reset", "d1/df0/a21046.html#a72b02a51f71370f83b58d3fdb32dccd2", null ],
-    [ "UpdateAI", "d1/df0/a21046.html#a7b49046e49cdf6b94ed6368197daeace", null ],
-    [ "_scheduler", "d1/df0/a21046.html#acfd9e9a23c88e74ad96a14f8fb560612", null ]
+    [ "npc_xt_toy_pile", "d1/df0/a21046.html#a843e7d05cf62baa5c006077f8dad107d", null ],
+    [ "SpellHit", "d1/df0/a21046.html#a82af3830eaf524c587334e8eb193925f", null ],
+    [ "_lastSummonTime", "d1/df0/a21046.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
+    [ "SummonCooldown", "d1/df0/a21046.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
+    [ "SummonDistance", "d1/df0/a21046.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
 ];

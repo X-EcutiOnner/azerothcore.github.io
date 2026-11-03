@@ -1,8 +1,9 @@
 var a18046 =
 [
-    [ "HandleHit", "d8/dca/a18046.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
-    [ "HandleScript", "d8/dca/a18046.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "d8/dca/a18046.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "d8/dca/a18046.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "d8/dca/a18046.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "npc_stinky_iccAI", "d8/dca/a18046.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "d8/dca/a18046.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "d8/dca/a18046.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "d8/dca/a18046.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "d8/dca/a18046.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "d8/dca/a18046.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

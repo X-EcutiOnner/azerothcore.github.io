@@ -1,10 +1,10 @@
 var a20878 =
 [
-    [ "npc_expedition_defender", "dc/d3e/a20878.html#aa476e8cdb18fce94b7517caf7ec751c8", null ],
-    [ "CanAIAttack", "dc/d3e/a20878.html#aa223ec9592dcc5f8890cc7de0c8e4230", null ],
-    [ "DoAction", "dc/d3e/a20878.html#adbd3f69f46e33537786505a0bb2955d5", null ],
-    [ "MovementInform", "dc/d3e/a20878.html#acfa015071d54e353e4397c806fcab0a5", null ],
-    [ "Reset", "dc/d3e/a20878.html#ae5da35cb689ada77a00d545e0f795af7", null ],
-    [ "SetData", "dc/d3e/a20878.html#ab8d8681d244c13e51709c3ad446c8805", null ],
-    [ "_idx", "dc/d3e/a20878.html#ae50289231fcaac124f78246774dda01e", null ]
+    [ "npc_razorscale_dark_rune_watcher", "dc/d3e/a20878.html#aff56f4cadfeb72f6a96f8ac86b27a6a1", null ],
+    [ "CanAIAttack", "dc/d3e/a20878.html#a68ef8f2c7014850c5107cc22deff8658", null ],
+    [ "JustEngagedWith", "dc/d3e/a20878.html#a303994b6f5e2ae6e4d6f0e44d9eb60a9", null ],
+    [ "Reset", "dc/d3e/a20878.html#aaab4be32140991366f1a004622bf3b31", null ],
+    [ "UpdateAI", "dc/d3e/a20878.html#a8d1518f80cc6427d0334770a5aaf130a", null ],
+    [ "_events", "dc/d3e/a20878.html#a15fa73dea3b9b86a6d1b42f9d1296d6e", null ],
+    [ "_instance", "dc/d3e/a20878.html#ac08ba6b60827408aeb1b63a48a57fa9e", null ]
 ];

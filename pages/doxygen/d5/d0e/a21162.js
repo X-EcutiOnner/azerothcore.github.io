@@ -1,6 +1,7 @@
 var a21162 =
 [
-    [ "boss_yoggsaron_influence_tentacle", "d5/d0e/a21162.html#ac5908d64a4749303a08d352d470995dd", null ],
-    [ "DamageTaken", "d5/d0e/a21162.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
-    [ "JustDied", "d5/d0e/a21162.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
+    [ "OnRemove", "d5/d0e/a21162.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "d5/d0e/a21162.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "d5/d0e/a21162.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "d5/d0e/a21162.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

@@ -1,9 +1,6 @@
 var a18014 =
 [
-    [ "FilterTargetsInitial", "d2/d2e/a18014.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "d2/d2e/a18014.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "d2/d2e/a18014.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "d2/d2e/a18014.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "d2/d2e/a18014.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "d2/d2e/a18014.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "boss_festergutAI", "d0/dab/a18018.html", "d0/dab/a18018" ],
+    [ "boss_festergut", "d2/d2e/a18014.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d2/d2e/a18014.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

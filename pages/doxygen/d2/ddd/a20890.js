@@ -1,6 +1,7 @@
 var a20890 =
 [
-    [ "npc_razorscale_spawner", "d2/ddd/a20890.html#afbc71f46d2ac919dae274c7581357d34", null ],
-    [ "Reset", "d2/ddd/a20890.html#afdfee27c6933d00f3e8d8fb1d8381e19", null ],
-    [ "UpdateAI", "d2/ddd/a20890.html#a0de302ea1ace44cc2f065cae130166cb", null ]
+    [ "go_razorscale_harpoonAI", "db/d0d/a20894.html", "db/d0d/a20894" ],
+    [ "go_razorscale_harpoon", "d2/ddd/a20890.html#a68e5414333ca5ed4ec2de2da5f1756d4", null ],
+    [ "GetAI", "d2/ddd/a20890.html#a89a25716733ed0f589ce50eab8466453", null ],
+    [ "OnGossipHello", "d2/ddd/a20890.html#ac6ea67384010725c56daab8c4f58c7ff", null ]
 ];

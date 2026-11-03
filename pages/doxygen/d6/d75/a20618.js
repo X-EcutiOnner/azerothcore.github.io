@@ -1,7 +1,6 @@
 var a20618 =
 [
-    [ "HandleEffectPeriodic", "d6/d75/a20618.html#acddafc5100d667e8fcc034815204f8ce", null ],
-    [ "PrepareAuraScript", "d6/d75/a20618.html#aeee4eeb0d55d084630bf850c0af165a9", null ],
-    [ "Register", "d6/d75/a20618.html#acc96d2a38e4da19e6cd6c72037a24202", null ],
-    [ "Validate", "d6/d75/a20618.html#acacf8df2d00899bed640c1be0d4287f2", null ]
+    [ "FilterTargets", "d6/d75/a20618.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "d6/d75/a20618.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "d6/d75/a20618.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

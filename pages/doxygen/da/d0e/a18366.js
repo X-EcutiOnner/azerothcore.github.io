@@ -1,6 +1,6 @@
 var a18366 =
 [
-    [ "HandleScriptEffect", "da/d0e/a18366.html#ac6017cbe86b328aef00f707051c67e5f", null ],
-    [ "PrepareSpellScript", "da/d0e/a18366.html#a3e21794652b0ffea67571f9b294b4961", null ],
-    [ "Register", "da/d0e/a18366.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
+    [ "boss_professor_putricideAI", "de/d81/a18370.html", "de/d81/a18370" ],
+    [ "boss_professor_putricide", "da/d0e/a18366.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "da/d0e/a18366.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

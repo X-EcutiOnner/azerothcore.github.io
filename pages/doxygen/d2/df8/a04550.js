@@ -1,33 +1,42 @@
 var a04550 =
 [
-    [ "SpellProcEquipmentTest", "dd/dbf/a30222.html", "dd/dbf/a30222" ],
-    [ "TEST_F", "d2/df8/a04550.html#a7767386979d852a619b6dbe82c19c6dd", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a3ac72f13b7b7e3dd06a4a2233e0aeba0", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a4ca0ffbde2d44686616ebf1bb9a7b59e", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a38f6adc593e63ffbe81a955a145252b5", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a9c3a0682e324a2a8779939d12357aee4", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a1c1a392431b379bb8add03a542f6266e", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a5a02ad41e8c2496c404229ab9fabe30a", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a9dc67df2d3b729985c729fdbcf0c2af0", null ],
-    [ "TEST_F", "d2/df8/a04550.html#ace39e46c5d8aa496edf55827a45ab831", null ],
-    [ "TEST_F", "d2/df8/a04550.html#aa5ab5594e4cc85dab1e756dfa063cdd7", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a2f54777bb68422618b3d7d5b0ff645e5", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a9b1b2f9c2ec8710cd92e02376c5b8b56", null ],
-    [ "TEST_F", "d2/df8/a04550.html#ae98f34a798ccbe023ff60c740baf668c", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a54a1f7f841d77484dea2bb6220b78752", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a5a79ba391a641fd95efc3b6af237e3f1", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a8206c776b9fa437f90738f7a26407dd3", null ],
-    [ "TEST_F", "d2/df8/a04550.html#ab5cd85585dc936ec2fb5a0b22c8cc838", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a3b75afb0407abe3b5beac5a91e7052aa", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a8fcc51445a9700485ee8b28376c6c117", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a0d10e4d4c80379c0962d1682186936ef", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a826e1a2b9df391b416c0bf8d9586a5ad", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a56006585b0a2ca26e4138423161a620a", null ],
-    [ "TEST_F", "d2/df8/a04550.html#ae6e67189670b8ff19e187042fc35b9f1", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a2749d0569090c64db21f620036c70c0c", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a25e1efe050d37679915c74c34d832fad", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a1dedc3c517abe627a4a17990df4b62d2", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a90735b3ce2720109328c57102ce1e440", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a6b0aebac05d10989c3fef6121de2aaab", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a1a26fcf5fd7d3724aa24e7a8cea3f510", null ]
+    [ "DataHeaders", "d2/df8/a04550.html#a5b5ca0ae07e92e9cad54568049f06fce", null ],
+    [ "RegisterSethekkHallsCreatureAI", "d2/df8/a04550.html#a4d0e02e340e57e5ff9f0184f82b086d5", null ],
+    [ "SethekkHallsScriptName", "d2/df8/a04550.html#a96ebd14b5dafc2480cbdb13e0bc4b7ab", null ],
+    [ "eIds", "d2/df8/a04550.html#a69c4601e4dd1496f746404c6abe87291", [
+      [ "NPC_VOICE_OF_THE_RAVEN_GOD", "d2/df8/a04550.html#a69c4601e4dd1496f746404c6abe87291aad4ab883c15374d38bc38b0f71f0c86a", null ],
+      [ "NPC_ANZU", "d2/df8/a04550.html#a69c4601e4dd1496f746404c6abe87291af130c29d37cee0370ac78ac4be4e415f", null ],
+      [ "GO_IKISS_DOOR", "d2/df8/a04550.html#a69c4601e4dd1496f746404c6abe87291a7975fc4f8b3558e660375d98a9d0e54e", null ],
+      [ "GO_THE_TALON_KINGS_COFFER", "d2/df8/a04550.html#a69c4601e4dd1496f746404c6abe87291a7957c3a97be229f195e4375af7b06e2c", null ]
+    ] ],
+    [ "Encounters", "d2/df8/a04550.html#abf7d0c9385f088b09a017ee50e9db6ee", [
+      [ "BOSS_MEATHOOK", "db/dde/a04856.html#abf7d0c9385f088b09a017ee50e9db6eea25d1747b57f14d33ef5375647ff92ec4", null ],
+      [ "BOSS_SALRAMM", "db/dde/a04856.html#abf7d0c9385f088b09a017ee50e9db6eea16c4d3a66b42c1e0e579dd4d589b3ac6", null ],
+      [ "BOSS_EPOCH", "db/dde/a04856.html#abf7d0c9385f088b09a017ee50e9db6eeaab9ebe6f2c23e402dc235051d4a10a82", null ],
+      [ "BOSS_MAL_GANIS", "db/dde/a04856.html#abf7d0c9385f088b09a017ee50e9db6eeaf457b3fe690a5fd76ade3d0cca5998af", null ],
+      [ "BOSS_INFINITE_CORRUPTOR", "db/dde/a04856.html#abf7d0c9385f088b09a017ee50e9db6eea9a4e453317d0aeea399c9ea6a62a9625", null ],
+      [ "MAX_ENCOUNTERS", "db/dde/a04856.html#abf7d0c9385f088b09a017ee50e9db6eea9cfa5bdc17e1d5a590d300b530b36a25", null ],
+      [ "DATA_DARKWEAVER_SYTH", "d2/df8/a04550.html#abf7d0c9385f088b09a017ee50e9db6eea6dbed6ec6697669d80047612efd58da9", null ],
+      [ "DATA_ANZU", "d2/df8/a04550.html#abf7d0c9385f088b09a017ee50e9db6eeac072367637c0d4080d6d25a349b54a54", null ],
+      [ "DATA_IKISS", "d2/df8/a04550.html#abf7d0c9385f088b09a017ee50e9db6eea354bfb39a3150d5f75a42abc68cbcc83", null ]
+    ] ],
+    [ "eTypes", "d2/df8/a04550.html#a31365a35c315c6cb485bcd31f5ba77fd", [
+      [ "DATA_MAGUS_TELESTRA_EVENT", "d9/d9a/a03668.html#a31365a35c315c6cb485bcd31f5ba77fda097adced7c95a2c9718c2c785bee7f83", null ],
+      [ "DATA_ANOMALUS_EVENT", "d9/d9a/a03668.html#a31365a35c315c6cb485bcd31f5ba77fdaaf86ee46d11b318ef5caffe5d123342a", null ],
+      [ "DATA_ORMOROK_EVENT", "d9/d9a/a03668.html#a31365a35c315c6cb485bcd31f5ba77fda521150b4f00d388d28870138ef89029a", null ],
+      [ "DATA_KERISTRASZA_EVENT", "d9/d9a/a03668.html#a31365a35c315c6cb485bcd31f5ba77fdacc731df49caf259ade6ae981d7b6fffa", null ],
+      [ "DATA_COMMANDER_EVENT", "d9/d9a/a03668.html#a31365a35c315c6cb485bcd31f5ba77fdaeec4cc47ddf1f8b45982ab9b09609204", null ],
+      [ "DATA_TELESTRA_ORB", "d9/d9a/a03668.html#a31365a35c315c6cb485bcd31f5ba77fda6070c92aa13cfc41ea707f2e4f317c49", null ],
+      [ "DATA_ANOMALUS_ORB", "d9/d9a/a03668.html#a31365a35c315c6cb485bcd31f5ba77fda7ca67e2df8f6c5ba3b64a58ffe838f79", null ],
+      [ "DATA_ORMOROK_ORB", "d9/d9a/a03668.html#a31365a35c315c6cb485bcd31f5ba77fda04925ab93b3def016402fa3d6c763cb8", null ],
+      [ "MAX_ENCOUNTERS", "d9/d9a/a03668.html#a31365a35c315c6cb485bcd31f5ba77fda9cfa5bdc17e1d5a590d300b530b36a25", null ],
+      [ "DATA_IKISSDOOREVENT", "d2/df8/a04550.html#a31365a35c315c6cb485bcd31f5ba77fda4254e5b20964fa4c45d7bed553c3cb95", null ],
+      [ "TYPE_ANZU_ENCOUNTER", "d2/df8/a04550.html#a31365a35c315c6cb485bcd31f5ba77fda7184f794bd903d92cba3eb6fa7297784", null ]
+    ] ],
+    [ "InstanceData", "d2/df8/a04550.html#a453c4190aaa5e59675ce6366d48c4778", [
+      [ "DATA_GO_TALON_KING_COFFER", "d2/df8/a04550.html#a453c4190aaa5e59675ce6366d48c4778a25477ff5678a4450f584b7e148c91101", null ],
+      [ "DATA_VOICE_OF_THE_RAVEN_GOD", "d2/df8/a04550.html#a453c4190aaa5e59675ce6366d48c4778a5c361f6d59a9c9ae12ada6ec074857c9", null ]
+    ] ],
+    [ "GetSethekkHallsAI", "d2/df8/a04550.html#a9b5213e8c6cd59c731bb4eaad803766d", null ],
+    [ "EncounterCount", "d2/df8/a04550.html#ae1fbcd81e7256d27efa0288994753839", null ]
 ];

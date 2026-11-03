@@ -1,7 +1,5 @@
 var a22218 =
 [
-    [ "HandleScript", "dd/d9b/a22218.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
-    [ "PrepareSpellScript", "dd/d9b/a22218.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
-    [ "Register", "dd/d9b/a22218.html#a9b8efef83b515f2250bda500ff741aa3", null ],
-    [ "Validate", "dd/d9b/a22218.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
+    [ "go_sister_mercy", "dd/d9b/a22218.html#a3c29ef699afe163b9a505f472709a795", null ],
+    [ "EventInform", "dd/d9b/a22218.html#a5ad9020e2717ef93d97a742ec16b14e6", null ]
 ];

@@ -1,12 +1,9 @@
 var a20958 =
 [
-    [ "boss_thorim_sif", "df/d9a/a20958.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
-    [ "AttackStart", "df/d9a/a20958.html#a3da2809c4e7aa0c051647be354ade759", null ],
-    [ "DoAction", "df/d9a/a20958.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
-    [ "IsSummonedBy", "df/d9a/a20958.html#a126b546655d4438bf25d0870f5c550b8", null ],
-    [ "MoveInLineOfSight", "df/d9a/a20958.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
-    [ "Reset", "df/d9a/a20958.html#a3f747b6da8db72fd61c50a24096834c2", null ],
-    [ "UpdateAI", "df/d9a/a20958.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
-    [ "_allowCast", "df/d9a/a20958.html#a6081345415b9ae3892d4f150a195908c", null ],
-    [ "events", "df/d9a/a20958.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
+    [ "boss_thorim_gauntlet_npcs", "df/d9a/a20958.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
+    [ "JustEngagedWith", "df/d9a/a20958.html#af10a444bada5743c837a9979726c79c9", null ],
+    [ "Reset", "df/d9a/a20958.html#a22fcffcc05f155524cadade389ec3607", null ],
+    [ "UpdateAI", "df/d9a/a20958.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
+    [ "_isCaster", "df/d9a/a20958.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
+    [ "events", "df/d9a/a20958.html#aec35e2b91841c386f083681673e15598", null ]
 ];

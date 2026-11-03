@@ -1,7 +1,8 @@
 var a24806 =
 [
-    [ "CalcDamage", "dd/df7/a24806.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "dd/df7/a24806.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "dd/df7/a24806.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "dd/df7/a24806.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "HandleDamage", "dd/df7/a24806.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "dd/df7/a24806.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "dd/df7/a24806.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "dd/df7/a24806.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "dd/df7/a24806.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

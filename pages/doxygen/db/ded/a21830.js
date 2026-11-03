@@ -1,7 +1,7 @@
 var a21830 =
 [
-    [ "HandleEffectHit", "db/ded/a21830.html#a8d7dd2411c3b786e682260eb30862602", null ],
-    [ "PrepareSpellScript", "db/ded/a21830.html#a49b6d005013e480f8161779119bc9b2d", null ],
-    [ "Register", "db/ded/a21830.html#a017ae25fead98a5c18cdb83128085ddd", null ],
-    [ "Validate", "db/ded/a21830.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
+    [ "npc_warmage_violetstand", "db/ded/a21830.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "db/ded/a21830.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "db/ded/a21830.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "db/ded/a21830.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

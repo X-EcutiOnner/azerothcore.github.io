@@ -1,5 +1,6 @@
 var a02951 =
 [
-    [ "keyData", "d7/da2/a12370.html", "d7/da2/a12370" ],
-    [ "GetWardenActionStr", "d4/d32/a02951.html#a4e3c0063e5bf94a2e640c7b887fe14fc", null ]
+    [ "DatabaseWorkerPool< T >", "d6/de0/a06138.html", "d6/de0/a06138" ],
+    [ "MIN_MYSQL_CLIENT_VERSION", "d4/d32/a02951.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
+    [ "MIN_MYSQL_SERVER_VERSION", "d4/d32/a02951.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
 ];

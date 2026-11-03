@@ -1,6 +1,6 @@
 var a21542 =
 [
-    [ "boss_archavonAI", "d9/dae/a21546.html", "d9/dae/a21546" ],
-    [ "boss_archavon", "de/dc4/a21542.html#a44e20480f8d86cf763afe67de49c6c33", null ],
-    [ "GetAI", "de/dc4/a21542.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
+    [ "HandleOnHit", "de/dc4/a21542.html#aa3f90eb49ae947b5729f722750cb8711", null ],
+    [ "PrepareSpellScript", "de/dc4/a21542.html#a3b62711a0ba478d6321a93d436359939", null ],
+    [ "Register", "de/dc4/a21542.html#af7bdde31f1221d5679983a41e3eca204", null ]
 ];

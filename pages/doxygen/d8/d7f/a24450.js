@@ -1,9 +1,6 @@
 var a24450 =
 [
-    [ "npc_enraged_spiritAI", "d8/d7f/a24450.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "d8/d7f/a24450.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "d8/d7f/a24450.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "d8/d7f/a24450.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "d8/d7f/a24450.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "d8/d7f/a24450.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "npc_enraged_spiritAI", "d6/d1d/a24454.html", "d6/d1d/a24454" ],
+    [ "npc_enraged_spirit", "d8/d7f/a24450.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d8/d7f/a24450.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

@@ -1,8 +1,5 @@
 var a20974 =
 [
-    [ "boss_thorim_pillar", "dd/d2f/a20974.html#aec2fc6e420499c9ce991753b912bef1e", null ],
-    [ "Reset", "dd/d2f/a20974.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
-    [ "SpellHit", "dd/d2f/a20974.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
-    [ "UpdateAI", "dd/d2f/a20974.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
-    [ "_resetTimer", "dd/d2f/a20974.html#ac9c8ef8622496593b5f91611d22120b3", null ]
+    [ "go_thorim_lever", "dd/d2f/a20974.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "dd/d2f/a20974.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

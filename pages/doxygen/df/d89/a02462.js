@@ -1,5 +1,5 @@
 var a02462 =
 [
-    [ "BGSpamProtect", "d5/d6c/a07826.html", "d5/d6c/a07826" ],
-    [ "sBGSpam", "df/d89/a02462.html#ae37d7994736d43484a627d5de2af5fc1", null ]
+    [ "GetLowLevelsMinPlayersOverride", "df/d89/a02462.html#a37cb97319fde2ce5eaaef583591063a9", null ],
+    [ "GetMinPlayersPerTeam", "df/d89/a02462.html#ab22bdb52b0357434faced9df19db9d81", null ]
 ];

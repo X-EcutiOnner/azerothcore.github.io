@@ -1,8 +1,13 @@
 var a22214 =
 [
-    [ "AfterApply", "d0/d64/a22214.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
-    [ "AfterRemove", "d0/d64/a22214.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
-    [ "PrepareAuraScript", "d0/d64/a22214.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
-    [ "Register", "d0/d64/a22214.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
-    [ "Validate", "d0/d64/a22214.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
+    [ "npc_sorlof", "d0/d64/a22214.html#afdac1cfc891e8cfda3506022e5f79204", null ],
+    [ "JustDied", "d0/d64/a22214.html#a53440692c7e64f03e601dc9ab65bc3cb", null ],
+    [ "MovementInform", "d0/d64/a22214.html#a0128234c450bcef8e3c9ebc6fee0c578", null ],
+    [ "MoveToNextNode", "d0/d64/a22214.html#a6a80487d0c5e55d9216efb63dbdd598e", null ],
+    [ "Reset", "d0/d64/a22214.html#a6b34547c0ae6b588a788e57353b933c8", null ],
+    [ "SetData", "d0/d64/a22214.html#a388be22752dc524735459e62a97fe510", null ],
+    [ "UpdateAI", "d0/d64/a22214.html#a1165631ba6c172930691766cfb73eda8", null ],
+    [ "_advancePath", "d0/d64/a22214.html#aa731d85060b9280ef172a2e15614aaf9", null ],
+    [ "_pathId", "d0/d64/a22214.html#ab3d9b633e7304d65fda49890b5c9672e", null ],
+    [ "_pathNode", "d0/d64/a22214.html#a33fa8fa6c768335887daaab226b8cff2", null ]
 ];

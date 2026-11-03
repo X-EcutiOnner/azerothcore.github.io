@@ -1,8 +1,11 @@
 var a10266 =
 [
-    [ "ServerMailCondition", "de/d4e/a10266.html#a2ee7d2f3587159c95883fe32674cb586", null ],
-    [ "CheckCondition", "de/d4e/a10266.html#a3c223658629357f05d8879555717f624", null ],
-    [ "state", "de/d4e/a10266.html#a309f739872afaf644331335b27649561", null ],
-    [ "type", "de/d4e/a10266.html#a3b318e7743ca48fcf8ba849398a06968", null ],
-    [ "value", "de/d4e/a10266.html#af709199aed99633cc70d9118ee4fd4fc", null ]
+    [ "DeleteEmptyExpiredMail", "de/d4e/a10266.html#a3cd0e2570c8c684d09931331dfb5837f", null ],
+    [ "instance", "de/d4e/a10266.html#abe24c4d840d5f2b05958a44cd63b8b35", null ],
+    [ "LoadMailCounts", "de/d4e/a10266.html#a6786cc5036259c23256b669da1146012", null ],
+    [ "OnMailDeleted", "de/d4e/a10266.html#a699bf593d7f00470878504141e7fe3df", null ],
+    [ "OnMailReturned", "de/d4e/a10266.html#ac355df32c38e8619cf18cee283894c64", null ],
+    [ "OnMailSent", "de/d4e/a10266.html#ad22a9a0cf09a5dc7acaf14dfdd0bcdbf", null ],
+    [ "RecountMailCount", "de/d4e/a10266.html#a595b8b31c9695c8bbec64e2f982853d0", null ],
+    [ "ReturnOrDeleteOldMails", "de/d4e/a10266.html#ab4ef5f6ca91286c732b257f267b06f14", null ]
 ];

@@ -1,7 +1,10 @@
 var a03830 =
 [
-    [ "Movement::FallInitializer", "de/d5d/a10606.html", "de/d5d/a10606" ],
-    [ "Movement::CommonInitializer", "d6/d02/a10610.html", "d6/d02/a10610" ],
-    [ "CHECK", "d5/de2/a03830.html#a4005b3acaa5011bfc2cc027562c04dfb", null ],
-    [ "computeDuration", "d5/de2/a03830.html#a0f9e26b66bd86bb9701c366e4f9529c3", null ]
+    [ "spell_utgarde_pinnacle_beast_mark", "de/da8/a21514.html", "de/da8/a21514" ],
+    [ "UtgardeSpells", "d5/de2/a03830.html#ae8fa29243650c07aed99f9ee3cad321a", [
+      [ "SPELL_BEAST_MARK_NORMAL", "d5/de2/a03830.html#ae8fa29243650c07aed99f9ee3cad321aa515971380a351ffe4dc21aefd7d9a8aa", null ],
+      [ "SPELL_BEAST_MARK_DAMAGE_N", "d5/de2/a03830.html#ae8fa29243650c07aed99f9ee3cad321aa519ee30eba59f71f788bd5aaa9ea8a4f", null ],
+      [ "SPELL_BEAST_MARK_DAMAGE_H", "d5/de2/a03830.html#ae8fa29243650c07aed99f9ee3cad321aa28cc83c9c8ba75d8dd51298affc35aa7", null ]
+    ] ],
+    [ "AddSC_utgarde_pinnacle", "d5/de2/a03830.html#aa865b80ad4fb44b0c96fa45f08d06d71", null ]
 ];

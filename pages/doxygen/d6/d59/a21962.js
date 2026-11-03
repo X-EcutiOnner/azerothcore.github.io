@@ -1,7 +1,7 @@
 var a21962 =
 [
-    [ "CheckCast", "d6/d59/a21962.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "d6/d59/a21962.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "d6/d59/a21962.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "d6/d59/a21962.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "HandleApplyEffect", "d6/d59/a21962.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "d6/d59/a21962.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "d6/d59/a21962.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "d6/d59/a21962.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

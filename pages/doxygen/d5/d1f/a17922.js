@@ -1,7 +1,7 @@
 var a17922 =
 [
-    [ "PeriodicTick", "d5/d1f/a17922.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "d5/d1f/a17922.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "d5/d1f/a17922.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "d5/d1f/a17922.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "OnProc", "d5/d1f/a17922.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "d5/d1f/a17922.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "d5/d1f/a17922.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "d5/d1f/a17922.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

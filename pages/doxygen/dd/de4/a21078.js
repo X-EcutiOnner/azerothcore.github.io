@@ -1,7 +1,5 @@
 var a21078 =
 [
-    [ "FilterTargets", "dd/de4/a21078.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "dd/de4/a21078.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "dd/de4/a21078.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "dd/de4/a21078.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "achievement_heartbreaker", "dd/de4/a21078.html#ad81925fc32d7cf914b7be44aabe49b39", null ],
+    [ "OnCheck", "dd/de4/a21078.html#ab3a2539ae5dc74743beb0dc0ea0147af", null ]
 ];

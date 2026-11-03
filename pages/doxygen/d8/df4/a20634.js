@@ -1,6 +1,9 @@
 var a20634 =
 [
-    [ "FilterTargets", "d8/df4/a20634.html#a16c036791c9dc94490d0504d6e530bad", null ],
-    [ "PrepareSpellScript", "d8/df4/a20634.html#a0c1a162a3dfb2b508f9efaebe478ca74", null ],
-    [ "Register", "d8/df4/a20634.html#a061c3091e981f09d20016c4f523f3c17", null ]
+    [ "CheckProc", "d8/df4/a20634.html#a8ab051ee6fc080f5aa88d86d181f7890", null ],
+    [ "HandleAfterEffectApply", "d8/df4/a20634.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "HandleProc", "d8/df4/a20634.html#a2ee2121d3d55bf6067de985e8d999de2", null ],
+    [ "PrepareAuraScript", "d8/df4/a20634.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "d8/df4/a20634.html#adce13201dd11c6ba83883b12ad32d1f6", null ],
+    [ "Validate", "d8/df4/a20634.html#a30733bf8ca4d619d6eafafa78df4c0f7", null ]
 ];

@@ -1,6 +1,6 @@
 var a10710 =
 [
-    [ "PoolObject", "d5/d62/a10710.html#a772dc7bc9e1ce25edba89977bf87e3f0", null ],
-    [ "chance", "d5/d62/a10710.html#ae129795bb2f358af900dbc8892502123", null ],
-    [ "guid", "d5/d62/a10710.html#ae10fa01f5959e231fe2c16d38d9f3615", null ]
+    [ "Description", "d5/d62/a10710.html#a1d49e1ff4533507cb64dfc8fc6790c37", null ],
+    [ "MapId", "d5/d62/a10710.html#a252400abf9080866cdf2eebba16df4dc", null ],
+    [ "MaxLimit", "d5/d62/a10710.html#a38ba12a67e99cabba2388a63f12a2b53", null ]
 ];

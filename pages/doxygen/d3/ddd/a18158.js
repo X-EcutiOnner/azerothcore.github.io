@@ -1,6 +1,8 @@
 var a18158 =
 [
-    [ "npc_gunship_mageAI", "df/dd3/a18162.html", "df/dd3/a18162" ],
-    [ "npc_gunship_mage", "d3/ddd/a18158.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
-    [ "GetAI", "d3/ddd/a18158.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
+    [ "HandlePeriodic", "d3/ddd/a18158.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "d3/ddd/a18158.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "d3/ddd/a18158.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "d3/ddd/a18158.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "d3/ddd/a18158.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

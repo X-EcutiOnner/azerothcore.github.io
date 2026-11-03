@@ -1,8 +1,6 @@
 var a21490 =
 [
-    [ "CountTargets", "de/db2/a21490.html#aaf8528038c6b3172d4810ed773f71644", null ],
-    [ "HandleDummy", "de/db2/a21490.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
-    [ "PrepareSpellScript", "de/db2/a21490.html#a1f31273cb1826cd07196eacfbdc46673", null ],
-    [ "Register", "de/db2/a21490.html#adce6a5d920ac616dc0579fcd96c49288", null ],
-    [ "_targetCount", "de/db2/a21490.html#acfd8832cb9a197dddb034a003b318911", null ]
+    [ "CalculateAmount", "de/db2/a21490.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "de/db2/a21490.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "de/db2/a21490.html#a9bce52699983fe798c903385faa42462", null ]
 ];

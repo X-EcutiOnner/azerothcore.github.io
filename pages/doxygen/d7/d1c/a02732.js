@@ -1,11 +1,5 @@
 var a02732 =
 [
-    [ "SpellEvent", "d3/d05/a11950.html", "d3/d05/a11950" ],
-    [ "DEBUG_TRAJ", "d7/d1c/a02732.html#ac27bc73435b380df600d6da0b753a144", null ],
-    [ "GCDLimits", "d7/d1c/a02732.html#aea36520bcbaa2ebe9c062b9c5d9df777", [
-      [ "MIN_GCD", "d7/d1c/a02732.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f", null ],
-      [ "MAX_GCD", "d7/d1c/a02732.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c", null ]
-    ] ],
-    [ "tangent", "d7/d1c/a02732.html#a885f76b28cf9930383ddf099d75ccef1", null ],
-    [ "SpellEffects", "d7/d1c/a02732.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
+    [ "GetIdleMovementGenerator", "d7/d1c/a02732.html#ab03e344726a074f17f8c63d10b67fcc1", null ],
+    [ "isStatic", "d7/d1c/a02732.html#a05fec3371a9aee5a6448115a645a505d", null ]
 ];

@@ -1,21 +1,43 @@
 var a03086 =
 [
-    [ "Totem", "d3/d38/a09166.html", "d3/d38/a09166" ],
-    [ "EARTHBIND_TOTEM_ENTRY", "d9/d5e/a03086.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
-    [ "SENTRY_TOTEM_ENTRY", "d9/d5e/a03086.html#a2bd46e1df17fdee45cd35896306092fb", null ],
-    [ "TotemImmunitySpells", "d9/d5e/a03086.html#a526213bf692d4f8d189a61617f4a59c9", [
-      [ "SPELL_CYCLONE", "d9/d5e/a03086.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
-      [ "SPELL_STONECLAW", "d9/d5e/a03086.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
-      [ "SPELL_BIND_SIGHT", "d9/d5e/a03086.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
-      [ "SPELL_INTERVENE", "d9/d5e/a03086.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
+    [ "instance_sunwell_plateau", "d0/dcb/a14022.html", "d0/dcb/a14022" ],
+    [ "instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript", "d0/df0/a14026.html", "d0/df0/a14026" ],
+    [ "spell_cataclysm_breath", "d0/df8/a14030.html", "d0/df8/a14030" ],
+    [ "npc_sunblade_scout", "d5/dee/a14034.html", "d5/dee/a14034" ],
+    [ "spell_sunwell_teleport", "df/dfe/a14038.html", "df/dfe/a14038" ],
+    [ "npc_sunblade_arch_mage", "db/dac/a14042.html", "db/dac/a14042" ],
+    [ "spell_spell_fury_aura", "d0/d6c/a14046.html", "d0/d6c/a14046" ],
+    [ "cataclysmBreath", "d9/d5e/a03086.html#a6a5181bd462eed11e28ffb04c14a901c", [
+      [ "SPELL_CORROSIVE_POISON", "d9/d5e/a03086.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3", null ],
+      [ "SPELL_FEVERED_FATIGUE", "d9/d5e/a03086.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222", null ],
+      [ "SPELL_HEX", "d9/d5e/a03086.html#a6a5181bd462eed11e28ffb04c14a901ca88cd9f67c5feb7f0ba6c853b8520a00b", null ],
+      [ "SPELL_NECROTIC_POISON", "d9/d5e/a03086.html#a6a5181bd462eed11e28ffb04c14a901ca91659ae45d576a823387ef54f56e2c4b", null ],
+      [ "SPELL_PIERCING_SHADOW", "d9/d5e/a03086.html#a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d", null ],
+      [ "SPELL_SHRINK", "d9/d5e/a03086.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f", null ],
+      [ "SPELL_WAVERING_WILL", "d9/d5e/a03086.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8", null ],
+      [ "SPELL_WITHERED_TOUCH", "d9/d5e/a03086.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b", null ]
     ] ],
-    [ "TotemSpellIds", "d9/d5e/a03086.html#a7092ec93c941969cd2cdd2291c6de0be", [
-      [ "SentryTotemSpell", "d9/d5e/a03086.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
-      [ "FireTotemSpell", "d9/d5e/a03086.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
+    [ "SunbladeArchMageSpells", "d9/d5e/a03086.html#a41df3ad8185e1920fff7e943ae1d6de8", [
+      [ "SPELL_ARCANE_EXPLOSION", "d9/d5e/a03086.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce", null ],
+      [ "SPELL_BLINK", "d9/d5e/a03086.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a", null ],
+      [ "SPELL_FROST_NOVA", "d9/d5e/a03086.html#a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03", null ]
     ] ],
-    [ "TotemType", "d9/d5e/a03086.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
-      [ "TOTEM_PASSIVE", "d9/d5e/a03086.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
-      [ "TOTEM_ACTIVE", "d9/d5e/a03086.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
-      [ "TOTEM_STATUE", "d9/d5e/a03086.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
-    ] ]
+    [ "SunbladeScout", "d9/d5e/a03086.html#aaf4c1644419a40c8480767e91644d5bc", [
+      [ "NPC_SUNBLADE_PROTECTOR", "d9/d5e/a03086.html#aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3", null ],
+      [ "SAY_AGGRO", "d9/d5e/a03086.html#aaf4c1644419a40c8480767e91644d5bca47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SPELL_ACTIVATE_SUNBLADE_PROTECTOR", "d9/d5e/a03086.html#aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664", null ],
+      [ "SPELL_COSMETIC_STUN_IMMUNE_PERMANENT", "d9/d5e/a03086.html#aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff", null ],
+      [ "SPELL_FELBLOOD_CHANNEL", "d9/d5e/a03086.html#aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd", null ],
+      [ "SPELL_SINISTER_STRIKE", "d9/d5e/a03086.html#aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7", null ]
+    ] ],
+    [ "SunwellTeleportSpells", "d9/d5e/a03086.html#a16317b99a941a9465e032037ccd2c216", [
+      [ "SPELL_TELEPORT_TO_APEX_POINT", "d9/d5e/a03086.html#a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b", null ],
+      [ "SPELL_TELEPORT_TO_WITCHS_SANCTUM", "d9/d5e/a03086.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368", null ],
+      [ "SPELL_TELEPORT_TO_SUNWELL_PLATEAU", "d9/d5e/a03086.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e", null ]
+    ] ],
+    [ "AddSC_instance_sunwell_plateau", "d9/d5e/a03086.html#a6f050a93b62a1391ae6321d1d2d6450a", null ],
+    [ "creatureData", "d9/d5e/a03086.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d9/d5e/a03086.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d9/d5e/a03086.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "summonData", "d9/d5e/a03086.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

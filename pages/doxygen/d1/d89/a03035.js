@@ -1,6 +1,6 @@
 var a03035 =
 [
-    [ "FlyByCamera", "de/d6b/a08378.html", "de/d6b/a08378" ],
-    [ "GetFlyByCameras", "d1/d89/a03035.html#a8079cfd87f117ce26e31f3da14e63cf9", null ],
-    [ "LoadM2Cameras", "d1/d89/a03035.html#a9971ebb80eba223b5767bcfa8f713267", null ]
+    [ "GetLibraryVersion", "d1/d89/a03035.html#aefa4bd51f34aad2d1a141c00a2310092", null ],
+    [ "Library_End", "d1/d89/a03035.html#aff44554b66bd7ef0e21f1db5beb0b81a", null ],
+    [ "Library_Init", "d1/d89/a03035.html#a70b74137156f0a22792c3cf95c54decc", null ]
 ];

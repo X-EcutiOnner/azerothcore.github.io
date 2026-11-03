@@ -1,6 +1,8 @@
 var a20526 =
 [
-    [ "HandleScript", "d2/d97/a20526.html#a269167ff78ae3110193f7cfe4b4c0ef4", null ],
-    [ "PrepareSpellScript", "d2/d97/a20526.html#a79975a7f3e523c0feb87d3e084f98808", null ],
-    [ "Register", "d2/d97/a20526.html#aec017333dfc19701472dad3987538e69", null ]
+    [ "npc_ulduar_saronite_animus", "d2/d97/a20526.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
+    [ "JustDied", "d2/d97/a20526.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
+    [ "UpdateAI", "d2/d97/a20526.html#afc7899752e25669b37ab04b50fb2d604", null ],
+    [ "_instance", "d2/d97/a20526.html#a6f2bf52c82185365efe88941b7922504", null ],
+    [ "timer", "d2/d97/a20526.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
 ];

@@ -1,7 +1,11 @@
 var a18422 =
 [
-    [ "HandleScript", "dc/de4/a18422.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "dc/de4/a18422.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "dc/de4/a18422.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "dc/de4/a18422.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "Load", "dc/de4/a18422.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
+    [ "PrepareSpellScript", "dc/de4/a18422.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
+    [ "Register", "dc/de4/a18422.html#a9adbad7cc2185b22fb16135e78114548", null ],
+    [ "SelectTarget", "dc/de4/a18422.html#a296ec09cec9661123ea5c86f3f262f32", null ],
+    [ "SetTarget", "dc/de4/a18422.html#a15373dc2a0767e011faf504f6377e24d", null ],
+    [ "StartAttack", "dc/de4/a18422.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
+    [ "Validate", "dc/de4/a18422.html#a7619f7ec6dc0ce14293414729731ed00", null ],
+    [ "_target", "dc/de4/a18422.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
 ];

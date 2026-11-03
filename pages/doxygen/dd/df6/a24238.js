@@ -1,6 +1,7 @@
 var a24238 =
 [
-    [ "npc_aeranasAI", "db/d9d/a24242.html", "db/d9d/a24242" ],
-    [ "npc_aeranas", "dd/df6/a24238.html#a6ea71481ef6a223a329b805081122537", null ],
-    [ "GetAI", "dd/df6/a24238.html#a81167df6665bdca81ee13468dec19643", null ]
+    [ "HandleDummy", "dd/df6/a24238.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "dd/df6/a24238.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "dd/df6/a24238.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "dd/df6/a24238.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

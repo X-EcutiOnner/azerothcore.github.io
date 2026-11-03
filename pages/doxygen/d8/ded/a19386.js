@@ -1,9 +1,9 @@
 var a19386 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d8/ded/a19386.html#a18330d49e510f83af7ee0120df14e633", null ],
-    [ "AttackStart", "d8/ded/a19386.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
-    [ "JustEngagedWith", "d8/ded/a19386.html#adddd56260b41738d69fcdfe31b677c51", null ],
-    [ "Reset", "d8/ded/a19386.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
-    [ "UpdateAI", "d8/ded/a19386.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
-    [ "events", "d8/ded/a19386.html#a1c8a527d217f9b810f87da0fc020528a", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d8/ded/a19386.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "d8/ded/a19386.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "d8/ded/a19386.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "d8/ded/a19386.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "d8/ded/a19386.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "d8/ded/a19386.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

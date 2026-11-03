@@ -1,6 +1,8 @@
 var a20530 =
 [
-    [ "HandleSurge", "d7/d23/a20530.html#a669a46f3583518664462b4ee915be2da", null ],
-    [ "PrepareSpellScript", "d7/d23/a20530.html#adead1c7e506e9dc8d6b9cc04f2331a58", null ],
-    [ "Register", "d7/d23/a20530.html#a7f29f72897e2e175044a49b05d2994d7", null ]
+    [ "OnApply", "d7/d23/a20530.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "d7/d23/a20530.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "d7/d23/a20530.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "d7/d23/a20530.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "d7/d23/a20530.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

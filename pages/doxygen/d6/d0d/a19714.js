@@ -1,11 +1,6 @@
 var a19714 =
 [
-    [ "boss_maexxnaAI", "d6/d0d/a19714.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
-    [ "DoCastWebWrap", "d6/d0d/a19714.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
-    [ "IsInRoom", "d6/d0d/a19714.html#a957bd38232c020611fc24dd8a6e55640", null ],
-    [ "JustEngagedWith", "d6/d0d/a19714.html#a9974fc771b3663878964aeb20914fe43", null ],
-    [ "JustSummoned", "d6/d0d/a19714.html#ab45b74b3067b42089fee804844ea41dd", null ],
-    [ "KilledUnit", "d6/d0d/a19714.html#a11cda2b905ef2381c317a01e4163be00", null ],
-    [ "UpdateAI", "d6/d0d/a19714.html#a6f0453babfa84764467970369894eb97", null ],
-    [ "wraps", "d6/d0d/a19714.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
+    [ "boss_patchwerkAI", "d2/dbb/a19718.html", "d2/dbb/a19718" ],
+    [ "boss_patchwerk", "d6/d0d/a19714.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
+    [ "GetAI", "d6/d0d/a19714.html#a03f2dec61192405760958e26d998d67e", null ]
 ];

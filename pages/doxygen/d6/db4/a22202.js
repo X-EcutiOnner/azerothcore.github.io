@@ -1,7 +1,7 @@
 var a22202 =
 [
-    [ "npc_rodin_lightning_enabler", "d6/db4/a22202.html#ae014b208af7664acd2147663d9338583", null ],
-    [ "Reset", "d6/db4/a22202.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
-    [ "UpdateAI", "d6/db4/a22202.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
-    [ "_scheduler", "d6/db4/a22202.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
+    [ "HandleDummy", "d6/db4/a22202.html#a2b903398db78b07e6315a582c2f0a38d", null ],
+    [ "PrepareSpellScript", "d6/db4/a22202.html#ae86e65e975f464527f71f70ac8b14213", null ],
+    [ "Register", "d6/db4/a22202.html#a390c378d25b5892679b0253f50c2c145", null ],
+    [ "Validate", "d6/db4/a22202.html#a79170e1b6f472df2c0427e7009209228", null ]
 ];

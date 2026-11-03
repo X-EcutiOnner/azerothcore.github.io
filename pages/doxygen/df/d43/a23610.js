@@ -1,6 +1,5 @@
 var a23610 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d9/df4/a23614.html", "d9/df4/a23614" ],
-    [ "instance_steam_vault", "df/d43/a23610.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "df/d43/a23610.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "go_main_chambers_access_panel", "df/d43/a23610.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "df/d43/a23610.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

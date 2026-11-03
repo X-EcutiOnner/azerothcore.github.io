@@ -1,6 +1,7 @@
 var a19138 =
 [
-    [ "CaptainSurviveTalk", "db/dab/a19138.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "db/dab/a19138.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "db/dab/a19138.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "npc_frost_freeze_trapAI", "db/dab/a19138.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "db/dab/a19138.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "db/dab/a19138.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "db/dab/a19138.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

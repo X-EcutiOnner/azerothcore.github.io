@@ -1,6 +1,10 @@
 var a03344 =
 [
-    [ "LogHeader", "db/d03/a11802.html", "db/d03/a11802" ],
-    [ "PacketHeader", "d6/d25/a11806.html", "d6/d25/a11806" ],
-    [ "PacketHeader::OptionalData", "d6/d02/a11810.html", "d6/d02/a11810" ]
+    [ "spell_razelikh_teleport_group", "df/de8/a14086.html", "df/de8/a14086" ],
+    [ "DeathlyUsher", "da/dcf/a03344.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
+      [ "SPELL_TELEPORT_SINGLE", "da/dcf/a03344.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
+      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "da/dcf/a03344.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
+      [ "SPELL_TELEPORT_GROUP", "da/dcf/a03344.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
+    ] ],
+    [ "AddSC_blasted_lands", "da/dcf/a03344.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
 ];

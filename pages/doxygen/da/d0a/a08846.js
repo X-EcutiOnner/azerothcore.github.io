@@ -1,5 +1,6 @@
 var a08846 =
 [
-    [ "ItemStatType", "da/d0a/a08846.html#a8643f062d325b5048c839525db56af3e", null ],
-    [ "ItemStatValue", "da/d0a/a08846.html#a5a5ee42445d9121f186c084dfbc31425", null ]
+    [ "DamageMax", "da/d0a/a08846.html#afc0bd7960848f6434c182a3fadc1e256", null ],
+    [ "DamageMin", "da/d0a/a08846.html#acbab962cbc25ad032c97216feac281bb", null ],
+    [ "DamageType", "da/d0a/a08846.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
 ];

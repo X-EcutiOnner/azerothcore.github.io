@@ -1,10 +1,5 @@
 var a20494 =
 [
-    [ "boss_freya_elder_ironbranch", "de/d35/a20494.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
-    [ "JustDied", "de/d35/a20494.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
-    [ "JustEngagedWith", "de/d35/a20494.html#a34d87135b8dac114a8783941dba69559", null ],
-    [ "KilledUnit", "de/d35/a20494.html#a20b5a622ac233d1280169f54942c894f", null ],
-    [ "Reset", "de/d35/a20494.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
-    [ "UpdateAI", "de/d35/a20494.html#a00dade8af24a2240187fb4e52138c0d1", null ],
-    [ "events", "de/d35/a20494.html#a8693a800da6890004f3ae82fd9898480", null ]
+    [ "achievement_freya_getting_back_to_nature", "de/d35/a20494.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "de/d35/a20494.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

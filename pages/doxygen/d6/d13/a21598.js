@@ -1,6 +1,11 @@
 var a21598 =
 [
-    [ "npc_frozen_orbAI", "d6/d2e/a21602.html", "d6/d2e/a21602" ],
-    [ "npc_frozen_orb", "d6/d13/a21598.html#ac14966722e39b2b6b3a907756701ed98", null ],
-    [ "GetAI", "d6/d13/a21598.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
+    [ "boss_cyanigosa", "d6/d13/a21598.html#af85a0c366de8785cd89d14f7990bfb54", null ],
+    [ "EnterEvadeMode", "d6/d13/a21598.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
+    [ "ExecuteEvent", "d6/d13/a21598.html#a694dda590c17a03534f8744838ac3176", null ],
+    [ "JustDied", "d6/d13/a21598.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
+    [ "JustEngagedWith", "d6/d13/a21598.html#a2432aa3610747c52f6ec3de1def55f18", null ],
+    [ "KilledUnit", "d6/d13/a21598.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
+    [ "MoveInLineOfSight", "d6/d13/a21598.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
+    [ "SpellHitTarget", "d6/d13/a21598.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
 ];

@@ -1,20 +1,15 @@
 var a30430 =
 [
-    [ "Record", "dc/dab/a30430.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
-    [ "Record", "dc/dab/a30430.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
-    [ "getByte", "dc/dab/a30430.html#a1cbdf66b5d2a86ef0caeca4841673ce0", null ],
-    [ "getFloat", "dc/dab/a30430.html#a6dd0d859ff1d4d4e2307fa2c6ceea507", null ],
-    [ "getFloat", "dc/dab/a30430.html#a6dd0d859ff1d4d4e2307fa2c6ceea507", null ],
-    [ "getInt", "dc/dab/a30430.html#ab0d855d30a9ea7771eeef4e6600d20f7", null ],
-    [ "getInt", "dc/dab/a30430.html#ab0d855d30a9ea7771eeef4e6600d20f7", null ],
-    [ "getString", "dc/dab/a30430.html#a8ce11f6a3941e2da3d1550d3164e21b7", null ],
-    [ "getString", "dc/dab/a30430.html#a8ce11f6a3941e2da3d1550d3164e21b7", null ],
-    [ "getUInt", "dc/dab/a30430.html#a7ac5c86e03109959c198f23ea89ce292", null ],
-    [ "getUInt", "dc/dab/a30430.html#a7ac5c86e03109959c198f23ea89ce292", null ],
-    [ "operator=", "dc/dab/a30430.html#a25c6e7d3b28aade82eb52d41515f0427", null ],
-    [ "DBCFile", "dc/dab/a30430.html#a6c4f02b14caa99337bbe77b30e5615ab", null ],
-    [ "DBCFile::Iterator", "dc/dab/a30430.html#a56d48f82a62e25038bf9cf339e608083", null ],
-    [ "Iterator", "dc/dab/a30430.html#a9830fc407400559db7e7783cc10a9394", null ],
-    [ "file", "dc/dab/a30430.html#adffc3b9545883356dd9bed0a0613a1fe", null ],
-    [ "offset", "dc/dab/a30430.html#ae76eb8b329fb6d580aa42484de46c95e", null ]
+    [ "prepareLoadedData", "dc/dab/a30430.html#ace847b2eee40844bb3fa880e3c1d1aa5", null ],
+    [ "data1", "dc/dab/a30430.html#a9e2886eb133eb0e0bc8fa21a5b166d20", null ],
+    [ "data2", "dc/dab/a30430.html#a53f0a49fd2de7f29032556fe3a4e9110", null ],
+    [ "data3", "dc/dab/a30430.html#a2092bb81ccdea07c4752a2df49cba4c2", null ],
+    [ "data4", "dc/dab/a30430.html#a2bfc7b7268caaa684c6fece0d0769b9e", null ],
+    [ "data5", "dc/dab/a30430.html#a9536fcb98293d1c09a1975b753f02ae8", null ],
+    [ "data6", "dc/dab/a30430.html#ad43914a6df430c32a0c2f56bb8f1f4d7", null ],
+    [ "data7", "dc/dab/a30430.html#a7508e9fa38ab965ecf8e21b1f859a918", null ],
+    [ "data8", "dc/dab/a30430.html#ae926543e029695e268ed950edf625bdb", null ],
+    [ "fcc", "dc/dab/a30430.html#aa0ccc34e7e7a2de4e9866819dbe0c72a", null ],
+    [ "fcc_txt", "dc/dab/a30430.html#aaa61a13b39e23a3efba960645e3e14a9", null ],
+    [ "size", "dc/dab/a30430.html#a1af89d5193eff2f32cf37d131f9ef7b8", null ]
 ];

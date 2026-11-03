@@ -1,6 +1,6 @@
 var a18402 =
 [
-    [ "npc_volatile_oozeAI", "d8/dfd/a18406.html", "d8/dfd/a18406" ],
-    [ "npc_volatile_ooze", "d0/d06/a18402.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "d0/d06/a18402.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "PrepareSpellScript", "d0/d06/a18402.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "d0/d06/a18402.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "d0/d06/a18402.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

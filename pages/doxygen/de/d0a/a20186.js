@@ -1,7 +1,9 @@
 var a20186 =
 [
-    [ "HandleEffectRemove", "de/d0a/a20186.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "de/d0a/a20186.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "de/d0a/a20186.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "de/d0a/a20186.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "npc_brann_bronzebeard_algalon", "de/d0a/a20186.html#ac00755dca7e187b55516be889386c499", null ],
+    [ "DoAction", "de/d0a/a20186.html#a6d44478868a74ed7baac757258334806", null ],
+    [ "MovementInform", "de/d0a/a20186.html#a33af1a38ab2827aec38f95e57e54f589", null ],
+    [ "UpdateAI", "de/d0a/a20186.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
+    [ "_currentPoint", "de/d0a/a20186.html#a5403badf59f96111aefaddf78379e65f", null ],
+    [ "events", "de/d0a/a20186.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
 ];

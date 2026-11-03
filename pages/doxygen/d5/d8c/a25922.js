@@ -1,10 +1,8 @@
 var a25922 =
 [
-    [ "CheckPeriodicProc", "d5/d8c/a25922.html#abd7673f268b80681b27a862bd8013de3", null ],
-    [ "CheckProc", "d5/d8c/a25922.html#a439aa5395d222291fbd5943f853d8961", null ],
-    [ "CheckTrapProc", "d5/d8c/a25922.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
-    [ "HandleProc", "d5/d8c/a25922.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
-    [ "PrepareAuraScript", "d5/d8c/a25922.html#a475320d20875b2d710ed3734b78f4645", null ],
-    [ "Register", "d5/d8c/a25922.html#aca7649a87ace4e22793ca33705b1500c", null ],
-    [ "Validate", "d5/d8c/a25922.html#a45630b6dc703996321286ff16a17e3e3", null ]
+    [ "HandleFinish", "d5/d8c/a25922.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
+    [ "PrepareSpellScript", "d5/d8c/a25922.html#a73865997890d4f58cc09d54c2c4e5243", null ],
+    [ "Register", "d5/d8c/a25922.html#a106cf5d53956b66f8f548caceda41dc8", null ],
+    [ "SelectTarget", "d5/d8c/a25922.html#ab33513df20e942ba354932df5082efa8", null ],
+    [ "_target", "d5/d8c/a25922.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
 ];

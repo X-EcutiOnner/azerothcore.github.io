@@ -1,12 +1,10 @@
 var a20082 =
 [
-    [ "boss_ionar", "df/db3/a20082.html#a323da67c3ff33d09d07cf0369600a473", null ],
-    [ "JustDied", "df/db3/a20082.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
-    [ "JustEngagedWith", "df/db3/a20082.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
-    [ "KilledUnit", "df/db3/a20082.html#ae6b1225147bc146066185d4d21c19f14", null ],
-    [ "Reset", "df/db3/a20082.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
-    [ "ScheduleEvents", "df/db3/a20082.html#af74dda7ad9cd156036689694b3bb9986", null ],
-    [ "SpellHit", "df/db3/a20082.html#a85c0ba28de5a684435246539d2106dcd", null ],
-    [ "Split", "df/db3/a20082.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
-    [ "UpdateAI", "df/db3/a20082.html#ad6fb218e743bad9fec357ea7d862744d", null ]
+    [ "npc_molten_golem", "df/db3/a20082.html#a38350948396b7df97837780531f79515", null ],
+    [ "DamageTaken", "df/db3/a20082.html#aa3521246b0c2bed18b5466879ec1d107", null ],
+    [ "DoAction", "df/db3/a20082.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
+    [ "Reset", "df/db3/a20082.html#a24e23d0959bcda5be05786381a35ac77", null ],
+    [ "UpdateAI", "df/db3/a20082.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
+    [ "events", "df/db3/a20082.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
+    [ "m_pInstance", "df/db3/a20082.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
 ];

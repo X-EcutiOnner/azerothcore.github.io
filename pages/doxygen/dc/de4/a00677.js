@@ -1,5 +1,4 @@
 var a00677 =
 [
-    [ "ServerMailReward", "d4/de3/a28910.html", "d4/de3/a28910" ],
-    [ "AddSC_server_mail", "dc/de4/a00677.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ]
+    [ "SessionKeyGenerator< Hash >", "d3/ddd/a05594.html", "d3/ddd/a05594" ]
 ];

@@ -1,5 +1,5 @@
 var a19474 =
 [
-    [ "at_icc_gauntlet_event", "d9/dfe/a19474.html#ae8790bad655661aeda887f56b9393847", null ],
-    [ "OnTrigger", "d9/dfe/a19474.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
+    [ "creatureEntry", "d9/dfe/a19474.html#afab12c40af70303dff2a9553d47dbb7d", null ],
+    [ "questId", "d9/dfe/a19474.html#ace2a7dd58d442b6afb2173311c89593b", null ]
 ];

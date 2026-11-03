@@ -1,6 +1,7 @@
 var a18006 =
 [
-    [ "ModAuraValue", "de/d33/a18006.html#a359453c6253beb6f729209c6d3d79af7", null ],
-    [ "PrepareSpellScript", "de/d33/a18006.html#a4f916abef69782be10cc6be9ba0124f5", null ],
-    [ "Register", "de/d33/a18006.html#a4a387df07c88144288c4327ce86b730a", null ]
+    [ "npc_icc_blood_beastAI", "de/d33/a18006.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "de/d33/a18006.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "de/d33/a18006.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "de/d33/a18006.html#a1074059162f818088808795119f081be", null ]
 ];

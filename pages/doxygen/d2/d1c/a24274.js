@@ -1,6 +1,6 @@
 var a24274 =
 [
-    [ "go_beaconAI", "d2/d1c/a24274.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d2/d1c/a24274.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "_whelpGUIDs", "d2/d1c/a24274.html#a083094ececd327c833649da6a755c635", null ]
+    [ "go_beaconAI", "d5/d9b/a24278.html", "d5/d9b/a24278" ],
+    [ "go_beacon", "d2/d1c/a24274.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "d2/d1c/a24274.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

@@ -1,7 +1,6 @@
 var a17062 =
 [
-    [ "npc_toc_mageAI", "d3/d93/a17062.html#a188831088c892f68cef7498468b24899", null ],
-    [ "myCanCast", "d3/d93/a17062.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
-    [ "UpdateAI", "d3/d93/a17062.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
-    [ "events", "d3/d93/a17062.html#ab1910ce98f3d1b14e45acba22782d536", null ]
+    [ "npc_toc_warriorAI", "de/d0d/a17066.html", "de/d0d/a17066" ],
+    [ "npc_toc_warrior", "d3/d93/a17062.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "d3/d93/a17062.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

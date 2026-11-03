@@ -1,6 +1,7 @@
 var a18922 =
 [
-    [ "npc_terenas_menethilAI", "db/dc9/a18926.html", "db/dc9/a18926" ],
-    [ "npc_terenas_menethil", "df/de3/a18922.html#a6b6850598c582e3d44c13275302fd32d", null ],
-    [ "GetAI", "df/de3/a18922.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
+    [ "HandleProc", "df/de3/a18922.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "df/de3/a18922.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "df/de3/a18922.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "df/de3/a18922.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

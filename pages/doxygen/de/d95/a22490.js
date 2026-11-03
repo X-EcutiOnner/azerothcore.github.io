@@ -1,8 +1,6 @@
 var a22490 =
 [
-    [ "npc_freed_protodrakeAI", "de/d95/a22490.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "de/d95/a22490.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "de/d95/a22490.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "de/d95/a22490.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "de/d95/a22490.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "npc_freed_protodrakeAI", "d9/d70/a22494.html", "d9/d70/a22494" ],
+    [ "npc_freed_protodrake", "de/d95/a22490.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "de/d95/a22490.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

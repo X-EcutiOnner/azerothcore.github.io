@@ -1,5 +1,5 @@
 var a05209 =
 [
-    [ "LFGJoin", "d5/db4/a11466.html", "d5/db4/a11466" ],
-    [ "LFGLeave", "da/ddf/a11470.html", "da/ddf/a11470" ]
+    [ "SAttackStop", "d4/db0/a11130.html", "d4/db0/a11130" ],
+    [ "SetSheathed", "d1/d35/a11126.html", "d1/d35/a11126" ]
 ];

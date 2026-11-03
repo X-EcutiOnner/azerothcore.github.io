@@ -1,8 +1,10 @@
 var a18858 =
 [
-    [ "ChangeDamageAndGrow", "df/dd7/a18858.html#a017ade08eca93f326d2e5115c4d88c33", null ],
-    [ "CorrectRange", "df/dd7/a18858.html#a9022b9efab89bc562428520b3551ff37", null ],
-    [ "PrepareSpellScript", "df/dd7/a18858.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
-    [ "Register", "df/dd7/a18858.html#a998b810cdbecbca2bf65f18cee14d286", null ],
-    [ "Validate", "df/dd7/a18858.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
+    [ "HandleScript", "df/dd7/a18858.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "df/dd7/a18858.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "df/dd7/a18858.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "df/dd7/a18858.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "df/dd7/a18858.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "df/dd7/a18858.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "df/dd7/a18858.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

@@ -1,6 +1,5 @@
 var a21482 =
 [
-    [ "CanBeAppliedOn", "de/d30/a21482.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
-    [ "PrepareAuraScript", "de/d30/a21482.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
-    [ "Register", "de/d30/a21482.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
+    [ "npc_ritual_channelerAI", "de/d30/a21482.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "de/d30/a21482.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

@@ -1,7 +1,6 @@
 var a26030 =
 [
-    [ "HandleJump", "d5/dc0/a26030.html#ac70f6d53e85af1ee2591e761e21872db", null ],
-    [ "HandleScriptEffect", "d5/dc0/a26030.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
-    [ "PrepareSpellScript", "d5/dc0/a26030.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
-    [ "Register", "d5/dc0/a26030.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
+    [ "OnBaseRemove", "d5/dc0/a26030.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "PrepareAuraScript", "d5/dc0/a26030.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "d5/dc0/a26030.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

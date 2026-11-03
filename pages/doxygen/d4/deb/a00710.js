@@ -1,6 +1,6 @@
 var a00710 =
 [
-    [ "npc_suns_reach_reclamation", "d0/de1/a28914.html", "d0/de1/a28914" ],
-    [ "npc_sunwell_gate", "d7/d2b/a28918.html", "d7/d2b/a28918" ],
-    [ "AddSC_suns_reach_reclamation", "d4/deb/a00710.html#ae3e186d64e39803c404f1afb2144557b", null ]
+    [ "SetupLibrariesForWindows", "d4/deb/a00710.html#ab801d0877d7ea0652bb6f94fb17842e4", null ],
+    [ "DefaultProvider", "d4/deb/a00710.html#ab217c6bb86b0f962ea820f3ffe079708", null ],
+    [ "LegacyProvider", "d4/deb/a00710.html#a81b4206923925a193dca5c3acd946bc2", null ]
 ];

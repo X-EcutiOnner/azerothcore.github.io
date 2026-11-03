@@ -1,6 +1,7 @@
 var a26126 =
 [
-    [ "HandleOnEffectHit", "d9/d44/a26126.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
-    [ "PrepareSpellScript", "d9/d44/a26126.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
-    [ "Register", "d9/d44/a26126.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
+    [ "HandleProc", "d9/d44/a26126.html#a5dbf2d5e9b31828b79150f40f6033896", null ],
+    [ "PrepareAuraScript", "d9/d44/a26126.html#a84f326e1353437f29fb051533d3391eb", null ],
+    [ "Register", "d9/d44/a26126.html#a7afae9d94162490cb40d29159d88f4a8", null ],
+    [ "Validate", "d9/d44/a26126.html#a3d39936e9b44abce8746d1ef23c8e27e", null ]
 ];

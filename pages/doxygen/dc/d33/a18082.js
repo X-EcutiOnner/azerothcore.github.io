@@ -1,13 +1,20 @@
 var a18082 =
 [
-    [ "PassengerController", "dc/d33/a18082.html#ab834deac8dfd9a7ddd1bcb37b1e5c354", null ],
-    [ "ClearSlot", "dc/d33/a18082.html#ae10f0917fb6fd395c3bb4428cbb617cb", null ],
-    [ "ResetSlots", "dc/d33/a18082.html#a2302ac8b9fac75ba58ced41e2b5236f0", null ],
-    [ "SelectSpawnPoint", "dc/d33/a18082.html#a4a4d575417a7c7940471f21e32d48b5c", null ],
-    [ "SummonCreatures", "dc/d33/a18082.html#a287e4cafc1d3739edf90c00ad91e2c64", null ],
-    [ "_controlledSlots", "dc/d33/a18082.html#af4271e53792477394a5c1022ed8fb30f", null ],
-    [ "_respawnCooldowns", "dc/d33/a18082.html#a98a6d819ec193d5a1e96739ac507b146", null ],
-    [ "_slotInfo", "dc/d33/a18082.html#a9c8fa44394c10eb2a7fec3c4f273f448", null ],
-    [ "_spawnPoint", "dc/d33/a18082.html#ab168baee9c4d6343c7adb6978a3a56d2", null ],
-    [ "_transport", "dc/d33/a18082.html#ac2c664d3b5941c673c13f7e36aa2d974", null ]
+    [ "npc_high_overlord_saurfang_igbAI", "dc/d33/a18082.html#a1fce8cbcb5259774c0019c19bae334d0", null ],
+    [ "AttackStart", "dc/d33/a18082.html#a7c04475d2de487a26aa3e7f58ad219e5", null ],
+    [ "CanAIAttack", "dc/d33/a18082.html#a58b5476b42ea1d249cb3795da86509db", null ],
+    [ "DamageTaken", "dc/d33/a18082.html#ae2715e5410ddf25734469594f72c7373", null ],
+    [ "DoAction", "dc/d33/a18082.html#acf222bf3f1204215918e339d57e6ee37", null ],
+    [ "EnterEvadeMode", "dc/d33/a18082.html#a8c66bcf54ba7d2c5a8d89a792e89fc8f", null ],
+    [ "JustEngagedWith", "dc/d33/a18082.html#aa98690c2c7002915c72e68f9136a9ace", null ],
+    [ "SetData", "dc/d33/a18082.html#ae3f9c7ef83cb3841f3081a5c8391ad85", null ],
+    [ "sGossipSelect", "dc/d33/a18082.html#af3f71dfd8888a9d7eccdaff50315bea1", null ],
+    [ "UpdateAI", "dc/d33/a18082.html#adf12312ee9a037b7cdbf384137a8ceb4", null ],
+    [ "_axethrowersYellCooldown", "dc/d33/a18082.html#ad98e613c8d4625687f9ab16979d21707", null ],
+    [ "_controller", "dc/d33/a18082.html#a259a8e82ed7a58f09d546fbcb317ea33", null ],
+    [ "_events", "dc/d33/a18082.html#a132fc1f697d32c76c10766c71948fe01", null ],
+    [ "_firstMageCooldown", "dc/d33/a18082.html#a984e2f3d3cf2b254717e2b4d1418216d", null ],
+    [ "_instance", "dc/d33/a18082.html#aecb488fb2e2682c107072ea66d02ea8f", null ],
+    [ "_rocketeersYellCooldown", "dc/d33/a18082.html#a0435dba6aff5287b1d10420a54a72d28", null ],
+    [ "checkTimer", "dc/d33/a18082.html#a1c610a1cf0ba5a27aeb98d51dff916fa", null ]
 ];

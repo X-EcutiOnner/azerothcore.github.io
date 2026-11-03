@@ -1,6 +1,18 @@
 var a18314 =
 [
-    [ "npc_darnavanAI", "d3/d82/a18318.html", "d3/d82/a18318" ],
-    [ "npc_darnavan", "dd/da8/a18314.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "dd/da8/a18314.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "boss_lord_marrowgar", "dd/da8/a18314.html#ab6a4afec9ed7153054b2d5ffb8f3b8ab", null ],
+    [ "CanAIAttack", "dd/da8/a18314.html#a019816e930781889f39c561577eaecc0", null ],
+    [ "GetGUID", "dd/da8/a18314.html#a0f3d27442ce651574ab66c2f94d27c88", null ],
+    [ "JustDied", "dd/da8/a18314.html#a8f1143de6695cf3fc2e54d5dc29ae9f2", null ],
+    [ "JustEngagedWith", "dd/da8/a18314.html#a3fa8b012f5e3ae94cecb537aa1952b63", null ],
+    [ "JustReachedHome", "dd/da8/a18314.html#ac59e0e13d5226fcdb4af08a1f9eff089", null ],
+    [ "KilledUnit", "dd/da8/a18314.html#acfe53ec83fa2056b37269608182fb25b", null ],
+    [ "MoveInLineOfSight", "dd/da8/a18314.html#ab3a7a37af22ab4dd7178f1cce2e2ab6a", null ],
+    [ "MovementInform", "dd/da8/a18314.html#abba7e15c065a80677fc88a6dafa8ecfd", null ],
+    [ "Reset", "dd/da8/a18314.html#a2692d00185ef27f50af01d125e39d549", null ],
+    [ "SpellHitTarget", "dd/da8/a18314.html#adf886210abbd492f897b39145748f78a", null ],
+    [ "UpdateAI", "dd/da8/a18314.html#aa19fdc486c0c9cca1033e0747d631a7e", null ],
+    [ "_boneSlice", "dd/da8/a18314.html#a50478639cd1f13732646fcc2349c5474", null ],
+    [ "_introDone", "dd/da8/a18314.html#a87f5036e8ba62e54ed7c502469cffe10", null ],
+    [ "_lastBoneSliceTargets", "dd/da8/a18314.html#aaf8ca2baf4c68ea64d4c163ede7813c8", null ]
 ];

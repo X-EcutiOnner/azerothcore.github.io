@@ -1,7 +1,7 @@
 var a21698 =
 [
-    [ "npc_azure_stalker", "d9/de8/a21698.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
-    [ "Reset", "d9/de8/a21698.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
-    [ "UpdateAI", "d9/de8/a21698.html#a22352aad7c55a4d454b9732469395139", null ],
-    [ "_events", "d9/de8/a21698.html#ad83249d787d2f763ac2d01723ff305ef", null ]
+    [ "npc_violet_hold_defense_system", "d9/de8/a21698.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "d9/de8/a21698.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "d9/de8/a21698.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
+    [ "_tickCount", "d9/de8/a21698.html#a4a7504069b05480428278fd09d5e59ba", null ]
 ];

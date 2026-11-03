@@ -1,8 +1,7 @@
 var a19802 =
 [
-    [ "npc_teslaAI", "d7/d42/a19802.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d7/d42/a19802.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d7/d42/a19802.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d7/d42/a19802.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d7/d42/a19802.html#a962745569b07e368067ee483d2379840", null ]
+    [ "npc_naxxramas_trigger", "d7/d42/a19802.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d7/d42/a19802.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d7/d42/a19802.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d7/d42/a19802.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

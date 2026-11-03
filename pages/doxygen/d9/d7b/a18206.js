@@ -1,6 +1,9 @@
 var a18206 =
 [
-    [ "IgbExplosionCheck", "d9/d7b/a18206.html#ae67cca111f26a275614810cbe053bcd8", null ],
-    [ "operator()", "d9/d7b/a18206.html#a28ce6685366e99db2aa1e4022012f943", null ],
-    [ "_source", "d9/d7b/a18206.html#a413ee8f2218621d274d118aea967dc9b", null ]
+    [ "CalculatePower", "d9/d7b/a18206.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "d9/d7b/a18206.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "d9/d7b/a18206.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "d9/d7b/a18206.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "d9/d7b/a18206.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "d9/d7b/a18206.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

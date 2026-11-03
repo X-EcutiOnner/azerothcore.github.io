@@ -1,6 +1,4 @@
 var a05242 =
 [
-    [ "node", "d6/d63/a05242.html#a5b76f0ea514d55ed9ba8ea6c4bdf7491", null ],
-    [ "tfar", "d6/d63/a05242.html#ad53b746617dd5a46930dae493d7488d9", null ],
-    [ "tnear", "d6/d63/a05242.html#a938ca2ace2aa498abdda93ee824b6f09", null ]
+    [ "TestDestructGroupScript", "dc/def/a30118.html", "dc/def/a30118" ]
 ];

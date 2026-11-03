@@ -1,7 +1,7 @@
 var a25950 =
 [
-    [ "HandleProc", "db/dc7/a25950.html#a8e35d9e56b5d896b23844e8075c746d7", null ],
-    [ "PrepareAuraScript", "db/dc7/a25950.html#a56c8ada8651cfd024cc7514417b986d6", null ],
-    [ "Register", "db/dc7/a25950.html#a818ed2117c52a53939df5bf4d035854f", null ],
-    [ "Validate", "db/dc7/a25950.html#ad9239fbe538bdc0019c60ef461c6c8ca", null ]
+    [ "HandlePeriodic", "db/dc7/a25950.html#a990b88f97dbbcd68d0df8989414d08bc", null ],
+    [ "PrepareAuraScript", "db/dc7/a25950.html#a4c8214e2fc72ceacc5822bfdec6e8380", null ],
+    [ "Register", "db/dc7/a25950.html#ab2da1b1433184a0dd4c6dd93b798890c", null ],
+    [ "Validate", "db/dc7/a25950.html#a55720e74edaf5eedf074738846ba6dd8", null ]
 ];

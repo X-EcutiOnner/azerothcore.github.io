@@ -1,5 +1,6 @@
 var a20766 =
 [
-    [ "achievement_kologarn_with_open_arms", "db/d0b/a20766.html#a94af961be5bbdf7783925148731ce7e4", null ],
-    [ "OnCheck", "db/d0b/a20766.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
+    [ "HandleDamage", "db/d0b/a20766.html#af2578478e83eb2f6c2de32a692e9be91", null ],
+    [ "PrepareSpellScript", "db/d0b/a20766.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
+    [ "Register", "db/d0b/a20766.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
 ];

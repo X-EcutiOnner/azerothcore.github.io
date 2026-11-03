@@ -1,8 +1,5 @@
 var a05730 =
 [
-    [ "Decode", "db/dd1/a05730.html#aba5ab7c59ce77414bca38bfcde32d1c0", null ],
-    [ "Encode", "db/dd1/a05730.html#ad6cde2310ca52940df1bbf93deff6b91", null ],
-    [ "BITS_PER_CHAR", "db/dd1/a05730.html#a5efb6c842ab7733dc26fd67f1a00ccdf", null ],
-    [ "DECODE_ERROR", "db/dd1/a05730.html#a8fccf3d4b22e835fc4dca6b942771a2a", null ],
-    [ "PADDING", "db/dd1/a05730.html#a2e5699431f24ca6b745294b935b99240", null ]
+    [ "Decode", "db/dd1/a05730.html#a16eb5c0306f404a3be454430abd01610", null ],
+    [ "Encode", "db/dd1/a05730.html#a5c439d87d1532c68023e2d612d874e5f", null ]
 ];

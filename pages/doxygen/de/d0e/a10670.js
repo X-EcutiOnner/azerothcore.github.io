@@ -1,13 +1,10 @@
 var a10670 =
 [
-    [ "entry", "de/d0e/a10670.html#a300fb240386044aab139e777d6244d19", null ],
-    [ "map", "de/d0e/a10670.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
-    [ "o", "de/d0e/a10670.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
-    [ "rot0", "de/d0e/a10670.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
-    [ "rot1", "de/d0e/a10670.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
-    [ "rot2", "de/d0e/a10670.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
-    [ "rot3", "de/d0e/a10670.html#a60460fc3030b24eef0246dae28af2282", null ],
-    [ "x", "de/d0e/a10670.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
-    [ "y", "de/d0e/a10670.html#ab42ebe981ba589e3d67110487bd88255", null ],
-    [ "z", "de/d0e/a10670.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
+    [ "WaypointMgr", "de/d0e/a10670.html#a2f038884959f10348bd5b7af3abee7db", null ],
+    [ "GetPath", "de/d0e/a10670.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
+    [ "instance", "de/d0e/a10670.html#aacd2ed943503288057b3fb9a935a56e9", null ],
+    [ "Load", "de/d0e/a10670.html#a69ae451ce07f2e68be81b1a86649115d", null ],
+    [ "LoadWaypointAddons", "de/d0e/a10670.html#a84df91143dd387b5d4adc7aa8d63045e", null ],
+    [ "ReloadPath", "de/d0e/a10670.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
+    [ "_waypointStore", "de/d0e/a10670.html#a15d1c47c7e839538c354ba91775bd9e7", null ]
 ];

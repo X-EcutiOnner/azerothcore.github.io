@@ -1,7 +1,10 @@
 var a17258 =
 [
-    [ "HandleAfterEffectAbsorb", "d0/d37/a17258.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d0/d37/a17258.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d0/d37/a17258.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d0/d37/a17258.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "boss_dredAI", "d0/d37/a17258.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "d0/d37/a17258.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "d0/d37/a17258.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "d0/d37/a17258.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "ScheduleTasks", "d0/d37/a17258.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
+    [ "SetData", "d0/d37/a17258.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "_raptorCount", "d0/d37/a17258.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

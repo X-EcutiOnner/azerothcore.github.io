@@ -1,7 +1,7 @@
 var a19538 =
 [
-    [ "npc_ioc_gunship_captainAI", "d2/d36/a19538.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "d2/d36/a19538.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "d2/d36/a19538.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "d2/d36/a19538.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "HandleTriggerSpell", "d2/d36/a19538.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "d2/d36/a19538.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "d2/d36/a19538.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "d2/d36/a19538.html#a813bad39641956fff697580f271416d2", null ]
 ];

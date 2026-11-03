@@ -1,10 +1,12 @@
 var a21630 =
 [
-    [ "npc_erekem_guard", "d1/d10/a21630.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
-    [ "JustEngagedWith", "d1/d10/a21630.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
-    [ "MoveInLineOfSight", "d1/d10/a21630.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
-    [ "Reset", "d1/d10/a21630.html#aacdc16855938d9f133b751f91b5e9402", null ],
-    [ "UpdateAI", "d1/d10/a21630.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
-    [ "_events", "d1/d10/a21630.html#a13829cd26d18c42213be1f6640a2b979", null ],
-    [ "_instance", "d1/d10/a21630.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
+    [ "boss_xevozz", "d1/d10/a21630.html#aea402ffbe689ca65e29b30899862a8bc", null ],
+    [ "EnterEvadeMode", "d1/d10/a21630.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
+    [ "ExecuteEvent", "d1/d10/a21630.html#af5b37fc643f2b22468a38655fce63d25", null ],
+    [ "JustDied", "d1/d10/a21630.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
+    [ "JustEngagedWith", "d1/d10/a21630.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
+    [ "JustSummoned", "d1/d10/a21630.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
+    [ "KilledUnit", "d1/d10/a21630.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
+    [ "MoveInLineOfSight", "d1/d10/a21630.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
+    [ "SummonedCreatureDespawn", "d1/d10/a21630.html#a1493a5acdfcca7d01446564db622239e", null ]
 ];

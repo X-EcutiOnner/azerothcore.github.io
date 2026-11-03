@@ -1,6 +1,7 @@
 var a17758 =
 [
-    [ "boss_moorabiAI", "d6/d9f/a17762.html", "d6/d9f/a17762" ],
-    [ "boss_moorabi", "de/da7/a17758.html#a94e14b2a9b06143985f785e781d1c302", null ],
-    [ "GetAI", "de/da7/a17758.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
+    [ "HandlePeriodic", "de/da7/a17758.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
+    [ "PrepareAuraScript", "de/da7/a17758.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
+    [ "Register", "de/da7/a17758.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
+    [ "Validate", "de/da7/a17758.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
 ];

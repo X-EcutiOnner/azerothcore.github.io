@@ -1,27 +1,9 @@
 var a20870 =
 [
-    [ "boss_razorscale", "dd/d31/a20870.html#aa60eb42c00c6d801a7b716cea40412d2", null ],
-    [ "DamageTaken", "dd/d31/a20870.html#a7dc864d3e60c786cc8153121b39938c5", null ],
-    [ "DoAction", "dd/d31/a20870.html#a63e951ce71137869004732cfbecc6db3", null ],
-    [ "EnterEvadeMode", "dd/d31/a20870.html#acc55c1b00fbf1cdea8761eabe29a55d2", null ],
-    [ "GetData", "dd/d31/a20870.html#ae32fe4aba366d47133974787a250e9ac", null ],
-    [ "HandleMusic", "dd/d31/a20870.html#a997bbed5df4521b21b2749e47a2b8413", null ],
-    [ "Initialize", "dd/d31/a20870.html#abe14fe0e1c1afbfb9baa6c16b54a6191", null ],
-    [ "JustDied", "dd/d31/a20870.html#adad076aca788a317eb8085b22ae4d9ed", null ],
-    [ "JustEngagedWith", "dd/d31/a20870.html#ae30c01218215370bab7c5a139847c9dd", null ],
-    [ "JustSummoned", "dd/d31/a20870.html#a16cab59be86221b991f382529884b17e", null ],
-    [ "MovementInform", "dd/d31/a20870.html#a722509fba200d997e50dc586184019ec", null ],
-    [ "Reset", "dd/d31/a20870.html#a4fc8f1ff4490d419fd6fec0e4ed15a8b", null ],
-    [ "ScheduleAirEvents", "dd/d31/a20870.html#a809b1ee8e83d6de04f99b723b329c434", null ],
-    [ "ScheduleGroundEvents", "dd/d31/a20870.html#ac09d5428613218a18519c63e714c80ae", null ],
-    [ "SpellHit", "dd/d31/a20870.html#ad92c40cfcc483717bb8ca08214c22add", null ],
-    [ "SummonedCreatureDies", "dd/d31/a20870.html#a678ba10c9ab7af662c0a8e2dd9de6904", null ],
-    [ "SummonMinions", "dd/d31/a20870.html#a5d059d9571a04896c27fde1b6c5db4ce", null ],
-    [ "UpdateAI", "dd/d31/a20870.html#ab86a057182e956b50dd6a3016f6e2ffe", null ],
-    [ "_defenderCnt", "dd/d31/a20870.html#aa8e48aff86695d3469c7600ee1899f03", null ],
-    [ "_engineersAlive", "dd/d31/a20870.html#aaa9392649e8116370aace87b5927adb7", null ],
-    [ "_flyCount", "dd/d31/a20870.html#a2c65bb16401d956cbdf56923ad345015", null ],
-    [ "_harpoonHits", "dd/d31/a20870.html#a11481dd5ffe2abc73d40b0aa291c6475", null ],
-    [ "_permaGround", "dd/d31/a20870.html#a410854c247c7b28d3a933ef496988cb8", null ],
-    [ "_trapperCnt", "dd/d31/a20870.html#adde8b13457bb6376ec48492e689026f3", null ]
+    [ "npc_razorscale_harpoon_fire_state", "dd/d31/a20870.html#a5bcb95382dc80bae1f4f05c306fb52bf", null ],
+    [ "DoAction", "dd/d31/a20870.html#aa7a12bae703c1a7d215dc0181f9ad532", null ],
+    [ "GetData", "dd/d31/a20870.html#ae552669fbd1a66a457cc30a2ed13c8fd", null ],
+    [ "Reset", "dd/d31/a20870.html#aad5f2d32fffaacec3485b0743f4267aa", null ],
+    [ "SpellHit", "dd/d31/a20870.html#a660573750d12c82394a9f911a3973e02", null ],
+    [ "_repairProgress", "dd/d31/a20870.html#af1c14d6762f9fc9f3a78f040a544bde4", null ]
 ];

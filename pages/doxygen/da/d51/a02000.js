@@ -1,6 +1,6 @@
 var a02000 =
 [
-    [ "instance_dire_maul", "d3/d56/a15518.html", "d3/d56/a15518" ],
-    [ "instance_dire_maul::instance_dire_maul_InstanceMapScript", "d4/d78/a15522.html", "d4/d78/a15522" ],
-    [ "AddSC_instance_dire_maul", "da/d51/a02000.html#a4f4fdf8ebf7b15878ba29a663b037908", null ]
+    [ "Acore::WorldWorldTextBuilder", "dc/d55/a12458.html", "dc/d55/a12458" ],
+    [ "getWorldInstance", "d0/dcf/a05131.html#ga6bf640d0ef6703c32d9fa1618826319b", null ],
+    [ "realm", "d0/dcf/a05131.html#gab842e78f86995775c494437356620779", null ]
 ];

@@ -1,6 +1,6 @@
 var a18750 =
 [
-    [ "LichKingDeathEvent", "d0/d14/a18750.html#a9aa328b60358034355b1eed5caacb9f8", null ],
-    [ "Execute", "d0/d14/a18750.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
-    [ "_owner", "d0/d14/a18750.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
+    [ "npc_tirion_fordringAI", "dd/d65/a18754.html", "dd/d65/a18754" ],
+    [ "npc_tirion_fordring_tft", "d0/d14/a18750.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "d0/d14/a18750.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

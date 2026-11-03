@@ -1,9 +1,6 @@
 var a18078 =
 [
-    [ "BattleExperienceEvent", "d5/d4f/a18078.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "d5/d4f/a18078.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "d5/d4f/a18078.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "d5/d4f/a18078.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "d5/d4f/a18078.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "d5/d4f/a18078.html#af682cc246c7fdae39cc2a1e57110badc", null ]
+    [ "npc_high_overlord_saurfang_igbAI", "dc/d33/a18082.html", "dc/d33/a18082" ],
+    [ "npc_high_overlord_saurfang_igb", "d5/d4f/a18078.html#ae68d42f65851a753874705511bb83330", null ],
+    [ "GetAI", "d5/d4f/a18078.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
 ];

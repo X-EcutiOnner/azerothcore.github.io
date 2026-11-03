@@ -1,10 +1,15 @@
 var a09598 =
 [
-    [ "GridObjectLoader", "de/d53/a09598.html#a57cd46fee6f747221761aa3114c40ba6", null ],
-    [ "AddObjectHelper", "de/d53/a09598.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
-    [ "LoadAllCellsInGrid", "de/d53/a09598.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
-    [ "LoadCreatures", "de/d53/a09598.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
-    [ "LoadGameObjects", "de/d53/a09598.html#ad577dbb6544e806d25b496796651ba5b", null ],
-    [ "_grid", "de/d53/a09598.html#abe551354634514fa3998eccb10fcbefe", null ],
-    [ "_map", "de/d53/a09598.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
+    [ "CoordPair", "de/d53/a09598.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
+    [ "CoordPair", "de/d53/a09598.html#aa3b39d5ce384201907e01f95b6866b6e", null ],
+    [ "dec_x", "de/d53/a09598.html#a69be5b72b710722120104f0c502fbb70", null ],
+    [ "dec_y", "de/d53/a09598.html#aefa33f8766212bb71e5fd19a318142cc", null ],
+    [ "GetId", "de/d53/a09598.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
+    [ "inc_x", "de/d53/a09598.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
+    [ "inc_y", "de/d53/a09598.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
+    [ "IsCoordValid", "de/d53/a09598.html#a082960c54e2077df370f891c0534b44f", null ],
+    [ "normalize", "de/d53/a09598.html#afac8086374bfc499e3a8d74d6afc58db", null ],
+    [ "operator=", "de/d53/a09598.html#a68bbf6afd1600e9dd0c31a9c7ff38077", null ],
+    [ "x_coord", "de/d53/a09598.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
+    [ "y_coord", "de/d53/a09598.html#aacae12844cc0c0d70e26b137ad28f700", null ]
 ];

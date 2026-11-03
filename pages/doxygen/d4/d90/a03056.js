@@ -1,23 +1,43 @@
 var a03056 =
 [
-    [ "CreatureTextEntry", "dc/d7f/a12290.html", "dc/d7f/a12290" ],
-    [ "CreatureTextLocale", "d1/d37/a12294.html", "d1/d37/a12294" ],
-    [ "CreatureTextId", "da/dfe/a12298.html", "da/dfe/a12298" ],
-    [ "CreatureTextOptions", "d2/d7b/a12302.html", "d2/d7b/a12302" ],
-    [ "CreatureTextMgr", "d4/d9f/a12306.html", "d4/d9f/a12306" ],
-    [ "CreatureTextLocalizer< Builder >", "d0/db0/a12310.html", "d0/db0/a12310" ],
-    [ "sCreatureTextMgr", "d4/d90/a03056.html#a2dc428da007cefe454220dcb355a1cde", null ],
-    [ "CreatureTextGroup", "d4/d90/a03056.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
-    [ "CreatureTextHolder", "d4/d90/a03056.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
-    [ "CreatureTextMap", "d4/d90/a03056.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
-    [ "CreatureTextOptionsContainer", "d4/d90/a03056.html#a16523356dcf17205f4e4e62a26c4a609", null ],
-    [ "CreatureTextOptionsMap", "d4/d90/a03056.html#a43b3f3c87b43b80913e2a03023b5e89f", null ],
-    [ "LocaleCreatureTextMap", "d4/d90/a03056.html#ab39b2d82775a84108d19ed009bd14747", null ],
-    [ "CreatureTextRange", "d4/d90/a03056.html#adf847039afbebeda9e21210c1f4eb052", [
-      [ "TEXT_RANGE_NORMAL", "d4/d90/a03056.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
-      [ "TEXT_RANGE_AREA", "d4/d90/a03056.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
-      [ "TEXT_RANGE_ZONE", "d4/d90/a03056.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
-      [ "TEXT_RANGE_MAP", "d4/d90/a03056.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
-      [ "TEXT_RANGE_WORLD", "d4/d90/a03056.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
-    ] ]
+    [ "DataHeader", "d4/d90/a03056.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "MTScriptName", "d4/d90/a03056.html#a772413d8818d681e2261c99f58e1268c", null ],
+    [ "RegisterMagistersTerraceCreatureAI", "d4/d90/a03056.html#a679c3c5e0520ffcbc6ca0827cddafeb0", null ],
+    [ "CreatureTexts", "d4/d90/a03056.html#a98b0f0ed8e23c5a3936ff695705d37e9", [
+      [ "SAY_KALECGOS_SPAWN", "d4/d90/a03056.html#a98b0f0ed8e23c5a3936ff695705d37e9afb263d1cd011b49bf7cda725281fa940", null ]
+    ] ],
+    [ "InstanceEventIds", "d4/d90/a03056.html#ab51342a4a8f5976e51b0074f9a5746f8", [
+      [ "EVENT_SPAWN_KALECGOS", "d4/d90/a03056.html#ab51342a4a8f5976e51b0074f9a5746f8a2e000620a7210a65a43ee87d48b5d283", null ]
+    ] ],
+    [ "MovementData", "d4/d90/a03056.html#aed5999eedcf185b65654ded53dc601d3", [
+      [ "PATH_KALECGOS_FLIGHT", "d4/d90/a03056.html#aed5999eedcf185b65654ded53dc601d3a6b4587e5a1bc789ca7ac972cd1e54222", null ]
+    ] ],
+    [ "MTCreatures", "d4/d90/a03056.html#a402e3e622f03a1eed719db587960e18b", [
+      [ "NPC_DELRISSA", "d4/d90/a03056.html#a402e3e622f03a1eed719db587960e18ba5d0ab26a56a5212e4bbd0d2bd26b7127", null ],
+      [ "NPC_FEL_CRYSTAL", "d4/d90/a03056.html#a402e3e622f03a1eed719db587960e18bad5c5384a148b47a2c59d671014db6d35", null ],
+      [ "NPC_KAEL_THAS", "d4/d90/a03056.html#a402e3e622f03a1eed719db587960e18ba1cc740bbad14c06e879fe922c561957c", null ],
+      [ "NPC_PHOENIX", "d4/d90/a03056.html#a402e3e622f03a1eed719db587960e18ba93173f126c0dd252197a841ed9321048", null ],
+      [ "NPC_PHOENIX_EGG", "d4/d90/a03056.html#a402e3e622f03a1eed719db587960e18ba37c8f15ed65139715f18d3d09d17a970", null ],
+      [ "NPC_KALECGOS", "d4/d90/a03056.html#a402e3e622f03a1eed719db587960e18ba7434f1d158db88e1befb3cf56e801613", null ]
+    ] ],
+    [ "MTData", "d4/d90/a03056.html#abdc560adf84eb5994b289f952995d059", [
+      [ "DATA_SELIN_FIREHEART", "d4/d90/a03056.html#abdc560adf84eb5994b289f952995d059afd8c24b35ae0b3270c6446ed912864b8", null ],
+      [ "DATA_VEXALLUS", "d4/d90/a03056.html#abdc560adf84eb5994b289f952995d059a7d511ceaf5f4b75dc6bf642fd4c002c3", null ],
+      [ "DATA_DELRISSA", "d4/d90/a03056.html#abdc560adf84eb5994b289f952995d059af977a73eff024af1676aeb0fe6503c2f", null ],
+      [ "DATA_KAELTHAS", "d4/d90/a03056.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3", null ],
+      [ "MAX_ENCOUNTER", "d4/d90/a03056.html#abdc560adf84eb5994b289f952995d059a7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "DATA_KALECGOS", "d4/d90/a03056.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d", null ],
+      [ "DATA_ESCAPE_ORB", "d4/d90/a03056.html#abdc560adf84eb5994b289f952995d059a6c76e50a19d944f081dbe8c87034974f", null ],
+      [ "DATA_KAEL_INTRO", "d4/d90/a03056.html#abdc560adf84eb5994b289f952995d059ad20d84b9105a6e9e87a44161e54c1d15", null ],
+      [ "MAX_PERSISTENT_DATA", "d4/d90/a03056.html#abdc560adf84eb5994b289f952995d059ade8daf2d97d89b7bc637c9b5550e0449", null ]
+    ] ],
+    [ "MTGameObjects", "d4/d90/a03056.html#a2b0621589774d4cc3afba085bc39867d", [
+      [ "GO_VEXALLUS_DOOR", "d4/d90/a03056.html#a2b0621589774d4cc3afba085bc39867da660139f819500a248283735c336cf4e7", null ],
+      [ "GO_SELIN_DOOR", "d4/d90/a03056.html#a2b0621589774d4cc3afba085bc39867da7ccc42cdb5402db90adb2298e29d4e64", null ],
+      [ "GO_SELIN_ENCOUNTER_DOOR", "d4/d90/a03056.html#a2b0621589774d4cc3afba085bc39867da8b457fe7255a77748f94f13974791086", null ],
+      [ "GO_DELRISSA_DOOR", "d4/d90/a03056.html#a2b0621589774d4cc3afba085bc39867da2ec22f0e669bef8a7bde879208fa8f6a", null ],
+      [ "GO_KAEL_DOOR", "d4/d90/a03056.html#a2b0621589774d4cc3afba085bc39867dacafc1a0b7422ea5365367a4c964fee25", null ],
+      [ "GO_ESCAPE_ORB", "d4/d90/a03056.html#a2b0621589774d4cc3afba085bc39867daf0d8c802b02ba5d48c9d4126534812fd", null ]
+    ] ],
+    [ "GetMagistersTerraceAI", "d4/d90/a03056.html#ace003ea34649a460da4afbd65b38c987", null ]
 ];

@@ -1,7 +1,6 @@
 var a30082 =
 [
-    [ "ExpectDate", "d2/df1/a30082.html#a4d45a7190580f2191020d031ad0aab10", null ],
-    [ "IsLeapYear", "d2/df1/a30082.html#af80c133dce034eed150593681fba594d", null ],
-    [ "IsValidDate", "d2/df1/a30082.html#af1ee91196bfb749605bf98f4441a03a4", null ],
-    [ "NormalizeTm", "d2/df1/a30082.html#af4587d4154c059f5e472f00f141a771a", null ]
+    [ "CreatePlayerWithVehicleKit", "d2/df1/a30082.html#a44c9991ca103fbb4c0e09ec35918fce9", null ],
+    [ "TestSeatId", "d2/df1/a30082.html#a0942d30e78d1865092aa5b1f40c9c193", null ],
+    [ "TestVehicleId", "d2/df1/a30082.html#aa08f416d4401cfc896ee4de15942ea49", null ]
 ];

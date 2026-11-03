@@ -1,6 +1,7 @@
 var a02939 =
 [
-    [ "Acore::WorldWorldTextBuilder", "dc/d55/a12458.html", "dc/d55/a12458" ],
-    [ "getWorldInstance", "d8/d2c/a05128.html#ga6bf640d0ef6703c32d9fa1618826319b", null ],
-    [ "realm", "d8/d2c/a05128.html#gab842e78f86995775c494437356620779", null ]
+    [ "FieldTypeToString", "de/d87/a02939.html#a9b1d39b7abfe176191c0ed27188ed310", null ],
+    [ "InitializeDatabaseFieldMetadata", "de/d87/a02939.html#a5e0e57902060d1fcd32688acb949b98e", null ],
+    [ "MysqlTypeToFieldType", "de/d87/a02939.html#a1a26932646b97d033efdf53078561a90", null ],
+    [ "SizeForType", "de/d87/a02939.html#ae077e892df09ce687a0a50be949ad69f", null ]
 ];

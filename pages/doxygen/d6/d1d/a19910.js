@@ -1,14 +1,11 @@
 var a19910 =
 [
-    [ "boss_keristrasza", "d6/d1d/a19910.html#a5f83fee9a5616751601f0c1155afab36", null ],
-    [ "CanRemovePrison", "d6/d1d/a19910.html#a900a4a8428a04b880462b20196e94858", null ],
-    [ "GetData", "d6/d1d/a19910.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
-    [ "JustDied", "d6/d1d/a19910.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
-    [ "JustEngagedWith", "d6/d1d/a19910.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
-    [ "KilledUnit", "d6/d1d/a19910.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
-    [ "RemovePrison", "d6/d1d/a19910.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
-    [ "Reset", "d6/d1d/a19910.html#a13dce974fa83577397a80ff52de5d835", null ],
-    [ "SetData", "d6/d1d/a19910.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
-    [ "UpdateAI", "d6/d1d/a19910.html#a46a2e61e27cc72710c7aa14212673eae", null ],
-    [ "aGuids", "d6/d1d/a19910.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
+    [ "boss_ormorok", "d6/d1d/a19910.html#aa4862339ed41d5c593a93ef605d85a39", null ],
+    [ "JustDied", "d6/d1d/a19910.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
+    [ "JustEngagedWith", "d6/d1d/a19910.html#a22ac203db7c3b445e653798743e48764", null ],
+    [ "JustSummoned", "d6/d1d/a19910.html#acc149b49e6658454610a7871e3c82b5e", null ],
+    [ "KilledUnit", "d6/d1d/a19910.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
+    [ "Reset", "d6/d1d/a19910.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
+    [ "UpdateAI", "d6/d1d/a19910.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
+    [ "_spikesCount", "d6/d1d/a19910.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
 ];

@@ -1,6 +1,7 @@
 var a23950 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d7/d64/a23954.html", "d7/d64/a23954" ],
-    [ "instance_arcatraz", "d1/d22/a23950.html#a6fc8860651573353b54fd26bddea32aa", null ],
-    [ "GetInstanceScript", "d1/d22/a23950.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
+    [ "boss_zereketh_the_unbound", "d1/d22/a23950.html#abb2fc5cbe7514142160818016fda1936", null ],
+    [ "JustDied", "d1/d22/a23950.html#ac5d96da9a33a536f2002cce11453ded3", null ],
+    [ "JustEngagedWith", "d1/d22/a23950.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
+    [ "KilledUnit", "d1/d22/a23950.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
 ];

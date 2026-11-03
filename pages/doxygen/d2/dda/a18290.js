@@ -1,6 +1,6 @@
 var a18290 =
 [
-    [ "npc_cult_fanaticAI", "da/dcf/a18294.html", "da/dcf/a18294" ],
-    [ "npc_cult_fanatic", "d2/dda/a18290.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "d2/dda/a18290.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "npc_darnavanAI", "da/dcf/a18294.html", "da/dcf/a18294" ],
+    [ "npc_darnavan", "d2/dda/a18290.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "d2/dda/a18290.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

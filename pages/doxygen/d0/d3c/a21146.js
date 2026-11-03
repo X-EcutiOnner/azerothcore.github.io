@@ -1,9 +1,11 @@
 var a21146 =
 [
-    [ "boss_yoggsaron_corruptor_tentacle", "d0/d3c/a21146.html#afc092be8079630b1214c98b8896a22c3", null ],
-    [ "DoAction", "d0/d3c/a21146.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
-    [ "JustEngagedWith", "d0/d3c/a21146.html#a9f4f2791d8a65303332fead986dfb377", null ],
-    [ "Reset", "d0/d3c/a21146.html#aaa49aab0068c520a6039b7ea9c19aa20", null ],
-    [ "SelectCorruptionTarget", "d0/d3c/a21146.html#a8b868941372af612e269e013594a5c14", null ],
-    [ "UpdateAI", "d0/d3c/a21146.html#a14ae968505923f98ee6b29f608b11fa4", null ]
+    [ "boss_yoggsaron_lich_king", "d0/d3c/a21146.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
+    [ "NextStep", "d0/d3c/a21146.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
+    [ "Reset", "d0/d3c/a21146.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
+    [ "Say", "d0/d3c/a21146.html#ac7687fe1253701c702cf2c17986727ec", null ],
+    [ "UpdateAI", "d0/d3c/a21146.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
+    [ "_checkTimer", "d0/d3c/a21146.html#a196ffc443569494bed79f623dd9cdca3", null ],
+    [ "_running", "d0/d3c/a21146.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
+    [ "_step", "d0/d3c/a21146.html#a97244534b8c6a69807388b620df2263f", null ]
 ];

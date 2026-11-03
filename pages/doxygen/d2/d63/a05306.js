@@ -1,16 +1,18 @@
 var a05306 =
 [
-    [ "MDLCallback", "d8/dfd/a05310.html", "d8/dfd/a05310" ],
-    [ "ObjArray", "d2/d63/a05306.html#a26c887928a917c2b802fdfe1bb294b9f", null ],
-    [ "BIHWrap", "d2/d63/a05306.html#a8572b541e513074132ba0834e081ec05", null ],
-    [ "balance", "d2/d63/a05306.html#a7a191f8c9d3b20807ef1db9be654ccd1", null ],
-    [ "insert", "d2/d63/a05306.html#ab5b377482daac03312255faf5d173b75", null ],
-    [ "intersectPoint", "d2/d63/a05306.html#a71bc2800aa6c3cd110ffa71ec840ec3c", null ],
-    [ "intersectRay", "d2/d63/a05306.html#a921d5f32acacedfd7ba37c4c6b66e9bc", null ],
-    [ "remove", "d2/d63/a05306.html#a81e7da32e8ae82caa9a3d40365e0b2dc", null ],
-    [ "m_obj2Idx", "d2/d63/a05306.html#a0cbf8645e808e8cd530a8713bf40a746", null ],
-    [ "m_objects", "d2/d63/a05306.html#a1e3b7eb01db291f5dd7febe7c7198ea3", null ],
-    [ "m_objects_to_push", "d2/d63/a05306.html#acf07d8ffc1e463e23657000025f3a3bb", null ],
-    [ "m_tree", "d2/d63/a05306.html#a13a40cee1097ab0435eb2d50518a41bf", null ],
-    [ "unbalanced_times", "d2/d63/a05306.html#abc44d55ac155023c2661d2687c068a4b", null ]
+    [ "BuildStats", "d2/d63/a05306.html#a9a2e28e15f755a8a0b5751d62664734f", null ],
+    [ "printStats", "d2/d63/a05306.html#a77e7b7ff44c0f16fc2b5d4370c18751b", null ],
+    [ "updateBVH2", "d2/d63/a05306.html#a9f30e85b3eaa67dc38a28e3472c56de3", null ],
+    [ "updateInner", "d2/d63/a05306.html#a1a3087af9d859d25cd9d475ad8987ca3", null ],
+    [ "updateLeaf", "d2/d63/a05306.html#ae8cf4ba9eaa7dc424914483ab3fafeba", null ],
+    [ "maxDepth", "d2/d63/a05306.html#a855eb250661d80a9313b926556e12168", null ],
+    [ "maxObjects", "d2/d63/a05306.html#acd34211244a97c08193421818f326ff9", null ],
+    [ "minDepth", "d2/d63/a05306.html#a90121f1721624ae2be8b3e6860d02f23", null ],
+    [ "minObjects", "d2/d63/a05306.html#a0d3d26a62ae4aeb18fdff7d07a4b7873", null ],
+    [ "numBVH2", "d2/d63/a05306.html#a37d64390b3f004f36588c1467a446cd0", null ],
+    [ "numLeaves", "d2/d63/a05306.html#a6546dd9cc0de2cba9159f6ab2477b81f", null ],
+    [ "numLeavesN", "d2/d63/a05306.html#a208e3c10fbd61fa6d4cc6736140ddfb1", null ],
+    [ "numNodes", "d2/d63/a05306.html#afbedc638e0117b7ca5c5f1e447846717", null ],
+    [ "sumDepth", "d2/d63/a05306.html#a11cf172a3108b68efc5974b614187550", null ],
+    [ "sumObjects", "d2/d63/a05306.html#a84aa8066e8e19902aecec45607d7a93d", null ]
 ];

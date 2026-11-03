@@ -1,12 +1,14 @@
 var a20486 =
 [
-    [ "boss_freya_elder_stonebark", "d0/d6b/a20486.html#ad379afe772ff29d689bc763786d28793", null ],
-    [ "DamageTaken", "d0/d6b/a20486.html#a1a6b9897ffff95b29de351d02411f216", null ],
-    [ "JustDied", "d0/d6b/a20486.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
-    [ "JustEngagedWith", "d0/d6b/a20486.html#a363a639d65fb746cca3410427f8a1e10", null ],
-    [ "KilledUnit", "d0/d6b/a20486.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
-    [ "Reset", "d0/d6b/a20486.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
-    [ "UpdateAI", "d0/d6b/a20486.html#a913cd147d5a88189e183d817357946e3", null ],
-    [ "_chargesCount", "d0/d6b/a20486.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
-    [ "events", "d0/d6b/a20486.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
+    [ "boss_freya_summons", "d0/d6b/a20486.html#a1d53e3d32307347532f96ca2b27734cb", null ],
+    [ "IsSummonedBy", "d0/d6b/a20486.html#a631605e67e488590d8d96d4807d13cd2", null ],
+    [ "JustDied", "d0/d6b/a20486.html#a15d9b71a31a840917b449c0094049e00", null ],
+    [ "JustEngagedWith", "d0/d6b/a20486.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
+    [ "Reset", "d0/d6b/a20486.html#af7e842a7bc2be806816a942026670d71", null ],
+    [ "ReviveWithAllies", "d0/d6b/a20486.html#acec319d89a49da510093411f681fb950", null ],
+    [ "UpdateAI", "d0/d6b/a20486.html#abc3634dce208478e82d3c9bb19d222df", null ],
+    [ "_hasDied", "d0/d6b/a20486.html#a145f46cfda95e50fa30c98581a30de9e", null ],
+    [ "_isTrio", "d0/d6b/a20486.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
+    [ "_setId", "d0/d6b/a20486.html#a3898bc77baa92fd0031aea5bbef5eb80", null ],
+    [ "events", "d0/d6b/a20486.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
 ];

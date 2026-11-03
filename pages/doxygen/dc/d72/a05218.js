@@ -1,4 +1,5 @@
 var a05218 =
 [
-    [ "PreDeathAuraTickScope", "d8/de7/a11922.html", "d8/de7/a11922" ]
+    [ "TotemCreated", "da/d51/a11758.html", "da/d51/a11758" ],
+    [ "TotemDestroyed", "d3/dc1/a11754.html", "d3/dc1/a11754" ]
 ];

@@ -1,5 +1,7 @@
 var a02105 =
 [
-    [ "npc_tyrande_whisperwind", "d1/d6e/a16262.html", "d1/d6e/a16262" ],
-    [ "AddSC_teldrassil", "db/d7a/a02105.html#a3c3f043ac68f32b085d7fa2d72c7da94", null ]
+    [ "AuraApplication", "da/d2b/a11938.html", "da/d2b/a11938" ],
+    [ "Aura", "d1/de5/a11942.html", "d1/de5/a11942" ],
+    [ "UnitAura", "da/d8a/a11946.html", "da/d8a/a11946" ],
+    [ "DynObjAura", "d3/d05/a11950.html", "d3/d05/a11950" ]
 ];

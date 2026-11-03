@@ -1,5 +1,5 @@
 var a04082 =
 [
-    [ "ScriptRegistry< AllItemScript >", "db/d64/a04082.html#a0f69164743e657905c670df85e97a29c", null ],
-    [ "ScriptRegistry< ItemScript >", "db/d64/a04082.html#a9f258d1e2f9fb6ce144923451b63f995", null ]
+    [ "cheat_commandscript", "df/ddb/a12546.html", "df/ddb/a12546" ],
+    [ "AddSC_cheat_commandscript", "db/d64/a04082.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
 ];

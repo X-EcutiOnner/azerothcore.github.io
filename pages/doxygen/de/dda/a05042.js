@@ -1,16 +1,13 @@
 var a05042 =
 [
-    [ "RandomEngine", "d5/d90/a05918.html", "d5/d90/a05918" ],
-    [ "frand", "de/dda/a05042.html#aa28484fcb823a22578601847e4b0ddb4", null ],
-    [ "irand", "de/dda/a05042.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
-    [ "rand32", "de/dda/a05042.html#ab91ed86274e1e52eb314784862b61696", null ],
-    [ "rand_chance", "de/dda/a05042.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
-    [ "rand_norm", "de/dda/a05042.html#ad552d8147f66d6ec0cd44271e8799599", null ],
-    [ "randtime", "de/dda/a05042.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
-    [ "randtime", "de/dda/a05042.html#ad7a1463dbba108f4bfc0d800fa6f99c1", null ],
-    [ "roll_chance_f", "de/dda/a05042.html#a4b15099bc81731469c5078a778673c94", null ],
-    [ "roll_chance_i", "de/dda/a05042.html#a50320d4edff86db31b25138ae72161ad", null ],
-    [ "urand", "de/dda/a05042.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
-    [ "urandms", "de/dda/a05042.html#a1a4ee564518371004a4d34135600bfa0", null ],
-    [ "urandweighted", "de/dda/a05042.html#a673de62907a2657190e58678691d3b36", null ]
+    [ "OutdoorPvPGH", "d2/d9d/a22734.html", "d2/d9d/a22734" ],
+    [ "OPvPCapturePointGH", "d0/de6/a22738.html", "d0/de6/a22738" ],
+    [ "OutdoorPvPGHenum", "de/dda/a05042.html#a68fd4e51a6ab53a5f6bc93fe7800623b", [
+      [ "GH_ALLIANCE_DEFENSE_EVENT", "de/dda/a05042.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3", null ],
+      [ "GH_HORDE_DEFENSE_EVENT", "de/dda/a05042.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10", null ],
+      [ "GH_ZONE", "de/dda/a05042.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f", null ],
+      [ "GH_QUEST_KEEP_EM_ON_THEIR_HEELS", "de/dda/a05042.html#a68fd4e51a6ab53a5f6bc93fe7800623ba093fd7e4f043a87bac91a6d698f44b58", null ],
+      [ "GH_QUEST_KICK_EM_WHILE_THEYRE_DOWN", "de/dda/a05042.html#a68fd4e51a6ab53a5f6bc93fe7800623bab570a16e35f63643cd666e8e9c67dce6", null ],
+      [ "GH_CREATURE_QUEST_BUNNY", "de/dda/a05042.html#a68fd4e51a6ab53a5f6bc93fe7800623ba611910e455b02d10a37996956708a414", null ]
+    ] ]
 ];

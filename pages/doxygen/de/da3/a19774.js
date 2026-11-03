@@ -1,6 +1,6 @@
 var a19774 =
 [
-    [ "boss_thaddiusAI", "da/d3c/a19778.html", "da/d3c/a19778" ],
-    [ "boss_thaddius", "de/da3/a19774.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "de/da3/a19774.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "npc_teslaAI", "da/d3c/a19778.html", "da/d3c/a19778" ],
+    [ "npc_tesla", "de/da3/a19774.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "de/da3/a19774.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

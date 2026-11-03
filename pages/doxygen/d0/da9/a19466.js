@@ -1,6 +1,6 @@
 var a19466 =
 [
-    [ "npc_icc_putricades_trapAI", "d3/d82/a19470.html", "d3/d82/a19470" ],
-    [ "npc_icc_putricades_trap", "d0/da9/a19466.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
-    [ "GetAI", "d0/da9/a19466.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
+    [ "icecrown_citadel_teleport", "d0/da9/a19466.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "d0/da9/a19466.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "d0/da9/a19466.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

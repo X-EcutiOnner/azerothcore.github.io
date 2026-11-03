@@ -1,12 +1,11 @@
 var a21638 =
 [
-    [ "npc_ichor_globule", "d0/d79/a21638.html#a59443a6748d81ef27a030f8656697fc1", null ],
-    [ "AttackStart", "d0/d79/a21638.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
-    [ "JustDied", "d0/d79/a21638.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
-    [ "MoveInLineOfSight", "d0/d79/a21638.html#af14fada689a1a6a780ae44865d16e465", null ],
-    [ "Reset", "d0/d79/a21638.html#a78030360fcd39754744384cdba17fd9e", null ],
-    [ "SpellHit", "d0/d79/a21638.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
-    [ "UpdateAI", "d0/d79/a21638.html#acccc54db59a18e78330011465e109439", null ],
-    [ "_events", "d0/d79/a21638.html#a221c58177666ea1eb4a6b831916297eb", null ],
-    [ "_instance", "d0/d79/a21638.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
+    [ "npc_vh_void_sentry", "d0/d79/a21638.html#adeb66953fb7540aab5190b825ff98ec8", null ],
+    [ "DoAction", "d0/d79/a21638.html#a37ed72c221f23cd653694c10d536eec4", null ],
+    [ "JustDied", "d0/d79/a21638.html#aabf96934586d38d6f958c1571c0b3b56", null ],
+    [ "SummonedCreatureDespawn", "d0/d79/a21638.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
+    [ "UpdateAI", "d0/d79/a21638.html#a417af2ca21310ca105d7561e3ab21272", null ],
+    [ "_events", "d0/d79/a21638.html#a30899a2d4d8a82b26251911dc3b48008", null ],
+    [ "_instance", "d0/d79/a21638.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
+    [ "_summonedGuid", "d0/d79/a21638.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
 ];

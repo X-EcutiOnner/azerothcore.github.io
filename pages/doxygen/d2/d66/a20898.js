@@ -1,6 +1,6 @@
 var a20898 =
 [
-    [ "npc_razorscale_devouring_flame", "d2/d66/a20898.html#a86c3d4cdf0d9757612264f62fd9e283e", null ],
-    [ "EnterEvadeMode", "d2/d66/a20898.html#a7d32fe90b53b3d681627d84bf3825bc2", null ],
-    [ "Reset", "d2/d66/a20898.html#adb6acc83d528f71a69e854e46b2405c3", null ]
+    [ "go_razorscale_mole_machineAI", "d8/d2f/a20902.html", "d8/d2f/a20902" ],
+    [ "go_razorscale_mole_machine", "d2/d66/a20898.html#a94d4c7900c139202cd0e57489ecb5a02", null ],
+    [ "GetAI", "d2/d66/a20898.html#a56de10f80d50b667bfae81994a618304", null ]
 ];

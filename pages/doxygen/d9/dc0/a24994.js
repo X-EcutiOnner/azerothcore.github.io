@@ -1,7 +1,12 @@
 var a24994 =
 [
-    [ "HandleProc", "d9/dc0/a24994.html#a2d38c32b4eb2ba91c657801b21a3b90d", null ],
-    [ "PrepareAuraScript", "d9/dc0/a24994.html#ac5988a79ab42ec1bbcc9b69bb649fc29", null ],
-    [ "Register", "d9/dc0/a24994.html#affd88326ea293f82055700ec7183d194", null ],
-    [ "Validate", "d9/dc0/a24994.html#acc8797afece569e68c6d754ca09e206d", null ]
+    [ "Spells", "d9/dc0/a24994.html#a4dfabb0b1d7d3b7325577e0aa6d1b93d", [
+      [ "SPELL_DRUID_AURA_OF_DESPAIR_1", "d9/dc0/a24994.html#a4dfabb0b1d7d3b7325577e0aa6d1b93dabf914d1cbef9eb4a422e06804c12d220", null ],
+      [ "SPELL_DRUID_AURA_OF_DESPAIR_2", "d9/dc0/a24994.html#a4dfabb0b1d7d3b7325577e0aa6d1b93da0506acea11f9eb6b7f3f8e99b434daef", null ]
+    ] ],
+    [ "AfterRemove", "d9/dc0/a24994.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "d9/dc0/a24994.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "d9/dc0/a24994.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "d9/dc0/a24994.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "d9/dc0/a24994.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

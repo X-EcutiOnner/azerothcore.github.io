@@ -1,8 +1,7 @@
 var a21030 =
 [
-    [ "npc_scrapbot", "d0/d27/a21030.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
-    [ "Reset", "d0/d27/a21030.html#a2dca509a6e2b46674165e5559717f69c", null ],
-    [ "UpdateAI", "d0/d27/a21030.html#ade90c75baf598900adaa300cef28cb6a", null ],
-    [ "_instance", "d0/d27/a21030.html#afb8296b4d9105ee99abc534656289ae2", null ],
-    [ "_scheduler", "d0/d27/a21030.html#a4deb841588ea244e4290bb8ffb69b483", null ]
+    [ "OnRemove", "d0/d27/a21030.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
+    [ "PrepareAuraScript", "d0/d27/a21030.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
+    [ "Register", "d0/d27/a21030.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "Validate", "d0/d27/a21030.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
 ];

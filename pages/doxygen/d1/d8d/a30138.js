@@ -1,13 +1,6 @@
 var a30138 =
 [
-    [ "MPQArchive", "d1/d8d/a30138.html#a01c755d82896f5eff33101151ee78fda", null ],
-    [ "~MPQArchive", "d1/d8d/a30138.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "d1/d8d/a30138.html#a01c755d82896f5eff33101151ee78fda", null ],
-    [ "~MPQArchive", "d1/d8d/a30138.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "d1/d8d/a30138.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "d1/d8d/a30138.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "d1/d8d/a30138.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "d1/d8d/a30138.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "d1/d8d/a30138.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "d1/d8d/a30138.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "hasAttr", "d1/d8d/a30138.html#aec6e687803471c9e36fb371be3994db9", null ],
+    [ "name", "d1/d8d/a30138.html#acb40ba3ca029314d1efd8d4499428e4b", null ],
+    [ "spellId", "d1/d8d/a30138.html#a6b7e7e5d028fb5c006f8785a53394535", null ]
 ];

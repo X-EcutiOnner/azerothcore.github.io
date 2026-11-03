@@ -1,7 +1,10 @@
 var a21750 =
 [
-    [ "HandleScriptEffect", "d8/d83/a21750.html#a0c6b2f8713f59b3048224f0cb7786913", null ],
-    [ "PrepareSpellScript", "d8/d83/a21750.html#adf4c5fb99c1ea11c984bffd9b54ee7ce", null ],
-    [ "Register", "d8/d83/a21750.html#acef977e377c9d6e638056223256da4ef", null ],
-    [ "Validate", "d8/d83/a21750.html#aaecfe98d6c72c2675bf83d586588dbc0", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d8/d83/a21750.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "d8/d83/a21750.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "d8/d83/a21750.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "d8/d83/a21750.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "d8/d83/a21750.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "d8/d83/a21750.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "d8/d83/a21750.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

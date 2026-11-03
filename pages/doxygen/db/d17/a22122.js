@@ -1,7 +1,6 @@
 var a22122 =
 [
-    [ "HandleScriptEffect", "db/d17/a22122.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "db/d17/a22122.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "db/d17/a22122.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "db/d17/a22122.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_lake_frogAI", "d7/dd1/a22126.html", "d7/dd1/a22126" ],
+    [ "npc_lake_frog", "db/d17/a22122.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "db/d17/a22122.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

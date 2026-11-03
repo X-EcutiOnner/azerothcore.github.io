@@ -1,9 +1,14 @@
 var a18374 =
 [
-    [ "CountTargets", "d5/d81/a18374.html#aa72b762d802c27047d485a8a314c6c6d", null ],
-    [ "Load", "d5/d81/a18374.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
-    [ "PrepareSpellScript", "d5/d81/a18374.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
-    [ "Register", "d5/d81/a18374.html#a86cad92c07fa31c730a3b560d33ed824", null ],
-    [ "SplitDamage", "d5/d81/a18374.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
-    [ "_targetCount", "d5/d81/a18374.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
+    [ "npc_putricide_oozeAI", "d5/d81/a18374.html#a5b3200110d6cd8ac1311220ab2ee3385", null ],
+    [ "CastMainSpell", "d5/d81/a18374.html#a62c9027b6d8a7812fcf5c0023621ef70", null ],
+    [ "IsSummonedBy", "d5/d81/a18374.html#a8e96a50b9a35f6220bf6c824c1acce58", null ],
+    [ "SelectNewTarget", "d5/d81/a18374.html#a0a4167a73249967fcf268683f936647d", null ],
+    [ "SetGUID", "d5/d81/a18374.html#af8abd6581901df51a3757f4a19443045", null ],
+    [ "SpellHit", "d5/d81/a18374.html#ab9d288f8eded19720a0aee3bd91920d2", null ],
+    [ "SpellHitTarget", "d5/d81/a18374.html#a501e0f46abdb1bcc0d99ab9792f738fe", null ],
+    [ "UpdateAI", "d5/d81/a18374.html#a508fe1a9974f2ffa36c72575c2d4b252", null ],
+    [ "_hitTargetSpellId", "d5/d81/a18374.html#a728b62580e7a84e9947a45b460ab140c", null ],
+    [ "_newTargetSelectTimer", "d5/d81/a18374.html#a9615a0e6c73c155330c1791c2a205553", null ],
+    [ "targetGUID", "d5/d81/a18374.html#ae01b7ffe31548aa15d913cc28fa32422", null ]
 ];

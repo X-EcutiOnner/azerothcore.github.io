@@ -1,6 +1,9 @@
 var a17990 =
 [
-    [ "npc_saurfang_eventAI", "df/dcf/a17994.html", "df/dcf/a17994" ],
-    [ "npc_saurfang_event", "d3/dd4/a17990.html#a3bfce5457466360458498833098d660c", null ],
-    [ "GetAI", "d3/dd4/a17990.html#a953842d2fa3380a8331faf3a42cb3177", null ]
+    [ "FilterTargetsInitial", "d3/dd4/a17990.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "d3/dd4/a17990.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "d3/dd4/a17990.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "d3/dd4/a17990.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "d3/dd4/a17990.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "d3/dd4/a17990.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

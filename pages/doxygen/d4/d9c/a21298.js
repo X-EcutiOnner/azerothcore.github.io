@@ -1,6 +1,6 @@
 var a21298 =
 [
-    [ "entry", "d4/d9c/a21298.html#aa9907022aea07d150223562376672353", null ],
-    [ "guid", "d4/d9c/a21298.html#af6bd3717f5e809607edd72ed4c9200ef", null ],
-    [ "index", "d4/d9c/a21298.html#a004f733fe69f93716e2280977be5dfb8", null ]
+    [ "HandleEffectPeriodic", "d4/d9c/a21298.html#a35ad284954a023da2ed50d010fcf8946", null ],
+    [ "PrepareAuraScript", "d4/d9c/a21298.html#a6835238f872248a76e386ded28340c81", null ],
+    [ "Register", "d4/d9c/a21298.html#aba7eea4dbaff16d49f30165cdd29a3d4", null ]
 ];

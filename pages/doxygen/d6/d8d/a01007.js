@@ -1,33 +1,8 @@
 var a01007 =
 [
-    [ "npc_dragonflayer_forge_master", "d9/d43/a21390.html", "d9/d43/a21390" ],
-    [ "npc_enslaved_proto_drake", "d2/d1a/a21394.html", "d2/d1a/a21394" ],
-    [ "spell_uk_second_wind", "d9/d8f/a21398.html", "d9/d8f/a21398" ],
-    [ "spell_ticking_time_bomb_aura", "da/dd3/a21402.html", "da/dd3/a21402" ],
-    [ "EnslavedProtoDrake", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278", [
-      [ "SPELL_REND", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6", null ],
-      [ "SPELL_FLAME_BREATH", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b", null ],
-      [ "SPELL_KNOCK_AWAY", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa", null ],
-      [ "EVENT_REND", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d", null ],
-      [ "EVENT_FLAME_BREATH", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40", null ],
-      [ "EVENT_KNOCKAWAY", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517", null ],
-      [ "EVENT_PRE_LAND", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a3c6c4fa36c983015b9f6940af594f4a2", null ],
-      [ "EVENT_LAND", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da", null ],
-      [ "TYPE_PROTODRAKE_AT", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56", null ],
-      [ "DATA_PROTODRAKE_MOVE", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad", null ],
-      [ "POINT_TAKE_OFF", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394", null ],
-      [ "POINT_PRE_LAND", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3", null ],
-      [ "POINT_LAND", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f", null ]
-    ] ],
-    [ "SecondWind", "d6/d8d/a01007.html#aad6ea2c0a908d8b75abb381baf0c2045", [
-      [ "SPELL_SECOND_WIND_TRIGGER", "d6/d8d/a01007.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe", null ]
-    ] ],
-    [ "TickingTimeBomb", "d6/d8d/a01007.html#a9126ee26be77d9dcf83d14c8abae1cca", [
-      [ "SPELL_TICKING_TIME_BOMB_EXPLODE", "d6/d8d/a01007.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b", null ]
-    ] ],
-    [ "AddSC_utgarde_keep", "d6/d8d/a01007.html#a3252f1bf2be160c6d8960f41e595db47", null ],
-    [ "protodrakeCheckPos", "d6/d8d/a01007.html#a0a556a898032cb18eabb6df4a3f482e1", null ],
-    [ "protodrakeLandPos", "d6/d8d/a01007.html#a1a48021562fd573e8e0e970124788afd", null ],
-    [ "protodrakePreLandPos", "d6/d8d/a01007.html#aa19590ca509e049e2c92b727b48b6649", null ],
-    [ "protodrakeTakeOffPos", "d6/d8d/a01007.html#a2f05c0a81b85a72d1ba01e87e103e895", null ]
+    [ "StoredLootItem", "dd/de9/a10194.html", "dd/de9/a10194" ],
+    [ "LootItemStorage", "d9/dd0/a10198.html", "d9/dd0/a10198" ],
+    [ "sLootItemStorage", "d6/d8d/a01007.html#a06515a8a4bd76cd02aa0ab99d3d7c64e", null ],
+    [ "LootItemContainer", "d6/d8d/a01007.html#a06cc23df363d1d767959d7ab5ec29ad5", null ],
+    [ "StoredLootItemList", "d6/d8d/a01007.html#aa16defe92374d7db2d28958ee8fce21d", null ]
 ];

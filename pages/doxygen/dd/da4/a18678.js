@@ -1,6 +1,6 @@
 var a18678 =
 [
-    [ "npc_rimefangAI", "d5/db6/a18682.html", "d5/db6/a18682" ],
-    [ "npc_rimefang", "dd/da4/a18678.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
-    [ "GetAI", "dd/da4/a18678.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
+    [ "OrderWhelpTargetSelector", "dd/da4/a18678.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
+    [ "operator()", "dd/da4/a18678.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
+    [ "_owner", "dd/da4/a18678.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
 ];

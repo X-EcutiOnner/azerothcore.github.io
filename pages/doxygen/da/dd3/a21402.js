@@ -1,7 +1,13 @@
 var a21402 =
 [
-    [ "HandleOnEffectRemove", "da/dd3/a21402.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "da/dd3/a21402.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "da/dd3/a21402.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "da/dd3/a21402.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "npc_ferocious_rhinoAI", "da/dd3/a21402.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "da/dd3/a21402.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "da/dd3/a21402.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "da/dd3/a21402.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "da/dd3/a21402.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "da/dd3/a21402.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "da/dd3/a21402.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "da/dd3/a21402.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "da/dd3/a21402.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "da/dd3/a21402.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

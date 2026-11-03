@@ -1,11 +1,9 @@
 var a20786 =
 [
-    [ "npc_ulduar_proximity_mine", "d7/d2e/a20786.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
-    [ "AttackStart", "d7/d2e/a20786.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "d7/d2e/a20786.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "d7/d2e/a20786.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "d7/d2e/a20786.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "_exploded", "d7/d2e/a20786.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
-    [ "_timer", "d7/d2e/a20786.html#afe009de55826305826105bd29458d0eb", null ],
-    [ "_timer2", "d7/d2e/a20786.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
+    [ "npc_ulduar_bot_summon_trigger", "d7/d2e/a20786.html#a16d36c154b6851c0081cc05f838b0fed", null ],
+    [ "DoAction", "d7/d2e/a20786.html#a776782a85892d2d674773573be25bfa0", null ],
+    [ "Reset", "d7/d2e/a20786.html#a4ec8487028b188347cf0c9a080076fe6", null ],
+    [ "UpdateAI", "d7/d2e/a20786.html#a788d3eaba382e3af897678f6709a0242", null ],
+    [ "_option", "d7/d2e/a20786.html#a39c909b67fcdc81542470b6e96256fd5", null ],
+    [ "_timer", "d7/d2e/a20786.html#a2530742a19275efe92eeded4dce67567", null ]
 ];

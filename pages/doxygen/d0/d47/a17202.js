@@ -1,10 +1,7 @@
 var a17202 =
 [
-    [ "CalculateAmount", "d0/d47/a17202.html#a216034e5ef13850d946990daf7efc6f7", null ],
-    [ "HandlePeriodic", "d0/d47/a17202.html#ad1661b8ac97f891a40694f39316fda9c", null ],
-    [ "OnApply", "d0/d47/a17202.html#a9200f823af6faec5e465691924d299f8", null ],
-    [ "OnRemove", "d0/d47/a17202.html#a22f800827cac4917c4a6ebb721c7fdfb", null ],
-    [ "PrepareAuraScript", "d0/d47/a17202.html#a8f0561db040ef8fcc293d33e60df5b3b", null ],
-    [ "Register", "d0/d47/a17202.html#ac64f95df2dea84d20e7f911ec6203794", null ],
-    [ "Validate", "d0/d47/a17202.html#a95b48ae747cad66faa2d66360fcbf11f", null ]
+    [ "HandleRemove", "d0/d47/a17202.html#abaaf6d96458eb98f69552c2694c20698", null ],
+    [ "PrepareAuraScript", "d0/d47/a17202.html#a9d219779962cb05103c90eb66a0eac60", null ],
+    [ "Register", "d0/d47/a17202.html#abbfc73e3f4a822c47242000bf093a46f", null ],
+    [ "Validate", "d0/d47/a17202.html#a5c4566711923c08a879a1be3f2b2f1ee", null ]
 ];

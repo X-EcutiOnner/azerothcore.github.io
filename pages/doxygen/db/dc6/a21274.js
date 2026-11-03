@@ -1,7 +1,6 @@
 var a21274 =
 [
-    [ "HandleProc", "db/dc6/a21274.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "db/dc6/a21274.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "db/dc6/a21274.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "db/dc6/a21274.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "entry", "db/dc6/a21274.html#aa9907022aea07d150223562376672353", null ],
+    [ "guid", "db/dc6/a21274.html#af6bd3717f5e809607edd72ed4c9200ef", null ],
+    [ "index", "db/dc6/a21274.html#a004f733fe69f93716e2280977be5dfb8", null ]
 ];

@@ -1,7 +1,7 @@
 var a19854 =
 [
-    [ "npc_alexstrasza", "d1/da2/a19854.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
-    [ "AttackStart", "d1/da2/a19854.html#ab47f439968b7e9358158eae3e31f4e29", null ],
-    [ "MoveInLineOfSight", "d1/da2/a19854.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
-    [ "UpdateAI", "d1/da2/a19854.html#aec1c93eee408ecefbceec22be4b90dba", null ]
+    [ "FilterTargets", "d1/da2/a19854.html#a6beccd163ab8442a1ed39c553716cb73", null ],
+    [ "Load", "d1/da2/a19854.html#a5df67c2dbd14a75435f68939240daae6", null ],
+    [ "PrepareSpellScript", "d1/da2/a19854.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
+    [ "Register", "d1/da2/a19854.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
 ];

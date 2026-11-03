@@ -1,22 +1,11 @@
 var a16958 =
 [
-    [ "boss_anubarak_trialAI", "dc/d71/a16958.html#a2b9b422807b2560a297a4b4ea878d98d", null ],
-    [ "CanAIAttack", "dc/d71/a16958.html#a97b230905713b3a01db532c91e69ec6b", null ],
-    [ "DoAction", "dc/d71/a16958.html#a141aa4e5169359962d0a229434cd010a", null ],
-    [ "EnterEvadeMode", "dc/d71/a16958.html#a1702bb381ff62d12b8bbef7b29469048", null ],
-    [ "JustDied", "dc/d71/a16958.html#addca5c80496dcc2e78d57e72ae043f6e", null ],
-    [ "JustEngagedWith", "dc/d71/a16958.html#a993cace98f8d01776294647f0bed3ec9", null ],
-    [ "JustReachedHome", "dc/d71/a16958.html#a18727c6c31f2b0366283f2a302cf08c4", null ],
-    [ "JustSummoned", "dc/d71/a16958.html#a7fe3f62c3765bd0ac9d70a279ccacb0d", null ],
-    [ "KilledUnit", "dc/d71/a16958.html#ac4b58e0076d41eb7352d0b9bbe2be425", null ],
-    [ "MoveInLineOfSight", "dc/d71/a16958.html#a53223573a01fa1090a76c34ded41b998", null ],
-    [ "Reset", "dc/d71/a16958.html#a96adc3d74fa30a29586f3cbaad704a03", null ],
-    [ "UpdateAI", "dc/d71/a16958.html#a428abed225aebdb715e7495af4db0ead", null ],
-    [ "bIntro", "dc/d71/a16958.html#a274d47932de9549bcf6b560e81f34475", null ],
-    [ "bPhase3", "dc/d71/a16958.html#a56778ef57482fd6b40110524a6771137", null ],
-    [ "BurrowGUID", "dc/d71/a16958.html#aa41fd65b3ab5fcdce31a977799224363", null ],
-    [ "events", "dc/d71/a16958.html#a98039ee036e7d0aa2ad3fd40f7cfacb1", null ],
-    [ "pInstance", "dc/d71/a16958.html#ab26458d5876c3c0104c7b4adf5a45333", null ],
-    [ "SphereGUID", "dc/d71/a16958.html#a1d0b62673e3317095b29a70196c9ce66", null ],
-    [ "summons", "dc/d71/a16958.html#a33b1f3105d175f066176cc6159884f45", null ]
+    [ "npc_swarm_scarab", "dc/d71/a16958.html#a2f279567204f69191cd010450fcefef4", null ],
+    [ "CanAIAttack", "dc/d71/a16958.html#a89bc86d76edcb17849c5b19b61b0ceed", null ],
+    [ "DoAction", "dc/d71/a16958.html#a2e6fb131cc3be42cd883e8fb15c09038", null ],
+    [ "JustDied", "dc/d71/a16958.html#af3531b85cbf4326c2a2a375ff142180c", null ],
+    [ "JustEngagedWith", "dc/d71/a16958.html#a39642ea7a2e8f16c37e124762fe941e0", null ],
+    [ "Reset", "dc/d71/a16958.html#ab98b066cdd0eff364dd3dd35d00e71cc", null ],
+    [ "UpdateAI", "dc/d71/a16958.html#a0a81e26dd56dfdcbc740f1abc38ed2dd", null ],
+    [ "_submerged", "dc/d71/a16958.html#a1f8e4089c672f80dcc62c9473c6056f6", null ]
 ];

@@ -1,6 +1,9 @@
 var a24578 =
 [
-    [ "achievement", "d2/d09/a24578.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d2/d09/a24578.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d2/d09/a24578.html#ab8c1bedac4bccf5c47eda591c9e5e9d1", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "d2/d09/a24578.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "d2/d09/a24578.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHit", "d2/d09/a24578.html#a0bed2e8e8dac9c1bc7763a3ad27acd22", null ],
+    [ "UpdateAI", "d2/d09/a24578.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "d2/d09/a24578.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "d2/d09/a24578.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

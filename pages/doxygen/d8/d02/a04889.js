@@ -1,16 +1,13 @@
 var a04889 =
 [
-    [ "Log", "d6/df4/a05747.html", "d6/df4/a05747" ],
-    [ "LOG_DEBUG", "d8/d02/a04889.html#a47ac782b14a7531c6232777165a1a161", null ],
-    [ "LOG_ERROR", "d8/d02/a04889.html#a43832e3fa8508deb4ce43e520005fcd9", null ],
-    [ "LOG_FATAL", "d8/d02/a04889.html#a0e09b50c268dc6897a1c70aa46de936e", null ],
-    [ "LOG_GM", "d8/d02/a04889.html#aeeb132f13796dfa459eb05386acff8fe", null ],
-    [ "LOG_INFO", "d8/d02/a04889.html#a271e427d8e8481efd5cd5f537ec9e419", null ],
-    [ "LOG_MESSAGE_BODY", "d8/d02/a04889.html#a1ce833e7403b29687774e0539da6f4b9", null ],
-    [ "LOG_TRACE", "d8/d02/a04889.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5", null ],
-    [ "LOG_WARN", "d8/d02/a04889.html#adf09840a666e1d86bcd3439105db6edc", null ],
-    [ "LOGGER_ROOT", "d8/d02/a04889.html#a6f9b401329ff7cf191e6b1801caeb441", null ],
-    [ "sLog", "d8/d02/a04889.html#ab5487500f5b4b12072043104b916d582", null ],
-    [ "AppenderCreatorFn", "d8/d02/a04889.html#a1db7ef47a6d7bf4560a30c8b7e9f6a37", null ],
-    [ "CreateAppender", "d8/d02/a04889.html#ae5d709e10423806fa5331696a9bbd657", null ]
+    [ "AddEventsScripts", "d8/d02/a04889.html#a5b00ce0eeb1dcf64dc867f4bce623416", null ],
+    [ "AddSC_event_brewfest_scripts", "d8/d02/a04889.html#a7b95e86ce715aad734d059cfc0cf88d7", null ],
+    [ "AddSC_event_childrens_week", "d8/d02/a04889.html#a832536a026ab4dad8df7bb48ad0493fc", null ],
+    [ "AddSC_event_firework_show_scripts", "d8/d02/a04889.html#af7a6296c13b6615a14e0823fe7e5b577", null ],
+    [ "AddSC_event_hallows_end_scripts", "d8/d02/a04889.html#a70705fe4a0f9a88d8f185363054af273", null ],
+    [ "AddSC_event_love_in_the_air", "d8/d02/a04889.html#acd28b6b284f9e0f8caa1194e2dc904f8", null ],
+    [ "AddSC_event_midsummer_scripts", "d8/d02/a04889.html#adc17dd3d30524a3c73b564d6eed54f1c", null ],
+    [ "AddSC_event_noblegarden_scripts", "d8/d02/a04889.html#a60b11fd113b9059778bb843dd1806c79", null ],
+    [ "AddSC_event_pilgrims_end_scripts", "d8/d02/a04889.html#a8e59953c9b1731e315c9c6b9148a88e6", null ],
+    [ "AddSC_event_winter_veil_scripts", "d8/d02/a04889.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e", null ]
 ];

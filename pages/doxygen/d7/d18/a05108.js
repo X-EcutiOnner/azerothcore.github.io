@@ -1,14 +1,17 @@
 var a05108 =
 [
-    [ "Acore::Runnable", "dc/d03/a05818.html", "dc/d03/a05818" ],
-    [ "Acore::Thread", "da/d1d/a05822.html", "da/d1d/a05822" ],
-    [ "Priority", "d7/d18/a05108.html#a98ce3c3a6bb5eee03a544054eae9f9f0", [
-      [ "Priority_Idle", "d7/d18/a05108.html#a98ce3c3a6bb5eee03a544054eae9f9f0a6540dbe098806722de7130f0cf978d24", null ],
-      [ "Priority_Lowest", "d7/d18/a05108.html#a98ce3c3a6bb5eee03a544054eae9f9f0a2c1092f67a3addf9410ac00e8a8f62b0", null ],
-      [ "Priority_Low", "d7/d18/a05108.html#a98ce3c3a6bb5eee03a544054eae9f9f0a726dc1791c20e19bbdb47763ffec6cc8", null ],
-      [ "Priority_Normal", "d7/d18/a05108.html#a98ce3c3a6bb5eee03a544054eae9f9f0a9724af5d135432316625274c94d9d53c", null ],
-      [ "Priority_High", "d7/d18/a05108.html#a98ce3c3a6bb5eee03a544054eae9f9f0ae26951cdc5145b7d4710a65f64fcc15d", null ],
-      [ "Priority_Highest", "d7/d18/a05108.html#a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f", null ],
-      [ "Priority_Realtime", "d7/d18/a05108.html#a98ce3c3a6bb5eee03a544054eae9f9f0aea947a97dfe2d923de21531be29b1fe1", null ]
-    ] ]
+    [ "AddSC_deathknight_spell_scripts", "d7/d18/a05108.html#adcd4982e9aa1bb7ee8b4b39976cb7273", null ],
+    [ "AddSC_druid_spell_scripts", "d7/d18/a05108.html#a27c286499ee0c44de84c8f14e5c82d50", null ],
+    [ "AddSC_generic_spell_scripts", "d7/d18/a05108.html#ac2941716297c47e58e65de027a53ce16", null ],
+    [ "AddSC_hunter_spell_scripts", "d7/d18/a05108.html#af7e6bdb12ab989b575a1dca18382ea7c", null ],
+    [ "AddSC_item_spell_scripts", "d7/d18/a05108.html#a7c83be18daa3cdaab096b0caf49520a2", null ],
+    [ "AddSC_mage_spell_scripts", "d7/d18/a05108.html#a504d82c8e95f93fa88a54d34e919ed57", null ],
+    [ "AddSC_paladin_spell_scripts", "d7/d18/a05108.html#a1b3a1eb790e51c96829e92e5c922f437", null ],
+    [ "AddSC_priest_spell_scripts", "d7/d18/a05108.html#a0b0a2df1c9b8607784e59887025677c4", null ],
+    [ "AddSC_quest_spell_scripts", "d7/d18/a05108.html#aeb9d6863ab0326c3d6f1ac2c16d9f75c", null ],
+    [ "AddSC_rogue_spell_scripts", "d7/d18/a05108.html#a540405afe3345e19487d2db693272b2a", null ],
+    [ "AddSC_shaman_spell_scripts", "d7/d18/a05108.html#a3082f46075e4e453c37bc429c9d57a1a", null ],
+    [ "AddSC_warlock_spell_scripts", "d7/d18/a05108.html#a2054657c41c2347732a7d2903e3b8138", null ],
+    [ "AddSC_warrior_spell_scripts", "d7/d18/a05108.html#a9c003dba1ff10c2e27f5ee3d4109549f", null ],
+    [ "AddSpellsScripts", "d7/d18/a05108.html#aed7f09583615630437020215a3851296", null ]
 ];

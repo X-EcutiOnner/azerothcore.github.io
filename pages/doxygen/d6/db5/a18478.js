@@ -1,6 +1,7 @@
 var a18478 =
 [
-    [ "OnRemove", "d6/db5/a18478.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
-    [ "PrepareAuraScript", "d6/db5/a18478.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
-    [ "Register", "d6/db5/a18478.html#afa993cb14444989feac16c9fa2d7b8df", null ]
+    [ "HandleProc", "d6/db5/a18478.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
+    [ "PrepareAuraScript", "d6/db5/a18478.html#a5eace3a973165eb82ae95b8052bb9476", null ],
+    [ "Register", "d6/db5/a18478.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
+    [ "Validate", "d6/db5/a18478.html#ad2a7488006b16840e02b450cc9150289", null ]
 ];

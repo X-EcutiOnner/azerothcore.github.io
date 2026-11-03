@@ -1,7 +1,6 @@
 var a22410 =
 [
-    [ "npc_engineer_heliceAI", "da/dd7/a22414.html", "da/dd7/a22414" ],
-    [ "npc_engineer_helice", "d4/dca/a22410.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "d4/dca/a22410.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "d4/dca/a22410.html#abd345111463ce2ac635ad7fc6f891fb7", null ]
+    [ "npc_bushwhackerAI", "d4/dca/a22410.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d4/dca/a22410.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d4/dca/a22410.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

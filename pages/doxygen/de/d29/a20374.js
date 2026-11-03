@@ -1,9 +1,6 @@
 var a20374 =
 [
-    [ "npc_hodirs_fury", "de/d29/a20374.html#abda902842d76a0a5a17196a11654f5ab", null ],
-    [ "MovementInform", "de/d29/a20374.html#a4d82007c5b70edad74b461948629b9fb", null ],
-    [ "Reset", "de/d29/a20374.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
-    [ "UpdateAI", "de/d29/a20374.html#a58a8b1664bb00b930cce86e856facb8b", null ],
-    [ "_switchTargetTimer", "de/d29/a20374.html#a9736332e6f3d163f04aa12cbd6829670", null ],
-    [ "_timeToHit", "de/d29/a20374.html#a611d171dc27bd78d298040eabfc00e5f", null ]
+    [ "npc_salvaged_chopper", "de/d29/a20374.html#ad2d875ba3e7de8e44213cd8fdf383df0", null ],
+    [ "PassengerBoarded", "de/d29/a20374.html#a12e63e4a2ce543293a398bfe3e9635ad", null ],
+    [ "SwapActionButton", "de/d29/a20374.html#afe67864f4315ad1fa876572c840cc190", null ]
 ];

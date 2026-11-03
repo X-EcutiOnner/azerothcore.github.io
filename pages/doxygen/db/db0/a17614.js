@@ -1,6 +1,6 @@
 var a17614 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "dd/dad/a17618.html", "dd/dad/a17618" ],
-    [ "npc_pos_tyrannus_events", "db/db0/a17614.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
-    [ "GetAI", "db/db0/a17614.html#ae5863e99d77815de71c1774e908b3f65", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "dd/dad/a17618.html", "dd/dad/a17618" ],
+    [ "npc_pos_martin_or_gorkun_second", "db/db0/a17614.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
+    [ "GetAI", "db/db0/a17614.html#a180936e3bb98eb55d29ebd51350906c0", null ]
 ];

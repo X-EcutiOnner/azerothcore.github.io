@@ -1,4 +1,5 @@
 var a04157 =
 [
-    [ "ScriptRegistry< CreatureScript >", "d9/d81/a04157.html#adb066a45d02e899835d90ecde5d40ccd", null ]
+    [ "mail_commandscript", "da/d03/a12626.html", "da/d03/a12626" ],
+    [ "AddSC_mail_commandscript", "d9/d81/a04157.html#a60390ceaf08c6b305bdc77fd27243938", null ]
 ];

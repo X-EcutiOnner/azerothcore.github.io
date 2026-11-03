@@ -1,9 +1,12 @@
 var a22366 =
 [
-    [ "npc_frostbrood_skytalonAI", "dc/d74/a22366.html#afc14c60466f9f0f1b20062758f18c00d", null ],
-    [ "IsSummonedBy", "dc/d74/a22366.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
-    [ "MovementInform", "dc/d74/a22366.html#ae763333503176eb7e8ce407868243958", null ],
-    [ "SpellHit", "dc/d74/a22366.html#a24bb49f47dcf85c95039d0495a89e126", null ],
-    [ "UpdateAI", "dc/d74/a22366.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
-    [ "events", "dc/d74/a22366.html#a8575d258d63e28626cffd7fc2160bee6", null ]
+    [ "npc_plague_cauldron_ghoul", "dc/d74/a22366.html#af4548895d0f14f8634b3f1999fd5544c", null ],
+    [ "IsSummonedBy", "dc/d74/a22366.html#aaf5e0deaf6e94d5dce6c54bfcec623c7", null ],
+    [ "JustEngagedWith", "dc/d74/a22366.html#a10e84fc7b4f50d45b580f9088b0f9bf0", null ],
+    [ "Land", "dc/d74/a22366.html#aceae56263f0fa2f1831971f473966b2f", null ],
+    [ "MovementInform", "dc/d74/a22366.html#ac1875f2e63bf044b185a6292f4dc77d3", null ],
+    [ "Reset", "dc/d74/a22366.html#a7e361b9b992040444b479cd2103fcea5", null ],
+    [ "SetData", "dc/d74/a22366.html#a9ef9e6168e3f457d119884921ebf2d02", null ],
+    [ "UpdateAI", "dc/d74/a22366.html#a4debe95cb729ccbdc69783ca96b7bace", null ],
+    [ "_jumpId", "dc/d74/a22366.html#abac29a9e5c614dbf9440d71c6d12bf11", null ]
 ];

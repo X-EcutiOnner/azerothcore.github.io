@@ -1,9 +1,6 @@
 var a21890 =
 [
-    [ "npc_minigob_manabonk", "dd/da0/a21890.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "dd/da0/a21890.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "dd/da0/a21890.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "dd/da0/a21890.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "dd/da0/a21890.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "dd/da0/a21890.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d7/da8/a21894.html", "d7/da8/a21894" ],
+    [ "npc_conversing_with_the_depths_trigger", "dd/da0/a21890.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "dd/da0/a21890.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

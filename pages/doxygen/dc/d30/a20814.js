@@ -1,6 +1,5 @@
 var a20814 =
 [
-    [ "ModDest", "dc/d30/a20814.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
-    [ "PrepareSpellScript", "dc/d30/a20814.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
-    [ "Register", "dc/d30/a20814.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
+    [ "npc_ulduar_flames_spread", "dc/d30/a20814.html#aea2856e8ea84dfb447017a4d8b2ab088", null ],
+    [ "SpellHit", "dc/d30/a20814.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
 ];

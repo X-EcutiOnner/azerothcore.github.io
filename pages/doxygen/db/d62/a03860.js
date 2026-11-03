@@ -1,15 +1,33 @@
 var a03860 =
 [
-    [ "MonsterMoveType", "db/d62/a03860.html#afd3f02560404659d901713e1228d9339", [
-      [ "MonsterMoveNormal", "db/d62/a03860.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
-      [ "MonsterMoveStop", "db/d62/a03860.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],
-      [ "MonsterMoveFacingSpot", "db/d62/a03860.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323", null ],
-      [ "MonsterMoveFacingTarget", "db/d62/a03860.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9", null ],
-      [ "MonsterMoveFacingAngle", "db/d62/a03860.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642", null ]
+    [ "npc_dragonflayer_forge_master", "d7/d7e/a21366.html", "d7/d7e/a21366" ],
+    [ "npc_enslaved_proto_drake", "d6/dc2/a21370.html", "d6/dc2/a21370" ],
+    [ "spell_uk_second_wind", "d1/da8/a21374.html", "d1/da8/a21374" ],
+    [ "spell_ticking_time_bomb_aura", "d2/d3b/a21378.html", "d2/d3b/a21378" ],
+    [ "EnslavedProtoDrake", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278", [
+      [ "SPELL_REND", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6", null ],
+      [ "SPELL_FLAME_BREATH", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b", null ],
+      [ "SPELL_KNOCK_AWAY", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa", null ],
+      [ "EVENT_REND", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d", null ],
+      [ "EVENT_FLAME_BREATH", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40", null ],
+      [ "EVENT_KNOCKAWAY", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517", null ],
+      [ "EVENT_PRE_LAND", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278a3c6c4fa36c983015b9f6940af594f4a2", null ],
+      [ "EVENT_LAND", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da", null ],
+      [ "TYPE_PROTODRAKE_AT", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56", null ],
+      [ "DATA_PROTODRAKE_MOVE", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad", null ],
+      [ "POINT_TAKE_OFF", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394", null ],
+      [ "POINT_PRE_LAND", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3", null ],
+      [ "POINT_LAND", "db/d62/a03860.html#a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f", null ]
     ] ],
-    [ "operator<<", "db/d62/a03860.html#a36206fc0a1fcffec4fbb7696f2fba68a", null ],
-    [ "operator>>", "db/d62/a03860.html#ae394b26156a3fa0d1d828d30cee475b1", null ],
-    [ "WriteCatmullRomCyclicPath", "db/d62/a03860.html#a512a47e7c442a3d5260ff7ec7b4d69bb", null ],
-    [ "WriteCatmullRomPath", "db/d62/a03860.html#a04fba7015071fbd9335a9723c694e511", null ],
-    [ "WriteLinearPath", "db/d62/a03860.html#a55368980761369537a648ba735e1f71f", null ]
+    [ "SecondWind", "db/d62/a03860.html#aad6ea2c0a908d8b75abb381baf0c2045", [
+      [ "SPELL_SECOND_WIND_TRIGGER", "db/d62/a03860.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe", null ]
+    ] ],
+    [ "TickingTimeBomb", "db/d62/a03860.html#a9126ee26be77d9dcf83d14c8abae1cca", [
+      [ "SPELL_TICKING_TIME_BOMB_EXPLODE", "db/d62/a03860.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b", null ]
+    ] ],
+    [ "AddSC_utgarde_keep", "db/d62/a03860.html#a3252f1bf2be160c6d8960f41e595db47", null ],
+    [ "protodrakeCheckPos", "db/d62/a03860.html#a0a556a898032cb18eabb6df4a3f482e1", null ],
+    [ "protodrakeLandPos", "db/d62/a03860.html#a1a48021562fd573e8e0e970124788afd", null ],
+    [ "protodrakePreLandPos", "db/d62/a03860.html#aa19590ca509e049e2c92b727b48b6649", null ],
+    [ "protodrakeTakeOffPos", "db/d62/a03860.html#a2f05c0a81b85a72d1ba01e87e103e895", null ]
 ];

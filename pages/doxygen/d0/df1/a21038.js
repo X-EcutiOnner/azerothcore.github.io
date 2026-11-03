@@ -1,10 +1,6 @@
 var a21038 =
 [
-    [ "npc_boombot", "d0/df1/a21038.html#a6747aef56fd6710020c8aa5b4d96e0a1", null ],
-    [ "DamageTaken", "d0/df1/a21038.html#a9f657c3f979b1f35f1cd5129474b33f1", null ],
-    [ "Reset", "d0/df1/a21038.html#af47d7810bfe4f4ad7185ec7167cd49bf", null ],
-    [ "UpdateAI", "d0/df1/a21038.html#a11b997bea629230932a1e01e89a556f2", null ],
-    [ "_boomed", "d0/df1/a21038.html#a3e08d47064301a42e71fa33f9d58a5a3", null ],
-    [ "_instance", "d0/df1/a21038.html#aeacd93855b35591fbfc54a8c1f622621", null ],
-    [ "_scheduler", "d0/df1/a21038.html#af45ea755ec5c6a16b2b1fde7ef0e93f8", null ]
+    [ "HandleScript", "d0/df1/a21038.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "d0/df1/a21038.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "d0/df1/a21038.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

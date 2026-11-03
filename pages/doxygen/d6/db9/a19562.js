@@ -1,7 +1,17 @@
 var a19562 =
 [
-    [ "HandleTriggerSpell", "d6/db9/a19562.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
-    [ "PrepareAuraScript", "d6/db9/a19562.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
-    [ "Register", "d6/db9/a19562.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
-    [ "Validate", "d6/db9/a19562.html#a813bad39641956fff697580f271416d2", null ]
+    [ "boss_four_horsemenAI", "d6/db9/a19562.html#a828a858c3337791bd2acb3d6ba730233", null ],
+    [ "AttackStart", "d6/db9/a19562.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
+    [ "EnterEvadeMode", "d6/db9/a19562.html#a86f458f0413cab4c8129affff1b73a70", null ],
+    [ "JustDied", "d6/db9/a19562.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
+    [ "JustEngagedWith", "d6/db9/a19562.html#a17b8ca30ceb0efb87be77f970c526444", null ],
+    [ "KilledUnit", "d6/db9/a19562.html#a87bdde27a69a020a26da31f01286593a", null ],
+    [ "MovementInform", "d6/db9/a19562.html#aa900c075c04673341b3100488c45f9e7", null ],
+    [ "MoveToCorner", "d6/db9/a19562.html#a7891dc79980c67d82867f6181685b359", null ],
+    [ "Reset", "d6/db9/a19562.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
+    [ "UpdateAI", "d6/db9/a19562.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
+    [ "currentWaypoint", "d6/db9/a19562.html#ab3c2643e1b3c58452661255979e67e63", null ],
+    [ "events", "d6/db9/a19562.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
+    [ "horsemanId", "d6/db9/a19562.html#ab0c4162177096e7bd007996e8677fd8b", null ],
+    [ "movementPhase", "d6/db9/a19562.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
 ];

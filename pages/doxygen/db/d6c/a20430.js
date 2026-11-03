@@ -1,8 +1,8 @@
 var a20430 =
 [
-    [ "CheckCast", "db/d6c/a20430.html#a71566abe41cec09cbb414d4e1be53c8f", null ],
-    [ "PrepareSpellScript", "db/d6c/a20430.html#ab3c4e4c1ef59fda87cd2b1fb119882c8", null ],
-    [ "Register", "db/d6c/a20430.html#a403728403abd55efdbfe1c835e9799bb", null ],
-    [ "SelectAvailableSeat", "db/d6c/a20430.html#a71101aaf195d64a2fe6c821ad1d5379d", null ],
-    [ "SelectSeat", "db/d6c/a20430.html#a466691f96780f607b52b853c83ddbae4", null ]
+    [ "HandleOnEffectApply", "db/d6c/a20430.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "db/d6c/a20430.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "db/d6c/a20430.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "db/d6c/a20430.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "db/d6c/a20430.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

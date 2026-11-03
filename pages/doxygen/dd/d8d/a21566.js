@@ -1,6 +1,6 @@
 var a21566 =
 [
-    [ "HandleOnHit", "dd/d8d/a21566.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "dd/d8d/a21566.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "dd/d8d/a21566.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "boss_toravonAI", "d9/d1a/a21570.html", "d9/d1a/a21570" ],
+    [ "boss_toravon", "dd/d8d/a21566.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
+    [ "GetAI", "dd/d8d/a21566.html#a6db140b1d232312300e20155830cb249", null ]
 ];

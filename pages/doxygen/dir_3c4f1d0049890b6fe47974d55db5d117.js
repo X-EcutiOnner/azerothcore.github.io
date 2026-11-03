@@ -1,9 +1,9 @@
 var dir_3c4f1d0049890b6fe47974d55db5d117 =
 [
-    [ "boss_archavon.cpp", "dc/d10/a01412.html", "dc/d10/a01412" ],
-    [ "boss_emalon.cpp", "d9/d6e/a01409.html", "d9/d6e/a01409" ],
-    [ "boss_koralon.cpp", "d4/d3c/a01418.html", "d4/d3c/a01418" ],
-    [ "boss_toravon.cpp", "d4/d20/a01421.html", "d4/d20/a01421" ],
-    [ "instance_vault_of_archavon.cpp", "de/d70/a01415.html", "de/d70/a01415" ],
-    [ "vault_of_archavon.h", "d5/da5/a01424.html", "d5/da5/a01424" ]
+    [ "boss_archavon.cpp", "dd/d78/a03980.html", "dd/d78/a03980" ],
+    [ "boss_emalon.cpp", "d9/d2b/a03977.html", "d9/d2b/a03977" ],
+    [ "boss_koralon.cpp", "d7/df2/a03986.html", "d7/df2/a03986" ],
+    [ "boss_toravon.cpp", "dd/d27/a03989.html", "dd/d27/a03989" ],
+    [ "instance_vault_of_archavon.cpp", "d1/de2/a03983.html", "d1/de2/a03983" ],
+    [ "vault_of_archavon.h", "d9/d0c/a03992.html", "d9/d0c/a03992" ]
 ];

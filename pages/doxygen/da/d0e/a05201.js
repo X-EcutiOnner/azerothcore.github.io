@@ -1,8 +1,9 @@
 var a05201 =
 [
-    [ "AutoBankItem", "d3/dae/a11030.html", "d3/dae/a11030" ],
-    [ "AutoStoreBankItem", "d9/d7c/a11034.html", "d9/d7c/a11034" ],
-    [ "BuyBankSlot", "d0/d6c/a11038.html", "d0/d6c/a11038" ],
-    [ "BuyBankSlotResult", "d3/d80/a11042.html", "d3/d80/a11042" ],
-    [ "ShowBank", "de/d25/a11046.html", "de/d25/a11046" ]
+    [ "Hello", "df/dda/a11550.html", "df/dda/a11550" ],
+    [ "TrainerBuyFailed", "d5/da0/a11566.html", "d5/da0/a11566" ],
+    [ "TrainerBuySpell", "d7/dc0/a11562.html", "d7/dc0/a11562" ],
+    [ "TrainerBuySucceeded", "db/d6c/a11570.html", "db/d6c/a11570" ],
+    [ "TrainerList", "d6/d63/a11558.html", "d6/d63/a11558" ],
+    [ "TrainerListSpell", "d6/d22/a11554.html", "d6/d22/a11554" ]
 ];

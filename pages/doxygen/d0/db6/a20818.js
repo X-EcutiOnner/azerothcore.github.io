@@ -1,9 +1,9 @@
 var a20818 =
 [
-    [ "OnApply", "d0/db6/a20818.html#aaf6e89fc5d101b1622666a6fe15f20e7", null ],
-    [ "OnRemove", "d0/db6/a20818.html#a9bfdefb3e212cca086dec752687e2b93", null ],
-    [ "OnRemoveSelf", "d0/db6/a20818.html#a3076446d6761263fdb7f973f01be3cf2", null ],
-    [ "PrepareAuraScript", "d0/db6/a20818.html#a685d6c0ffcc258f9d6857242cb28f6a8", null ],
-    [ "Register", "d0/db6/a20818.html#a1369972dfbf969cb39efa88075fc13df", null ],
-    [ "Validate", "d0/db6/a20818.html#ada8c858f70beb71765fd0f796209677b", null ]
+    [ "npc_ulduar_emergency_fire_bot", "d0/db6/a20818.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
+    [ "AttackStart", "d0/db6/a20818.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
+    [ "MoveInLineOfSight", "d0/db6/a20818.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
+    [ "MovementInform", "d0/db6/a20818.html#a6f7306e3da54511ddbef772044f76950", null ],
+    [ "UpdateAI", "d0/db6/a20818.html#a653df31873aca5acb86020cc1e14f4a0", null ],
+    [ "_events", "d0/db6/a20818.html#a99f051bd7a1136375103005f0615c4f2", null ]
 ];

@@ -1,6 +1,8 @@
 var a22050 =
 [
-    [ "npc_spiritual_insightAI", "df/dab/a22050.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "df/dab/a22050.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "df/dab/a22050.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "AfterApply", "df/dab/a22050.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "df/dab/a22050.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "df/dab/a22050.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "df/dab/a22050.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "df/dab/a22050.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

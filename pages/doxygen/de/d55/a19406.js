@@ -1,6 +1,9 @@
 var a19406 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d3/d67/a19410.html", "d3/d67/a19410" ],
-    [ "npc_icc_skybreaker_luminary", "de/d55/a19406.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "de/d55/a19406.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "npc_icc_severed_essenceAI", "de/d55/a19406.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "de/d55/a19406.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "de/d55/a19406.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "de/d55/a19406.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "de/d55/a19406.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "de/d55/a19406.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

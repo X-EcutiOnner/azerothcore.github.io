@@ -1,7 +1,7 @@
 var a03695 =
 [
-    [ "EMBLEM_PRICE", "d2/db4/a03695.html#a6e37f394008ea3eb20a46c84e03512a5", null ],
-    [ "MAX_GUILD_BANK_TAB_TEXT_LEN", "d2/db4/a03695.html#a458eaf87a56d0ac3d92187c55b14f437", null ],
-    [ "_GetGuildBankTabPrice", "d2/db4/a03695.html#a039068bd46d84b88b1a6a2fa0ae07b80", null ],
-    [ "_GetGuildEventString", "d2/db4/a03695.html#a8e9e4c2d24b387f386cf2d9c02996b59", null ]
+    [ "instance_eye_of_eternity", "d8/d4f/a19866.html", "d8/d4f/a19866" ],
+    [ "AddSC_instance_eye_of_eternity", "d2/db4/a03695.html#acd10e2ef086dd7938d397abc8ced1de3", null ],
+    [ "creatureData", "d2/db4/a03695.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "gameobjectData", "d2/db4/a03695.html#a845a92716bd40c99a93eb0715cd737b0", null ]
 ];

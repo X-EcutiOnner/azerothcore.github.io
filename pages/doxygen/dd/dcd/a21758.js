@@ -1,10 +1,8 @@
 var a21758 =
 [
-    [ "npc_lurgglbrAI", "dd/dcd/a21758.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "dd/dcd/a21758.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "dd/dcd/a21758.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "dd/dcd/a21758.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "WaypointReached", "dd/dcd/a21758.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "IntroPhase", "dd/dcd/a21758.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "dd/dcd/a21758.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "npc_mootoo_the_youngerAI", "dd/dcd/a21758.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "dd/dcd/a21758.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "dd/dcd/a21758.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "dd/dcd/a21758.html#ac758a992ed0d62a272930c84d617b348", null ],
+    [ "WaypointReached", "dd/dcd/a21758.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

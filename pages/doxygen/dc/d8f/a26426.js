@@ -1,6 +1,5 @@
 var a26426 =
 [
-    [ "OnPeriodic", "dc/d8f/a26426.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
-    [ "PrepareAuraScript", "dc/d8f/a26426.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
-    [ "Register", "dc/d8f/a26426.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
+    [ "PrepareSpellScript", "dc/d8f/a26426.html#a5f3b3fb1c42f21d309923e12f1272408", null ],
+    [ "Register", "dc/d8f/a26426.html#afc19789732c46589dca40d46cdb12d9e", null ]
 ];

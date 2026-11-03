@@ -1,6 +1,8 @@
 var a19294 =
 [
-    [ "OnRemove", "d9/d1c/a19294.html#a748868eb89f1fb3ccfec5ea9f8603168", null ],
-    [ "PrepareAuraScript", "d9/d1c/a19294.html#a9033a0ef5963800d13b898f7c02ff7b2", null ],
-    [ "Register", "d9/d1c/a19294.html#a7ac0cff5f8f918e7a61bbc600419d3c3", null ]
+    [ "CountTargets", "d9/d1c/a19294.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d9/d1c/a19294.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d9/d1c/a19294.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d9/d1c/a19294.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d9/d1c/a19294.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

@@ -1,6 +1,6 @@
 var a22330 =
 [
-    [ "ChangeSummonPos", "da/d45/a22330.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "da/d45/a22330.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "da/d45/a22330.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "npc_blessed_bannerAI", "d1/de6/a22334.html", "d1/de6/a22334" ],
+    [ "npc_blessed_banner", "da/d45/a22330.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "da/d45/a22330.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

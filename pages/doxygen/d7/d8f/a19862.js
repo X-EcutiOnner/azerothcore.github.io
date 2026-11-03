@@ -1,7 +1,6 @@
 var a19862 =
 [
-    [ "HandleScript", "d7/d8f/a19862.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
-    [ "Load", "d7/d8f/a19862.html#a94661c7652572b1671a611b35c8f68a7", null ],
-    [ "PrepareSpellScript", "d7/d8f/a19862.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
-    [ "Register", "d7/d8f/a19862.html#a09352bd458fe3dbeacea38c5104656ff", null ]
+    [ "HandleScript", "d7/d8f/a19862.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "d7/d8f/a19862.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "d7/d8f/a19862.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

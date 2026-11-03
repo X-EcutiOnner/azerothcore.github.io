@@ -1,7 +1,8 @@
 var a21702 =
 [
-    [ "npc_azure_spellbreaker", "dc/deb/a21702.html#ae884adc9619d3458d81a2029bd490893", null ],
-    [ "Reset", "dc/deb/a21702.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
-    [ "UpdateAI", "dc/deb/a21702.html#a938a93a71490bb42158e2215d125509f", null ],
-    [ "_events", "dc/deb/a21702.html#a9f526cff54cb949cc68046e7816c3c89", null ]
+    [ "HandleEffectRemove", "dc/deb/a21702.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "dc/deb/a21702.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "dc/deb/a21702.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "dc/deb/a21702.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "dc/deb/a21702.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

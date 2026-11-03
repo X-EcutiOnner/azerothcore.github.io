@@ -1,6 +1,8 @@
 var a21286 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d0/d9c/a21286.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d0/d9c/a21286.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d0/d9c/a21286.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "npc_ulduar_keeperAI", "db/d50/a21290.html", "db/d50/a21290" ],
+    [ "npc_ulduar_keeper", "d0/d9c/a21286.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "d0/d9c/a21286.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "d0/d9c/a21286.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "d0/d9c/a21286.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

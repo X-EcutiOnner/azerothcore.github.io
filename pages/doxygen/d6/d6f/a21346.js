@@ -1,5 +1,7 @@
 var a21346 =
 [
-    [ "npc_salvaged_siege_engine", "d6/d6f/a21346.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
-    [ "BeforeSpellClick", "d6/d6f/a21346.html#aed2500b2315b5e508ea3d06a2355d023", null ]
+    [ "HandleEffectPeriodic", "d6/d6f/a21346.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "d6/d6f/a21346.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "d6/d6f/a21346.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "d6/d6f/a21346.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

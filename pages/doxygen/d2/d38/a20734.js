@@ -1,6 +1,5 @@
 var a20734 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "d2/d38/a20734.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "d2/d38/a20734.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "d2/d38/a20734.html#ad863666aec3db81f73165148ffc98033", null ]
+    [ "achievement_kologarn_looks_could_kill", "d2/d38/a20734.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
+    [ "OnCheck", "d2/d38/a20734.html#a0e7be4fb00808fab9a231530822fc93d", null ]
 ];

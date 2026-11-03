@@ -1,8 +1,8 @@
 var a31447 =
 [
-    [ "ConfigPolicy", "dd/d9c/a05530.html", "dd/d9c/a05530" ],
-    [ "ConfigMgr", "dd/d66/a05534.html", "dd/d66/a05534" ],
-    [ "ConfigException", "df/de9/a05538.html", "df/de9/a05538" ],
+    [ "ConfigPolicy", "dd/d66/a05534.html", "dd/d66/a05534" ],
+    [ "ConfigMgr", "df/de9/a05538.html", "df/de9/a05538" ],
+    [ "ConfigException", "dc/df9/a05542.html", "dc/df9/a05542" ],
     [ "sConfigMgr", "d8/d45/a31447.html#a7236988e98bdd405bf435a029b70a26f", null ],
     [ "ConfigSeverity", "d8/d45/a31447.html#a05eaca858744a1f9f0e309e7867383e3", [
       [ "Skip", "d8/d45/a31447.html#a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c", null ],

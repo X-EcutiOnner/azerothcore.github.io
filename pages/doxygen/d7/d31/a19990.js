@@ -1,15 +1,12 @@
 var a19990 =
 [
-    [ "boss_varosAI", "d7/d31/a19990.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
-    [ "EnterEvadeMode", "d7/d31/a19990.html#a0b7eeef4529b47357d729852cdeab002", null ],
-    [ "JustDied", "d7/d31/a19990.html#a2724167a66a059e1c0ca1612d8405d68", null ],
-    [ "JustEngagedWith", "d7/d31/a19990.html#a2f25555ca2884f6bffb289d209e87740", null ],
-    [ "JustSummoned", "d7/d31/a19990.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
-    [ "MoveInLineOfSight", "d7/d31/a19990.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
-    [ "Reset", "d7/d31/a19990.html#aef24d04954a26bb6381c860403e84288", null ],
-    [ "UpdateAI", "d7/d31/a19990.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
-    [ "events", "d7/d31/a19990.html#a36746118770c936e7606962365e102d8", null ],
-    [ "pInstance", "d7/d31/a19990.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
-    [ "step", "d7/d31/a19990.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
-    [ "ZapAngle", "d7/d31/a19990.html#aef225fcf580c5e500d3242ac4be24260", null ]
+    [ "npc_oculus_drakeAI", "d7/d31/a19990.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "d7/d31/a19990.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "d7/d31/a19990.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "d7/d31/a19990.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "d7/d31/a19990.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "d7/d31/a19990.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "d7/d31/a19990.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "d7/d31/a19990.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "d7/d31/a19990.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

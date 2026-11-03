@@ -1,9 +1,8 @@
 var a20382 =
 [
-    [ "npc_thorims_hammer", "d2/db7/a20382.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
-    [ "Reset", "d2/db7/a20382.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
-    [ "UpdateAI", "d2/db7/a20382.html#a006414298b31eb0cfb964916298d66ce", null ],
-    [ "_beamTimer", "d2/db7/a20382.html#adcd5af2b86d1d8f119514f799c42444b", null ],
-    [ "_finishTime", "d2/db7/a20382.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
-    [ "_removeTimer", "d2/db7/a20382.html#a7b9a2435b0953c12e693c562193d45e0", null ]
+    [ "OnApply", "d2/db7/a20382.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "d2/db7/a20382.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "d2/db7/a20382.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "d2/db7/a20382.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "d2/db7/a20382.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

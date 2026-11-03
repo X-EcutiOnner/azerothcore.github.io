@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/OutdoorPvP/OutdoorPvPHP.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Debugging/Errors.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,133 +105,116 @@ $(document).ready(function(){initNavTree('d0/d1c/a00605.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">OutdoorPvPHP.cpp File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">Errors.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">OutdoorPvPHP.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Language.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OutdoorPvP.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OutdoorPvPScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code><br />
+
+<p>This file contains definitions of functions used for reporting critical application errors.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Errors.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
+<code>#include &lt;cstdio&gt;</code><br />
+<code>#include &lt;cstdlib&gt;</code><br />
+<code>#include &lt;thread&gt;</code><br />
+<code>#include &lt;Windows.h&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/de6/a22738.html">OutdoorPvP_hellfire_peninsula</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:dd/d48/a05150"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d48/a05150.html">anonymous_namespace{Errors.cpp}</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a510bae7d9948cf497418ec913452009f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a00605.html#a510bae7d9948cf497418ec913452009f">Crash</a>(message)</td></tr>
+<tr class="separator:a510bae7d9948cf497418ec913452009f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a69303ad6f661d8c009ee493dc4fd486c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a00605.html#a69303ad6f661d8c009ee493dc4fd486c">AddSC_outdoorpvp_hp</a> ()</td></tr>
-<tr class="separator:a69303ad6f661d8c009ee493dc4fd486c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a1b9adf9c71e549e4545c2e4eabe58dd5"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d6/d8c/a04703.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a00605.html#a1b9adf9c71e549e4545c2e4eabe58dd5">HP_LANG_LOSE_A</a> [<a class="el" href="../../dd/d5c/a00578.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa4a382fdb49373e799df7d0d4c5038cfc">LANG_OPVP_HP_LOSE_BROKENHILL_A</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aac18f6b6a8b913516c783eb59f681e342">LANG_OPVP_HP_LOSE_OVERLOOK_A</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0695be5d71d2f34e1a1c00e82ef3f6c7">LANG_OPVP_HP_LOSE_STADIUM_A</a>}</td></tr>
-<tr class="separator:a1b9adf9c71e549e4545c2e4eabe58dd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad62cd8f07ac98311202494985c6ae9c8"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d6/d8c/a04703.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a00605.html#ad62cd8f07ac98311202494985c6ae9c8">HP_LANG_LOSE_H</a> [<a class="el" href="../../dd/d5c/a00578.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa996cd269237345a150b1d3f515bc532d">LANG_OPVP_HP_LOSE_BROKENHILL_H</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aabb59c690a2e446813962864ac0298e2c">LANG_OPVP_HP_LOSE_OVERLOOK_H</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0396b3db257950761b8566bc9ee01e5d">LANG_OPVP_HP_LOSE_STADIUM_H</a>}</td></tr>
-<tr class="separator:ad62cd8f07ac98311202494985c6ae9c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a642fe1233b764402bae812604b684442"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d6/d8c/a04703.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a00605.html#a642fe1233b764402bae812604b684442">HP_LANG_CAPTURE_A</a> [<a class="el" href="../../dd/d5c/a00578.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf7540451db390db8352dec697fc65071">LANG_OPVP_HP_CAPTURE_BROKENHILL_A</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa8a37b197dce9ba00d5369b975e34bcb7">LANG_OPVP_HP_CAPTURE_OVERLOOK_A</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aaefa2f6990f1dc5483aa7e2f167c960ab">LANG_OPVP_HP_CAPTURE_STADIUM_A</a>}</td></tr>
-<tr class="separator:a642fe1233b764402bae812604b684442"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3ae9bb2c949b7f3c852ce2e4552d8ccd"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d6/d8c/a04703.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a00605.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd">HP_LANG_CAPTURE_H</a> [<a class="el" href="../../dd/d5c/a00578.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa522b2ad6f827741ff7bc9458f2d173fb">LANG_OPVP_HP_CAPTURE_BROKENHILL_H</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa43b42305880c4dd783546dfedfa60fec">LANG_OPVP_HP_CAPTURE_OVERLOOK_H</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa8682039909aeb6ca600b569d8a12c51c">LANG_OPVP_HP_CAPTURE_STADIUM_H</a>}</td></tr>
-<tr class="separator:a3ae9bb2c949b7f3c852ce2e4552d8ccd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29601d3ea684d75bac9c331eb4866951"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a00605.html#a29601d3ea684d75bac9c331eb4866951">GetDebugInfo</a> ()</td></tr>
+<tr class="separator:a29601d3ea684d75bac9c331eb4866951"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr><td colspan="2"><div class="groupHeader">MakeMessage</div></td></tr>
+<tr><td colspan="2"><div class="groupText"><p >Make message for display erros</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">messageType</td><td>Message type (ASSERTION FAILED, FATAL ERROR, ERROR) end etc </td></tr>
+    <tr><td class="paramname">file</td><td>Path to file </td></tr>
+    <tr><td class="paramname">line</td><td>Line number in file </td></tr>
+    <tr><td class="paramname">function</td><td>Functionn name </td></tr>
+    <tr><td class="paramname">message</td><td><a class="el" href="../../db/de7/a08366.html">Condition</a> to string format </td></tr>
+    <tr><td class="paramname">fmtMessage</td><td>[optional] Display format message after condition </td></tr>
+    <tr><td class="paramname">debugInfo</td><td>[optional] Display debug info </td></tr>
+  </table>
+  </dd>
+</dl>
+</div></td></tr>
+<tr class="memitem:a31219fe016a9b170fc6ae111157ba552"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d48/a05150.html#a31219fe016a9b170fc6ae111157ba552">anonymous_namespace{Errors.cpp}::MakeMessage</a> (std::string_view messageType, std::string_view file, <a class="el" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> line, std::string_view function, std::string_view message, std::string_view fmtMessage={}, std::string_view debugInfo={})</td></tr>
+<tr class="separator:a31219fe016a9b170fc6ae111157ba552"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr><td colspan="2"><div class="groupHeader">MakeAbortMessage</div></td></tr>
+<tr><td colspan="2"><div class="groupText"><p >Make message for display erros</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">file</td><td>Path to file </td></tr>
+    <tr><td class="paramname">line</td><td>Line number in file </td></tr>
+    <tr><td class="paramname">function</td><td>Functionn name </td></tr>
+    <tr><td class="paramname">fmtMessage</td><td>[optional] Display format message after condition </td></tr>
+  </table>
+  </dd>
+</dl>
+</div></td></tr>
+<tr class="memitem:a52b8a43ee2424672ac8de45dcc283eda"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d48/a05150.html#a52b8a43ee2424672ac8de45dcc283eda">anonymous_namespace{Errors.cpp}::MakeAbortMessage</a> (std::string_view file, <a class="el" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> line, std::string_view function, std::string_view fmtMessage={})</td></tr>
+<tr class="separator:a52b8a43ee2424672ac8de45dcc283eda"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a69303ad6f661d8c009ee493dc4fd486c" name="a69303ad6f661d8c009ee493dc4fd486c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a69303ad6f661d8c009ee493dc4fd486c">&#9670;&#160;</a></span>AddSC_outdoorpvp_hp()</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >This file contains definitions of functions used for reporting critical application errors. </p>
+<p >It is very important that (std::)abort is NEVER called in place of *((volatile int*)nullptr) = 0; Calling abort() on Windows does not invoke unhandled exception filters - a mechanism used by <a class="el" href="../../d4/dc8/a05622.html">WheatyExceptionReport</a> to log crashes. exit(1) calls here are for static analysis tools to indicate that calling functions defined in this file terminates the application. </p>
+
+<p class="definition">Definition in file <a class="el" href="../../">Errors.cpp</a>.</p>
+</div><h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a510bae7d9948cf497418ec913452009f" name="a510bae7d9948cf497418ec913452009f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a510bae7d9948cf497418ec913452009f">&#9670;&#160;</a></span>Crash</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_outdoorpvp_hp </td>
+          <td class="memname">#define Crash</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">message</td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Value:</b><div class="fragment"><div class="line">    ULONG_PTR execeptionArgs[] = { <span class="keyword">reinterpret_cast&lt;</span>ULONG_PTR<span class="keyword">&gt;</span>(strdup(message)), <span class="keyword">reinterpret_cast&lt;</span>ULONG_PTR<span class="keyword">&gt;</span>(_ReturnAddress()) }; \</div>
+<div class="line">    RaiseException(<a class="code hl_define" href="../../d7/d80/a00614.html#adb1e581c0b1db74338cf2892218ff23f">EXCEPTION_ASSERTION_FAILURE</a>, 0, 2, execeptionArgs);</div>
+<div class="ttc" id="aa00614_html_adb1e581c0b1db74338cf2892218ff23f"><div class="ttname"><a href="../../d7/d80/a00614.html#adb1e581c0b1db74338cf2892218ff23f">EXCEPTION_ASSERTION_FAILURE</a></div><div class="ttdeci">#define EXCEPTION_ASSERTION_FAILURE</div><div class="ttdef"><b>Definition:</b> Errors.h:73</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a29601d3ea684d75bac9c331eb4866951" name="a29601d3ea684d75bac9c331eb4866951"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a29601d3ea684d75bac9c331eb4866951">&#9670;&#160;</a></span>GetDebugInfo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string GetDebugInfo </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  374</span>{</div>
-<div class="line"><span class="lineno">  375</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/de6/a22738.html">OutdoorPvP_hellfire_peninsula</a>();</div>
-<div class="line"><span class="lineno">  376</span>}</div>
-<div class="ttc" id="aa22738_html"><div class="ttname"><a href="../../d0/de6/a22738.html">OutdoorPvP_hellfire_peninsula</a></div><div class="ttdef"><b>Definition:</b> OutdoorPvPHP.cpp:360</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  158</span>{</div>
+<div class="line"><span class="lineno">  159</span>    <span class="keywordflow">return</span> <span class="stringliteral">&quot;&quot;</span>;</div>
+<div class="line"><span class="lineno">  160</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00029">AddOutdoorPvPScripts()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a642fe1233b764402bae812604b684442" name="a642fe1233b764402bae812604b684442"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a642fe1233b764402bae812604b684442">&#9670;&#160;</a></span>HP_LANG_CAPTURE_A</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d6/d8c/a04703.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> HP_LANG_CAPTURE_A[<a class="el" href="../../dd/d5c/a00578.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf7540451db390db8352dec697fc65071">LANG_OPVP_HP_CAPTURE_BROKENHILL_A</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa8a37b197dce9ba00d5369b975e34bcb7">LANG_OPVP_HP_CAPTURE_OVERLOOK_A</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aaefa2f6990f1dc5483aa7e2f167c960ab">LANG_OPVP_HP_CAPTURE_STADIUM_A</a>}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00174">OPvPCapturePointHP::ChangeState()</a>.</p>
-
-</div>
-</div>
-<a id="a3ae9bb2c949b7f3c852ce2e4552d8ccd" name="a3ae9bb2c949b7f3c852ce2e4552d8ccd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3ae9bb2c949b7f3c852ce2e4552d8ccd">&#9670;&#160;</a></span>HP_LANG_CAPTURE_H</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d6/d8c/a04703.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> HP_LANG_CAPTURE_H[<a class="el" href="../../dd/d5c/a00578.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa522b2ad6f827741ff7bc9458f2d173fb">LANG_OPVP_HP_CAPTURE_BROKENHILL_H</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa43b42305880c4dd783546dfedfa60fec">LANG_OPVP_HP_CAPTURE_OVERLOOK_H</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa8682039909aeb6ca600b569d8a12c51c">LANG_OPVP_HP_CAPTURE_STADIUM_H</a>}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00174">OPvPCapturePointHP::ChangeState()</a>.</p>
-
-</div>
-</div>
-<a id="a1b9adf9c71e549e4545c2e4eabe58dd5" name="a1b9adf9c71e549e4545c2e4eabe58dd5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1b9adf9c71e549e4545c2e4eabe58dd5">&#9670;&#160;</a></span>HP_LANG_LOSE_A</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d6/d8c/a04703.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> HP_LANG_LOSE_A[<a class="el" href="../../dd/d5c/a00578.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa4a382fdb49373e799df7d0d4c5038cfc">LANG_OPVP_HP_LOSE_BROKENHILL_A</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aac18f6b6a8b913516c783eb59f681e342">LANG_OPVP_HP_LOSE_OVERLOOK_A</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0695be5d71d2f34e1a1c00e82ef3f6c7">LANG_OPVP_HP_LOSE_STADIUM_A</a>}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00174">OPvPCapturePointHP::ChangeState()</a>.</p>
-
-</div>
-</div>
-<a id="ad62cd8f07ac98311202494985c6ae9c8" name="ad62cd8f07ac98311202494985c6ae9c8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad62cd8f07ac98311202494985c6ae9c8">&#9670;&#160;</a></span>HP_LANG_LOSE_H</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d6/d8c/a04703.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> HP_LANG_LOSE_H[<a class="el" href="../../dd/d5c/a00578.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355">HP_TOWER_NUM</a>] = {<a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa996cd269237345a150b1d3f515bc532d">LANG_OPVP_HP_LOSE_BROKENHILL_H</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aabb59c690a2e446813962864ac0298e2c">LANG_OPVP_HP_LOSE_OVERLOOK_H</a>, <a class="el" href="../../de/d27/a03002.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0396b3db257950761b8566bc9ee01e5d">LANG_OPVP_HP_LOSE_STADIUM_H</a>}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00174">OPvPCapturePointHP::ChangeState()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -239,8 +222,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ad9d2bd1e1e418dea010d25c4d4f5d3.html">OutdoorPvP</a></li><li class="navelem"><a class="el" href="../../d0/d1c/a00605.html">OutdoorPvPHP.cpp</a></li>
-    <li class="footer">Generated on Tue Oct 27 2026 00:03:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_6c98940a6e08261f1f635365628c2cb0.html">Debugging</a></li><li class="navelem"><a class="el" href="../../d0/d1c/a00605.html">Errors.cpp</a></li>
+    <li class="footer">Generated on Tue Nov 3 2026 02:35:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

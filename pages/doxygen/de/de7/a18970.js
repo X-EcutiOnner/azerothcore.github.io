@@ -1,8 +1,6 @@
 var a18970 =
 [
-    [ "npc_lk_spirit_bombAI", "de/de7/a18970.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "de/de7/a18970.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "de/de7/a18970.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "de/de7/a18970.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "de/de7/a18970.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "ManaVoidSelector", "de/de7/a18970.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "de/de7/a18970.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "de/de7/a18970.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

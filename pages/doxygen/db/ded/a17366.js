@@ -1,7 +1,7 @@
 var a17366 =
 [
-    [ "HandleEffectRemove", "db/ded/a17366.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "db/ded/a17366.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "db/ded/a17366.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "db/ded/a17366.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "HandlePeriodicTick", "db/ded/a17366.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "db/ded/a17366.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "db/ded/a17366.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "db/ded/a17366.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

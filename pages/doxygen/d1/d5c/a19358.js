@@ -1,7 +1,6 @@
 var a19358 =
 [
-    [ "OnRemove", "d1/d5c/a19358.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
-    [ "PrepareAuraScript", "d1/d5c/a19358.html#acf654e563f47df9ad033d7080f47662b", null ],
-    [ "Register", "d1/d5c/a19358.html#aad4497ba7cad48b9547e8696714d8c23", null ],
-    [ "Validate", "d1/d5c/a19358.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d5/dca/a19362.html", "d5/dca/a19362" ],
+    [ "npc_icc_skybreaker_hierophant", "d1/d5c/a19358.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "d1/d5c/a19358.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

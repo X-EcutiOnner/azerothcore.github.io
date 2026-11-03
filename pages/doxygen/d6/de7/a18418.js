@@ -1,6 +1,9 @@
 var a18418 =
 [
-    [ "npc_putricide_mutated_abomination", "d6/de7/a18418.html#ae8aa90f98296c10cbbb54570304892ca", null ],
-    [ "AttackStart", "d6/de7/a18418.html#a4ab01c14094f37de91591ff3a81e5c23", null ],
-    [ "UpdateAI", "d6/de7/a18418.html#a84e6eed6db698c6dfa0a2e73c30c1505", null ]
+    [ "CheckProc", "d6/de7/a18418.html#a1e80f3dcae020f3101c4338785744d8e", null ],
+    [ "HandleExtraEffect", "d6/de7/a18418.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "HandleProc", "d6/de7/a18418.html#a934cd14224650754f068810270fa11f2", null ],
+    [ "PrepareAuraScript", "d6/de7/a18418.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d6/de7/a18418.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d6/de7/a18418.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

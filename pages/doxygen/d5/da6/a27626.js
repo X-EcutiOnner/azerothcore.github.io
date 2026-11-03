@@ -1,6 +1,8 @@
 var a27626 =
 [
-    [ "HandleAfterCast", "d5/da6/a27626.html#aacd4954973c8157ca65958b9ec08155b", null ],
-    [ "PrepareSpellScript", "d5/da6/a27626.html#a45629d348275833930bc5180e9a347f9", null ],
-    [ "Register", "d5/da6/a27626.html#a9c43529cea77a4be86048616ebc64b2c", null ]
+    [ "CheckProc", "d5/da6/a27626.html#a1ab8a38c4d78bd53a4dc3c1452c309a2", null ],
+    [ "PrepareAuraScript", "d5/da6/a27626.html#a14e5c6cd509f8c9f93e185c8ca9d6001", null ],
+    [ "Register", "d5/da6/a27626.html#a79a79a3d7d45eb6bf0a284aadb4cb0d0", null ],
+    [ "WasUsedByMutilate", "d5/da6/a27626.html#a58924c10a44b57f1b64d4b06955749b0", null ],
+    [ "_usedByMutilate", "d5/da6/a27626.html#a9ad38f8799f3e8ae82421e51e97bfbb6", null ]
 ];

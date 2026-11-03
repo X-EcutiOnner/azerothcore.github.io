@@ -1,6 +1,6 @@
 var a27402 =
 [
-    [ "HandleDummy", "db/d33/a27402.html#a73628636431d3549d6e3530c6ef23c08", null ],
-    [ "PrepareSpellScript", "db/d33/a27402.html#ab90d3031b356e8004fa62c9562f1ba1f", null ],
-    [ "Register", "db/d33/a27402.html#a7f42cf47831d3c8544453530a1454ddc", null ]
+    [ "HandleTriggerSpell", "db/d33/a27402.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "db/d33/a27402.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "db/d33/a27402.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

@@ -1,8 +1,6 @@
 var a18182 =
 [
-    [ "HandlePeriodic", "dc/def/a18182.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "dc/def/a18182.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "dc/def/a18182.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "dc/def/a18182.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "dc/def/a18182.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "IgbExplosionCheck", "dc/def/a18182.html#ae67cca111f26a275614810cbe053bcd8", null ],
+    [ "operator()", "dc/def/a18182.html#a28ce6685366e99db2aa1e4022012f943", null ],
+    [ "_source", "dc/def/a18182.html#a413ee8f2218621d274d118aea967dc9b", null ]
 ];

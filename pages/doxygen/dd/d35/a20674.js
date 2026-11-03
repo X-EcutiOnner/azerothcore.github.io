@@ -1,5 +1,7 @@
 var a20674 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "dd/d35/a20674.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "dd/d35/a20674.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "HandleEffectPeriodic", "dd/d35/a20674.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "dd/d35/a20674.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "dd/d35/a20674.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "dd/d35/a20674.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

@@ -1,8 +1,12 @@
 var a20302 =
 [
-    [ "OnPeriodic", "d0/da8/a20302.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "d0/da8/a20302.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "d0/da8/a20302.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "d0/da8/a20302.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "d0/da8/a20302.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "npc_auriaya_feral_defender", "d0/da8/a20302.html#a84425204b0ad06789edb331ed8495774", null ],
+    [ "DamageTaken", "d0/da8/a20302.html#aaebbf27345a546bf66e4ab7ed8eae556", null ],
+    [ "DoAction", "d0/da8/a20302.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
+    [ "JustDied", "d0/da8/a20302.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
+    [ "JustEngagedWith", "d0/da8/a20302.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
+    [ "JustSummoned", "d0/da8/a20302.html#acea3175bcd4df4cf88dc9561c01bee64", null ],
+    [ "Reset", "d0/da8/a20302.html#a02b09b7dfdd4036827bb474a57296491", null ],
+    [ "UpdateAI", "d0/da8/a20302.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
+    [ "_summons", "d0/da8/a20302.html#a0b7960f590ba76068c377cf08291ce35", null ]
 ];

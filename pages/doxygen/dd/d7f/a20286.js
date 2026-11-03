@@ -1,12 +1,5 @@
 var a20286 =
 [
-    [ "npc_assembly_lightning", "dd/d7f/a20286.html#a8fcec558ec18de7bd9545779ded9e909", null ],
-    [ "AttackStart", "dd/d7f/a20286.html#a140d4166e99c223b674e55b67d709613", null ],
-    [ "EnterEvadeMode", "dd/d7f/a20286.html#a287f1e4fad8c8a046acc15952e2cb0b9", null ],
-    [ "MoveInLineOfSight", "dd/d7f/a20286.html#a3b3ec1402907a84c0ec17522568348c6", null ],
-    [ "MovementInform", "dd/d7f/a20286.html#a3117383b1d3bce6a3bbc8445e5ea7a71", null ],
-    [ "OnCharmed", "dd/d7f/a20286.html#a72e93f6e1ca82e82f8f3cc051f0f1345", null ],
-    [ "Reset", "dd/d7f/a20286.html#aee99895b9c4d1b5f4d1a2ae7f4bd09a8", null ],
-    [ "UpdateAI", "dd/d7f/a20286.html#a0ae73d6c38064d80a7297045f2b829dd", null ],
-    [ "_boomed", "dd/d7f/a20286.html#a13074c840c7e4dc94a2b30741f62ec00", null ]
+    [ "achievement_cant_do_that_while_stunned", "dd/d7f/a20286.html#a4d474b36f61631688ea723d2e4033574", null ],
+    [ "OnCheck", "dd/d7f/a20286.html#a0b108bdcab0bc412975e61247f226bf8", null ]
 ];

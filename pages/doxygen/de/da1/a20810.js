@@ -1,9 +1,13 @@
 var a20810 =
 [
-    [ "npc_ulduar_bot_summon_trigger", "de/da1/a20810.html#a16d36c154b6851c0081cc05f838b0fed", null ],
-    [ "DoAction", "de/da1/a20810.html#a776782a85892d2d674773573be25bfa0", null ],
-    [ "Reset", "de/da1/a20810.html#a4ec8487028b188347cf0c9a080076fe6", null ],
-    [ "UpdateAI", "de/da1/a20810.html#a788d3eaba382e3af897678f6709a0242", null ],
-    [ "_option", "de/da1/a20810.html#a39c909b67fcdc81542470b6e96256fd5", null ],
-    [ "_timer", "de/da1/a20810.html#a2530742a19275efe92eeded4dce67567", null ]
+    [ "npc_ulduar_flames_initial", "de/da1/a20810.html#ac0ba4a5631f580b23be30f6d19545a1f", null ],
+    [ "DoAction", "de/da1/a20810.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
+    [ "GetMimironAI", "de/da1/a20810.html#a173f3b895907e518625b62c08831c1ef", null ],
+    [ "RemoveAll", "de/da1/a20810.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
+    [ "RemoveFlame", "de/da1/a20810.html#ad676a542b40b554027fc2ab491fa083d", null ],
+    [ "SpreadFlame", "de/da1/a20810.html#af50c950610f5277a755d1786b596b9d7", null ],
+    [ "UpdateAI", "de/da1/a20810.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
+    [ "_createTime", "de/da1/a20810.html#aa73a9fa2110bd5abdff9b509e13ce333", null ],
+    [ "_events", "de/da1/a20810.html#a0f99d43d373b61e9c665bd6c0d389afb", null ],
+    [ "_flameList", "de/da1/a20810.html#a50a26001f8bfe87a3a4f1feb544cf521", null ]
 ];

@@ -1,9 +1,7 @@
 var a24790 =
 [
-    [ "CheckCast", "da/dbb/a24790.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "da/dbb/a24790.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "da/dbb/a24790.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "da/dbb/a24790.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "da/dbb/a24790.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "da/dbb/a24790.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "CheckClass", "da/dbb/a24790.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
+    [ "HandleScript", "da/dbb/a24790.html#a4f4f7004be5629efdc48b52b6667edba", null ],
+    [ "PrepareSpellScript", "da/dbb/a24790.html#a599ce758681c5196bd40e4c7b86635cc", null ],
+    [ "Register", "da/dbb/a24790.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
 ];

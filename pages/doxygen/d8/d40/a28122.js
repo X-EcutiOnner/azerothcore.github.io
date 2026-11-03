@@ -1,7 +1,12 @@
 var a28122 =
 [
-    [ "HandleGlyph", "d8/d40/a28122.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
-    [ "PrepareSpellScript", "d8/d40/a28122.html#adffd8b39adef397a886a66465e09f68b", null ],
-    [ "Register", "d8/d40/a28122.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
-    [ "Validate", "d8/d40/a28122.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
+    [ "CheckProc", "d8/d40/a28122.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
+    [ "HandleApply", "d8/d40/a28122.html#aaa07858f0604965fad5c1189125a822b", null ],
+    [ "HandleProc", "d8/d40/a28122.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
+    [ "HandleRemove", "d8/d40/a28122.html#a3da984d172878110b77549b51409d7e0", null ],
+    [ "Load", "d8/d40/a28122.html#a644aaf343b41f049f34ff7387c613bf1", null ],
+    [ "PrepareAuraScript", "d8/d40/a28122.html#aea23ff608c74017d98edcc146d3ba35a", null ],
+    [ "Register", "d8/d40/a28122.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
+    [ "Validate", "d8/d40/a28122.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
+    [ "_procTargetGUID", "d8/d40/a28122.html#a88833abe90e8753336b7dc178b98f703", null ]
 ];

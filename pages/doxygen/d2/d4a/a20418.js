@@ -1,5 +1,7 @@
 var a20418 =
 [
-    [ "FlameLeviathanPursuedTargetSelector", "d2/d4a/a20418.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
-    [ "operator()", "d2/d4a/a20418.html#aaa2a49366fb651f7486b463ce597f364", null ]
+    [ "HandleScript", "d2/d4a/a20418.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d2/d4a/a20418.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d2/d4a/a20418.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d2/d4a/a20418.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

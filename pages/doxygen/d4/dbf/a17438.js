@@ -1,13 +1,11 @@
 var a17438 =
 [
-    [ "boss_falric", "d4/dbf/a17438.html#ad157b74477a84d13ab1a5bd5d9275d17", null ],
-    [ "DoAction", "d4/dbf/a17438.html#a9acd7854d725b07df53ae60538df27b1", null ],
-    [ "EnterEvadeMode", "d4/dbf/a17438.html#addda2f3fe13801f533069c8e5b83cdbd", null ],
-    [ "JustDied", "d4/dbf/a17438.html#a4ade4a16095031988e2ae50602cd0da8", null ],
-    [ "JustEngagedWith", "d4/dbf/a17438.html#a68c6b3012bbb1e7542c9b4db2f596463", null ],
-    [ "KilledUnit", "d4/dbf/a17438.html#aa53d57dee3482ac2d186ecfdf4fa232d", null ],
-    [ "Reset", "d4/dbf/a17438.html#aa8c392ab5c6463e4061e381d2a6586ab", null ],
-    [ "UpdateAI", "d4/dbf/a17438.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a", null ],
-    [ "_hopelessnessCount", "d4/dbf/a17438.html#aaf36f9748993381c39b6b26bdfa33dca", null ],
-    [ "_startingFight", "d4/dbf/a17438.html#a099280eb7f2b40df3fbecfa9fe35fac4", null ]
+    [ "npc_phantom_mage", "d4/dbf/a17438.html#a96702110e1bd587aaa88a076773cac72", null ],
+    [ "AttackStart", "d4/dbf/a17438.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
+    [ "DoAction", "d4/dbf/a17438.html#a8adf87e600eeab3678f369ab48b73927", null ],
+    [ "EnterEvadeMode", "d4/dbf/a17438.html#a270f664ad9545f672405d051d1a8932a", null ],
+    [ "JustDied", "d4/dbf/a17438.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
+    [ "JustEngagedWith", "d4/dbf/a17438.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
+    [ "Reset", "d4/dbf/a17438.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
+    [ "UpdateAI", "d4/dbf/a17438.html#a919416fd6b52060e271e79afaaf14085", null ]
 ];

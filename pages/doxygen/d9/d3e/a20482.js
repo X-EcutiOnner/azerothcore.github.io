@@ -1,28 +1,7 @@
 var a20482 =
 [
-    [ "boss_freya", "d9/d3e/a20482.html#a5379adaaa876662bcc6ffcd38cfc59bb", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d9/d3e/a20482.html#a195b0021b1ac0274884fb2106ee8d85d", null ],
-    [ "DamageTaken", "d9/d3e/a20482.html#a8ba5d1999e8f4ae7fb240436771d6c39", null ],
-    [ "DoAction", "d9/d3e/a20482.html#a099f983a17e002990aaecbb0995bb3b0", null ],
-    [ "GetData", "d9/d3e/a20482.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
-    [ "JustEngagedWith", "d9/d3e/a20482.html#a85a00b03079df9ce9b8fa035820c959b", null ],
-    [ "JustReachedHome", "d9/d3e/a20482.html#a577c8714fef829a57533c1cfbd400dc0", null ],
-    [ "KilledUnit", "d9/d3e/a20482.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
-    [ "MovementInform", "d9/d3e/a20482.html#a80b5910abe85c2f1350c5f91aabd3fa4", null ],
-    [ "Reset", "d9/d3e/a20482.html#abadf6447f33116039e82065ce44f4322", null ],
-    [ "SpawnWave", "d9/d3e/a20482.html#af1f486e8725a2710b237fe233f7fe181", null ],
-    [ "SpellHit", "d9/d3e/a20482.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
-    [ "SpellHitTarget", "d9/d3e/a20482.html#a22c4097731727de032fd6db3c9cef7cf", null ],
-    [ "UpdateAI", "d9/d3e/a20482.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
-    [ "_aliveAddsCount", "d9/d3e/a20482.html#a2994fd85d4fc14c93b5dd3b6113fe80b", null ],
-    [ "_backToNature", "d9/d3e/a20482.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
-    [ "_currentSetId", "d9/d3e/a20482.html#aca780e90cf50f2c08ca2faef14bbbe86", null ],
-    [ "_currentTrioDown", "d9/d3e/a20482.html#aaae6a69564a7de262bcb8b8c55fd1c7b", null ],
-    [ "_deforestation", "d9/d3e/a20482.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
-    [ "_elderGUID", "d9/d3e/a20482.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
-    [ "_lumberjacked", "d9/d3e/a20482.html#aa35101951b2d47848b69170ab36ae414", null ],
-    [ "_setPermutation", "d9/d3e/a20482.html#a987265a1775e47ac50e873c38cc1a753", null ],
-    [ "_spawnedAmount", "d9/d3e/a20482.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
-    [ "_trioDown", "d9/d3e/a20482.html#afbf5fcebd50f968b1171c443818a3949", null ],
-    [ "_trioWaveEndSetId", "d9/d3e/a20482.html#ae7842858d4ae9a9d4eee44c9cd86a23e", null ]
+    [ "boss_freya_healthy_spore", "d9/d3e/a20482.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "d9/d3e/a20482.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "d9/d3e/a20482.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "d9/d3e/a20482.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

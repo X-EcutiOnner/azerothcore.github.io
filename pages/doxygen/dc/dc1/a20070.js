@@ -1,7 +1,12 @@
 var a20070 =
 [
-    [ "HandleOnEffectApply", "dc/dc1/a20070.html#a4841f7a44f5df964c4eb9965383fd747", null ],
-    [ "PrepareAuraScript", "dc/dc1/a20070.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
-    [ "Register", "dc/dc1/a20070.html#a68fba646552678744f49d10b59704a35", null ],
-    [ "Validate", "dc/dc1/a20070.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
+    [ "boss_loken", "dc/dc1/a20070.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
+    [ "JustDied", "dc/dc1/a20070.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
+    [ "JustEngagedWith", "dc/dc1/a20070.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
+    [ "KilledUnit", "dc/dc1/a20070.html#a85ae3094927f7484216b44582f9a2bf6", null ],
+    [ "MoveInLineOfSight", "dc/dc1/a20070.html#ac9f3115629e5595d06c213d3e04afa68", null ],
+    [ "OnAuraRemove", "dc/dc1/a20070.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
+    [ "Reset", "dc/dc1/a20070.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
+    [ "ScheduleTasks", "dc/dc1/a20070.html#a600e211be40226679212a7078b26f3ed", null ],
+    [ "_introDone", "dc/dc1/a20070.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
 ];

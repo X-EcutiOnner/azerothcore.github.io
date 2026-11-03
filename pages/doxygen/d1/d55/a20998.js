@@ -1,5 +1,24 @@
 var a20998 =
 [
-    [ "go_thorim_lever", "d1/d55/a20998.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "d1/d55/a20998.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "boss_xt002", "d1/d55/a20998.html#af0d0a5c5bf06431e1fea6e17eb8b2598", null ],
+    [ "ChangeNextExpose", "d1/d55/a20998.html#a028ffc2154403f0e6569f3ffe4bc5312", null ],
+    [ "DisposeHeart", "d1/d55/a20998.html#a44e48a0168213a05f44eef61706fb51d", null ],
+    [ "DoAction", "d1/d55/a20998.html#a5a385912ba3cd39a0bc37139b691992a", null ],
+    [ "EnterEvadeMode", "d1/d55/a20998.html#ab26314d28056446e206d3839a5badff7", null ],
+    [ "ExposeHeart", "d1/d55/a20998.html#a6faa25629e12a242b38eec74e434ed16", null ],
+    [ "GetData", "d1/d55/a20998.html#a7ae6062be8330b21296b05720fe7b99a", null ],
+    [ "Initialize", "d1/d55/a20998.html#aa94cf49381e47338d1b2cfeebc2ec92c", null ],
+    [ "JustDied", "d1/d55/a20998.html#a4afb96f905e61c8b35941a8481e19882", null ],
+    [ "JustEngagedWith", "d1/d55/a20998.html#a97470dbcc43d0f98fda4fcb9a70bb296", null ],
+    [ "KilledUnit", "d1/d55/a20998.html#add12c0faea7346cfa62d1f600b8a7068", null ],
+    [ "MovementInform", "d1/d55/a20998.html#ad2ad9c50ebad8b23c08818cd7c7b88e1", null ],
+    [ "PassengerBoarded", "d1/d55/a20998.html#a7c2c48a83f48107f2beee753f1fcc6b8", null ],
+    [ "RescheduleEvents", "d1/d55/a20998.html#a3ff4223b4eecab9c8b193cd5f63d8f50", null ],
+    [ "Reset", "d1/d55/a20998.html#a0d33da735deae0fb5a22c4f7d6b19fa2", null ],
+    [ "SetData", "d1/d55/a20998.html#ac4ae43822c935c3ce1820bdc96d6ed2b", null ],
+    [ "UpdateAI", "d1/d55/a20998.html#a326eb111c3d94e1bb57e9fe6e1f38c57", null ],
+    [ "_exposeHeartPercent", "d1/d55/a20998.html#a1a24dd0088c00994d8f0d0eb748a37fa", null ],
+    [ "_gravityBombCasualty", "d1/d55/a20998.html#a0d6ff56b5b3655fc0f8ca96a0e55efcc", null ],
+    [ "_hardMode", "d1/d55/a20998.html#a2882a78918439bbc63902cab0179049c", null ],
+    [ "_healthRecovered", "d1/d55/a20998.html#a756db24bed94e455ed0576c2b5261afd", null ]
 ];

@@ -1,7 +1,6 @@
 var a22090 =
 [
-    [ "OnRemove", "db/d79/a22090.html#a335bc64860227122e0536f61144e2003", null ],
-    [ "PrepareAuraScript", "db/d79/a22090.html#ae38bdeb74493f73bed1246c011bb2076", null ],
-    [ "Register", "db/d79/a22090.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
-    [ "Validate", "db/d79/a22090.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
+    [ "npc_ravenous_worgAI", "d3/d7e/a22094.html", "d3/d7e/a22094" ],
+    [ "npc_ravenous_worg", "db/d79/a22090.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "db/d79/a22090.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

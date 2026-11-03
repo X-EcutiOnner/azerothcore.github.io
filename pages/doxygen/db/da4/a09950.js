@@ -1,8 +1,8 @@
 var a09950 =
 [
-    [ "AllCreaturesOfEntryInRange", "db/da4/a09950.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
-    [ "operator()", "db/da4/a09950.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
-    [ "m_fRange", "db/da4/a09950.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
-    [ "m_pObject", "db/da4/a09950.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
-    [ "m_uiEntry", "db/da4/a09950.html#abf653360d2ee482728fb137a37fe0512", null ]
+    [ "AllGameObjectsMatchingOneEntryInRange", "db/da4/a09950.html#ad64e96c8484be1354ad4a3c0b6754d95", null ],
+    [ "operator()", "db/da4/a09950.html#afc81f329be9d6d8eb8bfd2ade94c5665", null ],
+    [ "m_fRange", "db/da4/a09950.html#aa76b1a6c8a919c1e5b37c74b33859464", null ],
+    [ "m_pObject", "db/da4/a09950.html#ac2bae147199d0b1b592a560017128c4e", null ],
+    [ "m_uiEntries", "db/da4/a09950.html#a3eb95fd72147ab8195da44a46c2cf0e6", null ]
 ];

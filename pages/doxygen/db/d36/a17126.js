@@ -1,8 +1,8 @@
 var a17126 =
 [
-    [ "npc_toc_pet_warlockAI", "db/d36/a17126.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
-    [ "EnterEvadeMode", "db/d36/a17126.html#a62219f63e82fc67f63db2cbd713647a0", null ],
-    [ "myCanCast", "db/d36/a17126.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
-    [ "UpdateAI", "db/d36/a17126.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
-    [ "events", "db/d36/a17126.html#a8edadebd7e6660041233a24fb07173bf", null ]
+    [ "npc_fel_infernal", "db/d36/a17126.html#a4d8f956193efd148948b48892fb47240", null ],
+    [ "EnterEvadeMode", "db/d36/a17126.html#a3a8ed8a9636f1002de3ef896575e033d", null ],
+    [ "JustDied", "db/d36/a17126.html#ac4dbf210111940e8e88b4112252d1a61", null ],
+    [ "Reset", "db/d36/a17126.html#a5618a5a696352d802bc1ec200768bd4f", null ],
+    [ "UpdateAI", "db/d36/a17126.html#a06f75ff314cd55b307f5c00a6254b409", null ]
 ];

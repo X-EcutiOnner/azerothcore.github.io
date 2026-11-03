@@ -1,10 +1,14 @@
 var a01331 =
 [
-    [ "instance_trial_of_the_crusader", "d3/df0/a17270.html", "d3/df0/a17270" ],
-    [ "instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript", "dc/d7c/a17274.html", "dc/d7c/a17274" ],
-    [ "InstanceMisc", "dc/d8e/a01331.html#a051557b3d6e020ae9d3322350657d974", [
-      [ "VEHICLE_SNOBOLD_CARRIER", "dc/d8e/a01331.html#a051557b3d6e020ae9d3322350657d974ad99ce5dca445596a19708d1a27e90458", null ]
-    ] ],
-    [ "AddSC_instance_trial_of_the_crusader", "dc/d8e/a01331.html#af823cabf441f9e6a5443da42df4fda4f", null ],
-    [ "validDedicatedInsanityItems", "dc/d8e/a01331.html#ad29a01125872f689fb9953e9b3beb8e8", null ]
+    [ "DatabaseScript", "de/de2/a10858.html", "de/de2/a10858" ],
+    [ "DatabaseHook", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707e", [
+      [ "DATABASEHOOK_ON_AFTER_DATABASES_LOADED", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707ea669793dd5bb736daf7bf4e7a57422171", null ],
+      [ "DATABASEHOOK_ON_AFTER_DATABASE_LOAD_CREATURETEMPLATES", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707ea5da0ac4b05308347ca9a69286153d974", null ],
+      [ "DATABASEHOOK_ON_MODULE_DATABASES_LOADING", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707ea3e4b4c302d32dd5148107942c6786405", null ],
+      [ "DATABASEHOOK_ON_MODULE_DATABASES_KEEPALIVE", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707eac7d7207b9239e153df824bc6dd58d816", null ],
+      [ "DATABASEHOOK_ON_MODULE_DATABASES_CLOSING", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707ea642bce2e95802e8d078b36b5595e9be6", null ],
+      [ "DATABASEHOOK_ON_DATABASE_WARN_ABOUT_SYNC_QUERIES", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707eaba48d9e2b4a034a812a90cc0daa438df", null ],
+      [ "DATABASEHOOK_ON_DATABASE_GET_DB_REVISION", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707eaf7b857fe3022dde98e883ae35cfea79a", null ],
+      [ "DATABASEHOOK_END", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04", null ]
+    ] ]
 ];

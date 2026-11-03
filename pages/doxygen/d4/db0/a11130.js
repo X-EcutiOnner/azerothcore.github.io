@@ -1,6 +1,8 @@
 var a11130 =
 [
-    [ "QueryGuildInfo", "d4/db0/a11130.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
-    [ "Read", "d4/db0/a11130.html#a0396a58ca114706f7de91f51c5ab949d", null ],
-    [ "GuildId", "d4/db0/a11130.html#ad221eecdb16233251306fff3d9801f38", null ]
+    [ "SAttackStop", "d4/db0/a11130.html#ad3ca327e00c9df8d947cdda3eb2f5eb3", null ],
+    [ "Write", "d4/db0/a11130.html#ae2143b20488064400c306004ee678a89", null ],
+    [ "Attacker", "d4/db0/a11130.html#a18e66148dc50a7ea7f98a57a122285ee", null ],
+    [ "NowDead", "d4/db0/a11130.html#a25cd247bb50f752c3230ad4b5f777b2d", null ],
+    [ "Victim", "d4/db0/a11130.html#a9ca02aaaab5d223a64f8ba0cec320e8e", null ]
 ];

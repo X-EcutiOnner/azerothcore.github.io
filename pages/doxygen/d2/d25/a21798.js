@@ -1,9 +1,6 @@
 var a21798 =
 [
-    [ "npc_warmage_coldarraAI", "d2/d25/a21798.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d2/d25/a21798.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d2/d25/a21798.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d2/d25/a21798.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d2/d25/a21798.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d2/d25/a21798.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "PrepareSpellScript", "d2/d25/a21798.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "d2/d25/a21798.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "d2/d25/a21798.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

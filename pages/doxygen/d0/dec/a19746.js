@@ -1,6 +1,6 @@
 var a19746 =
 [
-    [ "boss_razuviousAI", "d5/da3/a19750.html", "d5/da3/a19750" ],
-    [ "boss_razuvious", "d0/dec/a19746.html#ac1a2942f4a7957c671b075df7bf20215", null ],
-    [ "GetAI", "d0/dec/a19746.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
+    [ "FilterTargets", "d0/dec/a19746.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
+    [ "PrepareSpellScript", "d0/dec/a19746.html#a452937a4e95b40366f915213ec475a84", null ],
+    [ "Register", "d0/dec/a19746.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
 ];

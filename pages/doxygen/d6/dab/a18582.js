@@ -1,7 +1,10 @@
 var a18582 =
 [
-    [ "IceTombSummonEvent", "d6/dab/a18582.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
-    [ "Execute", "d6/dab/a18582.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
-    [ "_owner", "d6/dab/a18582.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
-    [ "_sindragosaGUID", "d6/dab/a18582.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
+    [ "CountTargets", "d6/dab/a18582.html#a042c3f2ee73533b397a2d697d1da6563", null ],
+    [ "HandleDummy", "d6/dab/a18582.html#ab314680d5349c0c3e449694b92ab7311", null ],
+    [ "Load", "d6/dab/a18582.html#a534e9f5ee9aa29603cfc205c2c2d580f", null ],
+    [ "PrepareSpellScript", "d6/dab/a18582.html#a8b831c01cd9fd997279f6a81170786de", null ],
+    [ "Register", "d6/dab/a18582.html#ab0d87ba23eb252075cb0779b06813a31", null ],
+    [ "SelectDest", "d6/dab/a18582.html#a6061486d0067af51c8ef079224ea63f1", null ],
+    [ "_targetCount", "d6/dab/a18582.html#a58f839370a885c450e6742cbb3116784", null ]
 ];

@@ -1,12 +1,9 @@
 var a16966 =
 [
-    [ "npc_swarm_scarabAI", "d6/def/a16966.html#a0d0cefd52543044773e7df772f90fd37", null ],
-    [ "CanAIAttack", "d6/def/a16966.html#a95a27742f4f7fa1af45964b6270a9558", null ],
-    [ "DoAction", "d6/def/a16966.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
-    [ "JustDied", "d6/def/a16966.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
-    [ "JustEngagedWith", "d6/def/a16966.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
-    [ "Reset", "d6/def/a16966.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
-    [ "UpdateAI", "d6/def/a16966.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
-    [ "despawnTimer", "d6/def/a16966.html#a6d35e43af695ac112b972badb665f06d", null ],
-    [ "determinationTimer", "d6/def/a16966.html#af319dbf16bc1d3939602465f0a87d30c", null ]
+    [ "npc_nerubian_burrower", "d6/def/a16966.html#a96428a4055118095f7c2b0ab4e063054", null ],
+    [ "CanAIAttack", "d6/def/a16966.html#ade7030411eb85b20d07404694a5c41c2", null ],
+    [ "JustDied", "d6/def/a16966.html#af794402d834b71978ae1c88ac2b52b3d", null ],
+    [ "Reset", "d6/def/a16966.html#a70945d16bdd038309f3b58671f129438", null ],
+    [ "SpellHitTarget", "d6/def/a16966.html#ab833e2b54bea430e53005c3dffc3708f", null ],
+    [ "UpdateAI", "d6/def/a16966.html#a1df6012393ca33782234254190327413", null ]
 ];

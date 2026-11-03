@@ -1,6 +1,9 @@
 var a18878 =
 [
-    [ "ModDest", "d2/d86/a18878.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "d2/d86/a18878.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "d2/d86/a18878.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "HandleScript", "d2/d86/a18878.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "d2/d86/a18878.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "d2/d86/a18878.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "d2/d86/a18878.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "d2/d86/a18878.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "d2/d86/a18878.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

@@ -1,22 +1,9 @@
 var a10014 =
 [
-    [ "PlayerVote", "d0/dcf/a10014.html#a9b86264db334335ec202909fc7130b77", null ],
-    [ "Roll", "d0/dcf/a10014.html#af5484bd16d8ac5f6d8040d3828fcecf4", null ],
-    [ "~Roll", "d0/dcf/a10014.html#a843879734a9c86a97d7f26b672f37f2a", null ],
-    [ "getLoot", "d0/dcf/a10014.html#af0c8c87b3fa9cd45cf51e774123d3b58", null ],
-    [ "setLoot", "d0/dcf/a10014.html#a34869ee15d87708859cd51262ad160fc", null ],
-    [ "targetObjectBuildLink", "d0/dcf/a10014.html#a2dc422a05158521f857caf7dce005f72", null ],
-    [ "itemCount", "d0/dcf/a10014.html#a5fd409d3f3748d38aefc9731544e7257", null ],
-    [ "itemGUID", "d0/dcf/a10014.html#af4877388e7efe95452541a3d2788fa7f", null ],
-    [ "itemid", "d0/dcf/a10014.html#a7b40118e2d489177a268301636b9994f", null ],
-    [ "itemRandomPropId", "d0/dcf/a10014.html#a5154a19624a6e0d9657a697f9b235491", null ],
-    [ "itemRandomSuffix", "d0/dcf/a10014.html#acfd3e2d5fb152a9848e6e4fe47111bad", null ],
-    [ "itemSlot", "d0/dcf/a10014.html#a6e170a8296949cd76baa7992f30a61d6", null ],
-    [ "lootedInRaid", "d0/dcf/a10014.html#a5403864d8517e8a4c276506ec52c2a5f", null ],
-    [ "playerVote", "d0/dcf/a10014.html#aff97626c4d749bf0acbd165f289b5a57", null ],
-    [ "rollVoteMask", "d0/dcf/a10014.html#a9c86d54397c4ce46d691e77cc476ffe6", null ],
-    [ "totalGreed", "d0/dcf/a10014.html#a6187dd03a275f9e51d489709c9cf6d13", null ],
-    [ "totalNeed", "d0/dcf/a10014.html#ae02ba19cfd317143e839cd4a3751a3eb", null ],
-    [ "totalPass", "d0/dcf/a10014.html#aeeac3fb83c410a3d256c0cbf45f48e95", null ],
-    [ "totalPlayersRolling", "d0/dcf/a10014.html#a6a6ea6885bc68272520c018a83b2106f", null ]
+    [ "WorldPacketList", "d0/dcf/a10014.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
+    [ "LocalizedPacketListDo", "d0/dcf/a10014.html#ab52133e238752f725f18580018a84cd2", null ],
+    [ "~LocalizedPacketListDo", "d0/dcf/a10014.html#a8442452027bcb5c98d60830e016803b5", null ],
+    [ "operator()", "d0/dcf/a10014.html#adea9610e36d436563ba1f472481aed85", null ],
+    [ "i_builder", "d0/dcf/a10014.html#a83bda52b10d30f7fd633c285b79e740b", null ],
+    [ "i_data_cache", "d0/dcf/a10014.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
 ];

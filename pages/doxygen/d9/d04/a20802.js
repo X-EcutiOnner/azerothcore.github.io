@@ -1,13 +1,8 @@
 var a20802 =
 [
-    [ "npc_ulduar_mimiron_rocket", "d9/d04/a20802.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
-    [ "GetGUID", "d9/d04/a20802.html#ad8415989fc73f29462ee1787508ec033", null ],
-    [ "InitializeAI", "d9/d04/a20802.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
-    [ "Reset", "d9/d04/a20802.html#a982da2f2392882a86e72de4c4769fa41", null ],
-    [ "SetGUID", "d9/d04/a20802.html#aa9945bc616b99d242a4f8ec1320f8612", null ],
-    [ "UpdateAI", "d9/d04/a20802.html#a20a914900db345aa00a9e640bc5b1baf", null ],
-    [ "_events", "d9/d04/a20802.html#a823d53f96e82b0a89a62c57d84eaad29", null ],
-    [ "_strikeTrigger", "d9/d04/a20802.html#a9da436d0769e8ae067a523bc2e4551cc", null ],
-    [ "_strikeVictim", "d9/d04/a20802.html#a550ce28cd2fe93e262633c9c686c8b7f", null ],
-    [ "_travelMs", "d9/d04/a20802.html#a2740bdfe8f7f6909e9fcdf1e800d4eb3", null ]
+    [ "HandleEffectApply", "d9/d04/a20802.html#a9b4ef881ded9d7b1e4cbdf61af70cdeb", null ],
+    [ "HandleEffectPeriodic", "d9/d04/a20802.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "HandleEffectRemove", "d9/d04/a20802.html#a5750666947a5899d7ef46678eadb4872", null ],
+    [ "PrepareAuraScript", "d9/d04/a20802.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "d9/d04/a20802.html#a524c071390365b7dab59bc7a79b50f15", null ]
 ];

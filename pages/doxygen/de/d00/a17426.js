@@ -1,6 +1,8 @@
 var a17426 =
 [
-    [ "entry", "de/d00/a17426.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "de/d00/a17426.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "de/d00/a17426.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "npc_hor_leaderAI", "d4/d6d/a17430.html", "d4/d6d/a17430" ],
+    [ "npc_hor_leader", "de/d00/a17426.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
+    [ "GetAI", "de/d00/a17426.html#a55e7357aa6dff1efdff08541e88413e9", null ],
+    [ "OnGossipHello", "de/d00/a17426.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
+    [ "OnGossipSelect", "de/d00/a17426.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
 ];

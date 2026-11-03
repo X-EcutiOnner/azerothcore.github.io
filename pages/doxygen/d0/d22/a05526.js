@@ -1,5 +1,5 @@
 var a05526 =
 [
-    [ "argument_type", "d0/d22/a05526.html#ad0011a133ce27e947c35917314e60693", null ],
-    [ "result_type", "d0/d22/a05526.html#a6dcbf6789c1565b95f16de3d580118a9", null ]
+    [ "full", "d0/d22/a05526.html#a62a82e17a7803142e3fbff5b34e855b1", null ],
+    [ "shortName", "d0/d22/a05526.html#aedab6fab8d5a3ce69c65723935f51ec6", null ]
 ];

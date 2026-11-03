@@ -1,17 +1,17 @@
 var dir_a5c81565c813a087452a284baefe3cb6 =
 [
-    [ "spell_dk.cpp", "da/d36/a00650.html", "da/d36/a00650" ],
-    [ "spell_druid.cpp", "db/d3a/a00641.html", "db/d3a/a00641" ],
-    [ "spell_generic.cpp", "d1/daa/a00638.html", "d1/daa/a00638" ],
-    [ "spell_hunter.cpp", "d6/dfa/a00626.html", "d6/dfa/a00626" ],
-    [ "spell_item.cpp", "dc/df2/a00656.html", "dc/df2/a00656" ],
-    [ "spell_mage.cpp", "de/ddd/a00653.html", "de/ddd/a00653" ],
-    [ "spell_paladin.cpp", "dc/d4d/a00620.html", "dc/d4d/a00620" ],
-    [ "spell_priest.cpp", "d9/d0f/a00644.html", "d9/d0f/a00644" ],
-    [ "spell_quest.cpp", "da/dd1/a00629.html", "da/dd1/a00629" ],
-    [ "spell_rogue.cpp", "df/d6f/a00623.html", "df/d6f/a00623" ],
-    [ "spell_shaman.cpp", "d4/d2a/a00632.html", "d4/d2a/a00632" ],
-    [ "spell_warlock.cpp", "d4/d10/a00635.html", "d4/d10/a00635" ],
-    [ "spell_warrior.cpp", "d3/d8e/a00647.html", "d3/d8e/a00647" ],
-    [ "spells_script_loader.cpp", "dc/d91/a00659.html", "dc/d91/a00659" ]
+    [ "spell_dk.cpp", "dc/db7/a05105.html", "dc/db7/a05105" ],
+    [ "spell_druid.cpp", "dd/d15/a05117.html", "dd/d15/a05117" ],
+    [ "spell_generic.cpp", "d3/d8f/a05099.html", "d3/d8f/a05099" ],
+    [ "spell_hunter.cpp", "d2/d78/a05087.html", "d2/d78/a05087" ],
+    [ "spell_item.cpp", "d5/d80/a05114.html", "d5/d80/a05114" ],
+    [ "spell_mage.cpp", "dd/d94/a05102.html", "dd/d94/a05102" ],
+    [ "spell_paladin.cpp", "dd/df7/a05111.html", "dd/df7/a05111" ],
+    [ "spell_priest.cpp", "db/d29/a05096.html", "db/d29/a05096" ],
+    [ "spell_quest.cpp", "dd/dbd/a05090.html", "dd/dbd/a05090" ],
+    [ "spell_rogue.cpp", "d0/d7d/a05120.html", "d0/d7d/a05120" ],
+    [ "spell_shaman.cpp", "d5/d56/a05084.html", "d5/d56/a05084" ],
+    [ "spell_warlock.cpp", "d3/df5/a05093.html", "d3/df5/a05093" ],
+    [ "spell_warrior.cpp", "d5/d65/a05081.html", "d5/d65/a05081" ],
+    [ "spells_script_loader.cpp", "d7/d18/a05108.html", "d7/d18/a05108" ]
 ];

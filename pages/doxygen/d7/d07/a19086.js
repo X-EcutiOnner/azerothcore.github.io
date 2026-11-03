@@ -1,9 +1,8 @@
 var a19086 =
 [
-    [ "npc_gluttonous_abominationAI", "d7/d07/a19086.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
-    [ "JustDied", "d7/d07/a19086.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
-    [ "JustSummoned", "d7/d07/a19086.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
-    [ "Reset", "d7/d07/a19086.html#a45588181429a74ac024e0390c76fa57a", null ],
-    [ "UpdateAI", "d7/d07/a19086.html#a33ef03a9f005ff187493275a9c2683a7", null ],
-    [ "_events", "d7/d07/a19086.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
+    [ "FilterTargets", "d7/d07/a19086.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
+    [ "HandleForceCast", "d7/d07/a19086.html#ae783cf255be823bf7c9125f288479e97", null ],
+    [ "Load", "d7/d07/a19086.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
+    [ "PrepareSpellScript", "d7/d07/a19086.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
+    [ "Register", "d7/d07/a19086.html#a454a8909be4bb85f255ea696041ea447", null ]
 ];

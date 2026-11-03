@@ -1,7 +1,6 @@
 var a17370 =
 [
-    [ "HandleScriptEffect", "de/d5f/a17370.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "de/d5f/a17370.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "de/d5f/a17370.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "de/d5f/a17370.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "FilterTargets", "de/d5f/a17370.html#a36879a2920f43562bb0ff89c76d758e4", null ],
+    [ "PrepareSpellScript", "de/d5f/a17370.html#afeb95c5fe970ebc147d509981b026e98", null ],
+    [ "Register", "de/d5f/a17370.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
 ];

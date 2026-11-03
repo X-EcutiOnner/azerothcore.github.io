@@ -1,11 +1,9 @@
 var a17462 =
 [
-    [ "npc_phantom_mage", "d4/da1/a17462.html#a96702110e1bd587aaa88a076773cac72", null ],
-    [ "AttackStart", "d4/da1/a17462.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
-    [ "DoAction", "d4/da1/a17462.html#a8adf87e600eeab3678f369ab48b73927", null ],
-    [ "EnterEvadeMode", "d4/da1/a17462.html#a270f664ad9545f672405d051d1a8932a", null ],
-    [ "JustDied", "d4/da1/a17462.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
-    [ "JustEngagedWith", "d4/da1/a17462.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
-    [ "Reset", "d4/da1/a17462.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
-    [ "UpdateAI", "d4/da1/a17462.html#a919416fd6b52060e271e79afaaf14085", null ]
+    [ "npc_hor_spiritual_reflection", "d4/da1/a17462.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
+    [ "EnterEvadeMode", "d4/da1/a17462.html#a3973e83b013df723849939635071324f", null ],
+    [ "JustDied", "d4/da1/a17462.html#a913d17e1534a5940b7841e38eae246f7", null ],
+    [ "JustEngagedWith", "d4/da1/a17462.html#ad47d12654c88cc94b7c17906e4096115", null ],
+    [ "Reset", "d4/da1/a17462.html#aa7dad28bbe53286ec298ba5480717e69", null ],
+    [ "UpdateAI", "d4/da1/a17462.html#a5093b6502bca95c22b2b0f0117f86047", null ]
 ];

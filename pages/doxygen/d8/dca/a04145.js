@@ -1,5 +1,5 @@
 var a04145 =
 [
-    [ "ForeachMaps", "d8/dca/a04145.html#a899f6a046cdda33d737030dd4923ca7d", null ],
-    [ "ScriptRegistry< AllMapScript >", "d8/dca/a04145.html#ada370fef23e6d206da686c8bb6149104", null ]
+    [ "reset_commandscript", "de/d2e/a12710.html", "de/d2e/a12710" ],
+    [ "AddSC_reset_commandscript", "d8/dca/a04145.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ]
 ];

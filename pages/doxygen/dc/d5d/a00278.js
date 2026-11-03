@@ -1,9 +1,12 @@
 var a00278 =
 [
-    [ "instance_shattered_halls", "d8/d38/a23902.html", "d8/d38/a23902" ],
-    [ "instance_shattered_halls::instance_shattered_halls_InstanceMapScript", "db/dbb/a23906.html", "db/dbb/a23906" ],
-    [ "at_shattered_halls_execution", "d3/d1f/a23910.html", "d3/d1f/a23910" ],
-    [ "AddSC_instance_shattered_halls", "dc/d5d/a00278.html#a206458c4d90391b7cb2b182c06ad6360", null ],
-    [ "creatureData", "dc/d5d/a00278.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "dc/d5d/a00278.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "anonymous_namespace{SpellProcUnitIntegrationTest.cpp}::ProcUnitIntegrationTest", "dc/d6e/a30274.html", null ],
+    [ "TEST_F", "dc/d5d/a00278.html#a3c2cf023118b4939342706355b5e3e23", null ],
+    [ "TEST_F", "dc/d5d/a00278.html#ad84a5e69b6f67e38d1c68e8989c4866b", null ],
+    [ "TEST_F", "dc/d5d/a00278.html#af655f32c4514784ce9762bb70cc3c2c7", null ],
+    [ "TEST_F", "dc/d5d/a00278.html#ae192d86d9338d6a40d63f550aec90a8f", null ],
+    [ "TEST_F", "dc/d5d/a00278.html#a1929ed44e3386e34aa9bd16b20887dcc", null ],
+    [ "TEST_F", "dc/d5d/a00278.html#a772a9c946c01ce64847b8ae7108c9212", null ],
+    [ "TEST_F", "dc/d5d/a00278.html#ae1ef31a59c0fd17158536e77cece700f", null ],
+    [ "TEST_F", "dc/d5d/a00278.html#a9cbe352cb80b486be5d4757e72bc1440", null ]
 ];

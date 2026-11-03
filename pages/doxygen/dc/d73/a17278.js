@@ -1,6 +1,7 @@
 var a17278 =
 [
-    [ "boss_dredAI", "d7/dbc/a17282.html", "d7/dbc/a17282" ],
-    [ "boss_dred", "dc/d73/a17278.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "dc/d73/a17278.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "HandleScriptEffect", "dc/d73/a17278.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "dc/d73/a17278.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "dc/d73/a17278.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "dc/d73/a17278.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

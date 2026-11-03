@@ -1,11 +1,13 @@
 var a05236 =
 [
-    [ "OmenOfClarityGlyphLockTest", "d8/d53/a30102.html", "d8/d53/a30102" ],
-    [ "TestOocPlayerScript", "d2/df1/a30098.html", "d2/df1/a30098" ],
-    [ "TEST_F", "dd/d1a/a05236.html#aad251365da79c581dfd771c07e08a849", null ],
-    [ "TEST_F", "dd/d1a/a05236.html#a4722da81a67d7591147f462b57ebd1e5", null ],
-    [ "TEST_F", "dd/d1a/a05236.html#a4dbab8c4aad98a9d7a180aa0900d811e", null ],
-    [ "TEST_F", "dd/d1a/a05236.html#aa1f3de6a8cef69842c080eca3d39fd62", null ],
-    [ "OOC_LOCKED_SLOT_BIT", "dd/d1a/a05236.html#a8c8ee271438dfdfb1361e57c07c7b890", null ],
-    [ "s_testOocEnabled", "dd/d1a/a05236.html#a0fd5f656624a7c48c5e042c0f1572004", null ]
+    [ "ObjectScaleTest", "d5/d51/a30074.html", "d5/d51/a30074" ],
+    [ "TEST_F", "dd/d1a/a05236.html#aa5aa44be6039b8695994a97ec667e8fa", null ],
+    [ "TEST_F", "dd/d1a/a05236.html#a086cf119ffcb58f9c6d2134491310551", null ],
+    [ "TEST_F", "dd/d1a/a05236.html#a0a78b530065c99e85b3c8b5804d1488a", null ],
+    [ "TEST_F", "dd/d1a/a05236.html#a38d16bdf3530185bf8c98c79573c89ac", null ],
+    [ "TEST_F", "dd/d1a/a05236.html#a1c54f8d09a11bf27d7ea389bbd16b081", null ],
+    [ "NATIVE_DISPLAY_ID", "dd/d1a/a05236.html#ae37b441d94993f71ac32b017e69c6697", null ],
+    [ "OTHER_DISPLAY_ID", "dd/d1a/a05236.html#a6dc2f14cc4e00c868cc86334c05a825b", null ],
+    [ "SCALE_AURA_PCT", "dd/d1a/a05236.html#a0a2b93887ec02aa6f474b56bd77ad3f2", null ],
+    [ "SCALE_AURA_SPELL_ID", "dd/d1a/a05236.html#a8b2d3f9053a7e6d732c947eb874420ad", null ]
 ];

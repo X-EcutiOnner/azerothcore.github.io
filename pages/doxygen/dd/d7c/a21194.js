@@ -1,6 +1,8 @@
 var a21194 =
 [
-    [ "FilterTargets", "dd/d7c/a21194.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "dd/d7c/a21194.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "dd/d7c/a21194.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "Absorb", "dd/d7c/a21194.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "dd/d7c/a21194.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "dd/d7c/a21194.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "dd/d7c/a21194.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "dd/d7c/a21194.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

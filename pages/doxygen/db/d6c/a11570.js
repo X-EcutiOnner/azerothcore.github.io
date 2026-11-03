@@ -1,6 +1,7 @@
 var a11570 =
 [
-    [ "InvalidStringValueException", "db/d6c/a11570.html#a4b5442d97f2bc8005cb20eefa6c13dc8", null ],
-    [ "GetInvalidValue", "db/d6c/a11570.html#a5ef59243610de6d0a9db22ddb9cd7bdd", null ],
-    [ "_value", "db/d6c/a11570.html#a8a8c86a63c34789ab7cce999455eb4bb", null ]
+    [ "TrainerBuySucceeded", "db/d6c/a11570.html#ae00367a55429030c107fc8f6bb7db288", null ],
+    [ "Write", "db/d6c/a11570.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
+    [ "SpellID", "db/d6c/a11570.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
+    [ "TrainerGUID", "db/d6c/a11570.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
 ];

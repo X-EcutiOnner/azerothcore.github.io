@@ -1,6 +1,5 @@
 var a18966 =
 [
-    [ "npc_lk_spirit_bombAI", "de/de7/a18970.html", "de/de7/a18970" ],
-    [ "npc_lk_spirit_bomb", "df/d71/a18966.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "df/d71/a18966.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "achievement_neck_deep_in_vile", "df/d71/a18966.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "df/d71/a18966.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

@@ -1,6 +1,6 @@
 var a18118 =
 [
-    [ "npc_zafod_boomboxAI", "da/dbe/a18122.html", "da/dbe/a18122" ],
-    [ "npc_zafod_boombox", "de/d37/a18118.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
-    [ "GetAI", "de/d37/a18118.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
+    [ "npc_gunship_boarding_leaderAI", "da/dbe/a18122.html", "da/dbe/a18122" ],
+    [ "npc_gunship_boarding_leader", "de/d37/a18118.html#a8390eadab34a89643252f573588b140a", null ],
+    [ "GetAI", "de/d37/a18118.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
 ];

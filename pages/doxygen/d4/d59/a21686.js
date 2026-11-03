@@ -1,7 +1,8 @@
 var a21686 =
 [
-    [ "npc_azure_binder", "d4/d59/a21686.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
-    [ "Reset", "d4/d59/a21686.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
-    [ "UpdateAI", "d4/d59/a21686.html#add9f304212a1a10267e564cd939f3751", null ],
-    [ "_events", "d4/d59/a21686.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
+    [ "npc_azure_sorceror", "d4/d59/a21686.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
+    [ "Reset", "d4/d59/a21686.html#af4bc0ff9b938302c399bff528dd06769", null ],
+    [ "UpdateAI", "d4/d59/a21686.html#a36675e89aab24a92589a33f88fbec2bd", null ],
+    [ "_arcaneStreamOnCooldown", "d4/d59/a21686.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
+    [ "_events", "d4/d59/a21686.html#a3bd018057b31c90afd19ac6943d44591", null ]
 ];

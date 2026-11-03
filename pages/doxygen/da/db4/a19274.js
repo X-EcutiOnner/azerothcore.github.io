@@ -1,5 +1,9 @@
 var a19274 =
 [
-    [ "npc_darkfallen_advisor", "da/db4/a19274.html#a99b3fd829e0a9e62a78f5e750d1a5369", null ],
-    [ "ScheduleSpells", "da/db4/a19274.html#aab9175d674273b19071e595354bb195c", null ]
+    [ "FilterTargets", "da/db4/a19274.html#a3acf306a9cae592d93a909ee0162777f", null ],
+    [ "HandleMirror", "da/db4/a19274.html#aa37be5d7e140afe7ad9ef51b5d173b98", null ],
+    [ "PrepareSpellScript", "da/db4/a19274.html#a5344b059a1e2543e0da03dfce3d36bf4", null ],
+    [ "Register", "da/db4/a19274.html#a7e90d4e97a3e9a07edd6a482e8faa5c7", null ],
+    [ "Validate", "da/db4/a19274.html#a0e3138957535ddfebe25aa44d917d942", null ],
+    [ "_targets", "da/db4/a19274.html#a93afed08cf6714c896d2619e0fa0536f", null ]
 ];

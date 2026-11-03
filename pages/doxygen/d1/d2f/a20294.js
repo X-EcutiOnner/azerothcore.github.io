@@ -1,7 +1,8 @@
 var a20294 =
 [
-    [ "OnRemove", "d1/d2f/a20294.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d1/d2f/a20294.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d1/d2f/a20294.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d1/d2f/a20294.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "npc_auriaya_sanctum_sentry", "d1/d2f/a20294.html#ae5ed159c476c8b4569de7e2730edf447", null ],
+    [ "JustDied", "d1/d2f/a20294.html#a553aa98a00fd8999578d71911f231bb2", null ],
+    [ "JustEngagedWith", "d1/d2f/a20294.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
+    [ "Reset", "d1/d2f/a20294.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
+    [ "UpdateAI", "d1/d2f/a20294.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
 ];

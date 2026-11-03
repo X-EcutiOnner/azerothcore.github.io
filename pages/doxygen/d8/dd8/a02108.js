@@ -1,6 +1,6 @@
 var a02108 =
 [
-    [ "instance_maraudon", "d5/d2b/a15526.html", "d5/d2b/a15526" ],
-    [ "instance_maraudon::instance_maraudon_InstanceMapScript", "d4/d4b/a15530.html", "d4/d4b/a15530" ],
-    [ "AddSC_instance_maraudon", "d8/dd8/a02108.html#a6ab7baf162a5cf99b16fb0a26d7973cb", null ]
+    [ "GetDominantOtherSameSpellApp", "d8/dd8/a02108.html#a35cf5d451332db8c1e4a11f23b11d0ec", null ],
+    [ "IsPaladinAuraDominant", "d8/dd8/a02108.html#a2c54ebda028a15512cff94e01f9f92d8", null ],
+    [ "UPDATE_TARGET_MAP_INTERVAL", "d8/dd8/a02108.html#a49c1eff45f8eb67e523f8593923a5df0", null ]
 ];

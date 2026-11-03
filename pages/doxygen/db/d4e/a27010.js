@@ -1,7 +1,7 @@
 var a27010 =
 [
-    [ "OnProc", "db/d4e/a27010.html#a0a85e641521f1e9b7fd074f7edde97ac", null ],
-    [ "PrepareAuraScript", "db/d4e/a27010.html#a4ff27309c8848a6155ad28809ace5cba", null ],
-    [ "Register", "db/d4e/a27010.html#a20b6a18ce3fac99689b958b384da7836", null ],
-    [ "Validate", "db/d4e/a27010.html#ac4275cca4f974a5a131e4dc1be8eed23", null ]
+    [ "HandleProc", "db/d4e/a27010.html#a9601839ce1fff4e1be66f435a78693ac", null ],
+    [ "PrepareAuraScript", "db/d4e/a27010.html#ae7b3804ed0fe40c85d245e2762fd8181", null ],
+    [ "Register", "db/d4e/a27010.html#a588226cc60a7ff0f8a05e8ec34c855e5", null ],
+    [ "Validate", "db/d4e/a27010.html#aea68ea2da0853d72d94a19b98db9375f", null ]
 ];

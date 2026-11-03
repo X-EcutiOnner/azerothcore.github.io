@@ -1,5 +1,5 @@
 var a25750 =
 [
-    [ "PrepareSpellScript", "df/dfd/a25750.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
-    [ "Register", "df/dfd/a25750.html#a5b356ca08e33c8eb127bec763f105792", null ]
+    [ "PrepareSpellScript", "df/dfd/a25750.html#aa07fade62e79ccc8ad969de44b886332", null ],
+    [ "Register", "df/dfd/a25750.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
 ];

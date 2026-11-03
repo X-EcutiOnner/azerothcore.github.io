@@ -1,7 +1,7 @@
 var a22178 =
 [
-    [ "HandleScript", "d9/d90/a22178.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "d9/d90/a22178.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "d9/d90/a22178.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "d9/d90/a22178.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_rodin_lightning_enabler", "d9/d90/a22178.html#ae014b208af7664acd2147663d9338583", null ],
+    [ "Reset", "d9/d90/a22178.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
+    [ "UpdateAI", "d9/d90/a22178.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
+    [ "_scheduler", "d9/d90/a22178.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
 ];

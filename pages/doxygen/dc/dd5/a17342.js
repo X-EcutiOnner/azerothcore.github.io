@@ -1,12 +1,7 @@
 var a17342 =
 [
-    [ "boss_trollgoreAI", "dc/dd5/a17342.html#a958deb54a8460cc2dc61958bd9acb338", null ],
-    [ "CheckInRoom", "dc/dd5/a17342.html#a6428a1c4fc7d3da4e016ed17ea3684df", null ],
-    [ "JustDied", "dc/dd5/a17342.html#a32a309084b6b7c4b4e5db10d9c8a95bd", null ],
-    [ "JustEngagedWith", "dc/dd5/a17342.html#a25414dc1b13aa1372e397c5cb11afdaa", null ],
-    [ "JustSummoned", "dc/dd5/a17342.html#abd2199877e0e1465a7e5783b80ad2a44", null ],
-    [ "KilledUnit", "dc/dd5/a17342.html#aa65d03d8879c6177753b8316c1343ad4", null ],
-    [ "Reset", "dc/dd5/a17342.html#a4fe22aebe6e814196ac1914d158a62de", null ],
-    [ "UpdateAI", "dc/dd5/a17342.html#a3fa3247442edb81136647f7fdf5834cf", null ],
-    [ "events2", "dc/dd5/a17342.html#a94e8c9616ac332f33f2b976c074092af", null ]
+    [ "HandleEffectRemove", "dc/dd5/a17342.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "dc/dd5/a17342.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "dc/dd5/a17342.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "dc/dd5/a17342.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

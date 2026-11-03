@@ -1,6 +1,7 @@
 var a17866 =
 [
-    [ "AddExtraDamage", "dc/d6e/a17866.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "dc/d6e/a17866.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "dc/d6e/a17866.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "HandleDummyTick", "dc/d6e/a17866.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
+    [ "PrepareAuraScript", "dc/d6e/a17866.html#a577523701b5a4ea2def4999e634c8862", null ],
+    [ "Register", "dc/d6e/a17866.html#aaad9185c62333de4d6704b22780edd28", null ],
+    [ "Validate", "dc/d6e/a17866.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
 ];

@@ -1,6 +1,6 @@
 var a17710 =
 [
-    [ "boss_drakkari_elementalAI", "dc/def/a17714.html", "dc/def/a17714" ],
-    [ "boss_drakkari_elemental", "da/d9b/a17710.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
-    [ "GetAI", "da/d9b/a17710.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
+    [ "HandleScriptEffect", "da/d9b/a17710.html#ab9c289e946cfaf2b63f2526914d79812", null ],
+    [ "PrepareSpellScript", "da/d9b/a17710.html#a832f8ab737254760fe2b91f19d119781", null ],
+    [ "Register", "da/d9b/a17710.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
 ];

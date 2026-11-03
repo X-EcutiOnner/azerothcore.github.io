@@ -1,15 +1,16 @@
 var a20354 =
 [
-    [ "boss_flame_leviathan_seat", "dc/d1c/a20354.html#a2fc2adc846b2939cf633bf47b4307896", null ],
-    [ "ActivateTurret", "dc/d1c/a20354.html#a444d5abcb47488ffedd5d3a6737e7f2c", null ],
-    [ "ActivateTurrets", "dc/d1c/a20354.html#abb69910faf565fc1b484baa1ad9d5f11", null ],
-    [ "AttackStart", "dc/d1c/a20354.html#a88d8a972e5f079c0111c0f189d599e8c", null ],
-    [ "EnterEvadeMode", "dc/d1c/a20354.html#ac0f5d43d4be0773fdae62d0ab433713f", null ],
-    [ "PassengerBoarded", "dc/d1c/a20354.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],
-    [ "Reset", "dc/d1c/a20354.html#aec34fec1a6a3857ea7895a2762bf82d0", null ],
-    [ "UpdateAI", "dc/d1c/a20354.html#a303c50b5684410013f95b0202ea33c8e", null ],
-    [ "_despawnCheckTimer", "dc/d1c/a20354.html#ad902023776db0a5d846168167974f694", null ],
-    [ "_pending10ManDespawn", "dc/d1c/a20354.html#a147da457d02a4977439c635fb150f005", null ],
-    [ "DESPAWN_DELAY_10MAN", "dc/d1c/a20354.html#a1bda734e377ce71dd3c7f1257ab89d20", null ],
-    [ "vehicle", "dc/d1c/a20354.html#a9772b52283f16120dbefb5d218844c38", null ]
+    [ "npc_mimirons_inferno", "dc/d1c/a20354.html#aedcded9302c0cb9e29475f471bd0612e", null ],
+    [ "AttackStart", "dc/d1c/a20354.html#a43a03388c06ef38ab29a1b4d5bc701c6", null ],
+    [ "DoAction", "dc/d1c/a20354.html#ade97188bb54f7b5a15a8a596355e4170", null ],
+    [ "JustSummoned", "dc/d1c/a20354.html#a77ddb0fbd9f0c2334df122d91913300b", null ],
+    [ "MoveInLineOfSight", "dc/d1c/a20354.html#acc2e756af50ebde8300c46ec6f369760", null ],
+    [ "Reset", "dc/d1c/a20354.html#afbd0bcdbb24bf1dbdaacecf4b602922b", null ],
+    [ "SummonedCreatureDespawn", "dc/d1c/a20354.html#a9b5176d6f1712d36283b0ebeeddee5b2", null ],
+    [ "UpdateAI", "dc/d1c/a20354.html#afd800c3a1430fe19edf6fe21763b15d8", null ],
+    [ "WaypointReached", "dc/d1c/a20354.html#a13cda9fcb49493477e4a4111d9858ec1", null ],
+    [ "WaypointReached", "dc/d1c/a20354.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_recastTimer", "dc/d1c/a20354.html#ac74ee90383d6ac140d6187c6115716ed", null ],
+    [ "_spellTimer", "dc/d1c/a20354.html#a0683c956325801b63e7e31b8485f35bd", null ],
+    [ "summons", "dc/d1c/a20354.html#a7a0be8291200404285277c3689c54106", null ]
 ];

@@ -1,8 +1,8 @@
 var a11198 =
 [
-    [ "OtherGUID", "de/de4/a11198.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
-    [ "PlayerGUID", "de/de4/a11198.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
-    [ "RankID", "de/de4/a11198.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
-    [ "TransactionDate", "de/de4/a11198.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
-    [ "TransactionType", "de/de4/a11198.html#aa48b69aa9078fb150470d66201b34786", null ]
+    [ "GuildEvent", "de/de4/a11198.html#a78be16122c01d4c68d67e050ede92006", null ],
+    [ "Write", "de/de4/a11198.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
+    [ "Guid", "de/de4/a11198.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
+    [ "Params", "de/de4/a11198.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
+    [ "Type", "de/de4/a11198.html#a961ae90991fa23bfc94a054dba357392", null ]
 ];

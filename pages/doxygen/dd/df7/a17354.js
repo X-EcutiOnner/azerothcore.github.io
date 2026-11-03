@@ -1,6 +1,8 @@
 var a17354 =
 [
-    [ "HandleScriptEffect", "dd/df7/a17354.html#a90b13b2a093fdd430a383d7ea4126290", null ],
-    [ "PrepareSpellScript", "dd/df7/a17354.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
-    [ "Register", "dd/df7/a17354.html#a53c8d47ee21637055ad901946be1e2c2", null ]
+    [ "npc_fos_corrupted_soul_fragment", "dd/df7/a17354.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
+    [ "Reset", "dd/df7/a17354.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
+    [ "UpdateAI", "dd/df7/a17354.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
+    [ "Instance", "dd/df7/a17354.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
+    [ "Timer", "dd/df7/a17354.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
 ];

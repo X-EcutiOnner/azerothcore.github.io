@@ -1,13 +1,22 @@
 var a19146 =
 [
-    [ "npc_highlord_tirion_fordringAI", "df/db6/a19146.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "df/db6/a19146.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "df/db6/a19146.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "df/db6/a19146.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "df/db6/a19146.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "df/db6/a19146.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "df/db6/a19146.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "df/db6/a19146.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "df/db6/a19146.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "df/db6/a19146.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "npc_crok_scourgebaneAI", "df/db6/a19146.html#a0b59ffcc00aeb1b9ac23ddc0b1504054", null ],
+    [ "CanAIAttack", "df/db6/a19146.html#a0a26fdecc1748b96d0e7598a80449dc9", null ],
+    [ "DamageTaken", "df/db6/a19146.html#ae727d192e29c63d5aa699b491425cdc6", null ],
+    [ "DoAction", "df/db6/a19146.html#aaf9b034a97510ce7d58aa2d9ecfc0c14", null ],
+    [ "Reset", "df/db6/a19146.html#a6c1d480fff0a4a6361986dc82a945534", null ],
+    [ "SetGUID", "df/db6/a19146.html#a185a5ebbf77067ce9e233c55d47f84d0", null ],
+    [ "UpdateAI", "df/db6/a19146.html#a109b1bf28de7903557c9c03957fa7d71", null ],
+    [ "UpdateEscortAI", "df/db6/a19146.html#af883cb5fd419eaf1c82a21f980d3e893", null ],
+    [ "WaypointReached", "df/db6/a19146.html#a58c3e2ed37552b3adde1aa4f1a8ba0ba", null ],
+    [ "WaypointReached", "df/db6/a19146.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "WaypointStart", "df/db6/a19146.html#a900611179c3c9d4ceffd86261f62151b", null ],
+    [ "_aliveTrash", "df/db6/a19146.html#ae0c99157db5daa07643715a56217bccd", null ],
+    [ "_currentWPid", "df/db6/a19146.html#a541f03486042a87f3ff223d7424d32f8", null ],
+    [ "_didUnderTenPercentText", "df/db6/a19146.html#a8cb4c0126549dbb10e0b60d164ba7924", null ],
+    [ "_events", "df/db6/a19146.html#a8f6b1618223d4660cce33d34d215f323", null ],
+    [ "_handledWP4", "df/db6/a19146.html#acf6f70f93dbca7f5139af17ec411b971", null ],
+    [ "_instance", "df/db6/a19146.html#a0698a3297da669fd5440743be200c378", null ],
+    [ "_isEventDone", "df/db6/a19146.html#a184a0a5b62cfc33c9ae71c0d2d651c27", null ],
+    [ "_wipeCheckTimer", "df/db6/a19146.html#a91be80fbce6f6f0ae6a249128ba319c9", null ]
 ];

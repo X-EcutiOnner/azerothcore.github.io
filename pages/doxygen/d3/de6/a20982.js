@@ -1,9 +1,6 @@
 var a20982 =
 [
-    [ "boss_thorim_gauntlet_npcs", "d3/de6/a20982.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
-    [ "JustEngagedWith", "d3/de6/a20982.html#af10a444bada5743c837a9979726c79c9", null ],
-    [ "Reset", "d3/de6/a20982.html#a22fcffcc05f155524cadade389ec3607", null ],
-    [ "UpdateAI", "d3/de6/a20982.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
-    [ "_isCaster", "d3/de6/a20982.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
-    [ "events", "d3/de6/a20982.html#aec35e2b91841c386f083681673e15598", null ]
+    [ "PrepareSpellScript", "d3/de6/a20982.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
+    [ "Register", "d3/de6/a20982.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
+    [ "SelectPillar", "d3/de6/a20982.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
 ];

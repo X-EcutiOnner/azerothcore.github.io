@@ -1,8 +1,6 @@
 var a17054 =
 [
-    [ "npc_toc_warlockAI", "de/db9/a17054.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "de/db9/a17054.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "de/db9/a17054.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "de/db9/a17054.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "de/db9/a17054.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "npc_toc_boomkinAI", "db/db5/a17058.html", "db/db5/a17058" ],
+    [ "npc_toc_boomkin", "de/db9/a17054.html#a17274ff748cd364592a551ad2c547eac", null ],
+    [ "GetAI", "de/db9/a17054.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
 ];

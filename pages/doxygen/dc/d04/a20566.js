@@ -1,7 +1,7 @@
 var a20566 =
 [
-    [ "HandleAfterEffectApply", "dc/d04/a20566.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "dc/d04/a20566.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "dc/d04/a20566.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "dc/d04/a20566.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "npc_ulduar_icicle", "dc/d04/a20566.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
+    [ "UpdateAI", "dc/d04/a20566.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
+    [ "timer1", "dc/d04/a20566.html#ae277d302131abd17cef018872b12da06", null ],
+    [ "timer2", "dc/d04/a20566.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
 ];

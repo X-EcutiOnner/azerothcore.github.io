@@ -1,7 +1,6 @@
 var a20918 =
 [
-    [ "go_razorscale_harpoonAI", "d2/d22/a20918.html#afff12f330538843c477f75500f731ea3", null ],
-    [ "Reset", "d2/d22/a20918.html#aae5f0f7ff2b206872c02bd7da90afdc0", null ],
-    [ "UpdateAI", "d2/d22/a20918.html#a906b14e1bc6b71f95aa2fcde83846f0a", null ],
-    [ "_scheduler", "d2/d22/a20918.html#a6f6e325b1b1599f90173e8c8a68c7956", null ]
+    [ "FilterTargets", "d2/d22/a20918.html#aa7fcef13b5a4ba40092f2f95842349ff", null ],
+    [ "PrepareSpellScript", "d2/d22/a20918.html#a5b94fde8602f7f00342bd81dc9c8cc11", null ],
+    [ "Register", "d2/d22/a20918.html#a6d990937a5fd06a877b775f719ba5a9f", null ]
 ];

@@ -1,6 +1,6 @@
 var a26398 =
 [
-    [ "HandleOpenObject", "dd/d15/a26398.html#ab658c13615fac1861470bb4b853e76a4", null ],
-    [ "PrepareSpellScript", "dd/d15/a26398.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
-    [ "Register", "dd/d15/a26398.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
+    [ "CheckCast", "dd/d15/a26398.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
+    [ "PrepareSpellScript", "dd/d15/a26398.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
+    [ "Register", "dd/d15/a26398.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
 ];

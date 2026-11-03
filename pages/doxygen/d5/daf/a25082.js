@@ -1,8 +1,10 @@
 var a25082 =
 [
-    [ "CheckProc", "d5/daf/a25082.html#a465402287949b12e5f4a4fe5405c32ce", null ],
-    [ "HandleProc", "d5/daf/a25082.html#a11329d2093e30e91d7582c5eb34228ab", null ],
-    [ "PrepareAuraScript", "d5/daf/a25082.html#a0c17de6a23adf74e32cf7c50b09762fc", null ],
-    [ "Register", "d5/daf/a25082.html#ade6720401687c7ad102e51572351705c", null ],
-    [ "Validate", "d5/daf/a25082.html#a71c224e13289673e5d2ed700cde6cd6a", null ]
+    [ "Load", "d5/daf/a25082.html#a2c4e408e45995098b01a05815fffb34c", null ],
+    [ "OnApply", "d5/daf/a25082.html#acae1047046bb8f555d1798ca024a2650", null ],
+    [ "OnRemove", "d5/daf/a25082.html#aa01df2b86cf69508866f6e7d063c735a", null ],
+    [ "PrepareAuraScript", "d5/daf/a25082.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
+    [ "Register", "d5/daf/a25082.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
+    [ "Validate", "d5/daf/a25082.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
+    [ "_casterGUID", "d5/daf/a25082.html#a8047fb4309487c7a529047ec5148a2e3", null ]
 ];

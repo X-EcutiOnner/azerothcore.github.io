@@ -1,6 +1,6 @@
 var a09038 =
 [
-    [ "PlayerClassLevelInfo", "d6/d4f/a09038.html#a60153094e3179bfc6c028d2b76775805", null ],
-    [ "basehealth", "d6/d4f/a09038.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
-    [ "basemana", "d6/d4f/a09038.html#a939a8d8739a553c919d84e399ce17d22", null ]
+    [ "PlayerCreateInfoItem", "d6/d4f/a09038.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
+    [ "item_amount", "d6/d4f/a09038.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
+    [ "item_id", "d6/d4f/a09038.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
 ];

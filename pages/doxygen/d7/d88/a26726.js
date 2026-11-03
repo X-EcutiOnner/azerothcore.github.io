@@ -1,8 +1,7 @@
 var a26726 =
 [
-    [ "CheckProc", "d7/d88/a26726.html#a801610a9f9fae5cb711850254b291268", null ],
-    [ "HandleProc", "d7/d88/a26726.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
-    [ "PrepareAuraScript", "d7/d88/a26726.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
-    [ "Register", "d7/d88/a26726.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
-    [ "Validate", "d7/d88/a26726.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
+    [ "CalculateSpellAmount", "d7/d88/a26726.html#ae99e08e78cf8192ea2d6210432d7a72d", null ],
+    [ "CheckCast", "d7/d88/a26726.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "d7/d88/a26726.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "d7/d88/a26726.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

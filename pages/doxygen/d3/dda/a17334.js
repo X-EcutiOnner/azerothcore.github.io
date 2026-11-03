@@ -1,6 +1,5 @@
 var a17334 =
 [
-    [ "HandleScript", "d3/dda/a17334.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "d3/dda/a17334.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "d3/dda/a17334.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "achievement_consumption_junction", "d3/dda/a17334.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
+    [ "OnCheck", "d3/dda/a17334.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
 ];

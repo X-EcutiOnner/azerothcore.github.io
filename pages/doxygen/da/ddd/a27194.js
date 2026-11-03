@@ -1,6 +1,6 @@
 var a27194 =
 [
-    [ "HandleDummyEffect", "da/ddd/a27194.html#a6340c91d8419755386cb3e138cb3c171", null ],
-    [ "PrepareSpellScript", "da/ddd/a27194.html#a67d08252c8b8deee312f17affb557df8", null ],
-    [ "Register", "da/ddd/a27194.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
+    [ "CheckCast", "da/ddd/a27194.html#a624ee45c92b37da12204dcc95dc815ca", null ],
+    [ "PrepareSpellScript", "da/ddd/a27194.html#acdbb427ed3ebe9e2b8089a5bb50489a9", null ],
+    [ "Register", "da/ddd/a27194.html#abc4e276c4759bad63b692a467f2f88f2", null ]
 ];

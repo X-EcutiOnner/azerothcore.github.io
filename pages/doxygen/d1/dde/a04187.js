@@ -1,8 +1,5 @@
 var a04187 =
 [
-    [ "MovementHandlerScript", "d1/db8/a10922.html", "d1/db8/a10922" ],
-    [ "MovementHook", "d1/dde/a04187.html#a5763e953c65ba38409a14469a1fe2842", [
-      [ "MOVEMENTHOOK_ON_PLAYER_MOVE", "d1/dde/a04187.html#a5763e953c65ba38409a14469a1fe2842a9fb1a9d074f81a435e688f4cd7d12326", null ],
-      [ "MOVEMENTHOOK_END", "d1/dde/a04187.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c", null ]
-    ] ]
+    [ "gear_commandscript", "d7/d2f/a12570.html", "d7/d2f/a12570" ],
+    [ "AddSC_gear_commandscript", "d1/dde/a04187.html#a8f5ae2609cea7d63d76141e1a5feaf27", null ]
 ];

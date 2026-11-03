@@ -1,5 +1,7 @@
 var a21446 =
 [
-    [ "go_palehoof_sphere", "d5/de1/a21446.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "d5/de1/a21446.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "HandleScript", "d5/de1/a21446.html#ac8d984ac87f51050113f7ac1a4625785", null ],
+    [ "PrepareSpellScript", "d5/de1/a21446.html#a34f6166e27cb99e424dd081ffce704a5", null ],
+    [ "Register", "d5/de1/a21446.html#a0dd5b7a8cf086ee3b5a6f30326874ee3", null ],
+    [ "Validate", "d5/de1/a21446.html#a364c96f7253fde59e1a9a59a42c4d3a5", null ]
 ];

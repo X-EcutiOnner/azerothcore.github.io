@@ -1,12 +1,20 @@
 var a03443 =
 [
-    [ "WorldPackets::Instance::InstanceReset", "d4/db3/a11323.html", "d4/db3/a11323" ],
-    [ "WorldPackets::Instance::InstanceResetFailed", "d3/d22/a11327.html", "d3/d22/a11327" ],
-    [ "WorldPackets::Instance::SetDungeonDifficulty", "da/d3a/a11331.html", "da/d3a/a11331" ],
-    [ "WorldPackets::Instance::SetDungeonDifficultyClient", "de/de5/a11335.html", "de/de5/a11335" ],
-    [ "WorldPackets::Instance::ResetFailedNotify", "de/d33/a11339.html", "de/d33/a11339" ],
-    [ "WorldPackets::Instance::SetRaidDifficulty", "d4/d61/a11343.html", "d4/d61/a11343" ],
-    [ "WorldPackets::Instance::SetRaidDifficultyClient", "d0/d73/a11347.html", "d0/d73/a11347" ],
-    [ "WorldPackets::Instance::ResetInstances", "db/d78/a11351.html", "db/d78/a11351" ],
-    [ "WorldPackets::Instance::InstanceLockResponse", "d6/d95/a11355.html", "d6/d95/a11355" ]
+    [ "instance_blackwing_lair", "de/dfc/a13118.html", "de/dfc/a13118" ],
+    [ "spell_bwl_shadowflame", "d2/dd9/a13122.html", "d2/dd9/a13122" ],
+    [ "at_orb_of_command", "d3/d1e/a13126.html", "d3/d1e/a13126" ],
+    [ "orb_of_command_misc", "d8/df8/a03443.html#a5ddae3d5f11ae5a5d826e7e18d4cded5", [
+      [ "QUEST_BLACKHANDS_COMMAND", "d8/df8/a03443.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5", null ]
+    ] ],
+    [ "ShadowFlame", "d8/df8/a03443.html#a18a82309d32c08f1de5944fde20789fa", [
+      [ "SPELL_ONYXIA_SCALE_CLOAK", "d8/df8/a03443.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0", null ],
+      [ "SPELL_SHADOW_FLAME_DOT", "d8/df8/a03443.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e", null ]
+    ] ],
+    [ "AddSC_instance_blackwing_lair", "d8/df8/a03443.html#a942a9ad3e1b872492dfc7d62615df103", null ],
+    [ "creatureData", "d8/df8/a03443.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d8/df8/a03443.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "Entry", "d8/df8/a03443.html#a79d118516d0621008a183666ffecc3ad", null ],
+    [ "objectData", "d8/df8/a03443.html#a59ddfa91084111da23b5d47482e4ff8d", null ],
+    [ "orbOfCommandTP", "d8/df8/a03443.html#a9ee49a7ad7d4b8e8f52533faa578370f", null ],
+    [ "SummonPosition", "d8/df8/a03443.html#a2c79c628fd8c60d02dc0b2368a70be04", null ]
 ];

@@ -1,6 +1,6 @@
 var a26014 =
 [
-    [ "HandleDummyTick", "db/dc9/a26014.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
-    [ "PrepareAuraScript", "db/dc9/a26014.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
-    [ "Register", "db/dc9/a26014.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
+    [ "HandleScriptEffect", "db/dc9/a26014.html#a61ce8d26205af3a35a69646fa0b5454b", null ],
+    [ "PrepareSpellScript", "db/dc9/a26014.html#ab9ff7007cdaad8d6432ef0cae134f653", null ],
+    [ "Register", "db/dc9/a26014.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
 ];

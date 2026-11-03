@@ -1,7 +1,7 @@
 var a16994 =
 [
-    [ "HandleEffectPeriodic", "df/dee/a16994.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "df/dee/a16994.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "df/dee/a16994.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "df/dee/a16994.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "npc_toc_druidAI", "df/dee/a16994.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "df/dee/a16994.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "df/dee/a16994.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "df/dee/a16994.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

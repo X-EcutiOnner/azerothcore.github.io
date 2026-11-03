@@ -1,6 +1,5 @@
 var a19782 =
 [
-    [ "boss_thaddius_summonAI", "d7/df9/a19786.html", "d7/df9/a19786" ],
-    [ "boss_thaddius_summon", "d2/d7f/a19782.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
-    [ "GetAI", "d2/d7f/a19782.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
+    [ "at_thaddius_entrance", "d2/d7f/a19782.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "_OnTrigger", "d2/d7f/a19782.html#a5e8954c265ead9ab5347b8921e5bd1bb", null ]
 ];

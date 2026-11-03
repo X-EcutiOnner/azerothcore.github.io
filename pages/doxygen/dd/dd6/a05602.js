@@ -1,11 +1,25 @@
 var a05602 =
 [
-    [ "Record", "dd/dd6/a05602.html#a3303a6b7ba364777e368158052dbe1db", null ],
-    [ "getFloat", "dd/dd6/a05602.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
-    [ "getString", "dd/dd6/a05602.html#af7b7a8dd685bac5a93e3299d85aab784", null ],
-    [ "getUInt", "dd/dd6/a05602.html#a6f22775adc36b8955009f3f0bd51f355", null ],
-    [ "getUInt8", "dd/dd6/a05602.html#af6a95de37b34f0204f57323d9a39d110", null ],
-    [ "DBCFileLoader", "dd/dd6/a05602.html#aa9814b507b472e781e08c803e025cc72", null ],
-    [ "file", "dd/dd6/a05602.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
-    [ "offset", "dd/dd6/a05602.html#a06e2c90771be91d9ca948840a07125e8", null ]
+    [ "Record", "d9/dc0/a05606.html", "d9/dc0/a05606" ],
+    [ "DBCFileLoader", "dd/dd6/a05602.html#a99ba418c63c49cf9a028626b8e282a01", null ],
+    [ "~DBCFileLoader", "dd/dd6/a05602.html#a2e8dd3e5d88b870ea01e0c8dbfa55acd", null ],
+    [ "DBCFileLoader", "dd/dd6/a05602.html#a2e75536e8df1449449b4b6fe5585074d", null ],
+    [ "AutoProduceData", "dd/dd6/a05602.html#af8810dd9cef9ed82036bbebb4c938521", null ],
+    [ "AutoProduceStrings", "dd/dd6/a05602.html#a12054e13d90636076ce04587aacf8ff6", null ],
+    [ "GetCols", "dd/dd6/a05602.html#a3c536a9333a06213a37c95087eaaf8e3", null ],
+    [ "GetFormatRecordSize", "dd/dd6/a05602.html#acbca26ec315c5f6ea59c9f1cbd70c376", null ],
+    [ "GetNumRows", "dd/dd6/a05602.html#aeedb51dd9b316063a58a989b175d0bc5", null ],
+    [ "GetOffset", "dd/dd6/a05602.html#ae624604ad0cdae8d3eb7212630a33613", null ],
+    [ "getRecord", "dd/dd6/a05602.html#ac4b1c79585f63f53f6d48db235732e20", null ],
+    [ "GetRowSize", "dd/dd6/a05602.html#af322bc9e92472463998ca8082c5da3d6", null ],
+    [ "IsLoaded", "dd/dd6/a05602.html#a28bf265dafc284e9edb55fc1ed261694", null ],
+    [ "Load", "dd/dd6/a05602.html#a0fb54606f89f93db180c507082d64bd3", null ],
+    [ "operator=", "dd/dd6/a05602.html#ac2b0f30fb125b8dae385ca8330d02e8b", null ],
+    [ "data", "dd/dd6/a05602.html#a137152d873bfa3cb2d3860fe6001f404", null ],
+    [ "fieldCount", "dd/dd6/a05602.html#a920472d71232fa759bce768fdca9a1c4", null ],
+    [ "fieldsOffset", "dd/dd6/a05602.html#a7aa68d259f6295df3029456bde143862", null ],
+    [ "recordCount", "dd/dd6/a05602.html#a1a17426b679598ee27363e897b40f2bf", null ],
+    [ "recordSize", "dd/dd6/a05602.html#ab4f28de7c57a6e25c715bb009ed5f701", null ],
+    [ "stringSize", "dd/dd6/a05602.html#a0761727ba38d899f337c733873742d69", null ],
+    [ "stringTable", "dd/dd6/a05602.html#a5961bf01316cc14a075c1b874000e8a2", null ]
 ];

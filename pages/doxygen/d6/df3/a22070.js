@@ -1,11 +1,7 @@
 var a22070 =
 [
-    [ "npc_torturer_lecraftAI", "d6/df3/a22070.html#a0886d83c8ab8b7db728928ecf922031b", null ],
-    [ "JustEngagedWith", "d6/df3/a22070.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
-    [ "Reset", "d6/df3/a22070.html#a13177e318e7777ecb13ba71c4f10f425", null ],
-    [ "SpellHit", "d6/df3/a22070.html#a837805efcb6c99de55646a232f151ae8", null ],
-    [ "UpdateAI", "d6/df3/a22070.html#a45919da006b0e767ec38810a6fcbac5d", null ],
-    [ "_events", "d6/df3/a22070.html#a7879e11a94c32266ed11dc352ae7e802", null ],
-    [ "_playerGUID", "d6/df3/a22070.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
-    [ "_textCounter", "d6/df3/a22070.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
+    [ "HandlePeriodic", "d6/df3/a22070.html#a39e103c4bd60ce54eb7ecbdb37013e04", null ],
+    [ "PrepareAuraScript", "d6/df3/a22070.html#ac198489764c878822e38a1ea225ab287", null ],
+    [ "Register", "d6/df3/a22070.html#a66933e6f4b5689b0b05de63aa7402354", null ],
+    [ "Validate", "d6/df3/a22070.html#a0db3843573837c53aeeaca69a6019d06", null ]
 ];

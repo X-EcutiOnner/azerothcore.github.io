@@ -1,7 +1,11 @@
 var a19826 =
 [
-    [ "npc_naxxramas_trigger", "dd/d12/a19826.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "dd/d12/a19826.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "dd/d12/a19826.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "dd/d12/a19826.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "npc_hover_disk", "dd/d12/a19826.html#af6f8ef0df4b64540f99adebdd709b00e", null ],
+    [ "AttackStart", "dd/d12/a19826.html#a3ea3d44f74f26115f0a29fad134fcfc8", null ],
+    [ "DoAction", "dd/d12/a19826.html#ae4141e5aed3cfdbf8d76ad55ce4463d9", null ],
+    [ "MoveInLineOfSight", "dd/d12/a19826.html#a0ad97e511bd01c269c04d2ccfe007f91", null ],
+    [ "MovementInform", "dd/d12/a19826.html#a9d1c7ac28f2c597864cf2c70ab0fb943", null ],
+    [ "PassengerBoarded", "dd/d12/a19826.html#ab7e712a9d5aec7c3112796316a7fe534", null ],
+    [ "UpdateAI", "dd/d12/a19826.html#add98702312084df553e24bcd4b632bb3", null ],
+    [ "events", "dd/d12/a19826.html#a073e1161eda3b714ad0d7ea96f865b6d", null ]
 ];

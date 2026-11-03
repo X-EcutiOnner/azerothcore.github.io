@@ -1,6 +1,8 @@
 var a18886 =
 [
-    [ "HandleScript", "de/ded/a18886.html#a9489c3454830d3826cb077c95947bf2d", null ],
-    [ "PrepareSpellScript", "de/ded/a18886.html#a19492e616ac6e69187bca4499175071e", null ],
-    [ "Register", "de/ded/a18886.html#a3446174d3308f535c27581b63ade9e8a", null ]
+    [ "Load", "de/ded/a18886.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
+    [ "OnRemove", "de/ded/a18886.html#a43b23e5c53cca872a26737d790f2893d", null ],
+    [ "PrepareAuraScript", "de/ded/a18886.html#ae51bcb37894240c6fd064cd329698a55", null ],
+    [ "Register", "de/ded/a18886.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
+    [ "Validate", "de/ded/a18886.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
 ];

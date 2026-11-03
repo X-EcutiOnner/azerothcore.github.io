@@ -1,8 +1,9 @@
 var a17378 =
 [
-    [ "npc_fos_corrupted_soul_fragment", "d3/d42/a17378.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
-    [ "Reset", "d3/d42/a17378.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
-    [ "UpdateAI", "d3/d42/a17378.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
-    [ "Instance", "d3/d42/a17378.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
-    [ "Timer", "d3/d42/a17378.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
+    [ "HandlePeriodicTick", "d3/d42/a17378.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "d3/d42/a17378.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "d3/d42/a17378.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "d3/d42/a17378.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "d3/d42/a17378.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "d3/d42/a17378.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

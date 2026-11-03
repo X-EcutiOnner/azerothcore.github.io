@@ -1,7 +1,8 @@
 var a21466 =
 [
-    [ "FilterTargets", "d1/d18/a21466.html#aacfc70299b20cfef5b2feac954779f1c", null ],
-    [ "HandleDamageCalc", "d1/d18/a21466.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
-    [ "PrepareSpellScript", "d1/d18/a21466.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
-    [ "Register", "d1/d18/a21466.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
+    [ "CountTargets", "d1/d18/a21466.html#aaf8528038c6b3172d4810ed773f71644", null ],
+    [ "HandleDummy", "d1/d18/a21466.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
+    [ "PrepareSpellScript", "d1/d18/a21466.html#a1f31273cb1826cd07196eacfbdc46673", null ],
+    [ "Register", "d1/d18/a21466.html#adce6a5d920ac616dc0579fcd96c49288", null ],
+    [ "_targetCount", "d1/d18/a21466.html#acfd8832cb9a197dddb034a003b318911", null ]
 ];

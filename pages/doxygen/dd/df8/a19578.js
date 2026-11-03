@@ -1,12 +1,7 @@
 var a19578 =
 [
-    [ "boss_faerlinaAI", "dd/df8/a19578.html#a3a97178599b9053c23a079ed1a2ed163", null ],
-    [ "JustDied", "dd/df8/a19578.html#a7ac2e510568a9dad710beaad42db0544", null ],
-    [ "JustEngagedWith", "dd/df8/a19578.html#a830dfa4fed62b4588ea8866174d3653a", null ],
-    [ "KilledUnit", "dd/df8/a19578.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
-    [ "MoveInLineOfSight", "dd/df8/a19578.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
-    [ "Reset", "dd/df8/a19578.html#acee81492b9b751df587a3a2cdd691ab3", null ],
-    [ "SpellHit", "dd/df8/a19578.html#aa4fac163e31dcd9353238f993259d5ec", null ],
-    [ "SummonHelpers", "dd/df8/a19578.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
-    [ "_introDone", "dd/df8/a19578.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
+    [ "HandleScriptEffect", "dd/df8/a19578.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "dd/df8/a19578.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "dd/df8/a19578.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "dd/df8/a19578.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

@@ -1,8 +1,5 @@
 var a04094 =
 [
-    [ "LootScript", "d4/db9/a10906.html", "d4/db9/a10906" ],
-    [ "LootHook", "df/d4e/a04094.html#a39ce94de1e8ce6b7055130ac7f40632b", [
-      [ "LOOTHOOK_ON_LOOT_MONEY", "df/d4e/a04094.html#a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1", null ],
-      [ "LOOTHOOK_END", "df/d4e/a04094.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea", null ]
-    ] ]
+    [ "player_settings_commandscript", "db/d10/a12670.html", "db/d10/a12670" ],
+    [ "AddSC_player_settings_commandscript", "df/d4e/a04094.html#a366685affd5565d164c65f8cd4a20b61", null ]
 ];

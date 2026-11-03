@@ -1,9 +1,7 @@
 var a04424 =
 [
-    [ "ProcTestResult", "de/dd6/a29758.html", "de/dd6/a29758" ],
-    [ "ProcTestContext", "d9/dc7/a29762.html", "d9/dc7/a29762" ],
-    [ "AuraScriptProcTestFixture", "d9/dc0/a29766.html", "d9/dc0/a29766" ],
-    [ "ProcScenarioBuilder", "d8/d5a/a29770.html", "d8/d5a/a29770" ],
-    [ "EXPECT_PROC_DOES_NOT_TRIGGER", "dc/d7e/a04424.html#ab8dc66c27ffce0980153941e8e7ab701", null ],
-    [ "EXPECT_PROC_TRIGGERS", "dc/d7e/a04424.html#ad89bc4ac2d1077d7e73a7e08336ff303", null ]
+    [ "instance_the_underbog", "dc/d33/a23670.html", "dc/d33/a23670" ],
+    [ "instance_the_underbog::instance_the_underbog_InstanceMapScript", "df/d1c/a23674.html", "df/d1c/a23674" ],
+    [ "AddSC_instance_the_underbog", "dc/d7e/a04424.html#acc5edb97f1bda7cd30a38061e4676698", null ],
+    [ "creatureData", "dc/d7e/a04424.html#a412286b689bd324fedd65ddd8dde8afb", null ]
 ];

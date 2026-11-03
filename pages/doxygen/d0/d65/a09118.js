@@ -1,10 +1,9 @@
 var a09118 =
 [
-    [ "TradeStatusInfo", "d0/d65/a09118.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
-    [ "IsTargetResult", "d0/d65/a09118.html#a10427d72e5bafd643648638a1fe7e854", null ],
-    [ "ItemLimitedByLimitCategory", "d0/d65/a09118.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
-    [ "Result", "d0/d65/a09118.html#ac90552353a0fb8ff175fec99bf573981", null ],
-    [ "Slot", "d0/d65/a09118.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
-    [ "Status", "d0/d65/a09118.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
-    [ "TraderGuid", "d0/d65/a09118.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
+    [ "EntryPointData", "d0/d65/a09118.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "d0/d65/a09118.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "d0/d65/a09118.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "d0/d65/a09118.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "d0/d65/a09118.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "d0/d65/a09118.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

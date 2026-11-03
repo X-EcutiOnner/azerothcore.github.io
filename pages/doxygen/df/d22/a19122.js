@@ -1,7 +1,13 @@
 var a19122 =
 [
-    [ "OnApply", "df/d22/a19122.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "df/d22/a19122.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "df/d22/a19122.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "df/d22/a19122.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "npc_highlord_tirion_fordringAI", "df/d22/a19122.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
+    [ "Reset", "df/d22/a19122.html#a80051b1b2a663997304b1754a3f9ff25", null ],
+    [ "SetData", "df/d22/a19122.html#a5642aab7afc50a7494c43ae7a130d571", null ],
+    [ "UpdateAI", "df/d22/a19122.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
+    [ "_bolvarFordragon", "df/d22/a19122.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
+    [ "_damnedKills", "df/d22/a19122.html#a56e035884d2ab94629c133efc1fc8feb", null ],
+    [ "_events", "df/d22/a19122.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
+    [ "_factionNPC", "df/d22/a19122.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
+    [ "_instance", "df/d22/a19122.html#acd16d6200b08df23576aa9ccbb060d31", null ],
+    [ "_theLichKing", "df/d22/a19122.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
 ];

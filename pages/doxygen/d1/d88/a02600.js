@@ -1,11 +1,12 @@
 var a02600 =
 [
-    [ "BanMgr", "d1/d9e/a10442.html", "d1/d9e/a10442" ],
-    [ "sBan", "d1/d88/a02600.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
-    [ "BanReturn", "d1/d88/a02600.html#a4dd4670ead55e2780d09a66ab39943a7", [
-      [ "BAN_SUCCESS", "d1/d88/a02600.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
-      [ "BAN_SYNTAX_ERROR", "d1/d88/a02600.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
-      [ "BAN_NOTFOUND", "d1/d88/a02600.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
-      [ "BAN_LONGER_EXISTS", "d1/d88/a02600.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
-    ] ]
+    [ "AggressorAI", "df/d7e/a06538.html", "df/d7e/a06538" ],
+    [ "CombatAI", "d6/d95/a06542.html", "d6/d95/a06542" ],
+    [ "CasterAI", "db/db0/a06546.html", "db/db0/a06546" ],
+    [ "ArcherAI", "d1/df9/a06550.html", "d1/df9/a06550" ],
+    [ "TurretAI", "de/d9f/a06554.html", "de/d9f/a06554" ],
+    [ "VehicleAI", "d4/d30/a06558.html", "d4/d30/a06558" ],
+    [ "VEHICLE_CONDITION_CHECK_TIME", "d1/d88/a02600.html#a2842973ff947088648cd327dc9e1d379", null ],
+    [ "VEHICLE_DISMISS_TIME", "d1/d88/a02600.html#a9b232fec810abbe5eaf5536e608b6e38", null ],
+    [ "SpellVct", "d1/d88/a02600.html#aef8ccdd14344d9c395d613c21bafd91e", null ]
 ];

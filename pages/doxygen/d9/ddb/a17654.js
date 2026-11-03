@@ -1,6 +1,7 @@
 var a17654 =
 [
-    [ "npc_pos_leader_secondAI", "d6/da5/a17658.html", "d6/da5/a17658" ],
-    [ "npc_pos_leader_second", "d9/ddb/a17654.html#ac4758674cc97eae0937264fa028e6da5", null ],
-    [ "GetAI", "d9/ddb/a17654.html#ac403cfc86247990d78c9cf4179df8b87", null ]
+    [ "HandleEffectPeriodic", "d9/ddb/a17654.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "d9/ddb/a17654.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "d9/ddb/a17654.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "d9/ddb/a17654.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

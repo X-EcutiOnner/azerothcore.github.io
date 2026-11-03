@@ -1,10 +1,15 @@
 var a03782 =
 [
-    [ "GetChaseRange", "d9/df0/a03782.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
-    [ "GetTargetSpeedInMotion", "d9/df0/a03782.html#a56719695683e0a1fbeaeb49d31f62d74", null ],
-    [ "GetVelocity", "d9/df0/a03782.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
-    [ "IsMutualChase", "d9/df0/a03782.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
-    [ "IsValidPredictedPosition", "d9/df0/a03782.html#a27995927630ed43ca4a79dff89cfb99c", null ],
-    [ "PredictPosition", "d9/df0/a03782.html#ada5b031ff95410ba84fd734c95c68099", null ],
-    [ "FOLLOW_CATCHUP_MAX_MULTIPLIER", "d9/df0/a03782.html#ade9b07d0443f1dea9260aaecaebcc638", null ]
+    [ "icecrown_citadel_teleport", "d0/da9/a19466.html", "d0/da9/a19466" ],
+    [ "at_frozen_throne_teleport", "d3/d82/a19470.html", "d3/d82/a19470" ],
+    [ "GOSSIP_SENDER_ICC_PORT", "d9/df0/a03782.html#a6fba34564bcdeb5d7a73d3c21850f02a", null ],
+    [ "ICCTeleportOption", "d9/df0/a03782.html#a6fd4f2624c3269860a58fdcfbb273928", [
+      [ "ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER", "d9/df0/a03782.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED", "d9/df0/a03782.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS", "d9/df0/a03782.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE", "d9/df0/a03782.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE", "d9/df0/a03782.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR", "d9/df0/a03782.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b", null ]
+    ] ],
+    [ "AddSC_icecrown_citadel_teleport", "d9/df0/a03782.html#aba5bcd7624aeee0dbd61deec7f8d5d5b", null ]
 ];

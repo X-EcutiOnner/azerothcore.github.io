@@ -1,6 +1,7 @@
 var a18238 =
 [
-    [ "BurningPitchFilterCheck", "d7/d5d/a18238.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
-    [ "operator()", "d7/d5d/a18238.html#a24be987c8471d8a7096025debf6e60b1", null ],
-    [ "_entry", "d7/d5d/a18238.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
+    [ "PrepareSpellScript", "d7/d5d/a18238.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "d7/d5d/a18238.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "d7/d5d/a18238.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "d7/d5d/a18238.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

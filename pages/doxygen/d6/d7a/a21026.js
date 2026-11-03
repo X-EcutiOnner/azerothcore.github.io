@@ -1,8 +1,6 @@
 var a21026 =
 [
-    [ "npc_xt002_heart", "d6/d7a/a21026.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
-    [ "DoAction", "d6/d7a/a21026.html#a3150ab74ea50c9de6d937b3271e782de", null ],
-    [ "JustDied", "d6/d7a/a21026.html#a4f62cabc74ad43cf53f2257902982dff", null ],
-    [ "Reset", "d6/d7a/a21026.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
-    [ "_instance", "d6/d7a/a21026.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
+    [ "FilterTargets", "d6/d7a/a21026.html#a766440359968faf85f60f987b5da8c70", null ],
+    [ "PrepareSpellScript", "d6/d7a/a21026.html#a3f53d4e7fa30e53a1e05803a60c8b09b", null ],
+    [ "Register", "d6/d7a/a21026.html#adbcc19da817ecdfad19543b70afd9e56", null ]
 ];

@@ -1,6 +1,7 @@
 var a17898 =
 [
-    [ "KnockIntoAir", "d5/d44/a17898.html#a1f9fb1f258613ca6657abba26969961f", null ],
-    [ "PrepareSpellScript", "d5/d44/a17898.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
-    [ "Register", "d5/d44/a17898.html#a35a7758630c1769228fedff84ad929e8", null ]
+    [ "PeriodicTick", "d5/d44/a17898.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "d5/d44/a17898.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "d5/d44/a17898.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "d5/d44/a17898.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

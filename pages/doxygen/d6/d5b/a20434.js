@@ -1,7 +1,9 @@
 var a20434 =
 [
-    [ "OnPeriodic", "d6/d5b/a20434.html#a1dff4c7e181c86a9c6ac7df5304214c8", null ],
-    [ "PrepareAuraScript", "d6/d5b/a20434.html#a93b006b762bd757c606ed44da5178134", null ],
-    [ "Register", "d6/d5b/a20434.html#ac528c63dedbf16f1f88c3d6ffdb9ef69", null ],
-    [ "Validate", "d6/d5b/a20434.html#a2ee1dbb056430b9db5e9e3ead05014a5", null ]
+    [ "Absorb", "d6/d5b/a20434.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
+    [ "CalculateAmount", "d6/d5b/a20434.html#a9166627cbaa536405975444c4ef601de", null ],
+    [ "Load", "d6/d5b/a20434.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
+    [ "PrepareAuraScript", "d6/d5b/a20434.html#aa5793741c2f8179db68a9fb1222a9085", null ],
+    [ "Register", "d6/d5b/a20434.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
+    [ "_absorbPct", "d6/d5b/a20434.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
 ];

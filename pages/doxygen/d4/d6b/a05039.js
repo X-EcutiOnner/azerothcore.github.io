@@ -1,16 +1,18 @@
 var a05039 =
 [
-    [ "frand", "d4/d6b/a05039.html#a19bd31014583536af788a65b398e4406", null ],
-    [ "GetRng", "d4/d6b/a05039.html#a8602a67daa881e92c3eb9204c88b7733", null ],
-    [ "irand", "d4/d6b/a05039.html#a6ae07d2bb0593d8339e65c136f63ecc0", null ],
-    [ "rand32", "d4/d6b/a05039.html#ac699324b85bb2266ea8978796967c541", null ],
-    [ "rand_chance", "d4/d6b/a05039.html#a66621d09a8cc2aa9476391004fe2c427", null ],
-    [ "rand_norm", "d4/d6b/a05039.html#af2f9363ceebb6f78067b4a146d1de9df", null ],
-    [ "randtime", "d4/d6b/a05039.html#a9ecda65ea9686c86f47934d04d38ec69", null ],
-    [ "randtime", "d4/d6b/a05039.html#a7c8533961af63b720553e868fdaabd85", null ],
-    [ "urand", "d4/d6b/a05039.html#ab17def34ccbbd868dc87a16bf35acdbd", null ],
-    [ "urandms", "d4/d6b/a05039.html#af901d57f29ff48f701a375e44a0f1261", null ],
-    [ "urandweighted", "d4/d6b/a05039.html#a3f7e714c8fc3a6f6ccbe91d524a84f23", null ],
-    [ "engine", "d4/d6b/a05039.html#a8ab11e2fa939d9f333dfa1a858e7690b", null ],
-    [ "sfmtRand", "d4/d6b/a05039.html#a131ba7587aa544a7e73ff9884d6bc784", null ]
+    [ "OutdoorPvPSI", "d2/de9/a22778.html", "d2/de9/a22778" ],
+    [ "OutdoorPvPSISpells", "d4/d6b/a05039.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
+      [ "SI_SILITHYST_FLAG_GO_SPELL", "d4/d6b/a05039.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
+      [ "SI_SILITHYST_FLAG", "d4/d6b/a05039.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
+      [ "SI_TRACES_OF_SILITHYST", "d4/d6b/a05039.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
+      [ "SI_CENARION_FAVOR", "d4/d6b/a05039.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
+    ] ],
+    [ "OutdoorPvPSIBuffZones", "d4/d6b/a05039.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
+    [ "OutdoorPvPSIBuffZonesNum", "d4/d6b/a05039.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
+    [ "SI_AREATRIGGER_A", "d4/d6b/a05039.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
+    [ "SI_AREATRIGGER_H", "d4/d6b/a05039.html#abb17804eb9913c298a5dae804e1c7206", null ],
+    [ "SI_MAX_RESOURCES", "d4/d6b/a05039.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
+    [ "SI_SILITHYST_MOUND", "d4/d6b/a05039.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
+    [ "SI_TURNIN_QUEST_CM_A", "d4/d6b/a05039.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
+    [ "SI_TURNIN_QUEST_CM_H", "d4/d6b/a05039.html#ad1787da9136bc956357571149e1f6b60", null ]
 ];

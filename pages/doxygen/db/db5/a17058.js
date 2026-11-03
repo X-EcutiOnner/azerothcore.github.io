@@ -1,6 +1,8 @@
 var a17058 =
 [
-    [ "npc_toc_mageAI", "d3/d93/a17062.html", "d3/d93/a17062" ],
-    [ "npc_toc_mage", "db/db5/a17058.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "db/db5/a17058.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "npc_toc_boomkinAI", "db/db5/a17058.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "db/db5/a17058.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "db/db5/a17058.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "db/db5/a17058.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "db/db5/a17058.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

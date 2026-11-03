@@ -1,6 +1,6 @@
 var a20098 =
 [
-    [ "CalculateDamage", "d8/dd1/a20098.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d8/dd1/a20098.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d8/dd1/a20098.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "boss_krystallusAI", "d9/d25/a20102.html", "d9/d25/a20102" ],
+    [ "boss_krystallus", "d8/dd1/a20098.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "d8/dd1/a20098.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];
