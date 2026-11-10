@@ -1,7 +1,6 @@
 var a23505 =
 [
-    [ "go_ahune_ice_spear", "de/d86/a23505.html#a22922e47b819bc60e331cffbc7c353b3", null ],
-    [ "Reset", "de/d86/a23505.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
-    [ "UpdateAI", "de/d86/a23505.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
-    [ "_scheduler", "de/d86/a23505.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
+    [ "HandleEffectRemove", "de/d86/a23505.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
+    [ "PrepareAuraScript", "de/d86/a23505.html#adc6f982b0e3cc56039746f425cb09113", null ],
+    [ "Register", "de/d86/a23505.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
 ];

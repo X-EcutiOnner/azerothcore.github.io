@@ -1,4 +1,6 @@
 var a28961 =
 [
-    [ "ratio", "d1/de0/a28961.html#a4df2f98014dd653657b80b4d98e54896", null ]
+    [ "X", "d1/de0/a28961.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "d1/de0/a28961.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "d1/de0/a28961.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

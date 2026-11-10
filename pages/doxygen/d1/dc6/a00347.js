@@ -1,4 +1,5 @@
 var a00347 =
 [
-    [ "EventEmitter< Signature >", "d7/d86/a05890.html", "d7/d86/a05890" ]
+    [ "Acore::AhoCorasick< CharT >", "da/df2/a05869.html", "da/df2/a05869" ],
+    [ "Acore::AhoCorasick< CharT >::Node", "d4/d80/a05873.html", "d4/d80/a05873" ]
 ];

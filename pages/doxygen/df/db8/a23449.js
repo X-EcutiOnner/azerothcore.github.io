@@ -1,6 +1,6 @@
 var a23449 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d3/d55/a23453.html", "d3/d55/a23453" ],
-    [ "instance_serpent_shrine", "df/db8/a23449.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "df/db8/a23449.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "OnPeriodic", "df/db8/a23449.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
+    [ "PrepareAuraScript", "df/db8/a23449.html#a8444053fa146a4163ea905634be78dfc", null ],
+    [ "Register", "df/db8/a23449.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
 ];

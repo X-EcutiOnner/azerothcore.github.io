@@ -1,5 +1,9 @@
 var a10157 =
 [
-    [ "entry", "de/d6a/a10157.html#a1105fbea33b497bca2a290431cb0f4ca", null ],
-    [ "type", "de/d6a/a10157.html#acaf1010ce0620ee99a2a6b2721a06b89", null ]
+    [ "completedEncounters", "de/d6a/a10157.html#acd444d68aab9efa6aace6f3964a40206", null ],
+    [ "data", "de/d6a/a10157.html#a50d57b4d7d0ba162ae1cc53ee4c4462c", null ],
+    [ "difficulty", "de/d6a/a10157.html#a31694740b0a3af858c12c51f0659fe3c", null ],
+    [ "instanceId", "de/d6a/a10157.html#aefe57dc77cf3043b6c187fdb676d9c51", null ],
+    [ "mapId", "de/d6a/a10157.html#a14cbda11b8b949fe647a6851d15d6465", null ],
+    [ "resetTime", "de/d6a/a10157.html#af7c9d7b1fee85de40aade9576e8c49ff", null ]
 ];

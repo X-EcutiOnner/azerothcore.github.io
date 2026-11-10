@@ -1,7 +1,7 @@
 var a25521 =
 [
-    [ "HandleDummy", "d8/d57/a25521.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
-    [ "Load", "d8/d57/a25521.html#a738318535196b3d55e8f1b3da4f76c95", null ],
-    [ "PrepareSpellScript", "d8/d57/a25521.html#a941a097124ed9b4917faa18ff23fc366", null ],
-    [ "Register", "d8/d57/a25521.html#aaf9d269e7d052515f31b463999e92cf4", null ]
+    [ "HandleChargeEffect", "d8/d57/a25521.html#ad8d2871e6277dd982653fa864010d084", null ],
+    [ "HandleScriptEffect", "d8/d57/a25521.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
+    [ "PrepareSpellScript", "d8/d57/a25521.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
+    [ "Register", "d8/d57/a25521.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
 ];

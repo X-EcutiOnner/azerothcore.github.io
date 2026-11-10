@@ -1,6 +1,5 @@
 var a13601 =
 [
-    [ "HandleAfterHit", "d5/d78/a13601.html#a52864ee174e34f16827cbe863d152789", null ],
-    [ "PrepareSpellScript", "d5/d78/a13601.html#a0cbcdcae0c2e5736ce3f750fb1738d36", null ],
-    [ "Register", "d5/d78/a13601.html#a8efcb11b1dacbf2f7fb840d94fccecb4", null ]
+    [ "boss_zelfan", "d5/d78/a13601.html#a169e72dfe50c5199bf0053828888095b", null ],
+    [ "JustEngagedWith", "d5/d78/a13601.html#a4e83c11ad95ea4dbea893a08671f17af", null ]
 ];

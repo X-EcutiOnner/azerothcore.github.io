@@ -1,6 +1,7 @@
 var a25137 =
 [
-    [ "HandleHeal", "dc/d1a/a25137.html#a682a496d59201774de50951ffd2c7c0d", null ],
-    [ "PrepareSpellScript", "dc/d1a/a25137.html#a10dd1c0f67ff07f8e35ba0322c934899", null ],
-    [ "Register", "dc/d1a/a25137.html#abc29f509e703f3807241b63f728a69af", null ]
+    [ "HandleProc", "dc/d1a/a25137.html#a17f1f652f4144bfade0072e311f579e7", null ],
+    [ "PrepareAuraScript", "dc/d1a/a25137.html#a8ab8da270b52ce7be6419f5947df6566", null ],
+    [ "Register", "dc/d1a/a25137.html#a660b69eb520799733f59218c919b28ed", null ],
+    [ "Validate", "dc/d1a/a25137.html#a433be7a238be09e86c395a6d3625c56d", null ]
 ];

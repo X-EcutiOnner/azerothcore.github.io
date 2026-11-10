@@ -1,10 +1,9 @@
 var a09049 =
 [
-    [ "PvPInfo", "d8/d10/a09049.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
-    [ "EndTimer", "d8/d10/a09049.html#ae06b5030552c02f30fe8386633a753df", null ],
-    [ "FFAPvPEndTimer", "d8/d10/a09049.html#a739dfc63dfe39429a44ea682d9120522", null ],
-    [ "IsHostile", "d8/d10/a09049.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
-    [ "IsInFFAPvPArea", "d8/d10/a09049.html#a8a654926248b3974587af1eb9c064d15", null ],
-    [ "IsInHostileArea", "d8/d10/a09049.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
-    [ "IsInNoPvPArea", "d8/d10/a09049.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
+    [ "ActionButton", "d8/d10/a09049.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "d8/d10/a09049.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "d8/d10/a09049.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "d8/d10/a09049.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "d8/d10/a09049.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "d8/d10/a09049.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

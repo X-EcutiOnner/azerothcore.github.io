@@ -1,8 +1,7 @@
 var a12889 =
 [
-    [ "boss_halycon", "db/d6c/a12889.html#a8a88f0d26b4702fd1b4f015cc1366362", null ],
-    [ "JustDied", "db/d6c/a12889.html#a48bd1245ac5b76dac543a4389a8b37be", null ],
-    [ "JustEngagedWith", "db/d6c/a12889.html#a3f6ca689777e1aa43a214e8082897db1", null ],
-    [ "Reset", "db/d6c/a12889.html#a3b972bfcac3498c921978eab1d8fec4f", null ],
-    [ "UpdateAI", "db/d6c/a12889.html#acc375743131ce5643d04ae355b6d68b4", null ]
+    [ "boss_okthor", "db/d6c/a12889.html#a10c5868b555e6f7edc11de179eccb151", null ],
+    [ "JustEngagedWith", "db/d6c/a12889.html#a40909de030f186531a8cfe1993b6aa40", null ],
+    [ "UpdateAI", "db/d6c/a12889.html#ab63a797da2b3f93da32b078b9731b1de", null ],
+    [ "_nextArcaneExplosionTime", "db/d6c/a12889.html#aa7c9edda4aee7ed257b3cb1334c4e899", null ]
 ];

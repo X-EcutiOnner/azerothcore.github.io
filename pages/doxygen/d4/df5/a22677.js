@@ -1,8 +1,9 @@
 var a22677 =
 [
-    [ "HandleApply", "d4/df5/a22677.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "d4/df5/a22677.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "d4/df5/a22677.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "d4/df5/a22677.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "d4/df5/a22677.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "npc_finklesteinAI", "d5/dac/a22681.html", "d5/dac/a22681" ],
+    [ "npc_finklestein", "d4/df5/a22677.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "d4/df5/a22677.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "d4/df5/a22677.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "d4/df5/a22677.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "d4/df5/a22677.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

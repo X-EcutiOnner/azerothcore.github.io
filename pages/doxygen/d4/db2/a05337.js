@@ -1,7 +1,5 @@
 var a05337 =
 [
-    [ "LiquidInfo", "d4/db2/a05337.html#a0caefac43d2f5c59446e2a9f7e565c11", null ],
-    [ "LiquidInfo", "d4/db2/a05337.html#abfae4e75223a93b5b71840f60710afb9", null ],
-    [ "level", "d4/db2/a05337.html#ade8f31cc9adc77ff82724134b5ebba24", null ],
-    [ "type", "d4/db2/a05337.html#a46eda7aed64f2a5b0bd5ce1f88942c20", null ]
+    [ "GetBounds", "d4/db2/a05337.html#af54bd6c6ebe09db97b585d15e04ed707", null ],
+    [ "GetBounds2", "d4/db2/a05337.html#ac79766d4e41cfb637ed0224b4f42f1c2", null ]
 ];

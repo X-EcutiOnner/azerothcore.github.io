@@ -1,5 +1,7 @@
 var a18253 =
 [
-    [ "achievement_im_on_a_boat", "d1/d96/a18253.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d1/d96/a18253.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "PrepareSpellScript", "d1/d96/a18253.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "d1/d96/a18253.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "d1/d96/a18253.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "d1/d96/a18253.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

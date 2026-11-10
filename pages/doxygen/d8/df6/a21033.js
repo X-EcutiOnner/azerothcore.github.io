@@ -1,6 +1,8 @@
 var a21033 =
 [
-    [ "FilterTargets", "d8/df6/a21033.html#a766440359968faf85f60f987b5da8c70", null ],
-    [ "PrepareSpellScript", "d8/df6/a21033.html#a3f53d4e7fa30e53a1e05803a60c8b09b", null ],
-    [ "Register", "d8/df6/a21033.html#adbcc19da817ecdfad19543b70afd9e56", null ]
+    [ "npc_life_spark", "d8/df6/a21033.html#a76bbbdc610dbc433007930c7a45d03be", null ],
+    [ "JustEngagedWith", "d8/df6/a21033.html#af4111bf747f0d5c510f72f32d42f90e3", null ],
+    [ "Reset", "d8/df6/a21033.html#a3c5b0ee2fac3bc444cc3c58e70284b72", null ],
+    [ "UpdateAI", "d8/df6/a21033.html#a3dffda7a220e41302b928f55995d4dce", null ],
+    [ "_scheduler", "d8/df6/a21033.html#a7e77d71508031a75655db8aaa34d0f9d", null ]
 ];

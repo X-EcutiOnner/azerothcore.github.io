@@ -1,7 +1,11 @@
 var a12849 =
 [
-    [ "boss_moira_bronzebeard", "da/db2/a12849.html#aaab4b597fd97619c2a41e2a6425810de", null ],
-    [ "CastOnEmperorIfPossible", "da/db2/a12849.html#a413aab0c096319ea17d6c6a078b056ea", null ],
-    [ "JustEngagedWith", "da/db2/a12849.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
-    [ "UpdateAI", "da/db2/a12849.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
+    [ "boss_emperor_dagran_thaurissan", "da/db2/a12849.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
+    [ "JustDied", "da/db2/a12849.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
+    [ "JustEngagedWith", "da/db2/a12849.html#a182564d95dc677ea33e47995638a9a58", null ],
+    [ "KilledUnit", "da/db2/a12849.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
+    [ "SetData", "da/db2/a12849.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
+    [ "UpdateAI", "da/db2/a12849.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
+    [ "hasYelled", "da/db2/a12849.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
+    [ "SenatorYells", "da/db2/a12849.html#ad94aef1875a5a863f78dc84a964638f9", null ]
 ];

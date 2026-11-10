@@ -1,7 +1,7 @@
 var a21677 =
 [
-    [ "npc_azure_raider", "d6/d61/a21677.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
-    [ "Reset", "d6/d61/a21677.html#a3579986a1769467cb17d3b15242e0551", null ],
-    [ "UpdateAI", "d6/d61/a21677.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
-    [ "_events", "d6/d61/a21677.html#a8d25c785974cb8c50b55b547b982b06f", null ]
+    [ "npc_azure_binder", "d6/d61/a21677.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
+    [ "Reset", "d6/d61/a21677.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
+    [ "UpdateAI", "d6/d61/a21677.html#add9f304212a1a10267e564cd939f3751", null ],
+    [ "_events", "d6/d61/a21677.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
 ];

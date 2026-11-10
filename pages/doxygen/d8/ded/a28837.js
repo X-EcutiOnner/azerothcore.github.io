@@ -1,5 +1,6 @@
 var a28837 =
 [
-    [ "npc_necropolis", "d8/ded/a28837.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
-    [ "SpellHit", "d8/ded/a28837.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
+    [ "npc_venomhide_hatchlingAI", "d8/ded/a28837.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d8/ded/a28837.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d8/ded/a28837.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

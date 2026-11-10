@@ -1,13 +1,10 @@
 var a10985 =
 [
-    [ "ScriptObject", "d2/d5c/a10985.html#a494e983ccabd1d2311fe3afe0c2afbe5", null ],
-    [ "~ScriptObject", "d2/d5c/a10985.html#a80c704c939f54eee6655d68509598c42", null ],
-    [ "checkValidity", "d2/d5c/a10985.html#a585e75e34aed7aa32205daad85f8fe08", null ],
-    [ "GetName", "d2/d5c/a10985.html#a3f66eb7597f020167b7d75202d28b83a", null ],
-    [ "GetTotalAvailableHooks", "d2/d5c/a10985.html#a69ee35ec7d54226264efef558022c1c0", null ],
-    [ "isAfterLoadScript", "d2/d5c/a10985.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
-    [ "IsDatabaseBound", "d2/d5c/a10985.html#a37da453729d5c8fbe2d06f905563f47c", null ],
-    [ "ScriptMgr", "d2/d5c/a10985.html#a7a753f61d57353451e90f3f23fec4851", null ],
-    [ "_name", "d2/d5c/a10985.html#a90b63e382cac17922ae57fe22b84718c", null ],
-    [ "_totalAvailableHooks", "d2/d5c/a10985.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
+    [ "VehicleScript", "d2/d5c/a10985.html#a35a301eed5615f07831eb840ca48d469", null ],
+    [ "OnAddPassenger", "d2/d5c/a10985.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "d2/d5c/a10985.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "d2/d5c/a10985.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "d2/d5c/a10985.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "d2/d5c/a10985.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "d2/d5c/a10985.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

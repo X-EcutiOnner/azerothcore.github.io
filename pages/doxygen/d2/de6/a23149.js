@@ -1,7 +1,11 @@
 var a23149 =
 [
-    [ "CalculateAmount", "d2/de6/a23149.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "d2/de6/a23149.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "d2/de6/a23149.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "d2/de6/a23149.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "boss_essence_of_sufferingAI", "d2/de6/a23149.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
+    [ "DamageTaken", "d2/de6/a23149.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
+    [ "DoAction", "d2/de6/a23149.html#a08724d74523866969b12d13846eb4c1e", null ],
+    [ "JustEngagedWith", "d2/de6/a23149.html#aa2fce36768ad6e23a955cd215ca759db", null ],
+    [ "KilledUnit", "d2/de6/a23149.html#a3699b19f23cf15115ff8c92691a6d334", null ],
+    [ "MovementInform", "d2/de6/a23149.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
+    [ "Reset", "d2/de6/a23149.html#affa55b69784d8f881598189c361c986e", null ],
+    [ "UpdateAI", "d2/de6/a23149.html#abb60432720b3720832ccc83d454a3808", null ]
 ];

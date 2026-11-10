@@ -1,7 +1,8 @@
 var a09965 =
 [
-    [ "ObjectTypeIdCheck", "d2/d8b/a09965.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
-    [ "operator()", "d2/d8b/a09965.html#a9cbd09a6021bef7819a0002952264293", null ],
-    [ "_equals", "d2/d8b/a09965.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
-    [ "_typeId", "d2/d8b/a09965.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
+    [ "AllGameObjectsMatchingOneEntryInRange", "d2/d8b/a09965.html#ad64e96c8484be1354ad4a3c0b6754d95", null ],
+    [ "operator()", "d2/d8b/a09965.html#afc81f329be9d6d8eb8bfd2ade94c5665", null ],
+    [ "m_fRange", "d2/d8b/a09965.html#aa76b1a6c8a919c1e5b37c74b33859464", null ],
+    [ "m_pObject", "d2/d8b/a09965.html#ac2bae147199d0b1b592a560017128c4e", null ],
+    [ "m_uiEntries", "d2/d8b/a09965.html#a3eb95fd72147ab8195da44a46c2cf0e6", null ]
 ];

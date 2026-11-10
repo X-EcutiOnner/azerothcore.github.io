@@ -1,6 +1,6 @@
 var a27589 =
 [
-    [ "FilterTargets", "d2/d15/a27589.html#a34ca370993295225a779ee6537295112", null ],
-    [ "PrepareSpellScript", "d2/d15/a27589.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
-    [ "Register", "d2/d15/a27589.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
+    [ "HandleProc", "d2/d15/a27589.html#a34fc7c89e962791d76c24c40bbdba827", null ],
+    [ "PrepareAuraScript", "d2/d15/a27589.html#a3558a23d2d428ee4f0bec8ae6c1afba5", null ],
+    [ "Register", "d2/d15/a27589.html#aab998e808ec9f53e87d92e71b3cc1c30", null ]
 ];

@@ -1,6 +1,8 @@
 var a25677 =
 [
-    [ "HandleDamageCalc", "d6/d2f/a25677.html#a1d0c86e476e4ef75f4e8f2ff27fdd395", null ],
-    [ "PrepareSpellScript", "d6/d2f/a25677.html#a4271f026fd9cddeb109761e9b864c381", null ],
-    [ "Register", "d6/d2f/a25677.html#a03bb4cf19328efa783600273663b609a", null ]
+    [ "HandleApply", "d6/d2f/a25677.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "d6/d2f/a25677.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "d6/d2f/a25677.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "d6/d2f/a25677.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "d6/d2f/a25677.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

@@ -1,6 +1,7 @@
 var a13025 =
 [
-    [ "boss_firemaw", "da/d34/a13025.html#a2d2be691020b8aa81f82ffab91a86e42", null ],
-    [ "JustEngagedWith", "da/d34/a13025.html#a63d0f449d04ad3d86f4ede9a0f9696a9", null ],
-    [ "UpdateAI", "da/d34/a13025.html#a13a672cc37175615068429f9a3282e07", null ]
+    [ "boss_broodlord", "da/d34/a13025.html#a3194ef765e313daaa4a0e476ec3edafa", null ],
+    [ "JustDied", "da/d34/a13025.html#ac3f6f747fbe61e70562f14b9aa304765", null ],
+    [ "JustEngagedWith", "da/d34/a13025.html#acb7214857320945a646574b0130a9585", null ],
+    [ "UpdateAI", "da/d34/a13025.html#a5cdb166366938797de9d691096f0f155", null ]
 ];

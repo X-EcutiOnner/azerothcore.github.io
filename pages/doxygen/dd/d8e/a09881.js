@@ -1,8 +1,7 @@
 var a09881 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "dd/d8e/a09881.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "dd/d8e/a09881.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "dd/d8e/a09881.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "dd/d8e/a09881.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "dd/d8e/a09881.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck", "dd/d8e/a09881.html#a038f512c564e4ae18571ac1836897edb", null ],
+    [ "operator()", "dd/d8e/a09881.html#a3bc09bf6fc4481c67190f57dc4198f6e", null ],
+    [ "i_funit", "dd/d8e/a09881.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6", null ],
+    [ "i_range", "dd/d8e/a09881.html#a953943e53e25b6887bfab8cc1c19620a", null ]
 ];

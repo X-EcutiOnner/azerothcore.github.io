@@ -1,7 +1,7 @@
 var a28741 =
 [
-    [ "npc_sayge", "d2/d70/a28741.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d2/d70/a28741.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d2/d70/a28741.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d2/d70/a28741.html#aed1988335672423d024546654aa95298", null ]
+    [ "npc_doctorAI", "dd/d69/a28745.html", "dd/d69/a28745" ],
+    [ "npc_doctor", "d2/d70/a28741.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
+    [ "GetAI", "d2/d70/a28741.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
+    [ "OnQuestAccept", "d2/d70/a28741.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
 ];

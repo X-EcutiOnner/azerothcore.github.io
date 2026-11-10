@@ -1,7 +1,7 @@
 var a13705 =
 [
-    [ "OnPeriodic", "db/daa/a13705.html#ab193b7cf8a8fe91879317e7d21522976", null ],
-    [ "PrepareAuraScript", "db/daa/a13705.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
-    [ "Register", "db/daa/a13705.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
-    [ "Validate", "db/daa/a13705.html#a290b864756ceff85d52ba3f974a28217", null ]
+    [ "npc_apothecary_genericAI", "db/daa/a13705.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "db/daa/a13705.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "db/daa/a13705.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "db/daa/a13705.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

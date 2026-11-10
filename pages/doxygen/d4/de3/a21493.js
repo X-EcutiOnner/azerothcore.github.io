@@ -1,6 +1,6 @@
 var a21493 =
 [
-    [ "HandleDummyEffect", "d4/de3/a21493.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "d4/de3/a21493.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "d4/de3/a21493.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "npc_ritual_channelerAI", "d8/d92/a21497.html", "d8/d92/a21497" ],
+    [ "npc_ritual_channeler", "d4/de3/a21493.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "d4/de3/a21493.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

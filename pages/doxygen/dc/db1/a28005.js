@@ -1,7 +1,8 @@
 var a28005 =
 [
-    [ "HandleProc", "dc/db1/a28005.html#a28f109c403d3bb46dd4f9c18057cfcd9", null ],
-    [ "PrepareAuraScript", "dc/db1/a28005.html#a0eb7295583f2c45c88ae266d66813b5b", null ],
-    [ "Register", "dc/db1/a28005.html#ab8848a011ec8397bc5712ced54e09432", null ],
-    [ "Validate", "dc/db1/a28005.html#ae35703b7d676fde170241dd64c3c5411", null ]
+    [ "ApplyEffect", "dc/db1/a28005.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
+    [ "HandleEffectPeriodicUpdate", "dc/db1/a28005.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
+    [ "PrepareAuraScript", "dc/db1/a28005.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
+    [ "Register", "dc/db1/a28005.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
+    [ "_tick_amount", "dc/db1/a28005.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
 ];

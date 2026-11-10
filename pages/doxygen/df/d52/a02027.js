@@ -1,11 +1,7 @@
 var a02027 =
 [
-    [ "instance_hyjal", "df/d05/a15346.html", "df/d05/a15346" ],
-    [ "instance_hyjal::instance_mount_hyjal_InstanceMapScript", "d0/d4f/a15350.html", "d0/d4f/a15350" ],
-    [ "AddSC_instance_mount_hyjal", "df/d52/a02027.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41", null ],
-    [ "creatureData", "df/d52/a02027.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "df/d52/a02027.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "hyjalNightElfWaveTimers", "df/d52/a02027.html#ade7b4d2fdf8cd15fa4985554885eb881", null ],
-    [ "hyjalRetreatTimers", "df/d52/a02027.html#a254787ab3a62d90e906ded9ef63aa229", null ],
-    [ "hyjalWaveTimers", "df/d52/a02027.html#aaad50890c4534c5b5c848a9b85f3d8fe", null ]
+    [ "OutdoorPvPData", "d3/d4e/a10705.html", "d3/d4e/a10705" ],
+    [ "OutdoorPvPMgr", "d5/da6/a10709.html", "d5/da6/a10709" ],
+    [ "OUTDOORPVP_OBJECTIVE_UPDATE_INTERVAL", "df/d52/a02027.html#af3942e94a2b618e59d9a607df883023b", null ],
+    [ "sOutdoorPvPMgr", "df/d52/a02027.html#a7f16e829e6dd717c8a6a20fd1aa783cc", null ]
 ];

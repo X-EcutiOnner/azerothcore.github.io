@@ -1,11 +1,11 @@
 var a08921 =
 [
-    [ "ObjectGuidGeneratorBase", "d9/d82/a08921.html#a8af6741cc884915ee86b489fc970fed1", null ],
-    [ "~ObjectGuidGeneratorBase", "d9/d82/a08921.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
-    [ "Generate", "d9/d82/a08921.html#ac655829fc5af48625c04bab57597fe66", null ],
-    [ "GetClusterGuid", "d9/d82/a08921.html#a7617177be7e333129fe0b6ed94019f6e", null ],
-    [ "GetNextAfterMaxUsed", "d9/d82/a08921.html#abf1f20b97af8071459bd850e7106a442", null ],
-    [ "HandleCounterOverflow", "d9/d82/a08921.html#ada7a44ac47b112491c575c38465740fc", null ],
-    [ "Set", "d9/d82/a08921.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
-    [ "_nextGuid", "d9/d82/a08921.html#a4a14102e019aa10f41b050054cacca22", null ]
+    [ "MovableMapObject", "d9/d82/a08921.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
+    [ "GetCurrentCell", "d9/d82/a08921.html#a6d7d87cff5f00f3b370584675caf7870", null ],
+    [ "SetCurrentCell", "d9/d82/a08921.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
+    [ "Map", "d9/d82/a08921.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "ObjectGridLoader", "d9/d82/a08921.html#a9551c85ae0e43e4d212225c643da2262", null ],
+    [ "RandomMovementGenerator", "d9/d82/a08921.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
+    [ "_currentCell", "d9/d82/a08921.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
+    [ "_moveState", "d9/d82/a08921.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
 ];

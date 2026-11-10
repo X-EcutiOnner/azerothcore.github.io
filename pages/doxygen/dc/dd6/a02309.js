@@ -1,6 +1,6 @@
 var a02309 =
 [
-    [ "calculateNextDepartureTime", "dc/dd6/a02309.html#a385e4650cdda06aa445485dc66ce13b0", null ],
-    [ "startTimestamp", "dc/dd6/a02309.html#afe6429daa475f408bae10dd6f2525b01", null ],
-    [ "transportStartDate", "dc/dd6/a02309.html#aaffdf4c6f140e5c339726ba9e134e6f9", null ]
+    [ "ObjectVisibilityContainer", "d0/df2/a08973.html", "d0/df2/a08973" ],
+    [ "VisiblePlayersMap", "dc/dd6/a02309.html#a52b38df575afa7eef8fb58759ee03bd8", null ],
+    [ "VisibleWorldObjectsMap", "dc/dd6/a02309.html#a6fe979433a4dd2c9023626ecc74bf6a5", null ]
 ];

@@ -1,6 +1,6 @@
 var a00260 =
 [
-    [ "SpellProcTargetResolutionTest", "d3/de0/a30258.html", null ],
+    [ "SpellProcTargetResolutionTest", "de/dcc/a30273.html", null ],
     [ "ResolveProcTriggerTarget", "dd/dd7/a00260.html#ae0ceced3da7b46834d403b94be7bd498", null ],
     [ "TEST_F", "dd/dd7/a00260.html#a94bb580a1521b12b0dc26d91b4d9e3ca", null ],
     [ "TEST_F", "dd/dd7/a00260.html#adc4f7536f5fbc531ee25c5e2e8aa823c", null ],

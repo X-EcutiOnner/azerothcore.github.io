@@ -1,11 +1,5 @@
 var a20673 =
 [
-    [ "npc_ulduar_iron_construct", "d4/d1d/a20673.html#ab44bf86ea4a50f365e37ba888d0b2f6d", null ],
-    [ "JustDied", "d4/d1d/a20673.html#ae102f4c7b9bc4246e0720287739e419a", null ],
-    [ "JustReachedHome", "d4/d1d/a20673.html#a77609f7939725001d7a31c4d92f00358", null ],
-    [ "MoveInLineOfSight", "d4/d1d/a20673.html#a6f8bfc52f6f8b6fbd4b8fb01bc827b8a", null ],
-    [ "Reset", "d4/d1d/a20673.html#a2fcec0917d5266b286cbb0995ef6ee34", null ],
-    [ "SpellHit", "d4/d1d/a20673.html#a0c786f44d9f255464fadb1c53b6fc004", null ],
-    [ "UpdateAI", "d4/d1d/a20673.html#afc56384db98a225a223c9214414508ea", null ],
-    [ "timer", "d4/d1d/a20673.html#a397277972454f710d7236ba36a67c977", null ]
+    [ "achievement_staying_buffed_all_winter_10", "d4/d1d/a20673.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
+    [ "OnCheck", "d4/d1d/a20673.html#a67587b1659a8d026e73b42311148541a", null ]
 ];

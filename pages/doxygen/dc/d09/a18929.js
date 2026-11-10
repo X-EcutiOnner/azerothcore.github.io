@@ -1,7 +1,6 @@
 var a18929 =
 [
-    [ "HandleProc", "dc/d09/a18929.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "dc/d09/a18929.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "dc/d09/a18929.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "dc/d09/a18929.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "npc_spirit_wardenAI", "de/d85/a18933.html", "de/d85/a18933" ],
+    [ "npc_spirit_warden", "dc/d09/a18929.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "dc/d09/a18929.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

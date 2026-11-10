@@ -1,7 +1,11 @@
 var a26953 =
 [
-    [ "CheckProc", "df/d83/a26953.html#ad9511694733ed76ed2e55ffc1005345e", null ],
-    [ "HandleProc", "df/d83/a26953.html#a8021759730e413476d768495e856c544", null ],
-    [ "PrepareAuraScript", "df/d83/a26953.html#a2d226a3b38dbe3da64f3ae9a3c47f9ea", null ],
-    [ "Register", "df/d83/a26953.html#a2d8e2b52076b519e083c71b99b482c32", null ]
+    [ "CheckCast", "df/d83/a26953.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleMaxHealthHeal", "df/d83/a26953.html#a019833641487ac07cb2c8740d5686a41", null ],
+    [ "HandleScript", "df/d83/a26953.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "df/d83/a26953.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "df/d83/a26953.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "df/d83/a26953.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "df/d83/a26953.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "df/d83/a26953.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

@@ -1,12 +1,12 @@
 var a03068 =
 [
-    [ "instance_gnomeregan", "d4/d2a/a13266.html", "d4/d2a/a13266" ],
-    [ "instance_gnomeregan::instance_gnomeregan_InstanceMapScript", "d0/db6/a13270.html", "d0/db6/a13270" ],
-    [ "npc_kernobee", "d1/d4e/a13274.html", "d1/d4e/a13274" ],
-    [ "npc_kernobee::npc_kernobeeAI", "d2/d7f/a13278.html", "d2/d7f/a13278" ],
-    [ "spell_gnomeregan_radiation_bolt", "d1/d6e/a13282.html", "d1/d6e/a13282" ],
-    [ "eKernobee", "da/d5d/a03068.html#a2abc5c19b823c78ec77c3d72114bf15a", [
-      [ "QUEST_A_FINE_MESS", "da/d5d/a03068.html#a2abc5c19b823c78ec77c3d72114bf15aae96e14c539b411972be0ce6ad156b394", null ]
-    ] ],
-    [ "AddSC_instance_gnomeregan", "da/d5d/a03068.html#afc9fa76575d58995fccc2f594a40114c", null ]
+    [ "instance_magisters_terrace", "d1/d10/a13613.html", "d1/d10/a13613" ],
+    [ "instance_magisters_terrace::instance_magisters_terrace_InstanceMapScript", "de/dc4/a13617.html", "de/dc4/a13617" ],
+    [ "AddSC_instance_magisters_terrace", "da/d5d/a03068.html#a39e3bff767d59081afebb72eeb3a1646", null ],
+    [ "boundaries", "da/d5d/a03068.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "da/d5d/a03068.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "da/d5d/a03068.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameobjectData", "da/d5d/a03068.html#a845a92716bd40c99a93eb0715cd737b0", null ],
+    [ "KalecgosSpawnPos", "da/d5d/a03068.html#a6fd9df921f79258a02d22baaf7a1caca", null ],
+    [ "summonerData", "da/d5d/a03068.html#acefca1a118e299acbb631fc6166a1526", null ]
 ];

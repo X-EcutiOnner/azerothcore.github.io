@@ -1,6 +1,5 @@
 var a11109 =
 [
-    [ "SetSheathed", "d8/d94/a11109.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "d8/d94/a11109.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "d8/d94/a11109.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "LogoutCancelAck", "d8/d94/a11109.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "d8/d94/a11109.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

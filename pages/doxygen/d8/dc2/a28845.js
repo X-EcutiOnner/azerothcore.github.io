@@ -1,6 +1,7 @@
 var a28845 =
 [
-    [ "npc_necropolis_proxy", "d8/dc2/a28845.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "d8/dc2/a28845.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "d8/dc2/a28845.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "npc_crashin_thrashin_robot", "d8/dc2/a28845.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "d8/dc2/a28845.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "d8/dc2/a28845.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "d8/dc2/a28845.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

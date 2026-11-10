@@ -1,6 +1,12 @@
 var a16185 =
 [
-    [ "npc_anachronos_quest_triggerAI", "d2/d2e/a16189.html", "d2/d2e/a16189" ],
-    [ "npc_anachronos_quest_trigger", "d7/d6e/a16185.html#ad39871952acd3152b51820fe360f4ebd", null ],
-    [ "GetAI", "d7/d6e/a16185.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
+    [ "npc_thrall_warchiefAI", "d7/d6e/a16185.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
+    [ "DoAction", "d7/d6e/a16185.html#a511da19703e30f6e82e59c5223bf2770", null ],
+    [ "JustDied", "d7/d6e/a16185.html#a5e6da0a5f5190d7959faff60851e679a", null ],
+    [ "JustEngagedWith", "d7/d6e/a16185.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
+    [ "Reset", "d7/d6e/a16185.html#a920a29258228c9c2e7e0791d38b648e1", null ],
+    [ "sGossipSelect", "d7/d6e/a16185.html#aaad63a0de8acfc17355b7a35de4cc164", null ],
+    [ "UpdateAI", "d7/d6e/a16185.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
+    [ "ChainLightningTimer", "d7/d6e/a16185.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
+    [ "ShockTimer", "d7/d6e/a16185.html#aa8609f8824f68ce7259465284c01dd35", null ]
 ];

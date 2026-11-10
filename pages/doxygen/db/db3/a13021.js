@@ -1,7 +1,9 @@
 var a13021 =
 [
-    [ "boss_ebonroc", "db/db3/a13021.html#a74725561727d5bf0dd266f50d377c9c8", null ],
-    [ "JustEngagedWith", "db/db3/a13021.html#a84250d1bc0986130404433c80162ecac", null ],
-    [ "MovementInform", "db/db3/a13021.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
-    [ "UpdateAI", "db/db3/a13021.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
+    [ "npc_vaelastrasz_the_red", "db/db3/a13021.html#a28ba5ca91e61707360c8a1f9a8550567", null ],
+    [ "IsSummonedBy", "db/db3/a13021.html#ad5f2aeaee704c436e60bc5c5400c0f75", null ],
+    [ "UpdateAI", "db/db3/a13021.html#a95b48026759f9e5e5f0c452a8019ef03", null ],
+    [ "_combatEnabled", "db/db3/a13021.html#a373fe15d1e754f11db59186517783a40", null ],
+    [ "_events2", "db/db3/a13021.html#acecc982854e9d587112e9117e7d7a3fa", null ],
+    [ "_victorGUID", "db/db3/a13021.html#a0e5d6bd095c980a45dcfe68faf2c7b3f", null ]
 ];

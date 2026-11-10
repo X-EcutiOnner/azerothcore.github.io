@@ -1,11 +1,14 @@
 var a09189 =
 [
-    [ "AuraMunchingQueue", "d2/dbd/a09189.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
-    [ "Execute", "d2/dbd/a09189.html#a8f025a0ea1db81fb283db563402d1c40", null ],
-    [ "_auraType", "d2/dbd/a09189.html#add694e24c38d585784f236acf9118b76", null ],
-    [ "_aurEff", "d2/dbd/a09189.html#a8ac00964608170d5375242c1b19c4be3", null ],
-    [ "_basePoints", "d2/dbd/a09189.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
-    [ "_owner", "d2/dbd/a09189.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
-    [ "_spellId", "d2/dbd/a09189.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
-    [ "_targetGUID", "d2/dbd/a09189.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
+    [ "PassengerSet", "d2/dbd/a09189.html#aa6421ebd51e84c819604e18e93729d27", null ],
+    [ "Transport", "d2/dbd/a09189.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
+    [ "AddPassenger", "d2/dbd/a09189.html#ac5c328f816b0358a68265322219357c1", null ],
+    [ "CalculatePassengerOffset", "d2/dbd/a09189.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
+    [ "CalculatePassengerPosition", "d2/dbd/a09189.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
+    [ "DelayedUpdate", "d2/dbd/a09189.html#aabc885fccc7a4a4d6a98f9ed8b39cd43", null ],
+    [ "GetPassengers", "d2/dbd/a09189.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
+    [ "GetPathProgress", "d2/dbd/a09189.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
+    [ "RemovePassenger", "d2/dbd/a09189.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
+    [ "SetPathProgress", "d2/dbd/a09189.html#acb68e75a78fa196a4b514abd24c0e322", null ],
+    [ "_passengers", "d2/dbd/a09189.html#adc2089495aadaab23414ecae3b2df180", null ]
 ];

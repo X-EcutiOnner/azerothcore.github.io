@@ -1,11 +1,16 @@
 var a21157 =
 [
-    [ "boss_yoggsaron_llane", "d5/deb/a21157.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
-    [ "NextStep", "d5/deb/a21157.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
-    [ "Reset", "d5/deb/a21157.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
-    [ "Say", "d5/deb/a21157.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
-    [ "UpdateAI", "d5/deb/a21157.html#a58ec957cd59b944439fe514e728e2902", null ],
-    [ "_checkTimer", "d5/deb/a21157.html#a3043382e2727bc78a74acaec28697045", null ],
-    [ "_running", "d5/deb/a21157.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
-    [ "_step", "d5/deb/a21157.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
+    [ "boss_yoggsaron_immortal_guardian", "d5/deb/a21157.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "d5/deb/a21157.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "EngageFromStasis", "d5/deb/a21157.html#af9717bb7058b8a51dd30dc9edacd66e7", null ],
+    [ "JustEngagedWith", "d5/deb/a21157.html#a7583d6058cf805fa1c36cd98b9e9e7d2", null ],
+    [ "MoveInLineOfSight", "d5/deb/a21157.html#acbf73ba53c74b1e663eccb6866828134", null ],
+    [ "Reset", "d5/deb/a21157.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "d5/deb/a21157.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "d5/deb/a21157.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spawnStasis", "d5/deb/a21157.html#a7de7c5e60cc888d5729273e63495e382", null ],
+    [ "DRAIN_LIFE_HEALTH_CHECK", "d5/deb/a21157.html#afc8d67d6a482a20638e17d30b58c5c8b", null ],
+    [ "DRAIN_LIFE_INTERVAL", "d5/deb/a21157.html#a1a4c5a3f9261b4da86f9bc0476216dee", null ],
+    [ "SPAWN_STASIS_TIME", "d5/deb/a21157.html#a5d8549b48c63168c205d5e126209ee66", null ],
+    [ "SPAWN_VISUAL_DELAY", "d5/deb/a21157.html#a0db02bb21ba048c236a432421c009250", null ]
 ];

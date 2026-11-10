@@ -1,6 +1,6 @@
 var a17233 =
 [
-    [ "npc_concentrated_ballAI", "d8/d12/a17237.html", "d8/d12/a17237" ],
-    [ "npc_concentrated_ball", "d0/d01/a17233.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "d0/d01/a17233.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "boss_fjolaAI", "d8/d12/a17237.html", "d8/d12/a17237" ],
+    [ "boss_fjola", "d0/d01/a17233.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
+    [ "GetAI", "d0/d01/a17233.html#a96d9ea0716199758b60ad933ade28de4", null ]
 ];

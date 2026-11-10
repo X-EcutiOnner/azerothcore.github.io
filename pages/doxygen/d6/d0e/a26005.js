@@ -1,7 +1,7 @@
 var a26005 =
 [
-    [ "CheckProc", "d6/d0e/a26005.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
-    [ "HandleProc", "d6/d0e/a26005.html#a5cf9cea911ead2f261522e55e94c745a", null ],
-    [ "PrepareAuraScript", "d6/d0e/a26005.html#a3f2b20607f90ad641769eb284ddfab85", null ],
-    [ "Register", "d6/d0e/a26005.html#a55557026689613e91aeabce1af442237", null ]
+    [ "OnDummyEffect", "d6/d0e/a26005.html#a333c11c7ee2821bcc4d74d316f55bf5a", null ],
+    [ "PrepareSpellScript", "d6/d0e/a26005.html#aa15334f23b837a005a34a12d238fc9d5", null ],
+    [ "Register", "d6/d0e/a26005.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ],
+    [ "Validate", "d6/d0e/a26005.html#a359fba1475e52b24635cc8dda51cc922", null ]
 ];

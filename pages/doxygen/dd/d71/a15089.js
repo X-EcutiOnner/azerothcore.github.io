@@ -1,8 +1,7 @@
 var a15089 =
 [
-    [ "OnApply", "dd/d71/a15089.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
-    [ "OnRemove", "dd/d71/a15089.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
-    [ "PrepareAuraScript", "dd/d71/a15089.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
-    [ "Register", "dd/d71/a15089.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
-    [ "Validate", "dd/d71/a15089.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
+    [ "HandleScript", "dd/d71/a15089.html#a78899a874a645d531dd4d89f2bd5478a", null ],
+    [ "PrepareSpellScript", "dd/d71/a15089.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
+    [ "Register", "dd/d71/a15089.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
+    [ "Validate", "dd/d71/a15089.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
 ];

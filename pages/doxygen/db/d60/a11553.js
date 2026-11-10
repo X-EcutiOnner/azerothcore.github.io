@@ -1,7 +1,12 @@
 var a11553 =
 [
-    [ "TrainerBuySucceeded", "db/d60/a11553.html#ae00367a55429030c107fc8f6bb7db288", null ],
-    [ "Write", "db/d60/a11553.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
-    [ "SpellID", "db/d60/a11553.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
-    [ "TrainerGUID", "db/d60/a11553.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
+    [ "Complain", "db/d60/a11553.html#aa1cf8c3159d1334186b28c0abf0b5bec", null ],
+    [ "Read", "db/d60/a11553.html#a5a5cc78c807ce5d1e455bedd283c0f4d", null ],
+    [ "ChannelId", "db/d60/a11553.html#a134b3bc2c782494fff06b5d83a2b9f98", null ],
+    [ "Description", "db/d60/a11553.html#a557676064707e2597a10e9b2efc9d09a", null ],
+    [ "MailIdOrMessageType", "db/d60/a11553.html#a1dc57952838e5eccaefe64f381584f4f", null ],
+    [ "SecondsSinceMessage", "db/d60/a11553.html#ac436590edc1d7de977edb9472100d9a2", null ],
+    [ "SpammerGuid", "db/d60/a11553.html#a4a8b664b598624046b26953051a28718", null ],
+    [ "SpamType", "db/d60/a11553.html#aece15ac467b310fc170844119978aa2a", null ],
+    [ "Unk1", "db/d60/a11553.html#a7cc02360329a0b67c67fb5798d1e658d", null ]
 ];

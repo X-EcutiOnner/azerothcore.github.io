@@ -1,6 +1,7 @@
 var a22237 =
 [
-    [ "npc_black_knight_graveyardAI", "d3/d9f/a22241.html", "d3/d9f/a22241" ],
-    [ "npc_black_knight_graveyard", "d5/d09/a22237.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "d5/d09/a22237.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "HandleScript", "d5/d09/a22237.html#a3bdcc0fcfd8be3396b5af22152c66686", null ],
+    [ "PrepareSpellScript", "d5/d09/a22237.html#af67e8d959528633e48e56061b1790841", null ],
+    [ "Register", "d5/d09/a22237.html#af4a66003ea25b81028c05bcc0bc4dd1d", null ],
+    [ "Validate", "d5/d09/a22237.html#a007097b10ad0beeb61c1bd4117d963a3", null ]
 ];

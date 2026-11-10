@@ -1,11 +1,6 @@
 var a02825 =
 [
-    [ "ChaseMovementGenerator< T >", "d4/d44/a10574.html", "d4/d44/a10574" ],
-    [ "FollowMovementGenerator< T >", "de/dfd/a10578.html", "de/dfd/a10578" ],
-    [ "ChaseMovementMode", "df/d7d/a02825.html#af39517224af91107d618ec9d8131101d", [
-      [ "CHASE_MODE_NORMAL", "df/d7d/a02825.html#af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3", null ],
-      [ "CHASE_MODE_BACKPEDAL", "df/d7d/a02825.html#af39517224af91107d618ec9d8131101da4d0b7e85b5d121658e67d6a04c5ed0bd", null ],
-      [ "CHASE_MODE_DISTANCING", "df/d7d/a02825.html#af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337", null ],
-      [ "CHASE_MODE_FANNING", "df/d7d/a02825.html#af39517224af91107d618ec9d8131101dad3363c812ead03b0c7ae11cec5dfa618", null ]
-    ] ]
+    [ "MAX_QUIET_DISTANCE", "df/d7d/a02825.html#a9738c927d0a0b9da431824ab69a5988a", null ],
+    [ "MIN_PATH_LENGTH", "df/d7d/a02825.html#aa1f2b73706ddb69d07dbdc87257f010f", null ],
+    [ "MIN_QUIET_DISTANCE", "df/d7d/a02825.html#ad1ba65a06a9ac4ab2293efde8be35403", null ]
 ];

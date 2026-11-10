@@ -1,10 +1,30 @@
 var a06153 =
 [
-    [ "MySQLConnectionInfo", "d1/dc5/a06153.html#ae60c54053d71eb9325df10701b1f42d3", null ],
-    [ "database", "d1/dc5/a06153.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
-    [ "host", "d1/dc5/a06153.html#a2659372561aae5feb8da121984354ef3", null ],
-    [ "password", "d1/dc5/a06153.html#af5a51bd38ce1d58f65444d69b0283966", null ],
-    [ "port_or_socket", "d1/dc5/a06153.html#a37b89660afb3ee085e817836e9d1d01f", null ],
-    [ "ssl", "d1/dc5/a06153.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
-    [ "user", "d1/dc5/a06153.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
+    [ "Closer", "d1/dc5/a06153.html#a54f793710e2cb0264ac32ec21ce64db5", null ],
+    [ "Predicate", "d1/dc5/a06153.html#ab1d02ab7bac2f577a2472a931bfc81b8", null ],
+    [ "DatabaseTypeFlags", "d1/dc5/a06153.html#a48b4a16db3575bc0e3885a6ffd11a8e5", [
+      [ "DATABASE_NONE", "d1/dc5/a06153.html#a48b4a16db3575bc0e3885a6ffd11a8e5ade00402102c878cff7f8344ca6020927", null ],
+      [ "DATABASE_LOGIN", "d1/dc5/a06153.html#a48b4a16db3575bc0e3885a6ffd11a8e5ac000a77a66232f40f1ed5877b3d6e163", null ],
+      [ "DATABASE_CHARACTER", "d1/dc5/a06153.html#a48b4a16db3575bc0e3885a6ffd11a8e5a5161a0e808becff885fa27e98cb5341c", null ],
+      [ "DATABASE_WORLD", "d1/dc5/a06153.html#a48b4a16db3575bc0e3885a6ffd11a8e5a714c8ecb6138cd56a8b1547ec0ad9886", null ],
+      [ "DATABASE_MASK_ALL", "d1/dc5/a06153.html#a48b4a16db3575bc0e3885a6ffd11a8e5af32e2f62e18c4336d9cc446665627f9b", null ]
+    ] ],
+    [ "DatabaseLoader", "d1/dc5/a06153.html#a4d5850fad035cfc5a488154d830f8642", null ],
+    [ "AddDatabase", "d1/dc5/a06153.html#a90e78741afab5e8acae41e24ba256675", null ],
+    [ "GetUpdateFlags", "d1/dc5/a06153.html#af0cd17307aa123f7e390aa67cab3d0d3", null ],
+    [ "Load", "d1/dc5/a06153.html#ab0ffcdb400e9e5d80598f89dddb3bea8", null ],
+    [ "OpenDatabases", "d1/dc5/a06153.html#afc1c97733db723e5dd01c889e91e5dcb", null ],
+    [ "PopulateDatabases", "d1/dc5/a06153.html#a4d4e52215ebf500e0603153089127ad8", null ],
+    [ "PrepareStatements", "d1/dc5/a06153.html#a29da07080df4818e2ad57ee12361bfe9", null ],
+    [ "Process", "d1/dc5/a06153.html#ae0407015cdb8c50d778cb2075d185311", null ],
+    [ "UpdateDatabases", "d1/dc5/a06153.html#a747f5a610fc5c960b2ba818a4a741799", null ],
+    [ "_autoSetup", "d1/dc5/a06153.html#a3335a6486e3e65b1ca3cbe42167455c6", null ],
+    [ "_close", "d1/dc5/a06153.html#ac63afc15ce746ed014f0e91832a6d1ea", null ],
+    [ "_logger", "d1/dc5/a06153.html#a2cfecfa5c98f816deca6b1f8fd19f8ed", null ],
+    [ "_modulesList", "d1/dc5/a06153.html#aa8a04dd529b60165d92e80c3690e0e56", null ],
+    [ "_open", "d1/dc5/a06153.html#ab3d8ecdebaa70141830f50a4a0f17d78", null ],
+    [ "_populate", "d1/dc5/a06153.html#a236ce20d055e58a9e3de119c4dc2ff31", null ],
+    [ "_prepare", "d1/dc5/a06153.html#a8f6f440ac4b3c1df8382b8395f740c7e", null ],
+    [ "_update", "d1/dc5/a06153.html#aa0473ab9141855bd64a9dc5ac6e2bc83", null ],
+    [ "_updateFlags", "d1/dc5/a06153.html#a5e34623110250746c5da5693c11facc6", null ]
 ];

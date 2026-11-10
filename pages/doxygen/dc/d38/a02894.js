@@ -1,5 +1,4 @@
 var a02894 =
 [
-    [ "MailMgr", "d0/d6c/a10262.html", "d0/d6c/a10262" ],
-    [ "sMailMgr", "dc/d38/a02894.html#ab61afccf5f4ef47bc62e8e4ce634b4f6", null ]
+    [ "CliThread", "d4/d85/a05138.html#ga2a2e263e5224262317a4728b5a4c18ac", null ]
 ];

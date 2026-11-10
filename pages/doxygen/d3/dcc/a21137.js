@@ -1,9 +1,9 @@
 var a21137 =
 [
-    [ "boss_yoggsaron_keeper", "d3/dcc/a21137.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "Activate", "d3/dcc/a21137.html#a54edd78e856dbf519a0e2d76ae781ab8", null ],
-    [ "DoAction", "d3/dcc/a21137.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustSummoned", "d3/dcc/a21137.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "d3/dcc/a21137.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "d3/dcc/a21137.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "boss_yoggsaron_corruptor_tentacle", "d3/dcc/a21137.html#afc092be8079630b1214c98b8896a22c3", null ],
+    [ "DoAction", "d3/dcc/a21137.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
+    [ "JustEngagedWith", "d3/dcc/a21137.html#a9f4f2791d8a65303332fead986dfb377", null ],
+    [ "Reset", "d3/dcc/a21137.html#aaa49aab0068c520a6039b7ea9c19aa20", null ],
+    [ "SelectCorruptionTarget", "d3/dcc/a21137.html#a8b868941372af612e269e013594a5c14", null ],
+    [ "UpdateAI", "d3/dcc/a21137.html#a14ae968505923f98ee6b29f608b11fa4", null ]
 ];

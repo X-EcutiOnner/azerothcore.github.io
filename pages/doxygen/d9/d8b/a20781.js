@@ -1,7 +1,6 @@
 var a20781 =
 [
-    [ "FilterTargets", "d9/d8b/a20781.html#a4ea7a7ee257a74c7ae1da47b9a75f852", null ],
-    [ "HandleScript", "d9/d8b/a20781.html#a3b5fa94cdc2da133ae0cfaab9f949a57", null ],
-    [ "PrepareSpellScript", "d9/d8b/a20781.html#a9e29a54a0c4bbc32b5d9fffe6d34a41d", null ],
-    [ "Register", "d9/d8b/a20781.html#a53f90eb4dc7cdeab5bee4ab1a21691ac", null ]
+    [ "HandleDamage", "d9/d8b/a20781.html#af2578478e83eb2f6c2de32a692e9be91", null ],
+    [ "PrepareSpellScript", "d9/d8b/a20781.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
+    [ "Register", "d9/d8b/a20781.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
 ];

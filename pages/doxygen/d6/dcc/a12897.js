@@ -1,14 +1,12 @@
 var a12897 =
 [
-    [ "boss_lord_valthalak", "d6/dcc/a12897.html#a26fd09b5f1e3429cacb90f3aaff1a105", null ],
-    [ "DamageTaken", "d6/dcc/a12897.html#adf174f2b50e76a721c034a13f1946875", null ],
-    [ "IsSummonedBy", "d6/dcc/a12897.html#aaa4f24a056e7a0598ff7a399802ac32c", null ],
-    [ "JustDied", "d6/dcc/a12897.html#a084cc36f08a1decd2d262b7a9eb59f6b", null ],
-    [ "JustEngagedWith", "d6/dcc/a12897.html#aaa9835ca1d7d81ee177202138be4bad5", null ],
-    [ "Reset", "d6/dcc/a12897.html#a0494a1b6cc00b40f627a58d790424567", null ],
-    [ "StartFighting", "d6/dcc/a12897.html#a3135ff2a25ee9c4286623cb570cc03f3", null ],
-    [ "StartTalking", "d6/dcc/a12897.html#ace3e47ef60b3761d860677648fabdd9d", null ],
-    [ "UpdateAI", "d6/dcc/a12897.html#a49a438bff5aadc58ae69b00cd2ce68d1", null ],
-    [ "_frenzy15", "d6/dcc/a12897.html#acc7ba74226b04ee9a62233e473f68f7b", null ],
-    [ "_frenzy40", "d6/dcc/a12897.html#a7d8cd5bedfb8c5bfc1ac4bdc0efff2bf", null ]
+    [ "boss_doomrel", "d6/dcc/a12897.html#adc8f26522b88ada86c2ee937daa8fbd1", null ],
+    [ "EnterEvadeMode", "d6/dcc/a12897.html#a5f6c139a7be348abeda3b883c2b3f5be", null ],
+    [ "JustEngagedWith", "d6/dcc/a12897.html#a559c1619a97e50b03db6c8abc7190f91", null ],
+    [ "Reset", "d6/dcc/a12897.html#af30f3385bb1ca366f335ca3e19849704", null ],
+    [ "sGossipSelect", "d6/dcc/a12897.html#ad80c97c7d8d8cd4db466d65ecda8dd4f", null ],
+    [ "UpdateAI", "d6/dcc/a12897.html#a92cdad912f54235ab9c4cd788f17e293", null ],
+    [ "_events", "d6/dcc/a12897.html#a1687755cadc484d431497a320e9509f3", null ],
+    [ "instance", "d6/dcc/a12897.html#aa0d131530564cc40af48bc31f9f67a7d", null ],
+    [ "Voidwalkers", "d6/dcc/a12897.html#afb365d8b32d2610b3d398b6f3a1f1bc6", null ]
 ];

@@ -1,7 +1,5 @@
 var a17513 =
 [
-    [ "UtherBatteredHiltEvent", "db/dd9/a17513.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "db/dd9/a17513.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "db/dd9/a17513.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "db/dd9/a17513.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "at_hor_battered_hilt_start", "db/dd9/a17513.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
+    [ "OnTrigger", "db/dd9/a17513.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
 ];

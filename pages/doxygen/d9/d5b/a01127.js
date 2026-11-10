@@ -1,4 +1,5 @@
 var a01127 =
 [
-    [ "ScriptRegistry< PetScript >", "d9/d5b/a01127.html#a24e9b0a598349bf70ac6cf5aa4e30043", null ]
+    [ "ForeachMaps", "d9/d5b/a01127.html#a899f6a046cdda33d737030dd4923ca7d", null ],
+    [ "ScriptRegistry< AllMapScript >", "d9/d5b/a01127.html#ada370fef23e6d206da686c8bb6149104", null ]
 ];

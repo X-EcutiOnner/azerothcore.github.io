@@ -1,8 +1,6 @@
 var a16297 =
 [
-    [ "npc_pluckyAI", "d3/dae/a16301.html", "d3/dae/a16301" ],
-    [ "npc_plucky", "d8/d99/a16297.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "d8/d99/a16297.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "d8/d99/a16297.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "d8/d99/a16297.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_twiggy_flatheadAI", "d3/dae/a16301.html", "d3/dae/a16301" ],
+    [ "npc_twiggy_flathead", "d8/d99/a16297.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "d8/d99/a16297.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

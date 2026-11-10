@@ -1,6 +1,6 @@
 var a21225 =
 [
-    [ "OnEffect", "de/dce/a21225.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "de/dce/a21225.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "de/dce/a21225.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "ModSanityStacks", "de/dce/a21225.html#a38b8425689f91b91e23096d658b462cf", null ],
+    [ "PrepareSpellScript", "de/dce/a21225.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
+    [ "Register", "de/dce/a21225.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
 ];

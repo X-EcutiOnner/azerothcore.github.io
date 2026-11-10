@@ -1,6 +1,6 @@
 var a19157 =
 [
-    [ "boss_sister_svalnaAI", "d7/d4a/a19161.html", "d7/d4a/a19161" ],
-    [ "boss_sister_svalna", "db/ddc/a19157.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "db/ddc/a19157.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "npc_crok_scourgebaneAI", "d7/d4a/a19161.html", "d7/d4a/a19161" ],
+    [ "npc_crok_scourgebane", "db/ddc/a19157.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "db/ddc/a19157.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

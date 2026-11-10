@@ -1,4 +1,4 @@
 var a08005 =
 [
-    [ "TryConsumeTo", "d4/ddd/a08005.html#a0e6df60e4195364958e85632e43b4ad0", null ]
+    [ "AllianceChannelMgr", "d4/ddd/a08005.html#a7d90a6a0d987ac461668642c9ecfb619", null ]
 ];

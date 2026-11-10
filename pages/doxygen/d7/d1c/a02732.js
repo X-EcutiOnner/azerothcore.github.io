@@ -1,5 +1,4 @@
 var a02732 =
 [
-    [ "GetIdleMovementGenerator", "d7/d1c/a02732.html#ab03e344726a074f17f8c63d10b67fcc1", null ],
-    [ "isStatic", "d7/d1c/a02732.html#a05fec3371a9aee5a6448115a645a505d", null ]
+    [ "AbstractFollower", "db/d56/a10489.html", "db/d56/a10489" ]
 ];

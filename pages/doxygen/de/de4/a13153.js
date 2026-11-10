@@ -1,6 +1,7 @@
 var a13153 =
 [
-    [ "boss_lucifron", "de/de4/a13153.html#a632be7d3aaa9cc2360fce6871918a4b1", null ],
-    [ "ExecuteEvent", "de/de4/a13153.html#ae392b01817d9160ef0c80387406ad6fa", null ],
-    [ "JustEngagedWith", "de/de4/a13153.html#a9ebfc9877165aaadd2ea446995f4cf99", null ]
+    [ "HandleAfterApply", "de/de4/a13153.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "de/de4/a13153.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "de/de4/a13153.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "de/de4/a13153.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

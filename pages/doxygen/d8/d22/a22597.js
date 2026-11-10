@@ -1,8 +1,7 @@
 var a22597 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d8/d22/a22597.html#af84e73765b1a4d810b41613824999186", null ],
-    [ "IsFriendly", "d8/d22/a22597.html#adca817c8919958db888d5e9c759ad545", null ],
-    [ "IsValidVehicle", "d8/d22/a22597.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
-    [ "UpdateAI", "d8/d22/a22597.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
-    [ "_checkTimer", "d8/d22/a22597.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
+    [ "npc_wg_demolisher_engineer", "d8/d22/a22597.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d8/d22/a22597.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d8/d22/a22597.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d8/d22/a22597.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

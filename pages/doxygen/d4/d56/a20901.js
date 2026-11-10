@@ -1,7 +1,10 @@
 var a20901 =
 [
-    [ "go_razorscale_harpoonAI", "d4/d56/a20901.html#afff12f330538843c477f75500f731ea3", null ],
-    [ "Reset", "d4/d56/a20901.html#aae5f0f7ff2b206872c02bd7da90afdc0", null ],
-    [ "UpdateAI", "d4/d56/a20901.html#a906b14e1bc6b71f95aa2fcde83846f0a", null ],
-    [ "_scheduler", "d4/d56/a20901.html#a6f6e325b1b1599f90173e8c8a68c7956", null ]
+    [ "npc_razorscale_dark_rune_sentinel", "d4/d56/a20901.html#ab05b135a3c4cc45c132b3bb38127494c", null ],
+    [ "CanAIAttack", "d4/d56/a20901.html#a99f74f401c846f56f6adf70a755e5a84", null ],
+    [ "JustEngagedWith", "d4/d56/a20901.html#afdba7ecd994d92484a75444387bffaee", null ],
+    [ "Reset", "d4/d56/a20901.html#ad83e4b28dc7562a627f9d1330c3bb2fc", null ],
+    [ "UpdateAI", "d4/d56/a20901.html#a621e7a4804a74ce74717a9b0212ab8a3", null ],
+    [ "_events", "d4/d56/a20901.html#a5dc9139c7d2897b6f1a9e9d86a5f663a", null ],
+    [ "_instance", "d4/d56/a20901.html#a83f67be54dde276f3ed5efd867450756", null ]
 ];

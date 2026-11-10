@@ -1,9 +1,6 @@
 var a27125 =
 [
-    [ "CheckProcDummy", "dd/dbb/a27125.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
-    [ "CheckProcTriggerSpell", "dd/dbb/a27125.html#affbff48ab9421bda51b3a5781188546d", null ],
-    [ "HandleProcDummy", "dd/dbb/a27125.html#a0113a45bd4c28d1769df7b675de697ed", null ],
-    [ "PrepareAuraScript", "dd/dbb/a27125.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
-    [ "Register", "dd/dbb/a27125.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
-    [ "Validate", "dd/dbb/a27125.html#a63844728796945e892985720296d0c07", null ]
+    [ "CheckCast", "dd/dbb/a27125.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
+    [ "PrepareSpellScript", "dd/dbb/a27125.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
+    [ "Register", "dd/dbb/a27125.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
 ];

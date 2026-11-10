@@ -1,7 +1,8 @@
 var a23293 =
 [
-    [ "HandleScriptEffect", "dc/daf/a23293.html#a0038e566bc5054e4208fd727fcc266fa", null ],
-    [ "PrepareSpellScript", "dc/daf/a23293.html#abb661bacf4cec1f2e15f4aeda2ab991e", null ],
-    [ "Register", "dc/daf/a23293.html#a416b811c2676c598df0ac0e5906a94d3", null ],
-    [ "Validate", "dc/daf/a23293.html#a11e82a2b40dbbd9949a1dda3bd715679", null ]
+    [ "CalcPeriodic", "dc/daf/a23293.html#aad87c25b9b3255a4871bec39d9787299", null ],
+    [ "PrepareAuraScript", "dc/daf/a23293.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
+    [ "Register", "dc/daf/a23293.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
+    [ "Update", "dc/daf/a23293.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
+    [ "Validate", "dc/daf/a23293.html#ae4f7bfb1cd95666acada217173876352", null ]
 ];

@@ -1,6 +1,7 @@
 var a03047 =
 [
-    [ "Acore::BroadcastTextBuilder", "dd/dec/a12270.html", "dd/dec/a12270" ],
-    [ "Acore::CustomChatTextBuilder", "d5/d3c/a12274.html", "d5/d3c/a12274" ],
-    [ "Acore::AcoreStringChatBuilder", "d0/d48/a12278.html", "d0/d48/a12278" ]
+    [ "GetCleanAliasName", "d2/de4/a03047.html#ae187308862c39923e2b843bc9d4c989c", null ],
+    [ "GetDefaultValue", "d2/de4/a03047.html#a2ea1ae2c2289bdc9068ec9c886d124c8", null ],
+    [ "IsCorrectAlias", "d2/de4/a03047.html#a56e834d391c0eb5187d3c7dd0dad88b7", null ],
+    [ "IsCorrectFieldType", "d2/de4/a03047.html#a61bef7957f008e8cd937746ba03feb73", null ]
 ];

@@ -1,11 +1,7 @@
 var a16321 =
 [
-    [ "npc_ameAI", "d1/df0/a16321.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d1/df0/a16321.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d1/df0/a16321.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d1/df0/a16321.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d1/df0/a16321.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d1/df0/a16321.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "WaypointReached", "d1/df0/a16321.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "DemoralizingShoutTimer", "d1/df0/a16321.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "npc_paoka_swiftmountainAI", "d2/d5f/a16325.html", "d2/d5f/a16325" ],
+    [ "npc_paoka_swiftmountain", "d1/df0/a16321.html#abb3f6fab7cca158c2e139159430f880a", null ],
+    [ "GetAI", "d1/df0/a16321.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
+    [ "OnQuestAccept", "d1/df0/a16321.html#a3340cca58bdad2f5681725f9ba3b6bfd", null ]
 ];

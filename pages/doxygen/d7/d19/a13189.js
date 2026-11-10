@@ -1,7 +1,6 @@
 var a13189 =
 [
-    [ "HandleScript", "d7/d19/a13189.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "d7/d19/a13189.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "d7/d19/a13189.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "d7/d19/a13189.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "boss_magmadar", "d7/d19/a13189.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
+    [ "ExecuteEvent", "d7/d19/a13189.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
+    [ "JustEngagedWith", "d7/d19/a13189.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
 ];

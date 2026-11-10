@@ -1,6 +1,8 @@
 var a23109 =
 [
-    [ "boss_essence_of_sufferingAI", "dd/d03/a23113.html", "dd/d03/a23113" ],
-    [ "boss_essence_of_suffering", "d5/dc9/a23109.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d5/dc9/a23109.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "boss_mother_shahraz", "d5/dc9/a23109.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "d5/dc9/a23109.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "d5/dc9/a23109.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "d5/dc9/a23109.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "d5/dc9/a23109.html#ab9e4162ac92e786b84b6497c37251386", null ]
 ];

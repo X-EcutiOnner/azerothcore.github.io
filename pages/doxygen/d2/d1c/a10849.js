@@ -1,13 +1,6 @@
 var a10849 =
 [
-    [ "FormulaScript", "d2/d1c/a10849.html#a6d945a3c85aada82cdeb86e0aea63bde", null ],
-    [ "OnAfterArenaRatingCalculation", "d2/d1c/a10849.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
-    [ "OnBaseGainCalculation", "d2/d1c/a10849.html#ab154eaf469d5fe3e86c364940816270a", null ],
-    [ "OnBeforeUpdatingPersonalRating", "d2/d1c/a10849.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
-    [ "OnColorCodeCalculation", "d2/d1c/a10849.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
-    [ "OnGainCalculation", "d2/d1c/a10849.html#aa83fab65cc89bd03021da2805e935ffb", null ],
-    [ "OnGrayLevelCalculation", "d2/d1c/a10849.html#affeb57234f961b9e01f5898c7738f38f", null ],
-    [ "OnGroupRateCalculation", "d2/d1c/a10849.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
-    [ "OnHonorCalculation", "d2/d1c/a10849.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
-    [ "OnZeroDifferenceCalculation", "d2/d1c/a10849.html#a7755c35bc56e6645e36de08c12a4847d", null ]
+    [ "BattlegroundScript", "d2/d1c/a10849.html#a482219a4f398dbc40b33f6e8de6f98e3", null ],
+    [ "GetBattleground", "d2/d1c/a10849.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "d2/d1c/a10849.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

@@ -1,7 +1,13 @@
 var a27301 =
 [
-    [ "HandleDummy", "d9/d8b/a27301.html#aa9b579a8a7a23b94d9a2c8c7f932ff78", null ],
-    [ "PrepareSpellScript", "d9/d8b/a27301.html#ae1dfa086c89a4180d42d231064d88602", null ],
-    [ "Register", "d9/d8b/a27301.html#a256c152beadbfce6bf245779295b8758", null ],
-    [ "Validate", "d9/d8b/a27301.html#acb4144be3326bcaae9c559d8e7b9d7ec", null ]
+    [ "spell_generic_quest_update_entry_SpellScript", "d9/d8b/a27301.html#a9b022232661d4680f5bdf7080fc81b29", null ],
+    [ "HandleDummy", "d9/d8b/a27301.html#a891c357279ecee2e7fce323761607285", null ],
+    [ "PrepareSpellScript", "d9/d8b/a27301.html#a3bf2605d8aa31e694b479f0de9f1703e", null ],
+    [ "Register", "d9/d8b/a27301.html#af04e51cff5344f1acef7607080501736", null ],
+    [ "_despawnTime", "d9/d8b/a27301.html#a5481894286d3aa5ea6aec0f00dd88d22", null ],
+    [ "_effIndex", "d9/d8b/a27301.html#a46dd459dc324dfea871c93a0b3b5d8f1", null ],
+    [ "_newEntry", "d9/d8b/a27301.html#ad76d907c9200985e9aa1e2c5006d0c46", null ],
+    [ "_originalEntry", "d9/d8b/a27301.html#ad7d8ddda30c4b9f322ddaee8b014c233", null ],
+    [ "_shouldAttack", "d9/d8b/a27301.html#acf0c48dd134c5e8bb207983e8f520f22", null ],
+    [ "_spellEffect", "d9/d8b/a27301.html#af02e04bbac8a4ad1d84c72b7f337249e", null ]
 ];

@@ -1,6 +1,6 @@
 var a27813 =
 [
-    [ "HandleProc", "d0/d70/a27813.html#afb4fb2152937e62982aab2a17820d1d9", null ],
-    [ "PrepareAuraScript", "d0/d70/a27813.html#a43ec587b6e8ac94baba7253dfec47640", null ],
-    [ "Register", "d0/d70/a27813.html#ad0824cc4c53915239d609aa117fc4691", null ]
+    [ "PeriodicTick", "d0/d70/a27813.html#a8765e8f662c4279669c955108ff356e3", null ],
+    [ "PrepareAuraScript", "d0/d70/a27813.html#a15f077618950e4526ffcee9ee172d89f", null ],
+    [ "Register", "d0/d70/a27813.html#aeeca3a2be368025147702c4aa8c518ce", null ]
 ];

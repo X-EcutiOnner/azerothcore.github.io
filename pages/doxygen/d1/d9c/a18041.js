@@ -1,7 +1,7 @@
 var a18041 =
 [
-    [ "HandleScript", "d1/d9c/a18041.html#a276018baa590b942d90c457faea10040", null ],
-    [ "PrepareSpellScript", "d1/d9c/a18041.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
-    [ "Register", "d1/d9c/a18041.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
-    [ "Validate", "d1/d9c/a18041.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
+    [ "ExtraEffect", "d1/d9c/a18041.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "d1/d9c/a18041.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "d1/d9c/a18041.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "d1/d9c/a18041.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

@@ -1,7 +1,7 @@
 var a26681 =
 [
-    [ "HandleKnockBack", "db/d1d/a26681.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
-    [ "PrepareSpellScript", "db/d1d/a26681.html#ab951d6403188f178f79311cead8a0a8f", null ],
-    [ "Register", "db/d1d/a26681.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
-    [ "Validate", "db/d1d/a26681.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
+    [ "CheckProc", "db/d1d/a26681.html#a325336c96dad74ec221c07817222fee1", null ],
+    [ "HandleProc", "db/d1d/a26681.html#a75c8e4664e75afd2129b6e5f047d74e3", null ],
+    [ "PrepareAuraScript", "db/d1d/a26681.html#a30f6dd531d4316b4bbb3297af2c17e2e", null ],
+    [ "Register", "db/d1d/a26681.html#a6c86a4cf273d90086c4ebdbcaa6b6632", null ]
 ];

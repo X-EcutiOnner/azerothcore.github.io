@@ -1,7 +1,7 @@
 var a08425 =
 [
-    [ "LfgProposalPlayer", "d6/dbc/a08425.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
-    [ "accept", "d6/dbc/a08425.html#acbf0ce1e12307569487096dc5ca544a6", null ],
-    [ "group", "d6/dbc/a08425.html#a900f24e9caaa1569eeea93b4284139a1", null ],
-    [ "role", "d6/dbc/a08425.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
+    [ "RBEntryInfo", "d6/dbc/a08425.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "d6/dbc/a08425.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "d6/dbc/a08425.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "d6/dbc/a08425.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

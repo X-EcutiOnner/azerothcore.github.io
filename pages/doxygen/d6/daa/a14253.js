@@ -1,11 +1,10 @@
 var a14253 =
 [
-    [ "npc_scarlet_ghoul", "d6/daa/a14253.html#aa256e50446b0511a0412442245be2e82", null ],
-    [ "InitializeAI", "d6/daa/a14253.html#a5e98c4a1e9a31124dc6ca67c612db1c9", null ],
-    [ "MovementInform", "d6/daa/a14253.html#a06f14ccde727b7c875f3be8243dec2a8", null ],
-    [ "OwnerAttackedBy", "d6/daa/a14253.html#aacf81b86947124cea21fc6d2e906487f", null ],
-    [ "SetGUID", "d6/daa/a14253.html#ab3840f1d6b1e63b4707d5139b63281cc", null ],
-    [ "UpdateAI", "d6/daa/a14253.html#af8637b2a7644b917aa6ef10b31a1d1e0", null ],
-    [ "events", "d6/daa/a14253.html#ad2b3d650e151a13159e119cb3fda88a4", null ],
-    [ "gothikGUID", "d6/daa/a14253.html#a9275cf7efde4c77ce114448777f25f1e", null ]
+    [ "npc_tyrion_spybotAI", "d6/daa/a14253.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "d6/daa/a14253.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "d6/daa/a14253.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "d6/daa/a14253.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "WaypointReached", "d6/daa/a14253.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "uiPhase", "d6/daa/a14253.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "d6/daa/a14253.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

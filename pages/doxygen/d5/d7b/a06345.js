@@ -1,6 +1,7 @@
 var a06345 =
 [
-    [ "Create", "d5/d7b/a06345.html#a2d3e38cdbdb9bdece3814297c36e6be9", null ],
-    [ "Populate", "d5/d7b/a06345.html#a21a3910e779a54d953de6b1c44e40442", null ],
-    [ "Update", "d5/d7b/a06345.html#a45ecac66b2bae03db4b6688b0c08ab62", null ]
+    [ "TransactionWithResultTask", "d5/d7b/a06345.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
+    [ "Execute", "d5/d7b/a06345.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
+    [ "GetFuture", "d5/d7b/a06345.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
+    [ "m_result", "d5/d7b/a06345.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
 ];

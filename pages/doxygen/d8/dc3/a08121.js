@@ -1,6 +1,7 @@
 var a08121 =
 [
-    [ "operator bool", "d8/dc3/a08121.html#a02878c282dfcfd2b9f4eddf99a805fa3", null ],
-    [ "tail", "d8/dc3/a08121.html#a0bd839d0c7a8b7ce84612c80f3ca84e7", null ],
-    [ "token", "d8/dc3/a08121.html#a55e214db8a01ac3c427874d03f1bda54", null ]
+    [ "V", "d8/dc3/a08121.html#aab662b1ba92ab8eb76558f97191142cc", null ],
+    [ "TryAtIndex", "d8/dc3/a08121.html#aeff1865d7499b0b112cc39c44fd07112", null ],
+    [ "TryConsume", "d8/dc3/a08121.html#ae2a889829917ed0dd76194194efc9b13", null ],
+    [ "N", "d8/dc3/a08121.html#aa2c2048ce2e64b2398eeea3f0d789245", null ]
 ];

@@ -1,4 +1,5 @@
 var a00578 =
 [
-    [ "ProducerConsumerQueue< T >", "dc/d03/a05818.html", "dc/d03/a05818" ]
+    [ "VMAP::MapRayCallback", "d2/dbc/a05405.html", "d2/dbc/a05405" ],
+    [ "VMAP::LocationInfoCallback", "dc/d61/a05409.html", "dc/d61/a05409" ]
 ];

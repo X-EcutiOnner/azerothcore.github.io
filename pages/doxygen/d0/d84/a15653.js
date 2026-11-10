@@ -1,6 +1,9 @@
 var a15653 =
 [
-    [ "go_ossirian_crystalAI", "d6/d68/a15657.html", "d6/d68/a15657" ],
-    [ "go_ossirian_crystal", "d0/d84/a15653.html#a783f0f0570ee0f667920e29613b565b2", null ],
-    [ "GetAI", "d0/d84/a15653.html#a2f7b12eddc6504917614913e347ec0a0", null ]
+    [ "npc_buru_egg", "d0/d84/a15653.html#a6aa2896342b802caecde1c1dffcf4907", null ],
+    [ "JustDied", "d0/d84/a15653.html#a3de169b252374f0b2daed3ecb5a11502", null ],
+    [ "JustEngagedWith", "d0/d84/a15653.html#a8cde6848569671876a17b00d75228ebe", null ],
+    [ "JustSummoned", "d0/d84/a15653.html#abebb96dcb3d653bddd4210da6567fb87", null ],
+    [ "UpdateAI", "d0/d84/a15653.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
+    [ "_instance", "d0/d84/a15653.html#a5b168226755a57368f17827e3457a0ca", null ]
 ];

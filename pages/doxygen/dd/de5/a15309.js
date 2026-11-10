@@ -1,8 +1,6 @@
 var a15309 =
 [
-    [ "hyjalTyrandeAI", "dd/de5/a15309.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "dd/de5/a15309.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "dd/de5/a15309.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "dd/de5/a15309.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "dd/de5/a15309.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "FilterTargets", "dd/de5/a15309.html#a45b0713b2942199bf0e19752fe765aac", null ],
+    [ "PrepareSpellScript", "dd/de5/a15309.html#a7f7177d7754a99743202f69a0342f587", null ],
+    [ "Register", "dd/de5/a15309.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
 ];

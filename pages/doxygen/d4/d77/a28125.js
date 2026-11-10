@@ -1,6 +1,6 @@
 var a28125 =
 [
-    [ "AfterCheckProc", "d4/d77/a28125.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "d4/d77/a28125.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "d4/d77/a28125.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "CalculateAmount", "d4/d77/a28125.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "d4/d77/a28125.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "d4/d77/a28125.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

@@ -1,9 +1,6 @@
 var a27501 =
 [
-    [ "CheckCast", "d3/d1c/a27501.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
-    [ "FilterTargets", "d3/d1c/a27501.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
-    [ "HandleDummy", "d3/d1c/a27501.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
-    [ "PrepareSpellScript", "d3/d1c/a27501.html#a9c992e732b525e29f684947398d20efb", null ],
-    [ "Register", "d3/d1c/a27501.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
-    [ "Validate", "d3/d1c/a27501.html#abca1e5aa46e7753588c8120090775195", null ]
+    [ "HandleScript", "d3/d1c/a27501.html#a54c724bd8786c894ecaa584c164c2e53", null ],
+    [ "PrepareSpellScript", "d3/d1c/a27501.html#a4505b9196609ae9339fe7e5948963663", null ],
+    [ "Register", "d3/d1c/a27501.html#ae293d6a2a477f716f357516781246069", null ]
 ];

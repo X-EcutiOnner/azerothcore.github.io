@@ -1,6 +1,7 @@
 var a17865 =
 [
-    [ "HandleStackDrop", "d6/dc1/a17865.html#a5c1064d764a6bfa4b3fde8bf57316e44", null ],
-    [ "PrepareAuraScript", "d6/dc1/a17865.html#a294db521fc56c4fe5e50317fedd8a86d", null ],
-    [ "Register", "d6/dc1/a17865.html#a45b1fd2c1896023d71a0916100376e57", null ]
+    [ "HandleScript", "d6/dc1/a17865.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "d6/dc1/a17865.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "d6/dc1/a17865.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "d6/dc1/a17865.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

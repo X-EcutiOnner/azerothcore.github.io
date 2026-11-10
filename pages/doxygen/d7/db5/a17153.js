@@ -1,6 +1,7 @@
 var a17153 =
 [
-    [ "boss_gormokAI", "dc/d52/a17157.html", "dc/d52/a17157" ],
-    [ "boss_gormok", "d7/db5/a17153.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "d7/db5/a17153.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "FilterTargets", "d7/db5/a17153.html#a304da18e36ff67c34b80ab39583f8c96", null ],
+    [ "HandleScript", "d7/db5/a17153.html#adf99670bcf862288f513d2a26cbc256a", null ],
+    [ "PrepareSpellScript", "d7/db5/a17153.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
+    [ "Register", "d7/db5/a17153.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
 ];

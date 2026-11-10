@@ -1,8 +1,9 @@
 var a14053 =
 [
-    [ "HandleEffectApply", "d4/d7b/a14053.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
-    [ "HandleEffectRemove", "d4/d7b/a14053.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
-    [ "Load", "d4/d7b/a14053.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
-    [ "PrepareAuraScript", "d4/d7b/a14053.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
-    [ "Register", "d4/d7b/a14053.html#a6a90296c9903ce65913f3bba29dea176", null ]
+    [ "spell_sunwell_teleport", "d4/d7b/a14053.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "d4/d7b/a14053.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "d4/d7b/a14053.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "d4/d7b/a14053.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "d4/d7b/a14053.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "d4/d7b/a14053.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

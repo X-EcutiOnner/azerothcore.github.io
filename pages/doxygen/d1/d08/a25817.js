@@ -1,7 +1,7 @@
 var a25817 =
 [
-    [ "HandleOnEffectApply", "d1/d08/a25817.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
-    [ "HandleOnEffectRemove", "d1/d08/a25817.html#a094d788d157474a9683387d5c340538f", null ],
-    [ "PrepareAuraScript", "d1/d08/a25817.html#aad378b8c45f11af51faf9128878c01df", null ],
-    [ "Register", "d1/d08/a25817.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
+    [ "HandleProc", "d1/d08/a25817.html#a993331721d98f6d0b4c225a9c32708bd", null ],
+    [ "PrepareAuraScript", "d1/d08/a25817.html#a71029016013dc48cf1e882a1fb520187", null ],
+    [ "Register", "d1/d08/a25817.html#a4cd1dec02407065ffb25b230cf8df1c7", null ],
+    [ "Validate", "d1/d08/a25817.html#a49174c98ea4fa6c4028c7ad771bbe204", null ]
 ];

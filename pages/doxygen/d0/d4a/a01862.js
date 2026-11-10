@@ -1,26 +1,30 @@
 var a01862 =
 [
-    [ "PlayerDump", "d8/d14/a12354.html", "d8/d14/a12354" ],
-    [ "PlayerDumpWriter", "d5/de3/a12358.html", "d5/de3/a12358" ],
-    [ "PlayerDumpReader", "db/d6b/a12362.html", "db/d6b/a12362" ],
-    [ "DumpReturn", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866", [
-      [ "DUMP_SUCCESS", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
-      [ "DUMP_FILE_OPEN_ERROR", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
-      [ "DUMP_TOO_MANY_CHARS", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
-      [ "DUMP_FILE_BROKEN", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
-      [ "DUMP_CHARACTER_DELETED", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ],
-      [ "DUMP_GUID_OVERFLOW", "d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866ad611e98ad0ae594831f17cbab86dcb6a", null ]
+    [ "DisableData", "d1/d14/a08385.html", "d1/d14/a08385" ],
+    [ "DisableMgr", "dc/dc6/a08389.html", "dc/dc6/a08389" ],
+    [ "sDisableMgr", "d0/d4a/a01862.html#a1a184d22bd27210ea5af79573927826a", null ],
+    [ "DisableType", "d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c", [
+      [ "DISABLE_TYPE_SPELL", "d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27", null ],
+      [ "DISABLE_TYPE_QUEST", "d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e", null ],
+      [ "DISABLE_TYPE_MAP", "d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c", null ],
+      [ "DISABLE_TYPE_BATTLEGROUND", "d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a", null ],
+      [ "DISABLE_TYPE_ACHIEVEMENT_CRITERIA", "d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1", null ],
+      [ "DISABLE_TYPE_OUTDOORPVP", "d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296", null ],
+      [ "DISABLE_TYPE_VMAP", "d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff", null ],
+      [ "DISABLE_TYPE_GO_LOS", "d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a", null ],
+      [ "DISABLE_TYPE_LFG_MAP", "d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68", null ],
+      [ "DISABLE_TYPE_GAME_EVENT", "d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0", null ],
+      [ "DISABLE_TYPE_LOOT", "d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f", null ],
+      [ "MAX_DISABLE_TYPES", "d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f", null ]
     ] ],
-    [ "DumpTableType", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7ef", [
-      [ "DTT_CHARACTER", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
-      [ "DTT_CHAR_TABLE", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
-      [ "DTT_EQSET_TABLE", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
-      [ "DTT_INVENTORY", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
-      [ "DTT_MAIL", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
-      [ "DTT_MAIL_ITEM", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
-      [ "DTT_ITEM", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
-      [ "DTT_ITEM_GIFT", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
-      [ "DTT_PET", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
-      [ "DTT_PET_TABLE", "d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
+    [ "SpellDisableTypes", "d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7", [
+      [ "SPELL_DISABLE_PLAYER", "d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41", null ],
+      [ "SPELL_DISABLE_CREATURE", "d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707", null ],
+      [ "SPELL_DISABLE_PET", "d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4", null ],
+      [ "SPELL_DISABLE_DEPRECATED_SPELL", "d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b", null ],
+      [ "SPELL_DISABLE_MAP", "d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484", null ],
+      [ "SPELL_DISABLE_AREA", "d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268", null ],
+      [ "SPELL_DISABLE_LOS", "d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437", null ],
+      [ "MAX_SPELL_DISABLE_TYPE", "d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d", null ]
     ] ]
 ];

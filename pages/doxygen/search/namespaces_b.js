@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['rbac_0',['rbac',['../dc/ddd/a05170.html',1,'']]]
+  ['pitkillboundary_0',['pitKillBoundary',['../d6/d66/a05238.html',1,'']]],
+  ['playernamemapholder_1',['PlayerNameMapHolder',['../da/d0e/a05201.html',1,'']]],
+  ['playersettingsstore_2',['PlayerSettingsStore',['../da/dac/a05198.html',1,'']]]
 ];

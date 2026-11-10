@@ -1,6 +1,7 @@
 var a16113 =
 [
-    [ "npc_silva_filnaveth", "da/d8e/a16113.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "da/d8e/a16113.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "da/d8e/a16113.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "HandleDummy", "da/d8e/a16113.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "da/d8e/a16113.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "da/d8e/a16113.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "da/d8e/a16113.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

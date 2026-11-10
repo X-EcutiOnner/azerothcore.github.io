@@ -1,7 +1,10 @@
 var a24277 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d0/d64/a24277.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "d0/d64/a24277.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "d0/d64/a24277.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "d0/d64/a24277.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "npc_wounded_blood_elfAI", "d0/d64/a24277.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d0/d64/a24277.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d0/d64/a24277.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d0/d64/a24277.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d0/d64/a24277.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d0/d64/a24277.html#a5affcb00e28a582f8926ab2226001cd0", null ],
+    [ "WaypointReached", "d0/d64/a24277.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

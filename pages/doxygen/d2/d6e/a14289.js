@@ -1,8 +1,8 @@
 var a14289 =
 [
-    [ "CheckCast", "d2/d6e/a14289.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
-    [ "HandleScriptEffect", "d2/d6e/a14289.html#a36bb2b95651889eaa0321a7a327e173f", null ],
-    [ "PrepareSpellScript", "d2/d6e/a14289.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
-    [ "Register", "d2/d6e/a14289.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
-    [ "Validate", "d2/d6e/a14289.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
+    [ "npc_dkc1_gothik", "d2/d6e/a14289.html#ac55410228faf60379873234d7322c488", null ],
+    [ "DoAction", "d2/d6e/a14289.html#aba7e9c3326400012162402d3ead2837f", null ],
+    [ "MoveInLineOfSight", "d2/d6e/a14289.html#aa409a5ecaa71388131a2be4c62d2cf85", null ],
+    [ "UpdateAI", "d2/d6e/a14289.html#a7fbe2d52d179bcc8113407054befae00", null ],
+    [ "spoken", "d2/d6e/a14289.html#a4ed4b960104211c61067b1e66752eb74", null ]
 ];

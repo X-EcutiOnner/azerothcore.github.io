@@ -1,6 +1,6 @@
 var a23621 =
 [
-    [ "HandleScript", "de/da5/a23621.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "de/da5/a23621.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "de/da5/a23621.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "HandleAfterRemove", "de/da5/a23621.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "de/da5/a23621.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "de/da5/a23621.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

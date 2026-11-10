@@ -1,9 +1,6 @@
 var a16837 =
 [
-    [ "npc_memoryAI", "d7/d4a/a16837.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "d7/d4a/a16837.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "d7/d4a/a16837.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "d7/d4a/a16837.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "d7/d4a/a16837.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "d7/d4a/a16837.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "da/dc2/a16841.html", "da/dc2/a16841" ],
+    [ "instance_ruby_sanctum", "d7/d4a/a16837.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "d7/d4a/a16837.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

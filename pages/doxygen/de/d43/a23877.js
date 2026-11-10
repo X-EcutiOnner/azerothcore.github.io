@@ -1,8 +1,6 @@
 var a23877 =
 [
-    [ "npc_warchief_portal", "de/d43/a23877.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "de/d43/a23877.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "de/d43/a23877.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "de/d43/a23877.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "de/d43/a23877.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "PrepareSpellScript", "de/d43/a23877.html#a5b17110b189b7134939aea9dbf2d724b", null ],
+    [ "Register", "de/d43/a23877.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
+    [ "SelectRandomPlayer", "de/d43/a23877.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
 ];

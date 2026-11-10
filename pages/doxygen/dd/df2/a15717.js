@@ -1,5 +1,6 @@
 var a15717 =
 [
-    [ "boss_yauj", "dd/df2/a15717.html#a15ab7b6b35d29fb1552b11586163320e", null ],
-    [ "JustEngagedWith", "dd/df2/a15717.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "dc/ddf/a15721.html", "dc/ddf/a15721" ],
+    [ "instance_ruins_of_ahnqiraj", "dd/df2/a15717.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "dd/df2/a15717.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

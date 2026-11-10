@@ -1,6 +1,5 @@
 var a23237 =
 [
-    [ "PrepareSpellScript", "d4/dd8/a23237.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "d4/dd8/a23237.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "d4/dd8/a23237.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "npc_vengeful_spirit", "d4/dd8/a23237.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
+    [ "OnCharmed", "d4/dd8/a23237.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
 ];

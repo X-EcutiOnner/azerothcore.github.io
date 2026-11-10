@@ -1,6 +1,6 @@
 var a17629 =
 [
-    [ "npc_pos_freed_slaveAI", "d7/d3f/a17633.html", "d7/d3f/a17633" ],
-    [ "npc_pos_freed_slave", "d6/dcb/a17629.html#a19fd79279646cb1c49c04056636615fc", null ],
-    [ "GetAI", "d6/dcb/a17629.html#ac798c2584d48892162cc2bc779701e16", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "d7/d3f/a17633.html", "d7/d3f/a17633" ],
+    [ "npc_pos_martin_or_gorkun_second", "d6/dcb/a17629.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
+    [ "GetAI", "d6/dcb/a17629.html#a180936e3bb98eb55d29ebd51350906c0", null ]
 ];

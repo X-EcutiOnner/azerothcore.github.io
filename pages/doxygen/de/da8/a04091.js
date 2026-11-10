@@ -1,5 +1,5 @@
 var a04091 =
 [
-    [ "disable_commandscript", "d7/d2b/a12562.html", "d7/d2b/a12562" ],
-    [ "AddSC_disable_commandscript", "de/da8/a04091.html#a232e1ddbf34ceae5a317df69255bc8de", null ]
+    [ "cheat_commandscript", "df/d14/a12561.html", "df/d14/a12561" ],
+    [ "AddSC_cheat_commandscript", "de/da8/a04091.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
 ];

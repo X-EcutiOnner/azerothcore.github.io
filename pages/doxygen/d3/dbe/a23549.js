@@ -1,9 +1,6 @@
 var a23549 =
 [
-    [ "boss_mennu_the_betrayer", "d3/dbe/a23549.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
-    [ "JustDied", "d3/dbe/a23549.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
-    [ "JustEngagedWith", "d3/dbe/a23549.html#a535b9af1677b8af50515818a18e88d27", null ],
-    [ "JustSummoned", "d3/dbe/a23549.html#a59949872270890ef794a77029074210b", null ],
-    [ "KilledUnit", "d3/dbe/a23549.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
-    [ "Reset", "d3/dbe/a23549.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
+    [ "HandleScript", "d3/dbe/a23549.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "d3/dbe/a23549.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "d3/dbe/a23549.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

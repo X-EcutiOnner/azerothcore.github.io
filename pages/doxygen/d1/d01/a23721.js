@@ -1,8 +1,7 @@
 var a23721 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d1/d01/a23721.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "d1/d01/a23721.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "d1/d01/a23721.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "d1/d01/a23721.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "d1/d01/a23721.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "OnApply", "d1/d01/a23721.html#a301e47da9be4b4a449701c59c19bc62b", null ],
+    [ "PrepareAuraScript", "d1/d01/a23721.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
+    [ "Register", "d1/d01/a23721.html#aaf38547f7fa233b03429734dbe374f13", null ],
+    [ "Validate", "d1/d01/a23721.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
 ];

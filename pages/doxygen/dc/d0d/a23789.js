@@ -1,8 +1,12 @@
 var a23789 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "dc/d0d/a23789.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "dc/d0d/a23789.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "dc/d0d/a23789.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "dc/d0d/a23789.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "dc/d0d/a23789.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "boss_omor_the_unscarred", "dc/d0d/a23789.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "dc/d0d/a23789.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "dc/d0d/a23789.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "dc/d0d/a23789.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "dc/d0d/a23789.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "dc/d0d/a23789.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "dc/d0d/a23789.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "dc/d0d/a23789.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "dc/d0d/a23789.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

@@ -1,6 +1,6 @@
 var a24489 =
 [
-    [ "HandleSendEvent", "d3/d29/a24489.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "d3/d29/a24489.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "d3/d29/a24489.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "CheckRequirement", "d3/d29/a24489.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d3/d29/a24489.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d3/d29/a24489.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

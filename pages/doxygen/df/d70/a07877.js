@@ -1,9 +1,14 @@
 var a07877 =
 [
-    [ "entry", "df/d70/a07877.html#a2238cabe763a588a5572611e0aefe6ba", null ],
-    [ "o", "df/d70/a07877.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
-    [ "type", "df/d70/a07877.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
-    [ "x", "df/d70/a07877.html#a616d422b4e8c99ec3285a87f553d4091", null ],
-    [ "y", "df/d70/a07877.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
-    [ "z", "df/d70/a07877.html#a78cff0661e6d9440574306ec01389d42", null ]
+    [ "BattlegroundDS", "df/d70/a07877.html#a041cd3c81d341ff12e2e103da44c19b8", null ],
+    [ "FillInitialWorldStates", "df/d70/a07877.html#a0c7a45aa22e390d2760bf32720435d5e", null ],
+    [ "HandleAreaTrigger", "df/d70/a07877.html#a91e0be32f0169b9ac8749003ae3cdae7", null ],
+    [ "HandlePlayerUnderMap", "df/d70/a07877.html#a97ed6f531b1de3eaf93c585e205e7f54", null ],
+    [ "PostUpdateImpl", "df/d70/a07877.html#a57cfca32a361d43f19163dc6e7408e96", null ],
+    [ "SetupBattleground", "df/d70/a07877.html#ae008bf979e6984856237938dfe743ec7", null ],
+    [ "StartingEventCloseDoors", "df/d70/a07877.html#ae215043c2c10df9f9339e2a6dbcb185e", null ],
+    [ "StartingEventOpenDoors", "df/d70/a07877.html#ab9ab60253daa5318dcdb6675c8919cd5", null ],
+    [ "_events", "df/d70/a07877.html#a79112a1631ec6541cf19ecef712bb66f", null ],
+    [ "_pipeKnockBackCount", "df/d70/a07877.html#a32490dab9fd8ea9ae9afd8cf66feb087", null ],
+    [ "_pipeKnockBackTimer", "df/d70/a07877.html#aaef0cac1f3283c56117efcc484a0abfc", null ]
 ];

@@ -1,5 +1,4 @@
 var a08157 =
 [
-    [ "value_type", "d2/ddc/a08157.html#a72f92e01d1f385cf8d6ba7c31faa77e2", null ],
-    [ "TryConsume", "d2/ddc/a08157.html#a7320475f165952ef8ebf69407b533248", null ]
+    [ "value", "d2/ddc/a08157.html#aa6558e36917995af6b37ec607751aefd", null ]
 ];

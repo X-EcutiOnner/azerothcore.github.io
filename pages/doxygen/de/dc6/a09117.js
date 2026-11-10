@@ -1,10 +1,6 @@
 var a09117 =
 [
-    [ "Index", "de/dc6/a09117.html#a28b25d822326a1b7d5ec7f95ce084bac", [
-      [ "REGULAR", "de/dc6/a09117.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
-      [ "ADDON", "de/dc6/a09117.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
-      [ "MAX", "de/dc6/a09117.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
-    ] ],
-    [ "Count", "de/dc6/a09117.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
-    [ "Time", "de/dc6/a09117.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
+    [ "SavedItem", "de/dc6/a09117.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
+    [ "dstpos", "de/dc6/a09117.html#af844c8b955858b1ead94798c6326fa03", null ],
+    [ "item", "de/dc6/a09117.html#afaa651441e306c13acc3cd1aa3084170", null ]
 ];

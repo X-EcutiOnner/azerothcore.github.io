@@ -1,11 +1,7 @@
 var a24521 =
 [
-    [ "npc_isla_starmaneAI", "d4/d6d/a24521.html#a0cb655d324ddde173dcfdee069c0f694", null ],
-    [ "JustDied", "d4/d6d/a24521.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
-    [ "JustEngagedWith", "d4/d6d/a24521.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
-    [ "JustRespawned", "d4/d6d/a24521.html#a69b395a9b9504737109870c5e8db74c8", null ],
-    [ "UpdateEscortAI", "d4/d6d/a24521.html#af4b8c80e7443bb671be253238b124910", null ],
-    [ "WaypointReached", "d4/d6d/a24521.html#a5d00583afa4e811e4f3cb8400787a990", null ],
-    [ "WaypointReached", "d4/d6d/a24521.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "events", "d4/d6d/a24521.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
+    [ "HandleEffectRemove", "d4/d6d/a24521.html#a317c238b165ad331beb447ea5d0de7e1", null ],
+    [ "PrepareAuraScript", "d4/d6d/a24521.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
+    [ "Register", "d4/d6d/a24521.html#a13fdde1557249328306a57e159d821a7", null ],
+    [ "Validate", "d4/d6d/a24521.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
 ];

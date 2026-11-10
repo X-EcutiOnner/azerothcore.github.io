@@ -1,6 +1,6 @@
 var a22389 =
 [
-    [ "npc_bushwhackerAI", "dc/d1b/a22389.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "dc/d1b/a22389.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "dc/d1b/a22389.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "HandleExpire", "dc/d1b/a22389.html#a0dc1472d0acdf9081d56f0b6e0b3c942", null ],
+    [ "PrepareAuraScript", "dc/d1b/a22389.html#a24a1720f2c24ee182c6ac71854dbea13", null ],
+    [ "Register", "dc/d1b/a22389.html#afdfe8a3f0c97461b50d6eb694a0a277f", null ]
 ];

@@ -1,7 +1,11 @@
 var a17713 =
 [
-    [ "HandleDummy", "d0/d1b/a17713.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
-    [ "PrepareSpellScript", "d0/d1b/a17713.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
-    [ "Register", "d0/d1b/a17713.html#a371073fb37337719115242fc8758026f", null ],
-    [ "Validate", "d0/d1b/a17713.html#ad5df08da54defc89a7a552c39de089c3", null ]
+    [ "npc_living_mojoAI", "d0/d1b/a17713.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
+    [ "AttackStart", "d0/d1b/a17713.html#ad3f73a040176cd804f9715141063d176", null ],
+    [ "DoAction", "d0/d1b/a17713.html#a9d942e99f358a7488d473969ab461d6f", null ],
+    [ "JustEngagedWith", "d0/d1b/a17713.html#adbc665cfba933007e3f630676ab75656", null ],
+    [ "MoveInLineOfSight", "d0/d1b/a17713.html#a7981568666269e25580ae839f1f97f09", null ],
+    [ "Reset", "d0/d1b/a17713.html#a139df1207438dbd3793a2fbc58c2396c", null ],
+    [ "UpdateAI", "d0/d1b/a17713.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
+    [ "events", "d0/d1b/a17713.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
 ];

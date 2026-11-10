@@ -1,7 +1,7 @@
 var a25605 =
 [
-    [ "OnApply", "d7/ddc/a25605.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "d7/ddc/a25605.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "d7/ddc/a25605.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "d7/ddc/a25605.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "CalculateAmount", "d7/ddc/a25605.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "d7/ddc/a25605.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "d7/ddc/a25605.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "d7/ddc/a25605.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

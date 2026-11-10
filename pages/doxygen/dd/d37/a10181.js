@@ -1,14 +1,10 @@
 var a10181 =
 [
-    [ "LootItemStorage", "dd/d37/a10181.html#aa6ece474f05744f2ce24a9fef42734af", null ],
-    [ "~LootItemStorage", "dd/d37/a10181.html#a36faeed6ef556fd13118c4ad34e38548", null ],
-    [ "AddNewStoredLoot", "dd/d37/a10181.html#a4c463773b50ae1b312865fbf72dfed18", null ],
-    [ "instance", "dd/d37/a10181.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
-    [ "LoadStorageFromDB", "dd/d37/a10181.html#a377c75f9d06eb246072b29d19baf2b62", null ],
-    [ "LoadStoredLoot", "dd/d37/a10181.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
-    [ "RemoveEntryFromDB", "dd/d37/a10181.html#a8ab68725c0525d162d325a2131db4c49", null ],
-    [ "RemoveStoredLoot", "dd/d37/a10181.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
-    [ "RemoveStoredLootItem", "dd/d37/a10181.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
-    [ "RemoveStoredLootMoney", "dd/d37/a10181.html#ab22d267a6701fedf824f801e4b703f70", null ],
-    [ "lootItemStore", "dd/d37/a10181.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
+    [ "const_iterator", "dd/d37/a10181.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
+    [ "StorageType", "dd/d37/a10181.html#a6825a379d1af4254b920c14ab0068e7b", null ],
+    [ "BossBoundaryData", "dd/d37/a10181.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
+    [ "~BossBoundaryData", "dd/d37/a10181.html#a446a3ec16cdce76058761fce972f1e57", null ],
+    [ "begin", "dd/d37/a10181.html#a326930360d22d5fdf9a895991f2c4e49", null ],
+    [ "end", "dd/d37/a10181.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
+    [ "_data", "dd/d37/a10181.html#af60e90664c434a8d36115ca5dec889b5", null ]
 ];

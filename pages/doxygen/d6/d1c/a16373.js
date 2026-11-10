@@ -1,6 +1,7 @@
 var a16373 =
 [
-    [ "npc_sergeant_blyAI", "d3/da1/a16377.html", "d3/da1/a16377" ],
-    [ "npc_sergeant_bly", "d6/d1c/a16373.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "d6/d1c/a16373.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "npc_ranshallaAI", "d3/da1/a16377.html", "d3/da1/a16377" ],
+    [ "npc_ranshalla", "d6/d1c/a16373.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "d6/d1c/a16373.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "d6/d1c/a16373.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

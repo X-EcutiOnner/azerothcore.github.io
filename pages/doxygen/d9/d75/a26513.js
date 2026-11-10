@@ -1,8 +1,7 @@
 var a26513 =
 [
-    [ "HandleScript", "d9/d75/a26513.html#a181434606474535b5ed8dc6ee7c2dc29", null ],
-    [ "Load", "d9/d75/a26513.html#aee35eb07631e991dc019a2b716894237", null ],
-    [ "PrepareSpellScript", "d9/d75/a26513.html#a4c28987223d55f31aa6c5f3e349b62b7", null ],
-    [ "Register", "d9/d75/a26513.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb", null ],
-    [ "Validate", "d9/d75/a26513.html#a1541ff95bfa6ddc98748381cc2cb99f6", null ]
+    [ "HandleDummy", "d9/d75/a26513.html#a334563491c3cbb9daa9d97dad738e9e5", null ],
+    [ "PrepareSpellScript", "d9/d75/a26513.html#a69fe453f3c6764c3977c539d5fc71049", null ],
+    [ "Register", "d9/d75/a26513.html#af81469f371224a3180d73b3cf8cf001a", null ],
+    [ "Validate", "d9/d75/a26513.html#af0ab473a4ec7f1eebb70d0f2344de8ca", null ]
 ];

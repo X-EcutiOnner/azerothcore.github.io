@@ -1,6 +1,8 @@
 var a15997 =
 [
-    [ "npc_murkdeepAI", "d8/d6a/a16001.html", "d8/d6a/a16001" ],
-    [ "npc_murkdeep", "dc/d24/a15997.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "dc/d24/a15997.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "npc_death_ravagerAI", "dc/d24/a15997.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "dc/d24/a15997.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "dc/d24/a15997.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "dc/d24/a15997.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "dc/d24/a15997.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

@@ -1,9 +1,11 @@
 var a15373 =
 [
-    [ "boss_salrammAI", "df/df2/a15373.html#a9ea49d06266cf317d78bc2c1302e9c37", null ],
-    [ "ExplodeGhoul", "df/df2/a15373.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "df/df2/a15373.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "df/df2/a15373.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "KilledUnit", "df/df2/a15373.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "UpdateAI", "df/df2/a15373.html#aa2350dc05884593b1361f9f09b8d9392", null ]
+    [ "boss_epochAI", "df/df2/a15373.html#a35d80bf8032fba5908132ad29f372293", null ],
+    [ "JustDied", "df/df2/a15373.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "df/df2/a15373.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "df/df2/a15373.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "df/df2/a15373.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "df/df2/a15373.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "df/df2/a15373.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "warps", "df/df2/a15373.html#a478113af1ce565c729604c6039f55551", null ]
 ];

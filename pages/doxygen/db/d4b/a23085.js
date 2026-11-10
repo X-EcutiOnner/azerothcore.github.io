@@ -1,7 +1,9 @@
 var a23085 =
 [
-    [ "CheckProc", "db/d4b/a23085.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "db/d4b/a23085.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "db/d4b/a23085.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "db/d4b/a23085.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "HandleAfterCast", "db/d4b/a23085.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
+    [ "HandleDummy", "db/d4b/a23085.html#ae94594e337c2e0e6864f3723df8349bf", null ],
+    [ "Load", "db/d4b/a23085.html#a301008eff6b13a43070b3916925391ae", null ],
+    [ "PrepareSpellScript", "db/d4b/a23085.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
+    [ "Register", "db/d4b/a23085.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
+    [ "_targetCount", "db/d4b/a23085.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
 ];

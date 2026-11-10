@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node Struct Reference</title>
+<title>AzerothCore: LogOperation Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,137 +106,155 @@ $(document).ready(function(){initNavTree('db/d00/a05793.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="../../d3/d09/a05790.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node Struct Reference</div></div>
+  <div class="headertitle"><div class="title">LogOperation Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>A structure representing a node in the queue.  
- <a href="../../db/d00/a05793.html#details">More...</a></p>
+<p><code>#include &quot;<a class="el" href="../../">LogOperation.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aa4dcacffb32f3e739604ab6ef39b5031"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a05793.html#aa4dcacffb32f3e739604ab6ef39b5031">Node</a> ()=default</td></tr>
-<tr class="separator:aa4dcacffb32f3e739604ab6ef39b5031"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa5f116e3d84286f313ee8730bde7b936"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a05793.html#aa5f116e3d84286f313ee8730bde7b936">Node</a> (T *data)</td></tr>
-<tr class="separator:aa5f116e3d84286f313ee8730bde7b936"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19e5e4731bd71697876110348f86d737"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a05793.html#a19e5e4731bd71697876110348f86d737">LogOperation</a> (<a class="el" href="../../d7/dfe/a05785.html">Logger</a> const *_logger, std::unique_ptr&lt; <a class="el" href="../../d8/d30/a05789.html">LogMessage</a> &gt; &amp;&amp;_msg)</td></tr>
+<tr class="separator:a19e5e4731bd71697876110348f86d737"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae305e293044badac1a628edd501ed35"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a05793.html#aae305e293044badac1a628edd501ed35">~LogOperation</a> ()</td></tr>
+<tr class="separator:aae305e293044badac1a628edd501ed35"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a966a4bfb45430860fa5be56fe8b48f79"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a05793.html#a966a4bfb45430860fa5be56fe8b48f79">call</a> ()</td></tr>
+<tr class="separator:a966a4bfb45430860fa5be56fe8b48f79"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:aa7cdbff9817871b548fe639e0956f1f4"><td class="memItemLeft" align="right" valign="top">T *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a05793.html#aa7cdbff9817871b548fe639e0956f1f4">Data</a></td></tr>
-<tr class="memdesc:aa7cdbff9817871b548fe639e0956f1f4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Data stored in the node.  <a href="../../db/d00/a05793.html#aa7cdbff9817871b548fe639e0956f1f4">More...</a><br /></td></tr>
-<tr class="separator:aa7cdbff9817871b548fe639e0956f1f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7508e249dd3ff2b3ac291d67ddf87a71"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; <a class="el" href="../../db/d00/a05793.html">Node</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a05793.html#a7508e249dd3ff2b3ac291d67ddf87a71">Next</a></td></tr>
-<tr class="memdesc:a7508e249dd3ff2b3ac291d67ddf87a71"><td class="mdescLeft">&#160;</td><td class="mdescRight">Atomic pointer to the next node.  <a href="../../db/d00/a05793.html#a7508e249dd3ff2b3ac291d67ddf87a71">More...</a><br /></td></tr>
-<tr class="separator:a7508e249dd3ff2b3ac291d67ddf87a71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:af1d8611d116a3575e59a99e8cba5fc84"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dfe/a05785.html">Logger</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a05793.html#af1d8611d116a3575e59a99e8cba5fc84">logger</a></td></tr>
+<tr class="separator:af1d8611d116a3575e59a99e8cba5fc84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a665effc48367f396f3e714f5d3d56d75"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d8/d30/a05789.html">LogMessage</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a05793.html#a665effc48367f396f3e714f5d3d56d75">msg</a></td></tr>
+<tr class="separator:a665effc48367f396f3e714f5d3d56d75"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
-struct Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node</div><p >A structure representing a node in the queue. </p>
-<p >Each node holds a pointer to data and an atomic pointer to the next node in the queue. </p>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aa4dcacffb32f3e739604ab6ef39b5031" name="aa4dcacffb32f3e739604ab6ef39b5031"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa4dcacffb32f3e739604ab6ef39b5031">&#9670;&#160;</a></span>Node() <span class="overload">[1/2]</span></h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a19e5e4731bd71697876110348f86d737" name="a19e5e4731bd71697876110348f86d737"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a19e5e4731bd71697876110348f86d737">&#9670;&#160;</a></span>LogOperation()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/d30/a05789.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Node::Node </td>
+          <td class="memname">LogOperation::LogOperation </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/dfe/a05785.html">Logger</a> const *&#160;</td>
+          <td class="paramname"><em>_logger</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::unique_ptr&lt; <a class="el" href="../../d8/d30/a05789.html">LogMessage</a> &gt; &amp;&amp;&#160;</td>
+          <td class="paramname"><em>_msg</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   22</span>                                                                                  : <a class="code hl_variable" href="../../db/d00/a05793.html#af1d8611d116a3575e59a99e8cba5fc84">logger</a>(_logger), <a class="code hl_variable" href="../../db/d00/a05793.html#a665effc48367f396f3e714f5d3d56d75">msg</a>(std::forward&lt;std::unique_ptr&lt;LogMessage&gt;&gt;(_msg))</div>
+<div class="line"><span class="lineno">   23</span>{</div>
+<div class="line"><span class="lineno">   24</span>}</div>
+<div class="ttc" id="aa05793_html_a665effc48367f396f3e714f5d3d56d75"><div class="ttname"><a href="../../db/d00/a05793.html#a665effc48367f396f3e714f5d3d56d75">LogOperation::msg</a></div><div class="ttdeci">std::unique_ptr&lt; LogMessage &gt; msg</div><div class="ttdef"><b>Definition:</b> LogOperation.h:37</div></div>
+<div class="ttc" id="aa05793_html_af1d8611d116a3575e59a99e8cba5fc84"><div class="ttname"><a href="../../db/d00/a05793.html#af1d8611d116a3575e59a99e8cba5fc84">LogOperation::logger</a></div><div class="ttdeci">Logger const  * logger</div><div class="ttdef"><b>Definition:</b> LogOperation.h:36</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aae305e293044badac1a628edd501ed35" name="aae305e293044badac1a628edd501ed35"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae305e293044badac1a628edd501ed35">&#9670;&#160;</a></span>~LogOperation()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">LogOperation::~LogOperation </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-
+<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
+<div class="line"><span class="lineno">   28</span>}</div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="aa5f116e3d84286f313ee8730bde7b936" name="aa5f116e3d84286f313ee8730bde7b936"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa5f116e3d84286f313ee8730bde7b936">&#9670;&#160;</a></span>Node() <span class="overload">[2/2]</span></h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a966a4bfb45430860fa5be56fe8b48f79" name="a966a4bfb45430860fa5be56fe8b48f79"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a966a4bfb45430860fa5be56fe8b48f79">&#9670;&#160;</a></span>call()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">int LogOperation::call </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_variable" href="../../db/d00/a05793.html#af1d8611d116a3575e59a99e8cba5fc84">logger</a>-&gt;<a class="code hl_function" href="../../d7/dfe/a05785.html#a3627f98e8676ee7b68a34a4d9439082e">write</a>(<a class="code hl_variable" href="../../db/d00/a05793.html#a665effc48367f396f3e714f5d3d56d75">msg</a>.get());</div>
+<div class="line"><span class="lineno">   33</span>    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">   34</span>}</div>
+<div class="ttc" id="aa05785_html_a3627f98e8676ee7b68a34a4d9439082e"><div class="ttname"><a href="../../d7/dfe/a05785.html#a3627f98e8676ee7b68a34a4d9439082e">Logger::write</a></div><div class="ttdeci">void write(LogMessage *message) const</div><div class="ttdef"><b>Definition:</b> Logger.cpp:49</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00036">logger</a>, <a class="el" href="../../#l00037">msg</a>, and <a class="el" href="../../#l00049">Logger::write()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="af1d8611d116a3575e59a99e8cba5fc84" name="af1d8611d116a3575e59a99e8cba5fc84"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1d8611d116a3575e59a99e8cba5fc84">&#9670;&#160;</a></span>logger</h2>
+
+<div class="memitem">
+<div class="memproto">
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/d30/a05789.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Node::Node </td>
-          <td>(</td>
-          <td class="paramtype">T *&#160;</td>
-          <td class="paramname"><em>data</em></td><td>)</td>
-          <td></td>
+          <td class="memname"><a class="el" href="../../d7/dfe/a05785.html">Logger</a> const* LogOperation::logger</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  116</span>                                   : <a class="code hl_variable" href="../../db/d00/a05793.html#aa7cdbff9817871b548fe639e0956f1f4">Data</a>(data)</div>
-<div class="line"><span class="lineno">  117</span>            {</div>
-<div class="line"><span class="lineno">  118</span>                <a class="code hl_variable" href="../../db/d00/a05793.html#a7508e249dd3ff2b3ac291d67ddf87a71">Next</a>.store(<span class="keyword">nullptr</span>, std::memory_order_release);</div>
-<div class="line"><span class="lineno">  119</span>            }</div>
-<div class="ttc" id="aa05793_html_a7508e249dd3ff2b3ac291d67ddf87a71"><div class="ttname"><a href="../../db/d00/a05793.html#a7508e249dd3ff2b3ac291d67ddf87a71">Acore::Impl::MPSCQueueNonIntrusive::Node::Next</a></div><div class="ttdeci">std::atomic&lt; Node * &gt; Next</div><div class="ttdoc">Atomic pointer to the next node.</div><div class="ttdef"><b>Definition:</b> MPSCQueue.h:122</div></div>
-<div class="ttc" id="aa05793_html_aa7cdbff9817871b548fe639e0956f1f4"><div class="ttname"><a href="../../db/d00/a05793.html#aa7cdbff9817871b548fe639e0956f1f4">Acore::Impl::MPSCQueueNonIntrusive::Node::Data</a></div><div class="ttdeci">T * Data</div><div class="ttdoc">Data stored in the node.</div><div class="ttdef"><b>Definition:</b> MPSCQueue.h:121</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00122">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node::Next</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00030">call()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="aa7cdbff9817871b548fe639e0956f1f4" name="aa7cdbff9817871b548fe639e0956f1f4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa7cdbff9817871b548fe639e0956f1f4">&#9670;&#160;</a></span>Data</h2>
+<a id="a665effc48367f396f3e714f5d3d56d75" name="a665effc48367f396f3e714f5d3d56d75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a665effc48367f396f3e714f5d3d56d75">&#9670;&#160;</a></span>msg</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">T* <a class="el" href="../../d8/d30/a05789.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Node::Data</td>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d8/d30/a05789.html">LogMessage</a>&gt; LogOperation::msg</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p>Data stored in the node. </p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00094">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Dequeue()</a>.</p>
-
-</div>
-</div>
-<a id="a7508e249dd3ff2b3ac291d67ddf87a71" name="a7508e249dd3ff2b3ac291d67ddf87a71"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7508e249dd3ff2b3ac291d67ddf87a71">&#9670;&#160;</a></span>Next</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">std::atomic&lt;<a class="el" href="../../db/d00/a05793.html">Node</a>*&gt; <a class="el" href="../../d8/d30/a05789.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Node::Next</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Atomic pointer to the next node. </p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00094">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Dequeue()</a>, <a class="el" href="../../#l00079">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Enqueue()</a>, <a class="el" href="../../#l00044">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::MPSCQueueNonIntrusive()</a>, <a class="el" href="../../#l00116">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node::Node()</a>, and <a class="el" href="../../#l00056">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::~MPSCQueueNonIntrusive()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00030">call()</a>.</p>
 
 </div>
 </div>
@@ -245,8 +263,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/dbf/a05124.html">Acore</a></li><li class="navelem"><a class="el" href="../../db/d5a/a05136.html">Impl</a></li><li class="navelem"><a class="el" href="../../d8/d30/a05789.html">MPSCQueueNonIntrusive</a></li><li class="navelem"><a class="el" href="../../db/d00/a05793.html">Node</a></li>
-    <li class="footer">Generated on Mon Oct 19 2026 23:58:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/d00/a05793.html">LogOperation</a></li>
+    <li class="footer">Generated on Tue Nov 10 2026 02:55:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

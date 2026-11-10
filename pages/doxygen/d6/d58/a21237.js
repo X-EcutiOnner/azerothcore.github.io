@@ -1,6 +1,8 @@
 var a21237 =
 [
-    [ "CheckCast", "d6/d58/a21237.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d6/d58/a21237.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d6/d58/a21237.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "FilterTargets", "d6/d58/a21237.html#a9079f7163e23814eccfadd393f857c22", null ],
+    [ "HandleScriptEffect", "d6/d58/a21237.html#aae469190c1edc1fe45914bad1dac4e93", null ],
+    [ "PrepareSpellScript", "d6/d58/a21237.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
+    [ "Register", "d6/d58/a21237.html#a97265071f226fbd17c37d432cf9e2350", null ],
+    [ "Validate", "d6/d58/a21237.html#aeec0bdd2e39db2da657247376ddcd195", null ]
 ];

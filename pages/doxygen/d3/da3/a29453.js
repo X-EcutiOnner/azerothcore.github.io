@@ -1,7 +1,10 @@
 var a29453 =
 [
-    [ "ID", "d3/da3/a29453.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
-    [ "Index", "d3/da3/a29453.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
-    [ "Skill", "d3/da3/a29453.html#aed5e58cf605d3c28cd0d26015722be03", null ],
-    [ "Type", "d3/da3/a29453.html#a39b0b548efd795c162926bddcdd301b5", null ]
+    [ "ID", "d3/da3/a29453.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "d3/da3/a29453.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "d3/da3/a29453.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "d3/da3/a29453.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "d3/da3/a29453.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "d3/da3/a29453.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "d3/da3/a29453.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

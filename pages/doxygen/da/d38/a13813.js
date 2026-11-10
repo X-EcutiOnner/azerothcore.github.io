@@ -1,6 +1,6 @@
 var a13813 =
 [
-    [ "FilterTargets", "da/d38/a13813.html#a78675c3421e0243de9e136b646c56be1", null ],
-    [ "PrepareSpellScript", "da/d38/a13813.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
-    [ "Register", "da/d38/a13813.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
+    [ "HandleActivateObject", "da/d38/a13813.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
+    [ "PrepareSpellScript", "da/d38/a13813.html#ad55914fdc6771e09a508572d59ad30ed", null ],
+    [ "Register", "da/d38/a13813.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
 ];

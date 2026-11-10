@@ -1,11 +1,6 @@
 var a23485 =
 [
-    [ "boss_ahune", "de/d72/a23485.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "de/d72/a23485.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "de/d72/a23485.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "de/d72/a23485.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "de/d72/a23485.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "de/d72/a23485.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "de/d72/a23485.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "de/d72/a23485.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "d5/d2a/a23489.html", "d5/d2a/a23489" ],
+    [ "instance_serpent_shrine", "de/d72/a23485.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "de/d72/a23485.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

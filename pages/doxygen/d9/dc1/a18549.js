@@ -1,6 +1,6 @@
 var a18549 =
 [
-    [ "npc_precious_iccAI", "db/d3f/a18553.html", "db/d3f/a18553" ],
-    [ "npc_precious_icc", "d9/dc1/a18549.html#a463eb0df1edb17e154658dac131f0898", null ],
-    [ "GetAI", "d9/dc1/a18549.html#aa63840c5968a089bff41dcd9c86d5849", null ]
+    [ "CheckTarget", "d9/dc1/a18549.html#afce64ba75f8370cab6b8f1e561b10587", null ],
+    [ "PrepareSpellScript", "d9/dc1/a18549.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
+    [ "Register", "d9/dc1/a18549.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
 ];

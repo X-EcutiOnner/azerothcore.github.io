@@ -1,8 +1,6 @@
 var a22477 =
 [
-    [ "npc_hyldsmeet_protodrake", "d1/d58/a22477.html#a409a5f5eace583ef874421819c975ed8", null ],
-    [ "PassengerBoarded", "d1/d58/a22477.html#a0067d3b394c967946e329ea25c2dc315", null ],
-    [ "UpdateAI", "d1/d58/a22477.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
-    [ "_accessoryInstalled", "d1/d58/a22477.html#af9a5984f66eb3a1a26e8c1640bcf7597", null ],
-    [ "_accessoryRespawnTimer", "d1/d58/a22477.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
+    [ "npc_iron_watcherAI", "db/d3e/a22481.html", "db/d3e/a22481" ],
+    [ "npc_iron_watcher", "d1/d58/a22477.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "d1/d58/a22477.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

@@ -1,6 +1,7 @@
 var a15433 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "d6/d51/a15437.html", "d6/d51/a15437" ],
-    [ "instance_old_hillsbrad", "da/d46/a15433.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
-    [ "GetInstanceScript", "da/d46/a15433.html#a1929c38b1c745b2df1ccaf462113e220", null ]
+    [ "npc_cos_chromie_middle", "da/d46/a15433.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "da/d46/a15433.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "da/d46/a15433.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "da/d46/a15433.html#ad9e733b4dd69f58d880aebcfe06cbf96", null ]
 ];

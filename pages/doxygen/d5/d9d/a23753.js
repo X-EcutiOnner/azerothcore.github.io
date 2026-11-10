@@ -1,12 +1,6 @@
 var a23753 =
 [
-    [ "boss_omor_the_unscarred", "d5/d9d/a23753.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "d5/d9d/a23753.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "d5/d9d/a23753.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "d5/d9d/a23753.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "d5/d9d/a23753.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "d5/d9d/a23753.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "d5/d9d/a23753.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "d5/d9d/a23753.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "d5/d9d/a23753.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d2/d1e/a23757.html", "d2/d1e/a23757" ],
+    [ "instance_gruuls_lair", "d5/d9d/a23753.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "d5/d9d/a23753.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

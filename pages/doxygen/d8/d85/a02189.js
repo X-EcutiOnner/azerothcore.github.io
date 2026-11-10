@@ -1,6 +1,6 @@
 var a02189 =
 [
-    [ "Bag", "d7/d70/a08830.html", "d7/d70/a08830" ],
-    [ "MAX_BAG_SIZE", "d8/d85/a02189.html#a60a065b8fab298fb24dfd8f22f657d77", null ],
-    [ "NewItemOrBag", "d8/d85/a02189.html#a6b74a54b7de3ced0e27f4128f0d95c64", null ]
+    [ "GenerateEnchSuffixFactor", "d8/d85/a02189.html#a25026e783b088b45eebd4db8295b1b87", null ],
+    [ "GetItemEnchantMod", "d8/d85/a02189.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
+    [ "LoadRandomEnchantmentsTable", "d8/d85/a02189.html#a376fabf7bba54eaf928217f860f1c33b", null ]
 ];

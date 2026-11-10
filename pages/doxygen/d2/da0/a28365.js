@@ -1,5 +1,7 @@
 var a28365 =
 [
-    [ "go_resonite_cask", "d2/da0/a28365.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
-    [ "OnGossipHello", "d2/da0/a28365.html#aae8591d53a6983886b52d404acdba293", null ]
+    [ "FilterTargets", "d2/da0/a28365.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "d2/da0/a28365.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "d2/da0/a28365.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "d2/da0/a28365.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

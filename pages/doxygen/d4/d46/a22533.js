@@ -1,7 +1,6 @@
 var a22533 =
 [
-    [ "HandleDummy", "d4/d46/a22533.html#acdf98990ad575fec751a541cac3bcffa", null ],
-    [ "PrepareSpellScript", "d4/d46/a22533.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
-    [ "Register", "d4/d46/a22533.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
-    [ "Validate", "d4/d46/a22533.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
+    [ "CheckCast", "d4/d46/a22533.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "d4/d46/a22533.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "d4/d46/a22533.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

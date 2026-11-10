@@ -1,7 +1,5 @@
 var a20409 =
 [
-    [ "HandleScript", "db/d5c/a20409.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
-    [ "PrepareSpellScript", "db/d5c/a20409.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
-    [ "Register", "db/d5c/a20409.html#a04a5b3a4f768200d74f4641508633d35", null ],
-    [ "Validate", "db/d5c/a20409.html#a78074b5b64b1ee5dfaab812f6c72bb9b", null ]
+    [ "FlameLeviathanPursuedTargetSelector", "db/d5c/a20409.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
+    [ "operator()", "db/d5c/a20409.html#aaa2a49366fb651f7486b463ce597f364", null ]
 ];

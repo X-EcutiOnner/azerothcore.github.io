@@ -1,8 +1,8 @@
 var a28665 =
 [
-    [ "npc_riggle_bassbaitAI", "d0/da3/a28669.html", "d0/da3/a28669" ],
-    [ "npc_riggle_bassbait", "dd/d3d/a28665.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "dd/d3d/a28665.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "dd/d3d/a28665.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "dd/d3d/a28665.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "npc_nelsonAI", "d0/da3/a28669.html", "d0/da3/a28669" ],
+    [ "npc_nelson", "dd/d3d/a28665.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "dd/d3d/a28665.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "dd/d3d/a28665.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "dd/d3d/a28665.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

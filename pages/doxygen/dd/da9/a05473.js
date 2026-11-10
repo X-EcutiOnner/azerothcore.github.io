@@ -1,22 +1,12 @@
 var a05473 =
 [
-    [ "WmoLiquid", "dd/da9/a05473.html#a260246db4d77ec6490e164359a99d78d", null ],
-    [ "WmoLiquid", "dd/da9/a05473.html#acfe274d06450c40475a499178f8175cb", null ],
-    [ "~WmoLiquid", "dd/da9/a05473.html#a7e7ec569e5d10c9d5fdba43bfddf4233", null ],
-    [ "WmoLiquid", "dd/da9/a05473.html#af5142dee41d1e9d3e6a9aa06f5bd26d3", null ],
-    [ "GetFileSize", "dd/da9/a05473.html#a3d61f521e6946002c2f2feac29990372", null ],
-    [ "GetFlagsStorage", "dd/da9/a05473.html#ab687769751c9d17d11805a6cd6fdd859", null ],
-    [ "GetHeightStorage", "dd/da9/a05473.html#a684771989847a5e67232a643245c609f", null ],
-    [ "GetLiquidHeight", "dd/da9/a05473.html#a682d2297a5bb7116f3100dc1318b51bc", null ],
-    [ "GetPosInfo", "dd/da9/a05473.html#ad23b901e2fda90b2c5fe8cd573cf14f1", null ],
-    [ "GetType", "dd/da9/a05473.html#a76a22c1edffc043aaac20564c2c832db", null ],
-    [ "operator=", "dd/da9/a05473.html#a8af1f2fc4a75b3baa65a478400248a7a", null ],
-    [ "readFromFile", "dd/da9/a05473.html#a86a76dc13130581b32ad1f11c6337e51", null ],
-    [ "writeToFile", "dd/da9/a05473.html#ae967557a94887ba57a66a89c1720008e", null ],
-    [ "iCorner", "dd/da9/a05473.html#a15fceab148716e91732e9a286186059d", null ],
-    [ "iFlags", "dd/da9/a05473.html#a773994f9887a6f0d763258ef51fdd97d", null ],
-    [ "iHeight", "dd/da9/a05473.html#a4096781f6ec886953db9f08ccb4bfc18", null ],
-    [ "iTilesX", "dd/da9/a05473.html#a5c75de17db5c782f9d6a42ac545cfa75", null ],
-    [ "iTilesY", "dd/da9/a05473.html#a0c9af1171f2182d5d68234814ecadd4a", null ],
-    [ "iType", "dd/da9/a05473.html#a2c396a3abf92043c928ab0611d552102", null ]
+    [ "ModelInstance", "dd/da9/a05473.html#a7a4efa321915b77801e9fc87924df572", null ],
+    [ "ModelInstance", "dd/da9/a05473.html#a0f2a5f321c1e54cbe8b3686c3e6801d4", null ],
+    [ "GetLiquidLevel", "dd/da9/a05473.html#a7d938e37825b61d9206c0e98d1352b5f", null ],
+    [ "GetLocationInfo", "dd/da9/a05473.html#a182d5cff23de7e6392fa10e2d353fcae", null ],
+    [ "getWorldModel", "dd/da9/a05473.html#a464922875649215b0b60aafc1ff70c3c", null ],
+    [ "intersectRay", "dd/da9/a05473.html#aac45a2d4becd7cac072da2f85b346eee", null ],
+    [ "iInvRot", "dd/da9/a05473.html#a9ac1d8dbfc566a2b5e508cae92ef4019", null ],
+    [ "iInvScale", "dd/da9/a05473.html#adc23d9c9a79ac7cfdb1f90b96485b089", null ],
+    [ "iModel", "dd/da9/a05473.html#a1826bd594e558180a18d1c3cf188c801", null ]
 ];

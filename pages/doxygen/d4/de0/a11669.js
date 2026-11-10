@@ -1,5 +1,5 @@
 var a11669 =
 [
-    [ "QuestLogFull", "d4/de0/a11669.html#ac268090c33720d1975c3538acfe0ce7f", null ],
-    [ "Write", "d4/de0/a11669.html#aab5d1b5ceb0e9fffd588d95d92640897", null ]
+    [ "RequestPetInfo", "d4/de0/a11669.html#ae0861d1fb77fe39bb48c26505e36ed2b", null ],
+    [ "Read", "d4/de0/a11669.html#a5cc9bb57bce7dc7f24243fdc63e17870", null ]
 ];

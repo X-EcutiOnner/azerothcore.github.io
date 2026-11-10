@@ -1,10 +1,15 @@
 var a02774 =
 [
-    [ "MovementGenerator", "d6/df4/a10490.html", "d6/df4/a10490" ],
-    [ "MovementGeneratorMedium< T, D >", "de/da7/a10494.html", "de/da7/a10494" ],
-    [ "MovementGeneratorFactory< Movement >", "d2/d5f/a10498.html", "d2/d5f/a10498" ],
-    [ "IdleMovementFactory", "dc/d63/a10502.html", "dc/d63/a10502" ],
-    [ "sMovementGeneratorRegistry", "df/d91/a02774.html#aa270c1b96e4671274975a07340ba687a", null ],
-    [ "MovementGeneratorCreator", "df/d91/a02774.html#ae7a6c44762ef974149bfb8d00247a013", null ],
-    [ "MovementGeneratorRegistry", "df/d91/a02774.html#ae78e82cd7b1aea7744a0dbb2e65f8e79", null ]
+    [ "MonsterMoveType", "df/d91/a02774.html#afd3f02560404659d901713e1228d9339", [
+      [ "MonsterMoveNormal", "df/d91/a02774.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
+      [ "MonsterMoveStop", "df/d91/a02774.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],
+      [ "MonsterMoveFacingSpot", "df/d91/a02774.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323", null ],
+      [ "MonsterMoveFacingTarget", "df/d91/a02774.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9", null ],
+      [ "MonsterMoveFacingAngle", "df/d91/a02774.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642", null ]
+    ] ],
+    [ "operator<<", "df/d91/a02774.html#a36206fc0a1fcffec4fbb7696f2fba68a", null ],
+    [ "operator>>", "df/d91/a02774.html#ae394b26156a3fa0d1d828d30cee475b1", null ],
+    [ "WriteCatmullRomCyclicPath", "df/d91/a02774.html#a512a47e7c442a3d5260ff7ec7b4d69bb", null ],
+    [ "WriteCatmullRomPath", "df/d91/a02774.html#a04fba7015071fbd9335a9723c694e511", null ],
+    [ "WriteLinearPath", "df/d91/a02774.html#a55368980761369537a648ba735e1f71f", null ]
 ];

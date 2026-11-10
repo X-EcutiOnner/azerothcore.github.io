@@ -1,6 +1,6 @@
 var a26093 =
 [
-    [ "HandleSummon", "da/d46/a26093.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "da/d46/a26093.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "da/d46/a26093.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "OnRemove", "da/d46/a26093.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "da/d46/a26093.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "da/d46/a26093.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

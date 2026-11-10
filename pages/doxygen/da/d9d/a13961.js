@@ -1,6 +1,6 @@
 var a13961 =
 [
-    [ "HandleEffectApply", "da/d9d/a13961.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
-    [ "PrepareAuraScript", "da/d9d/a13961.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
-    [ "Register", "da/d9d/a13961.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
+    [ "FilterTargets", "da/d9d/a13961.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
+    [ "PrepareSpellScript", "da/d9d/a13961.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
+    [ "Register", "da/d9d/a13961.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
 ];

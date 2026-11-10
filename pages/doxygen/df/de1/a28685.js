@@ -1,6 +1,6 @@
 var a28685 =
 [
-    [ "npc_air_force_botsAI", "d3/d57/a28689.html", "d3/d57/a28689" ],
-    [ "npc_air_force_bots", "df/de1/a28685.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "df/de1/a28685.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "npc_taxi", "df/de1/a28685.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "df/de1/a28685.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "df/de1/a28685.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

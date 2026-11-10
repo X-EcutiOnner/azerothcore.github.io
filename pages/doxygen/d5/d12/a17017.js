@@ -1,6 +1,7 @@
 var a17017 =
 [
-    [ "npc_toc_priestAI", "dd/d39/a17021.html", "dd/d39/a17021" ],
-    [ "npc_toc_priest", "d5/d12/a17017.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "d5/d12/a17017.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "npc_toc_shamanAI", "d5/d12/a17017.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
+    [ "myCanCast", "d5/d12/a17017.html#a993739662d2687c27219853669b8a485", null ],
+    [ "UpdateAI", "d5/d12/a17017.html#a2ad17245685feb3f085ef9a669459c61", null ],
+    [ "events", "d5/d12/a17017.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
 ];

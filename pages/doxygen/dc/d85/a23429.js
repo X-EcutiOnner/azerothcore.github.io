@@ -1,9 +1,13 @@
 var a23429 =
 [
-    [ "CalcPeriodic", "dc/d85/a23429.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
-    [ "HandleEffectApply", "dc/d85/a23429.html#adb983cc531fa666648bbdb432684ff1d", null ],
-    [ "HandleEffectRemove", "dc/d85/a23429.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
-    [ "OnPeriodic", "dc/d85/a23429.html#aecefab535157dbe8e42aff3b23cd685b", null ],
-    [ "PrepareAuraScript", "dc/d85/a23429.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
-    [ "Register", "dc/d85/a23429.html#a3771abcc829883ba0cbae9587adbe751", null ]
+    [ "npc_inner_demon", "dc/d85/a23429.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
+    [ "CanAIAttack", "dc/d85/a23429.html#a7498fd32b0ace832b38dc624d07478ed", null ],
+    [ "CanBeSeen", "dc/d85/a23429.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
+    [ "CanReceiveDamage", "dc/d85/a23429.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
+    [ "IsSummonedBy", "dc/d85/a23429.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
+    [ "JustDied", "dc/d85/a23429.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
+    [ "OnCalculateMeleeDamageReceived", "dc/d85/a23429.html#ae95022548b44b23ef93fae24729b5af5", null ],
+    [ "OnCalculatePeriodicTickReceived", "dc/d85/a23429.html#a546281a2257d0407d294fba1f7d3426f", null ],
+    [ "OnCalculateSpellDamageReceived", "dc/d85/a23429.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
+    [ "UpdateAI", "dc/d85/a23429.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
 ];

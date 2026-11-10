@@ -1,6 +1,6 @@
 var a15905 =
 [
-    [ "HandleDummy", "d9/d35/a15905.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "d9/d35/a15905.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "d9/d35/a15905.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "OnPeriodic", "d9/d35/a15905.html#a5945e24db52c6bacae7221b085dc877b", null ],
+    [ "PrepareAuraScript", "d9/d35/a15905.html#acc987aa864a8333de7bd0b770eb9018d", null ],
+    [ "Register", "d9/d35/a15905.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
 ];

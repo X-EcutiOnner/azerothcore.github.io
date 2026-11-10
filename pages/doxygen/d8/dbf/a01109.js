@@ -1,4 +1,4 @@
 var a01109 =
 [
-    [ "VehicleScript", "da/df4/a10970.html", "da/df4/a10970" ]
+    [ "ScriptRegistry< SpellScriptLoader >", "d8/dbf/a01109.html#aae80ff7a03e35c91f47550f388c3f3bb", null ]
 ];

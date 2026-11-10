@@ -1,8 +1,8 @@
 var a09933 =
 [
-    [ "AllGameObjectsMatchingOneEntryInRange", "d7/d76/a09933.html#ad64e96c8484be1354ad4a3c0b6754d95", null ],
-    [ "operator()", "d7/d76/a09933.html#afc81f329be9d6d8eb8bfd2ade94c5665", null ],
-    [ "m_fRange", "d7/d76/a09933.html#aa76b1a6c8a919c1e5b37c74b33859464", null ],
-    [ "m_pObject", "d7/d76/a09933.html#ac2bae147199d0b1b592a560017128c4e", null ],
-    [ "m_uiEntries", "d7/d76/a09933.html#a3eb95fd72147ab8195da44a46c2cf0e6", null ]
+    [ "AnyAssistCreatureInRangeCheck", "d7/d76/a09933.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
+    [ "operator()", "d7/d76/a09933.html#a314a4800047f7e661cd011010b3f148e", null ],
+    [ "i_enemy", "d7/d76/a09933.html#a37318ae783e6cf4a658063aab149e8a3", null ],
+    [ "i_funit", "d7/d76/a09933.html#add1071091d1696c3f537483810dcb6f1", null ],
+    [ "i_range", "d7/d76/a09933.html#a4bcf67be5bae4649d82586349d30be04", null ]
 ];

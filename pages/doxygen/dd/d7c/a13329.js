@@ -1,5 +1,16 @@
 var a13329 =
 [
-    [ "go_blackened_urn", "dd/d7c/a13329.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
-    [ "OnGossipHello", "dd/d7c/a13329.html#ab091bd54734acc65532303a391441ee2", null ]
+    [ "boss_attumen", "dd/d7c/a13329.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
+    [ "DamageTaken", "dd/d7c/a13329.html#a0b426b760d9ace05211c3383e7628022", null ],
+    [ "EnterEvadeMode", "dd/d7c/a13329.html#af00f91294c04d0fe932c922fd270c5dc", null ],
+    [ "Initialize", "dd/d7c/a13329.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
+    [ "IsSummonedBy", "dd/d7c/a13329.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
+    [ "JustDied", "dd/d7c/a13329.html#a375a95d46f8db8a53ea6420dd557855e", null ],
+    [ "JustSummoned", "dd/d7c/a13329.html#af91018e54244864ca4cd1b9d40c569df", null ],
+    [ "KilledUnit", "dd/d7c/a13329.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
+    [ "Reset", "dd/d7c/a13329.html#ab8815ed9b1068e748e43346725cd9281", null ],
+    [ "ScheduleTasks", "dd/d7c/a13329.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
+    [ "SpellHit", "dd/d7c/a13329.html#a1181ae1d50d6c52483b0d90423997c90", null ],
+    [ "UpdateAI", "dd/d7c/a13329.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
+    [ "_phase", "dd/d7c/a13329.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
 ];

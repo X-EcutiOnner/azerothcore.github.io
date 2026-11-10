@@ -1,6 +1,7 @@
 var a16889 =
 [
-    [ "HandleSpellHit", "df/dd0/a16889.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "df/dd0/a16889.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "df/dd0/a16889.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "HandleAfterEffectAbsorb", "df/dd0/a16889.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "df/dd0/a16889.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "df/dd0/a16889.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "df/dd0/a16889.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

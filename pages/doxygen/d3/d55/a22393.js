@@ -1,7 +1,6 @@
 var a22393 =
 [
-    [ "npc_engineer_heliceAI", "d5/d41/a22397.html", "d5/d41/a22397" ],
-    [ "npc_engineer_helice", "d3/d55/a22393.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "d3/d55/a22393.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "d3/d55/a22393.html#abd345111463ce2ac635ad7fc6f891fb7", null ]
+    [ "HandleHealPct", "d3/d55/a22393.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "d3/d55/a22393.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "d3/d55/a22393.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

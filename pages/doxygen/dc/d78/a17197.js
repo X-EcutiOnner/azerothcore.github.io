@@ -1,7 +1,10 @@
 var a17197 =
 [
-    [ "HandleScriptEffect", "dc/d78/a17197.html#aea6862494c2baf92d52ef41634465142", null ],
-    [ "PrepareSpellScript", "dc/d78/a17197.html#ad2149b598db19eabd39ef3e0b0bd68e3", null ],
-    [ "Register", "dc/d78/a17197.html#a1d1df68a416c6a1367f2872ecf9e5ebd", null ],
-    [ "Validate", "dc/d78/a17197.html#ad5edce4270cd0619d749730618236312", null ]
+    [ "CalculateAmount", "dc/d78/a17197.html#a216034e5ef13850d946990daf7efc6f7", null ],
+    [ "HandlePeriodic", "dc/d78/a17197.html#ad1661b8ac97f891a40694f39316fda9c", null ],
+    [ "OnApply", "dc/d78/a17197.html#a9200f823af6faec5e465691924d299f8", null ],
+    [ "OnRemove", "dc/d78/a17197.html#a22f800827cac4917c4a6ebb721c7fdfb", null ],
+    [ "PrepareAuraScript", "dc/d78/a17197.html#a8f0561db040ef8fcc293d33e60df5b3b", null ],
+    [ "Register", "dc/d78/a17197.html#ac64f95df2dea84d20e7f911ec6203794", null ],
+    [ "Validate", "dc/d78/a17197.html#a95b48ae747cad66faa2d66360fcbf11f", null ]
 ];

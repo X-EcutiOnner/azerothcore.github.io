@@ -1,19 +1,10 @@
 var a10357 =
 [
-    [ "MapCollisionData", "d5/d5a/a10357.html#a4e894d4a959f3295d1e2c5245b9996a7", null ],
-    [ "~MapCollisionData", "d5/d5a/a10357.html#a3c8a129c38560fe00b5ecbdab08da733", null ],
-    [ "GetDynamicTree", "d5/d5a/a10357.html#a40d40d192d17ac69f933ab7c17887608", null ],
-    [ "GetDynamicTree", "d5/d5a/a10357.html#a2c1408b48e83bc609023f41027c89064", null ],
-    [ "GetMMapData", "d5/d5a/a10357.html#accd50059c333a678e03637bc9b012e4e", null ],
-    [ "GetMMapData", "d5/d5a/a10357.html#ae5f0ccd86069905b9630204ee1e7ca08", null ],
-    [ "GetMMapNavMeshSharedPtr", "d5/d5a/a10357.html#aac380a18735172b58bb9b35a56dc3544", null ],
-    [ "GetStaticTree", "d5/d5a/a10357.html#a805068c70a0e02a58a1dbad8b5f32911", null ],
-    [ "GetStaticTree", "d5/d5a/a10357.html#ad22d3261667975e3eb0cad94966a7754", null ],
-    [ "GetStaticTreeSharedPtr", "d5/d5a/a10357.html#adfee9be1a687b889b7fbd155f187347a", null ],
-    [ "LoadMMapTile", "d5/d5a/a10357.html#a661a7c3ee6f24c33b5598db5c87e968c", null ],
-    [ "LoadVMapTile", "d5/d5a/a10357.html#a0a9ed3fdca779f0f8681d6685d295e2d", null ],
-    [ "_dynamicVMapData", "d5/d5a/a10357.html#a13f5d030bee357ad4aaa97011e3d168e", null ],
-    [ "_map", "d5/d5a/a10357.html#af6e685ca98230858dd13b08eb5d6175c", null ],
-    [ "_mmapData", "d5/d5a/a10357.html#a8a417dcd2e8df672602954f5e3bc3153", null ],
-    [ "_staticVMapData", "d5/d5a/a10357.html#ab55e6ca04cccbde9d9564194e9392b5c", null ]
+    [ "ZoneDynamicInfo", "d5/d5a/a10357.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
+    [ "DefaultWeather", "d5/d5a/a10357.html#a8c2c7772596ec58413bee2077e46790f", null ],
+    [ "LightFadeInTime", "d5/d5a/a10357.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
+    [ "MusicId", "d5/d5a/a10357.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
+    [ "OverrideLightId", "d5/d5a/a10357.html#a0d43acd5539d3449b7c36ee88518346e", null ],
+    [ "WeatherGrade", "d5/d5a/a10357.html#a923c3231c49554addd1522f0ccc50e2d", null ],
+    [ "WeatherId", "d5/d5a/a10357.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
 ];

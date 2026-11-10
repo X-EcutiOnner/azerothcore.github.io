@@ -1,5 +1,10 @@
 var a10685 =
 [
-    [ "petitionGuid", "d0/da7/a10685.html#adafc1020d722bd3885429041ce9a292c", null ],
-    [ "signatureMap", "d0/da7/a10685.html#a70bd865a5b11ffc0ceed08b683548b42", null ]
+    [ "WaypointMgr", "d0/da7/a10685.html#a2f038884959f10348bd5b7af3abee7db", null ],
+    [ "GetPath", "d0/da7/a10685.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
+    [ "instance", "d0/da7/a10685.html#aacd2ed943503288057b3fb9a935a56e9", null ],
+    [ "Load", "d0/da7/a10685.html#a69ae451ce07f2e68be81b1a86649115d", null ],
+    [ "LoadWaypointAddons", "d0/da7/a10685.html#a84df91143dd387b5d4adc7aa8d63045e", null ],
+    [ "ReloadPath", "d0/da7/a10685.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
+    [ "_waypointStore", "d0/da7/a10685.html#a15d1c47c7e839538c354ba91775bd9e7", null ]
 ];

@@ -1,6 +1,6 @@
 var a22657 =
 [
-    [ "npc_released_offspring_harkoaAI", "d1/d3c/a22661.html", "d1/d3c/a22661" ],
-    [ "npc_released_offspring_harkoa", "da/d56/a22657.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "da/d56/a22657.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "HandlePeriodicDummy", "da/d56/a22657.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
+    [ "PrepareAuraScript", "da/d56/a22657.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
+    [ "Register", "da/d56/a22657.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
 ];

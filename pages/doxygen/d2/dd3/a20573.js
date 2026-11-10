@@ -1,7 +1,5 @@
 var a20573 =
 [
-    [ "npc_ulduar_icicle", "d2/dd3/a20573.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
-    [ "UpdateAI", "d2/dd3/a20573.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
-    [ "timer1", "d2/dd3/a20573.html#ae277d302131abd17cef018872b12da06", null ],
-    [ "timer2", "d2/dd3/a20573.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
+    [ "id", "d2/dd3/a20573.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "pos", "d2/dd3/a20573.html#aeca90e17f8b6f5b40f0f703ef9fe2b73", null ]
 ];

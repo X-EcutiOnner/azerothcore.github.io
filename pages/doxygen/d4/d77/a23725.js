@@ -1,8 +1,7 @@
 var a23725 =
 [
-    [ "boss_broggok", "d4/d77/a23725.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "d4/d77/a23725.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "d4/d77/a23725.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "d4/d77/a23725.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "d4/d77/a23725.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "HandleScriptEffect", "d4/d77/a23725.html#a534bf39998813f06c48bc920e4666692", null ],
+    [ "PrepareSpellScript", "d4/d77/a23725.html#a5892f20a0704596cb70a995a73846368", null ],
+    [ "Register", "d4/d77/a23725.html#a1176b4e4ad488a3b6b38ff4b8c955d64", null ],
+    [ "Validate", "d4/d77/a23725.html#af618314a13013eaf9f36b30047de0878", null ]
 ];

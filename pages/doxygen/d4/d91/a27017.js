@@ -1,7 +1,8 @@
 var a27017 =
 [
-    [ "CheckAreaTarget", "d4/d91/a27017.html#a3c2dc43efc37be1b34cba266a478f46e", null ],
-    [ "PrepareAuraScript", "d4/d91/a27017.html#a88c7c19e87106e1bbf6cc5a24a3bc2e4", null ],
-    [ "Register", "d4/d91/a27017.html#a9cbc5794b1ed54fe9313cd161ec5b19f", null ],
-    [ "Validate", "d4/d91/a27017.html#ab18a951259cc74b0ba8319f757e38eca", null ]
+    [ "CheckProc", "d4/d91/a27017.html#af8998dee977a1ac3ab16077558b8bc1d", null ],
+    [ "HandleProc", "d4/d91/a27017.html#abd8ff13c602931f0601f3440b13fd87b", null ],
+    [ "PrepareAuraScript", "d4/d91/a27017.html#ae2be03a9b723caaee90fc497da4b0069", null ],
+    [ "Register", "d4/d91/a27017.html#a1a98679fdf2d18df0101c3d56308be7b", null ],
+    [ "Validate", "d4/d91/a27017.html#afb9d057bd6b06804ec42b0ff723fd022", null ]
 ];

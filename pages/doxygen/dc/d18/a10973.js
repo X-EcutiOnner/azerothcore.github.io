@@ -1,8 +1,10 @@
 var a10973 =
 [
-    [ "type", "dc/d18/a10973.html#a93b2e49d8b93d48c1fcf9ce460f965d6", null ],
-    [ "EnabledHooks", "dc/d18/a10973.html#ac0ca0ab60e350e783c1297a657e32cdc", null ],
-    [ "HasEnabledHooks", "dc/d18/a10973.html#a8cad14090933423a3bd83b87af723810", null ],
-    [ "LegacyDbValidationCandidate", "dc/d18/a10973.html#a1c71456b199770112365ee54f0bd28ad", null ],
-    [ "PromotedAfterDbLoad", "dc/d18/a10973.html#a1800cba1759f5cdee36e47e3aa4ab2e8", null ]
+    [ "TicketScript", "dc/d18/a10973.html#aec2b310ba0b26aa84a245207256edb0e", null ],
+    [ "IsDatabaseBound", "dc/d18/a10973.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
+    [ "OnTicketClose", "dc/d18/a10973.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
+    [ "OnTicketCreate", "dc/d18/a10973.html#a3436bbc78425bf5144c81f6309060b33", null ],
+    [ "OnTicketResolve", "dc/d18/a10973.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
+    [ "OnTicketStatusUpdate", "dc/d18/a10973.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
+    [ "OnTicketUpdateLastChange", "dc/d18/a10973.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
 ];

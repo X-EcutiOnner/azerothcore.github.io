@@ -1,9 +1,9 @@
 var a25221 =
 [
-    [ "spell_gen_select_target_count", "d8/dfa/a25221.html#a65507c155a8746ff49c58c051b7868e4", null ],
-    [ "FilterTargets", "d8/dfa/a25221.html#a5de89be9ce321a0f4ac49853a700b502", null ],
-    [ "PrepareSpellScript", "d8/dfa/a25221.html#a42ddce15414dcdf495b572e0f75e9486", null ],
-    [ "Register", "d8/dfa/a25221.html#a94f86992275123e2e3989655cf077efd", null ],
-    [ "_count", "d8/dfa/a25221.html#acdf5daa848ae185b859c45a1271df68c", null ],
-    [ "_effTarget", "d8/dfa/a25221.html#a9c54508790062277c8275d2466e93fb3", null ]
+    [ "PrepareAuraScript", "d8/dfa/a25221.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "d8/dfa/a25221.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "d8/dfa/a25221.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "d8/dfa/a25221.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "d8/dfa/a25221.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "d8/dfa/a25221.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

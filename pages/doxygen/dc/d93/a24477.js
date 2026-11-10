@@ -1,7 +1,11 @@
 var a24477 =
 [
-    [ "HandleEffectRemove", "dc/d93/a24477.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
-    [ "PrepareAuraScript", "dc/d93/a24477.html#a19ce53b5731b0789896612fa55f38849", null ],
-    [ "Register", "dc/d93/a24477.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
-    [ "Validate", "dc/d93/a24477.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "dc/d93/a24477.html#af24a8d5ead256d158c86379e032aa889", null ],
+    [ "Reset", "dc/d93/a24477.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
+    [ "SetData", "dc/d93/a24477.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
+    [ "SpellHit", "dc/d93/a24477.html#a14523a24042d23efbafc7924f394dd04", null ],
+    [ "UpdateAI", "dc/d93/a24477.html#ae5cd38aa2a9cc1727141298323639660", null ],
+    [ "resetTimer", "dc/d93/a24477.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
+    [ "tapped", "dc/d93/a24477.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
+    [ "tuberGUID", "dc/d93/a24477.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
 ];

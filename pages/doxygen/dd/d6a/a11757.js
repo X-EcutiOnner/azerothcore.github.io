@@ -1,5 +1,6 @@
 var a11757 =
 [
-    [ "PacketHandler", "dd/d6a/a11757.html#ae28d6ea18799c4dc90be8225fd2fad66", null ],
-    [ "Call", "dd/d6a/a11757.html#a9468be560aba807419fb7e28bf0d6a41", null ]
+    [ "QuestLogRemoveQuest", "dd/d6a/a11757.html#afeb3eec9774e69822f3b5f9bf7b5f905", null ],
+    [ "Read", "dd/d6a/a11757.html#a22e2ff4a700f9db48518cf5a9aec18f6", null ],
+    [ "Slot", "dd/d6a/a11757.html#ae1d6a81d589533b15c0358b4896afd91", null ]
 ];

@@ -1,8 +1,7 @@
 var a27325 =
 [
-    [ "Load", "da/d09/a27325.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
-    [ "OnRemove", "da/d09/a27325.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
-    [ "PrepareAuraScript", "da/d09/a27325.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
-    [ "Register", "da/d09/a27325.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
-    [ "Validate", "da/d09/a27325.html#a3820e716d20809896c84c1ca781af4d1", null ]
+    [ "HandleEffectApply", "da/d09/a27325.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "da/d09/a27325.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "da/d09/a27325.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "da/d09/a27325.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

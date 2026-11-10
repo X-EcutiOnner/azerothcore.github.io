@@ -1,12 +1,9 @@
 var a19013 =
 [
-    [ "npc_the_lich_king_controllerAI", "dc/d42/a19013.html#a211c370e9c370e00fba3c83e51738886", null ],
-    [ "AttackStart", "dc/d42/a19013.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
-    [ "DoAction", "dc/d42/a19013.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
-    [ "JustSummoned", "dc/d42/a19013.html#aa610e24316505165cbb826ff5bece5c5", null ],
-    [ "MoveInLineOfSight", "dc/d42/a19013.html#a0ee33ab5733c12163e92213376e893e4", null ],
-    [ "Reset", "dc/d42/a19013.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
-    [ "UpdateAI", "dc/d42/a19013.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
-    [ "_events", "dc/d42/a19013.html#a90c3d818318004c7c21ec66d4d080615", null ],
-    [ "_instance", "dc/d42/a19013.html#a480a284881ba5f56bc6222607bd01a76", null ]
+    [ "npc_green_dragon_combat_triggerAI", "dc/d42/a19013.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "DoAction", "dc/d42/a19013.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "JustEnteredCombat", "dc/d42/a19013.html#ae25ca99139f8bb0082b97599cb924bd9", null ],
+    [ "JustExitedCombat", "dc/d42/a19013.html#add8ce38b4a75947dc0170c7aba9c5589", null ],
+    [ "MoveInLineOfSight", "dc/d42/a19013.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "dc/d42/a19013.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ]
 ];

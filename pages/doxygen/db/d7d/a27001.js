@@ -1,7 +1,9 @@
 var a27001 =
 [
-    [ "HandleProc", "db/d7d/a27001.html#af48dfc934a6be37e95c469d07691e91f", null ],
-    [ "PrepareAuraScript", "db/d7d/a27001.html#a93147abc7cda5307a06be3d876b82eea", null ],
-    [ "Register", "db/d7d/a27001.html#a9f4ea3a1d84491a235f55c54ad2af2d6", null ],
-    [ "Validate", "db/d7d/a27001.html#a5c19c37e6d0271d0d38fffa945f6c707", null ]
+    [ "CheckProc", "db/d7d/a27001.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
+    [ "HandleProc", "db/d7d/a27001.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
+    [ "PrepareAuraScript", "db/d7d/a27001.html#a9585ecde57ccfa26f59174732e3132fc", null ],
+    [ "Register", "db/d7d/a27001.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
+    [ "Validate", "db/d7d/a27001.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
+    [ "_triggeredSpellId", "db/d7d/a27001.html#a560ade778e046213f60f48364ea3800c", null ]
 ];

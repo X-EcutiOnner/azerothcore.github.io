@@ -1,5 +1,5 @@
 var a14601 =
 [
-    [ "at_zulgurub_entrance_speech", "da/df6/a14601.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "da/df6/a14601.html#a7f719eab3ca9fa7d5e7a26f721dc9f50", null ]
+    [ "go_gong_of_bethekk", "da/df6/a14601.html#ae261467be63f1a744eb20f81473c2239", null ],
+    [ "OnGossipHello", "da/df6/a14601.html#a82072ff8c030aec1a5ed447865680788", null ]
 ];

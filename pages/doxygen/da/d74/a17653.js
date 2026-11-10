@@ -1,6 +1,7 @@
 var a17653 =
 [
-    [ "HandleDummy", "da/d74/a17653.html#aef592aafe931351186edf98f7aba7e22", null ],
-    [ "PrepareSpellScript", "da/d74/a17653.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
-    [ "Register", "da/d74/a17653.html#a7594952f23cba22b886c2c3b10f363d4", null ]
+    [ "HandleEffectPeriodic", "da/d74/a17653.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
+    [ "PrepareAuraScript", "da/d74/a17653.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
+    [ "Register", "da/d74/a17653.html#a5a44978cec95fef30c9ea4308bda2508", null ],
+    [ "Validate", "da/d74/a17653.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
 ];

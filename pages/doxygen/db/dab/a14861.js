@@ -1,6 +1,7 @@
 var a14861 =
 [
-    [ "npc_direbrew_antagonist", "db/dab/a14861.html#a30fed4e6888d98af576dea8e13c510d3", null ],
-    [ "DoAction", "db/dab/a14861.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
-    [ "JustEngagedWith", "db/dab/a14861.html#aaf54b03d66d726901c289ff28d362787", null ]
+    [ "GetEmptyEntry", "db/dab/a14861.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
+    [ "HandleAfterHit", "db/dab/a14861.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
+    [ "PrepareSpellScript", "db/dab/a14861.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
+    [ "Register", "db/dab/a14861.html#a25e1858e1f81891443f4b7de50a5d495", null ]
 ];

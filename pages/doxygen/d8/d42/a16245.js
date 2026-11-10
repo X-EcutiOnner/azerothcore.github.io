@@ -1,6 +1,8 @@
 var a16245 =
 [
-    [ "npc_tyrande_whisperwind", "d8/d42/a16245.html#af716e954e59221d26ee88032e895fa18", null ],
-    [ "JustDied", "d8/d42/a16245.html#a707f6167de4eafc6d81613d0edc29436", null ],
-    [ "UpdateAI", "d8/d42/a16245.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
+    [ "npc_kaya_flathoofAI", "d8/d42/a16245.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "d8/d42/a16245.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "d8/d42/a16245.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "d8/d42/a16245.html#a8fcbb19279b925138ba96d2a450fc404", null ],
+    [ "WaypointReached", "d8/d42/a16245.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

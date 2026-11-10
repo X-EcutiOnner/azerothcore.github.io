@@ -1,6 +1,10 @@
 var a06349 =
 [
-    [ "DirectoryEntry", "d2/d13/a06349.html#a02538aefc1b014b60957d4c67793000f", null ],
-    [ "path", "d2/d13/a06349.html#aca34dff6659f2da63f31e12bb41cf3d0", null ],
-    [ "state", "d2/d13/a06349.html#aeddd31e8fbb23e54549e985f09c4ea96", null ]
+    [ "TransactionCallback", "d2/d13/a06349.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
+    [ "TransactionCallback", "d2/d13/a06349.html#adeff62976c11d9d90169e4650640118b", null ],
+    [ "AfterComplete", "d2/d13/a06349.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
+    [ "InvokeIfReady", "d2/d13/a06349.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
+    [ "operator=", "d2/d13/a06349.html#ab73d1741c21ea9fd86f65a647768e972", null ],
+    [ "m_callback", "d2/d13/a06349.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
+    [ "m_future", "d2/d13/a06349.html#a381e889074bc5ca48574d37fe6eea00f", null ]
 ];

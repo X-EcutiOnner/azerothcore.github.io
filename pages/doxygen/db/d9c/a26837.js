@@ -1,8 +1,7 @@
 var a26837 =
 [
-    [ "HandleEffectApply", "db/d9c/a26837.html#a1182bd57a03ad093b53e3864bdff127c", null ],
-    [ "HandleEffectRemove", "db/d9c/a26837.html#a6374ece2a04c3d5bc81bb31cc5bc78e1", null ],
-    [ "PrepareAuraScript", "db/d9c/a26837.html#acbe4a19f4f2502fc1ae4e13a2c8906ab", null ],
-    [ "Register", "db/d9c/a26837.html#ac3a9249da3071736026d66a9551ca16d", null ],
-    [ "Validate", "db/d9c/a26837.html#a0ebac0cb6933ac4c562c3c91e06614dd", null ]
+    [ "PrepareSpellScript", "db/d9c/a26837.html#ade3a3f956ae8be922bd1d2204919d360", null ],
+    [ "Register", "db/d9c/a26837.html#a71d397da4a4804cf6023806c15e8bedf", null ],
+    [ "TriggerHypothermia", "db/d9c/a26837.html#af40f92afae93778e477c50ddf18c8adc", null ],
+    [ "Validate", "db/d9c/a26837.html#a1f0cef532c2bd13d94e647722f85457a", null ]
 ];

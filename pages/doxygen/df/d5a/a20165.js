@@ -1,6 +1,9 @@
 var a20165 =
 [
-    [ "HandleScript", "df/d5a/a20165.html#a992dbad02eab01824d870bdd3fca93d0", null ],
-    [ "PrepareSpellScript", "df/d5a/a20165.html#a0e6b4d1f59896a255929556baa943bdb", null ],
-    [ "Register", "df/d5a/a20165.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "df/d5a/a20165.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
+    [ "JustEngagedWith", "df/d5a/a20165.html#a9e6527bc46d7b685d938833d18796cee", null ],
+    [ "MoveInLineOfSight", "df/d5a/a20165.html#a7449e135f088a2d4b22a423c71118093", null ],
+    [ "MovementInform", "df/d5a/a20165.html#ac04d90e974f85282737bb5081a123106", null ],
+    [ "UpdateAI", "df/d5a/a20165.html#afccd77c8e90d129fb3a347205a2102db", null ],
+    [ "events", "df/d5a/a20165.html#a73c135ec94b41a752fc203c5e20128d0", null ]
 ];

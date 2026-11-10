@@ -1,8 +1,7 @@
 var a09993 =
 [
-    [ "LocalizedPacketDo", "df/d78/a09993.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "df/d78/a09993.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "df/d78/a09993.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "df/d78/a09993.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "df/d78/a09993.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "AllWorldObjectsInRange", "df/d78/a09993.html#a63f46d510df0fa3153d4b3325676a468", null ],
+    [ "operator()", "df/d78/a09993.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
+    [ "m_fRange", "df/d78/a09993.html#a6afe3ef05369dce8ee205db219f97846", null ],
+    [ "m_pObject", "df/d78/a09993.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
 ];

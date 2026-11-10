@@ -1,14 +1,17 @@
 var a07997 =
 [
-    [ "FilteredCommandListIterator", "df/d3b/a07997.html#abd6dc5c1e3c56eb27856eddb46d5e6a6", null ],
-    [ "_skip", "df/d3b/a07997.html#ac2f0e09b76eb9d40d1b78279a81a5e65", null ],
-    [ "operator bool", "df/d3b/a07997.html#aaeb128830c7705a455343d173dc3ae5a", null ],
-    [ "operator!", "df/d3b/a07997.html#a864e81c56946ca97bf24b392ff8f0b8f", null ],
-    [ "operator*", "df/d3b/a07997.html#a7b1008103a94f6dc068d3e839c924ea6", null ],
-    [ "operator++", "df/d3b/a07997.html#a6d4a54adde98e638428a8d314a6e4356", null ],
-    [ "operator->", "df/d3b/a07997.html#ad83cb2c649a847d0cd04b5fd8ee8494c", null ],
-    [ "_end", "df/d3b/a07997.html#a294c3b743ac4b1a1b878d02a6580d3ca", null ],
-    [ "_handler", "df/d3b/a07997.html#a0c64270cd18f8988997882ceb3e10184", null ],
-    [ "_it", "df/d3b/a07997.html#abbf6ac9d50ba494221addff9aba11b80", null ],
-    [ "_token", "df/d3b/a07997.html#acb834f907b55195f2a27d69f89d84961", null ]
+    [ "HasFlag", "df/d3b/a07997.html#a23315bfbd0748f82c948051697079c24", null ],
+    [ "IsModerator", "df/d3b/a07997.html#af664dc84e5a60301c4fce6fda8971062", null ],
+    [ "IsMuted", "df/d3b/a07997.html#a5d1e0f8e424033e34338940677ca054c", null ],
+    [ "IsOwner", "df/d3b/a07997.html#a4687757cb7df9778f0f5eb67714c917c", null ],
+    [ "IsOwnerGM", "df/d3b/a07997.html#ad4e1573168c91372dc4af2847d4ad454", null ],
+    [ "SetFlag", "df/d3b/a07997.html#a9cb5a3ce70a2afcc553992f4a65b80e1", null ],
+    [ "SetModerator", "df/d3b/a07997.html#a0a0cbaa77040171b7b50f89914946a8a", null ],
+    [ "SetMuted", "df/d3b/a07997.html#adf989acef0b1e53a9dc2d3210db646b7", null ],
+    [ "SetOwner", "df/d3b/a07997.html#aac6a9ea0bf478901e62c729ac6a3e9cd", null ],
+    [ "SetOwnerGM", "df/d3b/a07997.html#a2e4be6dfb921ad07ebd0de3abb81f5e4", null ],
+    [ "_gmStatus", "df/d3b/a07997.html#a15686cee4d1d0d8f39c13341bc9df624", null ],
+    [ "flags", "df/d3b/a07997.html#ae9ed61476c5f13dddf4aa5e98fe8c5c4", null ],
+    [ "player", "df/d3b/a07997.html#afba1915e2dd4109928180e33884b8412", null ],
+    [ "plrPtr", "df/d3b/a07997.html#a5c986d75e173cc42160143ae7621ab6b", null ]
 ];

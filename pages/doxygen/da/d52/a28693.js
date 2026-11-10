@@ -1,8 +1,12 @@
 var a28693 =
 [
-    [ "npc_chicken_cluckAI", "df/dca/a28697.html", "df/dca/a28697" ],
-    [ "npc_chicken_cluck", "da/d52/a28693.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "da/d52/a28693.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "da/d52/a28693.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "da/d52/a28693.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "npc_elder_clearwaterAI", "da/d52/a28693.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
+    [ "DoAction", "da/d52/a28693.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
+    [ "GetData", "da/d52/a28693.html#a077c02bf06b16439225a5cf8d83babf2", null ],
+    [ "UpdateAI", "da/d52/a28693.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
+    [ "events", "da/d52/a28693.html#a267fec22dc3d7272cae74267d0567618", null ],
+    [ "finished", "da/d52/a28693.html#af51d6abb8fc8b59d068156a4859a377e", null ],
+    [ "finishWarning", "da/d52/a28693.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
+    [ "preWarning", "da/d52/a28693.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
+    [ "startWarning", "da/d52/a28693.html#a01545211dec4338ac44304ebc7f18a97", null ]
 ];

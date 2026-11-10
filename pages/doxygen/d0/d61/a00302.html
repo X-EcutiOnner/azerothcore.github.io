@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Entities/ResetAttackTimerTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Entities/PlayerCanFlyControlLossTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,68 +105,55 @@ $(document).ready(function(){initNavTree('d0/d61/a00302.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">ResetAttackTimerTest.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">PlayerCanFlyControlLossTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;gtest/gtest.h&quot;</code><br />
-<code>#include &lt;algorithm&gt;</code><br />
-<code>#include &lt;cstdint&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">IntegrationTestFixture.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d6/d66/a05238"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d66/a05238.html">anonymous_namespace{ResetAttackTimerTest.cpp}</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ab75ddecb6b6e4a6ea3bd62e8a45d2ba2"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d66/a05238.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula</a> (int32_t currentTimer, int32_t fullTime)</td></tr>
-<tr class="separator:ab75ddecb6b6e4a6ea3bd62e8a45d2ba2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aae298365d32c23f29d12e5f81b91db99"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d66/a05238.html#aae298365d32c23f29d12e5f81b91db99">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula</a> (int32_t, int32_t fullTime)</td></tr>
-<tr class="separator:aae298365d32c23f29d12e5f81b91db99"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acf515241ac86050cd79d68b509c5ea29"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime</a> (uint32_t baseAttackTime, float modSpeedPct)</td></tr>
-<tr class="separator:acf515241ac86050cd79d68b509c5ea29"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1abe08c7becc5f8bc2d034cf7312a1b1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#a1abe08c7becc5f8bc2d034cf7312a1b1">TEST</a> (ResetAttackTimerTest, NormalReset_TimerAtZero)</td></tr>
-<tr class="separator:a1abe08c7becc5f8bc2d034cf7312a1b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a582b8801c33d3f605c91bf0aab1f699c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#a582b8801c33d3f605c91bf0aab1f699c">TEST</a> (ResetAttackTimerTest, NormalReset_SmallNegativeTimer)</td></tr>
-<tr class="separator:a582b8801c33d3f605c91bf0aab1f699c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1835c78c8476bbaf740ca65e27ab5c03"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#a1835c78c8476bbaf740ca65e27ab5c03">TEST</a> (ResetAttackTimerTest, LagSpike_LargeNegativeTimer)</td></tr>
-<tr class="separator:a1835c78c8476bbaf740ca65e27ab5c03"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a819dde76e3b5bd1171dc3fb7e37c3a53"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#a819dde76e3b5bd1171dc3fb7e37c3a53">TEST</a> (ResetAttackTimerTest, GluthParryHaste_BurstAttack)</td></tr>
-<tr class="separator:a819dde76e3b5bd1171dc3fb7e37c3a53"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af92bca5e60d83a245a06403f58a9360c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#af92bca5e60d83a245a06403f58a9360c">TEST</a> (ResetAttackTimerTest, ParryHasteFloor_MultipleParries)</td></tr>
-<tr class="separator:af92bca5e60d83a245a06403f58a9360c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa46aba4f46e0c4cf1611bf2ff0b11f53"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#aa46aba4f46e0c4cf1611bf2ff0b11f53">TEST</a> (ResetAttackTimerTest, ConsecutiveBursts_OldFormulaChainAttacks)</td></tr>
-<tr class="separator:aa46aba4f46e0c4cf1611bf2ff0b11f53"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af1c4cf8b997d096dc906ccd5c846e90e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#af1c4cf8b997d096dc906ccd5c846e90e">TEST</a> (ResetAttackTimerTest, HasteModifier_CorrectCalculation)</td></tr>
-<tr class="separator:af1c4cf8b997d096dc906ccd5c846e90e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab956bb191fe7eb20bc88e43c071e07b5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#ab956bb191fe7eb20bc88e43c071e07b5">TEST</a> (ResetAttackTimerTest, EdgeCase_TimerEqualsNegativeFullTime)</td></tr>
-<tr class="separator:ab956bb191fe7eb20bc88e43c071e07b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9bf8b2c46faea4396f67f27c689c7d65"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#a9bf8b2c46faea4396f67f27c689c7d65">TEST</a> (ResetAttackTimerTest, EdgeCase_PositiveTimer)</td></tr>
-<tr class="separator:a9bf8b2c46faea4396f67f27c689c7d65"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acbd23a84fa5f4c2b09dbe42a501443be"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#acbd23a84fa5f4c2b09dbe42a501443be">TEST</a> (ResetAttackTimerTest, Invariant_AlwaysReturnsFullTime)</td></tr>
-<tr class="separator:acbd23a84fa5f4c2b09dbe42a501443be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a121814080cc7688c46d4b409db6acaeb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#a121814080cc7688c46d4b409db6acaeb">TEST_F</a> (<a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>, RevokeDuringFearIsReplayed)</td></tr>
+<tr class="separator:a121814080cc7688c46d4b409db6acaeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f92001f958962bfd4bc64c28c775045"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#a8f92001f958962bfd4bc64c28c775045">TEST_F</a> (<a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>, RevokeDuringConfuseIsReplayed)</td></tr>
+<tr class="separator:a8f92001f958962bfd4bc64c28c775045"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52b3056dd11cfbc19a76d6298cb320b6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#a52b3056dd11cfbc19a76d6298cb320b6">TEST_F</a> (<a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>, GrantDuringFearIsReplayed)</td></tr>
+<tr class="separator:a52b3056dd11cfbc19a76d6298cb320b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae231e3585c2e6dd64368cd95927779a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#aae231e3585c2e6dd64368cd95927779a">TEST_F</a> (<a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>, NoReplayWhileStillOutOfControl)</td></tr>
+<tr class="separator:aae231e3585c2e6dd64368cd95927779a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6dbf27a350aeab49d9517a32cdb40d9e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#a6dbf27a350aeab49d9517a32cdb40d9e">TEST_F</a> (<a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>, NoReplayWhileFearIsQueuedBehindConfuse)</td></tr>
+<tr class="separator:a6dbf27a350aeab49d9517a32cdb40d9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c07c698d7bdeaf22fba056df5d8f624"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#a1c07c698d7bdeaf22fba056df5d8f624">TEST_F</a> (<a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>, DirectChangeSupersedesPendingReplay)</td></tr>
+<tr class="separator:a1c07c698d7bdeaf22fba056df5d8f624"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4ec0747df72d6538bac7e54a40912e8f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d61/a00302.html#a4ec0747df72d6538bac7e54a40912e8f">TEST_F</a> (<a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>, NothingRecordedWhileInControl)</td></tr>
+<tr class="separator:a4ec0747df72d6538bac7e54a40912e8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="aa46aba4f46e0c4cf1611bf2ff0b11f53" name="aa46aba4f46e0c4cf1611bf2ff0b11f53"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa46aba4f46e0c4cf1611bf2ff0b11f53">&#9670;&#160;</a></span>TEST() <span class="overload">[1/10]</span></h2>
+<a id="a1c07c698d7bdeaf22fba056df5d8f624" name="a1c07c698d7bdeaf22fba056df5d8f624"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c07c698d7bdeaf22fba056df5d8f624">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST </td>
+          <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
+          <td class="paramtype"><a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ConsecutiveBursts_OldFormulaChainAttacks&#160;</td>
+          <td class="paramtype">DirectChangeSupersedesPendingReplay&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -176,56 +163,57 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  147</span>{</div>
-<div class="line"><span class="lineno">  148</span>    int32_t fullTime = <a class="code hl_function" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(1600, 0.8f); <span class="comment">// Gluth enraged: 1280ms</span></div>
-<div class="line"><span class="lineno">  149</span>    int32_t timer = -2500; <span class="comment">// Large lag spike</span></div>
-<div class="line"><span class="lineno">  150</span> </div>
-<div class="line"><span class="lineno">  151</span>    <span class="keywordtype">int</span> attackCount = 0;</div>
-<div class="line"><span class="lineno">  152</span>    <span class="comment">// Simulate old formula: how many attacks fire before timer &gt; 0?</span></div>
-<div class="line"><span class="lineno">  153</span>    <span class="keywordflow">while</span> (timer &lt;= 0)</div>
-<div class="line"><span class="lineno">  154</span>    {</div>
-<div class="line"><span class="lineno">  155</span>        attackCount++;</div>
-<div class="line"><span class="lineno">  156</span>        timer = <a class="code hl_function" href="../../d6/d66/a05238.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(timer, fullTime);</div>
-<div class="line"><span class="lineno">  157</span>    }</div>
-<div class="line"><span class="lineno">  158</span> </div>
-<div class="line"><span class="lineno">  159</span>    <span class="comment">// Old formula allows multiple attacks in burst</span></div>
-<div class="line"><span class="lineno">  160</span>    EXPECT_GT(attackCount, 1);</div>
-<div class="line"><span class="lineno">  161</span> </div>
-<div class="line"><span class="lineno">  162</span>    <span class="comment">// New formula: always exactly 1 attack then timer is positive</span></div>
-<div class="line"><span class="lineno">  163</span>    timer = -2500;</div>
-<div class="line"><span class="lineno">  164</span>    <span class="keywordtype">int</span> newAttackCount = 0;</div>
-<div class="line"><span class="lineno">  165</span>    <span class="comment">// Only one attack fires (the one that triggered the reset)</span></div>
-<div class="line"><span class="lineno">  166</span>    timer = <a class="code hl_function" href="../../d6/d66/a05238.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(timer, fullTime);</div>
-<div class="line"><span class="lineno">  167</span>    <span class="keywordflow">if</span> (timer &gt; 0)</div>
-<div class="line"><span class="lineno">  168</span>        newAttackCount = 1;</div>
-<div class="line"><span class="lineno">  169</span> </div>
-<div class="line"><span class="lineno">  170</span>    EXPECT_EQ(newAttackCount, 1);</div>
-<div class="line"><span class="lineno">  171</span>    EXPECT_GT(timer, 0);</div>
-<div class="line"><span class="lineno">  172</span>}</div>
-<div class="ttc" id="aa05238_html_aae298365d32c23f29d12e5f81b91db99"><div class="ttname"><a href="../../d6/d66/a05238.html#aae298365d32c23f29d12e5f81b91db99">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula</a></div><div class="ttdeci">int32_t NewResetFormula(int32_t, int32_t fullTime)</div><div class="ttdef"><b>Definition:</b> ResetAttackTimerTest.cpp:48</div></div>
-<div class="ttc" id="aa05238_html_ab75ddecb6b6e4a6ea3bd62e8a45d2ba2"><div class="ttname"><a href="../../d6/d66/a05238.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula</a></div><div class="ttdeci">int32_t OldResetFormula(int32_t currentTimer, int32_t fullTime)</div><div class="ttdef"><b>Definition:</b> ResetAttackTimerTest.cpp:42</div></div>
-<div class="ttc" id="aa05238_html_acf515241ac86050cd79d68b509c5ea29"><div class="ttname"><a href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime</a></div><div class="ttdeci">int32_t CalcFullTime(uint32_t baseAttackTime, float modSpeedPct)</div><div class="ttdef"><b>Definition:</b> ResetAttackTimerTest.cpp:54</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  149</span>{</div>
+<div class="line"><span class="lineno">  150</span>    <a class="code hl_class" href="../../d4/d3e/a29897.html">TestPlayer</a>* player = CreateControlledPlayer();</div>
+<div class="line"><span class="lineno">  151</span>    <a class="code hl_class" href="../../dc/d38/a11889.html">WorldSession</a>* session = player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>();</div>
+<div class="line"><span class="lineno">  152</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">AddUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#a083358a25d084fb928e170c453128f9da95d7702ffb577e3cd39f79d199f5a0c9">MOVEMENTFLAG_CAN_FLY</a>);</div>
+<div class="line"><span class="lineno">  153</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a8ad2e62c7207250ee894d9a30d6bf130">UNIT_FLAG_FLEEING</a>);</div>
+<div class="line"><span class="lineno">  154</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a70430c45bdb96d66a3dcbadf5a18d527">SetCanFly</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  155</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a8ad2e62c7207250ee894d9a30d6bf130">UNIT_FLAG_FLEEING</a>);</div>
+<div class="line"><span class="lineno">  156</span> </div>
+<div class="line"><span class="lineno">  157</span>    <a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> counter = session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>();</div>
+<div class="line"><span class="lineno">  158</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a70430c45bdb96d66a3dcbadf5a18d527">SetCanFly</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  159</span> </div>
+<div class="line"><span class="lineno">  160</span>    EXPECT_EQ(session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>(), counter + 1);</div>
+<div class="line"><span class="lineno">  161</span>    EXPECT_FALSE(player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a5670b59926561e47f36bab90a09fb869">GetPendingCanFlyResync</a>().has_value());</div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>    player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#ac8c7cfaf1f0cf5a75acac883b0129fb6">ResyncCanFlyToClient</a>();</div>
+<div class="line"><span class="lineno">  164</span>    EXPECT_EQ(session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>(), counter + 1);</div>
+<div class="line"><span class="lineno">  165</span>}</div>
+<div class="ttc" id="aa00815_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa02246_html_a083358a25d084fb928e170c453128f9da95d7702ffb577e3cd39f79d199f5a0c9"><div class="ttname"><a href="../../de/db2/a02246.html#a083358a25d084fb928e170c453128f9da95d7702ffb577e3cd39f79d199f5a0c9">MOVEMENTFLAG_CAN_FLY</a></div><div class="ttdeci">@ MOVEMENTFLAG_CAN_FLY</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:396</div></div>
+<div class="ttc" id="aa02246_html_affdd0d554c8bcaaa85a879f5a9d60934a8ad2e62c7207250ee894d9a30d6bf130"><div class="ttname"><a href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a8ad2e62c7207250ee894d9a30d6bf130">UNIT_FLAG_FLEEING</a></div><div class="ttdeci">@ UNIT_FLAG_FLEEING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:280</div></div>
+<div class="ttc" id="aa09145_html_a5670b59926561e47f36bab90a09fb869"><div class="ttname"><a href="../../d1/d04/a09145.html#a5670b59926561e47f36bab90a09fb869">Player::GetPendingCanFlyResync</a></div><div class="ttdeci">Optional&lt; bool &gt; GetPendingCanFlyResync() const</div><div class="ttdef"><b>Definition:</b> Player.h:2692</div></div>
+<div class="ttc" id="aa09145_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../d1/d04/a09145.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2032</div></div>
+<div class="ttc" id="aa09145_html_ac8c7cfaf1f0cf5a75acac883b0129fb6"><div class="ttname"><a href="../../d1/d04/a09145.html#ac8c7cfaf1f0cf5a75acac883b0129fb6">Player::ResyncCanFlyToClient</a></div><div class="ttdeci">void ResyncCanFlyToClient()</div><div class="ttdef"><b>Definition:</b> Player.cpp:13287</div></div>
+<div class="ttc" id="aa09273_html_a70430c45bdb96d66a3dcbadf5a18d527"><div class="ttname"><a href="../../da/dd9/a09273.html#a70430c45bdb96d66a3dcbadf5a18d527">Unit::SetCanFly</a></div><div class="ttdeci">void SetCanFly(bool enable)</div><div class="ttdoc">Add the movement flag: MOVEMENTFLAGCAN_FLY. Generaly only use by players, allowing them to fly by pre...</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16268</div></div>
+<div class="ttc" id="aa09273_html_a8d2a3d05cd1a2d041a021ef5ce0a560c"><div class="ttname"><a href="../../da/dd9/a09273.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">Unit::AddUnitMovementFlag</a></div><div class="ttdeci">void AddUnitMovementFlag(uint32 f)</div><div class="ttdef"><b>Definition:</b> Unit.h:778</div></div>
+<div class="ttc" id="aa09273_html_ad9f2d48b20f62e17abf5c1892cebe296"><div class="ttname"><a href="../../da/dd9/a09273.html#ad9f2d48b20f62e17abf5c1892cebe296">Unit::SetUnitFlag</a></div><div class="ttdeci">void SetUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition:</b> Unit.h:754</div></div>
+<div class="ttc" id="aa09273_html_af9a5a43c2d7940c38f8b101409666a0d"><div class="ttname"><a href="../../da/dd9/a09273.html#af9a5a43c2d7940c38f8b101409666a0d">Unit::RemoveUnitFlag</a></div><div class="ttdeci">void RemoveUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition:</b> Unit.h:755</div></div>
+<div class="ttc" id="aa11889_html"><div class="ttname"><a href="../../dc/d38/a11889.html">WorldSession</a></div><div class="ttdoc">Player session in the World.</div><div class="ttdef"><b>Definition:</b> WorldSession.h:430</div></div>
+<div class="ttc" id="aa11889_html_a27ee6ec7cbcdb15a8b68aed1d51497ca"><div class="ttname"><a href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">WorldSession::GetOrderCounter</a></div><div class="ttdeci">uint32 GetOrderCounter() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:688</div></div>
+<div class="ttc" id="aa29897_html"><div class="ttname"><a href="../../d4/d3e/a29897.html">TestPlayer</a></div><div class="ttdef"><b>Definition:</b> TestPlayer.h:24</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00778">Unit::AddUnitMovementFlag()</a>, <a class="el" href="../../#l00688">WorldSession::GetOrderCounter()</a>, <a class="el" href="../../#l02692">Player::GetPendingCanFlyResync()</a>, <a class="el" href="../../#l02032">Player::GetSession()</a>, <a class="el" href="../../#l00396">MOVEMENTFLAG_CAN_FLY</a>, <a class="el" href="../../#l00755">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l13287">Player::ResyncCanFlyToClient()</a>, <a class="el" href="../../#l16268">Unit::SetCanFly()</a>, <a class="el" href="../../#l00754">Unit::SetUnitFlag()</a>, and <a class="el" href="../../#l00280">UNIT_FLAG_FLEEING</a>.</p>
 
 </div>
 </div>
-<a id="a9bf8b2c46faea4396f67f27c689c7d65" name="a9bf8b2c46faea4396f67f27c689c7d65"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9bf8b2c46faea4396f67f27c689c7d65">&#9670;&#160;</a></span>TEST() <span class="overload">[2/10]</span></h2>
+<a id="a52b3056dd11cfbc19a76d6298cb320b6" name="a52b3056dd11cfbc19a76d6298cb320b6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52b3056dd11cfbc19a76d6298cb320b6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST </td>
+          <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
+          <td class="paramtype"><a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">EdgeCase_PositiveTimer&#160;</td>
+          <td class="paramtype">GrantDuringFearIsReplayed&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -235,288 +223,47 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  206</span>{</div>
-<div class="line"><span class="lineno">  207</span>    int32_t fullTime = <a class="code hl_function" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.0f);</div>
-<div class="line"><span class="lineno">  208</span>    int32_t currentTimer = 500; <span class="comment">// 500ms remaining</span></div>
-<div class="line"><span class="lineno">  209</span> </div>
-<div class="line"><span class="lineno">  210</span>    <span class="comment">// Old formula: min(500 + 2000, 2000) = min(2500, 2000) = 2000</span></div>
-<div class="line"><span class="lineno">  211</span>    <span class="comment">// Capped at full time — correct behavior</span></div>
-<div class="line"><span class="lineno">  212</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">  213</span> </div>
-<div class="line"><span class="lineno">  214</span>    <span class="comment">// New formula: same result</span></div>
-<div class="line"><span class="lineno">  215</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">  216</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
-
-</div>
-</div>
-<a id="ab956bb191fe7eb20bc88e43c071e07b5" name="ab956bb191fe7eb20bc88e43c071e07b5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab956bb191fe7eb20bc88e43c071e07b5">&#9670;&#160;</a></span>TEST() <span class="overload">[3/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EdgeCase_TimerEqualsNegativeFullTime&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  192</span>{</div>
-<div class="line"><span class="lineno">  193</span>    int32_t fullTime = <a class="code hl_function" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.0f);</div>
-<div class="line"><span class="lineno">  194</span>    int32_t currentTimer = -2000;</div>
-<div class="line"><span class="lineno">  195</span> </div>
-<div class="line"><span class="lineno">  196</span>    <span class="comment">// Old formula: min(-2000 + 2000, 2000) = min(0, 2000) = 0</span></div>
-<div class="line"><span class="lineno">  197</span>    <span class="comment">// Timer exactly 0 — attack is immediately ready again</span></div>
-<div class="line"><span class="lineno">  198</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 0);</div>
-<div class="line"><span class="lineno">  199</span> </div>
-<div class="line"><span class="lineno">  200</span>    <span class="comment">// New formula: 2000 — proper delay</span></div>
-<div class="line"><span class="lineno">  201</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">  202</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
-
-</div>
-</div>
-<a id="a819dde76e3b5bd1171dc3fb7e37c3a53" name="a819dde76e3b5bd1171dc3fb7e37c3a53"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a819dde76e3b5bd1171dc3fb7e37c3a53">&#9670;&#160;</a></span>TEST() <span class="overload">[4/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">GluthParryHaste_BurstAttack&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
-<div class="line"><span class="lineno">  102</span>    <span class="comment">// Gluth: 1600ms base, 25% enrage haste</span></div>
-<div class="line"><span class="lineno">  103</span>    <span class="comment">// GetAttackTime returns base (1600), modSpeedPct = 0.8 (25% haste)</span></div>
-<div class="line"><span class="lineno">  104</span>    int32_t fullTime = <a class="code hl_function" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(1600, 0.8f); <span class="comment">// = 1280ms</span></div>
-<div class="line"><span class="lineno">  105</span>    EXPECT_EQ(fullTime, 1280);</div>
-<div class="line"><span class="lineno">  106</span> </div>
-<div class="line"><span class="lineno">  107</span>    <span class="comment">// After parry-haste reduces timer to near-zero and a lag spike</span></div>
-<div class="line"><span class="lineno">  108</span>    <span class="comment">// causes 2+ seconds of unprocessed time</span></div>
-<div class="line"><span class="lineno">  109</span>    int32_t currentTimer = -2000;</div>
-<div class="line"><span class="lineno">  110</span> </div>
-<div class="line"><span class="lineno">  111</span>    <span class="comment">// Old formula: min(-2000 + 1280, 1280) = min(-720, 1280) = -720</span></div>
-<div class="line"><span class="lineno">  112</span>    <span class="comment">// Timer deeply negative — immediate burst attack</span></div>
-<div class="line"><span class="lineno">  113</span>    EXPECT_LT(<a class="code hl_function" href="../../d6/d66/a05238.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 0);</div>
-<div class="line"><span class="lineno">  114</span> </div>
-<div class="line"><span class="lineno">  115</span>    <span class="comment">// New formula: 1280ms — proper cooldown before next swing</span></div>
-<div class="line"><span class="lineno">  116</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 1280);</div>
-<div class="line"><span class="lineno">  117</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
-
-</div>
-</div>
-<a id="af1c4cf8b997d096dc906ccd5c846e90e" name="af1c4cf8b997d096dc906ccd5c846e90e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af1c4cf8b997d096dc906ccd5c846e90e">&#9670;&#160;</a></span>TEST() <span class="overload">[5/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">HasteModifier_CorrectCalculation&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  176</span>{</div>
-<div class="line"><span class="lineno">  177</span>    <span class="comment">// No haste: 2000ms base</span></div>
-<div class="line"><span class="lineno">  178</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.0f), 2000);</div>
-<div class="line"><span class="lineno">  179</span> </div>
-<div class="line"><span class="lineno">  180</span>    <span class="comment">// 25% haste (modSpeedPct = 0.8)</span></div>
-<div class="line"><span class="lineno">  181</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 0.8f), 1600);</div>
-<div class="line"><span class="lineno">  182</span> </div>
-<div class="line"><span class="lineno">  183</span>    <span class="comment">// 50% slow (modSpeedPct = 1.5)</span></div>
-<div class="line"><span class="lineno">  184</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.5f), 3000);</div>
-<div class="line"><span class="lineno">  185</span> </div>
-<div class="line"><span class="lineno">  186</span>    <span class="comment">// Enrage (25% haste on 1600ms base)</span></div>
-<div class="line"><span class="lineno">  187</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(1600, 0.8f), 1280);</div>
-<div class="line"><span class="lineno">  188</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>.</p>
-
-</div>
-</div>
-<a id="acbd23a84fa5f4c2b09dbe42a501443be" name="acbd23a84fa5f4c2b09dbe42a501443be"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acbd23a84fa5f4c2b09dbe42a501443be">&#9670;&#160;</a></span>TEST() <span class="overload">[6/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Invariant_AlwaysReturnsFullTime&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  220</span>{</div>
-<div class="line"><span class="lineno">  221</span>    int32_t fullTime = <a class="code hl_function" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(1600, 1.0f);</div>
-<div class="line"><span class="lineno">  222</span> </div>
-<div class="line"><span class="lineno">  223</span>    <span class="comment">// Test a wide range of current timer values</span></div>
-<div class="line"><span class="lineno">  224</span>    <span class="keywordflow">for</span> (int32_t timer = -10000; timer &lt;= 10000; timer += 100)</div>
-<div class="line"><span class="lineno">  225</span>        EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(timer, fullTime), fullTime);</div>
-<div class="line"><span class="lineno">  226</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, and <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>.</p>
-
-</div>
-</div>
-<a id="a1835c78c8476bbaf740ca65e27ab5c03" name="a1835c78c8476bbaf740ca65e27ab5c03"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1835c78c8476bbaf740ca65e27ab5c03">&#9670;&#160;</a></span>TEST() <span class="overload">[7/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">LagSpike_LargeNegativeTimer&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   87</span>{</div>
-<div class="line"><span class="lineno">   88</span>    int32_t fullTime = <a class="code hl_function" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.0f);</div>
-<div class="line"><span class="lineno">   89</span>    int32_t currentTimer = -3000; <span class="comment">// 3 second lag spike</span></div>
-<div class="line"><span class="lineno">   90</span> </div>
-<div class="line"><span class="lineno">   91</span>    <span class="comment">// Old formula: min(-3000 + 2000, 2000) = min(-1000, 2000) = -1000</span></div>
-<div class="line"><span class="lineno">   92</span>    <span class="comment">// Timer is STILL negative — attack fires immediately again!</span></div>
-<div class="line"><span class="lineno">   93</span>    EXPECT_LT(<a class="code hl_function" href="../../d6/d66/a05238.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 0);</div>
-<div class="line"><span class="lineno">   94</span> </div>
-<div class="line"><span class="lineno">   95</span>    <span class="comment">// New formula: always 2000 — no burst</span></div>
-<div class="line"><span class="lineno">   96</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">   97</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
-
-</div>
-</div>
-<a id="a582b8801c33d3f605c91bf0aab1f699c" name="a582b8801c33d3f605c91bf0aab1f699c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a582b8801c33d3f605c91bf0aab1f699c">&#9670;&#160;</a></span>TEST() <span class="overload">[8/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">NormalReset_SmallNegativeTimer&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   73</span>{</div>
-<div class="line"><span class="lineno">   74</span>    int32_t fullTime = <a class="code hl_function" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.0f);</div>
-<div class="line"><span class="lineno">   75</span>    int32_t currentTimer = -50; <span class="comment">// 50ms overshoot</span></div>
-<div class="line"><span class="lineno">   76</span> </div>
-<div class="line"><span class="lineno">   77</span>    <span class="comment">// Old formula: min(-50 + 2000, 2000) = min(1950, 2000) = 1950</span></div>
-<div class="line"><span class="lineno">   78</span>    <span class="comment">// Carries 50ms debt — next attack 50ms sooner</span></div>
-<div class="line"><span class="lineno">   79</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 1950);</div>
+<div class="fragment"><div class="line"><span class="lineno">   76</span>{</div>
+<div class="line"><span class="lineno">   77</span>    <a class="code hl_class" href="../../d4/d3e/a29897.html">TestPlayer</a>* player = CreateControlledPlayer();</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_class" href="../../dc/d38/a11889.html">WorldSession</a>* session = player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>();</div>
+<div class="line"><span class="lineno">   79</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a8ad2e62c7207250ee894d9a30d6bf130">UNIT_FLAG_FLEEING</a>);</div>
 <div class="line"><span class="lineno">   80</span> </div>
-<div class="line"><span class="lineno">   81</span>    <span class="comment">// New formula: always 2000 — clean reset</span></div>
-<div class="line"><span class="lineno">   82</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">   83</span>}</div>
+<div class="line"><span class="lineno">   81</span>    <a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> counter = session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>();</div>
+<div class="line"><span class="lineno">   82</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a70430c45bdb96d66a3dcbadf5a18d527">SetCanFly</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   83</span> </div>
+<div class="line"><span class="lineno">   84</span>    ASSERT_TRUE(player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a5670b59926561e47f36bab90a09fb869">GetPendingCanFlyResync</a>().has_value());</div>
+<div class="line"><span class="lineno">   85</span>    EXPECT_TRUE(*player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a5670b59926561e47f36bab90a09fb869">GetPendingCanFlyResync</a>());</div>
+<div class="line"><span class="lineno">   86</span>    EXPECT_EQ(session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>(), counter);</div>
+<div class="line"><span class="lineno">   87</span> </div>
+<div class="line"><span class="lineno">   88</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a8ad2e62c7207250ee894d9a30d6bf130">UNIT_FLAG_FLEEING</a>);</div>
+<div class="line"><span class="lineno">   89</span>    player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#ac8c7cfaf1f0cf5a75acac883b0129fb6">ResyncCanFlyToClient</a>();</div>
+<div class="line"><span class="lineno">   90</span> </div>
+<div class="line"><span class="lineno">   91</span>    EXPECT_EQ(session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>(), counter + 1);</div>
+<div class="line"><span class="lineno">   92</span>    EXPECT_EQ(player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a6e7e547f80562e4ca2018026a4a2ece1">GetPendingFlightChange</a>(), counter);</div>
+<div class="line"><span class="lineno">   93</span>    EXPECT_FALSE(player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a5670b59926561e47f36bab90a09fb869">GetPendingCanFlyResync</a>().has_value());</div>
+<div class="line"><span class="lineno">   94</span>}</div>
+<div class="ttc" id="aa09145_html_a6e7e547f80562e4ca2018026a4a2ece1"><div class="ttname"><a href="../../d1/d04/a09145.html#a6e7e547f80562e4ca2018026a4a2ece1">Player::GetPendingFlightChange</a></div><div class="ttdeci">uint32 GetPendingFlightChange() const</div><div class="ttdef"><b>Definition:</b> Player.h:2689</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00688">WorldSession::GetOrderCounter()</a>, <a class="el" href="../../#l02692">Player::GetPendingCanFlyResync()</a>, <a class="el" href="../../#l02689">Player::GetPendingFlightChange()</a>, <a class="el" href="../../#l02032">Player::GetSession()</a>, <a class="el" href="../../#l00755">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l13287">Player::ResyncCanFlyToClient()</a>, <a class="el" href="../../#l16268">Unit::SetCanFly()</a>, <a class="el" href="../../#l00754">Unit::SetUnitFlag()</a>, and <a class="el" href="../../#l00280">UNIT_FLAG_FLEEING</a>.</p>
 
 </div>
 </div>
-<a id="a1abe08c7becc5f8bc2d034cf7312a1b1" name="a1abe08c7becc5f8bc2d034cf7312a1b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1abe08c7becc5f8bc2d034cf7312a1b1">&#9670;&#160;</a></span>TEST() <span class="overload">[9/10]</span></h2>
+<a id="a6dbf27a350aeab49d9517a32cdb40d9e" name="a6dbf27a350aeab49d9517a32cdb40d9e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6dbf27a350aeab49d9517a32cdb40d9e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST </td>
+          <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
+          <td class="paramtype"><a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">NormalReset_TimerAtZero&#160;</td>
+          <td class="paramtype">NoReplayWhileFearIsQueuedBehindConfuse&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -526,35 +273,55 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>{</div>
-<div class="line"><span class="lineno">   63</span>    int32_t fullTime = <a class="code hl_function" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.0f); <span class="comment">// 2.0s base, no haste</span></div>
-<div class="line"><span class="lineno">   64</span>    int32_t currentTimer = 0;</div>
-<div class="line"><span class="lineno">   65</span> </div>
-<div class="line"><span class="lineno">   66</span>    <span class="comment">// Both formulas produce the same result when timer is exactly 0</span></div>
-<div class="line"><span class="lineno">   67</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">   68</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">   69</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  123</span>{</div>
+<div class="line"><span class="lineno">  124</span>    <a class="code hl_class" href="../../d4/d3e/a29897.html">TestPlayer</a>* player = CreateControlledPlayer();</div>
+<div class="line"><span class="lineno">  125</span>    <a class="code hl_class" href="../../dc/d38/a11889.html">WorldSession</a>* session = player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>();</div>
+<div class="line"><span class="lineno">  126</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">AddUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#a083358a25d084fb928e170c453128f9da95d7702ffb577e3cd39f79d199f5a0c9">MOVEMENTFLAG_CAN_FLY</a>);</div>
+<div class="line"><span class="lineno">  127</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a889affbf3beefd9704c68058b2bc79e3">UNIT_FLAG_CONFUSED</a>);</div>
+<div class="line"><span class="lineno">  128</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a752f5f516257bfdf139098c29a55c466">AddUnitState</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#ae51d2ecb71f7a5cb3882982a622c9544ab254220382db03ed44e6cea86ad4c87d">UNIT_STATE_FLEEING</a>);</div>
+<div class="line"><span class="lineno">  129</span> </div>
+<div class="line"><span class="lineno">  130</span>    <a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> counter = session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>();</div>
+<div class="line"><span class="lineno">  131</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a70430c45bdb96d66a3dcbadf5a18d527">SetCanFly</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  132</span> </div>
+<div class="line"><span class="lineno">  133</span>    <span class="comment">// confuse ends, the queued fear takes over next</span></div>
+<div class="line"><span class="lineno">  134</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a889affbf3beefd9704c68058b2bc79e3">UNIT_FLAG_CONFUSED</a>);</div>
+<div class="line"><span class="lineno">  135</span>    player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#ac8c7cfaf1f0cf5a75acac883b0129fb6">ResyncCanFlyToClient</a>();</div>
+<div class="line"><span class="lineno">  136</span> </div>
+<div class="line"><span class="lineno">  137</span>    EXPECT_EQ(session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>(), counter);</div>
+<div class="line"><span class="lineno">  138</span>    EXPECT_TRUE(player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a5670b59926561e47f36bab90a09fb869">GetPendingCanFlyResync</a>().has_value());</div>
+<div class="line"><span class="lineno">  139</span> </div>
+<div class="line"><span class="lineno">  140</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#ae51d2ecb71f7a5cb3882982a622c9544ab254220382db03ed44e6cea86ad4c87d">UNIT_STATE_FLEEING</a>);</div>
+<div class="line"><span class="lineno">  141</span>    player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#ac8c7cfaf1f0cf5a75acac883b0129fb6">ResyncCanFlyToClient</a>();</div>
+<div class="line"><span class="lineno">  142</span> </div>
+<div class="line"><span class="lineno">  143</span>    EXPECT_EQ(session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>(), counter + 1);</div>
+<div class="line"><span class="lineno">  144</span>    EXPECT_EQ(player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a6e7e547f80562e4ca2018026a4a2ece1">GetPendingFlightChange</a>(), counter);</div>
+<div class="line"><span class="lineno">  145</span>    EXPECT_FALSE(player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a5670b59926561e47f36bab90a09fb869">GetPendingCanFlyResync</a>().has_value());</div>
+<div class="line"><span class="lineno">  146</span>}</div>
+<div class="ttc" id="aa02246_html_ae51d2ecb71f7a5cb3882982a622c9544ab254220382db03ed44e6cea86ad4c87d"><div class="ttname"><a href="../../de/db2/a02246.html#ae51d2ecb71f7a5cb3882982a622c9544ab254220382db03ed44e6cea86ad4c87d">UNIT_STATE_FLEEING</a></div><div class="ttdeci">@ UNIT_STATE_FLEEING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:180</div></div>
+<div class="ttc" id="aa02246_html_affdd0d554c8bcaaa85a879f5a9d60934a889affbf3beefd9704c68058b2bc79e3"><div class="ttname"><a href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a889affbf3beefd9704c68058b2bc79e3">UNIT_FLAG_CONFUSED</a></div><div class="ttdeci">@ UNIT_FLAG_CONFUSED</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:279</div></div>
+<div class="ttc" id="aa09273_html_a0234fee1df2999bda3ca22449164f7b5"><div class="ttname"><a href="../../da/dd9/a09273.html#a0234fee1df2999bda3ca22449164f7b5">Unit::ClearUnitState</a></div><div class="ttdeci">void ClearUnitState(uint32 f)</div><div class="ttdef"><b>Definition:</b> Unit.h:743</div></div>
+<div class="ttc" id="aa09273_html_a752f5f516257bfdf139098c29a55c466"><div class="ttname"><a href="../../da/dd9/a09273.html#a752f5f516257bfdf139098c29a55c466">Unit::AddUnitState</a></div><div class="ttdeci">void AddUnitState(uint32 f)</div><div class="ttdef"><b>Definition:</b> Unit.h:741</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00778">Unit::AddUnitMovementFlag()</a>, <a class="el" href="../../#l00741">Unit::AddUnitState()</a>, <a class="el" href="../../#l00743">Unit::ClearUnitState()</a>, <a class="el" href="../../#l00688">WorldSession::GetOrderCounter()</a>, <a class="el" href="../../#l02692">Player::GetPendingCanFlyResync()</a>, <a class="el" href="../../#l02689">Player::GetPendingFlightChange()</a>, <a class="el" href="../../#l02032">Player::GetSession()</a>, <a class="el" href="../../#l00396">MOVEMENTFLAG_CAN_FLY</a>, <a class="el" href="../../#l00755">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l13287">Player::ResyncCanFlyToClient()</a>, <a class="el" href="../../#l16268">Unit::SetCanFly()</a>, <a class="el" href="../../#l00754">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l00279">UNIT_FLAG_CONFUSED</a>, and <a class="el" href="../../#l00180">UNIT_STATE_FLEEING</a>.</p>
 
 </div>
 </div>
-<a id="af92bca5e60d83a245a06403f58a9360c" name="af92bca5e60d83a245a06403f58a9360c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af92bca5e60d83a245a06403f58a9360c">&#9670;&#160;</a></span>TEST() <span class="overload">[10/10]</span></h2>
+<a id="aae231e3585c2e6dd64368cd95927779a" name="aae231e3585c2e6dd64368cd95927779a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae231e3585c2e6dd64368cd95927779a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST </td>
+          <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
+          <td class="paramtype"><a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ParryHasteFloor_MultipleParries&#160;</td>
+          <td class="paramtype">NoReplayWhileStillOutOfControl&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -564,31 +331,139 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  121</span>{</div>
-<div class="line"><span class="lineno">  122</span>    <span class="comment">// Creature with 1600ms base, no haste</span></div>
-<div class="line"><span class="lineno">  123</span>    int32_t fullTime = <a class="code hl_function" href="../../d6/d66/a05238.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(1600, 1.0f);</div>
-<div class="line"><span class="lineno">  124</span> </div>
-<div class="line"><span class="lineno">  125</span>    <span class="comment">// Parry-haste can reduce timer to 20% of base = 320ms</span></div>
-<div class="line"><span class="lineno">  126</span>    <span class="comment">// If server tick is 200ms and timer was at 320ms, after tick: 120ms</span></div>
-<div class="line"><span class="lineno">  127</span>    <span class="comment">// Attack fires, resetAttackTimer called with timer = 120 - 200 = -80</span></div>
-<div class="line"><span class="lineno">  128</span>    <span class="comment">// (timer went from 120 to -80 during the next tick)</span></div>
-<div class="line"><span class="lineno">  129</span>    int32_t currentTimer = -80;</div>
-<div class="line"><span class="lineno">  130</span> </div>
-<div class="line"><span class="lineno">  131</span>    <span class="comment">// Old formula: min(-80 + 1600, 1600) = min(1520, 1600) = 1520</span></div>
-<div class="line"><span class="lineno">  132</span>    <span class="comment">// Small debt is carried — minor issue</span></div>
-<div class="line"><span class="lineno">  133</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 1520);</div>
-<div class="line"><span class="lineno">  134</span> </div>
-<div class="line"><span class="lineno">  135</span>    <span class="comment">// Now consider two rapid parries reducing timer to 320ms,</span></div>
-<div class="line"><span class="lineno">  136</span>    <span class="comment">// followed by a 500ms server hiccup</span></div>
-<div class="line"><span class="lineno">  137</span>    currentTimer = 320 - 500; <span class="comment">// = -180</span></div>
-<div class="line"><span class="lineno">  138</span>    <span class="comment">// Old formula: min(-180 + 1600, 1600) = min(1420, 1600) = 1420</span></div>
-<div class="line"><span class="lineno">  139</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 1420);</div>
-<div class="line"><span class="lineno">  140</span> </div>
-<div class="line"><span class="lineno">  141</span>    <span class="comment">// New formula: always full time</span></div>
-<div class="line"><span class="lineno">  142</span>    EXPECT_EQ(<a class="code hl_function" href="../../d6/d66/a05238.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 1600);</div>
-<div class="line"><span class="lineno">  143</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   97</span>{</div>
+<div class="line"><span class="lineno">   98</span>    <a class="code hl_class" href="../../d4/d3e/a29897.html">TestPlayer</a>* player = CreateControlledPlayer();</div>
+<div class="line"><span class="lineno">   99</span>    <a class="code hl_class" href="../../dc/d38/a11889.html">WorldSession</a>* session = player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>();</div>
+<div class="line"><span class="lineno">  100</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">AddUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#a083358a25d084fb928e170c453128f9da95d7702ffb577e3cd39f79d199f5a0c9">MOVEMENTFLAG_CAN_FLY</a>);</div>
+<div class="line"><span class="lineno">  101</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a8ad2e62c7207250ee894d9a30d6bf130">UNIT_FLAG_FLEEING</a>);</div>
+<div class="line"><span class="lineno">  102</span> </div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> counter = session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>();</div>
+<div class="line"><span class="lineno">  104</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a70430c45bdb96d66a3dcbadf5a18d527">SetCanFly</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  105</span> </div>
+<div class="line"><span class="lineno">  106</span>    <span class="comment">// fear ends, but a confuse still holds control</span></div>
+<div class="line"><span class="lineno">  107</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a8ad2e62c7207250ee894d9a30d6bf130">UNIT_FLAG_FLEEING</a>);</div>
+<div class="line"><span class="lineno">  108</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a889affbf3beefd9704c68058b2bc79e3">UNIT_FLAG_CONFUSED</a>);</div>
+<div class="line"><span class="lineno">  109</span>    player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#ac8c7cfaf1f0cf5a75acac883b0129fb6">ResyncCanFlyToClient</a>();</div>
+<div class="line"><span class="lineno">  110</span> </div>
+<div class="line"><span class="lineno">  111</span>    EXPECT_EQ(session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>(), counter);</div>
+<div class="line"><span class="lineno">  112</span>    EXPECT_TRUE(player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a5670b59926561e47f36bab90a09fb869">GetPendingCanFlyResync</a>().has_value());</div>
+<div class="line"><span class="lineno">  113</span> </div>
+<div class="line"><span class="lineno">  114</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a889affbf3beefd9704c68058b2bc79e3">UNIT_FLAG_CONFUSED</a>);</div>
+<div class="line"><span class="lineno">  115</span>    player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#ac8c7cfaf1f0cf5a75acac883b0129fb6">ResyncCanFlyToClient</a>();</div>
+<div class="line"><span class="lineno">  116</span> </div>
+<div class="line"><span class="lineno">  117</span>    EXPECT_EQ(session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>(), counter + 1);</div>
+<div class="line"><span class="lineno">  118</span>    EXPECT_EQ(player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a6e7e547f80562e4ca2018026a4a2ece1">GetPendingFlightChange</a>(), counter);</div>
+<div class="line"><span class="lineno">  119</span>    EXPECT_FALSE(player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a5670b59926561e47f36bab90a09fb869">GetPendingCanFlyResync</a>().has_value());</div>
+<div class="line"><span class="lineno">  120</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00778">Unit::AddUnitMovementFlag()</a>, <a class="el" href="../../#l00688">WorldSession::GetOrderCounter()</a>, <a class="el" href="../../#l02692">Player::GetPendingCanFlyResync()</a>, <a class="el" href="../../#l02689">Player::GetPendingFlightChange()</a>, <a class="el" href="../../#l02032">Player::GetSession()</a>, <a class="el" href="../../#l00396">MOVEMENTFLAG_CAN_FLY</a>, <a class="el" href="../../#l00755">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l13287">Player::ResyncCanFlyToClient()</a>, <a class="el" href="../../#l16268">Unit::SetCanFly()</a>, <a class="el" href="../../#l00754">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l00279">UNIT_FLAG_CONFUSED</a>, and <a class="el" href="../../#l00280">UNIT_FLAG_FLEEING</a>.</p>
+
+</div>
+</div>
+<a id="a4ec0747df72d6538bac7e54a40912e8f" name="a4ec0747df72d6538bac7e54a40912e8f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4ec0747df72d6538bac7e54a40912e8f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/7]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NothingRecordedWhileInControl&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  168</span>{</div>
+<div class="line"><span class="lineno">  169</span>    <a class="code hl_class" href="../../d4/d3e/a29897.html">TestPlayer</a>* player = CreateControlledPlayer();</div>
+<div class="line"><span class="lineno">  170</span>    <a class="code hl_class" href="../../dc/d38/a11889.html">WorldSession</a>* session = player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>();</div>
+<div class="line"><span class="lineno">  171</span> </div>
+<div class="line"><span class="lineno">  172</span>    <a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> counter = session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>();</div>
+<div class="line"><span class="lineno">  173</span>    player-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a70430c45bdb96d66a3dcbadf5a18d527">SetCanFly</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  174</span> </div>
+<div class="line"><span class="lineno">  175</span>    EXPECT_EQ(session-&gt;<a class="code hl_function" href="../../dc/d38/a11889.html#a27ee6ec7cbcdb15a8b68aed1d51497ca">GetOrderCounter</a>(), counter + 1);</div>
+<div class="line"><span class="lineno">  176</span>    EXPECT_EQ(player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a6e7e547f80562e4ca2018026a4a2ece1">GetPendingFlightChange</a>(), counter);</div>
+<div class="line"><span class="lineno">  177</span>    EXPECT_FALSE(player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#a5670b59926561e47f36bab90a09fb869">GetPendingCanFlyResync</a>().has_value());</div>
+<div class="line"><span class="lineno">  178</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00688">WorldSession::GetOrderCounter()</a>, <a class="el" href="../../#l02692">Player::GetPendingCanFlyResync()</a>, <a class="el" href="../../#l02689">Player::GetPendingFlightChange()</a>, <a class="el" href="../../#l02032">Player::GetSession()</a>, and <a class="el" href="../../#l16268">Unit::SetCanFly()</a>.</p>
+
+</div>
+</div>
+<a id="a8f92001f958962bfd4bc64c28c775045" name="a8f92001f958962bfd4bc64c28c775045"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f92001f958962bfd4bc64c28c775045">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/7]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">RevokeDuringConfuseIsReplayed&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   71</span>{</div>
+<div class="line"><span class="lineno">   72</span>    ExpectRevokeReplayedAfter(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a889affbf3beefd9704c68058b2bc79e3">UNIT_FLAG_CONFUSED</a>);</div>
+<div class="line"><span class="lineno">   73</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00279">UNIT_FLAG_CONFUSED</a>.</p>
+
+</div>
+</div>
+<a id="a121814080cc7688c46d4b409db6acaeb" name="a121814080cc7688c46d4b409db6acaeb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a121814080cc7688c46d4b409db6acaeb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/7]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/dc7/a30089.html">PlayerCanFlyControlLossTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">RevokeDuringFearIsReplayed&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   66</span>{</div>
+<div class="line"><span class="lineno">   67</span>    ExpectRevokeReplayedAfter(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#affdd0d554c8bcaaa85a879f5a9d60934a8ad2e62c7207250ee894d9a30d6bf130">UNIT_FLAG_FLEEING</a>);</div>
+<div class="line"><span class="lineno">   68</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00280">UNIT_FLAG_FLEEING</a>.</p>
 
 </div>
 </div>
@@ -597,8 +472,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_aeb07b430c02e2e2c16696076a308f05.html">Entities</a></li><li class="navelem"><a class="el" href="../../d0/d61/a00302.html">ResetAttackTimerTest.cpp</a></li>
-    <li class="footer">Generated on Tue Nov 3 2026 02:36:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_aeb07b430c02e2e2c16696076a308f05.html">Entities</a></li><li class="navelem"><a class="el" href="../../d0/d61/a00302.html">PlayerCanFlyControlLossTest.cpp</a></li>
+    <li class="footer">Generated on Tue Nov 10 2026 02:54:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

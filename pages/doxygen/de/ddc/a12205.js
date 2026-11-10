@@ -1,6 +1,6 @@
 var a12205 =
 [
-    [ "EffectSplitHandler", "de/ddc/a12205.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "de/ddc/a12205.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "de/ddc/a12205.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "EffectBase", "de/ddc/a12205.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
+    [ "CheckEffect", "de/ddc/a12205.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
+    [ "ToString", "de/ddc/a12205.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
 ];

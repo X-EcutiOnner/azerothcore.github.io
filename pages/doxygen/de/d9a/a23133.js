@@ -1,8 +1,7 @@
 var a23133 =
 [
-    [ "HandleEffectApply", "de/d9a/a23133.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "de/d9a/a23133.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "de/d9a/a23133.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "de/d9a/a23133.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "de/d9a/a23133.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "SuckBackEvent", "de/d9a/a23133.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
+    [ "Execute", "de/d9a/a23133.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
+    [ "_action", "de/d9a/a23133.html#abc54669df2dba0238723a40ababe4c0a", null ],
+    [ "_owner", "de/d9a/a23133.html#a4d8bc09803f7786022c1836457ded488", null ]
 ];

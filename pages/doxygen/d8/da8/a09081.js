@@ -1,7 +1,10 @@
 var a09081 =
 [
-    [ "ItemPosCount", "d8/da8/a09081.html#a43458da1fc31d827b6de726754f7901e", null ],
-    [ "isContainedIn", "d8/da8/a09081.html#a6977c544a2d39ca5872b75f27517974f", null ],
-    [ "count", "d8/da8/a09081.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
-    [ "pos", "d8/da8/a09081.html#ad8954f1a6323316510cfe0f332ee495f", null ]
+    [ "PvPInfo", "d8/da8/a09081.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "d8/da8/a09081.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "d8/da8/a09081.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "d8/da8/a09081.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "d8/da8/a09081.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "d8/da8/a09081.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "d8/da8/a09081.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

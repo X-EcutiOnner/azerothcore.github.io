@@ -1,6 +1,8 @@
 var a22513 =
 [
-    [ "HandleScript", "d5/d05/a22513.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "d5/d05/a22513.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "d5/d05/a22513.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "npc_hyldsmeet_protodrake", "d5/d05/a22513.html#a409a5f5eace583ef874421819c975ed8", null ],
+    [ "PassengerBoarded", "d5/d05/a22513.html#a0067d3b394c967946e329ea25c2dc315", null ],
+    [ "UpdateAI", "d5/d05/a22513.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
+    [ "_accessoryInstalled", "d5/d05/a22513.html#af9a5984f66eb3a1a26e8c1640bcf7597", null ],
+    [ "_accessoryRespawnTimer", "d5/d05/a22513.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
 ];

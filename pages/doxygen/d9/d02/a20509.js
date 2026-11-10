@@ -1,6 +1,5 @@
 var a20509 =
 [
-    [ "HandleScript", "d9/d02/a20509.html#a269167ff78ae3110193f7cfe4b4c0ef4", null ],
-    [ "PrepareSpellScript", "d9/d02/a20509.html#a79975a7f3e523c0feb87d3e084f98808", null ],
-    [ "Register", "d9/d02/a20509.html#aec017333dfc19701472dad3987538e69", null ]
+    [ "achievement_freya_getting_back_to_nature", "d9/d02/a20509.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "d9/d02/a20509.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

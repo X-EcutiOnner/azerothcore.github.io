@@ -1,10 +1,6 @@
 var a24753 =
 [
-    [ "CheckProc", "da/d4d/a24753.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02", null ],
-    [ "HandleProc", "da/d4d/a24753.html#ac90b54e946baa80589cab2f66aca1f5f", null ],
-    [ "Load", "da/d4d/a24753.html#ada85014de8a3602e83912d5e1a0165c5", null ],
-    [ "PrepareAuraScript", "da/d4d/a24753.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
-    [ "Register", "da/d4d/a24753.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
-    [ "Validate", "da/d4d/a24753.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
-    [ "_procTargetGUID", "da/d4d/a24753.html#ac9685f00854f4cf67a1fffada0b9461b", null ]
+    [ "HandleEffectApply", "da/d4d/a24753.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
+    [ "PrepareAuraScript", "da/d4d/a24753.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
+    [ "Register", "da/d4d/a24753.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
 ];

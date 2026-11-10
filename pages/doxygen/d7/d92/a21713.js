@@ -1,6 +1,7 @@
 var a21713 =
 [
-    [ "npc_sinkhole_kill_creditAI", "d5/df5/a21717.html", "d5/df5/a21717" ],
-    [ "npc_sinkhole_kill_credit", "d7/d92/a21713.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "d7/d92/a21713.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "npc_violet_hold_defense_system", "d7/d92/a21713.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "d7/d92/a21713.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "d7/d92/a21713.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
+    [ "_tickCount", "d7/d92/a21713.html#a4a7504069b05480428278fd09d5e59ba", null ]
 ];

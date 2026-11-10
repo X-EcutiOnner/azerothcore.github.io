@@ -1,7 +1,7 @@
 var a21037 =
 [
-    [ "OnRemove", "d3/ddc/a21037.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
-    [ "PrepareAuraScript", "d3/ddc/a21037.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
-    [ "Register", "d3/ddc/a21037.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "Validate", "d3/ddc/a21037.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
+    [ "npc_xt_void_zone", "d3/ddc/a21037.html#ac392b70098ff8a486d1eb42c4dcd1551", null ],
+    [ "Reset", "d3/ddc/a21037.html#a72b02a51f71370f83b58d3fdb32dccd2", null ],
+    [ "UpdateAI", "d3/ddc/a21037.html#a7b49046e49cdf6b94ed6368197daeace", null ],
+    [ "_scheduler", "d3/ddc/a21037.html#acfd9e9a23c88e74ad96a14f8fb560612", null ]
 ];

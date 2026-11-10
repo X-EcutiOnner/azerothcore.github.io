@@ -1,5 +1,6 @@
 var a22929 =
 [
-    [ "ChargeTargetSelector", "d0/d06/a22929.html#a064e7d9008bfc85b7c636490c7aaf714", null ],
-    [ "operator()", "d0/d06/a22929.html#a596223da822f5a08281fe709cca95909", null ]
+    [ "PrepareSpellScript", "d0/d06/a22929.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
+    [ "Register", "d0/d06/a22929.html#aa41700bf097963c5a352442723181037", null ],
+    [ "SelectTarget", "d0/d06/a22929.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
 ];

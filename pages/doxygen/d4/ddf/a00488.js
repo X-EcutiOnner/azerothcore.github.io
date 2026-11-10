@@ -1,9 +1,12 @@
 var a00488 =
 [
-    [ "CleanStringForMysqlQuery", "d4/ddf/a00488.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
-    [ "GetLocaleByName", "d4/ddf/a00488.html#a3193e61abf2ddeae08f61cd4f13c6250", null ],
-    [ "GetNameByLocaleConstant", "d4/ddf/a00488.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
-    [ "IsLocaleValid", "d4/ddf/a00488.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
-    [ "accountFlagNames", "d4/ddf/a00488.html#a77b8b95357d9fd48d99c7e82eb567fc0", null ],
-    [ "localeNames", "d4/ddf/a00488.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
+    [ "AC_COMPILER_BORLAND", "d4/ddf/a00488.html#ad92d7f8e69537bfc6f28bfce27856c1f", null ],
+    [ "AC_COMPILER_GNU", "d4/ddf/a00488.html#a8ffa78a105635ede693224673028c4ed", null ],
+    [ "AC_COMPILER_INTEL", "d4/ddf/a00488.html#a60132e229252e2d0020a2ba6fd0309c3", null ],
+    [ "AC_COMPILER_MICROSOFT", "d4/ddf/a00488.html#ac8ee3c2752751f98265e16c95cbaea47", null ],
+    [ "AC_PLATFORM", "d4/ddf/a00488.html#a490dd7a4e0c23e207dd9285027ae8b33", null ],
+    [ "AC_PLATFORM_APPLE", "d4/ddf/a00488.html#a4f72821a90afaf788ba291d1f6fb11b8", null ],
+    [ "AC_PLATFORM_INTEL", "d4/ddf/a00488.html#a2d79201ecf9fb7b1f6d0c131f9b7b8ba", null ],
+    [ "AC_PLATFORM_UNIX", "d4/ddf/a00488.html#a96b4a3022030f69221679448f34f1972", null ],
+    [ "AC_PLATFORM_WINDOWS", "d4/ddf/a00488.html#a15c00b0ab8f2f092270745de87d6bd8f", null ]
 ];

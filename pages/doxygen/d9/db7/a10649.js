@@ -1,7 +1,6 @@
 var a10649 =
 [
-    [ "WaypointPath", "d9/db7/a10649.html#a69a3981fa5b1672519124870513458b3", null ],
-    [ "WaypointPath", "d9/db7/a10649.html#a65afbfc096b99361fcab26adad9cab7d", null ],
-    [ "Id", "d9/db7/a10649.html#a553acc50411bbeabedbec3c9431212ad", null ],
-    [ "Nodes", "d9/db7/a10649.html#a6326c73791542489c7f4d098b05887fb", null ]
+    [ "HoverMovementTransform", "d9/db7/a10649.html#afc47d2d80c4a4a654cb60f9ad15dc63b", null ],
+    [ "operator()", "d9/db7/a10649.html#a7b4c22c7ba3332c0829832756b734809", null ],
+    [ "_offset", "d9/db7/a10649.html#a7fe74e38dbefb11af541a8750465861c", null ]
 ];

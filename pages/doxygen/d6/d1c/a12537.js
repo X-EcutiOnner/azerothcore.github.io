@@ -1,8 +1,11 @@
 var a12537 =
 [
-    [ "CreatureCountWorker", "d6/d1c/a12537.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
-    [ "GetTopCreatureCount", "d6/d1c/a12537.html#a5d4d009b6685dd71703f96f9945a463e", null ],
-    [ "Visit", "d6/d1c/a12537.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
-    [ "Visit", "d6/d1c/a12537.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
-    [ "creatureIds", "d6/d1c/a12537.html#a3a6f946c40b1006164793dbaed2b3948", null ]
+    [ "bf_commandscript", "d6/d1c/a12537.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "d6/d1c/a12537.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "d6/d1c/a12537.html#a5d6fdbbdd77fc16aaac170d5af0ff924", null ],
+    [ "HandleBattlefieldEnd", "d6/d1c/a12537.html#abe18a8f6f91de5a1984f09c711136919", null ],
+    [ "HandleBattlefieldQueue", "d6/d1c/a12537.html#ab2e116060bb747e9ae9237c49b8cc2c9", null ],
+    [ "HandleBattlefieldStart", "d6/d1c/a12537.html#a1cfd74a803277063fa5e03162956f341", null ],
+    [ "HandleBattlefieldSwitch", "d6/d1c/a12537.html#ae942a3c7f13cc77b3cf36078d798e0fe", null ],
+    [ "HandleBattlefieldTimer", "d6/d1c/a12537.html#a6c0d2587984f276bbc40af72017dc00a", null ]
 ];

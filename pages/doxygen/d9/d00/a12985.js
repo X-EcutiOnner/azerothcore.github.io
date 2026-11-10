@@ -1,6 +1,7 @@
 var a12985 =
 [
-    [ "OnEffect", "d9/d00/a12985.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "d9/d00/a12985.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "d9/d00/a12985.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "boss_urok_doomhowl", "d9/d00/a12985.html#af1ee215f3d8d6471587ef184bdb0d47c", null ],
+    [ "InitializeAI", "d9/d00/a12985.html#acb14f233eff038e0cc2ef0b44cac5357", null ],
+    [ "JustEngagedWith", "d9/d00/a12985.html#acf6c649e69b5e7104aa2ffca01fef6dc", null ],
+    [ "UpdateAI", "d9/d00/a12985.html#aff302dd58a2f0ef8d801b0b6813d3233", null ]
 ];

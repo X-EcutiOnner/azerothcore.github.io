@@ -1,16 +1,15 @@
 var a05369 =
 [
-    [ "operator==", "d0/deb/a05369.html#a74f960a358074ddb87d4e1de48e11e53", null ],
-    [ "baseUnitDim", "d0/deb/a05369.html#a49b023bc34148196590dfd5c42fe49f6", null ],
-    [ "cellSizeHorizontal", "d0/deb/a05369.html#a37b48fdf0ff629ff18e262cf1b74604a", null ],
-    [ "cellSizeVertical", "d0/deb/a05369.html#aa3fa9b9705e7a0b4e514f9a900ed4dcd", null ],
-    [ "maxSimplificationError", "d0/deb/a05369.html#afbd14408be8abc7887e79b766d3fe7a5", null ],
-    [ "padding0", "d0/deb/a05369.html#a756affcba9ba67923634b050be35e2b7", null ],
-    [ "tilesPerMapEdge", "d0/deb/a05369.html#a620f2c8f7dae449054a0c9f7fdbb7bdd", null ],
-    [ "vertexPerMapEdge", "d0/deb/a05369.html#a6a95c1c214c3102d2618eaf3df850232", null ],
-    [ "vertexPerTileEdge", "d0/deb/a05369.html#a88fd7166e3555df1307ad0e1a7dfc8f6", null ],
-    [ "walkableClimb", "d0/deb/a05369.html#a6d1d6f164c716e71d0dff034c9e8042a", null ],
-    [ "walkableHeight", "d0/deb/a05369.html#aaaf165b5e3b8361d37837e6b93609557", null ],
-    [ "walkableRadius", "d0/deb/a05369.html#a16440d4ea4533b065cfa8aac216c275a", null ],
-    [ "walkableSlopeAngle", "d0/deb/a05369.html#af825b2f1f457e551a58f343864e3c100", null ]
+    [ "IVMapMgr", "d0/deb/a05369.html#a8fcc2ababfadc1bf662c56645c04841e", null ],
+    [ "~IVMapMgr", "d0/deb/a05369.html#adbc38672af6f30bc4887d2737e6097e5", null ],
+    [ "existsMap", "d0/deb/a05369.html#ab63074f237876ebc9b93242f44c95b40", null ],
+    [ "getDirFileName", "d0/deb/a05369.html#a6fb9bd31760b72279499e5e884d12a04", null ],
+    [ "isHeightCalcEnabled", "d0/deb/a05369.html#a0a3b250f0674709fac851c6e63bedd51", null ],
+    [ "isLineOfSightCalcEnabled", "d0/deb/a05369.html#a9b88973ec447dee3a990e11f1fa74873", null ],
+    [ "isMapLoadingEnabled", "d0/deb/a05369.html#ae327405db5140e3a27fe767be8ca8a66", null ],
+    [ "processCommand", "d0/deb/a05369.html#a8697455fead0cfed30ba955c9abf934f", null ],
+    [ "setEnableHeightCalc", "d0/deb/a05369.html#a5642a08f1cbd688985314fb821525c95", null ],
+    [ "setEnableLineOfSightCalc", "d0/deb/a05369.html#a7984e19b44c6f8ce16ecea8e823a4b14", null ],
+    [ "iEnableHeightCalc", "d0/deb/a05369.html#a3ce407c232386fbe00958660457474e4", null ],
+    [ "iEnableLineOfSightCalc", "d0/deb/a05369.html#a83c2317151591bf2c72d33e19007125a", null ]
 ];

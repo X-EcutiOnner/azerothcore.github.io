@@ -1,6 +1,7 @@
 var a26041 =
 [
-    [ "HandleDummy", "dd/d6e/a26041.html#ad086618ff3caadcf5126e12a1359503f", null ],
-    [ "PrepareSpellScript", "dd/d6e/a26041.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
-    [ "Register", "dd/d6e/a26041.html#a214526ddc986ee829daf9090678e3a7b", null ]
+    [ "CheckProc", "dd/d6e/a26041.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
+    [ "HandleProc", "dd/d6e/a26041.html#a5cf9cea911ead2f261522e55e94c745a", null ],
+    [ "PrepareAuraScript", "dd/d6e/a26041.html#a3f2b20607f90ad641769eb284ddfab85", null ],
+    [ "Register", "dd/d6e/a26041.html#a55557026689613e91aeabce1af442237", null ]
 ];

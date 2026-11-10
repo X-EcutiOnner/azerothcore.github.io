@@ -1,6 +1,9 @@
 var a23285 =
 [
-    [ "HandleProc", "d4/d4a/a23285.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d4/d4a/a23285.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d4/d4a/a23285.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "HandleEffectApply", "d4/d4a/a23285.html#aca8ff864832d30e45bccfca12256560a", null ],
+    [ "HandleEffectRemove", "d4/d4a/a23285.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
+    [ "Load", "d4/d4a/a23285.html#a3b9838f26673ce344ca40f9f487ef878", null ],
+    [ "PrepareAuraScript", "d4/d4a/a23285.html#a79b93c86a01d31d08cba15436856b794", null ],
+    [ "Register", "d4/d4a/a23285.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
+    [ "_turtleSet", "d4/d4a/a23285.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
 ];

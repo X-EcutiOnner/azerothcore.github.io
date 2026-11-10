@@ -1,13 +1,7 @@
 var a02099 =
 [
-    [ "SkillPerfectItemEntry", "d8/df2/a11918.html", "d8/df2/a11918" ],
-    [ "SkillExtraItemEntry", "d8/de7/a11922.html", "d8/de7/a11922" ],
-    [ "SkillExtraItemMap", "d9/dff/a02099.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
-    [ "SkillPerfectItemMap", "d9/dff/a02099.html#ad732be66d93ed6e8f498077f27e2766b", null ],
-    [ "canCreateExtraItems", "d9/dff/a02099.html#a49687e255d65fa15dac5e6a428c5739d", null ],
-    [ "CanCreatePerfectItem", "d9/dff/a02099.html#a818c557864790091814604b6d2175e52", null ],
-    [ "LoadSkillExtraItemTable", "d9/dff/a02099.html#a3244d04018405bafe21acc8bc96cc743", null ],
-    [ "LoadSkillPerfectItemTable", "d9/dff/a02099.html#a121df170a82be5ab5b05999a6be27b69", null ],
-    [ "SkillExtraItemStore", "d9/dff/a02099.html#acc52416c05fbae29bcbfa9f0683485cd", null ],
-    [ "SkillPerfectItemStore", "d9/dff/a02099.html#ac676f0acbf782fa2d31bd66b8eaa8260", null ]
+    [ "GetExplicitDiscoverySpell", "d9/dff/a02099.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
+    [ "GetSkillDiscoverySpell", "d9/dff/a02099.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
+    [ "HasDiscoveredAllSpells", "d9/dff/a02099.html#abdf3c2fcf65212466dfb54053e35024c", null ],
+    [ "LoadSkillDiscoveryTable", "d9/dff/a02099.html#addd95f0a239a27ed32cd943aa1052019", null ]
 ];

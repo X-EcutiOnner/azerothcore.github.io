@@ -1,5 +1,5 @@
 var a04241 =
 [
-    [ "send_commandscript", "df/d93/a12714.html", "df/d93/a12714" ],
-    [ "AddSC_send_commandscript", "df/d88/a04241.html#a9f3fee551f6ca7aa7dad83edb2dfe480", null ]
+    [ "autobroadcast_commandscript", "d4/d06/a12525.html", "d4/d06/a12525" ],
+    [ "AddSC_autobroadcast_commandscript", "df/d88/a04241.html#a1d398e7e3a10b992b1d0a10671683d46", null ]
 ];

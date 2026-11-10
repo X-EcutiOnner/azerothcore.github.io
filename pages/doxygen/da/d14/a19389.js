@@ -1,6 +1,6 @@
 var a19389 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "df/d78/a19393.html", "df/d78/a19393" ],
-    [ "npc_icc_skybreaker_luminary", "da/d14/a19389.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "da/d14/a19389.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "npc_icc_skybreaker_vicarAI", "df/d78/a19393.html", "df/d78/a19393" ],
+    [ "npc_icc_skybreaker_vicar", "da/d14/a19389.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
+    [ "GetAI", "da/d14/a19389.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
 ];

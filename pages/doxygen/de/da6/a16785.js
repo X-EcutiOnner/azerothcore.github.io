@@ -1,6 +1,8 @@
 var a16785 =
 [
-    [ "npc_living_infernoAI", "de/da6/a16785.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "de/da6/a16785.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "de/da6/a16785.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "OnApply", "de/da6/a16785.html#a7165da94ce589afcd24411a308802c18", null ],
+    [ "OnRemove", "de/da6/a16785.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
+    [ "PrepareAuraScript", "de/da6/a16785.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
+    [ "Register", "de/da6/a16785.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
+    [ "Validate", "de/da6/a16785.html#acf29b80b7b74c3f409e1f046b8062994", null ]
 ];

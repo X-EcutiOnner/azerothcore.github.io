@@ -1,8 +1,10 @@
 var a27565 =
 [
-    [ "CheckProc", "db/d7d/a27565.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
-    [ "HandleProc", "db/d7d/a27565.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
-    [ "PrepareAuraScript", "db/d7d/a27565.html#a91ef63b96918e797e677423d51f94112", null ],
-    [ "Register", "db/d7d/a27565.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
-    [ "Validate", "db/d7d/a27565.html#ab6178007664afc34556336ec9620cd4f", null ]
+    [ "HandleProc", "db/d7d/a27565.html#af7ed59bccd5a9db04e37753e813377b6", null ],
+    [ "OnRemove", "db/d7d/a27565.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
+    [ "PrepareAuraScript", "db/d7d/a27565.html#a2280ebe1a928d0962c7f67e22405db18", null ],
+    [ "Register", "db/d7d/a27565.html#a1e53dfab9d98846d404ea7f57555c941", null ],
+    [ "SetRedirectTarget", "db/d7d/a27565.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
+    [ "Validate", "db/d7d/a27565.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
+    [ "_redirectTarget", "db/d7d/a27565.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
 ];

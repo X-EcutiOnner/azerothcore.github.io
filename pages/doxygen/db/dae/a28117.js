@@ -1,8 +1,7 @@
 var a28117 =
 [
-    [ "CheckProc", "db/dae/a28117.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
-    [ "HandleEffectProc", "db/dae/a28117.html#af01d160cb2a55124361a2dd113acd0a7", null ],
-    [ "PrepareAuraScript", "db/dae/a28117.html#aeffb8490a7208ae6e32a505283afbc03", null ],
-    [ "Register", "db/dae/a28117.html#a5436413d098dde4b0fa1ed2259a47779", null ],
-    [ "Validate", "db/dae/a28117.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
+    [ "HandleEffect", "db/dae/a28117.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
+    [ "PrepareSpellScript", "db/dae/a28117.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
+    [ "Register", "db/dae/a28117.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
+    [ "Validate", "db/dae/a28117.html#ab6d78ecb650f13df3376baced8c40a63", null ]
 ];

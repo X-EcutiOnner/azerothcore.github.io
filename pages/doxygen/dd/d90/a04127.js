@@ -1,5 +1,5 @@
 var a04127 =
 [
-    [ "honor_commandscript", "db/da5/a12594.html", "db/da5/a12594" ],
-    [ "AddSC_honor_commandscript", "dd/d90/a04127.html#ab7c57f853cb45a82b5563b703a1ee041", null ]
+    [ "quest_commandscript", "d8/de0/a12709.html", "d8/de0/a12709" ],
+    [ "AddSC_quest_commandscript", "dd/d90/a04127.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ]
 ];

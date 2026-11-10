@@ -1,6 +1,9 @@
 var a27925 =
 [
-    [ "HandleAfterHit", "d2/de7/a27925.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "d2/de7/a27925.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "d2/de7/a27925.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "CheckCast", "d2/de7/a27925.html#a441927e0d8d7304030440c19458eb34d", null ],
+    [ "HandleScriptEffect", "d2/de7/a27925.html#a10e9691aa15869c82fba79072a314d7e", null ],
+    [ "PrepareSpellScript", "d2/de7/a27925.html#a90b8ae945aeb85ad6e8a120501288979", null ],
+    [ "Register", "d2/de7/a27925.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
+    [ "Validate", "d2/de7/a27925.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
+    [ "iTypes", "d2/de7/a27925.html#ae852b9df34612c074eab23b025c86870", null ]
 ];

@@ -1,4 +1,5 @@
 var a05741 =
 [
-    [ "InvalidAppenderArgsException", "d9/d6a/a05741.html#a5cfc42ea2456b9c7d60f06a1d469f1ae", null ]
+    [ "Decode", "d9/d6a/a05741.html#a16eb5c0306f404a3be454430abd01610", null ],
+    [ "Encode", "d9/d6a/a05741.html#a5c439d87d1532c68023e2d612d874e5f", null ]
 ];

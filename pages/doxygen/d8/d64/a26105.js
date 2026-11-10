@@ -1,7 +1,5 @@
 var a26105 =
 [
-    [ "HandleProc", "d8/d64/a26105.html#a5dbf2d5e9b31828b79150f40f6033896", null ],
-    [ "PrepareAuraScript", "d8/d64/a26105.html#a84f326e1353437f29fb051533d3391eb", null ],
-    [ "Register", "d8/d64/a26105.html#a7afae9d94162490cb40d29159d88f4a8", null ],
-    [ "Validate", "d8/d64/a26105.html#a3d39936e9b44abce8746d1ef23c8e27e", null ]
+    [ "PrepareSpellScript", "d8/d64/a26105.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
+    [ "Register", "d8/d64/a26105.html#af8f8b5901a068bef3e2663809180b3e2", null ]
 ];

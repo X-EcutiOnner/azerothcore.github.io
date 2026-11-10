@@ -1,6 +1,6 @@
 var a14241 =
 [
-    [ "ModDestHeight", "db/db5/a14241.html#ae5e63f8d6e9e3fa05a82cd5708b44527", null ],
-    [ "PrepareSpellScript", "db/db5/a14241.html#a7447499330dc583210b7a172265dbb69", null ],
-    [ "Register", "db/db5/a14241.html#a75e577bbe27b2742f6209b7d295dcafa", null ]
+    [ "npc_marzon_silent_bladeAI", "d2/d26/a14245.html", "d2/d26/a14245" ],
+    [ "npc_marzon_silent_blade", "db/db5/a14241.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "db/db5/a14241.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

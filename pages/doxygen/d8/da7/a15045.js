@@ -1,9 +1,8 @@
 var a15045 =
 [
-    [ "npc_love_in_air_snivel", "d8/da7/a15045.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
-    [ "AllowAction", "d8/da7/a15045.html#af1097317f62bbb8f8456124001c73576", null ],
-    [ "MoveInLineOfSight", "d8/da7/a15045.html#ae6537707109b95fad20e521d07867cdd", null ],
-    [ "Reset", "d8/da7/a15045.html#a2385ea44d9f44735b193add4a0d0485b", null ],
-    [ "UpdateAI", "d8/da7/a15045.html#a9e712994663e3442359d2f574ebc812c", null ],
-    [ "delay", "d8/da7/a15045.html#a548db6245ef875ec47279246e437934c", null ]
+    [ "npc_hallows_end_train_fire", "d8/da7/a15045.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
+    [ "Reset", "d8/da7/a15045.html#afdda52e0adce23f56fa9d1357469a17d", null ],
+    [ "SpellHit", "d8/da7/a15045.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
+    [ "UpdateAI", "d8/da7/a15045.html#a686a565e1743c31166d8d57f67a0adce", null ],
+    [ "timer", "d8/da7/a15045.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
 ];

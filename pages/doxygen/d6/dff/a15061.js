@@ -1,7 +1,7 @@
 var a15061 =
 [
-    [ "OnApply", "d6/dff/a15061.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "d6/dff/a15061.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "d6/dff/a15061.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "d6/dff/a15061.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "go_loosely_turned_soilAI", "d9/d51/a15065.html", "d9/d51/a15065" ],
+    [ "go_loosely_turned_soil", "d6/dff/a15061.html#a3b4d51e2b3a604e030962127269236f1", null ],
+    [ "GetAI", "d6/dff/a15061.html#acead5810a848f8837fa65af1f2ac00bd", null ],
+    [ "OnQuestReward", "d6/dff/a15061.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
 ];

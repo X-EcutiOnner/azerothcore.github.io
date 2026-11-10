@@ -1,5 +1,6 @@
 var a04193 =
 [
-    [ "wp_commandscript", "dc/d61/a12746.html", "dc/d61/a12746" ],
-    [ "AddSC_wp_commandscript", "d7/dbe/a04193.html#afc6bb2ca7e993730a57350142f7e6fd5", null ]
+    [ "lfg_commandscript", "d9/dd0/a12629.html", "d9/dd0/a12629" ],
+    [ "AddSC_lfg_commandscript", "d7/dbe/a04193.html#a484938015a7f5ffa8f5b1d0e259d355b", null ],
+    [ "GetPlayerInfo", "d7/dbe/a04193.html#a1d2591add059e8c4daf04b9f706da765", null ]
 ];

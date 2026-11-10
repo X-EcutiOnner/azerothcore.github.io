@@ -1,8 +1,5 @@
 var a13429 =
 [
-    [ "npc_tito", "df/dbe/a13429.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "df/dbe/a13429.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "df/dbe/a13429.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "df/dbe/a13429.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "df/dbe/a13429.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "at_karazhan_mirkblood_approach", "df/dbe/a13429.html#a032600991e9fc1aaf026adf2e63314e5", null ],
+    [ "OnTrigger", "df/dbe/a13429.html#aaece848faa4f1086ac0b16802a1e765e", null ]
 ];

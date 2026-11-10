@@ -1,6 +1,6 @@
 var a22313 =
 [
-    [ "ChangeSummonPos", "dc/d93/a22313.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "dc/d93/a22313.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "dc/d93/a22313.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "npc_infra_green_bomber_genericAI", "df/db6/a22317.html", "df/db6/a22317" ],
+    [ "npc_infra_green_bomber_generic", "dc/d93/a22313.html#a39134a09376c35f15e99377cd28ac6ff", null ],
+    [ "GetAI", "dc/d93/a22313.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
 ];

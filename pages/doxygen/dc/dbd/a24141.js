@@ -1,11 +1,7 @@
 var a24141 =
 [
-    [ "boss_pathaleon_the_calculator", "dc/dbd/a24141.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "dc/dbd/a24141.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "dc/dbd/a24141.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "dc/dbd/a24141.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "dc/dbd/a24141.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "dc/dbd/a24141.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "dc/dbd/a24141.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "dc/dbd/a24141.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "boss_gatewatcher_gyrokill", "dc/dbd/a24141.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "dc/dbd/a24141.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "dc/dbd/a24141.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "dc/dbd/a24141.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

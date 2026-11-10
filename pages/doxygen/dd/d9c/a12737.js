@@ -1,6 +1,11 @@
 var a12737 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "dc/d41/a12741.html", "dc/d41/a12741" ],
-    [ "npc_av_marshal_or_warmaster", "dd/d9c/a12737.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
-    [ "GetAI", "dd/d9c/a12737.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
+    [ "spectator_commandscript", "dd/d9c/a12737.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
+    [ "GetCommands", "dd/d9c/a12737.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
+    [ "HandleSpectatorCommand", "dd/d9c/a12737.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
+    [ "HandleSpectatorLeaveCommand", "dd/d9c/a12737.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
+    [ "HandleSpectatorResetCommand", "dd/d9c/a12737.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
+    [ "HandleSpectatorSpectateCommand", "dd/d9c/a12737.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
+    [ "HandleSpectatorVersionCommand", "dd/d9c/a12737.html#aaf7c57603d263f7ab919f12d9680f058", null ],
+    [ "HandleSpectatorWatchCommand", "dd/d9c/a12737.html#a1ee822e332374b375962d1ae87adbc61", null ]
 ];

@@ -1,7 +1,12 @@
 var a20277 =
 [
-    [ "OnRemove", "d4/d4b/a20277.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d4/d4b/a20277.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d4/d4b/a20277.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d4/d4b/a20277.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "npc_assembly_lightning", "d4/d4b/a20277.html#a8fcec558ec18de7bd9545779ded9e909", null ],
+    [ "AttackStart", "d4/d4b/a20277.html#a140d4166e99c223b674e55b67d709613", null ],
+    [ "EnterEvadeMode", "d4/d4b/a20277.html#a287f1e4fad8c8a046acc15952e2cb0b9", null ],
+    [ "MoveInLineOfSight", "d4/d4b/a20277.html#a3b3ec1402907a84c0ec17522568348c6", null ],
+    [ "MovementInform", "d4/d4b/a20277.html#a3117383b1d3bce6a3bbc8445e5ea7a71", null ],
+    [ "OnCharmed", "d4/d4b/a20277.html#a72e93f6e1ca82e82f8f3cc051f0f1345", null ],
+    [ "Reset", "d4/d4b/a20277.html#aee99895b9c4d1b5f4d1a2ae7f4bd09a8", null ],
+    [ "UpdateAI", "d4/d4b/a20277.html#a0ae73d6c38064d80a7297045f2b829dd", null ],
+    [ "_boomed", "d4/d4b/a20277.html#a13074c840c7e4dc94a2b30741f62ec00", null ]
 ];

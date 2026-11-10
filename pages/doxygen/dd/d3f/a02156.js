@@ -1,5 +1,5 @@
 var a02156 =
 [
-    [ "MotdMap", "dd/d3f/a02156.html#a5c662919d486ab6fdecf6195e172bc0d", null ],
-    [ "MotdPackets", "dd/d3f/a02156.html#a58c795807a8c0ddf95b6dde3d1760c0a", null ]
+    [ "MotdMgr", "da/d5a/a10485.html", "da/d5a/a10485" ],
+    [ "sMotdMgr", "dd/d3f/a02156.html#a0ad6ba4db6e433e72e172e659af2cada", null ]
 ];

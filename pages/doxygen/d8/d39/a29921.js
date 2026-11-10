@@ -1,10 +1,6 @@
 var a29921 =
 [
-    [ "SetUp", "d8/d39/a29921.html#a781aff1ceb2f4e26bcf801e9ab81bf3e", null ],
-    [ "TearDown", "d8/d39/a29921.html#a4554349a2712a018d16de6a8ae9f50ff", null ],
-    [ "PERM_A", "d8/d39/a29921.html#a4cf88cb08e4248c973e96009b7c5e225", null ],
-    [ "PERM_B", "d8/d39/a29921.html#a358884a8d08637d7358803127c87c808", null ],
-    [ "PERM_C", "d8/d39/a29921.html#a34fc88e7d7566ed4d64005535d0a3122", null ],
-    [ "rbacData", "d8/d39/a29921.html#af35ce1e4fa3d4123358a098cb5afb2af", null ],
-    [ "ROLE_R", "d8/d39/a29921.html#abe95477afdf283e406df55eac7f146cf", null ]
+    [ "SetUp", "d8/d39/a29921.html#abb19e39864b83953d4521914a78ed608", null ],
+    [ "TearDown", "d8/d39/a29921.html#a72dfb16bc49f5ebc3cfc34e7058e4ac9", null ],
+    [ "rbacData", "d8/d39/a29921.html#a96c1c7558b15f241f429f479ae36f497", null ]
 ];

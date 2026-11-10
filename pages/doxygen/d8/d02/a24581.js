@@ -1,6 +1,8 @@
 var a24581 =
 [
-    [ "PrepareSpellScript", "d8/d02/a24581.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
-    [ "RecalculateDamage", "d8/d02/a24581.html#af01757d0968da2a096d800782ed7e66e", null ],
-    [ "Register", "d8/d02/a24581.html#a62b6613707a2a9b78d52bffe92de604e", null ]
+    [ "npc_pet_dk_army_of_the_dead", "d8/d02/a24581.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "CanAIAttack", "d8/d02/a24581.html#a514fe49b143f57ef87359b3060911c02", null ],
+    [ "OwnerAttacked", "d8/d02/a24581.html#ad5189df825dc917e59c9b19e4a84cded", null ],
+    [ "OwnerAttackedBy", "d8/d02/a24581.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ],
+    [ "UpdateAI", "d8/d02/a24581.html#ac44836f84d172dfac90dfb3eaaeeac6a", null ]
 ];

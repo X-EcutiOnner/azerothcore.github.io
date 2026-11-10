@@ -1,12 +1,13 @@
 var a05445 =
 [
-    [ "ModelInstance", "d5/d95/a05445.html#a7a4efa321915b77801e9fc87924df572", null ],
-    [ "ModelInstance", "d5/d95/a05445.html#a0f2a5f321c1e54cbe8b3686c3e6801d4", null ],
-    [ "GetLiquidLevel", "d5/d95/a05445.html#a7d938e37825b61d9206c0e98d1352b5f", null ],
-    [ "GetLocationInfo", "d5/d95/a05445.html#a182d5cff23de7e6392fa10e2d353fcae", null ],
-    [ "getWorldModel", "d5/d95/a05445.html#a464922875649215b0b60aafc1ff70c3c", null ],
-    [ "intersectRay", "d5/d95/a05445.html#aac45a2d4becd7cac072da2f85b346eee", null ],
-    [ "iInvRot", "d5/d95/a05445.html#a9ac1d8dbfc566a2b5e508cae92ef4019", null ],
-    [ "iInvScale", "d5/d95/a05445.html#adc23d9c9a79ac7cfdb1f90b96485b089", null ],
-    [ "iModel", "d5/d95/a05445.html#a1826bd594e558180a18d1c3cf188c801", null ]
+    [ "GroupModel_Raw", "d5/d95/a05445.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
+    [ "~GroupModel_Raw", "d5/d95/a05445.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
+    [ "Read", "d5/d95/a05445.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
+    [ "bounds", "d5/d95/a05445.html#a830d79fdd2f21164bd805051352a3aa8", null ],
+    [ "GroupWMOID", "d5/d95/a05445.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
+    [ "liquid", "d5/d95/a05445.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
+    [ "liquidflags", "d5/d95/a05445.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
+    [ "mogpflags", "d5/d95/a05445.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
+    [ "triangles", "d5/d95/a05445.html#af692734697f525672027f251addebe6d", null ],
+    [ "vertexArray", "d5/d95/a05445.html#ad73c215408218900973df4dbdd8fcd18", null ]
 ];

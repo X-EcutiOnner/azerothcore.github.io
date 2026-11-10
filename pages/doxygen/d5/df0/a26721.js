@@ -1,8 +1,7 @@
 var a26721 =
 [
-    [ "HandleDummy", "d5/df0/a26721.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
-    [ "PrepareSpellScript", "d5/df0/a26721.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
-    [ "Register", "d5/df0/a26721.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
-    [ "Validate", "d5/df0/a26721.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
-    [ "PolymorhForms", "d5/df0/a26721.html#a1443d2532a060514e697a8d5e0c21b20", null ]
+    [ "HandleKnockBack", "d5/df0/a26721.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
+    [ "PrepareSpellScript", "d5/df0/a26721.html#ab951d6403188f178f79311cead8a0a8f", null ],
+    [ "Register", "d5/df0/a26721.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
+    [ "Validate", "d5/df0/a26721.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
 ];

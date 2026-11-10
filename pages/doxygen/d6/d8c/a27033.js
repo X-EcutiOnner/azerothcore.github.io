@@ -1,8 +1,8 @@
 var a27033 =
 [
-    [ "CheckProc", "d6/d8c/a27033.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
-    [ "HandleProc", "d6/d8c/a27033.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
-    [ "PrepareAuraScript", "d6/d8c/a27033.html#a876c1bda52c99c52249444414196b1d4", null ],
-    [ "Register", "d6/d8c/a27033.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
-    [ "Validate", "d6/d8c/a27033.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
+    [ "HandleProc", "d6/d8c/a27033.html#a95553bc0c973be3a2e3911602e4067c8", null ],
+    [ "PrepareAuraScript", "d6/d8c/a27033.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
+    [ "Register", "d6/d8c/a27033.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
+    [ "Validate", "d6/d8c/a27033.html#aad1324e94920136258c419094cfca4c3", null ],
+    [ "_cooldownEnd", "d6/d8c/a27033.html#a4f19a965ed8ddab712633abdb761d210", null ]
 ];

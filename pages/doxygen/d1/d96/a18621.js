@@ -1,5 +1,6 @@
 var a18621 =
 [
-    [ "operator()", "d1/d96/a18621.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
-    [ "operator()", "d1/d96/a18621.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
+    [ "HandleSpecial", "d1/d96/a18621.html#afa540e8c748ca3083667528e2449bc65", null ],
+    [ "PrepareSpellScript", "d1/d96/a18621.html#a9472211ffdaa33802099b22b2a721645", null ],
+    [ "Register", "d1/d96/a18621.html#ab868b10372ff2ef401d19b126acf00c6", null ]
 ];

@@ -1,9 +1,7 @@
 var a07881 =
 [
-    [ "entry", "d5/daa/a07881.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
-    [ "o", "d5/daa/a07881.html#a785703f50dcafda5888fb76af82a09da", null ],
-    [ "type", "d5/daa/a07881.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
-    [ "x", "d5/daa/a07881.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
-    [ "y", "d5/daa/a07881.html#a908fbf198d908963e77630b42deea147", null ],
-    [ "z", "d5/daa/a07881.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
+    [ "BattlegroundEYPointIconsStruct", "d5/daa/a07881.html#a322379024d155d293d1c0083c510d232", null ],
+    [ "WorldStateAllianceControlledIndex", "d5/daa/a07881.html#a449932bc2357e26c79520fcf01a71a2a", null ],
+    [ "WorldStateControlIndex", "d5/daa/a07881.html#a82e87048f934b67821bc8ba308ed101d", null ],
+    [ "WorldStateHordeControlledIndex", "d5/daa/a07881.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
 ];

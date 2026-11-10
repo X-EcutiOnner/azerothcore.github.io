@@ -1,8 +1,12 @@
 var a21629 =
 [
-    [ "boss_moragg", "dc/def/a21629.html#a42d2508369286e5e635d47cce0b939f4", null ],
-    [ "EnterEvadeMode", "dc/def/a21629.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
-    [ "ExecuteEvent", "dc/def/a21629.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
-    [ "JustEngagedWith", "dc/def/a21629.html#a29da7214373c1919b65f3512655c8bc3", null ],
-    [ "MoveInLineOfSight", "dc/def/a21629.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
+    [ "npc_ichor_globule", "dc/def/a21629.html#a59443a6748d81ef27a030f8656697fc1", null ],
+    [ "AttackStart", "dc/def/a21629.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
+    [ "JustDied", "dc/def/a21629.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
+    [ "MoveInLineOfSight", "dc/def/a21629.html#af14fada689a1a6a780ae44865d16e465", null ],
+    [ "Reset", "dc/def/a21629.html#a78030360fcd39754744384cdba17fd9e", null ],
+    [ "SpellHit", "dc/def/a21629.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
+    [ "UpdateAI", "dc/def/a21629.html#acccc54db59a18e78330011465e109439", null ],
+    [ "_events", "dc/def/a21629.html#a221c58177666ea1eb4a6b831916297eb", null ],
+    [ "_instance", "dc/def/a21629.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
 ];

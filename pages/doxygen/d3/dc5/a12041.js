@@ -1,16 +1,13 @@
 var a12041 =
 [
-    [ "AttributesMask", "d3/dc5/a12041.html#a7cc9dfa91e034f5052ebd3bf8eaea42a", null ],
-    [ "Chance", "d3/dc5/a12041.html#aea5ca609c75ea7b314aec8ae0246297e", null ],
-    [ "Charges", "d3/dc5/a12041.html#a75f0484dad60eec59b399a188fd9908f", null ],
-    [ "Cooldown", "d3/dc5/a12041.html#a4e6185aea35599a3efc2e806145cb1d2", null ],
-    [ "DisableEffectsMask", "d3/dc5/a12041.html#adc34c0ba25af2e1b1fc3b0fc7c45c019", null ],
-    [ "HitMask", "d3/dc5/a12041.html#a8ac3331576b4eb761157fa3d0d622bea", null ],
-    [ "ProcFlags", "d3/dc5/a12041.html#a9e5de790c4f61537397a1ce2bce8a9b0", null ],
-    [ "ProcsPerMinute", "d3/dc5/a12041.html#a3815765c08f6b95cae6efb93fa98623b", null ],
-    [ "SchoolMask", "d3/dc5/a12041.html#acf72c4a783235770bbff952bdc002324", null ],
-    [ "SpellFamilyMask", "d3/dc5/a12041.html#a8688e9282cb78d4f24b310cc2521c22b", null ],
-    [ "SpellFamilyName", "d3/dc5/a12041.html#a2cb738b0d4579503fcb9bca7988f7e36", null ],
-    [ "SpellPhaseMask", "d3/dc5/a12041.html#ab4c4bfa1493a7a5924d3cd094127f973", null ],
-    [ "SpellTypeMask", "d3/dc5/a12041.html#a99e20d3979a532e1ca90ee83edcff3eb", null ]
+    [ "CastSpellTargetArg", "d3/dc5/a12041.html#a54a5c35a6d6c38e55362731f90fd080f", null ],
+    [ "CastSpellTargetArg", "d3/dc5/a12041.html#a53899a47ac7114d882b47ee8cd1218f7", null ],
+    [ "CastSpellTargetArg", "d3/dc5/a12041.html#a18415e98021976a4983d995f2a5b61b0", null ],
+    [ "CastSpellTargetArg", "d3/dc5/a12041.html#a4ddff57daeada6042582bc2de5f3a927", null ],
+    [ "CastSpellTargetArg", "d3/dc5/a12041.html#aa7905671f11fe44be9dc86bc7a4d88cf", null ],
+    [ "CastSpellTargetArg", "d3/dc5/a12041.html#aea9d2ecfb6fd0f84abe55a80b1994203", null ],
+    [ "CastSpellTargetArg", "d3/dc5/a12041.html#aa0f1c23d0881b4d4aec61641eed34fbc", null ],
+    [ "~CastSpellTargetArg", "d3/dc5/a12041.html#a996e20990119ca494ec8d6dc2b3cda0e", null ],
+    [ "operator=", "d3/dc5/a12041.html#a3c34a7c703bfe8c70d0e081dec57ce16", null ],
+    [ "Targets", "d3/dc5/a12041.html#a25bda508ba86ff03f8d4195067bf8760", null ]
 ];

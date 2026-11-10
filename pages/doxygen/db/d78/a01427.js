@@ -1,38 +1,17 @@
 var a01427 =
 [
-    [ "Acore::Hyperlinks::AchievementLinkData", "d3/d99/a08246.html", "d3/d99/a08246" ],
-    [ "Acore::Hyperlinks::GlyphLinkData", "de/d0d/a08250.html", "de/d0d/a08250" ],
-    [ "Acore::Hyperlinks::ItemLinkData", "d0/d0b/a08254.html", "d0/d0b/a08254" ],
-    [ "Acore::Hyperlinks::QuestLinkData", "d5/df4/a08258.html", "d5/df4/a08258" ],
-    [ "Acore::Hyperlinks::TalentLinkData", "dd/d7d/a08262.html", "dd/d7d/a08262" ],
-    [ "Acore::Hyperlinks::TradeskillLinkData", "d4/df2/a08266.html", "d4/df2/a08266" ],
-    [ "Acore::Hyperlinks::FoundLinkData", "dd/d4b/a08270.html", "dd/d4b/a08270" ],
-    [ "Acore::Hyperlinks::LinkTags::base_tag", "d8/d43/a08274.html", "d8/d43/a08274" ],
-    [ "Acore::Hyperlinks::LinkTags::achievement", "d7/dac/a08278.html", "d7/dac/a08278" ],
-    [ "Acore::Hyperlinks::LinkTags::enchant", "df/d51/a08282.html", "df/d51/a08282" ],
-    [ "Acore::Hyperlinks::LinkTags::found", "d8/d84/a08286.html", "d8/d84/a08286" ],
-    [ "Acore::Hyperlinks::LinkTags::glyph", "da/da7/a08290.html", "da/da7/a08290" ],
-    [ "Acore::Hyperlinks::LinkTags::item", "d8/d21/a08294.html", "d8/d21/a08294" ],
-    [ "Acore::Hyperlinks::LinkTags::quest", "dd/d5f/a08298.html", "dd/d5f/a08298" ],
-    [ "Acore::Hyperlinks::LinkTags::spell", "da/d2d/a08302.html", "da/d2d/a08302" ],
-    [ "Acore::Hyperlinks::LinkTags::talent", "d3/d02/a08306.html", "d3/d02/a08306" ],
-    [ "Acore::Hyperlinks::LinkTags::trade", "d6/da3/a08310.html", "d6/da3/a08310" ],
-    [ "Acore::Hyperlinks::HyperlinkColor", "da/dfc/a08314.html", "da/dfc/a08314" ],
-    [ "Acore::Hyperlinks::HyperlinkInfo", "d0/dc4/a08318.html", "d0/dc4/a08318" ],
-    [ "make_base_tag", "db/d78/a01427.html#a73cc3b14b22adefd27d34c736cafa480", null ],
-    [ "CheckAllLinks", "db/d78/a01427.html#a02761d9aa335689ff1b8dc1155b2a3c6", null ],
-    [ "make_base_tag", "db/d78/a01427.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a", null ],
-    [ "make_base_tag", "db/d78/a01427.html#a0803de4bbc9edad4f5bb2afc3c242dca", null ],
-    [ "make_base_tag", "db/d78/a01427.html#aa8156f2996632fd42a2e39b974426995", null ],
-    [ "make_base_tag", "db/d78/a01427.html#a321da5d63921d41c561a1460929ac730", null ],
-    [ "make_base_tag", "db/d78/a01427.html#afc9dbd840048c0031231bcdb7b2fcf04", null ],
-    [ "make_base_tag", "db/d78/a01427.html#a7083d48423b83ff39095030678b29877", null ],
-    [ "make_base_tag", "db/d78/a01427.html#aae3a6cd0fbf426755d93a387882ff767", null ],
-    [ "make_base_tag", "db/d78/a01427.html#aa0ca4a111a856da9091a377934f8de93", null ],
-    [ "make_base_tag", "db/d78/a01427.html#a9990339040b491e108594df755f03a6c", null ],
-    [ "make_base_tag", "db/d78/a01427.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec", null ],
-    [ "make_base_tag", "db/d78/a01427.html#a32cfa3bc188d1b731f3e9e5dcc2de664", null ],
-    [ "make_base_tag", "db/d78/a01427.html#ae0c637d10c728f04dc2468c15c3f8dca", null ],
-    [ "make_base_tag", "db/d78/a01427.html#abe0a588f1c0e66d33c8bc7a7d0a04459", null ],
-    [ "ParseSingleHyperlink", "db/d78/a01427.html#a2c5596879f4531eeedbe15d1e4987918", null ]
+    [ "GuidLinkType", "db/d78/a01427.html#a7c58fae67eb0c9a1b6f18b403121b2f5", [
+      [ "SPELL_LINK_PLAYER", "db/d78/a01427.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028", null ],
+      [ "SPELL_LINK_CREATURE", "db/d78/a01427.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8", null ],
+      [ "SPELL_LINK_GAMEOBJECT", "db/d78/a01427.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7", null ]
+    ] ],
+    [ "SpellLinkType", "db/d78/a01427.html#a39157073e48b2e925e7227a28d1f09f9", [
+      [ "SPELL_LINK_SPELL", "db/d78/a01427.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd", null ],
+      [ "SPELL_LINK_TALENT", "db/d78/a01427.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56", null ],
+      [ "SPELL_LINK_ENCHANT", "db/d78/a01427.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654", null ],
+      [ "SPELL_LINK_TRADE", "db/d78/a01427.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919", null ],
+      [ "SPELL_LINK_GLYPH", "db/d78/a01427.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e", null ]
+    ] ],
+    [ "guidKeys", "db/d78/a01427.html#ae39447b85bcee503ddb354d2950d638a", null ],
+    [ "spellKeys", "db/d78/a01427.html#a493fba30c4b66be28baeb971844ea593", null ]
 ];

@@ -1,6 +1,6 @@
 var a09569 =
 [
-    [ "Visit", "dc/d83/a09569.html#ae01a3252ecf5083da0c5be5d4a845636", null ],
-    [ "Visit", "dc/d83/a09569.html#a7624bb11d51edffdc49fc9a95df847ef", null ],
-    [ "Visit", "dc/d83/a09569.html#a412c9cbe22dc645c87e002ddb1772a90", null ]
+    [ "lang_id", "dc/d83/a09569.html#a1fa900a467834103ac595a8a96dd28c0", null ],
+    [ "skill_id", "dc/d83/a09569.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
+    [ "spell_id", "dc/d83/a09569.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
 ];

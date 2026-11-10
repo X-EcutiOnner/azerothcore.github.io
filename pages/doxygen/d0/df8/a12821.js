@@ -1,8 +1,22 @@
 var a12821 =
 [
-    [ "boss_eviscerator", "d0/df8/a12821.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
-    [ "DamageTaken", "d0/df8/a12821.html#af31de4643026e44c80252e156a39bc69", null ],
-    [ "JustEngagedWith", "d0/df8/a12821.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
-    [ "UpdateAI", "d0/df8/a12821.html#af974908902d30b8144d1b734e795d6ea", null ],
-    [ "SpellShieldReady", "d0/df8/a12821.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
+    [ "npc_grimstone", "d0/df8/a12821.html#a03d41532eb767f0e09982ede11f0fb80", null ],
+    [ "HandleGameObject", "d0/df8/a12821.html#a66240c764417e9d5750e3dcce8167384", null ],
+    [ "JustSummoned", "d0/df8/a12821.html#aea0c13489f4f17008b44d054b9a1cf3a", null ],
+    [ "Reset", "d0/df8/a12821.html#a4d1bc515c8302157e61f8fd4ad17b701", null ],
+    [ "SpawnWave", "d0/df8/a12821.html#a85b795cfd49343d300cdd1b1f028e141", null ],
+    [ "SummonBoss", "d0/df8/a12821.html#a5129e8d6f753fa0dc2f387bce2a76c24", null ],
+    [ "SummonedCreatureDies", "d0/df8/a12821.html#a0a55b772ca85554507ed36ba620c14c4", null ],
+    [ "UpdateEscortAI", "d0/df8/a12821.html#a848b405425ef4bb3dc20a4ec4ea081af", null ],
+    [ "updateReset", "d0/df8/a12821.html#afe73a3b9a9e7c9e24ea5ba09c23c05fa", null ],
+    [ "WaypointReached", "d0/df8/a12821.html#a4d381cecdada9577012e2c7914b7c5f9", null ],
+    [ "WaypointReached", "d0/df8/a12821.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "BossSpawnId", "d0/df8/a12821.html#a145a7bbecf4e061f44355948367f33bc", null ],
+    [ "eventPhase", "d0/df8/a12821.html#a0cb794b7343a42cc55c1be563acd4e52", null ],
+    [ "eventTimer", "d0/df8/a12821.html#aa246b08433ad44365e2bfe47a9025001", null ],
+    [ "instance", "d0/df8/a12821.html#a119ff38285b880d33266a7340ff1fe53", null ],
+    [ "MobSpawnId", "d0/df8/a12821.html#a5a54226cc0ada2095dccf93b7a18bae3", null ],
+    [ "resetTimer", "d0/df8/a12821.html#a1995b112b7e0735d0ab2d367150f05d3", null ],
+    [ "summons", "d0/df8/a12821.html#a7ed3101f9d8e81d819a7d73581952508", null ],
+    [ "theldrenEvent", "d0/df8/a12821.html#a720b408aa7e1a033c7ff28e65a505eea", null ]
 ];

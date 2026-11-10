@@ -1,7 +1,6 @@
 var a30113 =
 [
-    [ "SetUp", "d9/d42/a30113.html#a63d060f7643fc3d35eb4f0fd082f1af4", null ],
-    [ "TearDown", "d9/d42/a30113.html#a685e2dbb620ab792ed3e952cf2b5dab8", null ],
-    [ "_originalWorld", "d9/d42/a30113.html#aec7f3f7af8f936fb2419cee4be837eb7", null ],
-    [ "_worldMock", "d9/d42/a30113.html#a2d10e74ba4f778b395a48eb68a586711", null ]
+    [ "SetUp", "d9/d42/a30113.html#ac7db18817aa330aedefd1f688d53219b", null ],
+    [ "TearDown", "d9/d42/a30113.html#a0cb70a624f55509497866a1fac787800", null ],
+    [ "_previousWorld", "d9/d42/a30113.html#afec905a799e8fe7522a2fa6756fa41d9", null ]
 ];

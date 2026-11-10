@@ -1,13 +1,10 @@
 var a02672 =
 [
-    [ "AreaBoundary", "d6/d49/a10255.html", "d6/d49/a10255" ],
-    [ "AreaBoundary::DoublePosition", "d1/d6f/a10259.html", "d1/d6f/a10259" ],
-    [ "RectangleBoundary", "db/d17/a10263.html", "db/d17/a10263" ],
-    [ "CircleBoundary", "da/dd8/a10267.html", "da/dd8/a10267" ],
-    [ "EllipseBoundary", "db/d7e/a10271.html", "db/d7e/a10271" ],
-    [ "TriangleBoundary", "d1/d80/a10275.html", "d1/d80/a10275" ],
-    [ "ParallelogramBoundary", "d9/dff/a10279.html", "d9/dff/a10279" ],
-    [ "ZRangeBoundary", "dc/dfb/a10283.html", "dc/dfb/a10283" ],
-    [ "BoundaryUnionBoundary", "d9/d95/a10287.html", "d9/d95/a10287" ],
-    [ "BoundaryIntersectBoundary", "d1/d86/a10291.html", "d1/d86/a10291" ]
+    [ "AddGossipItemFor", "d0/d9f/a02672.html#a21e32e886a589c9093660b3c4c58f72c", null ],
+    [ "AddGossipItemFor", "d0/d9f/a02672.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5", null ],
+    [ "AddGossipItemFor", "d0/d9f/a02672.html#acd7e8e52a911742a99728cf9408e23b8", null ],
+    [ "ClearGossipMenuFor", "d0/d9f/a02672.html#af077a82741577a63a075c7d40b3b3dc5", null ],
+    [ "CloseGossipMenuFor", "d0/d9f/a02672.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
+    [ "SendGossipMenuFor", "d0/d9f/a02672.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
+    [ "SendGossipMenuFor", "d0/d9f/a02672.html#ab43ecd551b53630add88fbf882236f78", null ]
 ];

@@ -1,8 +1,5 @@
 var a19249 =
 [
-    [ "npc_vampiric_fiend", "de/d7c/a19249.html#a4ddef98ac3b9d166980243b0dbe821f7", null ],
-    [ "EnterEvadeMode", "de/d7c/a19249.html#ac9f90234d1f100c671f70b249a339314", null ],
-    [ "JustEngagedWith", "de/d7c/a19249.html#a6167d1529b88c3b85cf21547b89bbc98", null ],
-    [ "UpdateAI", "de/d7c/a19249.html#aba3a8c1bfaa1f841f820e9540bc2267a", null ],
-    [ "_scheduler", "de/d7c/a19249.html#a8978bf1ffc6009b29c738ebe3232887f", null ]
+    [ "npc_darkfallen_blood_knight", "de/d7c/a19249.html#ad5b43cff525dc18855a0b51a23fa6fd0", null ],
+    [ "ScheduleSpells", "de/d7c/a19249.html#ad275e8b9562587a61b8db4440eaf43b3", null ]
 ];

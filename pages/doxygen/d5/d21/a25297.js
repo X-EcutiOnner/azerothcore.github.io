@@ -1,6 +1,6 @@
 var a25297 =
 [
-    [ "OnPeriodic", "d5/d21/a25297.html#a5fdf44f34765d0386d5c5490620c944a", null ],
-    [ "PrepareAuraScript", "d5/d21/a25297.html#a3c3044795e183eef2c801781100b11c7", null ],
-    [ "Register", "d5/d21/a25297.html#a1221c3287c3fd7add356e84430508684", null ]
+    [ "CheckLevel", "d5/d21/a25297.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
+    [ "PrepareSpellScript", "d5/d21/a25297.html#abc2bcce83810661ab462f56594066df3", null ],
+    [ "Register", "d5/d21/a25297.html#add6731563bd9a26d8f286bd29ffc8709", null ]
 ];

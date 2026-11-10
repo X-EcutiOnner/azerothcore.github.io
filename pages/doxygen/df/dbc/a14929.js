@@ -1,6 +1,11 @@
 var a14929 =
 [
-    [ "npc_cw_area_triggerAI", "dd/d6c/a14933.html", "dd/d6c/a14933" ],
-    [ "npc_cw_area_trigger", "df/dbc/a14929.html#a11af64ac4ab078566bf8f68a36781939", null ],
-    [ "GetAI", "df/dbc/a14929.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
+    [ "npc_winterfin_playmate", "df/dbc/a14929.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
+    [ "MoveInLineOfSight", "df/dbc/a14929.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
+    [ "Reset", "df/dbc/a14929.html#aae6b51c22dc0448608c1cf9412565e25", null ],
+    [ "UpdateAI", "df/dbc/a14929.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
+    [ "orphanGUID", "df/dbc/a14929.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
+    [ "phase", "df/dbc/a14929.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
+    [ "playerGUID", "df/dbc/a14929.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
+    [ "timer", "df/dbc/a14929.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
 ];

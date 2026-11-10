@@ -1,6 +1,6 @@
 var a25169 =
 [
-    [ "PrepareSpellScript", "d6/d89/a25169.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
-    [ "RecalculateDamage", "d6/d89/a25169.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
-    [ "Register", "d6/d89/a25169.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
+    [ "CalculateAmount", "d6/d89/a25169.html#af8b61cade7f9daae4b982c2a4c8b4a73", null ],
+    [ "PrepareAuraScript", "d6/d89/a25169.html#a3e1d132745f4739b8a3423cb55b0fc9d", null ],
+    [ "Register", "d6/d89/a25169.html#a642ce3a74d7163b264ed4674e14fafbc", null ]
 ];

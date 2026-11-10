@@ -1,7 +1,6 @@
 var a27477 =
 [
-    [ "CalcPeriodic", "da/d7c/a27477.html#af787d0c8738284e757f808e7d138bdc6", null ],
-    [ "PrepareAuraScript", "da/d7c/a27477.html#a383db196133bbecee06fe443fdb1bc24", null ],
-    [ "Register", "da/d7c/a27477.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
-    [ "Update", "da/d7c/a27477.html#af3f4a7b82e099313d609df7f85f02d00", null ]
+    [ "HandleScript", "da/d7c/a27477.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
+    [ "PrepareSpellScript", "da/d7c/a27477.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
+    [ "Register", "da/d7c/a27477.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
 ];

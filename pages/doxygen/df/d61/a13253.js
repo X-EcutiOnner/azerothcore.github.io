@@ -1,10 +1,9 @@
 var a13253 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "df/d61/a13253.html#a0080fdf557ad8159a8934dce5b39a535", null ],
-    [ "OnCreatureCreate", "df/d61/a13253.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
-    [ "OnGameObjectCreate", "df/d61/a13253.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
-    [ "ReadSaveDataMore", "df/d61/a13253.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
-    [ "SetData", "df/d61/a13253.html#af800a1906c532f61f0299f8aa9359a66", null ],
-    [ "WriteSaveDataMore", "df/d61/a13253.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
-    [ "_encounters", "df/d61/a13253.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
+    [ "npc_mc_core_hound", "df/d61/a13253.html#a4768b06f344d6bbf7e3d0cef16e1b75d", null ],
+    [ "DamageTaken", "df/d61/a13253.html#a1b9cd2776b1a3f363915fc91e1e34414", null ],
+    [ "Reset", "df/d61/a13253.html#ab2bfa697f694b5b35129b361e171e2a4", null ],
+    [ "UpdateAI", "df/d61/a13253.html#a9c5081e9c622eb0679cd396caed002b9", null ],
+    [ "instance", "df/d61/a13253.html#a54da081c07184ebd5eed1ffe9a1dd8ee", null ],
+    [ "serratedBiteTimer", "df/d61/a13253.html#afbe528a9f7d2afc6d33bf11f589d9dea", null ]
 ];

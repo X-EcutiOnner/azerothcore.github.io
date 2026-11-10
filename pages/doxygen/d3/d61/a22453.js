@@ -1,10 +1,7 @@
 var a22453 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d3/d61/a22453.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "ArmHiddenState", "d3/d61/a22453.html#ac397eb8580e523214dec0cf9b15b18f5", null ],
-    [ "DoAction", "d3/d61/a22453.html#a0357600a1ed7bc17cd5dfdf822c5296b", null ],
-    [ "JustEngagedWith", "d3/d61/a22453.html#ab95266d60769aa4099ca0f1bf678f237", null ],
-    [ "JustRespawned", "d3/d61/a22453.html#ac59dcf8cd9c19f2bf4a1bdba6f21b9d1", null ],
-    [ "Reset", "d3/d61/a22453.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "UpdateAI", "d3/d61/a22453.html#abb28428b77beada6a378541ba11d090b", null ]
+    [ "HandleSendEvent", "d3/d61/a22453.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "d3/d61/a22453.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "d3/d61/a22453.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "d3/d61/a22453.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

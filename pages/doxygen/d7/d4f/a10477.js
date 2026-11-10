@@ -1,7 +1,6 @@
 var a10477 =
 [
-    [ "Finalize", "d7/d4f/a10477.html#a90c8b42ef67968bf58acae5678dc7496", null ],
-    [ "Initialize", "d7/d4f/a10477.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
-    [ "Reset", "d7/d4f/a10477.html#a6db99ea9863dc60d032bacda37afa078", null ],
-    [ "Update", "d7/d4f/a10477.html#af044c8725ef11e8a152987225521ef8b", null ]
+    [ "IsNeutralOrFriendlyToTeam", "d7/d4f/a10477.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
+    [ "safeLocId", "d7/d4f/a10477.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
+    [ "teamId", "d7/d4f/a10477.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
 ];

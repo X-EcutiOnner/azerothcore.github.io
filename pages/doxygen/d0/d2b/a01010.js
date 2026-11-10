@@ -1,6 +1,8 @@
 var a01010 =
 [
-    [ "ConcatenateDungeons", "d0/d2b/a01010.html#aeaebe53b818ad905c96d2cc56c18b7ca", null ],
-    [ "GetRolesString", "d0/d2b/a01010.html#adc336ffd636b51b0052448739671d46b", null ],
-    [ "GetStateString", "d0/d2b/a01010.html#a9d097d73fe8f096de2098ac74022b643", null ]
+    [ "StoredLootItem", "d1/d4a/a10209.html", "d1/d4a/a10209" ],
+    [ "LootItemStorage", "d2/d2c/a10213.html", "d2/d2c/a10213" ],
+    [ "sLootItemStorage", "d0/d2b/a01010.html#a06515a8a4bd76cd02aa0ab99d3d7c64e", null ],
+    [ "LootItemContainer", "d0/d2b/a01010.html#a06cc23df363d1d767959d7ab5ec29ad5", null ],
+    [ "StoredLootItemList", "d0/d2b/a01010.html#aa16defe92374d7db2d28958ee8fce21d", null ]
 ];

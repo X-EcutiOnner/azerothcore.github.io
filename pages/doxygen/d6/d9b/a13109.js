@@ -1,5 +1,7 @@
 var a13109 =
 [
-    [ "at_orb_of_command", "d6/d9b/a13109.html#a1f0b196362b76e050eba66d3ce612623", null ],
-    [ "OnTrigger", "d6/d9b/a13109.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
+    [ "HandleDummy", "d6/d9b/a13109.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
+    [ "PrepareSpellScript", "d6/d9b/a13109.html#a5308de47023b89e4ff8680158a502ac0", null ],
+    [ "Register", "d6/d9b/a13109.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
+    [ "Validate", "d6/d9b/a13109.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
 ];

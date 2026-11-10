@@ -1,4 +1,4 @@
 var a01355 =
 [
-    [ "ScriptRegistry< AllGameObjectScript >", "d8/d4e/a01355.html#a60896f2f8318a9eeba3e23357a17292f", null ]
+    [ "ScriptRegistry< GameObjectScript >", "d8/d4e/a01355.html#ae9014c60529a1387cccce404773fd736", null ]
 ];

@@ -1,11 +1,6 @@
 var a13237 =
 [
-    [ "boss_mr_smiteAI", "d0/d71/a13237.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
-    [ "JustEngagedWith", "d0/d71/a13237.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
-    [ "MovementInform", "d0/d71/a13237.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
-    [ "Reset", "d0/d71/a13237.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
-    [ "UpdateAI", "d0/d71/a13237.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
-    [ "events", "d0/d71/a13237.html#a3471692c39233f3c25cdc875c0078f2c", null ],
-    [ "health34", "d0/d71/a13237.html#adc83683c2f6a7073469cd2f5aa325717", null ],
-    [ "health67", "d0/d71/a13237.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
+    [ "boss_sulfuron", "d0/d71/a13237.html#a7ede84fab05e5cb008036be559c3c799", null ],
+    [ "ExecuteEvent", "d0/d71/a13237.html#a5db50a398c704d8276566c1d74111d19", null ],
+    [ "JustEngagedWith", "d0/d71/a13237.html#a320f58043ee525656a7c2fe94a2a4371", null ]
 ];

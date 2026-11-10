@@ -1,5 +1,6 @@
 var a23849 =
 [
-    [ "at_rp_nethekurse", "de/d29/a23849.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "de/d29/a23849.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "HandleHit", "de/d29/a23849.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
+    [ "PrepareSpellScript", "de/d29/a23849.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
+    [ "Register", "de/d29/a23849.html#acb1b681f587817614c2b3684585369db", null ]
 ];

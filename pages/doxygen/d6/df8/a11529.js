@@ -1,7 +1,12 @@
 var a11529 =
 [
-    [ "PlayTimeWarning", "d6/df8/a11529.html#a807f58276f79a3cd44276ae13bec996a", null ],
-    [ "Write", "d6/df8/a11529.html#ac82f865e5d1bec61be8d1417fa1f864c", null ],
-    [ "Flag", "d6/df8/a11529.html#aa6cfe76266f1ee83e72661ccd29223b7", null ],
-    [ "PlayTimeRemaining", "d6/df8/a11529.html#a8b540e6721fa017284783e0d510aac2f", null ]
+    [ "StartMirrorTimer", "d6/df8/a11529.html#a86039d4a721636477f266712682883f0", null ],
+    [ "StartMirrorTimer", "d6/df8/a11529.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
+    [ "Write", "d6/df8/a11529.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
+    [ "MaxValue", "d6/df8/a11529.html#a3f26c682d547be40d2800eff2189348d", null ],
+    [ "Paused", "d6/df8/a11529.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
+    [ "Scale", "d6/df8/a11529.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
+    [ "SpellID", "d6/df8/a11529.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
+    [ "Timer", "d6/df8/a11529.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
+    [ "Value", "d6/df8/a11529.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
 ];

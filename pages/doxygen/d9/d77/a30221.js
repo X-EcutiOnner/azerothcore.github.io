@@ -1,9 +1,9 @@
 var a30221 =
 [
-    [ "CreateSpellInfo", "d9/d77/a30221.html#a83fe2676ce2ae1374600de46967aeae5", null ],
-    [ "SetUp", "d9/d77/a30221.html#abd89fcaf8f8c38b5d992a21430f9ecdb", null ],
-    [ "TearDown", "d9/d77/a30221.html#acb5697251398888a4cc282c359cfc4ec", null ],
-    [ "_originalWorld", "d9/d77/a30221.html#ae44f699ee1acedae6ead179c3f012594", null ],
-    [ "_spellInfos", "d9/d77/a30221.html#ac06654664782d249c4233f79990c817b", null ],
-    [ "_worldMock", "d9/d77/a30221.html#a98d5f98dfc4d63705920b7b164530022", null ]
+    [ "defaultHitMask", "d9/d77/a30221.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
+    [ "defaultSpellPhaseMask", "d9/d77/a30221.html#af927bd441959e8e122648de610398c65", null ],
+    [ "defaultSpellTypeMask", "d9/d77/a30221.html#aa64e6ad192c41998b368b908c499574d", null ],
+    [ "name", "d9/d77/a30221.html#a3916a9a0f1cb0b599b35619c1a89f6eb", null ],
+    [ "procFlag", "d9/d77/a30221.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
+    [ "requiresSpellPhase", "d9/d77/a30221.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
 ];

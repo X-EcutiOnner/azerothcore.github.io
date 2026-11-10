@@ -1,18 +1,13 @@
 var a21509 =
 [
-    [ "boss_ymironAI", "d2/d05/a21509.html#a3a4d81b7a0f3f27f94fea60eff043696", null ],
-    [ "EnterEvadeMode", "d2/d05/a21509.html#a8fbc8526e82efea3e2eddedc421b85a2", null ],
-    [ "JustDied", "d2/d05/a21509.html#ad1da47485b8f17ea550a1b6bc943eb9a", null ],
-    [ "JustEngagedWith", "d2/d05/a21509.html#aed0cc8f034454db0046a5adce7f9d8a0", null ],
-    [ "KilledUnit", "d2/d05/a21509.html#ae1d69402520e1cf4d3a17c0ca9af35bd", null ],
-    [ "MovementInform", "d2/d05/a21509.html#a6e3c14da21d45bb7ddfba25d4487bba7", null ],
-    [ "Reset", "d2/d05/a21509.html#a2b6619a51641a82109e98fd4decd22e3", null ],
-    [ "SpellHitTarget", "d2/d05/a21509.html#a2f2782926ee9a59fc5188d02347f9ca8", null ],
-    [ "UpdateAI", "d2/d05/a21509.html#aaa447c1c6092bfc7c1d117d32b2c5673", null ],
-    [ "BoatNum", "d2/d05/a21509.html#ac5663f283d1a97fea1646c1ec230a7dc", null ],
-    [ "BoatOrder", "d2/d05/a21509.html#a319095910309b0a78d321c4d33994542", null ],
-    [ "events", "d2/d05/a21509.html#af2d8d9a2ec7ec5876c99ae909d3befd2", null ],
-    [ "pInstance", "d2/d05/a21509.html#a115529fcbc5a0c8b57152be49915d575", null ],
-    [ "summons", "d2/d05/a21509.html#aaa5d90d3940c84adebce772c594b0ee2", null ],
-    [ "summons2", "d2/d05/a21509.html#aa82280ec0e02924d653b62298ed7e471", null ]
+    [ "MoveX", "d2/d05/a21509.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d2/d05/a21509.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d2/d05/a21509.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d2/d05/a21509.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d2/d05/a21509.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d2/d05/a21509.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d2/d05/a21509.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d2/d05/a21509.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d2/d05/a21509.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d2/d05/a21509.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

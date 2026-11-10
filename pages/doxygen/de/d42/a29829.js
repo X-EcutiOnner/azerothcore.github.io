@@ -1,13 +1,8 @@
 var a29829 =
 [
-    [ "AuraConfig", "d8/dd2/a29833.html", "d8/dd2/a29833" ],
-    [ "ProcRecord", "de/d88/a29837.html", "de/d88/a29837" ],
-    [ "ProcChainGuardSimulator", "de/d42/a29829.html#ad729e5f44922b9b6c44c9a4d732818e7", null ],
-    [ "CanProc", "de/d42/a29829.html#a267703c4a51bf3e8020e3298c85b74b3", null ],
-    [ "GetProcDeep", "de/d42/a29829.html#afe8e4320a882c474f883347860ad4d47", null ],
-    [ "GetRecords", "de/d42/a29829.html#ae21baa9f43fb78e30dedfc6608684e9e", null ],
-    [ "SetCantProc", "de/d42/a29829.html#ab479d1a30e547ce04775abe397cfea14", null ],
-    [ "SimulateTriggerAurasProc", "de/d42/a29829.html#ab0a0af1461f0f94a87273f468bc5454d", null ],
-    [ "_procDeep", "de/d42/a29829.html#a5fd0de564b32520971082df9620d40b4", null ],
-    [ "_records", "de/d42/a29829.html#abdecfb4d1da86f5a5d4cd7c92c228617", null ]
+    [ "auraHasCanProcFromProcs", "de/d42/a29829.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
+    [ "isTriggered", "de/d42/a29829.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
+    [ "procAuraSpellId", "de/d42/a29829.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
+    [ "spellHasNotAProc", "de/d42/a29829.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
+    [ "triggeredByAuraSpellId", "de/d42/a29829.html#ad62562e342e1d090e3f26f7c40a35795", null ]
 ];

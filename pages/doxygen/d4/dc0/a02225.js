@@ -1,14 +1,21 @@
 var a02225 =
 [
-    [ "npc_cairne_bloodhoof", "d1/dc4/a16326.html", "d1/dc4/a16326" ],
-    [ "npc_cairne_bloodhoof::npc_cairne_bloodhoofAI", "d9/d2d/a16330.html", "d9/d2d/a16330" ],
-    [ "CairneBloodhoof", "d4/dc0/a02225.html#a1d11da63be1309061cba3b5e10f2bbd9", [
-      [ "SPELL_BERSERKER_CHARGE", "d4/dc0/a02225.html#a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66", null ],
-      [ "SPELL_CLEAVE", "d4/dc0/a02225.html#a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
-      [ "SPELL_MORTAL_STRIKE", "d4/dc0/a02225.html#a1d11da63be1309061cba3b5e10f2bbd9a7794ace87705e2898f8b60f1f5228110", null ],
-      [ "SPELL_THUNDERCLAP", "d4/dc0/a02225.html#a1d11da63be1309061cba3b5e10f2bbd9a7f4e66bb0a1b5b2705975420f645b16e", null ],
-      [ "SPELL_UPPERCUT", "d4/dc0/a02225.html#a1d11da63be1309061cba3b5e10f2bbd9aec5ad6f4170f697acf9499e4e06bb065", null ],
-      [ "SPELL_CAIRNES_HOOFPRINT", "d4/dc0/a02225.html#a1d11da63be1309061cba3b5e10f2bbd9aa5dbce7c49b1794438bd8cfc874c7104", null ]
+    [ "Trainer::Spell", "d2/d39/a08649.html", "d2/d39/a08649" ],
+    [ "Trainer::Trainer", "d1/d7f/a08653.html", "d1/d7f/a08653" ],
+    [ "FailReason", "d4/dc0/a02225.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
+      [ "Unavailable", "d4/dc0/a02225.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "NotEnoughMoney", "d4/dc0/a02225.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
+      [ "NotEnoughSkill", "d4/dc0/a02225.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
     ] ],
-    [ "AddSC_thunder_bluff", "d4/dc0/a02225.html#ae5d674fbd346082d81f6f6720eed1081", null ]
+    [ "SpellState", "d4/dc0/a02225.html#a34dc7b354e539f94e4c8a4cbd0711758", [
+      [ "Available", "d4/dc0/a02225.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
+      [ "Unavailable", "d4/dc0/a02225.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "Known", "d4/dc0/a02225.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
+    ] ],
+    [ "Type", "d4/dc0/a02225.html#a636cc62a0635fc1566fb574ebe9941a9", [
+      [ "Class", "d4/dc0/a02225.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "Mount", "d4/dc0/a02225.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
+      [ "Tradeskill", "d4/dc0/a02225.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
+      [ "Pet", "d4/dc0/a02225.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
+    ] ]
 ];

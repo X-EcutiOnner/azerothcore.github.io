@@ -1,6 +1,4 @@
 var a31444 =
 [
-    [ "ComputeBaseUnitDim", "d3/d29/a31444.html#ac84de12da6296e2f505870fda60891b1", null ],
-    [ "isCurrentDirectory", "d3/d29/a31444.html#ad9121353c9023aea25c21180346e97ad", null ],
-    [ "MakeTileKey", "d3/d29/a31444.html#a45540263b1795bfc48c91a117c239a6c", null ]
+    [ "gOpenArchives", "d3/d29/a31444.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ]
 ];

@@ -1,5 +1,5 @@
 var a04196 =
 [
-    [ "modify_commandscript", "d7/de8/a12642.html", "d7/de8/a12642" ],
-    [ "AddSC_modify_commandscript", "d4/dd4/a04196.html#a9cbb6ad3c630cbeb9ba39b4552f72e87", null ]
+    [ "gear_commandscript", "d1/d79/a12585.html", "d1/d79/a12585" ],
+    [ "AddSC_gear_commandscript", "d4/dd4/a04196.html#a8f5ae2609cea7d63d76141e1a5feaf27", null ]
 ];

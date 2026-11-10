@@ -1,9 +1,7 @@
 var a12697 =
 [
-    [ "send_commandscript", "d8/d33/a12697.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
-    [ "GetCommands", "d8/d33/a12697.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
-    [ "HandleSendItemsCommand", "d8/d33/a12697.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
-    [ "HandleSendMailCommand", "d8/d33/a12697.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
-    [ "HandleSendMessageCommand", "d8/d33/a12697.html#a91017e6171ac9e4dfff6c2036228de47", null ],
-    [ "HandleSendMoneyCommand", "d8/d33/a12697.html#a1b1e995a2854e338866527ee9634d544", null ]
+    [ "FoundObjects", "d8/d33/a12697.html#a061c4e27b4a9646bc3636b7642ad9fce", null ],
+    [ "X", "d8/d33/a12697.html#a9a184093c44a45addd7a7bae891496c0", null ],
+    [ "Y", "d8/d33/a12697.html#a86ac02df716e991f629647941dcb29cb", null ],
+    [ "Z", "d8/d33/a12697.html#a50477b2e983580c94b348f7e408a8363", null ]
 ];

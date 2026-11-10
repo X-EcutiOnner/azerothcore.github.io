@@ -1,8 +1,6 @@
 var a16593 =
 [
-    [ "npc_twilight_summon", "d7/db3/a16593.html#a34697edd1af94814862a50a038625f93", null ],
-    [ "DoAction", "d7/db3/a16593.html#a78ef5af35959e8bedbf7a23569a2f8bd", null ],
-    [ "Reset", "d7/db3/a16593.html#aa909fac05e93a78d3f70222fb82a6841", null ],
-    [ "UpdateAI", "d7/db3/a16593.html#afe47f7af23aa7ef5b59473579c649859", null ],
-    [ "fadeArmorTimer", "d7/db3/a16593.html#a998e2efd9e25915d32b953d684352511", null ]
+    [ "HandleScriptEffect", "d7/db3/a16593.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d7/db3/a16593.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d7/db3/a16593.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

@@ -1,11 +1,10 @@
 var a10249 =
 [
-    [ "DeleteEmptyExpiredMail", "d7/d72/a10249.html#a3cd0e2570c8c684d09931331dfb5837f", null ],
-    [ "instance", "d7/d72/a10249.html#abe24c4d840d5f2b05958a44cd63b8b35", null ],
-    [ "LoadMailCounts", "d7/d72/a10249.html#a6786cc5036259c23256b669da1146012", null ],
-    [ "OnMailDeleted", "d7/d72/a10249.html#a699bf593d7f00470878504141e7fe3df", null ],
-    [ "OnMailReturned", "d7/d72/a10249.html#ac355df32c38e8619cf18cee283894c64", null ],
-    [ "OnMailSent", "d7/d72/a10249.html#ad22a9a0cf09a5dc7acaf14dfdd0bcdbf", null ],
-    [ "RecountMailCount", "d7/d72/a10249.html#a595b8b31c9695c8bbec64e2f982853d0", null ],
-    [ "ReturnOrDeleteOldMails", "d7/d72/a10249.html#ab4ef5f6ca91286c732b257f267b06f14", null ]
+    [ "iterator", "d7/d72/a10249.html#a9fada63aa17222fc5e216f3904affafd", null ],
+    [ "begin", "d7/d72/a10249.html#aee3a4701c5bc51f4028fe53f18675989", null ],
+    [ "end", "d7/d72/a10249.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
+    [ "getFirst", "d7/d72/a10249.html#ae47bba95a17db31a42231da948245387", null ],
+    [ "getLast", "d7/d72/a10249.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
+    [ "rbegin", "d7/d72/a10249.html#af68f1d93a80e13976798dfed0063a1e4", null ],
+    [ "rend", "d7/d72/a10249.html#a92c30fb269bc99820b6964a99ee86d98", null ]
 ];

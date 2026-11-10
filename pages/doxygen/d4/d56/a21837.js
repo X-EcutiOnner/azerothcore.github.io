@@ -1,7 +1,6 @@
 var a21837 =
 [
-    [ "npc_warmage_violetstand", "d4/d56/a21837.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d4/d56/a21837.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d4/d56/a21837.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d4/d56/a21837.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "HandleScriptEffect", "d4/d56/a21837.html#a6ba170146e6b66e00b98bb63baf3d710", null ],
+    [ "PrepareSpellScript", "d4/d56/a21837.html#a29f6a1a5057f1e071db855292500b99c", null ],
+    [ "Register", "d4/d56/a21837.html#a88b70634327bf5c66555149822a2e504", null ]
 ];

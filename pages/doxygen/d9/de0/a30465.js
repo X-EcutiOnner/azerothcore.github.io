@@ -1,26 +1,9 @@
 var a30465 =
 [
-    [ "TerrainBuilder", "d9/de0/a30465.html#ac851ab47fd43ed617fd3fdcb84287acd", null ],
-    [ "~TerrainBuilder", "d9/de0/a30465.html#a731cd606fd85b176b116512a2ccf86ee", null ],
-    [ "TerrainBuilder", "d9/de0/a30465.html#a08434e9974012ab90d0d6ff6a2bad36a", null ],
-    [ "cleanVertices", "d9/de0/a30465.html#a7a3f53367758b6effcc7899894c148de", null ],
-    [ "copyIndices", "d9/de0/a30465.html#a5f4139193ad3708e234414131aa3be55", null ],
-    [ "copyIndices", "d9/de0/a30465.html#a8d5bfc11e790aae74d7b81fb7db27061", null ],
-    [ "copyVertices", "d9/de0/a30465.html#a26207130b8e5807986b36ea148e84457", null ],
-    [ "getHeightCoord", "d9/de0/a30465.html#aecdd8a0ae2dab523925111197afe8835", null ],
-    [ "getHeightTriangle", "d9/de0/a30465.html#ab15913dd11a60078205a9fc76ce99203", null ],
-    [ "getLiquidCoord", "d9/de0/a30465.html#ae29c5c0538049382e6b75d0393a7714f", null ],
-    [ "getLiquidType", "d9/de0/a30465.html#a2d7e5ef7722ce2f78fda293af4e2d08d", null ],
-    [ "getLoopVars", "d9/de0/a30465.html#af47da985fc495b4a5fd8b32774e36b82", null ],
-    [ "isHole", "d9/de0/a30465.html#a219be095026945890d4f76163903ea2c", null ],
-    [ "loadHeightMap", "d9/de0/a30465.html#a5ddd947c48dae0acf29c952eca5ebe56", null ],
-    [ "loadMap", "d9/de0/a30465.html#ab6f3b100ee1a40173c2e77c6ee5a0da9", null ],
-    [ "loadMap", "d9/de0/a30465.html#a4071ed1464f7beb4d8567def275139e4", null ],
-    [ "loadOffMeshConnections", "d9/de0/a30465.html#ade055bfcdcedb36fca7fc35516c5586f", null ],
-    [ "loadVMap", "d9/de0/a30465.html#ae816d445265bde3c3866069bcd9e5184", null ],
-    [ "transform", "d9/de0/a30465.html#a6c25e949e12eba48d7e250ba99ce6e85", null ],
-    [ "usesLiquids", "d9/de0/a30465.html#ab869d655ea5cb7f9d32dff63ed4df779", null ],
-    [ "m_mapsPath", "d9/de0/a30465.html#a3870ff6d7c9614cadca3d9d89f3fd810", null ],
-    [ "m_skipLiquid", "d9/de0/a30465.html#aa4feec2075cdb31e940f2cf3dc0d136a", null ],
-    [ "m_vmapsPath", "d9/de0/a30465.html#ab4c289c4c91d84378e531ebbef85988f", null ]
+    [ "WDT_file", "d9/de0/a30465.html#afa32849d31abde3cb2c9f3b558816368", null ],
+    [ "~WDT_file", "d9/de0/a30465.html#a29bf710b8346204eb848017450afebe1", null ],
+    [ "free", "d9/de0/a30465.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
+    [ "prepareLoadedData", "d9/de0/a30465.html#add675f96f010e67ca1df01b029c9ebfb", null ],
+    [ "main", "d9/de0/a30465.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
+    [ "mphd", "d9/de0/a30465.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
 ];

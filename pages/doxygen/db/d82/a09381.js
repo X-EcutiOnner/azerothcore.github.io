@@ -1,8 +1,8 @@
 var a09381 =
 [
-    [ "MailLevelReward", "db/d82/a09381.html#accd52642cbbab457b69dba54a6ffa23b", null ],
-    [ "MailLevelReward", "db/d82/a09381.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
-    [ "mailTemplateId", "db/d82/a09381.html#afdf6684bcd2751822bd00ba1509ef933", null ],
-    [ "raceMask", "db/d82/a09381.html#a341088acd89b79161d932367f4f1798d", null ],
-    [ "senderEntry", "db/d82/a09381.html#a2b678ac953209691b38d583cffab55b5", null ]
+    [ "TempSummonGroupKey", "db/d82/a09381.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
+    [ "operator<", "db/d82/a09381.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
+    [ "_summonerEntry", "db/d82/a09381.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
+    [ "_summonerType", "db/d82/a09381.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
+    [ "_summonGroup", "db/d82/a09381.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
 ];

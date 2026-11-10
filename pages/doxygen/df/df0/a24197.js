@@ -1,5 +1,6 @@
 var a24197 =
 [
-    [ "go_simon_cluster", "df/df0/a24197.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "df/df0/a24197.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "npc_deaths_fel_cannonAI", "db/d2b/a24201.html", "db/d2b/a24201" ],
+    [ "npc_deaths_fel_cannon", "df/df0/a24197.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "df/df0/a24197.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

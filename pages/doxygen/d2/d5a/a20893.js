@@ -1,10 +1,10 @@
 var a20893 =
 [
-    [ "npc_razorscale_dark_rune_sentinel", "d2/d5a/a20893.html#ab05b135a3c4cc45c132b3bb38127494c", null ],
-    [ "CanAIAttack", "d2/d5a/a20893.html#a99f74f401c846f56f6adf70a755e5a84", null ],
-    [ "JustEngagedWith", "d2/d5a/a20893.html#afdba7ecd994d92484a75444387bffaee", null ],
-    [ "Reset", "d2/d5a/a20893.html#ad83e4b28dc7562a627f9d1330c3bb2fc", null ],
-    [ "UpdateAI", "d2/d5a/a20893.html#a621e7a4804a74ce74717a9b0212ab8a3", null ],
-    [ "_events", "d2/d5a/a20893.html#a5dc9139c7d2897b6f1a9e9d86a5f663a", null ],
-    [ "_instance", "d2/d5a/a20893.html#a83f67be54dde276f3ed5efd867450756", null ]
+    [ "npc_razorscale_dark_rune_watcher", "d2/d5a/a20893.html#aff56f4cadfeb72f6a96f8ac86b27a6a1", null ],
+    [ "CanAIAttack", "d2/d5a/a20893.html#a68ef8f2c7014850c5107cc22deff8658", null ],
+    [ "JustEngagedWith", "d2/d5a/a20893.html#a303994b6f5e2ae6e4d6f0e44d9eb60a9", null ],
+    [ "Reset", "d2/d5a/a20893.html#aaab4be32140991366f1a004622bf3b31", null ],
+    [ "UpdateAI", "d2/d5a/a20893.html#a8d1518f80cc6427d0334770a5aaf130a", null ],
+    [ "_events", "d2/d5a/a20893.html#a15fa73dea3b9b86a6d1b42f9d1296d6e", null ],
+    [ "_instance", "d2/d5a/a20893.html#ac08ba6b60827408aeb1b63a48a57fa9e", null ]
 ];

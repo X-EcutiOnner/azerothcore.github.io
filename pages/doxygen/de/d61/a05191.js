@@ -1,5 +1,26 @@
 var a05191 =
 [
-    [ "ScriptTypeInfo", "dc/d18/a10973.html", "dc/d18/a10973" ],
-    [ "ScriptRegistryTypes", "de/d61/a05191.html#a0e91545a04304e85e47b9e1697318ecb", null ]
+    [ "achievement", "dc/d1b/a08289.html", "dc/d1b/a08289" ],
+    [ "base_tag", "de/db5/a08285.html", "de/db5/a08285" ],
+    [ "enchant", "d9/d95/a08293.html", "d9/d95/a08293" ],
+    [ "found", "d3/da9/a08297.html", "d3/da9/a08297" ],
+    [ "glyph", "d9/d45/a08301.html", "d9/d45/a08301" ],
+    [ "item", "d8/da8/a08305.html", "d8/da8/a08305" ],
+    [ "quest", "d9/dd3/a08309.html", "d9/dd3/a08309" ],
+    [ "spell", "dd/da2/a08313.html", "dd/da2/a08313" ],
+    [ "talent", "d8/d52/a08317.html", "d8/d52/a08317" ],
+    [ "trade", "d4/d15/a08321.html", "d4/d15/a08321" ],
+    [ "make_base_tag", "de/d61/a05191.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a", null ],
+    [ "make_base_tag", "de/d61/a05191.html#a0803de4bbc9edad4f5bb2afc3c242dca", null ],
+    [ "make_base_tag", "de/d61/a05191.html#aa8156f2996632fd42a2e39b974426995", null ],
+    [ "make_base_tag", "de/d61/a05191.html#a321da5d63921d41c561a1460929ac730", null ],
+    [ "make_base_tag", "de/d61/a05191.html#afc9dbd840048c0031231bcdb7b2fcf04", null ],
+    [ "make_base_tag", "de/d61/a05191.html#a7083d48423b83ff39095030678b29877", null ],
+    [ "make_base_tag", "de/d61/a05191.html#aae3a6cd0fbf426755d93a387882ff767", null ],
+    [ "make_base_tag", "de/d61/a05191.html#aa0ca4a111a856da9091a377934f8de93", null ],
+    [ "make_base_tag", "de/d61/a05191.html#a9990339040b491e108594df755f03a6c", null ],
+    [ "make_base_tag", "de/d61/a05191.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec", null ],
+    [ "make_base_tag", "de/d61/a05191.html#a32cfa3bc188d1b731f3e9e5dcc2de664", null ],
+    [ "make_base_tag", "de/d61/a05191.html#ae0c637d10c728f04dc2468c15c3f8dca", null ],
+    [ "make_base_tag", "de/d61/a05191.html#abe0a588f1c0e66d33c8bc7a7d0a04459", null ]
 ];

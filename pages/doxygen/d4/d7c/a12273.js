@@ -1,15 +1,16 @@
 var a12273 =
 [
-    [ "BroadcastTextId", "d4/d7c/a12273.html#a12ff00d59ce642d3c27978e919f6ca17", null ],
-    [ "duration", "d4/d7c/a12273.html#a00b6d7cbf9ff377d30cd9e6cfab084b7", null ],
-    [ "emote", "d4/d7c/a12273.html#aad433a0bc12717103936e6f89b5b31ea", null ],
-    [ "entry", "d4/d7c/a12273.html#a3d1c888b73edee2474004de9d8714903", null ],
-    [ "group", "d4/d7c/a12273.html#ae2161d1dc874efacd0131baa74b4e44a", null ],
-    [ "id", "d4/d7c/a12273.html#ab80181d53770a2f64bd6898498b3e76e", null ],
-    [ "lang", "d4/d7c/a12273.html#a8405ab49781ba0cbcd8680ff6715b675", null ],
-    [ "probability", "d4/d7c/a12273.html#a9bec9c2053f2efbac076831d4e928045", null ],
-    [ "sound", "d4/d7c/a12273.html#af312efff61026445caeb4be4b52c4e66", null ],
-    [ "text", "d4/d7c/a12273.html#a82b3db36b60a343d340677e8df6c7925", null ],
-    [ "TextRange", "d4/d7c/a12273.html#a2bb58a07abc9eb7ffeb4db131de03924", null ],
-    [ "type", "d4/d7c/a12273.html#a5675f6bcf159e1da503029771557e2a6", null ]
+    [ "ToCloud9GrpcHandler", "d4/d7c/a12273.html#af858b78bb20162f5e18a5bffa6969e48", null ],
+    [ "~ToCloud9GrpcHandler", "d4/d7c/a12273.html#a3f80ef49eed92d916188368b3a9f4a7d", null ],
+    [ "AddExistingItemToPlayer", "d4/d7c/a12273.html#a4d97be6aec34406de54b66a7a56d3c6f", null ],
+    [ "AddPlayersToBattleground", "d4/d7c/a12273.html#a8e044973ee2e3b33b2e9264f4c670ff5", null ],
+    [ "CanPlayerInteractWithGOAndType", "d4/d7c/a12273.html#a3aca8d91b2bc8e6e2863f98b14cded96", null ],
+    [ "CanPlayerInteractWithNPCAndFlags", "d4/d7c/a12273.html#a060a3e9719b0a01ac77550918920f5ed", null ],
+    [ "CanPlayerJoinBattlegroundQueue", "d4/d7c/a12273.html#a4d9788b0d33040f0489634388c8d6100", null ],
+    [ "CanPlayerTeleportToBattleground", "d4/d7c/a12273.html#ab5081c4ac20efbe5e6a93529ccd4cbc6", null ],
+    [ "GetMoneyForPlayer", "d4/d7c/a12273.html#a7f0acf0cd4ec8b1e90c00e93426306cb", null ],
+    [ "GetPlayerItemsByGuids", "d4/d7c/a12273.html#abc1e855186271452a1a1397d7f4ddd5b", null ],
+    [ "ModifyMoneyForPlayer", "d4/d7c/a12273.html#a0e12218affdae47b44b998995a8ef806", null ],
+    [ "RemoveItemsWithGuidsFromPlayer", "d4/d7c/a12273.html#ab6775d1820c7725d616c8298ccb96ced", null ],
+    [ "StartBattleground", "d4/d7c/a12273.html#ade8f8c5088f62566ed6f77129719a06e", null ]
 ];

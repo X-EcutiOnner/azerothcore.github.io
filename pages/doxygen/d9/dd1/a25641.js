@@ -1,8 +1,7 @@
 var a25641 =
 [
-    [ "HandleApply", "d9/dd1/a25641.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "d9/dd1/a25641.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "d9/dd1/a25641.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "d9/dd1/a25641.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "d9/dd1/a25641.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "OnApply", "d9/dd1/a25641.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
+    [ "OnRemove", "d9/dd1/a25641.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
+    [ "PrepareAuraScript", "d9/dd1/a25641.html#a9a7b549e059b6bd2d22802f60e952658", null ],
+    [ "Register", "d9/dd1/a25641.html#aae603735281daf02ceca157e218d5c9f", null ]
 ];

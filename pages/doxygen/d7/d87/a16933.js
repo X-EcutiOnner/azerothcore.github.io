@@ -1,6 +1,6 @@
 var a16933 =
 [
-    [ "HideNpcEvent", "d7/d87/a16933.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "d7/d87/a16933.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "d7/d87/a16933.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "npc_toc5_grand_champion_minionAI", "d9/d9d/a16937.html", "d9/d9d/a16937" ],
+    [ "npc_toc5_grand_champion_minion", "d7/d87/a16933.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
+    [ "GetAI", "d7/d87/a16933.html#a55acf397b94ba63b1db626dc1041b28e", null ]
 ];

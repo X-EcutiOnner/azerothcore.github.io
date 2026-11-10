@@ -1,11 +1,8 @@
 var a15341 =
 [
-    [ "boss_epochAI", "d9/dc1/a15341.html#a35d80bf8032fba5908132ad29f372293", null ],
-    [ "JustDied", "d9/dc1/a15341.html#a780aa5bc86c80aaeeffad441b2873121", null ],
-    [ "JustEngagedWith", "d9/dc1/a15341.html#ae742dceac5979faebb58a133e9bd91f0", null ],
-    [ "KilledUnit", "d9/dc1/a15341.html#af41946feab7b86d812f706bd7abbf1bd", null ],
-    [ "Reset", "d9/dc1/a15341.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
-    [ "SpellHitTarget", "d9/dc1/a15341.html#ab87dfcf635a65b02be29186d2990fef3", null ],
-    [ "UpdateAI", "d9/dc1/a15341.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
-    [ "warps", "d9/dc1/a15341.html#a478113af1ce565c729604c6039f55551", null ]
+    [ "hyjalTyrandeAI", "d9/dc1/a15341.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "d9/dc1/a15341.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "d9/dc1/a15341.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "d9/dc1/a15341.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "d9/dc1/a15341.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

@@ -1,7 +1,7 @@
 var a28025 =
 [
-    [ "HandleApplyAura", "d1/d9f/a28025.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "d1/d9f/a28025.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "d1/d9f/a28025.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "d1/d9f/a28025.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "HandleProc", "d1/d9f/a28025.html#a9296b52700f070af311047166f6a913b", null ],
+    [ "PrepareAuraScript", "d1/d9f/a28025.html#a067cc24e65f79bab10b9d1258fad3460", null ],
+    [ "Register", "d1/d9f/a28025.html#affbd8840159048b6ea55ab98900d38c0", null ],
+    [ "Validate", "d1/d9f/a28025.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
 ];

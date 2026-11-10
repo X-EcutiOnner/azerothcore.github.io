@@ -1,6 +1,6 @@
 var a12217 =
 [
-    [ "AfterCheckProcHandler", "d4/d6e/a12217.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "d4/d6e/a12217.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "d4/d6e/a12217.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "EffectCalcAmountHandler", "d4/d6e/a12217.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "d4/d6e/a12217.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "d4/d6e/a12217.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

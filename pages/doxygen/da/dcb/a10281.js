@@ -1,8 +1,11 @@
 var a10281 =
 [
-    [ "CircleBoundary", "da/dcb/a10281.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "da/dcb/a10281.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "da/dcb/a10281.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "da/dcb/a10281.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "da/dcb/a10281.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "DeleteEmptyExpiredMail", "da/dcb/a10281.html#a3cd0e2570c8c684d09931331dfb5837f", null ],
+    [ "instance", "da/dcb/a10281.html#abe24c4d840d5f2b05958a44cd63b8b35", null ],
+    [ "LoadMailCounts", "da/dcb/a10281.html#a6786cc5036259c23256b669da1146012", null ],
+    [ "OnMailDeleted", "da/dcb/a10281.html#a699bf593d7f00470878504141e7fe3df", null ],
+    [ "OnMailReturned", "da/dcb/a10281.html#ac355df32c38e8619cf18cee283894c64", null ],
+    [ "OnMailSent", "da/dcb/a10281.html#ad22a9a0cf09a5dc7acaf14dfdd0bcdbf", null ],
+    [ "RecountMailCount", "da/dcb/a10281.html#a595b8b31c9695c8bbec64e2f982853d0", null ],
+    [ "ReturnOrDeleteOldMails", "da/dcb/a10281.html#ab4ef5f6ca91286c732b257f267b06f14", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellBonusEntry Struct Reference</title>
+<title>AzerothCore: SpellDiminishInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,86 +107,78 @@ $(document).ready(function(){initNavTree('db/d69/a12049.html','../../'); initRes
   <div class="summary">
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d4/d19/a12046.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellBonusEntry Struct Reference</div></div>
+  <div class="headertitle"><div class="title">SpellDiminishInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SpellInfo.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:abab1af227a6c8e592b8a9bd15589535d"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d69/a12049.html#abab1af227a6c8e592b8a9bd15589535d">direct_damage</a></td></tr>
-<tr class="separator:abab1af227a6c8e592b8a9bd15589535d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a92491d8d1e61612d88c7c830d7912be5"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d69/a12049.html#a92491d8d1e61612d88c7c830d7912be5">dot_damage</a></td></tr>
-<tr class="separator:a92491d8d1e61612d88c7c830d7912be5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a98410b8bb89434cd7e1747462f8039dc"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d69/a12049.html#a98410b8bb89434cd7e1747462f8039dc">ap_bonus</a></td></tr>
-<tr class="separator:a98410b8bb89434cd7e1747462f8039dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a09caeec47b138d9eff3539795416a09a"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d69/a12049.html#a09caeec47b138d9eff3539795416a09a">ap_dot_bonus</a></td></tr>
-<tr class="separator:a09caeec47b138d9eff3539795416a09a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad48e4fbc6984602d0196accea51867de"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d69/a00878.html#a1d74b2169d9a060490d81975a3064f50">DiminishingGroup</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d69/a12049.html#ad48e4fbc6984602d0196accea51867de">DiminishGroup</a> = <a class="el" href="../../d5/d69/a00878.html#a1d74b2169d9a060490d81975a3064f50a463a6938a384ecb8e81ea00f8a66a85c">DIMINISHING_NONE</a></td></tr>
+<tr class="separator:ad48e4fbc6984602d0196accea51867de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a64a6fc19521245f1145ab6c769175803"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d69/a00878.html#acc1ff89f53e83d6c8146a6989a5cba5b">DiminishingReturnsType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d69/a12049.html#a64a6fc19521245f1145ab6c769175803">DiminishReturnType</a> = <a class="el" href="../../d5/d69/a00878.html#acc1ff89f53e83d6c8146a6989a5cba5ba1f86ae6ed27da5cb0cf59b6510abb5ea">DRTYPE_NONE</a></td></tr>
+<tr class="separator:a64a6fc19521245f1145ab6c769175803"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b04f3f569b5b73d2f8a9eda429c3f5d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d2d/a00815.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d69/a12049.html#a4b04f3f569b5b73d2f8a9eda429c3f5d">DiminishMaxLevel</a> = 3</td></tr>
+<tr class="separator:a4b04f3f569b5b73d2f8a9eda429c3f5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18e94b40a8746c854b2fcca37ceb14f6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d2d/a00815.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d69/a12049.html#a18e94b40a8746c854b2fcca37ceb14f6">DiminishDurationLimit</a> = 0</td></tr>
+<tr class="separator:a18e94b40a8746c854b2fcca37ceb14f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a98410b8bb89434cd7e1747462f8039dc" name="a98410b8bb89434cd7e1747462f8039dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98410b8bb89434cd7e1747462f8039dc">&#9670;&#160;</a></span>ap_bonus</h2>
+<a id="a18e94b40a8746c854b2fcca37ceb14f6" name="a18e94b40a8746c854b2fcca37ceb14f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a18e94b40a8746c854b2fcca37ceb14f6">&#9670;&#160;</a></span>DiminishDurationLimit</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float SpellBonusEntry::ap_bonus</td>
+          <td class="memname"><a class="el" href="../../d8/d2d/a00815.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> SpellDiminishInfo::DiminishDurationLimit = 0</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02295">SpellMgr::LoadSpellBonuses()</a>, <a class="el" href="../../#l08507">Unit::SpellDamageBonusDone()</a>, and <a class="el" href="../../#l09325">Unit::SpellHealingBonusDone()</a>.</p>
-
 </div>
 </div>
-<a id="a09caeec47b138d9eff3539795416a09a" name="a09caeec47b138d9eff3539795416a09a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a09caeec47b138d9eff3539795416a09a">&#9670;&#160;</a></span>ap_dot_bonus</h2>
+<a id="ad48e4fbc6984602d0196accea51867de" name="ad48e4fbc6984602d0196accea51867de"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad48e4fbc6984602d0196accea51867de">&#9670;&#160;</a></span>DiminishGroup</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float SpellBonusEntry::ap_dot_bonus</td>
+          <td class="memname"><a class="el" href="../../d5/d69/a00878.html#a1d74b2169d9a060490d81975a3064f50">DiminishingGroup</a> SpellDiminishInfo::DiminishGroup = <a class="el" href="../../d5/d69/a00878.html#a1d74b2169d9a060490d81975a3064f50a463a6938a384ecb8e81ea00f8a66a85c">DIMINISHING_NONE</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02295">SpellMgr::LoadSpellBonuses()</a>, <a class="el" href="../../#l08507">Unit::SpellDamageBonusDone()</a>, and <a class="el" href="../../#l09325">Unit::SpellHealingBonusDone()</a>.</p>
-
 </div>
 </div>
-<a id="abab1af227a6c8e592b8a9bd15589535d" name="abab1af227a6c8e592b8a9bd15589535d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abab1af227a6c8e592b8a9bd15589535d">&#9670;&#160;</a></span>direct_damage</h2>
+<a id="a4b04f3f569b5b73d2f8a9eda429c3f5d" name="a4b04f3f569b5b73d2f8a9eda429c3f5d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b04f3f569b5b73d2f8a9eda429c3f5d">&#9670;&#160;</a></span>DiminishMaxLevel</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float SpellBonusEntry::direct_damage</td>
+          <td class="memname"><a class="el" href="../../d8/d2d/a00815.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> SpellDiminishInfo::DiminishMaxLevel = 3</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02295">SpellMgr::LoadSpellBonuses()</a>, <a class="el" href="../../#l08507">Unit::SpellDamageBonusDone()</a>, <a class="el" href="../../#l08681">Unit::SpellDamageBonusTaken()</a>, <a class="el" href="../../#l09325">Unit::SpellHealingBonusDone()</a>, and <a class="el" href="../../#l09445">Unit::SpellHealingBonusTaken()</a>.</p>
-
 </div>
 </div>
-<a id="a92491d8d1e61612d88c7c830d7912be5" name="a92491d8d1e61612d88c7c830d7912be5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a92491d8d1e61612d88c7c830d7912be5">&#9670;&#160;</a></span>dot_damage</h2>
+<a id="a64a6fc19521245f1145ab6c769175803" name="a64a6fc19521245f1145ab6c769175803"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a64a6fc19521245f1145ab6c769175803">&#9670;&#160;</a></span>DiminishReturnType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float SpellBonusEntry::dot_damage</td>
+          <td class="memname"><a class="el" href="../../d5/d69/a00878.html#acc1ff89f53e83d6c8146a6989a5cba5b">DiminishingReturnsType</a> SpellDiminishInfo::DiminishReturnType = <a class="el" href="../../d5/d69/a00878.html#acc1ff89f53e83d6c8146a6989a5cba5ba1f86ae6ed27da5cb0cf59b6510abb5ea">DRTYPE_NONE</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02295">SpellMgr::LoadSpellBonuses()</a>, <a class="el" href="../../#l08507">Unit::SpellDamageBonusDone()</a>, <a class="el" href="../../#l08681">Unit::SpellDamageBonusTaken()</a>, <a class="el" href="../../#l09325">Unit::SpellHealingBonusDone()</a>, and <a class="el" href="../../#l09445">Unit::SpellHealingBonusTaken()</a>.</p>
 
 </div>
 </div>
@@ -195,8 +187,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/d69/a12049.html">SpellBonusEntry</a></li>
-    <li class="footer">Generated on Mon Oct 19 2026 23:58:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/d69/a12049.html">SpellDiminishInfo</a></li>
+    <li class="footer">Generated on Tue Nov 10 2026 02:55:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

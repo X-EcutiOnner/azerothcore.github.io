@@ -1,11 +1,9 @@
 var a05405 =
 [
-    [ "material", "d2/dbc/a05405.html#a29addcb613bc63a100633e612d1dc2d2", null ],
-    [ "pos_x", "d2/dbc/a05405.html#a02e9d8789336d77e34bffa19adbab394", null ],
-    [ "pos_y", "d2/dbc/a05405.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
-    [ "pos_z", "d2/dbc/a05405.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
-    [ "xtiles", "d2/dbc/a05405.html#a94789843c68d705184e6332ac46bd69d", null ],
-    [ "xverts", "d2/dbc/a05405.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
-    [ "ytiles", "d2/dbc/a05405.html#ac50224cdce231460c78c3e0f077b555d", null ],
-    [ "yverts", "d2/dbc/a05405.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
+    [ "MapRayCallback", "d2/dbc/a05405.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
+    [ "didHit", "d2/dbc/a05405.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
+    [ "operator()", "d2/dbc/a05405.html#ad8ab3eee3fc3a1888a9ff11edfd946b8", null ],
+    [ "flags", "d2/dbc/a05405.html#a88d1e6d6fa43608bcee21a822488f061", null ],
+    [ "hit", "d2/dbc/a05405.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
+    [ "prims", "d2/dbc/a05405.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
 ];

@@ -1,16 +1,17 @@
 var a23873 =
 [
-    [ "boss_warchief_kargath_bladefist", "de/d26/a23873.html#a0957dbfd6c085575fa862f38c87b6b3d", null ],
-    [ "InitializeAI", "de/d26/a23873.html#a86d9b5b1500960235e76ae71337a6c90", null ],
-    [ "IsInRoom", "de/d26/a23873.html#af9d4bd9d94115a1040e1e4a4dbf8df83", null ],
-    [ "JustDied", "de/d26/a23873.html#a436b90336c90f6662f3ce704a62f0d90", null ],
-    [ "JustEngagedWith", "de/d26/a23873.html#ab3d7b0ebca4f8134e5c2f31422ff006b", null ],
-    [ "JustSummoned", "de/d26/a23873.html#aaa69f064d7eb3a0d107c835c806fa1de", null ],
-    [ "KilledUnit", "de/d26/a23873.html#a730bbd2f95a2919fba1a7300b4307b84", null ],
-    [ "MovementInform", "de/d26/a23873.html#a716eab9bda2b697252dde90aa513d7df", null ],
-    [ "Reset", "de/d26/a23873.html#a50fa7a5aed8d3f4916f0449c4fb075ac", null ],
-    [ "RespawnAssassins", "de/d26/a23873.html#a1397317259589ea69f77f52f60852043", null ],
-    [ "SummonedCreatureDies", "de/d26/a23873.html#a325da34f78d202708a58c1a543ecb8ca", null ],
-    [ "UpdateAI", "de/d26/a23873.html#acd463cac8e2fa8289ecb5567709db678", null ],
-    [ "_danceCount", "de/d26/a23873.html#af4a60caaef6388caff973295e3397a7d", null ]
+    [ "boss_grand_warlock_nethekurse", "de/d26/a23873.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
+    [ "DoAction", "de/d26/a23873.html#a8288f8c28b61dac574254435534b5e3f", null ],
+    [ "IntroRP", "de/d26/a23873.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
+    [ "JustDied", "de/d26/a23873.html#a48a2ec7beeb5c9685fc627317acea949", null ],
+    [ "JustEngagedWith", "de/d26/a23873.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
+    [ "JustReachedHome", "de/d26/a23873.html#afe62561de66fbe7fa92c365a51f01adc", null ],
+    [ "KilledUnit", "de/d26/a23873.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
+    [ "Reset", "de/d26/a23873.html#aceef7aace38f5246ad67a1591b7f301c", null ],
+    [ "SetData", "de/d26/a23873.html#a6c647262ce7df78c46af6b725cbcc250", null ],
+    [ "UpdateAI", "de/d26/a23873.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
+    [ "_canAggro", "de/d26/a23873.html#a9c577798d5bc87654e6984af02d95c34", null ],
+    [ "_introStarted", "de/d26/a23873.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
+    [ "PeonEngagedCount", "de/d26/a23873.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
+    [ "PeonKilledCount", "de/d26/a23873.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
 ];

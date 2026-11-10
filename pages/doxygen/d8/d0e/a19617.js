@@ -1,7 +1,6 @@
 var a19617 =
 [
-    [ "FilterTargets", "d8/d0e/a19617.html#a56ff062a6014099623466145a66284cc", null ],
-    [ "PrepareSpellScript", "d8/d0e/a19617.html#aa14623bb948ff457e52979facf74ffab", null ],
-    [ "Register", "d8/d0e/a19617.html#a9494bea35088161c9a520395d714fde1", null ],
-    [ "Validate", "d8/d0e/a19617.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
+    [ "npc_gothik_triggerAI", "de/d48/a19621.html", "de/d48/a19621" ],
+    [ "npc_gothik_trigger", "d8/d0e/a19617.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
+    [ "GetAI", "d8/d0e/a19617.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
 ];

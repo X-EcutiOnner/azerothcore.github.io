@@ -1,21 +1,14 @@
 var a12545 =
 [
-    [ "disable_commandscript", "d9/d6c/a12545.html#ae49c0e3ad4aa3147194478180837c07e", null ],
-    [ "GetCommands", "d9/d6c/a12545.html#a5c0400ab0321c2d181f6288fd828c56a", null ],
-    [ "HandleAddDisableAchievementCriteriaCommand", "d9/d6c/a12545.html#a52376d1885f74d00589acb3443860df9", null ],
-    [ "HandleAddDisableBattlegroundCommand", "d9/d6c/a12545.html#a8a03b1d32ebf568222d28723c48f8f78", null ],
-    [ "HandleAddDisableMapCommand", "d9/d6c/a12545.html#aea64728b1a70aab3813190c4d5df3859", null ],
-    [ "HandleAddDisableOutdoorPvPCommand", "d9/d6c/a12545.html#a3c0250b78258394e78fd918dc43f90a2", null ],
-    [ "HandleAddDisableQuestCommand", "d9/d6c/a12545.html#a94537f796e64c68df4600041e2cc0da4", null ],
-    [ "HandleAddDisables", "d9/d6c/a12545.html#aaa2d58ba9e21e868ecbdbdfac0b6ebdf", null ],
-    [ "HandleAddDisableSpellCommand", "d9/d6c/a12545.html#a23ddab0c714a5adea49d14ecde36391b", null ],
-    [ "HandleAddDisableVmapCommand", "d9/d6c/a12545.html#aa1df5e4cbc89182eb9e31b4fa9a5325f", null ],
-    [ "HandleRemoveDisableAchievementCriteriaCommand", "d9/d6c/a12545.html#ac5088383c36894c7bd753ee99086e508", null ],
-    [ "HandleRemoveDisableBattlegroundCommand", "d9/d6c/a12545.html#a9b67a979abb6cde08b4926606a35bf93", null ],
-    [ "HandleRemoveDisableMapCommand", "d9/d6c/a12545.html#ab0d61b762d728c1a35e20cda3c347c55", null ],
-    [ "HandleRemoveDisableOutdoorPvPCommand", "d9/d6c/a12545.html#a0dfe1ac5224935dd42c6a30daf6cc099", null ],
-    [ "HandleRemoveDisableQuestCommand", "d9/d6c/a12545.html#a60e20d885194bbff5da3e824e05a35b2", null ],
-    [ "HandleRemoveDisables", "d9/d6c/a12545.html#a529428b7674ca3446a441bdf65fab756", null ],
-    [ "HandleRemoveDisableSpellCommand", "d9/d6c/a12545.html#aaa457682d8621801d457eb734673d745", null ],
-    [ "HandleRemoveDisableVmapCommand", "d9/d6c/a12545.html#aae06939a2fc52aedce54a75db4b3c218", null ]
+    [ "cast_commandscript", "d9/d6c/a12545.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
+    [ "CheckSpellCastResult", "d9/d6c/a12545.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
+    [ "CheckSpellExistsAndIsValid", "d9/d6c/a12545.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
+    [ "GetCommands", "d9/d6c/a12545.html#ab0890c036a8d301b382fdd1b6371f671", null ],
+    [ "GetTriggerFlags", "d9/d6c/a12545.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
+    [ "HandleCastBackCommand", "d9/d6c/a12545.html#a964a40278f609a5c5a0bae651484c726", null ],
+    [ "HandleCastCommand", "d9/d6c/a12545.html#ac28430cc0623209b891bacbb4845509b", null ],
+    [ "HandleCastDestCommand", "d9/d6c/a12545.html#a156ca81fba7155205dae106aa4c221d6", null ],
+    [ "HandleCastDistCommand", "d9/d6c/a12545.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
+    [ "HandleCastSelfCommand", "d9/d6c/a12545.html#a69e88bb174c2518584a9ae622e2850bf", null ],
+    [ "HandleCastTargetCommad", "d9/d6c/a12545.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
 ];

@@ -1,7 +1,6 @@
 var a11697 =
 [
-    [ "QuestPushResult", "d3/db2/a11697.html#a71a5435a0d9dbc648a83ec90ec99215f", null ],
-    [ "Write", "d3/db2/a11697.html#a90c79fdc1bf593e4d51f3d7a6e423eac", null ],
-    [ "PlayerGuid", "d3/db2/a11697.html#a449c6537a692edae94f173236d0d449e", null ],
-    [ "QuestShareMessage", "d3/db2/a11697.html#af80f4138f3689721f44059a9250246f0", null ]
+    [ "CorpseMapPositionQuery", "d3/db2/a11697.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "d3/db2/a11697.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "d3/db2/a11697.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

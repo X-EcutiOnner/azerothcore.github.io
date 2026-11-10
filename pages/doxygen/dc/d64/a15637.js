@@ -1,10 +1,7 @@
 var a15637 =
 [
-    [ "boss_moam", "dc/d64/a15637.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
-    [ "InitializeAI", "dc/d64/a15637.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
-    [ "JustDied", "dc/d64/a15637.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
-    [ "JustEngagedWith", "dc/d64/a15637.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
-    [ "Reset", "dc/d64/a15637.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
-    [ "SummonedCreatureDies", "dc/d64/a15637.html#a8401c5e2bd216deee197617b78d85222", null ],
-    [ "UpdateAI", "dc/d64/a15637.html#aadd8320c6194923b113967d3d6c49a5e", null ]
+    [ "HandleScript", "dc/d64/a15637.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "dc/d64/a15637.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "dc/d64/a15637.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "dc/d64/a15637.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

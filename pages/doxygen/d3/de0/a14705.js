@@ -1,6 +1,5 @@
 var a14705 =
 [
-    [ "LaunchHit", "d3/de0/a14705.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
-    [ "PrepareSpellScript", "d3/de0/a14705.html#a4ad316b68d84921255577aedabb5ad3f", null ],
-    [ "Register", "d3/de0/a14705.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
+    [ "npc_brain_wash_totem", "d3/de0/a14705.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "d3/de0/a14705.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

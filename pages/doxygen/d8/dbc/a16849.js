@@ -1,6 +1,6 @@
 var a16849 =
 [
-    [ "FilterTargets", "d8/dbc/a16849.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "d8/dbc/a16849.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "d8/dbc/a16849.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "boss_eadricAI", "df/d1e/a16853.html", "df/d1e/a16853" ],
+    [ "boss_eadric", "d8/dbc/a16849.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
+    [ "GetAI", "d8/dbc/a16849.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
 ];

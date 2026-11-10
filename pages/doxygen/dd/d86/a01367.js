@@ -1,4 +1,4 @@
 var a01367 =
 [
-    [ "AchievementCriteriaScript", "dc/dc5/a10766.html", "dc/dc5/a10766" ]
+    [ "ScriptRegistry< AuctionHouseScript >", "dd/d86/a01367.html#ac2271f3a8c4323137893dfd21d8d0003", null ]
 ];

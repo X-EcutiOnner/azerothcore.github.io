@@ -1,26 +1,13 @@
 var a04418 =
 [
-    [ "boss_the_black_stalker", "d2/d08/a23650.html", "d2/d08/a23650" ],
-    [ "spell_the_black_stalker_levitate", "d3/df4/a23654.html", "d3/df4/a23654" ],
-    [ "spell_the_black_stalker_levitation_pulse", "d9/dcf/a23658.html", "d9/dcf/a23658" ],
-    [ "spell_the_black_stalker_someone_grab_me", "d9/dea/a23662.html", "d9/dea/a23662" ],
-    [ "spell_the_black_stalker_magnetic_pull", "d5/d67/a23666.html", "d5/d67/a23666" ],
-    [ "eBlackStalker", "d3/d74/a04418.html#afbee42c6927db9ad2cf9d9096eeac954", [
-      [ "SPELL_ACID_BREATH", "db/daf/a04412.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c", null ],
-      [ "SPELL_ACID_SPIT", "db/daf/a04412.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806", null ],
-      [ "SPELL_TAIL_SWEEP", "db/daf/a04412.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823", null ],
-      [ "SPELL_ENRAGE", "db/daf/a04412.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "ACTION_MOVE_TO_PLATFORM", "db/daf/a04412.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa", null ],
-      [ "SPELL_LEVITATE", "d3/d74/a04418.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2", null ],
-      [ "SPELL_CHAIN_LIGHTNING", "d3/d74/a04418.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_STATIC_CHARGE", "d3/d74/a04418.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0", null ],
-      [ "SPELL_SUMMON_SPORE_STRIDER", "d3/d74/a04418.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed", null ],
-      [ "SPELL_LEVITATION_PULSE", "d3/d74/a04418.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1", null ],
-      [ "SPELL_SOMEONE_GRAB_ME", "d3/d74/a04418.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b", null ],
-      [ "SPELL_MAGNETIC_PULL", "d3/d74/a04418.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5", null ],
-      [ "SPELL_SUSPENSION_PRIMER", "d3/d74/a04418.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de", null ],
-      [ "SPELL_SUSPENSION", "d3/d74/a04418.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0", null ],
-      [ "ENTRY_SPORE_STRIDER", "d3/d74/a04418.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2", null ]
+    [ "npc_underbat", "d1/d02/a23693.html", "d1/d02/a23693" ],
+    [ "spell_fungal_decay", "d2/d9f/a23697.html", "d2/d9f/a23697" ],
+    [ "spell_allergies", "da/df7/a23701.html", "da/df7/a23701" ],
+    [ "AllergiesEnum", "d3/d74/a04418.html#a597f861031d65ff9c7c3da68293f6847", [
+      [ "SPELL_SNEEZE", "d3/d74/a04418.html#a597f861031d65ff9c7c3da68293f6847aca231923ca4e3560754e0ead3753c7e3", null ]
     ] ],
-    [ "AddSC_boss_the_black_stalker", "d3/d74/a04418.html#aed8364eb84dab70c060c0a88e6522a7c", null ]
+    [ "UnderbatSpells", "d3/d74/a04418.html#aba9ed07daed7ae7df6becb96f5194f52", [
+      [ "SPELL_TENTACLE_LASH", "d3/d74/a04418.html#aba9ed07daed7ae7df6becb96f5194f52a8fb7d802a437e3e383ba2095ae12b96a", null ]
+    ] ],
+    [ "AddSC_underbog", "d3/d74/a04418.html#a8c9725cac978bfa0eb0405faa6588549", null ]
 ];

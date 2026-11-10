@@ -1,6 +1,8 @@
 var a12853 =
 [
-    [ "boss_high_priestess_thaurissan", "d6/d08/a12853.html#a72b25580dc84301be59d72df45a3ac87", null ],
-    [ "JustEngagedWith", "d6/d08/a12853.html#aa8ba467dd5633e96a20c634880710936", null ],
-    [ "UpdateAI", "d6/d08/a12853.html#a66612582a2362e4f07d7a2bda529af06", null ]
+    [ "boss_eviscerator", "d6/d08/a12853.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
+    [ "DamageTaken", "d6/d08/a12853.html#af31de4643026e44c80252e156a39bc69", null ],
+    [ "JustEngagedWith", "d6/d08/a12853.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
+    [ "UpdateAI", "d6/d08/a12853.html#af974908902d30b8144d1b734e795d6ea", null ],
+    [ "SpellShieldReady", "d6/d08/a12853.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
 ];

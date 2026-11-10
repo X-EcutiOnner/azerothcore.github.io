@@ -1,11 +1,13 @@
 var a20349 =
 [
-    [ "npc_freya_ward", "dd/d3d/a20349.html#aeb5b3a3495622b05faf41d2ec0a82e3f", null ],
-    [ "DoAction", "dd/d3d/a20349.html#ac52ff5e24ff5361808fce4d8d1574ada", null ],
-    [ "JustSummoned", "dd/d3d/a20349.html#a71cd4c583a1f33168d12bbe473d0482e", null ],
-    [ "Reset", "dd/d3d/a20349.html#a134ff84f2cfa3a00cdd6158da6641369", null ],
-    [ "SummonedCreatureDespawn", "dd/d3d/a20349.html#a20fde559565c47f4451581e5d1a61e99", null ],
-    [ "UpdateAI", "dd/d3d/a20349.html#a62122abe02ae9351617eb3af9e36e88e", null ],
-    [ "_castTimer", "dd/d3d/a20349.html#afe313ebbc5c711183a9e623d8213ae64", null ],
-    [ "summons", "dd/d3d/a20349.html#abf3d2443c9badc35097b6e5c818f1c88", null ]
+    [ "boss_flame_leviathan_defense_turret", "dd/d3d/a20349.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
+    [ "CanAIAttack", "dd/d3d/a20349.html#a17020dc7facabb0cacac3209277a73f7", null ],
+    [ "DamageTaken", "dd/d3d/a20349.html#ac15aadce1954d827b7e833ed761faf10", null ],
+    [ "EnterEvadeMode", "dd/d3d/a20349.html#aeb9fe92f81b3734512106aa73c983a35", null ],
+    [ "JustDied", "dd/d3d/a20349.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
+    [ "JustEnteredCombat", "dd/d3d/a20349.html#a3e31c489f5bb4928cb9a3bc996940cd1", null ],
+    [ "KilledUnit", "dd/d3d/a20349.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
+    [ "UpdateAI", "dd/d3d/a20349.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
+    [ "_instance", "dd/d3d/a20349.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
+    [ "_setHealth", "dd/d3d/a20349.html#a413187aa01c119d088846a216f093baa", null ]
 ];

@@ -1,8 +1,7 @@
 var a11805 =
 [
-    [ "ServerPktHeader", "de/dc1/a11805.html#a761e294fccc02055a46bfc46656da706", null ],
-    [ "getHeaderLength", "de/dc1/a11805.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
-    [ "isLargePacket", "de/dc1/a11805.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
-    [ "header", "de/dc1/a11805.html#adc69128832b16124c284c584e7540b11", null ],
-    [ "size", "de/dc1/a11805.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
+    [ "OpcodeHandler", "db/d6b/a05139.html#gad7dc8101b537abe699b18ae8de444a81", null ],
+    [ "~OpcodeHandler", "db/d6b/a05139.html#ga5400057a3d849035aedda259828a5af5", null ],
+    [ "Name", "db/d6b/a05139.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
+    [ "Status", "db/d6b/a05139.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
 ];

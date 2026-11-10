@@ -1,6 +1,5 @@
 var a08269 =
 [
-    [ "value_type", "d7/d90/a08269.html#a76992ebab6be3e3745a751e01fd323be", null ],
-    [ "StoreTo", "d7/d90/a08269.html#a8a35f087389146989768ad157471fd71", null ],
-    [ "tag", "d7/d90/a08269.html#a3939942eb76690646ee204e87af12205", null ]
+    [ "Quest", "d7/d90/a08269.html#aca1cbcd3319031b549c0ec6441b2c821", null ],
+    [ "QuestLevel", "d7/d90/a08269.html#ad162701af62caac909ef9f57f68bf848", null ]
 ];

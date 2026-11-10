@@ -1,10 +1,7 @@
 var a23021 =
 [
-    [ "boss_illidari_council", "df/db1/a23021.html#a078c36be39b377f6d1cdbf061d70270d", null ],
-    [ "AttackStart", "df/db1/a23021.html#a260b15ec58164f17543aa044a89875a8", null ],
-    [ "DamageTaken", "df/db1/a23021.html#af8e88c307efaba392cc2a1d2f3862078", null ],
-    [ "DoAction", "df/db1/a23021.html#a6c3c57523ed2775ba553af1171b46463", null ],
-    [ "EnterEvadeMode", "df/db1/a23021.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
-    [ "MoveInLineOfSight", "df/db1/a23021.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
-    [ "UpdateAI", "df/db1/a23021.html#a8b30df956aa4ce1727756f1d19e151be", null ]
+    [ "HandleOnEffectApply", "df/db1/a23021.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "df/db1/a23021.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "df/db1/a23021.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "df/db1/a23021.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

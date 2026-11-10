@@ -1,9 +1,7 @@
 var a28373 =
 [
-    [ "go_tadpole_cageAI", "de/d06/a28373.html#a87dc192a13cecf834d49cd04451224cd", null ],
-    [ "GossipHello", "de/d06/a28373.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
-    [ "OnStateChanged", "de/d06/a28373.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
-    [ "SummonTadpoles", "de/d06/a28373.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
-    [ "UpdateAI", "de/d06/a28373.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
-    [ "requireSummon", "de/d06/a28373.html#a9884081855fc45776a6b12b9a68890e4", null ]
+    [ "HandlePeriodic", "de/d06/a28373.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "de/d06/a28373.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "de/d06/a28373.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "de/d06/a28373.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

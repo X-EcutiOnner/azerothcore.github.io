@@ -1,9 +1,13 @@
 var a05825 =
 [
-    [ "Lock", "dc/d5f/a05829.html", "dc/d5f/a05829" ],
-    [ "ObjectLevelLockable", "d9/d93/a05825.html#a56f2f2722e7f56857ef1d6e7ae52891d", null ],
-    [ "ObjectLevelLockable", "d9/d93/a05825.html#a02ddadcc871a8c3f80e10a58e245933e", null ],
-    [ "operator=", "d9/d93/a05825.html#aa383d969e3df0f3af7f2740d271dc376", null ],
-    [ "Lock", "d9/d93/a05825.html#a5bf7608e05250fb524a1229bcf83ece3", null ],
-    [ "i_mtx", "d9/d93/a05825.html#ae373bee24a50a7eda232b51769c042aa", null ]
+    [ "MPSCQueueIntrusive", "d9/d93/a05825.html#a8e05361abed759932c49b0fc71ed09c1", null ],
+    [ "~MPSCQueueIntrusive", "d9/d93/a05825.html#a8155857825ceb1b7154ea82a63dbce08", null ],
+    [ "MPSCQueueIntrusive", "d9/d93/a05825.html#afaee06af7734e53ce50674e4ef7277b2", null ],
+    [ "Dequeue", "d9/d93/a05825.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
+    [ "Enqueue", "d9/d93/a05825.html#a233004b906cfa66cdd285233105dddf7", null ],
+    [ "operator=", "d9/d93/a05825.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
+    [ "_dummy", "d9/d93/a05825.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
+    [ "_dummyPtr", "d9/d93/a05825.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
+    [ "_head", "d9/d93/a05825.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
+    [ "_tail", "d9/d93/a05825.html#ac7e333db415e6301a02052c53779d1d4", null ]
 ];

@@ -1,12 +1,6 @@
 var a12685 =
 [
-    [ "rbac_commandscript", "d4/d65/a12685.html#ad5d80b189a8ddaf6b5927c81668a7d74", null ],
-    [ "GetCommands", "d4/d65/a12685.html#a79aea8dac765cfb1a2f12264b58b4227", null ],
-    [ "GetRBACData", "d4/d65/a12685.html#a00da7ed9027950938ec869e678111502", null ],
-    [ "GetSecurityLevelName", "d4/d65/a12685.html#afcfc224e4b39db42ed6efeb5e49ecc7a", null ],
-    [ "HandleRBACListPermissionsCommand", "d4/d65/a12685.html#a80f84e8eeebfd70b4ac7bc049bf4759c", null ],
-    [ "HandleRBACPermDenyCommand", "d4/d65/a12685.html#acc074437ff26c253cf91772de9117fbf", null ],
-    [ "HandleRBACPermGrantCommand", "d4/d65/a12685.html#ad4254acff93e13b7218b086281d13676", null ],
-    [ "HandleRBACPermListCommand", "d4/d65/a12685.html#a324227f3398500ca0a5b7dd141698951", null ],
-    [ "HandleRBACPermRevokeCommand", "d4/d65/a12685.html#adf8932879f77b25833cf55dc2924ac29", null ]
+    [ "player_settings_commandscript", "d4/d65/a12685.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "d4/d65/a12685.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "d4/d65/a12685.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

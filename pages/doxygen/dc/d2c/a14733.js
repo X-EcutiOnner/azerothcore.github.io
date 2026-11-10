@@ -1,6 +1,6 @@
 var a14733 =
 [
-    [ "boss_renatakiAI", "d4/d84/a14737.html", "d4/d84/a14737" ],
-    [ "boss_renataki", "dc/d2c/a14733.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "dc/d2c/a14733.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "OnRemove", "dc/d2c/a14733.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "dc/d2c/a14733.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "dc/d2c/a14733.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

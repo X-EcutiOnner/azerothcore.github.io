@@ -1,6 +1,7 @@
 var a25805 =
 [
-    [ "PrepareAuraScript", "d3/deb/a25805.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "d3/deb/a25805.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "d3/deb/a25805.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "HandleProc", "d3/deb/a25805.html#af2da4e2be8fbb73a398308a0cdc86112", null ],
+    [ "PrepareAuraScript", "d3/deb/a25805.html#af463b573b0202e74f77c46fadca3b5e0", null ],
+    [ "Register", "d3/deb/a25805.html#a6e435d0802370379fa0d1707442eaa58", null ],
+    [ "Validate", "d3/deb/a25805.html#a1fe293134b3f57386ab412357ce968e4", null ]
 ];

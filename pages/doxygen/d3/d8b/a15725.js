@@ -1,6 +1,7 @@
 var a15725 =
 [
-    [ "FilterTargets", "d3/d8b/a15725.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
-    [ "PrepareSpellScript", "d3/d8b/a15725.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
-    [ "Register", "d3/d8b/a15725.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
+    [ "npc_hivezara_stinger", "d3/d8b/a15725.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "d3/d8b/a15725.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "d3/d8b/a15725.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "d3/d8b/a15725.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

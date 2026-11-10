@@ -1,8 +1,12 @@
 var a23797 =
 [
-    [ "npc_target_trigger", "d8/d53/a23797.html#a238058ba80130c6239b7267db3247196", null ],
-    [ "Reset", "d8/d53/a23797.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
-    [ "UpdateAI", "d8/d53/a23797.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
-    [ "_cast", "d8/d53/a23797.html#a4ec89ca960323f7ad135d5a425a82416", null ],
-    [ "_scheduler", "d8/d53/a23797.html#a9b418b09e25c8f96692b4e2626339c96", null ]
+    [ "boss_nazan", "d8/d53/a23797.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "d8/d53/a23797.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "d8/d53/a23797.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "d8/d53/a23797.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "d8/d53/a23797.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "d8/d53/a23797.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "d8/d53/a23797.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "d8/d53/a23797.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "d8/d53/a23797.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

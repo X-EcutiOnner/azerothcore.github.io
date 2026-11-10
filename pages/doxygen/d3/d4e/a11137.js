@@ -1,9 +1,10 @@
 var a11137 =
 [
-    [ "GuildInfoResponse", "d3/d4e/a11137.html#a256cb81ad2e08050be99c9e1061c2009", null ],
-    [ "Write", "d3/d4e/a11137.html#a3222d0018c9593400d3d01258b82371e", null ],
-    [ "CreateDate", "d3/d4e/a11137.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
-    [ "GuildName", "d3/d4e/a11137.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
-    [ "NumAccounts", "d3/d4e/a11137.html#a21b42f1654aa10f7872d87635fea66ac", null ],
-    [ "NumMembers", "d3/d4e/a11137.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
+    [ "EnvironmentalDamageLog", "d3/d4e/a11137.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
+    [ "Write", "d3/d4e/a11137.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
+    [ "Absorbed", "d3/d4e/a11137.html#a443df04be3afe2021532716140ffb099", null ],
+    [ "Amount", "d3/d4e/a11137.html#a073e22176d44f5806313c2a4bd3e263a", null ],
+    [ "Resisted", "d3/d4e/a11137.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
+    [ "Type", "d3/d4e/a11137.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
+    [ "Victim", "d3/d4e/a11137.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
 ];

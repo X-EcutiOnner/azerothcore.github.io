@@ -1,6 +1,7 @@
 var a16305 =
 [
-    [ "HandleDummy", "d4/df7/a16305.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d4/df7/a16305.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d4/df7/a16305.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_wizzlecrank_shredderAI", "de/d30/a16309.html", "de/d30/a16309" ],
+    [ "npc_wizzlecrank_shredder", "d4/df7/a16305.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "d4/df7/a16305.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "d4/df7/a16305.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

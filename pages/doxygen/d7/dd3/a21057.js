@@ -1,7 +1,9 @@
 var a21057 =
 [
-    [ "PrepareSpellScript", "d7/dd3/a21057.html#a31b503f12783ff984fcb02c7f22eb2d6", null ],
-    [ "Register", "d7/dd3/a21057.html#a0d49145c159be313844cc603189a86cd", null ],
-    [ "SetDest", "d7/dd3/a21057.html#a0a01b2368c64e74b8aa0aa0a4288e164", null ],
-    [ "SearchAboveHeaps", "d7/dd3/a21057.html#a2303bd2cd592b747effa6b1d54c1090a", null ]
+    [ "GetRandomToyPile", "d7/dd3/a21057.html#a4e119696b212c6a57f11b284c2bb0c82", null ],
+    [ "HandleScript", "d7/dd3/a21057.html#a62eb106c6a55406adc682b372a94aaef", null ],
+    [ "PrepareSpellScript", "d7/dd3/a21057.html#acb19b4f65324ce419004e969274c4816", null ],
+    [ "Register", "d7/dd3/a21057.html#aba572e339d50b51cb33d04270d29b733", null ],
+    [ "Validate", "d7/dd3/a21057.html#a59acb2775caa76c05797d7c8dfd0f3fb", null ],
+    [ "ToyPileSearchDistance", "d7/dd3/a21057.html#aa7c7f5e7298e89e431464105d5d8bbdf", null ]
 ];

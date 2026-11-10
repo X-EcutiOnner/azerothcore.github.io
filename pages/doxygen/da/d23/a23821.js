@@ -1,5 +1,6 @@
 var a23821 =
 [
-    [ "go_manticron_cube", "da/d23/a23821.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "da/d23/a23821.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "de/d7f/a23825.html", "de/d7f/a23825" ],
+    [ "instance_hellfire_ramparts", "da/d23/a23821.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "da/d23/a23821.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

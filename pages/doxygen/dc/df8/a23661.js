@@ -1,7 +1,12 @@
 var a23661 =
 [
-    [ "OnApply", "dc/df8/a23661.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "dc/df8/a23661.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "dc/df8/a23661.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "dc/df8/a23661.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "boss_swamplord_muselek", "dc/df8/a23661.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
+    [ "AttackStart", "dc/df8/a23661.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
+    [ "CanShootVictim", "dc/df8/a23661.html#af84af5e4b344fc5f5da9f2047519710a", null ],
+    [ "JustDied", "dc/df8/a23661.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
+    [ "JustEngagedWith", "dc/df8/a23661.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
+    [ "KilledUnit", "dc/df8/a23661.html#a9f2afd6aacb9befa956079a42fbace37", null ],
+    [ "Reset", "dc/df8/a23661.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
+    [ "_canChase", "dc/df8/a23661.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
+    [ "_markTarget", "dc/df8/a23661.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
 ];

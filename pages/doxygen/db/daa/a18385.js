@@ -1,6 +1,27 @@
 var a18385 =
 [
-    [ "npc_volatile_oozeAI", "da/d1b/a18389.html", "da/d1b/a18389" ],
-    [ "npc_volatile_ooze", "db/daa/a18385.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "db/daa/a18385.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "boss_professor_putricideAI", "db/daa/a18385.html#a4b8da227d51dab70c8cd2049ef9d5785", null ],
+    [ "CanAIAttack", "db/daa/a18385.html#ac0b540bd1266badcbabdb50e2409d4a5", null ],
+    [ "ChangePhase", "db/daa/a18385.html#af3b8b1bca2e5c043b5cf7a2df771dce1", null ],
+    [ "DamageTaken", "db/daa/a18385.html#a721a1c4a1391c074cb92cf2d7cda278e", null ],
+    [ "DoAction", "db/daa/a18385.html#ae373180193d65c1555c1649af8e08f6c", null ],
+    [ "EnterEvadeMode", "db/daa/a18385.html#ae0b55ae5b0c63510bae45f290615ab8e", null ],
+    [ "GetData", "db/daa/a18385.html#a061d60b47e450e139b137e042908a1bd", null ],
+    [ "JustDied", "db/daa/a18385.html#ab4782624c71f99b28c2aaa3f307f6b03", null ],
+    [ "JustEngagedWith", "db/daa/a18385.html#ad0eb4dec4e48e63c4ce1656616ada626", null ],
+    [ "JustReachedHome", "db/daa/a18385.html#a80677fa12904cdf69eb5f47db190513b", null ],
+    [ "JustSummoned", "db/daa/a18385.html#abc47d7d06a57e9650664af1ffe2362a8", null ],
+    [ "KilledUnit", "db/daa/a18385.html#a1ff6312035c4bcfd773de47ae8dfda50", null ],
+    [ "MoveInLineOfSight", "db/daa/a18385.html#a5b888888d077ba50dd49400e3092bd37", null ],
+    [ "MovementInform", "db/daa/a18385.html#a0a01aa0dd2e61008dffa4f95d2dbf6d7", null ],
+    [ "Reset", "db/daa/a18385.html#ace23336f6204ac8eb59187e024e9cfa8", null ],
+    [ "SetData", "db/daa/a18385.html#af789687d10fce3b216c2d562ac7798a0", null ],
+    [ "UpdateAI", "db/daa/a18385.html#a2981d85544ef63fa0683d3567be043bc", null ],
+    [ "_experimentState", "db/daa/a18385.html#a191632077d18da7ef09254bea62b4b9d", null ],
+    [ "_phase", "db/daa/a18385.html#a7582bb2d0fa50e86aac9e892b55b423c", null ],
+    [ "bCallEvade", "db/daa/a18385.html#abc42dcf6588ebe8849e41115e17c165c", null ],
+    [ "bChangePhase", "db/daa/a18385.html#a4da7453534c2a600e1f5dec47a17d4b9", null ],
+    [ "bEnteredCombat", "db/daa/a18385.html#a1fa4d69f86408cc752ac4edab76a87dd", null ],
+    [ "sayFestergutDeathTimer", "db/daa/a18385.html#a432f28a03c7dc38060c6301023de5e44", null ],
+    [ "sayRotfaceDeathTimer", "db/daa/a18385.html#acc985a0aeaf9572ff774d11b3b8dde30", null ]
 ];

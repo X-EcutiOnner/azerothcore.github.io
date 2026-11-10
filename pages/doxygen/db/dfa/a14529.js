@@ -1,6 +1,6 @@
 var a14529 =
 [
-    [ "npc_eagle_trash_aggro_trigger", "db/dfa/a14529.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
-    [ "MoveInLineOfSight", "db/dfa/a14529.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
-    [ "_instance", "db/dfa/a14529.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
+    [ "instance_zulaman_InstanceMapScript", "dc/daa/a14533.html", "dc/daa/a14533" ],
+    [ "instance_zulaman", "db/dfa/a14529.html#a5a81dddc07dea599e2a197737206427b", null ],
+    [ "GetInstanceScript", "db/dfa/a14529.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
 ];

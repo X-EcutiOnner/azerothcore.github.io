@@ -1,7 +1,8 @@
 var a15029 =
 [
-    [ "go_loosely_turned_soilAI", "d8/dd2/a15033.html", "d8/dd2/a15033" ],
-    [ "go_loosely_turned_soil", "d1/d55/a15029.html#a3b4d51e2b3a604e030962127269236f1", null ],
-    [ "GetAI", "d1/d55/a15029.html#acead5810a848f8837fa65af1f2ac00bd", null ],
-    [ "OnQuestReward", "d1/d55/a15029.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
+    [ "CalcPeriodic", "d1/d55/a15029.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
+    [ "HandleEffectApply", "d1/d55/a15029.html#a4321da69ee59416bd50e621b804e5423", null ],
+    [ "HandleEffectPeriodicUpdate", "d1/d55/a15029.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
+    [ "PrepareAuraScript", "d1/d55/a15029.html#a956136be8cb484efc9af2429d8779a03", null ],
+    [ "Register", "d1/d55/a15029.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
 ];

@@ -1,7 +1,7 @@
 var a28045 =
 [
-    [ "HandleDummy", "d7/d35/a28045.html#a436ed0843e0035308c69f0854decd7f2", null ],
-    [ "PrepareSpellScript", "d7/d35/a28045.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
-    [ "Register", "d7/d35/a28045.html#a0b69f667ea83dee61206bbc723020cbc", null ],
-    [ "Validate", "d7/d35/a28045.html#a93e68d77227297883aae472ef08fb67c", null ]
+    [ "HandleProc", "d7/d35/a28045.html#a28f109c403d3bb46dd4f9c18057cfcd9", null ],
+    [ "PrepareAuraScript", "d7/d35/a28045.html#a0eb7295583f2c45c88ae266d66813b5b", null ],
+    [ "Register", "d7/d35/a28045.html#ab8848a011ec8397bc5712ced54e09432", null ],
+    [ "Validate", "d7/d35/a28045.html#ae35703b7d676fde170241dd64c3c5411", null ]
 ];

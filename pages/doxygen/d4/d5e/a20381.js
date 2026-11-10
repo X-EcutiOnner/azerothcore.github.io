@@ -1,6 +1,7 @@
 var a20381 =
 [
-    [ "npc_salvaged_chopper", "d4/d5e/a20381.html#ad2d875ba3e7de8e44213cd8fdf383df0", null ],
-    [ "PassengerBoarded", "d4/d5e/a20381.html#a12e63e4a2ce543293a398bfe3e9635ad", null ],
-    [ "SwapActionButton", "d4/d5e/a20381.html#afe67864f4315ad1fa876572c840cc190", null ]
+    [ "npc_storm_beacon_spawn", "d4/d5e/a20381.html#a999b6421a0ef6eec2987716a60352a5e", null ],
+    [ "UpdateAI", "d4/d5e/a20381.html#a93dbd7a26d6333f18329142280cc743d", null ],
+    [ "_amount", "d4/d5e/a20381.html#acb5d1f2b6590da32f36882339729c4e9", null ],
+    [ "_checkTimer", "d4/d5e/a20381.html#a9717b52f26045707fd852b955d29a5e6", null ]
 ];

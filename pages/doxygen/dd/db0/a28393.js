@@ -1,6 +1,6 @@
 var a28393 =
 [
-    [ "go_bear_trapAI", "d3/d81/a28397.html", "d3/d81/a28397" ],
-    [ "go_bear_trap", "dd/db0/a28393.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "dd/db0/a28393.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "go_witherbark_totem_bundleAI", "dd/db0/a28393.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "dd/db0/a28393.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "dd/db0/a28393.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

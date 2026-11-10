@@ -1,9 +1,7 @@
 var a21181 =
 [
-    [ "HandleOnEffectApply", "dd/d25/a21181.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
-    [ "OnPeriodic", "dd/d25/a21181.html#a49ad44eba19416743bd26252d1b40d71", null ],
-    [ "PrepareAuraScript", "dd/d25/a21181.html#ae0c475babb67cebb245d6d85b50cd694", null ],
-    [ "Register", "dd/d25/a21181.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
-    [ "Validate", "dd/d25/a21181.html#ab383a0a207aa78b7efcd400765ad0838", null ],
-    [ "_targetGUID", "dd/d25/a21181.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
+    [ "HandleProc", "dd/d25/a21181.html#a3b4e933d4a55d69b6073a6b5fb26e223", null ],
+    [ "IsJudgementDamageSpell", "dd/d25/a21181.html#a8e502075ceebf20b6dc51fb1d653cb09", null ],
+    [ "PrepareAuraScript", "dd/d25/a21181.html#a110cd9e8c18665e1e7b1ec4bc690ce75", null ],
+    [ "Register", "dd/d25/a21181.html#a867fa7224ccd0fe3b449d36b4607ba1e", null ]
 ];

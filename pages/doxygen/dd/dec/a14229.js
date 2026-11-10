@@ -1,7 +1,13 @@
 var a14229 =
 [
-    [ "npc_king_varian_wrynn", "dd/dec/a14229.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
-    [ "JustDied", "dd/dec/a14229.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
-    [ "OnQuestReward", "dd/dec/a14229.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
-    [ "UpdateAI", "dd/dec/a14229.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
+    [ "npc_ravenclaw_apparitionAI", "dd/dec/a14229.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
+    [ "EmoteCrowd", "dd/dec/a14229.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
+    [ "JustDied", "dd/dec/a14229.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
+    [ "JustSummoned", "dd/dec/a14229.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
+    [ "SummonCrowd", "dd/dec/a14229.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
+    [ "UpdateAI", "dd/dec/a14229.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
+    [ "events", "dd/dec/a14229.html#a27522107b5e1f54909294f800f26663f", null ],
+    [ "HasEnded", "dd/dec/a14229.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
+    [ "summons", "dd/dec/a14229.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
+    [ "TalkRNG", "dd/dec/a14229.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
 ];

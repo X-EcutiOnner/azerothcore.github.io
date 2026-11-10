@@ -1,5 +1,5 @@
 var a10897 =
 [
-    [ "MailScript", "d0/de7/a10897.html#ac88f68e8ad89f950d7d3b486b03770d9", null ],
-    [ "OnBeforeMailDraftSendMailTo", "d0/de7/a10897.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
+    [ "FactoryGameObjectScript", "d0/de7/a10897.html#ac0981bdae743da11b99d7df1c967a703", null ],
+    [ "GetAI", "d0/de7/a10897.html#a9a39e94f28729ea1fb4b6231d588b42c", null ]
 ];

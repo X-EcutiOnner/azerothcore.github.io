@@ -1,7 +1,8 @@
 var a22581 =
 [
-    [ "npc_wg_quest_giver", "df/d87/a22581.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "df/d87/a22581.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "df/d87/a22581.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "df/d87/a22581.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_oathbound_warder", "df/d87/a22581.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
+    [ "AttackStart", "df/d87/a22581.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
+    [ "InitializeAI", "df/d87/a22581.html#a62c4c568ad615013afa46c7da84d057a", null ],
+    [ "JustEngagedWith", "df/d87/a22581.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
+    [ "UpdateAI", "df/d87/a22581.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
 ];

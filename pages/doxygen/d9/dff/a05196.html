@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: anonymous_namespace{ModuleMgr.cpp} Namespace Reference</title>
+<title>AzerothCore: ItemRecovery Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,30 +105,390 @@ $(document).ready(function(){initNavTree('d9/dff/a05196.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">anonymous_namespace{ModuleMgr.cpp} Namespace Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">ItemRecovery Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:aa8df8c5e3d2ad2852ea850d12636d578"><td class="memItemLeft" align="right" valign="top">std::string_view&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#aa8df8c5e3d2ad2852ea850d12636d578">_modulesList</a> = {}</td></tr>
-<tr class="separator:aa8df8c5e3d2ad2852ea850d12636d578"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:aba8bb85058eb9806188799f6284fb744"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#aba8bb85058eb9806188799f6284fb744">Save</a> (<a class="el" href="../../d3/d58/a08849.html">Item</a> const *item, <a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count, <a class="el" href="../../d6/d6e/a02174.html#a76cb790aeee9a1dba27c88d560467193">RecoveryItemSource</a> source, <a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> money=0, <a class="el" href="../../d6/d6e/a02174.html#a21a23fdc5e56f331543f56934db53954">RecoveryItemLoot</a> const &amp;loot={ })</td></tr>
+<tr class="separator:aba8bb85058eb9806188799f6284fb744"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a074ad35364fee8062b2943d1fb893902"><td class="memItemLeft" align="right" valign="top">std::optional&lt; <a class="el" href="../../d1/df1/a08857.html">RecoveryItem</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a074ad35364fee8062b2943d1fb893902">Load</a> (<a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> recoveryId)</td></tr>
+<tr class="separator:a074ad35364fee8062b2943d1fb893902"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad50212d6e3a6385c53a1196557dcd612"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#ad50212d6e3a6385c53a1196557dcd612">Restore</a> (<a class="el" href="../../d1/df1/a08857.html">RecoveryItem</a> const &amp;recovery, <a class="el" href="../../d1/d04/a09145.html">Player</a> *owner)</td></tr>
+<tr class="separator:ad50212d6e3a6385c53a1196557dcd612"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ec915cbfd5641b0abe8beb905afbc35"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a2ec915cbfd5641b0abe8beb905afbc35">DeleteFromDB</a> (<a class="el" href="../../de/dec/a03020.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a> trans, <a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> recoveryId)</td></tr>
+<tr class="separator:a2ec915cbfd5641b0abe8beb905afbc35"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a818be554293b59360181fd08ab81665c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a818be554293b59360181fd08ab81665c">IsInBuyback</a> (<a class="el" href="../../d1/d04/a09145.html">Player</a> *player, <a class="el" href="../../d1/df1/a08857.html">RecoveryItem</a> const &amp;recovery)</td></tr>
+<tr class="separator:a818be554293b59360181fd08ab81665c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="aa8df8c5e3d2ad2852ea850d12636d578" name="aa8df8c5e3d2ad2852ea850d12636d578"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa8df8c5e3d2ad2852ea850d12636d578">&#9670;&#160;</a></span>_modulesList</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a2ec915cbfd5641b0abe8beb905afbc35" name="a2ec915cbfd5641b0abe8beb905afbc35"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ec915cbfd5641b0abe8beb905afbc35">&#9670;&#160;</a></span>DeleteFromDB()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::string_view anonymous_namespace{ModuleMgr.cpp}::_modulesList = {}</td>
+          <td class="memname">void ItemRecovery::DeleteFromDB </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/dec/a03020.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a>&#160;</td>
+          <td class="paramname"><em>trans</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>recoveryId</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  193</span>{</div>
+<div class="line"><span class="lineno">  194</span>    <a class="code hl_class" href="../../db/df7/a06137.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../df/d81/a02966.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d6/d58/a02993.html#a76116b4fa282d8e35bf8f8e940b5cba7a424cbda575333abac0f5832223b5e10f">CHAR_DEL_RECOVERY_ITEM_LOOT_BY_RECOVERY_ID</a>);</div>
+<div class="line"><span class="lineno">  195</span>    stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, recoveryId);</div>
+<div class="line"><span class="lineno">  196</span>    trans-&gt;Append(stmt);</div>
+<div class="line"><span class="lineno">  197</span> </div>
+<div class="line"><span class="lineno">  198</span>    stmt = <a class="code hl_variable" href="../../df/d81/a02966.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d6/d58/a02993.html#a76116b4fa282d8e35bf8f8e940b5cba7a1756027a04e366cc7afa9aad46f6f929">CHAR_DEL_RECOVERY_ITEM_BY_RECOVERY_ID</a>);</div>
+<div class="line"><span class="lineno">  199</span>    stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, recoveryId);</div>
+<div class="line"><span class="lineno">  200</span>    trans-&gt;Append(stmt);</div>
+<div class="line"><span class="lineno">  201</span>}</div>
+<div class="ttc" id="aa02966_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../df/d81/a02966.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
+<div class="ttc" id="aa02993_html_a76116b4fa282d8e35bf8f8e940b5cba7a1756027a04e366cc7afa9aad46f6f929"><div class="ttname"><a href="../../d6/d58/a02993.html#a76116b4fa282d8e35bf8f8e940b5cba7a1756027a04e366cc7afa9aad46f6f929">CHAR_DEL_RECOVERY_ITEM_BY_RECOVERY_ID</a></div><div class="ttdeci">@ CHAR_DEL_RECOVERY_ITEM_BY_RECOVERY_ID</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:526</div></div>
+<div class="ttc" id="aa02993_html_a76116b4fa282d8e35bf8f8e940b5cba7a424cbda575333abac0f5832223b5e10f"><div class="ttname"><a href="../../d6/d58/a02993.html#a76116b4fa282d8e35bf8f8e940b5cba7a424cbda575333abac0f5832223b5e10f">CHAR_DEL_RECOVERY_ITEM_LOOT_BY_RECOVERY_ID</a></div><div class="ttdeci">@ CHAR_DEL_RECOVERY_ITEM_LOOT_BY_RECOVERY_ID</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:527</div></div>
+<div class="ttc" id="aa06137_html"><div class="ttname"><a href="../../db/df7/a06137.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
+<div class="ttc" id="aa06277_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00526">CHAR_DEL_RECOVERY_ITEM_BY_RECOVERY_ID</a>, <a class="el" href="../../#l00527">CHAR_DEL_RECOVERY_ITEM_LOOT_BY_RECOVERY_ID</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00031">Acore::Module::GetEnableModulesList()</a>, and <a class="el" href="../../#l00026">Acore::Module::SetEnableModulesList()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04495">Player::DeleteOldRecoveryItems()</a>, and <a class="el" href="../../#l00138">Restore()</a>.</p>
+
+</div>
+</div>
+<a id="a818be554293b59360181fd08ab81665c" name="a818be554293b59360181fd08ab81665c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a818be554293b59360181fd08ab81665c">&#9670;&#160;</a></span>IsInBuyback()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ItemRecovery::IsInBuyback </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/d04/a09145.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/df1/a08857.html">RecoveryItem</a> const &amp;&#160;</td>
+          <td class="paramname"><em>recovery</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  204</span>{</div>
+<div class="line"><span class="lineno">  205</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> slot = <a class="code hl_enumvalue" href="../../d3/d9c/a02336.html#a6d1182dfc036dc286011d767c384ee5ea6d5756709c97422e8f21e84315606235">BUYBACK_SLOT_START</a>; slot &lt; <a class="code hl_enumvalue" href="../../d3/d9c/a02336.html#a6d1182dfc036dc286011d767c384ee5ea0e09f1c1c4bae726eb6fdfa99e667e0c">BUYBACK_SLOT_END</a>; ++slot)</div>
+<div class="line"><span class="lineno">  206</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d3/d58/a08849.html">Item</a>* item = player-&gt;<a class="code hl_function" href="../../d1/d04/a09145.html#ab85bb6e60777c904278021433a6a55cc">GetItemFromBuyBackSlot</a>(slot))</div>
+<div class="line"><span class="lineno">  207</span>            <span class="keywordflow">if</span> (item-&gt;GetGUID().GetCounter() == recovery.ItemGuid &amp;&amp; item-&gt;GetEntry() == recovery.ItemEntry)</div>
+<div class="line"><span class="lineno">  208</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  209</span> </div>
+<div class="line"><span class="lineno">  210</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  211</span>}</div>
+<div class="ttc" id="aa00815_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa02336_html_a6d1182dfc036dc286011d767c384ee5ea0e09f1c1c4bae726eb6fdfa99e667e0c"><div class="ttname"><a href="../../d3/d9c/a02336.html#a6d1182dfc036dc286011d767c384ee5ea0e09f1c1c4bae726eb6fdfa99e667e0c">BUYBACK_SLOT_END</a></div><div class="ttdeci">@ BUYBACK_SLOT_END</div><div class="ttdef"><b>Definition:</b> Player.h:712</div></div>
+<div class="ttc" id="aa02336_html_a6d1182dfc036dc286011d767c384ee5ea6d5756709c97422e8f21e84315606235"><div class="ttname"><a href="../../d3/d9c/a02336.html#a6d1182dfc036dc286011d767c384ee5ea6d5756709c97422e8f21e84315606235">BUYBACK_SLOT_START</a></div><div class="ttdeci">@ BUYBACK_SLOT_START</div><div class="ttdef"><b>Definition:</b> Player.h:711</div></div>
+<div class="ttc" id="aa08849_html"><div class="ttname"><a href="../../d3/d58/a08849.html">Item</a></div><div class="ttdef"><b>Definition:</b> Item.h:220</div></div>
+<div class="ttc" id="aa09145_html_ab85bb6e60777c904278021433a6a55cc"><div class="ttname"><a href="../../d1/d04/a09145.html#ab85bb6e60777c904278021433a6a55cc">Player::GetItemFromBuyBackSlot</a></div><div class="ttdeci">Item * GetItemFromBuyBackSlot(uint32 slot)</div><div class="ttdef"><b>Definition:</b> PlayerStorage.cpp:4097</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00712">BUYBACK_SLOT_END</a>, <a class="el" href="../../#l00711">BUYBACK_SLOT_START</a>, <a class="el" href="../../#l04097">Player::GetItemFromBuyBackSlot()</a>, <a class="el" href="../../#l00044">RecoveryItem::ItemEntry</a>, and <a class="el" href="../../#l00045">RecoveryItem::ItemGuid</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00056">item_commandscript::HandleItemRestoreCommand()</a>.</p>
+
+</div>
+</div>
+<a id="a074ad35364fee8062b2943d1fb893902" name="a074ad35364fee8062b2943d1fb893902"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a074ad35364fee8062b2943d1fb893902">&#9670;&#160;</a></span>Load()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::optional&lt; <a class="el" href="../../d1/df1/a08857.html">RecoveryItem</a> &gt; ItemRecovery::Load </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>recoveryId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  112</span>{</div>
+<div class="line"><span class="lineno">  113</span>    <a class="code hl_class" href="../../db/df7/a06137.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../df/d81/a02966.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d6/d58/a02993.html#a76116b4fa282d8e35bf8f8e940b5cba7ad76f3f9d5bf379eb036ed1afea5b8af1">CHAR_SEL_RECOVERY_ITEM</a>);</div>
+<div class="line"><span class="lineno">  114</span>    stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, recoveryId);</div>
+<div class="line"><span class="lineno">  115</span>    <a class="code hl_typedef" href="../../de/dec/a03020.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../df/d81/a02966.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(stmt);</div>
+<div class="line"><span class="lineno">  116</span>    <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">  117</span>        <span class="keywordflow">return</span> std::nullopt;</div>
+<div class="line"><span class="lineno">  118</span> </div>
+<div class="line"><span class="lineno">  119</span>    <a class="code hl_class" href="../../df/da5/a06173.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">  120</span> </div>
+<div class="line"><span class="lineno">  121</span>    <a class="code hl_struct" href="../../d1/df1/a08857.html">RecoveryItem</a> recovery;</div>
+<div class="line"><span class="lineno">  122</span>    recovery.<a class="code hl_variable" href="../../d1/df1/a08857.html#a4e93c3052626ba5e368609aa81a618ec">Id</a>               = fields[0].<a class="code hl_function" href="../../df/da5/a06173.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  123</span>    recovery.<a class="code hl_variable" href="../../d1/df1/a08857.html#a33e8309e41e5afe40f4d7a78efa7f201">OwnerGuid</a>        = fields[1].<a class="code hl_function" href="../../df/da5/a06173.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  124</span>    recovery.<a class="code hl_variable" href="../../d1/df1/a08857.html#afb02af58744af204181434f216fa7d8a">ItemEntry</a>        = fields[2].<a class="code hl_function" href="../../df/da5/a06173.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  125</span>    recovery.<a class="code hl_variable" href="../../d1/df1/a08857.html#ab7060a7c758092dfb7047d3bb67172e8">ItemGuid</a>         = fields[3].<a class="code hl_function" href="../../df/da5/a06173.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  126</span>    recovery.<a class="code hl_variable" href="../../d1/df1/a08857.html#a2b363e3e7c6e9b9fd615c58393cd06f4">Count</a>            = fields[4].<a class="code hl_function" href="../../df/da5/a06173.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  127</span>    recovery.<a class="code hl_variable" href="../../d1/df1/a08857.html#a67d3df162e923db168f96072307d1473">Source</a>           = <a class="code hl_enumeration" href="../../d6/d6e/a02174.html#a76cb790aeee9a1dba27c88d560467193">RecoveryItemSource</a>(fields[5].Get&lt;uint8&gt;());</div>
+<div class="line"><span class="lineno">  128</span>    recovery.<a class="code hl_variable" href="../../d1/df1/a08857.html#a821672b5e2064196bde9a4238d8a20ae">Money</a>            = fields[6].<a class="code hl_function" href="../../df/da5/a06173.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  129</span>    recovery.<a class="code hl_variable" href="../../d1/df1/a08857.html#af479923b65c9bbfe7bb139f4b223f266">RandomPropertyId</a> = fields[7].<a class="code hl_function" href="../../df/da5/a06173.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d8/d2d/a00815.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;();</div>
+<div class="line"><span class="lineno">  130</span>    recovery.<a class="code hl_variable" href="../../d1/df1/a08857.html#a4e6a53544c606374da9b611d68c76785">Enchantments</a>     = fields[8].<a class="code hl_function" href="../../df/da5/a06173.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  131</span>    recovery.<a class="code hl_variable" href="../../d1/df1/a08857.html#a6b84fb815781b42b1ad2ba8aa2bc23e0">CreatorGuid</a>      = fields[9].<a class="code hl_function" href="../../df/da5/a06173.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  132</span>    recovery.<a class="code hl_variable" href="../../d1/df1/a08857.html#a47780b5f8a7f54aa0377989fb9292cbb">Bound</a>            = fields[10].<a class="code hl_function" href="../../df/da5/a06173.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;() != 0;</div>
+<div class="line"><span class="lineno">  133</span>    recovery.<a class="code hl_variable" href="../../d1/df1/a08857.html#acb85220f11388742df8f0904f81b9037">Loot</a>             = <a class="code hl_function" href="../../dc/d65/a05195.html#a5cfec6830ed2be92b527fd22346743a7">LoadLoot</a>(recovery.<a class="code hl_variable" href="../../d1/df1/a08857.html#a4e93c3052626ba5e368609aa81a618ec">Id</a>);</div>
+<div class="line"><span class="lineno">  134</span> </div>
+<div class="line"><span class="lineno">  135</span>    <span class="keywordflow">return</span> recovery;</div>
+<div class="line"><span class="lineno">  136</span>}</div>
+<div class="ttc" id="aa00815_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d8/d2d/a00815.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
+<div class="ttc" id="aa00815_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa02174_html_a76cb790aeee9a1dba27c88d560467193"><div class="ttname"><a href="../../d6/d6e/a02174.html#a76cb790aeee9a1dba27c88d560467193">RecoveryItemSource</a></div><div class="ttdeci">RecoveryItemSource</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:32</div></div>
+<div class="ttc" id="aa02993_html_a76116b4fa282d8e35bf8f8e940b5cba7ad76f3f9d5bf379eb036ed1afea5b8af1"><div class="ttname"><a href="../../d6/d58/a02993.html#a76116b4fa282d8e35bf8f8e940b5cba7ad76f3f9d5bf379eb036ed1afea5b8af1">CHAR_SEL_RECOVERY_ITEM</a></div><div class="ttdeci">@ CHAR_SEL_RECOVERY_ITEM</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:521</div></div>
+<div class="ttc" id="aa03020_html_ac6110b8d867b5f84f677555d07037acb"><div class="ttname"><a href="../../de/dec/a03020.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; PreparedResultSet &gt; PreparedQueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:45</div></div>
+<div class="ttc" id="aa05195_html_a5cfec6830ed2be92b527fd22346743a7"><div class="ttname"><a href="../../dc/d65/a05195.html#a5cfec6830ed2be92b527fd22346743a7">anonymous_namespace{ItemRecovery.cpp}::LoadLoot</a></div><div class="ttdeci">RecoveryItemLoot LoadLoot(uint32 recoveryId)</div><div class="ttdef"><b>Definition:</b> ItemRecovery.cpp:50</div></div>
+<div class="ttc" id="aa06173_html"><div class="ttname"><a href="../../df/da5/a06173.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:99</div></div>
+<div class="ttc" id="aa06173_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../df/da5/a06173.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:113</div></div>
+<div class="ttc" id="aa08857_html"><div class="ttname"><a href="../../d1/df1/a08857.html">RecoveryItem</a></div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:41</div></div>
+<div class="ttc" id="aa08857_html_a2b363e3e7c6e9b9fd615c58393cd06f4"><div class="ttname"><a href="../../d1/df1/a08857.html#a2b363e3e7c6e9b9fd615c58393cd06f4">RecoveryItem::Count</a></div><div class="ttdeci">uint32 Count</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:46</div></div>
+<div class="ttc" id="aa08857_html_a33e8309e41e5afe40f4d7a78efa7f201"><div class="ttname"><a href="../../d1/df1/a08857.html#a33e8309e41e5afe40f4d7a78efa7f201">RecoveryItem::OwnerGuid</a></div><div class="ttdeci">ObjectGuid::LowType OwnerGuid</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:43</div></div>
+<div class="ttc" id="aa08857_html_a47780b5f8a7f54aa0377989fb9292cbb"><div class="ttname"><a href="../../d1/df1/a08857.html#a47780b5f8a7f54aa0377989fb9292cbb">RecoveryItem::Bound</a></div><div class="ttdeci">bool Bound</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:52</div></div>
+<div class="ttc" id="aa08857_html_a4e6a53544c606374da9b611d68c76785"><div class="ttname"><a href="../../d1/df1/a08857.html#a4e6a53544c606374da9b611d68c76785">RecoveryItem::Enchantments</a></div><div class="ttdeci">std::string Enchantments</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:50</div></div>
+<div class="ttc" id="aa08857_html_a4e93c3052626ba5e368609aa81a618ec"><div class="ttname"><a href="../../d1/df1/a08857.html#a4e93c3052626ba5e368609aa81a618ec">RecoveryItem::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:42</div></div>
+<div class="ttc" id="aa08857_html_a67d3df162e923db168f96072307d1473"><div class="ttname"><a href="../../d1/df1/a08857.html#a67d3df162e923db168f96072307d1473">RecoveryItem::Source</a></div><div class="ttdeci">RecoveryItemSource Source</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:47</div></div>
+<div class="ttc" id="aa08857_html_a6b84fb815781b42b1ad2ba8aa2bc23e0"><div class="ttname"><a href="../../d1/df1/a08857.html#a6b84fb815781b42b1ad2ba8aa2bc23e0">RecoveryItem::CreatorGuid</a></div><div class="ttdeci">ObjectGuid::LowType CreatorGuid</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:51</div></div>
+<div class="ttc" id="aa08857_html_a821672b5e2064196bde9a4238d8a20ae"><div class="ttname"><a href="../../d1/df1/a08857.html#a821672b5e2064196bde9a4238d8a20ae">RecoveryItem::Money</a></div><div class="ttdeci">uint32 Money</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:48</div></div>
+<div class="ttc" id="aa08857_html_ab7060a7c758092dfb7047d3bb67172e8"><div class="ttname"><a href="../../d1/df1/a08857.html#ab7060a7c758092dfb7047d3bb67172e8">RecoveryItem::ItemGuid</a></div><div class="ttdeci">ObjectGuid::LowType ItemGuid</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:45</div></div>
+<div class="ttc" id="aa08857_html_acb85220f11388742df8f0904f81b9037"><div class="ttname"><a href="../../d1/df1/a08857.html#acb85220f11388742df8f0904f81b9037">RecoveryItem::Loot</a></div><div class="ttdeci">RecoveryItemLoot Loot</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:53</div></div>
+<div class="ttc" id="aa08857_html_af479923b65c9bbfe7bb139f4b223f266"><div class="ttname"><a href="../../d1/df1/a08857.html#af479923b65c9bbfe7bb139f4b223f266">RecoveryItem::RandomPropertyId</a></div><div class="ttdeci">int32 RandomPropertyId</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:49</div></div>
+<div class="ttc" id="aa08857_html_afb02af58744af204181434f216fa7d8a"><div class="ttname"><a href="../../d1/df1/a08857.html#afb02af58744af204181434f216fa7d8a">RecoveryItem::ItemEntry</a></div><div class="ttdeci">uint32 ItemEntry</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:44</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00052">RecoveryItem::Bound</a>, <a class="el" href="../../#l00521">CHAR_SEL_RECOVERY_ITEM</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00046">RecoveryItem::Count</a>, <a class="el" href="../../#l00051">RecoveryItem::CreatorGuid</a>, <a class="el" href="../../#l00050">RecoveryItem::Enchantments</a>, <a class="el" href="../../#l00113">Field::Get()</a>, <a class="el" href="../../#l00042">RecoveryItem::Id</a>, <a class="el" href="../../#l00044">RecoveryItem::ItemEntry</a>, <a class="el" href="../../#l00045">RecoveryItem::ItemGuid</a>, <a class="el" href="../../#l00050">anonymous_namespace{ItemRecovery.cpp}::LoadLoot()</a>, <a class="el" href="../../#l00053">RecoveryItem::Loot</a>, <a class="el" href="../../#l00048">RecoveryItem::Money</a>, <a class="el" href="../../#l00043">RecoveryItem::OwnerGuid</a>, <a class="el" href="../../#l00049">RecoveryItem::RandomPropertyId</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, and <a class="el" href="../../#l00047">RecoveryItem::Source</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00056">item_commandscript::HandleItemRestoreCommand()</a>.</p>
+
+</div>
+</div>
+<a id="ad50212d6e3a6385c53a1196557dcd612" name="ad50212d6e3a6385c53a1196557dcd612"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad50212d6e3a6385c53a1196557dcd612">&#9670;&#160;</a></span>Restore()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ItemRecovery::Restore </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df1/a08857.html">RecoveryItem</a> const &amp;&#160;</td>
+          <td class="paramname"><em>recovery</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/d04/a09145.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>owner</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  139</span>{</div>
+<div class="line"><span class="lineno">  140</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../dd/d08/a01682.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetItemTemplate(recovery.ItemEntry))</div>
+<div class="line"><span class="lineno">  141</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  142</span> </div>
+<div class="line"><span class="lineno">  143</span>    {</div>
+<div class="line"><span class="lineno">  144</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../dc/d65/a05195.html#a7a2a83445fcc2c34acc8dea47217cb5f">RestoredIdsLock</a>);</div>
+<div class="line"><span class="lineno">  145</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/d65/a05195.html#a82b8389d93602d2b860afb2dee56ea6e">RestoredIds</a>.insert(recovery.Id).second)</div>
+<div class="line"><span class="lineno">  146</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  147</span>    }</div>
+<div class="line"><span class="lineno">  148</span> </div>
+<div class="line"><span class="lineno">  149</span>    <span class="comment">// A zero id rolls a new random property, which only matters for legacy rows recorded without one</span></div>
+<div class="line"><span class="lineno">  150</span>    <a class="code hl_class" href="../../d3/d58/a08849.html">Item</a>* item = <a class="code hl_function" href="../../d3/d58/a08849.html#a1eba1689f9ddd48d21394c4206aff398">Item::CreateItem</a>(recovery.ItemEntry, recovery.Count, <span class="keyword">nullptr</span>, <span class="keyword">false</span>, <a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(recovery.RandomPropertyId));</div>
+<div class="line"><span class="lineno">  151</span>    <span class="keywordflow">if</span> (!item)</div>
+<div class="line"><span class="lineno">  152</span>    {</div>
+<div class="line"><span class="lineno">  153</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../dc/d65/a05195.html#a7a2a83445fcc2c34acc8dea47217cb5f">RestoredIdsLock</a>);</div>
+<div class="line"><span class="lineno">  154</span>        <a class="code hl_variable" href="../../dc/d65/a05195.html#a82b8389d93602d2b860afb2dee56ea6e">RestoredIds</a>.erase(recovery.Id);</div>
+<div class="line"><span class="lineno">  155</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  156</span>    }</div>
+<div class="line"><span class="lineno">  157</span> </div>
+<div class="line"><span class="lineno">  158</span>    <span class="comment">// An online receiver takes this very object from the mail, and a soulbound item must already be theirs</span></div>
+<div class="line"><span class="lineno">  159</span>    item-&gt;<a class="code hl_function" href="../../d3/d58/a08849.html#ad3b6cd9cde6c4613fe5b336bbc6df7ee">SetOwnerGUID</a>(ObjectGuid::Create&lt;HighGuid::Player&gt;(recovery.OwnerGuid));</div>
+<div class="line"><span class="lineno">  160</span> </div>
+<div class="line"><span class="lineno">  161</span>    <span class="comment">// Item::SetEnchantment logs to and queues the item for its owner, who may be offline and does not hold it yet</span></div>
+<div class="line"><span class="lineno">  162</span>    std::vector&lt;std::string_view&gt; enchantments = <a class="code hl_function" href="../../d3/d60/a05145.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(recovery.Enchantments, <span class="charliteral">&#39; &#39;</span>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  163</span>    <span class="keywordflow">if</span> (enchantments.size() == <a class="code hl_enumvalue" href="../../df/d0e/a02195.html#af61f52556a9623cc79e50bc6fca5f593a52e516740a493e30942f52380e52a075">MAX_ENCHANTMENT_SLOT</a> * <a class="code hl_define" href="../../df/d0e/a02195.html#a468d419c5aa228b6604358f9af3f15c6">MAX_ENCHANTMENT_OFFSET</a>)</div>
+<div class="line"><span class="lineno">  164</span>    {</div>
+<div class="line"><span class="lineno">  165</span>        <span class="keywordflow">for</span> (<a class="code hl_enumeration" href="../../df/d0e/a02195.html#af61f52556a9623cc79e50bc6fca5f593">EnchantmentSlot</a> slot : <a class="code hl_variable" href="../../dc/d65/a05195.html#a724841dbfbac618ae98e900a7984a69e">RecoveryEnchantmentSlots</a>)</div>
+<div class="line"><span class="lineno">  166</span>        {</div>
+<div class="line"><span class="lineno">  167</span>            <a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> field = slot * <a class="code hl_define" href="../../df/d0e/a02195.html#a468d419c5aa228b6604358f9af3f15c6">MAX_ENCHANTMENT_OFFSET</a> + <a class="code hl_enumvalue" href="../../df/d0e/a02195.html#aa7efa47ad428aac812775df97e8c7611a271447016124f269608a8897df295f6b">ENCHANTMENT_ID_OFFSET</a>;</div>
+<div class="line"><span class="lineno">  168</span>            <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d9/d10/a00449.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;uint32&gt;</a> enchantId = Acore::StringTo&lt;uint32&gt;(enchantments[field]); enchantId &amp;&amp; *enchantId)</div>
+<div class="line"><span class="lineno">  169</span>                item-&gt;<a class="code hl_function" href="../../d3/d53/a08893.html#adc7e9b205f35f9894ec9a4f0ec0871f9">SetUInt32Value</a>(<a class="code hl_enumvalue" href="../../d2/d81/a02276.html#a529e4bfaaee7e3c2dc52aaa447287cfba9c3d2a627de131d6088cf3eb7e3a78d7">ITEM_FIELD_ENCHANTMENT_1_1</a> + field, *enchantId);</div>
+<div class="line"><span class="lineno">  170</span>        }</div>
+<div class="line"><span class="lineno">  171</span>    }</div>
+<div class="line"><span class="lineno">  172</span> </div>
+<div class="line"><span class="lineno">  173</span>    <span class="keywordflow">if</span> (recovery.CreatorGuid)</div>
+<div class="line"><span class="lineno">  174</span>        item-&gt;<a class="code hl_function" href="../../d3/d53/a08893.html#a8ba71e40469281133c4e06d5f2de5d03">SetGuidValue</a>(<a class="code hl_enumvalue" href="../../d2/d81/a02276.html#a529e4bfaaee7e3c2dc52aaa447287cfba727c81f9855d645b91aeeaa193273c90">ITEM_FIELD_CREATOR</a>, ObjectGuid::Create&lt;HighGuid::Player&gt;(recovery.CreatorGuid));</div>
+<div class="line"><span class="lineno">  175</span> </div>
+<div class="line"><span class="lineno">  176</span>    <span class="comment">// A bind-on-equip item would otherwise come back tradeable</span></div>
+<div class="line"><span class="lineno">  177</span>    <span class="keywordflow">if</span> (recovery.Bound)</div>
+<div class="line"><span class="lineno">  178</span>        item-&gt;<a class="code hl_function" href="../../d3/d58/a08849.html#a29d45523ff35ed1ea4b5c89b00e6ffdc">SetBinding</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  179</span> </div>
+<div class="line"><span class="lineno">  180</span>    <a class="code hl_typedef" href="../../de/dec/a03020.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a> trans = <a class="code hl_variable" href="../../df/d81/a02966.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.BeginTransaction();</div>
+<div class="line"><span class="lineno">  181</span> </div>
+<div class="line"><span class="lineno">  182</span>    item-&gt;<a class="code hl_function" href="../../d3/d58/a08849.html#a228268ddaea4ae10da6fc0ddb2748f53">SaveToDB</a>(trans);</div>
+<div class="line"><span class="lineno">  183</span>    <a class="code hl_class" href="../../db/dba/a10269.html">MailDraft</a>(<span class="stringliteral">&quot;Recovered Item&quot;</span>, <span class="stringliteral">&quot;We recovered a lost item in the twisting nether and noted that it was yours.$B$BPlease find said object enclosed.&quot;</span>)</div>
+<div class="line"><span class="lineno">  184</span>        .<a class="code hl_function" href="../../db/dba/a10269.html#ae0c2b4bac4dd8f2a8c53608c45cbb11a">AddItem</a>(item)</div>
+<div class="line"><span class="lineno">  185</span>        .<a class="code hl_function" href="../../db/dba/a10269.html#aaee8965aaa66351954bdc7db246151d7">SendMailTo</a>(trans, <a class="code hl_class" href="../../d3/dc2/a10265.html">MailReceiver</a>(owner, recovery.OwnerGuid), <a class="code hl_class" href="../../d9/dfa/a10261.html">MailSender</a>(<a class="code hl_enumvalue" href="../../de/d9d/a02072.html#afb83216fd8c410f5d4bdfef0f9b302eda462b01f59d339ec67b080f100e97256c">MAIL_CREATURE</a>, 34337 <span class="comment">/* The Postmaster */</span>));</div>
+<div class="line"><span class="lineno">  186</span> </div>
+<div class="line"><span class="lineno">  187</span>    <a class="code hl_function" href="../../d9/dff/a05196.html#a2ec915cbfd5641b0abe8beb905afbc35">DeleteFromDB</a>(trans, recovery.Id);</div>
+<div class="line"><span class="lineno">  188</span>    <a class="code hl_variable" href="../../df/d81/a02966.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.CommitTransaction(trans);</div>
+<div class="line"><span class="lineno">  189</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  190</span>}</div>
+<div class="ttc" id="aa00449_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../d9/d10/a00449.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
+<div class="ttc" id="aa01682_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../dd/d08/a01682.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1731</div></div>
+<div class="ttc" id="aa02072_html_afb83216fd8c410f5d4bdfef0f9b302eda462b01f59d339ec67b080f100e97256c"><div class="ttname"><a href="../../de/d9d/a02072.html#afb83216fd8c410f5d4bdfef0f9b302eda462b01f59d339ec67b080f100e97256c">MAIL_CREATURE</a></div><div class="ttdeci">@ MAIL_CREATURE</div><div class="ttdef"><b>Definition:</b> Mail.h:39</div></div>
+<div class="ttc" id="aa02195_html_a468d419c5aa228b6604358f9af3f15c6"><div class="ttname"><a href="../../df/d0e/a02195.html#a468d419c5aa228b6604358f9af3f15c6">MAX_ENCHANTMENT_OFFSET</a></div><div class="ttdeci">#define MAX_ENCHANTMENT_OFFSET</div><div class="ttdef"><b>Definition:</b> Item.h:197</div></div>
+<div class="ttc" id="aa02195_html_aa7efa47ad428aac812775df97e8c7611a271447016124f269608a8897df295f6b"><div class="ttname"><a href="../../df/d0e/a02195.html#aa7efa47ad428aac812775df97e8c7611a271447016124f269608a8897df295f6b">ENCHANTMENT_ID_OFFSET</a></div><div class="ttdeci">@ ENCHANTMENT_ID_OFFSET</div><div class="ttdef"><b>Definition:</b> Item.h:192</div></div>
+<div class="ttc" id="aa02195_html_af61f52556a9623cc79e50bc6fca5f593"><div class="ttname"><a href="../../df/d0e/a02195.html#af61f52556a9623cc79e50bc6fca5f593">EnchantmentSlot</a></div><div class="ttdeci">EnchantmentSlot</div><div class="ttdef"><b>Definition:</b> Item.h:168</div></div>
+<div class="ttc" id="aa02195_html_af61f52556a9623cc79e50bc6fca5f593a52e516740a493e30942f52380e52a075"><div class="ttname"><a href="../../df/d0e/a02195.html#af61f52556a9623cc79e50bc6fca5f593a52e516740a493e30942f52380e52a075">MAX_ENCHANTMENT_SLOT</a></div><div class="ttdeci">@ MAX_ENCHANTMENT_SLOT</div><div class="ttdef"><b>Definition:</b> Item.h:183</div></div>
+<div class="ttc" id="aa02276_html_a529e4bfaaee7e3c2dc52aaa447287cfba727c81f9855d645b91aeeaa193273c90"><div class="ttname"><a href="../../d2/d81/a02276.html#a529e4bfaaee7e3c2dc52aaa447287cfba727c81f9855d645b91aeeaa193273c90">ITEM_FIELD_CREATOR</a></div><div class="ttdeci">@ ITEM_FIELD_CREATOR</div><div class="ttdef"><b>Definition:</b> UpdateFields.h:37</div></div>
+<div class="ttc" id="aa02276_html_a529e4bfaaee7e3c2dc52aaa447287cfba9c3d2a627de131d6088cf3eb7e3a78d7"><div class="ttname"><a href="../../d2/d81/a02276.html#a529e4bfaaee7e3c2dc52aaa447287cfba9c3d2a627de131d6088cf3eb7e3a78d7">ITEM_FIELD_ENCHANTMENT_1_1</a></div><div class="ttdeci">@ ITEM_FIELD_ENCHANTMENT_1_1</div><div class="ttdef"><b>Definition:</b> UpdateFields.h:43</div></div>
+<div class="ttc" id="aa03020_html_a96bac9a371212c6bab7a9448214666c0"><div class="ttname"><a href="../../de/dec/a03020.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a></div><div class="ttdeci">SQLTransaction&lt; CharacterDatabaseConnection &gt; CharacterDatabaseTransaction</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:69</div></div>
+<div class="ttc" id="aa05145_html_a6b121485ace4118b9006db1fb89f90f2"><div class="ttname"><a href="../../d3/d60/a05145.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a></div><div class="ttdeci">std::vector&lt; std::string_view &gt; Tokenize(std::string_view str, char sep, bool keepEmpty)</div><div class="ttdef"><b>Definition:</b> Tokenize.cpp:20</div></div>
+<div class="ttc" id="aa05195_html_a724841dbfbac618ae98e900a7984a69e"><div class="ttname"><a href="../../dc/d65/a05195.html#a724841dbfbac618ae98e900a7984a69e">anonymous_namespace{ItemRecovery.cpp}::RecoveryEnchantmentSlots</a></div><div class="ttdeci">constexpr std::array&lt; EnchantmentSlot, 6 &gt; RecoveryEnchantmentSlots</div><div class="ttdef"><b>Definition:</b> ItemRecovery.cpp:35</div></div>
+<div class="ttc" id="aa05195_html_a7a2a83445fcc2c34acc8dea47217cb5f"><div class="ttname"><a href="../../dc/d65/a05195.html#a7a2a83445fcc2c34acc8dea47217cb5f">anonymous_namespace{ItemRecovery.cpp}::RestoredIdsLock</a></div><div class="ttdeci">std::mutex RestoredIdsLock</div><div class="ttdef"><b>Definition:</b> ItemRecovery.cpp:47</div></div>
+<div class="ttc" id="aa05195_html_a82b8389d93602d2b860afb2dee56ea6e"><div class="ttname"><a href="../../dc/d65/a05195.html#a82b8389d93602d2b860afb2dee56ea6e">anonymous_namespace{ItemRecovery.cpp}::RestoredIds</a></div><div class="ttdeci">std::unordered_set&lt; uint32 &gt; RestoredIds</div><div class="ttdef"><b>Definition:</b> ItemRecovery.cpp:48</div></div>
+<div class="ttc" id="aa05196_html_a2ec915cbfd5641b0abe8beb905afbc35"><div class="ttname"><a href="../../d9/dff/a05196.html#a2ec915cbfd5641b0abe8beb905afbc35">ItemRecovery::DeleteFromDB</a></div><div class="ttdeci">void DeleteFromDB(CharacterDatabaseTransaction trans, uint32 recoveryId)</div><div class="ttdef"><b>Definition:</b> ItemRecovery.cpp:192</div></div>
+<div class="ttc" id="aa08849_html_a1eba1689f9ddd48d21394c4206aff398"><div class="ttname"><a href="../../d3/d58/a08849.html#a1eba1689f9ddd48d21394c4206aff398">Item::CreateItem</a></div><div class="ttdeci">static Item * CreateItem(uint32 item, uint32 count, Player const *player=nullptr, bool clone=false, uint32 randomPropertyId=0)</div><div class="ttdef"><b>Definition:</b> Item.cpp:1099</div></div>
+<div class="ttc" id="aa08849_html_a228268ddaea4ae10da6fc0ddb2748f53"><div class="ttname"><a href="../../d3/d58/a08849.html#a228268ddaea4ae10da6fc0ddb2748f53">Item::SaveToDB</a></div><div class="ttdeci">virtual void SaveToDB(CharacterDatabaseTransaction trans)</div><div class="ttdef"><b>Definition:</b> Item.cpp:337</div></div>
+<div class="ttc" id="aa08849_html_a29d45523ff35ed1ea4b5c89b00e6ffdc"><div class="ttname"><a href="../../d3/d58/a08849.html#a29d45523ff35ed1ea4b5c89b00e6ffdc">Item::SetBinding</a></div><div class="ttdeci">void SetBinding(bool val)</div><div class="ttdef"><b>Definition:</b> Item.h:235</div></div>
+<div class="ttc" id="aa08849_html_ad3b6cd9cde6c4613fe5b336bbc6df7ee"><div class="ttname"><a href="../../d3/d58/a08849.html#ad3b6cd9cde6c4613fe5b336bbc6df7ee">Item::SetOwnerGUID</a></div><div class="ttdeci">void SetOwnerGUID(ObjectGuid guid)</div><div class="ttdef"><b>Definition:</b> Item.h:232</div></div>
+<div class="ttc" id="aa08893_html_a8ba71e40469281133c4e06d5f2de5d03"><div class="ttname"><a href="../../d3/d53/a08893.html#a8ba71e40469281133c4e06d5f2de5d03">Object::SetGuidValue</a></div><div class="ttdeci">void SetGuidValue(uint16 index, ObjectGuid value)</div><div class="ttdef"><b>Definition:</b> Object.cpp:721</div></div>
+<div class="ttc" id="aa08893_html_adc7e9b205f35f9894ec9a4f0ec0871f9"><div class="ttname"><a href="../../d3/d53/a08893.html#adc7e9b205f35f9894ec9a4f0ec0871f9">Object::SetUInt32Value</a></div><div class="ttdeci">void SetUInt32Value(uint16 index, uint32 value)</div><div class="ttdef"><b>Definition:</b> Object.cpp:648</div></div>
+<div class="ttc" id="aa10261_html"><div class="ttname"><a href="../../d9/dfa/a10261.html">MailSender</a></div><div class="ttdef"><b>Definition:</b> Mail.h:83</div></div>
+<div class="ttc" id="aa10265_html"><div class="ttname"><a href="../../d3/dc2/a10265.html">MailReceiver</a></div><div class="ttdef"><b>Definition:</b> Mail.h:105</div></div>
+<div class="ttc" id="aa10269_html"><div class="ttname"><a href="../../db/dba/a10269.html">MailDraft</a></div><div class="ttdef"><b>Definition:</b> Mail.h:119</div></div>
+<div class="ttc" id="aa10269_html_aaee8965aaa66351954bdc7db246151d7"><div class="ttname"><a href="../../db/dba/a10269.html#aaee8965aaa66351954bdc7db246151d7">MailDraft::SendMailTo</a></div><div class="ttdeci">void SendMailTo(CharacterDatabaseTransaction trans, MailReceiver const &amp;receiver, MailSender const &amp;sender, MailCheckMask checked=MAIL_CHECK_MASK_NONE, uint32 deliver_delay=0, uint32 custom_expiration=0, bool deleteMailItemsFromDB=false, bool sendMail=true)</div><div class="ttdef"><b>Definition:</b> Mail.cpp:187</div></div>
+<div class="ttc" id="aa10269_html_ae0c2b4bac4dd8f2a8c53608c45cbb11a"><div class="ttname"><a href="../../db/dba/a10269.html#ae0c2b4bac4dd8f2a8c53608c45cbb11a">MailDraft::AddItem</a></div><div class="ttdeci">MailDraft &amp; AddItem(Item *item)</div><div class="ttdef"><b>Definition:</b> Mail.cpp:95</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00095">MailDraft::AddItem()</a>, <a class="el" href="../../#l00052">RecoveryItem::Bound</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00046">RecoveryItem::Count</a>, <a class="el" href="../../#l01099">Item::CreateItem()</a>, <a class="el" href="../../#l00051">RecoveryItem::CreatorGuid</a>, <a class="el" href="../../#l00192">DeleteFromDB()</a>, <a class="el" href="../../#l00192">ENCHANTMENT_ID_OFFSET</a>, <a class="el" href="../../#l00050">RecoveryItem::Enchantments</a>, <a class="el" href="../../#l00042">RecoveryItem::Id</a>, <a class="el" href="../../#l00037">ITEM_FIELD_CREATOR</a>, <a class="el" href="../../#l00043">ITEM_FIELD_ENCHANTMENT_1_1</a>, <a class="el" href="../../#l00044">RecoveryItem::ItemEntry</a>, <a class="el" href="../../#l00039">MAIL_CREATURE</a>, <a class="el" href="../../#l00197">MAX_ENCHANTMENT_OFFSET</a>, <a class="el" href="../../#l00183">MAX_ENCHANTMENT_SLOT</a>, <a class="el" href="../../#l00043">RecoveryItem::OwnerGuid</a>, <a class="el" href="../../#l00049">RecoveryItem::RandomPropertyId</a>, <a class="el" href="../../#l00035">anonymous_namespace{ItemRecovery.cpp}::RecoveryEnchantmentSlots</a>, <a class="el" href="../../#l00048">anonymous_namespace{ItemRecovery.cpp}::RestoredIds</a>, <a class="el" href="../../#l00047">anonymous_namespace{ItemRecovery.cpp}::RestoredIdsLock</a>, <a class="el" href="../../#l00337">Item::SaveToDB()</a>, <a class="el" href="../../#l00187">MailDraft::SendMailTo()</a>, <a class="el" href="../../#l00235">Item::SetBinding()</a>, <a class="el" href="../../#l00721">Object::SetGuidValue()</a>, <a class="el" href="../../#l00232">Item::SetOwnerGUID()</a>, <a class="el" href="../../#l00648">Object::SetUInt32Value()</a>, <a class="el" href="../../#l01731">sObjectMgr</a>, and <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00056">item_commandscript::HandleItemRestoreCommand()</a>.</p>
+
+</div>
+</div>
+<a id="aba8bb85058eb9806188799f6284fb744" name="aba8bb85058eb9806188799f6284fb744"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba8bb85058eb9806188799f6284fb744">&#9670;&#160;</a></span>Save()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ItemRecovery::Save </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d58/a08849.html">Item</a> const *&#160;</td>
+          <td class="paramname"><em>item</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>count</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d6e/a02174.html#a76cb790aeee9a1dba27c88d560467193">RecoveryItemSource</a>&#160;</td>
+          <td class="paramname"><em>source</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>money</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d6e/a02174.html#a21a23fdc5e56f331543f56934db53954">RecoveryItemLoot</a> const &amp;&#160;</td>
+          <td class="paramname"><em>loot</em> = <code>{&#160;}</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   70</span>{</div>
+<div class="line"><span class="lineno">   71</span>    <a class="code hl_struct" href="../../df/d73/a08877.html">ItemTemplate</a> <span class="keyword">const</span>* proto = item-&gt;GetTemplate();</div>
+<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d3/dc0/a05140.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../d8/d98/a02009.html#a468ad15992691eb97dd20680046832e0a970001cce0f8ebb6407f11f5ccd1d806">CONFIG_ITEMDELETE_METHOD</a>)</div>
+<div class="line"><span class="lineno">   73</span>        || proto-&gt;<a class="code hl_variable" href="../../df/d73/a08877.html#a1b4b51353503f83db3be63f5a5786a1f">Quality</a> &lt; <a class="code hl_define" href="../../d3/dc0/a05140.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d8/d98/a02009.html#a468ad15992691eb97dd20680046832e0aed6da08f15f46155406328766a36bc5f">CONFIG_ITEMDELETE_QUALITY</a>)</div>
+<div class="line"><span class="lineno">   74</span>        || proto-&gt;<a class="code hl_variable" href="../../df/d73/a08877.html#a21d62ad4a38e5a84305cf783c27c1d39">ItemLevel</a> &lt; <a class="code hl_define" href="../../d3/dc0/a05140.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d8/d98/a02009.html#a468ad15992691eb97dd20680046832e0af6c7329fe4933f38df25fa6f352c26fd">CONFIG_ITEMDELETE_ITEM_LEVEL</a>))</div>
+<div class="line"><span class="lineno">   75</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   76</span> </div>
+<div class="line"><span class="lineno">   77</span>    <a class="code hl_typedef" href="../../de/dec/a03020.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a> trans = <a class="code hl_variable" href="../../df/d81/a02966.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.BeginTransaction();</div>
+<div class="line"><span class="lineno">   78</span> </div>
+<div class="line"><span class="lineno">   79</span>    <a class="code hl_typedef" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> index = 0;</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_class" href="../../db/df7/a06137.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../df/d81/a02966.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d6/d58/a02993.html#a76116b4fa282d8e35bf8f8e940b5cba7ae5dab8c8f5d71d8fe49774f5ee158b3c">CHAR_INS_RECOVERY_ITEM</a>);</div>
+<div class="line"><span class="lineno">   81</span>    stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(index++, item-&gt;GetOwnerGUID().GetCounter());</div>
+<div class="line"><span class="lineno">   82</span>    stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(index++, item-&gt;GetEntry());</div>
+<div class="line"><span class="lineno">   83</span>    stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(index++, item-&gt;GetGUID().GetCounter());</div>
+<div class="line"><span class="lineno">   84</span>    stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(index++, count);</div>
+<div class="line"><span class="lineno">   85</span>    stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(index++, <a class="code hl_typedef" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(source));</div>
+<div class="line"><span class="lineno">   86</span>    stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(index++, money);</div>
+<div class="line"><span class="lineno">   87</span>    stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(index++, item-&gt;GetItemRandomPropertyId());</div>
+<div class="line"><span class="lineno">   88</span>    stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(index++, item-&gt;GetEnchantmentsString());</div>
+<div class="line"><span class="lineno">   89</span>    stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(index++, item-&gt;GetGuidValue(<a class="code hl_enumvalue" href="../../d2/d81/a02276.html#a529e4bfaaee7e3c2dc52aaa447287cfba727c81f9855d645b91aeeaa193273c90">ITEM_FIELD_CREATOR</a>).GetCounter());</div>
+<div class="line"><span class="lineno">   90</span>    stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(index++, <a class="code hl_typedef" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(item-&gt;IsSoulBound()));</div>
+<div class="line"><span class="lineno">   91</span>    trans-&gt;Append(stmt);</div>
+<div class="line"><span class="lineno">   92</span> </div>
+<div class="line"><span class="lineno">   93</span>    std::map&lt;uint32, uint32&gt; lootCounts;</div>
+<div class="line"><span class="lineno">   94</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [itemEntry, itemCount] : loot)</div>
+<div class="line"><span class="lineno">   95</span>        lootCounts[itemEntry] += itemCount;</div>
+<div class="line"><span class="lineno">   96</span> </div>
+<div class="line"><span class="lineno">   97</span>    <span class="comment">// recovery_item_loot has no auto-increment column, so LAST_INSERT_ID() keeps pointing at the row above</span></div>
+<div class="line"><span class="lineno">   98</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [itemEntry, itemCount] : lootCounts)</div>
+<div class="line"><span class="lineno">   99</span>    {</div>
+<div class="line"><span class="lineno">  100</span>        stmt = <a class="code hl_variable" href="../../df/d81/a02966.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d6/d58/a02993.html#a76116b4fa282d8e35bf8f8e940b5cba7aec4c0ac892608032dc7fc8ebc1985842">CHAR_INS_RECOVERY_ITEM_LOOT</a>);</div>
+<div class="line"><span class="lineno">  101</span>        stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, itemEntry);</div>
+<div class="line"><span class="lineno">  102</span>        stmt-&gt;<a class="code hl_function" href="../../dd/d78/a06277.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, itemCount);</div>
+<div class="line"><span class="lineno">  103</span>        trans-&gt;Append(stmt);</div>
+<div class="line"><span class="lineno">  104</span>    }</div>
+<div class="line"><span class="lineno">  105</span> </div>
+<div class="line"><span class="lineno">  106</span>    <span class="comment">// Synchronous, so the row exists before a buyback of the same item tries to delete it</span></div>
+<div class="line"><span class="lineno">  107</span>    <a class="code hl_variable" href="../../df/d81/a02966.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectCommitTransaction(trans);</div>
+<div class="line"><span class="lineno">  108</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  109</span>}</div>
+<div class="ttc" id="aa02009_html_a468ad15992691eb97dd20680046832e0a970001cce0f8ebb6407f11f5ccd1d806"><div class="ttname"><a href="../../d8/d98/a02009.html#a468ad15992691eb97dd20680046832e0a970001cce0f8ebb6407f11f5ccd1d806">CONFIG_ITEMDELETE_METHOD</a></div><div class="ttdeci">@ CONFIG_ITEMDELETE_METHOD</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:120</div></div>
+<div class="ttc" id="aa02009_html_a468ad15992691eb97dd20680046832e0aed6da08f15f46155406328766a36bc5f"><div class="ttname"><a href="../../d8/d98/a02009.html#a468ad15992691eb97dd20680046832e0aed6da08f15f46155406328766a36bc5f">CONFIG_ITEMDELETE_QUALITY</a></div><div class="ttdeci">@ CONFIG_ITEMDELETE_QUALITY</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:359</div></div>
+<div class="ttc" id="aa02009_html_a468ad15992691eb97dd20680046832e0af6c7329fe4933f38df25fa6f352c26fd"><div class="ttname"><a href="../../d8/d98/a02009.html#a468ad15992691eb97dd20680046832e0af6c7329fe4933f38df25fa6f352c26fd">CONFIG_ITEMDELETE_ITEM_LEVEL</a></div><div class="ttdeci">@ CONFIG_ITEMDELETE_ITEM_LEVEL</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:360</div></div>
+<div class="ttc" id="aa02993_html_a76116b4fa282d8e35bf8f8e940b5cba7ae5dab8c8f5d71d8fe49774f5ee158b3c"><div class="ttname"><a href="../../d6/d58/a02993.html#a76116b4fa282d8e35bf8f8e940b5cba7ae5dab8c8f5d71d8fe49774f5ee158b3c">CHAR_INS_RECOVERY_ITEM</a></div><div class="ttdeci">@ CHAR_INS_RECOVERY_ITEM</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:519</div></div>
+<div class="ttc" id="aa02993_html_a76116b4fa282d8e35bf8f8e940b5cba7aec4c0ac892608032dc7fc8ebc1985842"><div class="ttname"><a href="../../d6/d58/a02993.html#a76116b4fa282d8e35bf8f8e940b5cba7aec4c0ac892608032dc7fc8ebc1985842">CHAR_INS_RECOVERY_ITEM_LOOT</a></div><div class="ttdeci">@ CHAR_INS_RECOVERY_ITEM_LOOT</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:520</div></div>
+<div class="ttc" id="aa05140_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d3/dc0/a05140.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:337</div></div>
+<div class="ttc" id="aa08877_html"><div class="ttname"><a href="../../df/d73/a08877.html">ItemTemplate</a></div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:619</div></div>
+<div class="ttc" id="aa08877_html_a1b4b51353503f83db3be63f5a5786a1f"><div class="ttname"><a href="../../df/d73/a08877.html#a1b4b51353503f83db3be63f5a5786a1f">ItemTemplate::Quality</a></div><div class="ttdeci">uint32 Quality</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:626</div></div>
+<div class="ttc" id="aa08877_html_a21d62ad4a38e5a84305cf783c27c1d39"><div class="ttname"><a href="../../df/d73/a08877.html#a21d62ad4a38e5a84305cf783c27c1d39">ItemTemplate::ItemLevel</a></div><div class="ttdeci">uint32 ItemLevel</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:635</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00519">CHAR_INS_RECOVERY_ITEM</a>, <a class="el" href="../../#l00520">CHAR_INS_RECOVERY_ITEM_LOOT</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00360">CONFIG_ITEMDELETE_ITEM_LEVEL</a>, <a class="el" href="../../#l00120">CONFIG_ITEMDELETE_METHOD</a>, <a class="el" href="../../#l00359">CONFIG_ITEMDELETE_QUALITY</a>, <a class="el" href="../../#l00149">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00914">Item::GetEnchantmentsString()</a>, <a class="el" href="../../#l00123">Object::GetEntry()</a>, <a class="el" href="../../#l00120">Object::GetGUID()</a>, <a class="el" href="../../#l00335">Object::GetGuidValue()</a>, <a class="el" href="../../#l00295">Item::GetItemRandomPropertyId()</a>, <a class="el" href="../../#l00231">Item::GetOwnerGUID()</a>, <a class="el" href="../../#l00538">Item::GetTemplate()</a>, <a class="el" href="../../#l00236">Item::IsSoulBound()</a>, <a class="el" href="../../#l00037">ITEM_FIELD_CREATOR</a>, <a class="el" href="../../#l00635">ItemTemplate::ItemLevel</a>, <a class="el" href="../../#l00626">ItemTemplate::Quality</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, and <a class="el" href="../../#l00337">sWorld</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00329">WorldSession::DoLootRelease()</a>, <a class="el" href="../../#l00281">WorldSession::HandleDestroyItemOpcode()</a>, and <a class="el" href="../../#l00579">WorldSession::HandleSellItemOpcode()</a>.</p>
 
 </div>
 </div>
@@ -137,8 +497,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/dff/a05196.html">anonymous_namespace{ModuleMgr.cpp}</a></li>
-    <li class="footer">Generated on Tue Nov 3 2026 02:38:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/dff/a05196.html">ItemRecovery</a></li>
+    <li class="footer">Generated on Tue Nov 10 2026 02:56:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

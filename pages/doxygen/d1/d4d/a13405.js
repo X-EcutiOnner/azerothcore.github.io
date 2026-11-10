@@ -1,6 +1,5 @@
 var a13405 =
 [
-    [ "go_blood_drenched_doorAI", "d9/d1a/a13409.html", "d9/d1a/a13409" ],
-    [ "go_blood_drenched_door", "d1/d4d/a13405.html#a32451e046236bc66b605088cab35fefc", null ],
-    [ "GetAI", "d1/d4d/a13405.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
+    [ "at_karazhan_atiesh_aran", "d1/d4d/a13405.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
+    [ "OnTrigger", "d1/d4d/a13405.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
 ];

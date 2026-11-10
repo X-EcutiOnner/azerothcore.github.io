@@ -1,10 +1,22 @@
 var a07865 =
 [
-    [ "BattlegroundEYScore", "d5/d31/a07865.html#a91c17f1ff1924439b05840cd11ede36f", null ],
-    [ "BuildObjectivesBlock", "d5/d31/a07865.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
-    [ "GetAttr1", "d5/d31/a07865.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
-    [ "GetFlagCaptures", "d5/d31/a07865.html#accdeef27151cec4e30bf85bae7aba694", null ],
-    [ "UpdateScore", "d5/d31/a07865.html#afad034f453c54587b86532a37335ab18", null ],
-    [ "BattlegroundEY", "d5/d31/a07865.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
-    [ "FlagCaptures", "d5/d31/a07865.html#a057a335c7491c1031666e6d10cf314b2", null ]
+    [ "BattlegroundAVScore", "d5/d31/a07865.html#a9208f91470836f0db1257d8d8ec1aaf0", null ],
+    [ "BuildObjectivesBlock", "d5/d31/a07865.html#a99fa0ee715145176d9e36ecc39ca2e12", null ],
+    [ "GetAttr1", "d5/d31/a07865.html#a3da772b4600475972574426a86670dd3", null ],
+    [ "GetAttr2", "d5/d31/a07865.html#ac72f50e8959e759d0c285a61967680dd", null ],
+    [ "GetAttr3", "d5/d31/a07865.html#a57f53d5fb681683749ff95767dd17c0e", null ],
+    [ "GetAttr4", "d5/d31/a07865.html#ae4cc7eb2b4bc79c0166e53567edfb205", null ],
+    [ "GetAttr5", "d5/d31/a07865.html#a13edee0d2da9b539eeab5d5d7a15dcc9", null ],
+    [ "GetGraveyardsAssaulted", "d5/d31/a07865.html#a3e0991ef58be59a15ac013d50110675c", null ],
+    [ "GetGraveyardsDefended", "d5/d31/a07865.html#ae23235c25337a77d721fde505edaa775", null ],
+    [ "GetMinesCaptured", "d5/d31/a07865.html#a667f8f842f3bdb6a7cc3ba3170716e41", null ],
+    [ "GetTowersAssaulted", "d5/d31/a07865.html#a75fc5bde3c563af6b756cd5c05907fed", null ],
+    [ "GetTowersDefended", "d5/d31/a07865.html#a50d3ba824a0b330e3a61a91b0e98bc5d", null ],
+    [ "UpdateScore", "d5/d31/a07865.html#aa598cf124232e7f7a8335efe527e20e1", null ],
+    [ "BattlegroundAV", "d5/d31/a07865.html#abb499401bd69b6a6d0c8365f36a70ad7", null ],
+    [ "GraveyardsAssaulted", "d5/d31/a07865.html#a17e5ba885b1dd8d4f4f1992b3503a31f", null ],
+    [ "GraveyardsDefended", "d5/d31/a07865.html#ae8d7e9ae9602be798937c1b562d9b305", null ],
+    [ "MinesCaptured", "d5/d31/a07865.html#a09038f1133996849064da1b09983be82", null ],
+    [ "TowersAssaulted", "d5/d31/a07865.html#a28b8aa5df57cea0b481edc5a0b8c490e", null ],
+    [ "TowersDefended", "d5/d31/a07865.html#aeb6175c1a67e6f55b6719bb879bd8b62", null ]
 ];

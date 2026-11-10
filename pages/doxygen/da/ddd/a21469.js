@@ -1,9 +1,8 @@
 var a21469 =
 [
-    [ "CastTheNextTwoSpells", "da/ddd/a21469.html#a70a154ea5c19c36630e94c5214ee6722", null ],
-    [ "OnPeriodic", "da/ddd/a21469.html#ac9b99d9328affec2787691f80e0cc9c3", null ],
-    [ "PrepareAuraScript", "da/ddd/a21469.html#ac7450be0713ce98e7986d322a58289f6", null ],
-    [ "PushBackTheNextTwoSpells", "da/ddd/a21469.html#a9e470116c80cf56b425e344d73e44533", null ],
-    [ "Register", "da/ddd/a21469.html#ad948e7cb5a64ed5bd202c10b28285d9c", null ],
-    [ "_summonSpells", "da/ddd/a21469.html#a578dbb8c828e3acf36b21a38628c94e1", null ]
+    [ "FilterTargets", "da/ddd/a21469.html#a028ef84c884536a28650ace1e56f8061", null ],
+    [ "HandleScript", "da/ddd/a21469.html#a16466b4c07c06c57493082b0e84b3c66", null ],
+    [ "PrepareSpellScript", "da/ddd/a21469.html#ad43892487ca38342a61522548b34cd2c", null ],
+    [ "Register", "da/ddd/a21469.html#a90470761baccdcf8c5430006004abf29", null ],
+    [ "Validate", "da/ddd/a21469.html#a1664dcb92887f6974e1750472c02d168", null ]
 ];

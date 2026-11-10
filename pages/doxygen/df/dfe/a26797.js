@@ -1,7 +1,6 @@
 var a26797 =
 [
-    [ "PrepareSpellScript", "df/dfe/a26797.html#ade3a3f956ae8be922bd1d2204919d360", null ],
-    [ "Register", "df/dfe/a26797.html#a71d397da4a4804cf6023806c15e8bedf", null ],
-    [ "TriggerHypothermia", "df/dfe/a26797.html#af40f92afae93778e477c50ddf18c8adc", null ],
-    [ "Validate", "df/dfe/a26797.html#a1f0cef532c2bd13d94e647722f85457a", null ]
+    [ "HandleProc", "df/dfe/a26797.html#a81736c5dd5fd02181673a9f12d4d9ab2", null ],
+    [ "PrepareAuraScript", "df/dfe/a26797.html#a1710a08cfe8b6f9b3890840bac97c711", null ],
+    [ "Register", "df/dfe/a26797.html#a2e65cb7fa379f1330610aaa56e002ba3", null ]
 ];

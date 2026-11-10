@@ -1,5 +1,6 @@
 var a20101 =
 [
-    [ "at_hol_hall_of_watchers", "df/d89/a20101.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
-    [ "_OnTrigger", "df/d89/a20101.html#adc0ed221142741010c5607f9473ed2f1", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "db/d06/a20105.html", "db/d06/a20105" ],
+    [ "instance_halls_of_lightning", "df/d89/a20101.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "df/d89/a20101.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

@@ -1,6 +1,7 @@
 var a27189 =
 [
-    [ "HandleFinish", "d2/d1e/a27189.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
-    [ "PrepareSpellScript", "d2/d1e/a27189.html#a8113f61816473399f0ceab18b104d058", null ],
-    [ "Register", "d2/d1e/a27189.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
+    [ "HandleProc", "d2/d1e/a27189.html#a512ec25fe649e42930d64effa4f7868b", null ],
+    [ "PrepareAuraScript", "d2/d1e/a27189.html#ac1c7dcf63d7c67ec5fad424531519b58", null ],
+    [ "Register", "d2/d1e/a27189.html#a6118148ac0e641a6c3e4490c2cdd86c0", null ],
+    [ "Validate", "d2/d1e/a27189.html#a22dea9fb57d89b1d4813722968b5429f", null ]
 ];

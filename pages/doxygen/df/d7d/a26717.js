@@ -1,8 +1,5 @@
 var a26717 =
 [
-    [ "CheckProc", "df/d7d/a26717.html#a23dc61d8a007832a37ab7da71c36537d", null ],
-    [ "HandleProc", "df/d7d/a26717.html#a613182c741769d0983206bdfa89242f6", null ],
-    [ "PrepareAuraScript", "df/d7d/a26717.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
-    [ "Register", "df/d7d/a26717.html#acd807de02a83a97a78572d672fb16027", null ],
-    [ "Validate", "df/d7d/a26717.html#a3d2d6f1a00825ac66f507a790f468198", null ]
+    [ "Trigger", "df/d7d/a26717.html#aa16aba75a066e83cb56660a0e29e7453", null ],
+    [ "Validate", "df/d7d/a26717.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
 ];

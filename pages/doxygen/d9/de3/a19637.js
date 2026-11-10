@@ -1,6 +1,6 @@
 var a19637 =
 [
-    [ "FilterTargets", "d9/de3/a19637.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "d9/de3/a19637.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "d9/de3/a19637.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d6/d8e/a19641.html", "d6/d8e/a19641" ],
+    [ "boss_grobbulus_poison_cloud", "d9/de3/a19637.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
+    [ "GetAI", "d9/de3/a19637.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
 ];

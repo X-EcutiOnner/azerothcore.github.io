@@ -1,12 +1,6 @@
 var a21101 =
 [
-    [ "boss_yoggsaron_cloud", "d3/dae/a21101.html#a4efbeab85d5770784f1474176a23fd74", null ],
-    [ "DoAction", "d3/dae/a21101.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
-    [ "JustSummoned", "d3/dae/a21101.html#a2c321419548e8ce151d639c3fbd7b1b4", null ],
-    [ "MoveCircle", "d3/dae/a21101.html#ae5b286e1fd294f8f8fafdf4589226bf6", null ],
-    [ "Reset", "d3/dae/a21101.html#ad548ae65a05f600487a57899760ebab0", null ],
-    [ "UpdateAI", "d3/dae/a21101.html#aa4b62a29fe7d62a2124d8cfaf9c612ec", null ],
-    [ "_checkTimer", "d3/dae/a21101.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
-    [ "_isSummoning", "d3/dae/a21101.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ],
-    [ "clockwise", "d3/dae/a21101.html#ad57ebcd626b3333a5785caeb1dd43fd5", null ]
+    [ "x", "d3/dae/a21101.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "d3/dae/a21101.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "d3/dae/a21101.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

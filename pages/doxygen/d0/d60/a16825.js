@@ -1,6 +1,11 @@
 var a16825 =
 [
-    [ "boss_paletressAI", "d3/de4/a16829.html", "d3/de4/a16829" ],
-    [ "boss_paletress", "d0/d60/a16825.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
-    [ "GetAI", "d0/d60/a16825.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
+    [ "boss_saviana_ragefireAI", "d0/d60/a16825.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
+    [ "JustDied", "d0/d60/a16825.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
+    [ "JustEngagedWith", "d0/d60/a16825.html#a458eb370872c20441b5ec6ecd2c97500", null ],
+    [ "JustReachedHome", "d0/d60/a16825.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
+    [ "KilledUnit", "d0/d60/a16825.html#ac07513681c72d6748246cc7c349d117c", null ],
+    [ "MovementInform", "d0/d60/a16825.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
+    [ "Reset", "d0/d60/a16825.html#a4b7f103331c566cbf007a075161505af", null ],
+    [ "UpdateAI", "d0/d60/a16825.html#af36ca2a359f950a10214d07aad240324", null ]
 ];

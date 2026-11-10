@@ -1,7 +1,6 @@
 var a14985 =
 [
-    [ "HandleEffectApply", "dd/d1a/a14985.html#a22f3143b10155635194abe22994a397c", null ],
-    [ "HandleEffectRemove", "dd/d1a/a14985.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
-    [ "PrepareAuraScript", "dd/d1a/a14985.html#abb4f53a42e701323b2fc66598ec3503c", null ],
-    [ "Register", "dd/d1a/a14985.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
+    [ "gameobjectId", "dd/d1a/a14985.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "dd/d1a/a14985.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "dd/d1a/a14985.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

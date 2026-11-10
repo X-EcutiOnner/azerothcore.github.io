@@ -1,10 +1,6 @@
 var a23145 =
 [
-    [ "CalculateAmount", "db/dbc/a23145.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
-    [ "CheckProc", "db/dbc/a23145.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
-    [ "HandleProc", "db/dbc/a23145.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
-    [ "PrepareAuraScript", "db/dbc/a23145.html#a6e066884663276dbba82e46ca5f66e59", null ],
-    [ "Register", "db/dbc/a23145.html#ac4154f0746e77229e8d349021d5b9c30", null ],
-    [ "Update", "db/dbc/a23145.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
-    [ "Validate", "db/dbc/a23145.html#a4f10d23f63c47b408b70373623b877a8", null ]
+    [ "boss_essence_of_sufferingAI", "d2/de6/a23149.html", "d2/de6/a23149" ],
+    [ "boss_essence_of_suffering", "db/dbc/a23145.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "db/dbc/a23145.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

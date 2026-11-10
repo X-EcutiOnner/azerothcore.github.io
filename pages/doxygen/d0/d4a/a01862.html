@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Tools/PlayerDump.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Conditions/DisableMgr.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,161 +106,188 @@ $(document).ready(function(){initNavTree('d0/d4a/a01862.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">PlayerDump.h File Reference</div></div>
+  <div class="headertitle"><div class="title">DisableMgr.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &lt;set&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d14/a12354.html">PlayerDump</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d14/a08385.html">DisableData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/de3/a12358.html">PlayerDumpWriter</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc6/a08389.html">DisableMgr</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d6b/a12362.html">PlayerDumpReader</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a1a184d22bd27210ea5af79573927826a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4a/a01862.html#a1a184d22bd27210ea5af79573927826a">sDisableMgr</a>&#160;&#160;&#160;<a class="el" href="../../dc/dc6/a08389.html#ac3787801d677b0ed6592476d648743db">DisableMgr::instance</a>()</td></tr>
+<tr class="separator:a1a184d22bd27210ea5af79573927826a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:ad4739d865080bb5590831b606365e7ef"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7ef">DumpTableType</a> { <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323">DTT_CHARACTER</a>
+<tr class="memitem:affa2a0d7ee61f6e1bc7c6cb7d2c1b64c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c">DisableType</a> { <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27">DISABLE_TYPE_SPELL</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94">DTT_CHAR_TABLE</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e">DISABLE_TYPE_QUEST</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de">DTT_EQSET_TABLE</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c">DISABLE_TYPE_MAP</a> = 2
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f">DTT_INVENTORY</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a">DISABLE_TYPE_BATTLEGROUND</a> = 3
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d">DTT_MAIL</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1">DISABLE_TYPE_ACHIEVEMENT_CRITERIA</a> = 4
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b">DTT_MAIL_ITEM</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296">DISABLE_TYPE_OUTDOORPVP</a> = 5
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d">DTT_ITEM</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff">DISABLE_TYPE_VMAP</a> = 6
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847">DTT_ITEM_GIFT</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a">DISABLE_TYPE_GO_LOS</a> = 7
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8">DTT_PET</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68">DISABLE_TYPE_LFG_MAP</a> = 8
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4">DTT_PET_TABLE</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0">DISABLE_TYPE_GAME_EVENT</a> = 9
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f">DISABLE_TYPE_LOOT</a> = 10
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f">MAX_DISABLE_TYPES</a>
 <br />
  }</td></tr>
-<tr class="separator:ad4739d865080bb5590831b606365e7ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4471667403db9bc7532f371d28743866"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866">DumpReturn</a> { <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e">DUMP_SUCCESS</a>
+<tr class="separator:affa2a0d7ee61f6e1bc7c6cb7d2c1b64c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b9e8ca1dcd13802fa528f955deaefd7"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7">SpellDisableTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41">SPELL_DISABLE_PLAYER</a> = 0x1
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656">DUMP_FILE_OPEN_ERROR</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707">SPELL_DISABLE_CREATURE</a> = 0x2
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d">DUMP_TOO_MANY_CHARS</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4">SPELL_DISABLE_PET</a> = 0x4
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b">SPELL_DISABLE_DEPRECATED_SPELL</a> = 0x8
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47">DUMP_CHARACTER_DELETED</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484">SPELL_DISABLE_MAP</a> = 0x10
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866ad611e98ad0ae594831f17cbab86dcb6a">DUMP_GUID_OVERFLOW</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268">SPELL_DISABLE_AREA</a> = 0x20
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437">SPELL_DISABLE_LOS</a> = 0x40
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d">MAX_SPELL_DISABLE_TYPE</a>
 <br />
  }</td></tr>
-<tr class="separator:a4471667403db9bc7532f371d28743866"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a7b9e8ca1dcd13802fa528f955deaefd7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a4471667403db9bc7532f371d28743866" name="a4471667403db9bc7532f371d28743866"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4471667403db9bc7532f371d28743866">&#9670;&#160;</a></span>DumpReturn</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a1a184d22bd27210ea5af79573927826a" name="a1a184d22bd27210ea5af79573927826a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a184d22bd27210ea5af79573927826a">&#9670;&#160;</a></span>sDisableMgr</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866">DumpReturn</a></td>
+          <td class="memname">#define sDisableMgr&#160;&#160;&#160;<a class="el" href="../../dc/dc6/a08389.html#ac3787801d677b0ed6592476d648743db">DisableMgr::instance</a>()</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64c" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c">&#9670;&#160;</a></span>DisableType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c">DisableType</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e" name="a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e"></a>DUMP_SUCCESS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656" name="a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656"></a>DUMP_FILE_OPEN_ERROR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d" name="a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d"></a>DUMP_TOO_MANY_CHARS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6" name="a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6"></a>DUMP_FILE_BROKEN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47" name="a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47"></a>DUMP_CHARACTER_DELETED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4471667403db9bc7532f371d28743866ad611e98ad0ae594831f17cbab86dcb6a" name="a4471667403db9bc7532f371d28743866ad611e98ad0ae594831f17cbab86dcb6a"></a>DUMP_GUID_OVERFLOW&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27"></a>DISABLE_TYPE_SPELL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e"></a>DISABLE_TYPE_QUEST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c"></a>DISABLE_TYPE_MAP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a"></a>DISABLE_TYPE_BATTLEGROUND&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1"></a>DISABLE_TYPE_ACHIEVEMENT_CRITERIA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296"></a>DISABLE_TYPE_OUTDOORPVP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff"></a>DISABLE_TYPE_VMAP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a"></a>DISABLE_TYPE_GO_LOS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68"></a>DISABLE_TYPE_LFG_MAP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0"></a>DISABLE_TYPE_GAME_EVENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f"></a>DISABLE_TYPE_LOOT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f"></a>MAX_DISABLE_TYPES&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   53</span>{</div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e">DUMP_SUCCESS</a>,</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656">DUMP_FILE_OPEN_ERROR</a>,</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d">DUMP_TOO_MANY_CHARS</a>,</div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>,</div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47">DUMP_CHARACTER_DELETED</a>,</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866ad611e98ad0ae594831f17cbab86dcb6a">DUMP_GUID_OVERFLOW</a></div>
-<div class="line"><span class="lineno">   60</span>};</div>
-<div class="ttc" id="aa01862_html_a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656"><div class="ttname"><a href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656">DUMP_FILE_OPEN_ERROR</a></div><div class="ttdeci">@ DUMP_FILE_OPEN_ERROR</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:55</div></div>
-<div class="ttc" id="aa01862_html_a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47"><div class="ttname"><a href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47">DUMP_CHARACTER_DELETED</a></div><div class="ttdeci">@ DUMP_CHARACTER_DELETED</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:58</div></div>
-<div class="ttc" id="aa01862_html_a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e"><div class="ttname"><a href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e">DUMP_SUCCESS</a></div><div class="ttdeci">@ DUMP_SUCCESS</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:54</div></div>
-<div class="ttc" id="aa01862_html_a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d"><div class="ttname"><a href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d">DUMP_TOO_MANY_CHARS</a></div><div class="ttdeci">@ DUMP_TOO_MANY_CHARS</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:56</div></div>
-<div class="ttc" id="aa01862_html_a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6"><div class="ttname"><a href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a></div><div class="ttdeci">@ DUMP_FILE_BROKEN</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:57</div></div>
-<div class="ttc" id="aa01862_html_a4471667403db9bc7532f371d28743866ad611e98ad0ae594831f17cbab86dcb6a"><div class="ttname"><a href="../../d0/d4a/a01862.html#a4471667403db9bc7532f371d28743866ad611e98ad0ae594831f17cbab86dcb6a">DUMP_GUID_OVERFLOW</a></div><div class="ttdeci">@ DUMP_GUID_OVERFLOW</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:59</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27">DISABLE_TYPE_SPELL</a>                  = 0,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e">DISABLE_TYPE_QUEST</a>                  = 1,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c">DISABLE_TYPE_MAP</a>                    = 2,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a">DISABLE_TYPE_BATTLEGROUND</a>           = 3,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1">DISABLE_TYPE_ACHIEVEMENT_CRITERIA</a>   = 4,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296">DISABLE_TYPE_OUTDOORPVP</a>             = 5,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff">DISABLE_TYPE_VMAP</a>                   = 6,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a">DISABLE_TYPE_GO_LOS</a>                 = 7,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68">DISABLE_TYPE_LFG_MAP</a>                = 8,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0">DISABLE_TYPE_GAME_EVENT</a>             = 9,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f">DISABLE_TYPE_LOOT</a>                   = 10,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f">MAX_DISABLE_TYPES</a></div>
+<div class="line"><span class="lineno">   40</span>};</div>
+<div class="ttc" id="aa01862_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27"><div class="ttname"><a href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27">DISABLE_TYPE_SPELL</a></div><div class="ttdeci">@ DISABLE_TYPE_SPELL</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:28</div></div>
+<div class="ttc" id="aa01862_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f"><div class="ttname"><a href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f">MAX_DISABLE_TYPES</a></div><div class="ttdeci">@ MAX_DISABLE_TYPES</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:39</div></div>
+<div class="ttc" id="aa01862_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff"><div class="ttname"><a href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff">DISABLE_TYPE_VMAP</a></div><div class="ttdeci">@ DISABLE_TYPE_VMAP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:34</div></div>
+<div class="ttc" id="aa01862_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e"><div class="ttname"><a href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e">DISABLE_TYPE_QUEST</a></div><div class="ttdeci">@ DISABLE_TYPE_QUEST</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:29</div></div>
+<div class="ttc" id="aa01862_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c"><div class="ttname"><a href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c">DISABLE_TYPE_MAP</a></div><div class="ttdeci">@ DISABLE_TYPE_MAP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:30</div></div>
+<div class="ttc" id="aa01862_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a"><div class="ttname"><a href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a">DISABLE_TYPE_BATTLEGROUND</a></div><div class="ttdeci">@ DISABLE_TYPE_BATTLEGROUND</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:31</div></div>
+<div class="ttc" id="aa01862_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1"><div class="ttname"><a href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1">DISABLE_TYPE_ACHIEVEMENT_CRITERIA</a></div><div class="ttdeci">@ DISABLE_TYPE_ACHIEVEMENT_CRITERIA</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:32</div></div>
+<div class="ttc" id="aa01862_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f"><div class="ttname"><a href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f">DISABLE_TYPE_LOOT</a></div><div class="ttdeci">@ DISABLE_TYPE_LOOT</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:38</div></div>
+<div class="ttc" id="aa01862_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0"><div class="ttname"><a href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0">DISABLE_TYPE_GAME_EVENT</a></div><div class="ttdeci">@ DISABLE_TYPE_GAME_EVENT</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:37</div></div>
+<div class="ttc" id="aa01862_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68"><div class="ttname"><a href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68">DISABLE_TYPE_LFG_MAP</a></div><div class="ttdeci">@ DISABLE_TYPE_LFG_MAP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:36</div></div>
+<div class="ttc" id="aa01862_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a"><div class="ttname"><a href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a">DISABLE_TYPE_GO_LOS</a></div><div class="ttdeci">@ DISABLE_TYPE_GO_LOS</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:35</div></div>
+<div class="ttc" id="aa01862_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296"><div class="ttname"><a href="../../d0/d4a/a01862.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296">DISABLE_TYPE_OUTDOORPVP</a></div><div class="ttdeci">@ DISABLE_TYPE_OUTDOORPVP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:33</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="ad4739d865080bb5590831b606365e7ef" name="ad4739d865080bb5590831b606365e7ef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad4739d865080bb5590831b606365e7ef">&#9670;&#160;</a></span>DumpTableType</h2>
+<a id="a7b9e8ca1dcd13802fa528f955deaefd7" name="a7b9e8ca1dcd13802fa528f955deaefd7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b9e8ca1dcd13802fa528f955deaefd7">&#9670;&#160;</a></span>SpellDisableTypes</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7ef">DumpTableType</a></td>
+          <td class="memname">enum <a class="el" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7">SpellDisableTypes</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323" name="ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323"></a>DTT_CHARACTER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94" name="ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94"></a>DTT_CHAR_TABLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de" name="ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de"></a>DTT_EQSET_TABLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f" name="ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f"></a>DTT_INVENTORY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d" name="ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d"></a>DTT_MAIL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b" name="ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b"></a>DTT_MAIL_ITEM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d" name="ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d"></a>DTT_ITEM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847" name="ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847"></a>DTT_ITEM_GIFT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8" name="ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8"></a>DTT_PET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4" name="ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4"></a>DTT_PET_TABLE&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41" name="a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41"></a>SPELL_DISABLE_PLAYER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707" name="a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707"></a>SPELL_DISABLE_CREATURE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4" name="a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4"></a>SPELL_DISABLE_PET&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b" name="a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b"></a>SPELL_DISABLE_DEPRECATED_SPELL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484" name="a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484"></a>SPELL_DISABLE_MAP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268" name="a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268"></a>SPELL_DISABLE_AREA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437" name="a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437"></a>SPELL_DISABLE_LOS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d" name="a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d"></a>MAX_SPELL_DISABLE_TYPE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323">DTT_CHARACTER</a>,      <span class="comment">//                                  // characters</span></div>
-<div class="line"><span class="lineno">   27</span> </div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94">DTT_CHAR_TABLE</a>,     <span class="comment">//                                  // character_achievement, character_achievement_progress,</span></div>
-<div class="line"><span class="lineno">   29</span>                                                            <span class="comment">// character_action, character_aura, character_homebind,</span></div>
-<div class="line"><span class="lineno">   30</span>                                                            <span class="comment">// character_queststatus, character_queststatus_rewarded, character_reputation,</span></div>
-<div class="line"><span class="lineno">   31</span>                                                            <span class="comment">// character_spell, character_spell_cooldown, character_ticket, character_talent</span></div>
-<div class="line"><span class="lineno">   32</span> </div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de">DTT_EQSET_TABLE</a>,    <span class="comment">// &lt;- guid                          // character_equipmentsets</span></div>
-<div class="line"><span class="lineno">   34</span> </div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f">DTT_INVENTORY</a>,      <span class="comment">//    -&gt; item guids collection      // character_inventory</span></div>
-<div class="line"><span class="lineno">   36</span> </div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d">DTT_MAIL</a>,           <span class="comment">//    -&gt; mail ids collection        // mail</span></div>
-<div class="line"><span class="lineno">   38</span>                        <span class="comment">//    -&gt; item_text</span></div>
-<div class="line"><span class="lineno">   39</span> </div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b">DTT_MAIL_ITEM</a>,      <span class="comment">// &lt;- mail ids                      // mail_items</span></div>
-<div class="line"><span class="lineno">   41</span>                        <span class="comment">//    -&gt; item guids collection</span></div>
-<div class="line"><span class="lineno">   42</span> </div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d">DTT_ITEM</a>,           <span class="comment">// &lt;- item guids                    // item_instance</span></div>
-<div class="line"><span class="lineno">   44</span>                        <span class="comment">//    -&gt; item_text</span></div>
-<div class="line"><span class="lineno">   45</span> </div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847">DTT_ITEM_GIFT</a>,      <span class="comment">// &lt;- item guids                    // character_gifts</span></div>
-<div class="line"><span class="lineno">   47</span> </div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8">DTT_PET</a>,            <span class="comment">//    -&gt; pet guids collection       // character_pet</span></div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4">DTT_PET_TABLE</a>       <span class="comment">// &lt;- pet guids                     // pet_aura, pet_spell, pet_spell_cooldown</span></div>
-<div class="line"><span class="lineno">   50</span>};</div>
-<div class="ttc" id="aa01862_html_ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de"><div class="ttname"><a href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de">DTT_EQSET_TABLE</a></div><div class="ttdeci">@ DTT_EQSET_TABLE</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:33</div></div>
-<div class="ttc" id="aa01862_html_ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f"><div class="ttname"><a href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f">DTT_INVENTORY</a></div><div class="ttdeci">@ DTT_INVENTORY</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:35</div></div>
-<div class="ttc" id="aa01862_html_ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94"><div class="ttname"><a href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94">DTT_CHAR_TABLE</a></div><div class="ttdeci">@ DTT_CHAR_TABLE</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:28</div></div>
-<div class="ttc" id="aa01862_html_ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4"><div class="ttname"><a href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4">DTT_PET_TABLE</a></div><div class="ttdeci">@ DTT_PET_TABLE</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:49</div></div>
-<div class="ttc" id="aa01862_html_ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d"><div class="ttname"><a href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d">DTT_MAIL</a></div><div class="ttdeci">@ DTT_MAIL</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:37</div></div>
-<div class="ttc" id="aa01862_html_ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b"><div class="ttname"><a href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b">DTT_MAIL_ITEM</a></div><div class="ttdeci">@ DTT_MAIL_ITEM</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:40</div></div>
-<div class="ttc" id="aa01862_html_ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8"><div class="ttname"><a href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8">DTT_PET</a></div><div class="ttdeci">@ DTT_PET</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:48</div></div>
-<div class="ttc" id="aa01862_html_ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d"><div class="ttname"><a href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d">DTT_ITEM</a></div><div class="ttdeci">@ DTT_ITEM</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:43</div></div>
-<div class="ttc" id="aa01862_html_ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847"><div class="ttname"><a href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847">DTT_ITEM_GIFT</a></div><div class="ttdeci">@ DTT_ITEM_GIFT</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:46</div></div>
-<div class="ttc" id="aa01862_html_ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323"><div class="ttname"><a href="../../d0/d4a/a01862.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323">DTT_CHARACTER</a></div><div class="ttdeci">@ DTT_CHARACTER</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:26</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41">SPELL_DISABLE_PLAYER</a>            = 0x1,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707">SPELL_DISABLE_CREATURE</a>          = 0x2,</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4">SPELL_DISABLE_PET</a>               = 0x4,</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b">SPELL_DISABLE_DEPRECATED_SPELL</a>  = 0x8,</div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484">SPELL_DISABLE_MAP</a>               = 0x10,</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268">SPELL_DISABLE_AREA</a>              = 0x20,</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437">SPELL_DISABLE_LOS</a>               = 0x40,</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d">MAX_SPELL_DISABLE_TYPE</a>          = (<a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41">SPELL_DISABLE_PLAYER</a> | <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707">SPELL_DISABLE_CREATURE</a> | <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4">SPELL_DISABLE_PET</a> |</div>
+<div class="line"><span class="lineno">   52</span>                                       <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b">SPELL_DISABLE_DEPRECATED_SPELL</a> | <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484">SPELL_DISABLE_MAP</a> | <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268">SPELL_DISABLE_AREA</a> |</div>
+<div class="line"><span class="lineno">   53</span>                                       <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437">SPELL_DISABLE_LOS</a>)</div>
+<div class="line"><span class="lineno">   54</span>};</div>
+<div class="ttc" id="aa01862_html_a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437"><div class="ttname"><a href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437">SPELL_DISABLE_LOS</a></div><div class="ttdeci">@ SPELL_DISABLE_LOS</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:50</div></div>
+<div class="ttc" id="aa01862_html_a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707"><div class="ttname"><a href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707">SPELL_DISABLE_CREATURE</a></div><div class="ttdeci">@ SPELL_DISABLE_CREATURE</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:45</div></div>
+<div class="ttc" id="aa01862_html_a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4"><div class="ttname"><a href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4">SPELL_DISABLE_PET</a></div><div class="ttdeci">@ SPELL_DISABLE_PET</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:46</div></div>
+<div class="ttc" id="aa01862_html_a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484"><div class="ttname"><a href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484">SPELL_DISABLE_MAP</a></div><div class="ttdeci">@ SPELL_DISABLE_MAP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:48</div></div>
+<div class="ttc" id="aa01862_html_a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41"><div class="ttname"><a href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41">SPELL_DISABLE_PLAYER</a></div><div class="ttdeci">@ SPELL_DISABLE_PLAYER</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:44</div></div>
+<div class="ttc" id="aa01862_html_a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b"><div class="ttname"><a href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b">SPELL_DISABLE_DEPRECATED_SPELL</a></div><div class="ttdeci">@ SPELL_DISABLE_DEPRECATED_SPELL</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:47</div></div>
+<div class="ttc" id="aa01862_html_a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d"><div class="ttname"><a href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d">MAX_SPELL_DISABLE_TYPE</a></div><div class="ttdeci">@ MAX_SPELL_DISABLE_TYPE</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:51</div></div>
+<div class="ttc" id="aa01862_html_a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268"><div class="ttname"><a href="../../d0/d4a/a01862.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268">SPELL_DISABLE_AREA</a></div><div class="ttdeci">@ SPELL_DISABLE_AREA</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:49</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -269,8 +296,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_f49ad253a5d89b6cfd4cfde27040fa87.html">Tools</a></li><li class="navelem"><a class="el" href="../../d0/d4a/a01862.html">PlayerDump.h</a></li>
-    <li class="footer">Generated on Tue Nov 3 2026 02:35:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_c0da28c740234fa28d1fcf99be699b09.html">Conditions</a></li><li class="navelem"><a class="el" href="../../d0/d4a/a01862.html">DisableMgr.h</a></li>
+    <li class="footer">Generated on Tue Nov 10 2026 02:53:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

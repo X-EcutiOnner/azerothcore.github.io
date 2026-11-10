@@ -1,11 +1,8 @@
 var a24833 =
 [
-    [ "HandleAfterHit", "dd/d74/a24833.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "dd/d74/a24833.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "dd/d74/a24833.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "dd/d74/a24833.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "dd/d74/a24833.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "dd/d74/a24833.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "dd/d74/a24833.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "dd/d74/a24833.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "HandleEffectApply", "dd/d74/a24833.html#a88e98bcb11fb16696f789878f79c665c", null ],
+    [ "HandleEffectRemove", "dd/d74/a24833.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
+    [ "PrepareAuraScript", "dd/d74/a24833.html#a64f9e0f3d0376342767b912e32642c6c", null ],
+    [ "Register", "dd/d74/a24833.html#a72d6639589588282ea15cfe83c9e9b76", null ],
+    [ "Validate", "dd/d74/a24833.html#ac936c92c3a24fba95505243cd3e79c21", null ]
 ];

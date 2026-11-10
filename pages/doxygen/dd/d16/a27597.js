@@ -1,8 +1,6 @@
 var a27597 =
 [
-    [ "CheckProc", "dd/d16/a27597.html#a2e564758a050827108955f73a08e72e7", null ],
-    [ "PrepareAuraScript", "dd/d16/a27597.html#a5993871d8837b43580818fa94e1bccc2", null ],
-    [ "Register", "dd/d16/a27597.html#a24faa9992523bc87df7f5ebccfb42233", null ],
-    [ "WasUsedByMutilate", "dd/d16/a27597.html#af31c8d77307f3cf3acee06e0b159925e", null ],
-    [ "_usedByMutilate", "dd/d16/a27597.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
+    [ "HandleProc", "dd/d16/a27597.html#a88c2793fb6043d4d4e970a99df38681a", null ],
+    [ "PrepareAuraScript", "dd/d16/a27597.html#aa2b2e8a0b209d96828ad8c5dd84726b6", null ],
+    [ "Register", "dd/d16/a27597.html#a9e69ca6fa962ccf17c090243a91b4d51", null ]
 ];

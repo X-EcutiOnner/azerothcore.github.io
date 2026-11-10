@@ -1,9 +1,13 @@
 var a09301 =
 [
-    [ "TransportBase", "dc/d7d/a09301.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
-    [ "~TransportBase", "dc/d7d/a09301.html#a81dca3435a1a1666a90acd8e154e3287", null ],
-    [ "CalculatePassengerOffset", "dc/d7d/a09301.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
-    [ "CalculatePassengerOffset", "dc/d7d/a09301.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
-    [ "CalculatePassengerPosition", "dc/d7d/a09301.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
-    [ "CalculatePassengerPosition", "dc/d7d/a09301.html#a328fbc464c56eca89138380182a0108c", null ]
+    [ "BuildValuesCachePosPointers", "dc/d7d/a09301.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
+    [ "ApplyOffset", "dc/d7d/a09301.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
+    [ "other", "dc/d7d/a09301.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
+    [ "UnitDynamicFlagsPos", "dc/d7d/a09301.html#a230385a8646ebce01faaadce648b1a61", null ],
+    [ "UnitFieldAuraStatePos", "dc/d7d/a09301.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
+    [ "UnitFieldBytes2Pos", "dc/d7d/a09301.html#aa1df8492f0a3c576b067469ee3552796", null ],
+    [ "UnitFieldDisplayPos", "dc/d7d/a09301.html#a1058d1650d656498f7dcd5139363a315", null ],
+    [ "UnitFieldFactionTemplatePos", "dc/d7d/a09301.html#a9b8eae9da685231956dca3e92b845cbb", null ],
+    [ "UnitFieldFlagsPos", "dc/d7d/a09301.html#a04e607123d1d1dde24611b573d25fedb", null ],
+    [ "UnitNPCFlagsPos", "dc/d7d/a09301.html#aa9412413e1a867d1f3857d18f4d52906", null ]
 ];

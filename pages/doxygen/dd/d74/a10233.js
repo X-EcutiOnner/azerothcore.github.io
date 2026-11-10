@@ -1,10 +1,7 @@
 var a10233 =
 [
-    [ "MailReceiver", "dd/d74/a10233.html#a6fba3ff0ab3167197f569631d766ce14", null ],
-    [ "MailReceiver", "dd/d74/a10233.html#af0b094a704463ed76b1c08bc3cab0380", null ],
-    [ "MailReceiver", "dd/d74/a10233.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
-    [ "GetPlayer", "dd/d74/a10233.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
-    [ "GetPlayerGUIDLow", "dd/d74/a10233.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
-    [ "m_receiver", "dd/d74/a10233.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
-    [ "m_receiver_lowguid", "dd/d74/a10233.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
+    [ "QuestItem", "dd/d74/a10233.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
+    [ "QuestItem", "dd/d74/a10233.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
+    [ "index", "dd/d74/a10233.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
+    [ "is_looted", "dd/d74/a10233.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
 ];

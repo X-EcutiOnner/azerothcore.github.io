@@ -1,6 +1,7 @@
 var a17937 =
 [
-    [ "FilterTargets", "df/da7/a17937.html#a59255a2cee0f9d8a75ca183647851779", null ],
-    [ "PrepareSpellScript", "df/da7/a17937.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
-    [ "Register", "df/da7/a17937.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
+    [ "OnProc", "df/da7/a17937.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "df/da7/a17937.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "df/da7/a17937.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "df/da7/a17937.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

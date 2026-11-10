@@ -1,8 +1,9 @@
 var a22545 =
 [
-    [ "npc_oathbound_warder", "db/ded/a22545.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
-    [ "AttackStart", "db/ded/a22545.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
-    [ "InitializeAI", "db/ded/a22545.html#a62c4c568ad615013afa46c7da84d057a", null ],
-    [ "JustEngagedWith", "db/ded/a22545.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
-    [ "UpdateAI", "db/ded/a22545.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
+    [ "HandlePeriodic", "db/ded/a22545.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "db/ded/a22545.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "db/ded/a22545.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "db/ded/a22545.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "db/ded/a22545.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "db/ded/a22545.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

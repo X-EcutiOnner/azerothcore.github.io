@@ -1,20 +1,12 @@
 var a13609 =
 [
-    [ "boss_darkmaster_gandlingAI", "df/dd7/a13609.html#a1fbd651c6f5ad3630ae450c6a523360c", null ],
-    [ "FindRoom", "df/dd7/a13609.html#a7ca1847b3223c82f7c190546809c49bc", null ],
-    [ "GetData", "df/dd7/a13609.html#a06e03e66d7a99a98ba915057c0082217", null ],
-    [ "JustDied", "df/dd7/a13609.html#afaac9e6939e0d873f576129546560fba", null ],
-    [ "JustEngagedWith", "df/dd7/a13609.html#aa71a73d3804187c6b89566ec3d1cd6ed", null ],
-    [ "JustSummoned", "df/dd7/a13609.html#a24e4031367eb59ad7a9ea352bd0b4ccd", null ],
-    [ "OpenAllGates", "df/dd7/a13609.html#ab28b7d97956c21515c9872d8f9122f18", null ],
-    [ "Reset", "df/dd7/a13609.html#a8244b7b91de9a0413193001f41288f7f", null ],
-    [ "SetData", "df/dd7/a13609.html#a1b7ed8e98d4a271dfd8df76738cc0072", null ],
-    [ "SetGate", "df/dd7/a13609.html#a32fbc731852f46fbdd36b36764dd2303", null ],
-    [ "SpawnMobsInRoom", "df/dd7/a13609.html#a68adf734efff345529dbb74bebe15798", null ],
-    [ "SpellHitTarget", "df/dd7/a13609.html#ae98715a31cd22febb1725977556a48aa", null ],
-    [ "SummonedCreatureDespawn", "df/dd7/a13609.html#aa0abb31ac1a05c4a99e4b8079410867a", null ],
-    [ "UpdateAI", "df/dd7/a13609.html#a2c525445ad39ddc47366f3f632014d89", null ],
-    [ "current_room", "df/dd7/a13609.html#a597f7ee62ee41ff6a1a12a6c9dd7cd93", null ],
-    [ "Guardians", "df/dd7/a13609.html#a3681da718192f0f961282fa4f655355e", null ],
-    [ "summons", "df/dd7/a13609.html#a745d411fc485892529cb4cc6f06ba3af", null ]
+    [ "boss_vexallus", "df/dd7/a13609.html#a68c32ed70274e9f135b7a9107f888c91", null ],
+    [ "JustDied", "df/dd7/a13609.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
+    [ "JustEngagedWith", "df/dd7/a13609.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
+    [ "JustSummoned", "df/dd7/a13609.html#a9bc7808889da754bae9c935418975f90", null ],
+    [ "KilledUnit", "df/dd7/a13609.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
+    [ "Reset", "df/dd7/a13609.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
+    [ "SummonedCreatureDies", "df/dd7/a13609.html#a4bd88222143d8db098312cff8a2fc969", null ],
+    [ "_energyCooldown", "df/dd7/a13609.html#a395d2186d70d1b7e29dbada7750da354", null ],
+    [ "_energyCount", "df/dd7/a13609.html#a4afa4a245b8863c7b0898773932642c8", null ]
 ];

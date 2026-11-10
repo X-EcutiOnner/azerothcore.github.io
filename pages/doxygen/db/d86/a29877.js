@@ -1,15 +1,19 @@
 var a29877 =
 [
-    [ "MOCK_METHOD", "db/d86/a29877.html#ad315c9b44cd400050ba5d0ede0a6ed38", null ],
-    [ "MOCK_METHOD", "db/d86/a29877.html#a70f7f432cdb5248e4d7538e989d45c11", null ],
-    [ "MOCK_METHOD", "db/d86/a29877.html#ab1469fe474ab6290bfd8d8222392fdb1", null ],
-    [ "MOCK_METHOD", "db/d86/a29877.html#a72198bd1a85cc6fea8665fb7e0b19ee5", null ],
-    [ "MOCK_METHOD", "db/d86/a29877.html#aebca824eff5f8d2f7c210abdcdf1ed7d", null ],
-    [ "MOCK_METHOD", "db/d86/a29877.html#afc487e92b80c573fd5b01400204401da", null ],
-    [ "MOCK_METHOD", "db/d86/a29877.html#a5e71c6a07e54153dd5081af175031c18", null ],
-    [ "MOCK_METHOD", "db/d86/a29877.html#af6fccda3c70d3ddb643dcae31d63c205", null ],
-    [ "MOCK_METHOD", "db/d86/a29877.html#acccf2037a6b3dbccbadedfdcb7d4c95d", null ],
-    [ "MOCK_METHOD", "db/d86/a29877.html#aff433673cca191db03810f378879eae1", null ],
-    [ "MOCK_METHOD", "db/d86/a29877.html#a0cbd6994e0de9a0052bdcc8750881eac", null ],
-    [ "MOCK_METHOD", "db/d86/a29877.html#a4d624c7be7180f8c85b624e87601d659", null ]
+    [ "SpellProcEntryBuilder", "db/d86/a29877.html#ad5df1abe27dde6d70c030bd19ed5c928", null ],
+    [ "Build", "db/d86/a29877.html#a2a69603215e9fa526304f420bd5a490c", null ],
+    [ "WithAttributesMask", "db/d86/a29877.html#ab9585e517adc231979ca5b817a2f2142", null ],
+    [ "WithChance", "db/d86/a29877.html#a3c99a07866eb497717932af6b7f3a485", null ],
+    [ "WithCharges", "db/d86/a29877.html#a6b8ecf0c38751be02b7003a7547d550f", null ],
+    [ "WithCooldown", "db/d86/a29877.html#acd3a4b7ab057b5f36dd407acc11a4da4", null ],
+    [ "WithDisableEffectsMask", "db/d86/a29877.html#ad414f75756b0fd284c636568dd74e57c", null ],
+    [ "WithHitMask", "db/d86/a29877.html#a1cdd7bec2aa80d5036d614ad0296a695", null ],
+    [ "WithProcFlags", "db/d86/a29877.html#acebcb2a676a7e8e6821854137e056fff", null ],
+    [ "WithProcsPerMinute", "db/d86/a29877.html#aa373ae9df6697d722e7f6084a70c8b7a", null ],
+    [ "WithSchoolMask", "db/d86/a29877.html#a713d576e3a6daf3c6f96b662b5789f14", null ],
+    [ "WithSpellFamilyMask", "db/d86/a29877.html#a57a1699a8238dd535a44908734e3c7fd", null ],
+    [ "WithSpellFamilyName", "db/d86/a29877.html#abf221ae8a8ef5e995bbe9b3f01f004c1", null ],
+    [ "WithSpellPhaseMask", "db/d86/a29877.html#ae7ddfcb398c2f5e52834bd74d25754dc", null ],
+    [ "WithSpellTypeMask", "db/d86/a29877.html#aa0691e03294c5317fdd173d4dd70edc1", null ],
+    [ "_entry", "db/d86/a29877.html#a42632c6cb19221bbca3441f46e1f1b3c", null ]
 ];

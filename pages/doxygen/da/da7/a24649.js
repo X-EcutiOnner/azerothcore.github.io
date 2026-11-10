@@ -1,6 +1,10 @@
 var a24649 =
 [
-    [ "FilterTargets", "da/da7/a24649.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "da/da7/a24649.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "da/da7/a24649.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "npc_pet_hunter_snake_trap", "da/da7/a24649.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "InitializeAI", "da/da7/a24649.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
+    [ "JustEngagedWith", "da/da7/a24649.html#a695af9c49daa05c787dac03c4af91645", null ],
+    [ "MoveInLineOfSight", "da/da7/a24649.html#a099a34f12399fe24349644da3dafe7a4", null ],
+    [ "UpdateAI", "da/da7/a24649.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_isViper", "da/da7/a24649.html#ab49c69ca25014ef63e775b236255e4c1", null ],
+    [ "_spellTimer", "da/da7/a24649.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

@@ -1,6 +1,5 @@
 var a12977 =
 [
-    [ "near_scarshield_infiltrator", "d9/d19/a12977.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "d9/d19/a12977.html#a59c0e7bcddabbbbecb32f38434899144", null ],
-    [ "whisperedTargets", "d9/d19/a12977.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "at_trigger_the_beast_movement", "d9/d19/a12977.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "d9/d19/a12977.html#a333d685d765497a950fde35067d876a1", null ]
 ];

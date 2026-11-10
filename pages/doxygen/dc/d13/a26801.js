@@ -1,6 +1,8 @@
 var a26801 =
 [
-    [ "CheckProc", "dc/d13/a26801.html#a6d19e939f4145f4226f88777e37c7514", null ],
-    [ "PrepareAuraScript", "dc/d13/a26801.html#a821456f72ba2f38ecc31040560ea155f", null ],
-    [ "Register", "dc/d13/a26801.html#a63a0773da832d8490d952de35fe5a29d", null ]
+    [ "HandleProc", "dc/d13/a26801.html#ab98571b7f614d66c44c25d0d2c6aa738", null ],
+    [ "PrepareAuraScript", "dc/d13/a26801.html#a194c83ebc29c4522b5fc313a3ab4d1dd", null ],
+    [ "Register", "dc/d13/a26801.html#a6dfd4dc774e58a8881b20a31d4c1be56", null ],
+    [ "Validate", "dc/d13/a26801.html#a886d2b1a2bf2f25bde5248edcef9733d", null ],
+    [ "_critStreak", "dc/d13/a26801.html#a4a8e3c9d8754844d74e72cb328c44221", null ]
 ];

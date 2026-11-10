@@ -1,7 +1,6 @@
 var a16637 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "dc/d6d/a16637.html#aed531e61508d4d404827f47c6348a5e6", null ],
-    [ "JustEngagedWith", "dc/d6d/a16637.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
-    [ "UpdateAI", "dc/d6d/a16637.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
-    [ "_events", "dc/d6d/a16637.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
+    [ "HandleLeapBack", "dc/d6d/a16637.html#a71a9b9967528c1153ad1215635bc7d01", null ],
+    [ "PrepareSpellScript", "dc/d6d/a16637.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
+    [ "Register", "dc/d6d/a16637.html#a6ef11d0538616315fa7cf098748aa01f", null ]
 ];

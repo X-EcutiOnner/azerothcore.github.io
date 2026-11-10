@@ -1,12 +1,10 @@
 var a09629 =
 [
-    [ "FloatHeightData", "d9/d50/a09641.html", "d9/d50/a09641" ],
-    [ "Uint16HeightData", "d1/d24/a09633.html", "d1/d24/a09633" ],
-    [ "Uint8HeightData", "d2/d38/a09637.html", "d2/d38/a09637" ],
-    [ "HeightPlanesType", "d3/d0c/a09629.html#ab64c3cfcd01805f43ec4ef41fb3bc48d", null ],
-    [ "floatHeightData", "d3/d0c/a09629.html#abd47b99dfa1f23b0741b66cfd4837eaa", null ],
-    [ "gridHeight", "d3/d0c/a09629.html#a1f989ab0921de350dc2410129028201f", null ],
-    [ "minHeightPlanes", "d3/d0c/a09629.html#aa04f68f079e1f488cf69acd24dcd7899", null ],
-    [ "uint16HeightData", "d3/d0c/a09629.html#aec022a29ba14a18fdd33e8f65e1cd977", null ],
-    [ "uint8HeightData", "d3/d0c/a09629.html#a60a4a267b4164347e9f3ead6b5abfe14", null ]
+    [ "iterator", "d3/d0c/a09629.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
+    [ "begin", "d3/d0c/a09629.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
+    [ "end", "d3/d0c/a09629.html#a266acb421cfc6ccc56dc2acff3202971", null ],
+    [ "getFirst", "d3/d0c/a09629.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
+    [ "getLast", "d3/d0c/a09629.html#a46a36813eaf752815a3f8c739db88a5d", null ],
+    [ "rbegin", "d3/d0c/a09629.html#ae69734978b5eec009a696861b7b7152b", null ],
+    [ "rend", "d3/d0c/a09629.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
 ];

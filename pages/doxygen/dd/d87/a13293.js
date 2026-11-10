@@ -1,7 +1,8 @@
 var a13293 =
 [
-    [ "boss_maiden_of_virtue", "dd/d87/a13293.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "dd/d87/a13293.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "dd/d87/a13293.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "dd/d87/a13293.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "npc_kernobeeAI", "dd/d87/a13293.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
+    [ "SetGUID", "dd/d87/a13293.html#ab704b138670279f6d731a6bb58ac6d10", null ],
+    [ "UpdateAI", "dd/d87/a13293.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
+    [ "checkTimer", "dd/d87/a13293.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
+    [ "playerGUID", "dd/d87/a13293.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
 ];

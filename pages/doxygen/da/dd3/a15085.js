@@ -1,7 +1,7 @@
 var a15085 =
 [
-    [ "CheckProc", "da/dd3/a15085.html#a4be98e79967d43908c0f642caab59348", null ],
-    [ "OnApply", "da/dd3/a15085.html#a30d33268b58507c228a4628031bffca0", null ],
-    [ "PrepareAuraScript", "da/dd3/a15085.html#a16dc3f52152d63b5512690c761f9915a", null ],
-    [ "Register", "da/dd3/a15085.html#a6494e4d7277e910ffa3b30c333117f00", null ]
+    [ "HandleEffectApply", "da/dd3/a15085.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "da/dd3/a15085.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "da/dd3/a15085.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "da/dd3/a15085.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

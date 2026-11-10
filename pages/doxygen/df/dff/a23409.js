@@ -1,7 +1,6 @@
 var a23409 =
 [
-    [ "HandleEffectApply", "df/dff/a23409.html#a3893fffea480b47d06c4903deb051aa9", null ],
-    [ "HandleEffectRemove", "df/dff/a23409.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
-    [ "PrepareAuraScript", "df/dff/a23409.html#a246c20ab26d1490fe38afd558a7ae406", null ],
-    [ "Register", "df/dff/a23409.html#aea639a3ae0f003c6213143427f3b1d23", null ]
+    [ "HandleScriptEffect", "df/dff/a23409.html#a62ed9bff154c5aab74e044f8f9982263", null ],
+    [ "PrepareSpellScript", "df/dff/a23409.html#a0e87265cf22ef8b4e302b8e216123395", null ],
+    [ "Register", "df/dff/a23409.html#a0d722447d91991462245e8b392d20e10", null ]
 ];

@@ -1,4 +1,6 @@
 var a10845 =
 [
-    [ "DynamicObjectScript", "d8/d0b/a10845.html#aef90c6acd4e392c12a0d5350f6aa1679", null ]
+    [ "BattlegroundMapScript", "d8/d0b/a10845.html#aa976810defac9b6838553f8d28ea9366", null ],
+    [ "checkValidity", "d8/d0b/a10845.html#a90584770132eb71cffc6e25a674750ad", null ],
+    [ "isAfterLoadScript", "d8/d0b/a10845.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
 ];

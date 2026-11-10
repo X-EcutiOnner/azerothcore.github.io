@@ -1,9 +1,25 @@
 var a19825 =
 [
-    [ "npc_nexus_lord", "d8/df8/a19825.html#ab66ba12059e8a028972d21afc11fb309", null ],
-    [ "AttackStart", "d8/df8/a19825.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
-    [ "JustDied", "d8/df8/a19825.html#ae97f816c5fcb71343d8483345723c300", null ],
-    [ "JustEngagedWith", "d8/df8/a19825.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
-    [ "UpdateAI", "d8/df8/a19825.html#acdd7954382f0de84e90d329ec0720a6d", null ],
-    [ "timer", "d8/df8/a19825.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
+    [ "boss_malygos", "d8/df8/a19825.html#acd26b3f587a379b568c496ea1ec3194f", null ],
+    [ "AttackStart", "d8/df8/a19825.html#affc05cb6c51b8116257a4b1aef46ff00", null ],
+    [ "DamageTaken", "d8/df8/a19825.html#a28a85c719c91835b5f6f52d267990c0c", null ],
+    [ "EnterEvadeMode", "d8/df8/a19825.html#a53c5686a8cf473d8ed1569890bdf70a5", null ],
+    [ "GetGUID", "d8/df8/a19825.html#afb552c6ee40f0415c5d8b96d140c55e6", null ],
+    [ "HandleIntroSpeech", "d8/df8/a19825.html#a648e2f73ffead8912659bc342ec70774", null ],
+    [ "JustDied", "d8/df8/a19825.html#a597f5291a656746becdb058c538cff89", null ],
+    [ "JustEngagedWith", "d8/df8/a19825.html#a110748ba104014f161c8bb51bb6ba566", null ],
+    [ "JustSummoned", "d8/df8/a19825.html#a743aba102bcad0f032113a32c34a131e", null ],
+    [ "KilledUnit", "d8/df8/a19825.html#ad471155b4ff59d163218653cc3dfc104", null ],
+    [ "MoveInLineOfSight", "d8/df8/a19825.html#a92ba2c3af50769e45327f4081b753d1d", null ],
+    [ "MovementInform", "d8/df8/a19825.html#ab1a3fa752819f459e6eb50748f8f65b0", null ],
+    [ "Reset", "d8/df8/a19825.html#a0b2603b3691b4961977acbc593202306", null ],
+    [ "SetGUID", "d8/df8/a19825.html#ae8d1e363bc9db57af46afa838c72cfd1", null ],
+    [ "SpellHit", "d8/df8/a19825.html#ab520ae358e31225469e96d8628c6314c", null ],
+    [ "UpdateAI", "d8/df8/a19825.html#aabdec2e6a2e955cc682b122430cbdcce", null ],
+    [ "_executingVortex", "d8/df8/a19825.html#a1a838052f9465530a586132a24c7ec5b", null ],
+    [ "_surgeTargetGUID", "d8/df8/a19825.html#a832a8890c9b8cefb7c1043de745c1e25", null ],
+    [ "bLockHealthCheck", "d8/df8/a19825.html#a8809894ee687da3133030b4d4f080b35", null ],
+    [ "IntroCounter", "d8/df8/a19825.html#a88f42418d5a96d3b2630ee2975d420b1", null ],
+    [ "timer1", "d8/df8/a19825.html#ad779ad4e63ce426421fab327fc9bf9ed", null ],
+    [ "timer2", "d8/df8/a19825.html#a5cccd64acbf07ab2cbd5650feb2bb115", null ]
 ];

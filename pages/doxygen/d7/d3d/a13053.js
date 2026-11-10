@@ -1,9 +1,7 @@
 var a13053 =
 [
-    [ "FilterTargets", "d7/d3d/a13053.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d7/d3d/a13053.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d7/d3d/a13053.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d7/d3d/a13053.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d7/d3d/a13053.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d7/d3d/a13053.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "boss_ebonroc", "d7/d3d/a13053.html#a74725561727d5bf0dd266f50d377c9c8", null ],
+    [ "JustEngagedWith", "d7/d3d/a13053.html#a84250d1bc0986130404433c80162ecac", null ],
+    [ "MovementInform", "d7/d3d/a13053.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
+    [ "UpdateAI", "d7/d3d/a13053.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
 ];

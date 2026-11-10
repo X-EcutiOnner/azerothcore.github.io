@@ -1,7 +1,8 @@
 var a09969 =
 [
-    [ "ObjectGUIDCheck", "d0/d0a/a09969.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
-    [ "operator()", "d0/d0a/a09969.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
-    [ "_equals", "d0/d0a/a09969.html#a413d991eeee0294a54f3c803e296c3ac", null ],
-    [ "_GUID", "d0/d0a/a09969.html#a0e97bfe0e160177549a831df8e9b4555", null ]
+    [ "AllCreaturesOfEntryInRange", "d0/d0a/a09969.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
+    [ "operator()", "d0/d0a/a09969.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
+    [ "m_fRange", "d0/d0a/a09969.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
+    [ "m_pObject", "d0/d0a/a09969.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
+    [ "m_uiEntry", "d0/d0a/a09969.html#abf653360d2ee482728fb137a37fe0512", null ]
 ];

@@ -1,8 +1,8 @@
 var a26729 =
 [
-    [ "OnRemove", "d8/db6/a26729.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
-    [ "PrepareAuraScript", "d8/db6/a26729.html#ad06dbe9207315484cbb886fcc75bb958", null ],
-    [ "PrepareProc", "d8/db6/a26729.html#a2f4b562be28420d25d09b81ad72af17f", null ],
-    [ "Register", "d8/db6/a26729.html#a04d9c48f8842392a4d318677537ac248", null ],
-    [ "Validate", "d8/db6/a26729.html#ab15a75ec708d8c683166bd73fab29701", null ]
+    [ "Absorb", "d8/db6/a26729.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
+    [ "CalculateAmount", "d8/db6/a26729.html#a20d5b4776ebeb859b0641af640e41d80", null ],
+    [ "PrepareAuraScript", "d8/db6/a26729.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
+    [ "Register", "d8/db6/a26729.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
+    [ "Validate", "d8/db6/a26729.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
 ];

@@ -1,7 +1,5 @@
 var a29993 =
 [
-    [ "EnsureScriptRegistriesInitialized", "d5/d2c/a29993.html#ae5a5b6e47735560ea83b9458fb7dd7f4", null ],
-    [ "SetUp", "d5/d2c/a29993.html#a6934840a3250922d4de42044dd35211c", null ],
-    [ "TearDown", "d5/d2c/a29993.html#a8d33dfa0c7dcd81ea426e107beb4b3fa", null ],
-    [ "previousWorld_", "d5/d2c/a29993.html#adff0b9d4abad7843811c543dfd10572e", null ]
+    [ "SetUp", "d5/d2c/a29993.html#ab7ca64790f3bf45fee5bfa47cc123f9e", null ],
+    [ "TearDown", "d5/d2c/a29993.html#ab25eaec6e37e6e315df357f8a1e51924", null ]
 ];

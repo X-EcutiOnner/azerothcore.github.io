@@ -1,6 +1,6 @@
 var a14821 =
 [
-    [ "HandleEffectApply", "d0/dc0/a14821.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
-    [ "PrepareAuraScript", "d0/dc0/a14821.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
-    [ "Register", "d0/dc0/a14821.html#a2b39daf6fe325cfa909b964da62c2571", null ]
+    [ "npc_brewfest_bark_trigger", "d0/dc0/a14821.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "d0/dc0/a14821.html#aedc2eded9d0d69e5052c54b1f681f868", null ],
+    [ "MoveInLineOfSight", "d0/dc0/a14821.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

@@ -1,6 +1,5 @@
 var a11749 =
 [
-    [ "WorldStateInfo", "de/dd4/a11749.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
-    [ "Value", "de/dd4/a11749.html#afe5a0e98713c986a17f431795c488c6c", null ],
-    [ "VariableID", "de/dd4/a11749.html#a627bba237bce23aff74fd2bf7a274657", null ]
+    [ "QuestGiverQuestAutoLaunch", "de/dd4/a11749.html#a802f7bba88a650bc577cfc1fa29cb016", null ],
+    [ "Read", "de/dd4/a11749.html#a8e5d0c7821d7055fd7ad9f3f83589f57", null ]
 ];

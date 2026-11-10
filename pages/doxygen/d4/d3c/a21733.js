@@ -1,7 +1,5 @@
 var a21733 =
 [
-    [ "HandleScriptEffect", "d4/d3c/a21733.html#a0c6b2f8713f59b3048224f0cb7786913", null ],
-    [ "PrepareSpellScript", "d4/d3c/a21733.html#adf4c5fb99c1ea11c984bffd9b54ee7ce", null ],
-    [ "Register", "d4/d3c/a21733.html#acef977e377c9d6e638056223256da4ef", null ],
-    [ "Validate", "d4/d3c/a21733.html#aaecfe98d6c72c2675bf83d586588dbc0", null ]
+    [ "npc_khunok_the_behemothAI", "d4/d3c/a21733.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
+    [ "MoveInLineOfSight", "d4/d3c/a21733.html#a5d54954a159da764aa7b83579e03688c", null ]
 ];

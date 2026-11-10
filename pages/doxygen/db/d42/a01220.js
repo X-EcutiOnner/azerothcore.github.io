@@ -1,4 +1,4 @@
 var a01220 =
 [
-    [ "ScriptRegistry< SessionScript >", "db/d42/a01220.html#aaf2af9728307baa86fcfc43866215dad", null ]
+    [ "ScriptRegistry< GameEventScript >", "db/d42/a01220.html#a4026f0cd70a2a24f741b1579c24ec594", null ]
 ];

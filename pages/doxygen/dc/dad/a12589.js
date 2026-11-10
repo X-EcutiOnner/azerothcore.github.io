@@ -1,10 +1,13 @@
 var a12589 =
 [
-    [ "item_commandscript", "dc/dad/a12589.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
-    [ "GetCommands", "dc/dad/a12589.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
-    [ "HandleItemMoveCommand", "dc/dad/a12589.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
-    [ "HandleItemRefundCommand", "dc/dad/a12589.html#af914e33be05148062abd89c754d939c9", null ],
-    [ "HandleItemRestoreCommand", "dc/dad/a12589.html#a84c67a46c513c1aac2b9d2563d693929", null ],
-    [ "HandleItemRestoreListCommand", "dc/dad/a12589.html#a40181310f4187a71a6f5f5f600a8f468", null ],
-    [ "HasItemDeletionConfig", "dc/dad/a12589.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
+    [ "gm_commandscript", "dc/dad/a12589.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "dc/dad/a12589.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "dc/dad/a12589.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "dc/dad/a12589.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "dc/dad/a12589.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "dc/dad/a12589.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "dc/dad/a12589.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "dc/dad/a12589.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMSpectatorCommand", "dc/dad/a12589.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
+    [ "HandleGMVisibleCommand", "dc/dad/a12589.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

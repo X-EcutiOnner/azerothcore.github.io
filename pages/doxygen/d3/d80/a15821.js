@@ -1,6 +1,9 @@
 var a15821 =
 [
-    [ "boss_veknilash", "d3/d80/a15821.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "d3/d80/a15821.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "d3/d80/a15821.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "npc_ouro_spawner", "d3/d80/a15821.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "AttackStart", "d3/d80/a15821.html#ac1a78e587d021fe18f07d9ab7dcbb6ad", null ],
+    [ "JustSummoned", "d3/d80/a15821.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "d3/d80/a15821.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "d3/d80/a15821.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "d3/d80/a15821.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

@@ -1,10 +1,11 @@
 var a15349 =
 [
-    [ "boss_infinite_corruptorAI", "dc/d97/a15349.html#a0a4daa01efcb5dbac4defbe375ad18a2", null ],
-    [ "DoAction", "dc/d97/a15349.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
-    [ "JustDied", "dc/d97/a15349.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
-    [ "JustEngagedWith", "dc/d97/a15349.html#a644725505db4fc7a98c4255d0eb34616", null ],
-    [ "Reset", "dc/d97/a15349.html#a4dbff495bfcda6fb715dec68616e1764", null ],
-    [ "UpdateAI", "dc/d97/a15349.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
-    [ "beamTimer", "dc/d97/a15349.html#a2f8048e591a818f073a65bfcfa49e66c", null ]
+    [ "npc_hyjal_ground_trash", "dc/d97/a15349.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "dc/d97/a15349.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "dc/d97/a15349.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "dc/d97/a15349.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "dc/d97/a15349.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "dc/d97/a15349.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "dc/d97/a15349.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "dc/d97/a15349.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

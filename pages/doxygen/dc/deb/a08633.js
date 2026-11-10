@@ -1,9 +1,15 @@
 var a08633 =
 [
-    [ "TrapTargetCheck", "dc/deb/a08633.html#a50295fd91605319ce5f9193313740778", null ],
-    [ "operator()", "dc/deb/a08633.html#a888669fe315e3b43540ca6c5b746c8b0", null ],
-    [ "_owner", "dc/deb/a08633.html#a48293a36445602f3544dba2f8900e571", null ],
-    [ "_range", "dc/deb/a08633.html#a99c524f6018c62aeab771c6db24e467d", null ],
-    [ "_spellCheck", "dc/deb/a08633.html#a312d3677d5184f63d007fd32db51fa19", null ],
-    [ "_trap", "dc/deb/a08633.html#a58664aa8717a38186de05d3dec174a21", null ]
+    [ "Minion", "dc/deb/a08633.html#a3979ae40c594699ac2a276184543b2c5", null ],
+    [ "GetDebugInfo", "dc/deb/a08633.html#a1f9800abdfa2126e593a6ae169f20024", null ],
+    [ "GetFollowAngle", "dc/deb/a08633.html#a6b4a4409bd7a8ff455bb13f8c4e5560a", null ],
+    [ "GetOwner", "dc/deb/a08633.html#a4610f459936e40b530dae8429f139cfe", null ],
+    [ "InitStats", "dc/deb/a08633.html#ad11b2900e990e2b5ba7d10b811cd1e5d", null ],
+    [ "IsGuardianPet", "dc/deb/a08633.html#a63335ad34731e8a26ab027bf690f9d4d", null ],
+    [ "IsPetGhoul", "dc/deb/a08633.html#ae56acaeea6d1cf9735345cb784f3dcd3", null ],
+    [ "RemoveFromWorld", "dc/deb/a08633.html#a35f8314d0a4bafeba1987eb0b1ececf3", null ],
+    [ "setDeathState", "dc/deb/a08633.html#ab954627fc409e08616cf080974d30a82", null ],
+    [ "SetFollowAngle", "dc/deb/a08633.html#a3b7be3e8dc649b939056ee6a5a66c506", null ],
+    [ "m_followAngle", "dc/deb/a08633.html#a02806f2eae429a33e0d2b0c115892c77", null ],
+    [ "m_owner", "dc/deb/a08633.html#a135c4341d5f617d1f69ee9f7deeea755", null ]
 ];

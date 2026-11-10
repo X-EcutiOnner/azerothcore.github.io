@@ -1,12 +1,13 @@
 var a17425 =
 [
-    [ "boss_marwyn", "d0/d44/a17425.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd", null ],
-    [ "DoAction", "d0/d44/a17425.html#a7bd848b407d33942f05b48b6284506bb", null ],
-    [ "EnterEvadeMode", "d0/d44/a17425.html#a93849e995d62ba5a220e08157d8758fa", null ],
-    [ "JustDied", "d0/d44/a17425.html#a89fd620d0e74675d671cb69cc917d024", null ],
-    [ "JustEngagedWith", "d0/d44/a17425.html#a038ed3e1a8c9f3f3bc7f7eca584ad5cd", null ],
-    [ "KilledUnit", "d0/d44/a17425.html#aad4dd7a1fb79c704c7e59581f938d2e9", null ],
-    [ "Reset", "d0/d44/a17425.html#a0e25c5d894b7e20c6a1781410847c1fa", null ],
-    [ "UpdateAI", "d0/d44/a17425.html#ae8d1b8908983af8bff1f13641472817f", null ],
-    [ "_startingFight", "d0/d44/a17425.html#aee335b57c5249ecd4ce843e0f1694e80", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d0/d44/a17425.html#ae39e116a01c17592037e12185a03201a", null ],
+    [ "CheckAchievementCriteriaMeet", "d0/d44/a17425.html#a534c7f97e7425160f9a2b1e555d0aa29", null ],
+    [ "HandleOutro", "d0/d44/a17425.html#aadf4a99e89f354901ff63c600725b07f", null ],
+    [ "OnCreatureCreate", "d0/d44/a17425.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
+    [ "OnPlayerEnter", "d0/d44/a17425.html#aac223f0ae25071d3323052c52c887636", null ],
+    [ "SetBossState", "d0/d44/a17425.html#a76241f1358b8e6c7660f76c98e1556e7", null ],
+    [ "GuardFirstGUID", "d0/d44/a17425.html#ae2e33eee94f285b9d4c2c747dec52714", null ],
+    [ "GuardSecondGUID", "d0/d44/a17425.html#a68c2495f80ac2b53c8f46c857472709c", null ],
+    [ "LeaderFirstGUID", "d0/d44/a17425.html#acaa05485af70315b1d091e5c9bbb7217", null ],
+    [ "LeaderSecondGUID", "d0/d44/a17425.html#a165f784f54e178b51ac899aff6f12747", null ]
 ];

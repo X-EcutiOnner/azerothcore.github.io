@@ -1,6 +1,8 @@
 var a13233 =
 [
-    [ "boss_mr_smiteAI", "d0/d71/a13237.html", "d0/d71/a13237" ],
-    [ "boss_mr_smite", "d2/dbd/a13233.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "d2/dbd/a13233.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "FilterTargets", "d2/dbd/a13233.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "d2/dbd/a13233.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "d2/dbd/a13233.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "d2/dbd/a13233.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "d2/dbd/a13233.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

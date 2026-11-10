@@ -1,6 +1,6 @@
 var a20913 =
 [
-    [ "HandleHit", "d9/d2b/a20913.html#adbb57403c65e84ab217788ee3a9261b7", null ],
-    [ "PrepareSpellScript", "d9/d2b/a20913.html#a324717ff0843627151dd23fe565a80ab", null ],
-    [ "Register", "d9/d2b/a20913.html#a30c67c5c533add48412d6a9e1f6fc6b0", null ]
+    [ "go_razorscale_mole_machineAI", "dc/d7e/a20917.html", "dc/d7e/a20917" ],
+    [ "go_razorscale_mole_machine", "d9/d2b/a20913.html#a94d4c7900c139202cd0e57489ecb5a02", null ],
+    [ "GetAI", "d9/d2b/a20913.html#a56de10f80d50b667bfae81994a618304", null ]
 ];

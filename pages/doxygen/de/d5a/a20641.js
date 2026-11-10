@@ -1,9 +1,7 @@
 var a20641 =
 [
-    [ "CheckProc", "de/d5a/a20641.html#a8ab051ee6fc080f5aa88d86d181f7890", null ],
-    [ "HandleAfterEffectApply", "de/d5a/a20641.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "HandleProc", "de/d5a/a20641.html#a2ee2121d3d55bf6067de985e8d999de2", null ],
-    [ "PrepareAuraScript", "de/d5a/a20641.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "de/d5a/a20641.html#adce13201dd11c6ba83883b12ad32d1f6", null ],
-    [ "Validate", "de/d5a/a20641.html#a30733bf8ca4d619d6eafafa78df4c0f7", null ]
+    [ "HandleAfterEffectApply", "de/d5a/a20641.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "de/d5a/a20641.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "de/d5a/a20641.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "de/d5a/a20641.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

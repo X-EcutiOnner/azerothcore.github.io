@@ -1,9 +1,10 @@
 var a30077 =
 [
-    [ "SetUp", "d2/d81/a30077.html#a20b3a8161766a47ae37349f02cbe5b90", null ],
-    [ "TearDown", "d2/d81/a30077.html#a9b41e4a95a6ca160c70272dfb90b5f8a", null ],
-    [ "creatureQuestMap", "d2/d81/a30077.html#ae8b815994792f237cf6e1803b9eaa7f7", null ],
-    [ "TEST_CREATURE_ID", "d2/d81/a30077.html#a80a79959d4b5520f7acf671677a671e9", null ],
-    [ "TEST_POOL_ID", "d2/d81/a30077.html#aa81759d0539b72ad3cdda7d2231f8e63", null ],
-    [ "TEST_QUEST_ID", "d2/d81/a30077.html#a26e68107bb625d0c5b6281c7df9199be", null ]
+    [ "FakeAura", "d2/d81/a30077.html#a72674203b5aa768aaec46bc824c66ad8", null ],
+    [ "IsExpired", "d2/d81/a30077.html#af55fe68d7548abe43fbbe391163dcbf4", null ],
+    [ "IsRemoved", "d2/d81/a30077.html#ad4b4a547d5596ad39d46125ded1c0863", null ],
+    [ "expired", "d2/d81/a30077.html#a9de4d15b90ea8e89a5a3dd95122f5ff9", null ],
+    [ "removed", "d2/d81/a30077.html#a0ea41ca4e60c4c56228687ca6038695f", null ],
+    [ "spellId", "d2/d81/a30077.html#ab08e902dae2b24d869c2befe1e9a74a2", null ],
+    [ "updated", "d2/d81/a30077.html#aacbde7f93cb160ed272a4b3ddd18f1ee", null ]
 ];

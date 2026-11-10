@@ -1,9 +1,6 @@
 var a20193 =
 [
-    [ "npc_brann_bronzebeard_algalon", "d6/d68/a20193.html#ac00755dca7e187b55516be889386c499", null ],
-    [ "DoAction", "d6/d68/a20193.html#a6d44478868a74ed7baac757258334806", null ],
-    [ "MovementInform", "d6/d68/a20193.html#a33af1a38ab2827aec38f95e57e54f589", null ],
-    [ "UpdateAI", "d6/d68/a20193.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
-    [ "_currentPoint", "d6/d68/a20193.html#a5403badf59f96111aefaddf78379e65f", null ],
-    [ "events", "d6/d68/a20193.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
+    [ "CosmicSmashDamageEvent", "d6/d68/a20193.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "d6/d68/a20193.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "d6/d68/a20193.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

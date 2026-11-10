@@ -1,6 +1,12 @@
 var a10813 =
 [
-    [ "BattlegroundMapScript", "d9/d75/a10813.html#aa976810defac9b6838553f8d28ea9366", null ],
-    [ "checkValidity", "d9/d75/a10813.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "d9/d75/a10813.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "AllMapScript", "d9/d75/a10813.html#a84f63a79158f667f291070d0cbb553ea", null ],
+    [ "CanSendObjectUpdatesToPlayer", "d9/d75/a10813.html#a9748ad2d03db713c1f5d856ebf1329ad", null ],
+    [ "OnBeforeCreateInstanceScript", "d9/d75/a10813.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
+    [ "OnCreateMap", "d9/d75/a10813.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
+    [ "OnDestroyInstance", "d9/d75/a10813.html#a990130b4cd594c1cd04368aea300a49e", null ],
+    [ "OnDestroyMap", "d9/d75/a10813.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
+    [ "OnMapUpdate", "d9/d75/a10813.html#a6edbb719d998c57caba09eef7ad559e0", null ],
+    [ "OnPlayerEnterAll", "d9/d75/a10813.html#a42e4af596effb07a00b353164f32cec9", null ],
+    [ "OnPlayerLeaveAll", "d9/d75/a10813.html#adcfd501bee055317bff2a63ef28c3eab", null ]
 ];

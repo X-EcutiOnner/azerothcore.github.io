@@ -1,8 +1,6 @@
 var a24909 =
 [
-    [ "CheckProc", "de/df5/a24909.html#a068a730173ef0dc0cf239e8b0214b6a4", null ],
-    [ "HandleProc", "de/df5/a24909.html#a39d04711bb64ad3fa3ee8dbeb10ffbc2", null ],
-    [ "PrepareAuraScript", "de/df5/a24909.html#a87166b872450132de96835524b5857c7", null ],
-    [ "Register", "de/df5/a24909.html#a4a1d7e55a99295b66380a6fe1f2b4cc9", null ],
-    [ "Validate", "de/df5/a24909.html#a8d3a6b0496c725872d8e66f804bd8c96", null ]
+    [ "CheckProc", "de/df5/a24909.html#a4e1d93c20d0926d3ac93c23d9c139df6", null ],
+    [ "PrepareAuraScript", "de/df5/a24909.html#a2e572b677ad3b754316066f3e53edbbb", null ],
+    [ "Register", "de/df5/a24909.html#acecdc9e5079c49b312521a65682b602a", null ]
 ];

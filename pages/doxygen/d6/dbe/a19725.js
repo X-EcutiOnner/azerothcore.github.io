@@ -1,10 +1,16 @@
 var a19725 =
 [
-    [ "boss_patchwerkAI", "d6/dbe/a19725.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "d6/dbe/a19725.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "d6/dbe/a19725.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "d6/dbe/a19725.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "d6/dbe/a19725.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "d6/dbe/a19725.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "d6/dbe/a19725.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "boss_nothAI", "d6/dbe/a19725.html#a0a1f8e88396b04d070c4034b2419f0bb", null ],
+    [ "EnterEvadeMode", "d6/dbe/a19725.html#af0c4cfb04564b23840ee88dfa1badf55", null ],
+    [ "IsInRoom", "d6/dbe/a19725.html#a8e9c27804ae01e46285a3bed42091754", null ],
+    [ "JustDied", "d6/dbe/a19725.html#a18dd73c178eff3170d371c4bd4062b76", null ],
+    [ "JustEngagedWith", "d6/dbe/a19725.html#aed044bf36d56b2241e591eb45999900b", null ],
+    [ "JustSummoned", "d6/dbe/a19725.html#a61e814ce0a861ba98ccc21d8d6df128a", null ],
+    [ "KilledUnit", "d6/dbe/a19725.html#a1d5b013cdbaab702a85fc1d344ad6f6a", null ],
+    [ "Reset", "d6/dbe/a19725.html#a311754fa1fa1b112272395179e3b1bff", null ],
+    [ "StartBalconyPhase", "d6/dbe/a19725.html#ac890e5f4e6e9e40d78e75d2c86bd6740", null ],
+    [ "StartGroundPhase", "d6/dbe/a19725.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
+    [ "SummonHelper", "d6/dbe/a19725.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
+    [ "UpdateAI", "d6/dbe/a19725.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
+    [ "timesInBalcony", "d6/dbe/a19725.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
 ];

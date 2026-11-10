@@ -1,18 +1,10 @@
 var a08529 =
 [
-    [ "CreatureData", "dd/d01/a08529.html#a0d796f16134182d2c66d60e950ec570c", null ],
-    [ "curhealth", "dd/d01/a08529.html#a8d792fe1be63517b89beeb7dc16bc59e", null ],
-    [ "curmana", "dd/d01/a08529.html#a9282b4137e892574d3326273c19b7333", null ],
-    [ "currentwaypoint", "dd/d01/a08529.html#ac58e514339c9c60ce78876a7c1ef50f1", null ],
-    [ "displayid", "dd/d01/a08529.html#a51bd5a47d052accca3944095253d0d7a", null ],
-    [ "dynamicflags", "dd/d01/a08529.html#a25d7752e9510c8019469b8a09ce1b059", null ],
-    [ "equipmentId", "dd/d01/a08529.html#ac2d910ad95ea363dbe0a685d5db6cc79", null ],
-    [ "id", "dd/d01/a08529.html#a2e2c3a5008f3d5aba0b6903586d3f83e", null ],
-    [ "id2", "dd/d01/a08529.html#a7632a7510b2a868b926a6ea21bf07e7f", null ],
-    [ "id3", "dd/d01/a08529.html#a934d70093ff85a859a80f672c96888b2", null ],
-    [ "movementType", "dd/d01/a08529.html#a5574b3c7c3976325c72f2d49a91d1ef3", null ],
-    [ "npcflag", "dd/d01/a08529.html#a3de7f5eeb02d6c90c2ef4da7752ea87e", null ],
-    [ "spawntimesecs", "dd/d01/a08529.html#a1f0910de3138ea16397173c9821acf35", null ],
-    [ "unit_flags", "dd/d01/a08529.html#a6dc0af68922ece07d5a0d86e361ce51e", null ],
-    [ "wander_distance", "dd/d01/a08529.html#a05ac0d5358ba012c40155efee608772e", null ]
+    [ "CreatureModel", "dd/d01/a08529.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
+    [ "CreatureModel", "dd/d01/a08529.html#a02b05bf92c3341b90173b4aa998087ba", null ],
+    [ "CreatureDisplayID", "dd/d01/a08529.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
+    [ "DefaultInvisibleModel", "dd/d01/a08529.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
+    [ "DefaultVisibleModel", "dd/d01/a08529.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
+    [ "DisplayScale", "dd/d01/a08529.html#ad842b73233b84c451710767f5e58f10a", null ],
+    [ "Probability", "dd/d01/a08529.html#a7736d6480dca65a68afb82a830b35874", null ]
 ];

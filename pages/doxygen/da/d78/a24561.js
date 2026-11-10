@@ -1,6 +1,8 @@
 var a24561 =
 [
-    [ "achievement", "da/d78/a24561.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "da/d78/a24561.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "da/d78/a24561.html#ab8c1bedac4bccf5c47eda591c9e5e9d1", null ]
+    [ "go_skull_pile", "da/d78/a24561.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "da/d78/a24561.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "da/d78/a24561.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "da/d78/a24561.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "da/d78/a24561.html#af74fcd75404c0886128401d661067394", null ]
 ];

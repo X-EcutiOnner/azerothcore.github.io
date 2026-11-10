@@ -1,6 +1,11 @@
 var a21141 =
 [
-    [ "boss_yoggsaron_descend_portal", "da/d22/a21141.html#aa64788351819e9c7f5505c929818770d", null ],
-    [ "OnSpellClick", "da/d22/a21141.html#af72e8c3611b5e134e39ab9695405e08e", null ],
-    [ "_instance", "da/d22/a21141.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
+    [ "boss_yoggsaron_constrictor_tentacle", "da/d22/a21141.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
+    [ "DoAction", "da/d22/a21141.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
+    [ "GrabPlayer", "da/d22/a21141.html#a0ae04ac300d4f08b12f7edaa75dbe208", null ],
+    [ "IsSummonedBy", "da/d22/a21141.html#a404e4ab66a757b6ff4fa492219198b91", null ],
+    [ "JustDied", "da/d22/a21141.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "PassengerBoarded", "da/d22/a21141.html#afdef8417bffb0a2079199060b0c26980", null ],
+    [ "SelectConstrictTarget", "da/d22/a21141.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
+    [ "_playerGUID", "da/d22/a21141.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];

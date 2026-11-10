@@ -1,9 +1,11 @@
 var a17469 =
 [
-    [ "npc_hor_spiritual_reflection", "d1/d04/a17469.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
-    [ "EnterEvadeMode", "d1/d04/a17469.html#a3973e83b013df723849939635071324f", null ],
-    [ "JustDied", "d1/d04/a17469.html#a913d17e1534a5940b7841e38eae246f7", null ],
-    [ "JustEngagedWith", "d1/d04/a17469.html#ad47d12654c88cc94b7c17906e4096115", null ],
-    [ "Reset", "d1/d04/a17469.html#aa7dad28bbe53286ec298ba5480717e69", null ],
-    [ "UpdateAI", "d1/d04/a17469.html#a5093b6502bca95c22b2b0f0117f86047", null ]
+    [ "npc_tortured_rifleman", "d1/d04/a17469.html#a5ab42b048c14838b6992716f62200c57", null ],
+    [ "AttackStart", "d1/d04/a17469.html#a82f84e5b66d8cbcb25267e0eeb5ce65c", null ],
+    [ "DoAction", "d1/d04/a17469.html#aafd02b19ba0280db3eacc21b24d3ceaa", null ],
+    [ "EnterEvadeMode", "d1/d04/a17469.html#a1eddbbfa45174c05a24ad01f200983e3", null ],
+    [ "JustDied", "d1/d04/a17469.html#abb8349f4f1c19a60c7566f1801ae3087", null ],
+    [ "JustEngagedWith", "d1/d04/a17469.html#ab60cf1d4e6a58613a032b25b043aceea", null ],
+    [ "Reset", "d1/d04/a17469.html#a04210cb211db92a1be6de7bc28953953", null ],
+    [ "UpdateAI", "d1/d04/a17469.html#aa794584f9a842f9725f1f926b4099181", null ]
 ];

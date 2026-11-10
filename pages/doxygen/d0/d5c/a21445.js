@@ -1,15 +1,19 @@
 var a21445 =
 [
-    [ "boss_skadi_graufAI", "d0/d5c/a21445.html#a852687a2fa6ed97aefa230db8ff73b72", null ],
-    [ "DoAction", "d0/d5c/a21445.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
-    [ "JustDied", "d0/d5c/a21445.html#a64a4e6cd927f89c11ec55806e403588f", null ],
-    [ "MovementInform", "d0/d5c/a21445.html#a081fed07ce51e3bfd7a4ce051a4d79ee", null ],
-    [ "Reset", "d0/d5c/a21445.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
-    [ "UpdateAI", "d0/d5c/a21445.html#add5671b1f9e20590e1121f8c18d064cc", null ],
-    [ "_events", "d0/d5c/a21445.html#a446de23b703512497888b42ff781da39", null ],
-    [ "_flyingToSide", "d0/d5c/a21445.html#a92b1963484d7d88f6b4904039db10c9e", null ],
-    [ "_instance", "d0/d5c/a21445.html#adfcccde7d61c9fa8e850e3d4678d1ad0", null ],
-    [ "_lastSide", "d0/d5c/a21445.html#a6b4ef194bf96b7fc8dae2b22536e31b1", null ],
-    [ "_passFreshStart", "d0/d5c/a21445.html#a5c49a178b6729cd555c38e106deeb0a5", null ],
-    [ "_summons", "d0/d5c/a21445.html#abacd3a15554571bce8f70a519ce1bb0b", null ]
+    [ "boss_skadiAI", "d0/d5c/a21445.html#a4e9708950b0dda44bd70d77ee9f9de52", null ],
+    [ "DoAction", "d0/d5c/a21445.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
+    [ "EnterEvadeMode", "d0/d5c/a21445.html#ab6cf2f709b4888b1b4e17c6022d7091f", null ],
+    [ "JustDied", "d0/d5c/a21445.html#af963eda18854869f3a73cb22f48b0230", null ],
+    [ "JustEngagedWith", "d0/d5c/a21445.html#a2853d557da48decede7baa4845f5573f", null ],
+    [ "JustSummoned", "d0/d5c/a21445.html#ac61c732b17b39bdbedf18742b8403c5d", null ],
+    [ "KilledUnit", "d0/d5c/a21445.html#af82c5edf85466d9dd5e1dee666231687", null ],
+    [ "Reset", "d0/d5c/a21445.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
+    [ "SpawnFirstWave", "d0/d5c/a21445.html#af65d4bfff98b239f96e50c868b90e08a", null ],
+    [ "UpdateAI", "d0/d5c/a21445.html#a05690f147e2c2a584179c19b0a84a1b0", null ],
+    [ "_encounterStarted", "d0/d5c/a21445.html#a37c907c5136097497bcb30da4c70d121", null ],
+    [ "_events", "d0/d5c/a21445.html#af7fbc8d2c28052f43463897bcb846b25", null ],
+    [ "_firstWaveSummoned", "d0/d5c/a21445.html#a1af2048d0d48e8670cdb4957e191f172", null ],
+    [ "_instance", "d0/d5c/a21445.html#a34a422dcee2353a888deaac3bab983a4", null ],
+    [ "_phase", "d0/d5c/a21445.html#a64808a1b0cee00069a69c050eeb0240e", null ],
+    [ "_summons", "d0/d5c/a21445.html#ae02eac33cf9fa64a2d2e20b5e4d8a591", null ]
 ];

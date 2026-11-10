@@ -1,16 +1,16 @@
 var a20265 =
 [
-    [ "boss_runemaster_molgeim", "d7/d1f/a20265.html#ae465b567aeba025d2fde3baa94e55e1e", null ],
-    [ "JustDied", "d7/d1f/a20265.html#af278ce3237940684aa9909915e6d6962", null ],
-    [ "JustEngagedWith", "d7/d1f/a20265.html#a2d779d09adfd1f19ce3655d8e9740a9f", null ],
-    [ "JustReachedHome", "d7/d1f/a20265.html#a0597a7360c24899e9f74f1d3f289e9c5", null ],
-    [ "KilledUnit", "d7/d1f/a20265.html#a33c0a2d070cf6d3d850c840b048de251", null ],
-    [ "Reset", "d7/d1f/a20265.html#a9f8cca601307af0475141d6b8370199a", null ],
-    [ "SpellHit", "d7/d1f/a20265.html#a8d05dd3f38eb24cf5be700328a874ff1", null ],
-    [ "UpdateAI", "d7/d1f/a20265.html#ad8f1b523299c7a2c3dd9013fa211a090", null ],
-    [ "UpdatePhase", "d7/d1f/a20265.html#a40d0466bfbe6fae8435fb4921bca6c1a", null ],
-    [ "_phase", "d7/d1f/a20265.html#af1a8f1bf6dbf24890686c8acbf83dc2d", null ],
-    [ "events", "d7/d1f/a20265.html#a277b45a2b2399b91650907de2fb86b89", null ],
-    [ "pInstance", "d7/d1f/a20265.html#adfbc84f0922e69b38723ecbc7eeead62", null ],
-    [ "summons", "d7/d1f/a20265.html#a148c913fcc44c8dfd05260d76d389538", null ]
+    [ "boss_steelbreaker", "d7/d1f/a20265.html#a724e315f9508b02cadc5560f6525afc7", null ],
+    [ "DoAction", "d7/d1f/a20265.html#a2f945dac566b3d24009b486cb4e37cd3", null ],
+    [ "JustDied", "d7/d1f/a20265.html#af69b423bd844f946dede44e136344077", null ],
+    [ "JustEngagedWith", "d7/d1f/a20265.html#afa14e6571e7772d9c978d45a94a40afa", null ],
+    [ "JustReachedHome", "d7/d1f/a20265.html#ad73d9abcfdf9a2fcf3345a024db1f653", null ],
+    [ "KilledUnit", "d7/d1f/a20265.html#a153f72f75fc0758591b418fe82c2628d", null ],
+    [ "Reset", "d7/d1f/a20265.html#a66e5f9c30d30ed7dc42b8ae3ef4f46b6", null ],
+    [ "SpellHit", "d7/d1f/a20265.html#adf32e50b2fc6f8d373933cc0295c7d54", null ],
+    [ "UpdateAI", "d7/d1f/a20265.html#ad96ac1dcde103ddf71b2ded15e757834", null ],
+    [ "UpdatePhase", "d7/d1f/a20265.html#a42ab7be0d80ece19dd726ed29d425183", null ],
+    [ "_phase", "d7/d1f/a20265.html#a1b94dfb3b76278475aae50720a2e85c0", null ],
+    [ "events", "d7/d1f/a20265.html#add48973c02460691e0f32a3ae3897836", null ],
+    [ "pInstance", "d7/d1f/a20265.html#acf1e2229be9f931d0825ce252116b499", null ]
 ];

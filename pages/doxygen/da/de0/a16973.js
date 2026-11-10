@@ -1,18 +1,11 @@
 var a16973 =
 [
-    [ "SpikeEvents", "da/de0/a16973.html#ac8cca6b50f9618ce00b68c817a727186", [
-      [ "EVENT_SPIKE_SPEED_2", "da/de0/a16973.html#ac8cca6b50f9618ce00b68c817a727186a0e571b5194803793768bc74a07d3d581", null ],
-      [ "EVENT_SPIKE_SPEED_3", "da/de0/a16973.html#ac8cca6b50f9618ce00b68c817a727186aa41bf474d97f5e5c554718bfd0e70b30", null ],
-      [ "EVENT_SPIKE_RESUME", "da/de0/a16973.html#ac8cca6b50f9618ce00b68c817a727186a053f4553095ce10ccc54f9017ff444d2", null ],
-      [ "EVENT_SPIKE_REACQUIRE", "da/de0/a16973.html#ac8cca6b50f9618ce00b68c817a727186adfe33791ff1adfff5ad4d8bbac4c0333", null ]
-    ] ],
-    [ "npc_anubarak_spikeAI", "da/de0/a16973.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
-    [ "CanPursue", "da/de0/a16973.html#aa54526c9848c67466637cb8765ae7d04", null ],
-    [ "DamageTaken", "da/de0/a16973.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
-    [ "DoAction", "da/de0/a16973.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
-    [ "Reset", "da/de0/a16973.html#af5b4a1227467d86d9dbba57362fdf360", null ],
-    [ "SelectNewTarget", "da/de0/a16973.html#ab9ed5d53703464c488267f578a214fb8", null ],
-    [ "UpdateAI", "da/de0/a16973.html#af8d6d840785c718d963c7b150cd12d9c", null ],
-    [ "events", "da/de0/a16973.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
-    [ "TargetGUID", "da/de0/a16973.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
+    [ "npc_swarm_scarab", "da/de0/a16973.html#a2f279567204f69191cd010450fcefef4", null ],
+    [ "CanAIAttack", "da/de0/a16973.html#a89bc86d76edcb17849c5b19b61b0ceed", null ],
+    [ "DoAction", "da/de0/a16973.html#a2e6fb131cc3be42cd883e8fb15c09038", null ],
+    [ "JustDied", "da/de0/a16973.html#af3531b85cbf4326c2a2a375ff142180c", null ],
+    [ "JustEngagedWith", "da/de0/a16973.html#a39642ea7a2e8f16c37e124762fe941e0", null ],
+    [ "Reset", "da/de0/a16973.html#ab98b066cdd0eff364dd3dd35d00e71cc", null ],
+    [ "UpdateAI", "da/de0/a16973.html#a0a81e26dd56dfdcbc740f1abc38ed2dd", null ],
+    [ "_submerged", "da/de0/a16973.html#a1f8e4089c672f80dcc62c9473c6056f6", null ]
 ];

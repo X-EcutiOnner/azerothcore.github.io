@@ -1,7 +1,9 @@
 var a27053 =
 [
-    [ "HandleScriptEffect", "d8/dd6/a27053.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "d8/dd6/a27053.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "d8/dd6/a27053.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "d8/dd6/a27053.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "spell_pal_improved_aura_effect", "d8/dd6/a27053.html#a8b413208ee8842e844e4129725e8c99e", null ],
+    [ "CheckAreaTarget", "d8/dd6/a27053.html#a0e61a579344eb8e91d0dd58554fc6ecb", null ],
+    [ "PrepareAuraScript", "d8/dd6/a27053.html#a1aa9d9c753032febf7cc86ce53ad2a99", null ],
+    [ "Register", "d8/dd6/a27053.html#acd92f952c3aeede5c7131fb84aa6334d", null ],
+    [ "Validate", "d8/dd6/a27053.html#a553e45e2963e915fb5a2e123160af83a", null ],
+    [ "_auraSpellId", "d8/dd6/a27053.html#a960fabe394cdf4666b637a7d65b90645", null ]
 ];

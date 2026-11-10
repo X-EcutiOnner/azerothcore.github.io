@@ -1,18 +1,14 @@
 var a13037 =
 [
-    [ "boss_victor_nefarius", "dd/d00/a13037.html#a9d4a7d8fd46382e6f0f538dd426f760d", null ],
-    [ "BeginEvent", "dd/d00/a13037.html#afdd6dfe4ad32135f8aeaa2e9963ccaf4", null ],
-    [ "DoAction", "dd/d00/a13037.html#ad6d5d43db3e2abbc1ca9cf796e94f6fe", null ],
-    [ "Initialize", "dd/d00/a13037.html#a9af31a337899d1fc089db542c9980512", null ],
-    [ "JustDied", "dd/d00/a13037.html#a2ff548e6fd5df2877772e425d9354415", null ],
-    [ "JustReachedHome", "dd/d00/a13037.html#a49eecb765afd0ad88bbe93ca664d67cc", null ],
-    [ "JustSummoned", "dd/d00/a13037.html#aac1786270619ae0a40d5bc20e036b34e", null ],
-    [ "Reset", "dd/d00/a13037.html#aac8e08f7c731890edfdf9664873ec83c", null ],
-    [ "SetData", "dd/d00/a13037.html#adfdcaeb8047b728eeee28b32136d02ab", null ],
-    [ "sGossipSelect", "dd/d00/a13037.html#a238965424e584e1ed97e831ab125bc23", null ],
-    [ "SummonedCreatureDies", "dd/d00/a13037.html#a97f23bbb8ee7fa322bde2c3c36ef2083", null ],
-    [ "UpdateAI", "dd/d00/a13037.html#a782353216a18dda7c0afb6c1d2fa9e6a", null ],
-    [ "_killedAdds", "dd/d00/a13037.html#a17528d290fc57596969d4ac8020d0520", null ],
-    [ "_nefarianLeftTunnel", "dd/d00/a13037.html#a7b6018c7b8b7d8080ffb90f99c732090", null ],
-    [ "_nefarianRightTunnel", "dd/d00/a13037.html#a22a9f85d12a129db428ef63fd4f4c6db", null ]
+    [ "boss_chromaggus", "dd/d00/a13037.html#a2da694ece234807365ce4f22e067eb5c", null ],
+    [ "CanAIAttack", "dd/d00/a13037.html#aed1d8ef49450c5495045bd62f0f3e2e6", null ],
+    [ "Initialize", "dd/d00/a13037.html#ac8d72d4c3b265abca798c9ddc166df3b", null ],
+    [ "JustEngagedWith", "dd/d00/a13037.html#a7a9e301d17657ace82b4243814cbb52c", null ],
+    [ "PathEndReached", "dd/d00/a13037.html#a790a3e06fb4db275bb447b15bb838508", null ],
+    [ "Reset", "dd/d00/a13037.html#a003db2053b634c969499d45f7f65be6e", null ],
+    [ "SetGUID", "dd/d00/a13037.html#afec7a40681ff89c4712bc50b7bc49d6a", null ],
+    [ "UpdateAI", "dd/d00/a13037.html#abc27a22d82555fe3301708e9aaa61997", null ],
+    [ "_breathSpells", "dd/d00/a13037.html#a5d46c6903fd106fd83f8115b48d40cf9", null ],
+    [ "_playerGUID", "dd/d00/a13037.html#a3c04a19e87a122c12508e181319411a0", null ],
+    [ "Enraged", "dd/d00/a13037.html#a4c19a112decabb38f1bca7dc60d622ef", null ]
 ];

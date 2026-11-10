@@ -1,5 +1,5 @@
 var a28261 =
 [
-    [ "AreaTrigger_at_sentry_point", "df/ddf/a28261.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "df/ddf/a28261.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "achievement_fa_la_la_la_ogrila", "df/ddf/a28261.html#ab98a8ab33fec62936bf3c235659c1445", null ],
+    [ "OnCheck", "df/ddf/a28261.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
 ];

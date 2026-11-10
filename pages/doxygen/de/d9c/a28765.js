@@ -1,5 +1,6 @@
 var a28765 =
 [
-    [ "npc_pet_trainerAI", "de/d9c/a28765.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "de/d9c/a28765.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "npc_guardianAI", "d6/d72/a28769.html", "d6/d72/a28769" ],
+    [ "npc_guardian", "de/d9c/a28765.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "de/d9c/a28765.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

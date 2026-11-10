@@ -1,12 +1,12 @@
 var a09661 =
 [
-    [ "GridTerrainLoader", "da/dd6/a09661.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
-    [ "ExistMap", "da/dd6/a09661.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
-    [ "ExistVMap", "da/dd6/a09661.html#a17bdde445c48738ade280bd1cdda0619", null ],
-    [ "LoadMap", "da/dd6/a09661.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
-    [ "LoadMMap", "da/dd6/a09661.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
-    [ "LoadTerrain", "da/dd6/a09661.html#a097556a8a778efa22ab9d50cbda2649a", null ],
-    [ "LoadVMap", "da/dd6/a09661.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
-    [ "_grid", "da/dd6/a09661.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
-    [ "_map", "da/dd6/a09661.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
+    [ "FloatHeightData", "d4/d96/a09673.html", "d4/d96/a09673" ],
+    [ "Uint16HeightData", "d6/d09/a09665.html", "d6/d09/a09665" ],
+    [ "Uint8HeightData", "d9/dd2/a09669.html", "d9/dd2/a09669" ],
+    [ "HeightPlanesType", "da/dd6/a09661.html#ab64c3cfcd01805f43ec4ef41fb3bc48d", null ],
+    [ "floatHeightData", "da/dd6/a09661.html#abd47b99dfa1f23b0741b66cfd4837eaa", null ],
+    [ "gridHeight", "da/dd6/a09661.html#a1f989ab0921de350dc2410129028201f", null ],
+    [ "minHeightPlanes", "da/dd6/a09661.html#aa04f68f079e1f488cf69acd24dcd7899", null ],
+    [ "uint16HeightData", "da/dd6/a09661.html#aec022a29ba14a18fdd33e8f65e1cd977", null ],
+    [ "uint8HeightData", "da/dd6/a09661.html#a60a4a267b4164347e9f3ead6b5abfe14", null ]
 ];

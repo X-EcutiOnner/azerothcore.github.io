@@ -1,7 +1,6 @@
 var a26029 =
 [
-    [ "HandleScriptEffect", "d6/dca/a26029.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
-    [ "Load", "d6/dca/a26029.html#af89783564da25769be15e22291717f6a", null ],
-    [ "PrepareSpellScript", "d6/dca/a26029.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
-    [ "Register", "d6/dca/a26029.html#addbe722d9f3727578f817789e3010bab", null ]
+    [ "HandleScriptEffect", "d6/dca/a26029.html#a61ce8d26205af3a35a69646fa0b5454b", null ],
+    [ "PrepareSpellScript", "d6/dca/a26029.html#ab9ff7007cdaad8d6432ef0cae134f653", null ],
+    [ "Register", "d6/dca/a26029.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
 ];

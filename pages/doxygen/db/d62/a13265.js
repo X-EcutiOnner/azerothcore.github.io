@@ -1,6 +1,6 @@
 var a13265 =
 [
-    [ "HandleTriggerSpell", "db/d62/a13265.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "db/d62/a13265.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "db/d62/a13265.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "boss_mr_smiteAI", "d1/d98/a13269.html", "d1/d98/a13269" ],
+    [ "boss_mr_smite", "db/d62/a13265.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "db/d62/a13265.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

@@ -1,7 +1,15 @@
 var a13933 =
 [
-    [ "HandleSchoolDamage", "df/dc1/a13933.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
-    [ "PrepareSpellScript", "df/dc1/a13933.html#a8063f3d669e07dc0768607feb9a2f763", null ],
-    [ "Register", "df/dc1/a13933.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
-    [ "Validate", "df/dc1/a13933.html#af90ae09274b0082bd8bd674ca43596f6", null ]
+    [ "npc_kiljaeden_controller", "df/dc1/a13933.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
+    [ "JustDied", "df/dc1/a13933.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
+    [ "JustSummoned", "df/dc1/a13933.html#af28211012d8398a450439b8e24bf60ce", null ],
+    [ "Reset", "df/dc1/a13933.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
+    [ "ResetOrbs", "df/dc1/a13933.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
+    [ "SetData", "df/dc1/a13933.html#af89268ab4c4f469a2c54d1f534afafcd", null ],
+    [ "StartEncounter", "df/dc1/a13933.html#ac1b0df0ac76bbacdcac3311df6563297", null ],
+    [ "SummonedCreatureDies", "df/dc1/a13933.html#aed2772552dd500c180c3db4aeef8359a", null ],
+    [ "SummonedCreatureEvade", "df/dc1/a13933.html#a9f8f4ee24ccef096716a659d2df1a912", null ],
+    [ "UpdateAI", "df/dc1/a13933.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
+    [ "instance", "df/dc1/a13933.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
+    [ "summons", "df/dc1/a13933.html#a116a739b2bff3257b35ff7946a3d1995", null ]
 ];

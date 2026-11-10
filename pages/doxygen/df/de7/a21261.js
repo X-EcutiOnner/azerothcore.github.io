@@ -1,5 +1,6 @@
 var a21261 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "df/de7/a21261.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "df/de7/a21261.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "OnRemove", "df/de7/a21261.html#a3cac25c6136b5dce491b24b7fb0ed33a", null ],
+    [ "PrepareAuraScript", "df/de7/a21261.html#a2afc759693aa4dfbd0ac33b1b770e995", null ],
+    [ "Register", "df/de7/a21261.html#a8fbcf904caf526f37d4a7984791d9fd0", null ]
 ];

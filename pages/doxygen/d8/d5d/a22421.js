@@ -1,8 +1,6 @@
 var a22421 =
 [
-    [ "CheckCast", "d8/d5d/a22421.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "d8/d5d/a22421.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "d8/d5d/a22421.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "d8/d5d/a22421.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "d8/d5d/a22421.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "npc_bushwhackerAI", "d9/d95/a22425.html", "d9/d95/a22425" ],
+    [ "npc_bushwhacker", "d8/d5d/a22421.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
+    [ "GetAI", "d8/d5d/a22421.html#ab3190b66069e820abf3637bb877066a0", null ]
 ];

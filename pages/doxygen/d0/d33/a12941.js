@@ -1,12 +1,12 @@
 var a12941 =
 [
-    [ "boss_the_beast", "d0/d33/a12941.html#ab98bce804078b4184b1bf6e844db9c67", null ],
-    [ "FindNearbyOrcs", "d0/d33/a12941.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
-    [ "JustEngagedWith", "d0/d33/a12941.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
-    [ "Reset", "d0/d33/a12941.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
-    [ "SetData", "d0/d33/a12941.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
-    [ "UpdateAI", "d0/d33/a12941.html#ad7db422aefc711b437176b729c6ac151", null ],
-    [ "_beastReached", "d0/d33/a12941.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
-    [ "_nearbyOrcsGUIDs", "d0/d33/a12941.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
-    [ "_orcYelled", "d0/d33/a12941.html#a7079c59c50343f460e2aac2bcf19709c", null ]
+    [ "boss_pyroguard_emberseer", "d0/d33/a12941.html#a4c1bd9e71776fa088a84009565dc527d", null ],
+    [ "JustDied", "d0/d33/a12941.html#a6f0e58c7107563f40e864eede5a907d5", null ],
+    [ "JustEngagedWith", "d0/d33/a12941.html#a1c9662393ea5862ee26f5242e184fd74", null ],
+    [ "OpenDoors", "d0/d33/a12941.html#a80761b3fad5864ce80dae81d31df748c", null ],
+    [ "Reset", "d0/d33/a12941.html#a7eda06b39dc920040e205595a0f8efa2", null ],
+    [ "SetData", "d0/d33/a12941.html#a533c643c9b65813f48fd92ee73670fae", null ],
+    [ "SpellHit", "d0/d33/a12941.html#aa9842818e2ab218ac175cebfc82f6adf", null ],
+    [ "UpdateAI", "d0/d33/a12941.html#a7e12a0ef98e8c751a33e4492ae368074", null ],
+    [ "UpdateRunes", "d0/d33/a12941.html#af80bdd2eb6200d3abbcb08b57798f1e5", null ]
 ];

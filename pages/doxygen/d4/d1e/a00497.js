@@ -1,10 +1,7 @@
 var a00497 =
 [
-    [ "VMAP::ModelSpawn", "de/d5f/a05458.html", "de/d5f/a05458" ],
-    [ "VMAP::ModelInstance", "d3/d1e/a05462.html", "d3/d1e/a05462" ],
-    [ "ModelFlags", "d4/d1e/a00497.html#ac540ff16efadcc07eeb9d8511b94ccce", [
-      [ "MOD_M2", "d4/d1e/a00497.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
-      [ "MOD_WORLDSPAWN", "d4/d1e/a00497.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
-      [ "MOD_HAS_BOUND", "d4/d1e/a00497.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
-    ] ]
+    [ "VMAP::MeshTriangle", "d0/dee/a05497.html", "d0/dee/a05497" ],
+    [ "VMAP::WmoLiquid", "d2/d18/a05501.html", "d2/d18/a05501" ],
+    [ "VMAP::GroupModel", "d1/d13/a05505.html", "d1/d13/a05505" ],
+    [ "VMAP::WorldModel", "da/d38/a05509.html", "da/d38/a05509" ]
 ];

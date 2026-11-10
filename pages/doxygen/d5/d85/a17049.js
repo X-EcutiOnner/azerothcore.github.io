@@ -1,6 +1,8 @@
 var a17049 =
 [
-    [ "npc_toc_hunterAI", "d4/d79/a17053.html", "d4/d79/a17053" ],
-    [ "npc_toc_hunter", "d5/d85/a17049.html#a73d4113df71626af7b8294e08373965e", null ],
-    [ "GetAI", "d5/d85/a17049.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
+    [ "npc_toc_warlockAI", "d5/d85/a17049.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "d5/d85/a17049.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "d5/d85/a17049.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "d5/d85/a17049.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "d5/d85/a17049.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

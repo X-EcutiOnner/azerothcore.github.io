@@ -1,8 +1,10 @@
 var a09945 =
 [
-    [ "MostHPMissingGroupInRange", "d4/d5d/a09945.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
-    [ "operator()", "d4/d5d/a09945.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
-    [ "i_hp", "d4/d5d/a09945.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
-    [ "i_obj", "d4/d5d/a09945.html#ae0d85f9738301b40c3e950b02ee20026", null ],
-    [ "i_range", "d4/d5d/a09945.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
+    [ "AnyPlayerInObjectRangeCheck", "d4/d5d/a09945.html#ae636bd72045687920ec1d460508bc74b", null ],
+    [ "operator()", "d4/d5d/a09945.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
+    [ "operator()", "d4/d5d/a09945.html#a70c477213c8b271d3402857edd87ef8b", null ],
+    [ "_disallowGM", "d4/d5d/a09945.html#a9c43efd575de2edfdaa0b84def91c727", null ],
+    [ "_obj", "d4/d5d/a09945.html#a07a346225f675433792d2298673acd1f", null ],
+    [ "_range", "d4/d5d/a09945.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
+    [ "_reqAlive", "d4/d5d/a09945.html#af1e397c5033711e65d9ac5b35311e893", null ]
 ];

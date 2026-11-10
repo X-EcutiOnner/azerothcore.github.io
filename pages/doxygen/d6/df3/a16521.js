@@ -1,6 +1,5 @@
 var a16521 =
 [
-    [ "npc_anub_ar_crusher_necromancer", "d6/df3/a16521.html#a469d30b357551c4ce77f040bea79e951", null ],
-    [ "DoEngagedWith", "d6/df3/a16521.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
-    [ "DoEvent", "d6/df3/a16521.html#a67889b3a207ab26b7895e2f7996359b1", null ]
+    [ "PrepareAuraScript", "d6/df3/a16521.html#a912a1aa9a77edfa672b70588c17e8002", null ],
+    [ "Register", "d6/df3/a16521.html#a92ee242ff7e474858465b5d4cd408a48", null ]
 ];

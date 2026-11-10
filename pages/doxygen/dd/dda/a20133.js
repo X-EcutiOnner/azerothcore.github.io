@@ -1,12 +1,11 @@
 var a20133 =
 [
-    [ "boss_sjonnirAI", "dd/dda/a20133.html#a53127766553d1bee4d7331e6f4fcda05", null ],
-    [ "ActivatePipe", "dd/dda/a20133.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
-    [ "DoAction", "dd/dda/a20133.html#afb2f73908bc17c763a8028af4b499481", null ],
-    [ "JustDied", "dd/dda/a20133.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
-    [ "JustEngagedWith", "dd/dda/a20133.html#aade776baf55155bb3814129ddc2f9632", null ],
-    [ "KilledUnit", "dd/dda/a20133.html#ac79740a8c5e4263f2917647c74e995aa", null ],
-    [ "Reset", "dd/dda/a20133.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
-    [ "ScheduleTasks", "dd/dda/a20133.html#a5c3c31c5be424795e4e96291c910c73c", null ],
-    [ "SlugeCount", "dd/dda/a20133.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
+    [ "boss_maiden_of_griefAI", "dd/dda/a20133.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "dd/dda/a20133.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "dd/dda/a20133.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "dd/dda/a20133.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "dd/dda/a20133.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "dd/dda/a20133.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "dd/dda/a20133.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "dd/dda/a20133.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

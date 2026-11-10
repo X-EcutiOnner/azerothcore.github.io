@@ -1,12 +1,8 @@
 var a12909 =
 [
-    [ "boss_pyroguard_emberseer", "d1/dec/a12909.html#a4c1bd9e71776fa088a84009565dc527d", null ],
-    [ "JustDied", "d1/dec/a12909.html#a6f0e58c7107563f40e864eede5a907d5", null ],
-    [ "JustEngagedWith", "d1/dec/a12909.html#a1c9662393ea5862ee26f5242e184fd74", null ],
-    [ "OpenDoors", "d1/dec/a12909.html#a80761b3fad5864ce80dae81d31df748c", null ],
-    [ "Reset", "d1/dec/a12909.html#a7eda06b39dc920040e205595a0f8efa2", null ],
-    [ "SetData", "d1/dec/a12909.html#a533c643c9b65813f48fd92ee73670fae", null ],
-    [ "SpellHit", "d1/dec/a12909.html#aa9842818e2ab218ac175cebfc82f6adf", null ],
-    [ "UpdateAI", "d1/dec/a12909.html#a7e12a0ef98e8c751a33e4492ae368074", null ],
-    [ "UpdateRunes", "d1/dec/a12909.html#af80bdd2eb6200d3abbcb08b57798f1e5", null ]
+    [ "boss_drakkisath", "d1/dec/a12909.html#a77fdb667d0dc262dcacc5e988cf5fc8e", null ],
+    [ "JustEngagedWith", "d1/dec/a12909.html#a502ca053bb96215c8386ee694a963cfa", null ],
+    [ "UpdateAI", "d1/dec/a12909.html#a90bf913d6d94e5fc6d982049dd96e3b1", null ],
+    [ "_conflagrateTarget", "d1/dec/a12909.html#aec0bd29626d8b59e33bfba370788ac40", null ],
+    [ "_conflagrateThreat", "d1/dec/a12909.html#ac1cb21a95bbfcfbffc5a3046b233c183", null ]
 ];

@@ -1,8 +1,12 @@
 var a30541 =
 [
-    [ "_ACORE_DB_IMPORT_CONFIG", "d7/d0b/a30541.html#a97392c73658eeeb49d256527b19ad90f", null ],
-    [ "GetConsoleArguments", "d7/d0b/a30541.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "main", "d7/d0b/a30541.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "StartDB", "d7/d0b/a30541.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d7/d0b/a30541.html#a927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "Model", "d7/d0b/a30541.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
+    [ "~Model", "d7/d0b/a30541.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
+    [ "_unload", "d7/d0b/a30541.html#a9b02ed73fa006bc057157b636029ab6f", null ],
+    [ "ConvertToVMAPModel", "d7/d0b/a30541.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
+    [ "open", "d7/d0b/a30541.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
+    [ "filename", "d7/d0b/a30541.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
+    [ "header", "d7/d0b/a30541.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
+    [ "indices", "d7/d0b/a30541.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
+    [ "vertices", "d7/d0b/a30541.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
 ];

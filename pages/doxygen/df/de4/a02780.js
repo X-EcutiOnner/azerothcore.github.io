@@ -1,12 +1,11 @@
 var a02780 =
 [
-    [ "WaypointNode", "db/d96/a10662.html", "db/d96/a10662" ],
-    [ "WaypointPath", "da/dd1/a10666.html", "da/dd1/a10666" ],
-    [ "WaypointMoveType", "df/de4/a02780.html#ac26115060a1cd0169937b206edddd863", [
-      [ "WAYPOINT_MOVE_TYPE_WALK", "df/de4/a02780.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff", null ],
-      [ "WAYPOINT_MOVE_TYPE_RUN", "df/de4/a02780.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55", null ],
-      [ "WAYPOINT_MOVE_TYPE_LAND", "df/de4/a02780.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa", null ],
-      [ "WAYPOINT_MOVE_TYPE_TAKEOFF", "df/de4/a02780.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843", null ],
-      [ "WAYPOINT_MOVE_TYPE_MAX", "df/de4/a02780.html#ac26115060a1cd0169937b206edddd863a32847b8584f9ff3ce07eb01923c37188", null ]
-    ] ]
+    [ "Movement::counter< T, limit >", "da/d42/a10621.html", "da/d42/a10621" ],
+    [ "UInt32Counter", "df/de4/a02780.html#adebd21803156b193f9b8a733b6cbd3c7", null ],
+    [ "computeFallElevation", "df/de4/a02780.html#a87260372150c8322b45e75bfaa445f14", null ],
+    [ "computeFallTime", "df/de4/a02780.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
+    [ "MSToSec", "df/de4/a02780.html#aefc83834e7badc5f8450322da9567bd6", null ],
+    [ "SecToMS", "df/de4/a02780.html#a418fff34f8aed72d6d80876be5a33c58", null ],
+    [ "gravity", "df/de4/a02780.html#a15b376933a666c7f7c4600e62d7afe91", null ],
+    [ "splineIdGen", "df/de4/a02780.html#a5149db3325f467381006d8d5df24a2a8", null ]
 ];

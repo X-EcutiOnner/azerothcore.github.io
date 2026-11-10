@@ -1,6 +1,6 @@
 var a00242 =
 [
-    [ "SpellProcDisableEffectsTest", "dd/dbf/a30222.html", "dd/dbf/a30222" ],
+    [ "SpellProcDisableEffectsTest", "db/dfe/a30237.html", "db/dfe/a30237" ],
     [ "TEST_F", "d2/dc8/a00242.html#a83593ff4e5f0d4bbf17f3d89a11ad41b", null ],
     [ "TEST_F", "d2/dc8/a00242.html#ada6aa7946b5b1650643d1101a7b0a6a1", null ],
     [ "TEST_F", "d2/dc8/a00242.html#a209cf89313651785788473e379b84a84", null ],

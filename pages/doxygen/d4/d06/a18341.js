@@ -1,7 +1,6 @@
 var a18341 =
 [
-    [ "HandleScriptEffect", "d4/d06/a18341.html#abeb703f8f050677bafb8f5ce4173751a", null ],
-    [ "PrepareSpellScript", "d4/d06/a18341.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
-    [ "Register", "d4/d06/a18341.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
-    [ "SelectTarget", "d4/d06/a18341.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
+    [ "npc_bone_spikeAI", "db/d9c/a18345.html", "db/d9c/a18345" ],
+    [ "npc_bone_spike", "d4/d06/a18341.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "d4/d06/a18341.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

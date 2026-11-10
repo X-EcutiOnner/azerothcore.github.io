@@ -1,8 +1,8 @@
 var a27641 =
 [
-    [ "ApplyDebuff", "df/d4b/a27641.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "df/d4b/a27641.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "df/d4b/a27641.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "df/d4b/a27641.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "df/d4b/a27641.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "CheckProc", "df/d4b/a27641.html#a1ab8a38c4d78bd53a4dc3c1452c309a2", null ],
+    [ "PrepareAuraScript", "df/d4b/a27641.html#a14e5c6cd509f8c9f93e185c8ca9d6001", null ],
+    [ "Register", "df/d4b/a27641.html#a79a79a3d7d45eb6bf0a284aadb4cb0d0", null ],
+    [ "WasUsedByMutilate", "df/d4b/a27641.html#a58924c10a44b57f1b64d4b06955749b0", null ],
+    [ "_usedByMutilate", "df/d4b/a27641.html#a9ad38f8799f3e8ae82421e51e97bfbb6", null ]
 ];

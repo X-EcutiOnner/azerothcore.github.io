@@ -1,6 +1,7 @@
 var a24005 =
 [
-    [ "OnApply", "db/dad/a24005.html#a472220f22165c6d21eab5f4b5f75921e", null ],
-    [ "PrepareAuraScript", "db/dad/a24005.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
-    [ "Register", "db/dad/a24005.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
+    [ "boss_warp_splinter", "db/dad/a24005.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "db/dad/a24005.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "db/dad/a24005.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "db/dad/a24005.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

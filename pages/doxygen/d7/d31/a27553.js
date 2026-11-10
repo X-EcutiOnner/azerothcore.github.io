@@ -1,8 +1,7 @@
 var a27553 =
 [
-    [ "AfterApply", "d7/d31/a27553.html#a3299de0703ca1e14760e9f33b124ac44", null ],
-    [ "PeriodicTick", "d7/d31/a27553.html#a34f2fd8d142083705101f8265297c20e", null ],
-    [ "PrepareAuraScript", "d7/d31/a27553.html#a79c80876d5788a20a9f686548b70fd64", null ],
-    [ "Register", "d7/d31/a27553.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
-    [ "Validate", "d7/d31/a27553.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
+    [ "HandleEffectPeriodic", "d7/d31/a27553.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
+    [ "PrepareAuraScript", "d7/d31/a27553.html#ae151331af09510cc91b63b65a30bdcbf", null ],
+    [ "Register", "d7/d31/a27553.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
+    [ "Validate", "d7/d31/a27553.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
 ];

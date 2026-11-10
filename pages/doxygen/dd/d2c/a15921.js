@@ -1,13 +1,8 @@
 var a15921 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "dd/d2c/a15921.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
-    [ "GetData", "dd/d2c/a15921.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
-    [ "Initialize", "dd/d2c/a15921.html#a870ab2322971767fa37986743b31d20c", null ],
-    [ "OnCreatureCreate", "dd/d2c/a15921.html#aed3807432711105589d0b060a21836cc", null ],
-    [ "ReadSaveDataMore", "dd/d2c/a15921.html#ad348102f71e070e7ef12da62238c7b0f", null ],
-    [ "SetData", "dd/d2c/a15921.html#a0333b4728e9288937711174743f19f60", null ],
-    [ "WriteSaveDataMore", "dd/d2c/a15921.html#a78bece51279e3f9e62800e4d80b00f64", null ],
-    [ "_encounters", "dd/d2c/a15921.html#a0f049806007e59363418d4e39f9e389b", null ],
-    [ "DiscipleOfNaralexGUID", "dd/d2c/a15921.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
-    [ "SerpentisGUID", "dd/d2c/a15921.html#a7ba205e4988a20404f5e597331dd5d56", null ]
+    [ "npc_obsidian_eradicator", "dd/d2c/a15921.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "dd/d2c/a15921.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "dd/d2c/a15921.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "dd/d2c/a15921.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "dd/d2c/a15921.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

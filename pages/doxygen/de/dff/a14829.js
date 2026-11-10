@@ -1,7 +1,11 @@
 var a14829 =
 [
-    [ "GetEmptyEntry", "de/dff/a14829.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "de/dff/a14829.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "de/dff/a14829.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "de/dff/a14829.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "npc_dark_iron_attack_mole_machine", "de/dff/a14829.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "de/dff/a14829.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "de/dff/a14829.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "de/dff/a14829.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "de/dff/a14829.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "de/dff/a14829.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "de/dff/a14829.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "de/dff/a14829.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

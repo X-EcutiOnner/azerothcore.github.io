@@ -1,6 +1,8 @@
 var a25433 =
 [
-    [ "CalculateAmount", "d6/d84/a25433.html#a66b009487462241e573ea23f081a140a", null ],
-    [ "PrepareAuraScript", "d6/d84/a25433.html#a0eee16c77a3c3cea882b67c78826a140", null ],
-    [ "Register", "d6/d84/a25433.html#afeafc6922b0a0389fec969e3c7191dda", null ]
+    [ "OnApply", "d6/d84/a25433.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
+    [ "OnRemove", "d6/d84/a25433.html#a3ced5941c25fce087699aa095cd487c9", null ],
+    [ "PrepareAuraScript", "d6/d84/a25433.html#a497776c6ffdda8670fa255b76057bf2c", null ],
+    [ "Register", "d6/d84/a25433.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
+    [ "Validate", "d6/d84/a25433.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
 ];

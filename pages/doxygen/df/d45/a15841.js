@@ -1,7 +1,15 @@
 var a15841 =
 [
-    [ "boss_glob_of_viscidus", "df/d45/a15841.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
-    [ "InitializeAI", "df/d45/a15841.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
-    [ "MovementInform", "df/d45/a15841.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
-    [ "UpdateAI", "df/d45/a15841.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
+    [ "boss_skeram", "df/d45/a15841.html#a293710a88c91a181ee1000939386e176", null ],
+    [ "DoTeleport", "df/d45/a15841.html#a96166ddebd5906868b872c39a6755a70", null ],
+    [ "EnterEvadeMode", "df/d45/a15841.html#ab050e31d661c8c089d175de231b0eeb2", null ],
+    [ "JustDied", "df/d45/a15841.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
+    [ "JustEngagedWith", "df/d45/a15841.html#a7904bcd8f02209a40c9dfff8d3f5ad4b", null ],
+    [ "JustSummoned", "df/d45/a15841.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
+    [ "KilledUnit", "df/d45/a15841.html#a185cb6686d37e064278260ebe5fae13a", null ],
+    [ "Reset", "df/d45/a15841.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
+    [ "UpdateAI", "df/d45/a15841.html#aaf29331e0fac71479747d62fd9f1e301", null ],
+    [ "_copiesGUIDs", "df/d45/a15841.html#a28f1465938dc2141779d5171ea09ecd0", null ],
+    [ "_flag", "df/d45/a15841.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
+    [ "_hpct", "df/d45/a15841.html#a5c8760788264a9a04a28c05a0247676c", null ]
 ];

@@ -1,5 +1,5 @@
 var a02741 =
 [
-    [ "Movement::Location", "da/d7f/a10618.html", "da/d7f/a10618" ],
-    [ "Movement::MoveSpline", "dc/d72/a10622.html", "dc/d72/a10622" ]
+    [ "GetIdleMovementGenerator", "d6/d0b/a02741.html#ab03e344726a074f17f8c63d10b67fcc1", null ],
+    [ "isStatic", "d6/d0b/a02741.html#a05fec3371a9aee5a6448115a645a505d", null ]
 ];

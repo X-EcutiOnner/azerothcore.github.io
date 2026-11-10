@@ -1,7 +1,6 @@
 var a16717 =
 [
-    [ "HandlePeriodic", "de/d65/a16717.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "de/d65/a16717.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "de/d65/a16717.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "de/d65/a16717.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "boss_twilight_halionAI", "d8/dd9/a16721.html", "d8/dd9/a16721" ],
+    [ "boss_twilight_halion", "de/d65/a16717.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
+    [ "GetAI", "de/d65/a16717.html#a56842d74b16cbd5636649cbc643c50d8", null ]
 ];

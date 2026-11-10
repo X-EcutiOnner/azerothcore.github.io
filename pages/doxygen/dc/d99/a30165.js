@@ -1,9 +1,6 @@
 var a30165 =
 [
-    [ "defaultHitMask", "dc/d99/a30165.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
-    [ "defaultSpellPhaseMask", "dc/d99/a30165.html#af927bd441959e8e122648de610398c65", null ],
-    [ "defaultSpellTypeMask", "dc/d99/a30165.html#aa64e6ad192c41998b368b908c499574d", null ],
-    [ "name", "dc/d99/a30165.html#a3916a9a0f1cb0b599b35619c1a89f6eb", null ],
-    [ "procFlag", "dc/d99/a30165.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
-    [ "requiresSpellPhase", "dc/d99/a30165.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
+    [ "SetUp", "dc/d99/a30165.html#a17bb069a079f64ba78b640f29fb23b44", null ],
+    [ "_durationEntry", "dc/d99/a30165.html#ae835f19ae350e48fd88e4cc776d286e4", null ],
+    [ "_frostboltInfo", "dc/d99/a30165.html#adeb95c76547a934f4801bb24932b34d1", null ]
 ];

@@ -1,6 +1,7 @@
 var a13205 =
 [
-    [ "boss_sulfuron", "d9/d70/a13205.html#a7ede84fab05e5cb008036be559c3c799", null ],
-    [ "ExecuteEvent", "d9/d70/a13205.html#a5db50a398c704d8276566c1d74111d19", null ],
-    [ "JustEngagedWith", "d9/d70/a13205.html#a320f58043ee525656a7c2fe94a2a4371", null ]
+    [ "HandleHit", "d9/d70/a13205.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
+    [ "Load", "d9/d70/a13205.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
+    [ "PrepareSpellScript", "d9/d70/a13205.html#a9fb8d980381264a2ef645f2e620abd21", null ],
+    [ "Register", "d9/d70/a13205.html#a4998015873f0e0ca768c20b0f95fda90", null ]
 ];

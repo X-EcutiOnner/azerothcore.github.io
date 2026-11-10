@@ -1,6 +1,7 @@
 var a11045 =
 [
-    [ "ArenaTeam", "d4/dcb/a11045.html#ab199427a8f1a5c4063aef2aeb390714f", null ],
-    [ "Read", "d4/dcb/a11045.html#a9953d33b35eca1b91ed1618609c6acea", null ],
-    [ "ArenaTeamId", "d4/dcb/a11045.html#aecda79f3715bd7ff5a6e872800ef256d", null ]
+    [ "ClientPacket", "d4/dcb/a11045.html#aa1d1946c07e248bae5927e83fdad9500", null ],
+    [ "ClientPacket", "d4/dcb/a11045.html#a1cdaaacca2695c4366647c7611073ff0", null ],
+    [ "GetOpcode", "d4/dcb/a11045.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
+    [ "Write", "d4/dcb/a11045.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
 ];

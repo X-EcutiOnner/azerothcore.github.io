@@ -1,6 +1,6 @@
 var a16481 =
 [
-    [ "HandlePeriodic", "dc/d11/a16481.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "dc/d11/a16481.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "dc/d11/a16481.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "ModDestHeight", "dc/d11/a16481.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "dc/d11/a16481.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "dc/d11/a16481.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

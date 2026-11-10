@@ -1,6 +1,8 @@
 var a22553 =
 [
-    [ "HandleEffectRemove", "dd/d92/a22553.html#a08c55501b95d4c92971fd5c95aaef1a7", null ],
-    [ "PrepareAuraScript", "dd/d92/a22553.html#aa0df1c7c112cf44fbe5a89894a1292b3", null ],
-    [ "Register", "dd/d92/a22553.html#a6f6ae6c012090337eb3f9ca4fd39749d", null ]
+    [ "spell_loosen_grip", "dd/d92/a22553.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "dd/d92/a22553.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "dd/d92/a22553.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "dd/d92/a22553.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "dd/d92/a22553.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

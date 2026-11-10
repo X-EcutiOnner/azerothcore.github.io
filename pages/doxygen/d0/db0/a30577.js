@@ -1,4 +1,7 @@
 var a30577 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "d0/db0/a30577.html#a411c46599e926f8cdf49c63957255359", null ]
+    [ "Paths", "d0/db0/a30577.html#aff167c694a55441bcf5504f5d1933f41", null ],
+    [ "References", "d0/db0/a30577.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
+    [ "Sets", "d0/db0/a30577.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
+    [ "Spawns", "d0/db0/a30577.html#a51f24c059516683f0744b81819186c0e", null ]
 ];

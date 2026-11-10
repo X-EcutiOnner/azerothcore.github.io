@@ -1,10 +1,9 @@
 var a09125 =
 [
-    [ "PlayerSetting", "df/d3b/a09125.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
-    [ "PlayerSetting", "df/d3b/a09125.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
-    [ "AddFlag", "df/d3b/a09125.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
-    [ "HasFlag", "df/d3b/a09125.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
-    [ "IsEnabled", "df/d3b/a09125.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
-    [ "RemoveFlag", "df/d3b/a09125.html#a4ca3645233a466345d6be217d7a0df2b", null ],
-    [ "value", "df/d3b/a09125.html#a74592e45f8ae4c5f411a982227f809f3", null ]
+    [ "achievements", "df/d3b/a09125.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
+    [ "items", "df/d3b/a09125.html#a2873836588f37b9a5cf691da2b6fa715", null ],
+    [ "levelMax", "df/d3b/a09125.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
+    [ "levelMin", "df/d3b/a09125.html#a823016216268e13116a46bcb40ea0e70", null ],
+    [ "quests", "df/d3b/a09125.html#a6150aa58762a13dcbfcb55507df77809", null ],
+    [ "reqItemLevel", "df/d3b/a09125.html#a97f262e488e178dad0c33f228808f69e", null ]
 ];

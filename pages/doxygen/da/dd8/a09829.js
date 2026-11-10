@@ -1,7 +1,8 @@
 var a09829 =
 [
-    [ "FriendlyCCedInRange", "da/dd8/a09829.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
-    [ "operator()", "da/dd8/a09829.html#a0e241f930cee855664aeac3604d5c023", null ],
-    [ "i_obj", "da/dd8/a09829.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
-    [ "i_range", "da/dd8/a09829.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
+    [ "RespawnDo", "da/dd8/a09829.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
+    [ "operator()", "da/dd8/a09829.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
+    [ "operator()", "da/dd8/a09829.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
+    [ "operator()", "da/dd8/a09829.html#a66335f45bb1f3c770887b263e9d84236", null ],
+    [ "operator()", "da/dd8/a09829.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
 ];

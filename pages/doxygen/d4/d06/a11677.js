@@ -1,11 +1,7 @@
 var a11677 =
 [
-    [ "QuestGiverQuestComplete", "d4/d06/a11677.html#ad7cf8778e608128fad236f9eb7448c66", null ],
-    [ "Write", "d4/d06/a11677.html#ad9a328ee5bc7890bbd904a4d7e60f0ef", null ],
-    [ "Experience", "d4/d06/a11677.html#a2c9b1c07b5a52a5526643a6894290e0c", null ],
-    [ "QuestId", "d4/d06/a11677.html#adc349dfbefc0b5a4c13af4b7746dbfe4", null ],
-    [ "RewardArena", "d4/d06/a11677.html#a035223abc4d17df598dfcbc05f7f0770", null ],
-    [ "RewardHonor", "d4/d06/a11677.html#ab7f2f90b0132e3945f84bf36ba926417", null ],
-    [ "RewardMoney", "d4/d06/a11677.html#ab488d663cb52d92dc0d6c39f1d2e7388", null ],
-    [ "RewardTalents", "d4/d06/a11677.html#a43ee482017cfde3cf8f9f36f2dadf3f0", null ]
+    [ "PetDismissSound", "d4/d06/a11677.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
+    [ "Write", "d4/d06/a11677.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
+    [ "ModelId", "d4/d06/a11677.html#aba65e6547adde55978ce7b2abb779d51", null ],
+    [ "ModelPosition", "d4/d06/a11677.html#a06e6bff9d70996ba890c31ea74363dad", null ]
 ];

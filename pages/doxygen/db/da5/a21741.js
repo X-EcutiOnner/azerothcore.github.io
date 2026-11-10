@@ -1,10 +1,7 @@
 var a21741 =
 [
-    [ "npc_lurgglbrAI", "db/da5/a21741.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "db/da5/a21741.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "db/da5/a21741.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "db/da5/a21741.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "WaypointReached", "db/da5/a21741.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "IntroPhase", "db/da5/a21741.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "db/da5/a21741.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "HandleScriptEffect", "db/da5/a21741.html#a0c6b2f8713f59b3048224f0cb7786913", null ],
+    [ "PrepareSpellScript", "db/da5/a21741.html#adf4c5fb99c1ea11c984bffd9b54ee7ce", null ],
+    [ "Register", "db/da5/a21741.html#acef977e377c9d6e638056223256da4ef", null ],
+    [ "Validate", "db/da5/a21741.html#aaecfe98d6c72c2675bf83d586588dbc0", null ]
 ];

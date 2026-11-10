@@ -1,11 +1,8 @@
 var a08561 =
 [
-    [ "FormationMgr", "d7/d47/a08561.html#ade1aa22473c112aed65d537929b07908", null ],
-    [ "~FormationMgr", "d7/d47/a08561.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
-    [ "AddCreatureToGroup", "d7/d47/a08561.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
-    [ "instance", "d7/d47/a08561.html#a871fec234a94e4adae07315a008acec3", null ],
-    [ "LoadCreatureFormations", "d7/d47/a08561.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
-    [ "RemoveCreatureFromGroup", "d7/d47/a08561.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
-    [ "CreatureGroupMap", "d7/d47/a08561.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ],
-    [ "CreatureGroupMembers", "d7/d47/a08561.html#a565b84716797791f01e7be19b65fd996", null ]
+    [ "bounding_radius", "d7/d47/a08561.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
+    [ "combat_reach", "d7/d47/a08561.html#ac271edb10093db19e4df1396053f820d", null ],
+    [ "gender", "d7/d47/a08561.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
+    [ "is_trigger", "d7/d47/a08561.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
+    [ "modelid_other_gender", "d7/d47/a08561.html#a222b3c513a64b385954ea549e67f4255", null ]
 ];

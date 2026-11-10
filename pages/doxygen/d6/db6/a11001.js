@@ -1,11 +1,17 @@
 var a11001 =
 [
-    [ "PointMoveMap", "d6/db6/a11001.html#a777e97ebcf367638578d1c189480ad99", null ],
-    [ "SystemMgr", "d6/db6/a11001.html#ac7fd54676b46afcbc520e4c58fcdce75", null ],
-    [ "~SystemMgr", "d6/db6/a11001.html#ab192b30aa7ff1edd27bb23e87a7ac4c5", null ],
-    [ "GetPointMoveList", "d6/db6/a11001.html#af9f998f9778cebce3edb39b7296994d5", null ],
-    [ "instance", "d6/db6/a11001.html#a71b78a44a3656802d55211d68fb19e12", null ],
-    [ "LoadScriptWaypoints", "d6/db6/a11001.html#af8097171a2ffc49600397c6a519dddc3", null ],
-    [ "_empty", "d6/db6/a11001.html#a4c90cb038afeb09c107979348bd3ca01", null ],
-    [ "m_mPointMoveMap", "d6/db6/a11001.html#a3603d019adf647df9f314a7ca61a25dd", null ]
+    [ "WorldScript", "d6/db6/a11001.html#a729919f2184c74cab388b5e5e509bc37", null ],
+    [ "OnAfterConfigLoad", "d6/db6/a11001.html#affadabcae325631b2683ef458c6d13ee", null ],
+    [ "OnAfterUnloadAllMaps", "d6/db6/a11001.html#a15bc203d07dd2fef96c2a6d13d3ddd44", null ],
+    [ "OnBeforeConfigLoad", "d6/db6/a11001.html#a78baa1285b6495d7beace131dfba8400", null ],
+    [ "OnBeforeFinalizePlayerWorldSession", "d6/db6/a11001.html#a480e411f6178e5128bc5e760d9f36d99", null ],
+    [ "OnBeforeWorldInitialized", "d6/db6/a11001.html#a8ec0a2cc97986db07698392e5c503571", null ],
+    [ "OnLoadCustomDatabaseTable", "d6/db6/a11001.html#af9c5296102d7ef0f716796788650ec4d", null ],
+    [ "OnMotdChange", "d6/db6/a11001.html#a3a72e488dd36a672d7aaa0b59fffe154", null ],
+    [ "OnOpenStateChange", "d6/db6/a11001.html#a7eab4282e8be8ef2a643478f9fe6e0e2", null ],
+    [ "OnShutdown", "d6/db6/a11001.html#a3578707d9be5da90530633a93b4b2bf8", null ],
+    [ "OnShutdownCancel", "d6/db6/a11001.html#a322bd84359ac77369d9aa84bc8bf9649", null ],
+    [ "OnShutdownInitiate", "d6/db6/a11001.html#a83c76efd3de10b0a35c4a311c44d13c1", null ],
+    [ "OnStartup", "d6/db6/a11001.html#a117234aac087ec653c83cfe01a6dce7a", null ],
+    [ "OnUpdate", "d6/db6/a11001.html#ad28857965a9f6f993a47c95af6d9c5ad", null ]
 ];

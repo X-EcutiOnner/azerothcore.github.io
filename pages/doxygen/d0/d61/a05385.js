@@ -1,5 +1,5 @@
 var a05385 =
 [
-    [ "hitModel", "d0/d61/a05385.html#a4d0c56a02fb5f454753a3dba17e9d67b", null ],
-    [ "rootId", "d0/d61/a05385.html#aa855bd49800e7a3b6713d72f0cf629d5", null ]
+    [ "clear", "d0/d61/a05385.html#a69bc508845bc35319a6d8c51e562a5f9", null ],
+    [ "createOrGetVMapMgr", "d0/d61/a05385.html#a80f01f24b27dd7a5a795c193d0816624", null ]
 ];

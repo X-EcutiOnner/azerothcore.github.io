@@ -1,9 +1,8 @@
 var a09973 =
 [
-    [ "UnitAuraCheck", "d0/d4b/a09973.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "d0/d4b/a09973.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "d0/d4b/a09973.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "d0/d4b/a09973.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "d0/d4b/a09973.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "d0/d4b/a09973.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "AllCreaturesMatchingOneEntryInRange", "d0/d4b/a09973.html#a440899ae5e52fedea316b7caa550455e", null ],
+    [ "operator()", "d0/d4b/a09973.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
+    [ "m_fRange", "d0/d4b/a09973.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
+    [ "m_pObject", "d0/d4b/a09973.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
+    [ "m_uiEntries", "d0/d4b/a09973.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
 ];

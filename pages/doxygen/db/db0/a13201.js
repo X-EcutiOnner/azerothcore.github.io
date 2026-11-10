@@ -1,8 +1,22 @@
 var a13201 =
 [
-    [ "FilterTargets", "db/db0/a13201.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
-    [ "HandleScript", "db/db0/a13201.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
-    [ "PrepareSpellScript", "db/db0/a13201.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
-    [ "Register", "db/db0/a13201.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
-    [ "Validate", "db/db0/a13201.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
+    [ "boss_majordomo", "db/db0/a13201.html#afd1ba8fc24239f2846b3a6f7c1c452c9", null ],
+    [ "CanAIAttack", "db/db0/a13201.html#a36acd2797a6284d8169c325ee91ef9e4", null ],
+    [ "DamageTaken", "db/db0/a13201.html#aa5c60db0a8fca290e40c06c76e86071c", null ],
+    [ "DoAction", "db/db0/a13201.html#a7813d29acb394127003c657a78ba49a3", null ],
+    [ "InitializeAI", "db/db0/a13201.html#affefdf791e18427db9e51c4cc5ca32f6", null ],
+    [ "JustDied", "db/db0/a13201.html#afbfabce9d4c1adccc3c1e3623109f06c", null ],
+    [ "JustEngagedWith", "db/db0/a13201.html#a0994b92fd764dabfd46a041f40f91430", null ],
+    [ "JustReachedHome", "db/db0/a13201.html#a1cc0689c21ddbf6eff6bd77d67f375fa", null ],
+    [ "JustSummoned", "db/db0/a13201.html#a72ebc3e2bbdf01d5951453479a09ed86", null ],
+    [ "KilledUnit", "db/db0/a13201.html#a67725d12e1e21d3a17ecdb3b4255112e", null ],
+    [ "MovementInform", "db/db0/a13201.html#aaa14f1315a46d4d06bf0227a080d0c49", null ],
+    [ "Reset", "db/db0/a13201.html#a5b326322edaae37adf38d4479ac1f3e2", null ],
+    [ "sGossipSelect", "db/db0/a13201.html#ab1c57f9e8f82aa6712e7e265c6943bd2", null ],
+    [ "SpellHit", "db/db0/a13201.html#ae1522ff98f287c5b7b4755b1f57d3337", null ],
+    [ "SummonedCreatureDies", "db/db0/a13201.html#aa8b25ae89f739c38d1761b36f7dd3fa1", null ],
+    [ "UpdateAI", "db/db0/a13201.html#a7c18f6ed427829f8bf043fab4de16eb8", null ],
+    [ "aliveMinionsGUIDS", "db/db0/a13201.html#a66bfa0e86cee96ef7ed40892578eabd2", null ],
+    [ "majordomoSummonsData", "db/db0/a13201.html#a006d83ce92496a7210265498ffede766", null ],
+    [ "static_minionsGUIDS", "db/db0/a13201.html#af71fe99c6434c7be66a33793d0bbd8f8", null ]
 ];

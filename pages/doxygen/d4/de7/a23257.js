@@ -1,8 +1,7 @@
 var a23257 =
 [
-    [ "CalcPeriodic", "d4/de7/a23257.html#aad87c25b9b3255a4871bec39d9787299", null ],
-    [ "PrepareAuraScript", "d4/de7/a23257.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
-    [ "Register", "d4/de7/a23257.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
-    [ "Update", "d4/de7/a23257.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
-    [ "Validate", "d4/de7/a23257.html#ae4f7bfb1cd95666acada217173876352", null ]
+    [ "HandleOnHit", "d4/de7/a23257.html#a9f368396cef39ba3bd70480f11c44700", null ],
+    [ "PrepareSpellScript", "d4/de7/a23257.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
+    [ "Register", "d4/de7/a23257.html#a99f80adcebdd9726a8df51f99d415651", null ],
+    [ "Validate", "d4/de7/a23257.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
 ];

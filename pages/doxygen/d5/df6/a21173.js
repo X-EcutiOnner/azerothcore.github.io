@@ -1,6 +1,11 @@
 var a21173 =
 [
-    [ "HandleProc", "d5/df6/a21173.html#a207dcb7134a23ca5a6e86acbdc283a27", null ],
-    [ "PrepareAuraScript", "d5/df6/a21173.html#a110cd9e8c18665e1e7b1ec4bc690ce75", null ],
-    [ "Register", "d5/df6/a21173.html#a867fa7224ccd0fe3b449d36b4607ba1e", null ]
+    [ "boss_yoggsaron_voice", "d5/df6/a21173.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
+    [ "DoAction", "d5/df6/a21173.html#a094522e81d1d19de660b75fb06ea4224", null ],
+    [ "Reset", "d5/df6/a21173.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
+    [ "SpellHitTarget", "d5/df6/a21173.html#aae3b82dbb871f0f297bdacf975958492", null ],
+    [ "UpdateAI", "d5/df6/a21173.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
+    [ "_current", "d5/df6/a21173.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
+    [ "_targets", "d5/df6/a21173.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
+    [ "events", "d5/df6/a21173.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
 ];

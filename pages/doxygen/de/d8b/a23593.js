@@ -1,6 +1,6 @@
 var a23593 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d3/d8b/a23597.html", "d3/d8b/a23597" ],
-    [ "instance_steam_vault", "de/d8b/a23593.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "de/d8b/a23593.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "boss_rokmar_the_crackler", "de/d8b/a23593.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "de/d8b/a23593.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "de/d8b/a23593.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

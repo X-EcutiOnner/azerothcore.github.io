@@ -1,8 +1,10 @@
 var a28633 =
 [
-    [ "npc_nelsonAI", "db/d51/a28637.html", "db/d51/a28637" ],
-    [ "npc_nelson", "db/df2/a28633.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "db/df2/a28633.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "db/df2/a28633.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "db/df2/a28633.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "npc_prof_tailor", "db/df2/a28633.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
+    [ "HasTailorSpell", "db/df2/a28633.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
+    [ "OnGossipHello", "db/df2/a28633.html#a686098ac43916ea2f82b7c321527863d", null ],
+    [ "OnGossipSelect", "db/df2/a28633.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
+    [ "SendActionMenu", "db/df2/a28633.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
+    [ "SendConfirmLearn", "db/df2/a28633.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
+    [ "SendConfirmUnlearn", "db/df2/a28633.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
 ];

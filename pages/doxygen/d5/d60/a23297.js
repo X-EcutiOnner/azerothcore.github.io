@@ -1,5 +1,6 @@
 var a23297 =
 [
-    [ "PrepareSpellScript", "d5/d60/a23297.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
-    [ "Register", "d5/d60/a23297.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
+    [ "HandleEffectRemove", "d5/d60/a23297.html#a99f96034b5976615c38e13e5e55c61b6", null ],
+    [ "PrepareAuraScript", "d5/d60/a23297.html#a0515a72abd37df13606876021659b995", null ],
+    [ "Register", "d5/d60/a23297.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
 ];

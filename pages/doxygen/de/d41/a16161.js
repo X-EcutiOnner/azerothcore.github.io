@@ -1,10 +1,10 @@
 var a16161 =
 [
-    [ "CreatureId", "de/d41/a16161.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
-    [ "DespTimer", "de/d41/a16161.html#a0dfec745982b346ac1cd0af672be31fb", null ],
-    [ "SpawnCount", "de/d41/a16161.html#ad5347ee83eaa00fe0721279099c48433", null ],
-    [ "SpawnTimer", "de/d41/a16161.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
-    [ "UsedSpawnPoint", "de/d41/a16161.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
-    [ "WaveTextId", "de/d41/a16161.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
-    [ "YellTimer", "de/d41/a16161.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
+    [ "npc_omenAI", "de/d41/a16161.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
+    [ "JustDied", "de/d41/a16161.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
+    [ "JustEngagedWith", "de/d41/a16161.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
+    [ "MovementInform", "de/d41/a16161.html#a92e59bde1f0da2ee537a836304a3c385", null ],
+    [ "SpellHit", "de/d41/a16161.html#a4e3960d506fd0435de055a365906a9c9", null ],
+    [ "UpdateAI", "de/d41/a16161.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
+    [ "events", "de/d41/a16161.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
 ];

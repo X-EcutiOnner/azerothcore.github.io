@@ -1,6 +1,8 @@
 var a13157 =
 [
-    [ "boss_magmadar", "df/d1b/a13157.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
-    [ "ExecuteEvent", "df/d1b/a13157.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
-    [ "JustEngagedWith", "df/d1b/a13157.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
+    [ "boss_garr", "df/d1b/a13157.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
+    [ "JustEngagedWith", "df/d1b/a13157.html#abab82d2e00b373ea1f0e444de23f4987", null ],
+    [ "Reset", "df/d1b/a13157.html#a64bcae059cfa97def7e52a42d404a016", null ],
+    [ "UpdateAI", "df/d1b/a13157.html#a2a412224072b47de6780ea7b8d543743", null ],
+    [ "massEruptionTimer", "df/d1b/a13157.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
 ];

@@ -1,10 +1,6 @@
 var a26301 =
 [
-    [ "CalcPeriodic", "de/d76/a26301.html#a6ec300503503fa6f12a48a8494d41edd", null ],
-    [ "Load", "de/d76/a26301.html#a349827fe659ff3bee0a5dfc677c04825", null ],
-    [ "PrepareAuraScript", "de/d76/a26301.html#a8c12c4ae3835322602347b654d96a8b7", null ],
-    [ "Register", "de/d76/a26301.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
-    [ "Update", "de/d76/a26301.html#afa9e6eec798c354231b5f95e260c7111", null ],
-    [ "Validate", "de/d76/a26301.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
-    [ "_spell_id", "de/d76/a26301.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
+    [ "HandleDummy", "de/d76/a26301.html#ab146c4026bc8ad129bb3d421891d344b", null ],
+    [ "PrepareSpellScript", "de/d76/a26301.html#aa9743f357b9800ab2990fb584011b0a6", null ],
+    [ "Register", "de/d76/a26301.html#a3ca7b1dd1187fd39e362b3451b246a4c", null ]
 ];

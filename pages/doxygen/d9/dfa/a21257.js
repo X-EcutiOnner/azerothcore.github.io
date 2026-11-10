@@ -1,7 +1,7 @@
 var a21257 =
 [
-    [ "HandleProc", "d9/dfa/a21257.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "d9/dfa/a21257.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "d9/dfa/a21257.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "d9/dfa/a21257.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "OnApply", "d9/dfa/a21257.html#a458871e0d2c1969a91ce9474b3ad87d0", null ],
+    [ "PrepareAuraScript", "d9/dfa/a21257.html#a3a6b71d35bfcf681c98bb3bb4331e91c", null ],
+    [ "Register", "d9/dfa/a21257.html#a4d6bb68d17bbc1b10d828b1d70155f65", null ],
+    [ "Validate", "d9/dfa/a21257.html#a1ffe527d33de10a7dc8431311f4d738e", null ]
 ];

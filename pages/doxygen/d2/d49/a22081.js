@@ -1,7 +1,7 @@
 var a22081 =
 [
-    [ "npc_emilyAI", "d3/d36/a22085.html", "d3/d36/a22085" ],
-    [ "npc_emily", "d2/d49/a22081.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "d2/d49/a22081.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "d2/d49/a22081.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "OnRemove", "d2/d49/a22081.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "d2/d49/a22081.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "d2/d49/a22081.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "d2/d49/a22081.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

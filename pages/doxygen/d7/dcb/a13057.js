@@ -1,7 +1,6 @@
 var a13057 =
 [
-    [ "HandlePeriodic", "d7/dcb/a13057.html#a72e043202c587e6c12d0b36d679cd071", null ],
-    [ "PrepareAuraScript", "d7/dcb/a13057.html#a7ca007283e34855ee825ae160653f4a3", null ],
-    [ "Register", "d7/dcb/a13057.html#aebad39c65167042be8db3c3a1811a235", null ],
-    [ "Validate", "d7/dcb/a13057.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
+    [ "boss_firemaw", "d7/dcb/a13057.html#a2d2be691020b8aa81f82ffab91a86e42", null ],
+    [ "JustEngagedWith", "d7/dcb/a13057.html#a63d0f449d04ad3d86f4ede9a0f9696a9", null ],
+    [ "UpdateAI", "d7/dcb/a13057.html#a13a672cc37175615068429f9a3282e07", null ]
 ];

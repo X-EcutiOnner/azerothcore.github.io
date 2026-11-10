@@ -1,6 +1,6 @@
 var a12169 =
 [
-    [ "EffectBase", "d9/db0/a12169.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "d9/db0/a12169.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "d9/db0/a12169.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "BeforeHitHandler", "d9/db0/a12169.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "d9/db0/a12169.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "d9/db0/a12169.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

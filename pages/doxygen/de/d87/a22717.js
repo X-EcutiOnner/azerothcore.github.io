@@ -1,9 +1,6 @@
 var a22717 =
 [
-    [ "OPvPCapturePointGH", "de/d87/a22717.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "de/d87/a22717.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "de/d87/a22717.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "de/d87/a22717.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "de/d87/a22717.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "de/d87/a22717.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "FilterTargets", "de/d87/a22717.html#a4d81860c41daab44851da605d38b4753", null ],
+    [ "PrepareSpellScript", "de/d87/a22717.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
+    [ "Register", "de/d87/a22717.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
 ];

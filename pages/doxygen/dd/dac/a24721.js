@@ -1,6 +1,6 @@
 var a24721 =
 [
-    [ "CheckProc", "dd/dac/a24721.html#ace3662e092d02de975929741c470230d", null ],
-    [ "PrepareAuraScript", "dd/dac/a24721.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
-    [ "Register", "dd/dac/a24721.html#ae6432106538261827c3eac3dde1450f2", null ]
+    [ "HandleSummon", "dd/dac/a24721.html#a00e265d830ea3e8a0a1952984c438071", null ],
+    [ "PrepareSpellScript", "dd/dac/a24721.html#a96df13b19964b6e89babb312465b90bc", null ],
+    [ "Register", "dd/dac/a24721.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
 ];

@@ -1,6 +1,9 @@
 var a12497 =
 [
-    [ "bg_commandscript", "db/d77/a12497.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
-    [ "GetCommands", "db/d77/a12497.html#a911ccd6445b08c05069f7f196556c891", null ],
-    [ "HandleBagsClearCommand", "db/d77/a12497.html#a92347e90c2f78d0dfeb41eb033366319", null ]
+    [ "map", "db/d77/a12497.html#a274c6d61203c24b3c680055244e1f590", null ],
+    [ "mouth", "db/d77/a12497.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
+    [ "mouthGuid", "db/d77/a12497.html#a2245c14e379c83bdd47165e829de2e41", null ],
+    [ "necropolisCount", "db/d77/a12497.html#aec44e315616920ba8224be8c4831f5e9", null ],
+    [ "remainingNecropoli", "db/d77/a12497.html#a3c18c61fcd44c32f9e0009479db85399", null ],
+    [ "zoneId", "db/d77/a12497.html#a98e1490705f74627cf9e5483857f3f25", null ]
 ];

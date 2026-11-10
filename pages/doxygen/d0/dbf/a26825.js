@@ -1,6 +1,9 @@
 var a26825 =
 [
-    [ "CheckProc", "d0/dbf/a26825.html#a0f1461140b08deac3f044142067368e7", null ],
-    [ "PrepareAuraScript", "d0/dbf/a26825.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
-    [ "Register", "d0/dbf/a26825.html#a05e31c2252c9054a18b4267be84895b9", null ]
+    [ "AllowT10Proc", "d0/dbf/a26825.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
+    [ "OnRemove", "d0/dbf/a26825.html#a52807f94eba44a9b574577a0b27acb22", null ],
+    [ "PrepareAuraScript", "d0/dbf/a26825.html#a430303b7df445d38da9316324359c2d6", null ],
+    [ "Register", "d0/dbf/a26825.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
+    [ "Validate", "d0/dbf/a26825.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
+    [ "_canProcT10", "d0/dbf/a26825.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
 ];

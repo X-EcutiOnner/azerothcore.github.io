@@ -1,5 +1,5 @@
 var a12661 =
 [
-    [ "Chance", "d8/d16/a12661.html#a20ae19fc80deceb81adccb91b341fb82", null ],
-    [ "Entry", "d8/d16/a12661.html#ae8b951678ec65907370ffe700cd668c8", null ]
+    [ "flag", "d8/d16/a12661.html#ae1419ecdb46b888ad0250ff77ccb9b6e", null ],
+    [ "text", "d8/d16/a12661.html#a87700bc5f863f448b346c2aec2152ba4", null ]
 ];

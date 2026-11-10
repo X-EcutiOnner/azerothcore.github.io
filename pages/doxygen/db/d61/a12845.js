@@ -1,7 +1,6 @@
 var a12845 =
 [
-    [ "boss_magmus", "db/d61/a12845.html#aacd115473f44148837153a3a5842748c", null ],
-    [ "JustEngagedWith", "db/d61/a12845.html#a810cd11145957fe02f2099e9db7e59c8", null ],
-    [ "Reset", "db/d61/a12845.html#af12976d66c690add0d08968799946174", null ],
-    [ "UpdateAI", "db/d61/a12845.html#ab3e7dc0c1917a67ee9fe532239125b00", null ]
+    [ "boss_anubshiah", "db/d61/a12845.html#aa8e436501ebf08465a9742dedb5901fc", null ],
+    [ "JustEngagedWith", "db/d61/a12845.html#aedd04c5765ca4360d8290fac7e7b9c55", null ],
+    [ "UpdateAI", "db/d61/a12845.html#a0a3cbdd6be45415723cbadb40478831a", null ]
 ];

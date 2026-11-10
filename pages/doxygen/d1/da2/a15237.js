@@ -1,7 +1,6 @@
 var a15237 =
 [
-    [ "HandleProc", "d1/da2/a15237.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
-    [ "PrepareAuraScript", "d1/da2/a15237.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
-    [ "Register", "d1/da2/a15237.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
-    [ "Validate", "d1/da2/a15237.html#a18398f81a80f9a1f47958de3be7b9189", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "d7/da5/a15241.html", "d7/da5/a15241" ],
+    [ "instance_blackfathom_deeps", "d1/da2/a15237.html#a4600a7e6191582c1bee684989a970e0f", null ],
+    [ "GetInstanceScript", "d1/da2/a15237.html#a62cdab4f3118ab030b4ef55243690f73", null ]
 ];

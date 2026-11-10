@@ -1,8 +1,18 @@
 var a22829 =
 [
-    [ "boss_pandemonius", "dd/de3/a22829.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "dd/de3/a22829.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "dd/de3/a22829.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "dd/de3/a22829.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "dd/de3/a22829.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "OutdoorPvPZM", "dd/de3/a22829.html#a8351867658985b66dd97f39e68c16b94", null ],
+    [ "FillInitialWorldStates", "dd/de3/a22829.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
+    [ "GetAllianceTowersControlled", "dd/de3/a22829.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
+    [ "GetHordeTowersControlled", "dd/de3/a22829.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
+    [ "HandleKillImpl", "dd/de3/a22829.html#a6cd61b99305a2838261e36652fda42b1", null ],
+    [ "HandlePlayerEnterZone", "dd/de3/a22829.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
+    [ "HandlePlayerLeaveZone", "dd/de3/a22829.html#a93105e3229db7798ad882fc7e538b250", null ],
+    [ "SendRemoveWorldStates", "dd/de3/a22829.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
+    [ "SetAllianceTowersControlled", "dd/de3/a22829.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
+    [ "SetHordeTowersControlled", "dd/de3/a22829.html#a27239875476bbce8ff18b30cdfe6815b", null ],
+    [ "SetupOutdoorPvP", "dd/de3/a22829.html#a7e71d2c2480da1a2d155981999201b99", null ],
+    [ "Update", "dd/de3/a22829.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
+    [ "m_AllianceTowersControlled", "dd/de3/a22829.html#aff4124f54572e0812c39562fbc6390c3", null ],
+    [ "m_Graveyard", "dd/de3/a22829.html#a9842f1c5de04af4db3e0397839de7765", null ],
+    [ "m_HordeTowersControlled", "dd/de3/a22829.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
 ];

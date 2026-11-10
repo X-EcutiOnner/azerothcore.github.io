@@ -1,7 +1,6 @@
 var a17329 =
 [
-    [ "HandleScriptEffect", "d0/d2b/a17329.html#a62cef31900cd61167823f3e66aa2d64b", null ],
-    [ "PrepareSpellScript", "d0/d2b/a17329.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
-    [ "Register", "d0/d2b/a17329.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
-    [ "Validate", "d0/d2b/a17329.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
+    [ "boss_trollgoreAI", "da/db4/a17333.html", "da/db4/a17333" ],
+    [ "boss_trollgore", "d0/d2b/a17329.html#a95102f1fae6c667e0780b8b388fc156b", null ],
+    [ "GetAI", "d0/d2b/a17329.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
 ];

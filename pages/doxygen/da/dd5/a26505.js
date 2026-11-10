@@ -1,6 +1,7 @@
 var a26505 =
 [
-    [ "PrepareSpellScript", "da/dd5/a26505.html#a8127429829afd4b82395a821a4bea19c", null ],
-    [ "Register", "da/dd5/a26505.html#a73717914aa23764fa16c8a2965798a6a", null ],
-    [ "SecondaryEffect", "da/dd5/a26505.html#a6150d8615c7f579aadd50e28aba0d569", null ]
+    [ "HandleProc", "da/dd5/a26505.html#a96626872760ab607782e7e37ca04c709", null ],
+    [ "PrepareAuraScript", "da/dd5/a26505.html#adff2f298c4bf31f82e06986f94a8e73d", null ],
+    [ "Register", "da/dd5/a26505.html#ad2010635f85ec3a96a3cd2b1dcb09f2f", null ],
+    [ "Validate", "da/dd5/a26505.html#a869c5a4800371d63a7b05767262b0a7d", null ]
 ];

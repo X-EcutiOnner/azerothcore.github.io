@@ -1,13 +1,6 @@
 var a21501 =
 [
-    [ "MoveX", "d8/dc8/a21501.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d8/dc8/a21501.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d8/dc8/a21501.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d8/dc8/a21501.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d8/dc8/a21501.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d8/dc8/a21501.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d8/dc8/a21501.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d8/dc8/a21501.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d8/dc8/a21501.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d8/dc8/a21501.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "HandleDummyEffect", "d8/dc8/a21501.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
+    [ "PrepareSpellScript", "d8/dc8/a21501.html#a07376c95cb2ec41d86a24be59094d207", null ],
+    [ "Register", "d8/dc8/a21501.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
 ];

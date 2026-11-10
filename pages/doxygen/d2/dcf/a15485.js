@@ -1,15 +1,11 @@
 var a15485 =
 [
-    [ "npc_time_rift", "d2/dcf/a15485.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
-    [ "DoSelectSummon", "d2/dcf/a15485.html#af2932c60efaea64d27d52b118b9a8095", null ],
-    [ "DoSummonAtRift", "d2/dcf/a15485.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
-    [ "JustSummoned", "d2/dcf/a15485.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
-    [ "Reset", "d2/dcf/a15485.html#ad08ca716f120a45ee1688e03d2049aba", null ],
-    [ "SummonedCreatureDies", "d2/dcf/a15485.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
-    [ "UpdateAI", "d2/dcf/a15485.html#ab5924378c7978c6fae95f9861040c63d", null ],
-    [ "_events", "d2/dcf/a15485.html#a12ffd459f8d63f299269da5b65f60128", null ],
-    [ "_instance", "d2/dcf/a15485.html#a8eab9c3011c885321d59e2884318d0e8", null ],
-    [ "_riftKeeperGUID", "d2/dcf/a15485.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
-    [ "waveMobIndex", "d2/dcf/a15485.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
-    [ "waveMobs", "d2/dcf/a15485.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
+    [ "npc_tarethaAI", "d2/dcf/a15485.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
+    [ "AttackStart", "d2/dcf/a15485.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
+    [ "DoAction", "d2/dcf/a15485.html#adbb40db0b70532a20731cf5039e44d0b", null ],
+    [ "MoveInLineOfSight", "d2/dcf/a15485.html#afa0427372e43316851018bf78274707f", null ],
+    [ "Reset", "d2/dcf/a15485.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
+    [ "WaypointReached", "d2/dcf/a15485.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
+    [ "WaypointReached", "d2/dcf/a15485.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "instance", "d2/dcf/a15485.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
 ];

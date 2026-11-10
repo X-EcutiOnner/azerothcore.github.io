@@ -1,7 +1,7 @@
 var a13697 =
 [
-    [ "HandleScript", "dd/dbc/a13697.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "dd/dbc/a13697.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "dd/dbc/a13697.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "dd/dbc/a13697.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "boss_apothecary_hummelAI", "d2/d27/a13701.html", "d2/d27/a13701" ],
+    [ "boss_apothecary_hummel", "dd/dbc/a13697.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "dd/dbc/a13697.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "dd/dbc/a13697.html#ab66debe3672dcf0bce2bfb821093694b", null ]
 ];

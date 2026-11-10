@@ -1,9 +1,8 @@
 var a11433 =
 [
-    [ "WrapItem", "d5/d8a/a11433.html#a7de705fe4ac1b4d71a6487533f40f2aa", null ],
-    [ "Read", "d5/d8a/a11433.html#adcd87a65cc32bc0096b650a705de9a55", null ],
-    [ "GiftBag", "d5/d8a/a11433.html#a45ebce1daa3de00eca9ff7fb352a9063", null ],
-    [ "GiftSlot", "d5/d8a/a11433.html#acd6da351e2ad9108921e2d9c7b13e82b", null ],
-    [ "ItemBag", "d5/d8a/a11433.html#a577a588900d74f22cfe67a1fbe82424b", null ],
-    [ "ItemSlot", "d5/d8a/a11433.html#a6a4bd31c0d4b97a019caca716a79c073", null ]
+    [ "SellItem", "d5/d8a/a11433.html#a5c7bdfba6d948b9fdaea3416bce03e5e", null ],
+    [ "Read", "d5/d8a/a11433.html#a7387e53c30f41dc8f5fd3ffbe4e4a347", null ],
+    [ "Count", "d5/d8a/a11433.html#a0116f5d02f18bf1a315fbf81b6467239", null ],
+    [ "ItemGuid", "d5/d8a/a11433.html#a92ae3a3dc04a699c4f201026c08974ca", null ],
+    [ "VendorGuid", "d5/d8a/a11433.html#a13200b200096a11e93a6d23fd6122378", null ]
 ];

@@ -1,9 +1,5 @@
 var a05733 =
 [
-    [ "IpLocationStore", "d1/dc7/a05733.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
-    [ "~IpLocationStore", "d1/dc7/a05733.html#a82360c1ce130670fde23d42135f91324", null ],
-    [ "GetLocationRecord", "d1/dc7/a05733.html#a06384169031d2417a7f6bac54d3187a9", null ],
-    [ "instance", "d1/dc7/a05733.html#ad740adf9b81b37cf147dc00e220b29db", null ],
-    [ "Load", "d1/dc7/a05733.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
-    [ "_ipLocationStore", "d1/dc7/a05733.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
+    [ "Head", "d1/dc7/a05733.html#ac5c6d38e71241055f58984e88368494a", null ],
+    [ "Tail", "d1/dc7/a05733.html#a8b16ba737e930ebc023b8cea8231f678", null ]
 ];

@@ -1,6 +1,7 @@
 var a23897 =
 [
-    [ "npc_millhouse_manastormAI", "db/d62/a23901.html", "db/d62/a23901" ],
-    [ "npc_millhouse_manastorm", "de/d0f/a23897.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "de/d0f/a23897.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "FilterTargets", "de/d0f/a23897.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "de/d0f/a23897.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "de/d0f/a23897.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "de/d0f/a23897.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

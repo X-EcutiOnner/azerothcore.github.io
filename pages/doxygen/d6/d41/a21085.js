@@ -1,5 +1,6 @@
 var a21085 =
 [
-    [ "achievement_heartbreaker", "d6/d41/a21085.html#ad81925fc32d7cf914b7be44aabe49b39", null ],
-    [ "OnCheck", "d6/d41/a21085.html#ab3a2539ae5dc74743beb0dc0ea0147af", null ]
+    [ "HandleScript", "d6/d41/a21085.html#a679cf770e38e1fda66f8a64fff53f968", null ],
+    [ "PrepareSpellScript", "d6/d41/a21085.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
+    [ "Register", "d6/d41/a21085.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
 ];

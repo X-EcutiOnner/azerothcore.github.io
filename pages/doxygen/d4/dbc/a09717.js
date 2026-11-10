@@ -1,13 +1,7 @@
 var a09717 =
 [
-    [ "WorldObjectWorker", "d4/dbc/a09717.html#a15dd68579f1a92f015cfac8577db7422", null ],
-    [ "Visit", "d4/dbc/a09717.html#ae264461e49602fd0b8a17e30ed554c64", null ],
-    [ "Visit", "d4/dbc/a09717.html#a3021825347d132f1368a77d29a8318df", null ],
-    [ "Visit", "d4/dbc/a09717.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
-    [ "Visit", "d4/dbc/a09717.html#a7de6ea339a8113d242dd099ca4d36927", null ],
-    [ "Visit", "d4/dbc/a09717.html#a29196fa36ce32a0cec68d0d67372a400", null ],
-    [ "Visit", "d4/dbc/a09717.html#a17097541c49264c15ebfe474f54aeca2", null ],
-    [ "i_do", "d4/dbc/a09717.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
-    [ "i_mapTypeMask", "d4/dbc/a09717.html#a6f8e447b9693154f56ce010869acadb9", null ],
-    [ "i_phaseMask", "d4/dbc/a09717.html#affa6245985c5d271900be12104ab6bb6", null ]
+    [ "CreatureRelocationNotifier", "d4/dbc/a09717.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
+    [ "Visit", "d4/dbc/a09717.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
+    [ "Visit", "d4/dbc/a09717.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
+    [ "i_creature", "d4/dbc/a09717.html#a3116f6245816ba8fb9edb5995faa9927", null ]
 ];

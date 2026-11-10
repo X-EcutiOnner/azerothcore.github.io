@@ -1,6 +1,14 @@
 var a13605 =
 [
-    [ "boss_darkmaster_gandlingAI", "df/dd7/a13609.html", "df/dd7/a13609" ],
-    [ "boss_darkmaster_gandling", "db/d51/a13605.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
-    [ "GetAI", "db/d51/a13605.html#a21ea53862614303af31a517a53d1fbf6", null ]
+    [ "boss_selin_fireheart", "db/d51/a13605.html#ae3270a227550391fd752d3f241e5ea46", null ],
+    [ "CanAIAttack", "db/d51/a13605.html#a36f409a006a09812452052d554d5e810", null ],
+    [ "JustDied", "db/d51/a13605.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
+    [ "JustEngagedWith", "db/d51/a13605.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
+    [ "KilledUnit", "db/d51/a13605.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
+    [ "MovementInform", "db/d51/a13605.html#a8072412acc5f52fdeea3b4f740021a91", null ],
+    [ "OnPowerUpdate", "db/d51/a13605.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
+    [ "Reset", "db/d51/a13605.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
+    [ "SelectNearestCrystal", "db/d51/a13605.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
+    [ "SpawnCrystals", "db/d51/a13605.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
+    [ "SummonedCreatureDies", "db/d51/a13605.html#a396341d39bead723a7c6f716c08aa447", null ]
 ];

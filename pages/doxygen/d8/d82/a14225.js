@@ -1,5 +1,6 @@
 var a14225 =
 [
-    [ "npc_tyrion", "d8/d82/a14225.html#a85b1abd4910729c17099174def6507b1", null ],
-    [ "OnQuestAccept", "d8/d82/a14225.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
+    [ "npc_ravenclaw_apparitionAI", "dd/dec/a14229.html", "dd/dec/a14229" ],
+    [ "npc_ravenclaw_apparition", "d8/d82/a14225.html#a961044571250519e62d7d33633974038", null ],
+    [ "GetAI", "d8/d82/a14225.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
 ];

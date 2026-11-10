@@ -1,10 +1,13 @@
 var a22725 =
 [
-    [ "OPvPCapturePointHP", "df/d46/a22725.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
-    [ "ChangeState", "df/d46/a22725.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
-    [ "FillInitialWorldStates", "df/d46/a22725.html#aa8d725422951485970d9106450fb6a38", null ],
-    [ "HandlePlayerEnter", "df/d46/a22725.html#ad9738c621df084d5a3f0070c80403642", null ],
-    [ "HandlePlayerLeave", "df/d46/a22725.html#a86e849e5387383a6c751e69350ffa07c", null ],
-    [ "SendChangePhase", "df/d46/a22725.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
-    [ "m_TowerType", "df/d46/a22725.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
+    [ "OPvPCapturePointEP_EWT", "df/d46/a22725.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
+    [ "ChangeState", "df/d46/a22725.html#ac00c50b89e1218f87506778096a9d7cd", null ],
+    [ "FillInitialWorldStates", "df/d46/a22725.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
+    [ "HandlePlayerEnter", "df/d46/a22725.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
+    [ "HandlePlayerLeave", "df/d46/a22725.html#a2638b24dca375420778845963e307db3", null ],
+    [ "SendChangePhase", "df/d46/a22725.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
+    [ "SummonSupportUnitAtNorthpassTower", "df/d46/a22725.html#ad70a8cc485072cd9af892290584062d8", null ],
+    [ "UpdateTowerState", "df/d46/a22725.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
+    [ "m_TowerState", "df/d46/a22725.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
+    [ "m_UnitsSummonedSideId", "df/d46/a22725.html#a0319f0d51624df44419976e7abd1b813", null ]
 ];

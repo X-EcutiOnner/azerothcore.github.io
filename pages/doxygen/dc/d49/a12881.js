@@ -1,11 +1,7 @@
 var a12881 =
 [
-    [ "boss_gyth", "dc/d49/a12881.html#a18fea0e0fb6c734b818bb8989b1e66c9", null ],
-    [ "EnterEvadeMode", "dc/d49/a12881.html#a172ea902e3bd162bf8fe8b23e7b9dcfa", null ],
-    [ "IsSummonedBy", "dc/d49/a12881.html#ad7c64e772a8959ad0e58fc13512e0088", null ],
-    [ "JustDied", "dc/d49/a12881.html#a305bf5c4913f429b44592e4a7e99b8ae", null ],
-    [ "JustEngagedWith", "dc/d49/a12881.html#a16de6cf7e2925fd49df6a412c6df9533", null ],
-    [ "JustSummoned", "dc/d49/a12881.html#aab0152a90a341839279cb6d0e7e19eb6", null ],
-    [ "Reset", "dc/d49/a12881.html#aef0345d29833b13045b374a219335018", null ],
-    [ "UpdateAI", "dc/d49/a12881.html#a8829ad229ee09aea55f9603058d095e8", null ]
+    [ "boss_moira_bronzebeard", "dc/d49/a12881.html#aaab4b597fd97619c2a41e2a6425810de", null ],
+    [ "CastOnEmperorIfPossible", "dc/d49/a12881.html#a413aab0c096319ea17d6c6a078b056ea", null ],
+    [ "JustEngagedWith", "dc/d49/a12881.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
+    [ "UpdateAI", "dc/d49/a12881.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
 ];

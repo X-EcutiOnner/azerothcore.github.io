@@ -1,6 +1,6 @@
 var a18957 =
 [
-    [ "ActivateSpirit", "d4/d36/a18957.html#ae5c9f8e693a98c828e0e922870552952", null ],
-    [ "PrepareSpellScript", "d4/d36/a18957.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
-    [ "Register", "d4/d36/a18957.html#a2b1d27e93a879681098a83d17c4d686a", null ]
+    [ "npc_lk_spirit_bombAI", "d9/dbb/a18961.html", "d9/dbb/a18961" ],
+    [ "npc_lk_spirit_bomb", "d4/d36/a18957.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "d4/d36/a18957.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

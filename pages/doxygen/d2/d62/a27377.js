@@ -1,6 +1,7 @@
 var a27377 =
 [
-    [ "HandleTriggerSpell", "d2/d62/a27377.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
-    [ "PrepareAuraScript", "d2/d62/a27377.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
-    [ "Register", "d2/d62/a27377.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
+    [ "HandleDummy", "d2/d62/a27377.html#aef93741620dcf29179502f88891ad0b5", null ],
+    [ "Load", "d2/d62/a27377.html#ab8e5dcd009cca538c9921dcb9c5fe109", null ],
+    [ "PrepareSpellScript", "d2/d62/a27377.html#ac92fd133395705e4cb3730bc96e1f787", null ],
+    [ "Register", "d2/d62/a27377.html#a69336bea35240c0014693ae167d4124b", null ]
 ];

@@ -1,6 +1,6 @@
 var a17657 =
 [
-    [ "HandleDummy", "da/d38/a17657.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "da/d38/a17657.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "da/d38/a17657.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "SlaveRunEvent", "da/d38/a17657.html#a4560b275b0870cdbd192b2610893b47c", null ],
+    [ "Execute", "da/d38/a17657.html#a81db67be136525dea5a9cd84180be165", null ],
+    [ "_owner", "da/d38/a17657.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
 ];

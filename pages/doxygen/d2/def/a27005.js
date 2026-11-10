@@ -1,8 +1,7 @@
 var a27005 =
 [
-    [ "CheckCast", "d2/def/a27005.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "d2/def/a27005.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "d2/def/a27005.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "d2/def/a27005.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "d2/def/a27005.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "HandleProc", "d2/def/a27005.html#acec80390545c0ae674aeed8155333e6b", null ],
+    [ "PrepareAuraScript", "d2/def/a27005.html#a84a503ad6d4848333640ddd347a7476a", null ],
+    [ "Register", "d2/def/a27005.html#ae79f1ce6dc1d6c0823c8da8b6086efab", null ],
+    [ "Validate", "d2/def/a27005.html#a11a4d6e297251b5611e3faa1c3c33e13", null ]
 ];

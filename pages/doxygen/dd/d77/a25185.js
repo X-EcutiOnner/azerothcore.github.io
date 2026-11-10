@@ -1,9 +1,10 @@
 var a25185 =
 [
-    [ "PrepareAuraScript", "dd/d77/a25185.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "dd/d77/a25185.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "dd/d77/a25185.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "dd/d77/a25185.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "dd/d77/a25185.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "dd/d77/a25185.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "CalcAmount", "dd/d77/a25185.html#a182d563b0527e35ea641116a6a808aa8", null ],
+    [ "CalcPeriodic", "dd/d77/a25185.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
+    [ "Load", "dd/d77/a25185.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
+    [ "PrepareAuraScript", "dd/d77/a25185.html#ac320eec2b8a3a7cc3820a49007710520", null ],
+    [ "Register", "dd/d77/a25185.html#a37181afac00639716ae2ce10d82ecb23", null ],
+    [ "UpdatePeriodic", "dd/d77/a25185.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
+    [ "Validate", "dd/d77/a25185.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
 ];

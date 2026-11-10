@@ -1,7 +1,6 @@
 var a17093 =
 [
-    [ "npc_toc_enh_shamanAI", "d6/d91/a17093.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "d6/d91/a17093.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "d6/d91/a17093.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "d6/d91/a17093.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "npc_toc_rogueAI", "dc/de6/a17097.html", "dc/de6/a17097" ],
+    [ "npc_toc_rogue", "d6/d91/a17093.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "d6/d91/a17093.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

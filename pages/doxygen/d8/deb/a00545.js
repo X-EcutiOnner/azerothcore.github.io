@@ -1,4 +1,5 @@
 var a00545 =
 [
-    [ "DynamicMapTree", "dc/dbc/a05342.html", "dc/dbc/a05342" ]
+    [ "BIHWrap< T, BoundsFunc >", "d8/d16/a05321.html", "d8/d16/a05321" ],
+    [ "BIHWrap< T, BoundsFunc >::MDLCallback< RayCallback >", "df/dd6/a05325.html", "df/dd6/a05325" ]
 ];

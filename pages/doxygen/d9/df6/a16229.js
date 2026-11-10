@@ -1,10 +1,7 @@
 var a16229 =
 [
-    [ "npc_custodian_of_timeAI", "d9/df6/a16229.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
-    [ "JustEngagedWith", "d9/df6/a16229.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
-    [ "MoveInLineOfSight", "d9/df6/a16229.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
-    [ "Reset", "d9/df6/a16229.html#a56bcc694ac286488ed4b3f2328c30573", null ],
-    [ "UpdateAI", "d9/df6/a16229.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
-    [ "WaypointReached", "d9/df6/a16229.html#a963736e62fbd0caea631ee3fb69fca46", null ],
-    [ "WaypointReached", "d9/df6/a16229.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "DelayedWindstoneSummonEvent", "d9/df6/a16229.html#aa97daf8cf3479395ffd6558b6699436a", null ],
+    [ "Execute", "d9/df6/a16229.html#aa413bc8709bc543b89ffb3df42185475", null ],
+    [ "_playerGUID", "d9/df6/a16229.html#ad83bb6d87b569f59e99abcc16517745b", null ],
+    [ "_summon", "d9/df6/a16229.html#af9804d276da5daebab3a37f2c75301ea", null ]
 ];

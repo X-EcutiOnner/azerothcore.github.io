@@ -1,7 +1,7 @@
 var a09985 =
 [
-    [ "PowerCheck", "db/d9e/a09985.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
-    [ "operator()", "db/d9e/a09985.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
-    [ "_equals", "db/d9e/a09985.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
-    [ "_power", "db/d9e/a09985.html#a922a57b62b4289835b539a69b0f58fa1", null ]
+    [ "PlayerAtMinimumRangeAway", "db/d9e/a09985.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
+    [ "operator()", "db/d9e/a09985.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
+    [ "fRange", "db/d9e/a09985.html#a0c58929de429694f24877525287f15a6", null ],
+    [ "unit", "db/d9e/a09985.html#a4ea0f83c3287079cff40fac15272fa94", null ]
 ];

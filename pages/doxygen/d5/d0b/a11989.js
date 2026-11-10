@@ -1,6 +1,14 @@
 var a11989 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "d5/d0b/a11989.html#a2fc41ec89b1887f33b0e3932807e7159", null ],
-    [ "operator()", "d5/d0b/a11989.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "d5/d0b/a11989.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "alive", "d5/d0b/a11989.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
+    [ "crit", "d5/d0b/a11989.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
+    [ "damage", "d5/d0b/a11989.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
+    [ "damageBeforeTakenMods", "d5/d0b/a11989.html#a85196e5b5865856962898c18001880c7", null ],
+    [ "effectMask", "d5/d0b/a11989.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
+    [ "missCondition", "d5/d0b/a11989.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
+    [ "processed", "d5/d0b/a11989.html#a2de96d62297ff614fc3702bec035ce5b", null ],
+    [ "reflectResult", "d5/d0b/a11989.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
+    [ "scaleAura", "d5/d0b/a11989.html#a89bba366b26686d41288e9b2e725eb75", null ],
+    [ "targetGUID", "d5/d0b/a11989.html#acf55c1dd6f00c94296c592d988f959cf", null ],
+    [ "timeDelay", "d5/d0b/a11989.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
 ];

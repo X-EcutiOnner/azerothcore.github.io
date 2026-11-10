@@ -1,6 +1,6 @@
 var a15909 =
 [
-    [ "HandleApply", "d6/dad/a15909.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
-    [ "PrepareAuraScript", "d6/dad/a15909.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
-    [ "Register", "d6/dad/a15909.html#ade5c710416516760cc69f77750aa2a1f", null ]
+    [ "HandleDummy", "d6/dad/a15909.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
+    [ "PrepareSpellScript", "d6/dad/a15909.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
+    [ "Register", "d6/dad/a15909.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
 ];

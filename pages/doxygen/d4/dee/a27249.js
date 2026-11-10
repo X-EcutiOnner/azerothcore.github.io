@@ -1,5 +1,6 @@
 var a27249 =
 [
-    [ "PrepareSpellScript", "d4/dee/a27249.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "d4/dee/a27249.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "HandleScriptEffect", "d4/dee/a27249.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
+    [ "PrepareSpellScript", "d4/dee/a27249.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
+    [ "Register", "d4/dee/a27249.html#a12c61c9057250f12ea50be74ba74c948", null ]
 ];

@@ -1,9 +1,9 @@
 var a09753 =
 [
-    [ "CreatureLastSearcher", "dc/d4b/a09753.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
-    [ "Visit", "dc/d4b/a09753.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
-    [ "Visit", "dc/d4b/a09753.html#a08635cefbba5dca34734569816d2edb8", null ],
-    [ "i_check", "dc/d4b/a09753.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
-    [ "i_object", "dc/d4b/a09753.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
-    [ "i_phaseMask", "dc/d4b/a09753.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
+    [ "GameObjectSearcher", "dc/d4b/a09753.html#a6625a6afd81bea2f9cdd10fad6d4a5a4", null ],
+    [ "Visit", "dc/d4b/a09753.html#a16685c62e1e69fdc5df55b2b3920a579", null ],
+    [ "Visit", "dc/d4b/a09753.html#a1105dd396e4fe8c366fc453b5a4bec02", null ],
+    [ "i_check", "dc/d4b/a09753.html#a71152e100ea7c72eceb5cda470d5a2f3", null ],
+    [ "i_object", "dc/d4b/a09753.html#ad1c14442e0f1b5d9ee43639077c75876", null ],
+    [ "i_phaseMask", "dc/d4b/a09753.html#ac11e036da088f6e62556c42965530040", null ]
 ];

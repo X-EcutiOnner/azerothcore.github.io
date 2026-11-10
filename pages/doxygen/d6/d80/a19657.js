@@ -1,17 +1,15 @@
 var a19657 =
 [
-    [ "boss_kelthuzadAI", "d6/d80/a19657.html#a3fa1e67bf942824cd40c5591f4e63a08", null ],
-    [ "EnterEvadeMode", "d6/d80/a19657.html#ac99064d95afff73680df1fe96749665a", null ],
-    [ "JustDied", "d6/d80/a19657.html#a49066a2fa1dc424a27262706c8af046a", null ],
-    [ "JustEngagedWith", "d6/d80/a19657.html#a8fd3938c0e91a0773eacba9fbdb4a60e", null ],
-    [ "JustSummoned", "d6/d80/a19657.html#a0b305ec3029d149c3ca273cb7ba52e1b", null ],
-    [ "KilledUnit", "d6/d80/a19657.html#ad2fa9b4d11b158e3fadf0c304be6b431", null ],
-    [ "MoveInLineOfSight", "d6/d80/a19657.html#a440b758486cd95b7884fe2ce9bdfb28f", null ],
-    [ "NormalizeOrientation", "d6/d80/a19657.html#a21ac290b79119d47b7509b04b34ea16e", null ],
-    [ "Reset", "d6/d80/a19657.html#a5df92ebc5bd4ee8d06b17e31381be8c4", null ],
-    [ "SpawnHelpers", "d6/d80/a19657.html#ad81fa9c3449ba347de09b1519be6d408", null ],
-    [ "SummonHelper", "d6/d80/a19657.html#a3a21a45072144b6f0421733466770267", null ],
-    [ "UpdateAI", "d6/d80/a19657.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
-    [ "events", "d6/d80/a19657.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
-    [ "summons", "d6/d80/a19657.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
+    [ "boss_heigan", "d6/d80/a19657.html#a402b76bd927dd738bdbdf7faff93394c", null ],
+    [ "CheckSafetyDance", "d6/d80/a19657.html#a378397cc91408b812c76f657a96285e1", null ],
+    [ "JustDied", "d6/d80/a19657.html#a259c99e12b92ccb99af16949e37b5c48", null ],
+    [ "JustEngagedWith", "d6/d80/a19657.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
+    [ "KilledUnit", "d6/d80/a19657.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
+    [ "Reset", "d6/d80/a19657.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
+    [ "StartFightPhase", "d6/d80/a19657.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
+    [ "UpdateAI", "d6/d80/a19657.html#a36c0bc5abff61b435f2a8163687b122a", null ],
+    [ "_currentPhase", "d6/d80/a19657.html#a1065c6221b30536344e7d4d0779abd17", null ],
+    [ "_currentSection", "d6/d80/a19657.html#adcf2448a0868ea3e900609c8e7e34154", null ],
+    [ "_eruptionScheduler", "d6/d80/a19657.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
+    [ "_moveRight", "d6/d80/a19657.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
 ];

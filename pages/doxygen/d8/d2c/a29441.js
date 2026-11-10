@@ -1,17 +1,11 @@
 var a29441 =
 [
-    [ "Entry", "d8/d2c/a29441.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
-    [ "Difficulty", "d8/d2c/a29441.html#aa85e97ced86b0d27c753ca924eba074b", null ],
-    [ "ExpansionLevel", "d8/d2c/a29441.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
-    [ "Flags", "d8/d2c/a29441.html#a9481c296a064ec400b0f050097903557", null ],
-    [ "GroupID", "d8/d2c/a29441.html#a7a6c2971a61b171d00c885ce452601ce", null ],
-    [ "ID", "d8/d2c/a29441.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
-    [ "MapID", "d8/d2c/a29441.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
-    [ "MaxLevel", "d8/d2c/a29441.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
-    [ "MinLevel", "d8/d2c/a29441.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
-    [ "Name", "d8/d2c/a29441.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
-    [ "TargetLevel", "d8/d2c/a29441.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
-    [ "TargetLevelMax", "d8/d2c/a29441.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
-    [ "TargetLevelMin", "d8/d2c/a29441.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
-    [ "TypeID", "d8/d2c/a29441.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
+    [ "ClassID", "d8/d2c/a29441.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
+    [ "DisplayInfoID", "d8/d2c/a29441.html#a87657df2ad024245ccb2192303f76b7a", null ],
+    [ "ID", "d8/d2c/a29441.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
+    [ "InventoryType", "d8/d2c/a29441.html#a6dc33fc40a299b010c18a7009aff648b", null ],
+    [ "Material", "d8/d2c/a29441.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
+    [ "SheatheType", "d8/d2c/a29441.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
+    [ "SoundOverrideSubclassID", "d8/d2c/a29441.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
+    [ "SubclassID", "d8/d2c/a29441.html#ac39254716573e335caf312f635353a2e", null ]
 ];

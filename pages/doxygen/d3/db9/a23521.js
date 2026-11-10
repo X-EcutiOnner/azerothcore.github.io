@@ -1,7 +1,11 @@
 var a23521 =
 [
-    [ "PeriodicTick", "d3/db9/a23521.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
-    [ "PrepareAuraScript", "d3/db9/a23521.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
-    [ "Register", "d3/db9/a23521.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
-    [ "Validate", "d3/db9/a23521.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
+    [ "boss_ahune", "d3/db9/a23521.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "d3/db9/a23521.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "d3/db9/a23521.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "d3/db9/a23521.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "d3/db9/a23521.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "d3/db9/a23521.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "d3/db9/a23521.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "d3/db9/a23521.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

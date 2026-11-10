@@ -1,5 +1,6 @@
 var a15957 =
 [
-    [ "go_ravager_cage", "d2/dcb/a15957.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
-    [ "OnGossipHello", "d2/dcb/a15957.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
+    [ "npc_muglashAI", "da/d5b/a15961.html", "da/d5b/a15961" ],
+    [ "npc_muglash", "d2/dcb/a15957.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
+    [ "GetAI", "d2/dcb/a15957.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
 ];

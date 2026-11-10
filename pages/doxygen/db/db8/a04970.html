@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/World/transport_zeppelins.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Pet/pet_mage.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,284 +108,251 @@ $(document).ready(function(){initNavTree('db/db8/a04970.html','../../'); initRes
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">transport_zeppelins.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">pet_mage.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObjectScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CombatAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Pet.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TaskScheduler.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TransportMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldState.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">transport_zeppelin.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellAuras.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d83/a28922.html">go_transport_the_iron_eagle</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da3/a24665.html">DeathEvent</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d77/a28926.html">go_transport_the_thundercaller</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d85/a28930.html">go_transport_the_purple_princess</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/deb/a28934.html">go_transport_westguard_zeppelin</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d84/a28938.html">npc_harrowmeiser</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d09/a28942.html">npc_bombardier_petrov</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d99/a24669.html">npc_pet_mage_mirror_image</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a0e0fe2cb0f4a9bbe66f9c22b27bff6d8"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8">WestguardZeppelinGossip</a> { <br />
-&#160;&#160;<a class="el" href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a8b342611236abf02aaad1241d1d4f3f2">GOSSIP_TEXT_PETROV_EN_ROUTE</a> = 11322
+<tr class="memitem:ab25cd6fd3bfda5736fd43f449c1b5124"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124">MageSpells</a> { <br />
+&#160;&#160;<a class="el" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124a490a27b1ed91b6f3f3a8cd41b5ded635">SPELL_MAGE_CLONE_ME</a> = 45204
 , <br />
-&#160;&#160;<a class="el" href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3f7e2f6adc88c144caf7f7521a0bb7b6">GOSSIP_TEXT_PETROV_ARRIVING</a> = 11324
+&#160;&#160;<a class="el" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124a73b29ac6b8c782654ff6d4e43542124f">SPELL_MAGE_MASTERS_THREAT_LIST</a> = 58838
 , <br />
-&#160;&#160;<a class="el" href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a009f416c7361b1fafcea3f573775ebc6">GOSSIP_TEXT_HARROWMEISER_DOCKED</a> = 11328
+&#160;&#160;<a class="el" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124a0699159f7383b3918ad087631975dbd8">SPELL_PET_HIT_SCALING</a> = 61013
 , <br />
-&#160;&#160;<a class="el" href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8ac2cd73cf7e8eb367f4e0544b739e93e5">GOSSIP_TEXT_HARROWMEISER_ARRIVING</a> = 11330
+&#160;&#160;<a class="el" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124a91857de5d74978531a10d32c8fc8058f">SPELL_SUMMON_MIRROR_IMAGE1</a> = 58831
 , <br />
-&#160;&#160;<a class="el" href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3ba4b73f33d738448822c000e484530e">GOSSIP_TEXT_HARROWMEISER_EN_ROUTE</a> = 11332
+&#160;&#160;<a class="el" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124ae877fb36424c6d02560270fbaee8f426">SPELL_SUMMON_MIRROR_IMAGE2</a> = 58833
+, <br />
+&#160;&#160;<a class="el" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124ad95b243bb8c22a972eec724b562abb75">SPELL_SUMMON_MIRROR_IMAGE3</a> = 58834
+, <br />
+&#160;&#160;<a class="el" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124adfa0626e20fe30b8c54819861210e763">SPELL_SUMMON_MIRROR_IMAGE_GLYPH</a> = 65047
+, <br />
+&#160;&#160;<a class="el" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124ab2c1a1b83ed3ffcc5955c3d995332247">SPELL_MAGE_MIRROR_IMAGE_FROSTBOLT</a> = 59638
+, <br />
+&#160;&#160;<a class="el" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124aada9dd1608267e938a37b92e53b33abd">SPELL_MAGE_MIRROR_IMAGE_FIRE_BLAST</a> = 59637
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a8f879d1ddabf7a5890548fe923b0b734">SPELL_MAGE_ARCANE_MISSILES_R1</a> = 5143
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124aeb365610a1f64be024535322d600efa9">SPELL_MAGE_BLAZING_SPEED</a> = 31643
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124af902c6055a7c4d321d31a8d6030e45b7">SPELL_MAGE_MAGIC_ABSORPTION_MANA</a> = 29442
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a6581435e60a8ed6d2ef11fa4ec9de9da">SPELL_MAGE_BURNOUT_TRIGGER</a> = 44450
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a220f2bbe2ba928299f8e9cd759af68fc">SPELL_MAGE_IMPROVED_BLIZZARD_CHILLED</a> = 12486
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a599ac9067a5b4cbe42ea7557e831fc3f">SPELL_MAGE_COMBUSTION</a> = 11129
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124ac5fecbef5a0690390f99f1b70727566b">SPELL_MAGE_COMBUSTION_PROC</a> = 28682
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a61b3456ff5a5cdb94c57c0be96c56f33">SPELL_MAGE_COLD_SNAP</a> = 11958
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a75e05026759d9b14b7d5cdbf1ce6a234">SPELL_MAGE_FOCUS_MAGIC_PROC</a> = 54648
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a0c5b2cb0579c478b7f36a5aee1a45b6e">SPELL_MAGE_FROST_WARDING_R1</a> = 11189
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124af5e1b0ad1e4f78d3b102c8061155459e">SPELL_MAGE_FROST_WARDING_TRIGGERED</a> = 57776
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a422f167d55affa065359ac04e732b816">SPELL_MAGE_INCANTERS_ABSORBTION_R1</a> = 44394
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124acec4a9ecc4023e9709049e07f502ba83">SPELL_MAGE_INCANTERS_ABSORBTION_TRIGGERED</a> = 44413
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a744a819410a70bdedcaa68aeeead2d04">SPELL_MAGE_IGNITE</a> = 12654
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a> = 29077
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a3194beb3a492322f101edc2bb58cd379">SPELL_MAGE_PERMAFROST_AURA</a> = 68391
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124ab185e7b3efc927ff579a848f59a4dec6">SPELL_MAGE_SQUIRREL_FORM</a> = 32813
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a7f4029f76569babf96dae83a4d33f32b">SPELL_MAGE_GIRAFFE_FORM</a> = 32816
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124ad5a7db4b9c62c2e4531cc589ea6b050f">SPELL_MAGE_SERPENT_FORM</a> = 32817
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124aa36c6d835be3d18c0a9a146f309de5dc">SPELL_MAGE_DRAGONHAWK_FORM</a> = 32818
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a1d25c71ce529713654e90eede8da5dd2">SPELL_MAGE_WORGEN_FORM</a> = 32819
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124af6ea5812f5a9177e7bbc22f292e13983">SPELL_MAGE_SHEEP_FORM</a> = 32820
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124adf14fd7122c8f6ab97c65e5ff8b45ba3">SPELL_MAGE_GLYPH_OF_ETERNAL_WATER</a> = 70937
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124abbf4a8698fe7379264db5729ce10440f">SPELL_MAGE_SUMMON_WATER_ELEMENTAL_PERMANENT</a> = 70908
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a031b2cacce733305e8bbba4ec69cc276">SPELL_MAGE_SUMMON_WATER_ELEMENTAL_TEMPORARY</a> = 70907
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124ac553ca96324337663da102edbf50b474">SPELL_MAGE_GLYPH_OF_BLAST_WAVE</a> = 62126
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a8361e4d18a35c3a0b98379c6186a12ad">SPELL_MAGE_FINGERS_OF_FROST</a> = 44543
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a36a7972054109f8e8dac189a18a1c080">SPELL_MAGE_FINGERS_OF_FROST_AURASTATE_AURA</a> = 44544
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a2a2ca945a40ec79572aafcd10c618301">SPELL_MAGE_ARCANE_POTENCY_RANK_1</a> = 57529
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a8bd812deba6aa600a0beac911df1cf76">SPELL_MAGE_ARCANE_POTENCY_RANK_2</a> = 57531
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a6f6a4f2fd7996e9c293e9eccfad8270b">SPELL_MAGE_EMPOWERED_FIRE_PROC</a> = 67545
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96">SPELL_MAGE_T10_2P_BONUS</a> = 70752
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac">SPELL_MAGE_T10_2P_BONUS_EFFECT</a> = 70753
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a3a5440f423904ec6caa228ceff573164">SPELL_MAGE_T8_4P_BONUS</a> = 64869
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124ae7dcf12a2bc77be4e2fc92b623d4df21">SPELL_MAGE_HOT_STREAK_PROC</a> = 48108
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a6f1ed3ca8cab6eb4ec6bb38f7d33b560">SPELL_MAGE_CHILLED_R1</a> = 12484
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a882c0556bd30143c62679328758fb233">SPELL_MAGE_CHILLED_R2</a> = 12485
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124aa8e771a8342a23774f4fd862f7426204">SPELL_MAGE_CHILLED_R3</a> = 12486
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124a1b0d66fd0a5f407d767b20b8a9ab5564">SPELL_MAGE_MANA_SURGE</a> = 37445
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786">SPELL_MAGE_FROST_NOVA</a> = 122
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124ab772f9a168d7112d3e4cbc4109e024bb">SPELL_MAGE_LIVING_BOMB_R1</a> = 44457
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df7/a05111.html#ab25cd6fd3bfda5736fd43f449c1b5124aea3e790fd819d1693c42451ed75d6648">SPELL_MAGE_MISSILE_BARRAGE_PROC</a> = 44401
 <br />
  }</td></tr>
-<tr class="separator:a0e0fe2cb0f4a9bbe66f9c22b27bff6d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5b83dccc97ebc1973dc36dfd05ae2386"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/a04970.html#a5b83dccc97ebc1973dc36dfd05ae2386">WestguardZeppelinWorldState</a> { <a class="el" href="../../db/db8/a04970.html#a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf">WORLD_STATE_ZEPPELIN_ETA</a> = 3078
- }</td></tr>
-<tr class="separator:a5b83dccc97ebc1973dc36dfd05ae2386"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a995847cc028949a255a4a2051a5c7d66"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66">WestguardZeppelinState</a> { <br />
-&#160;&#160;<a class="el" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359">ZEPPELIN_STATE_EN_ROUTE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b">ZEPPELIN_STATE_ARRIVING</a>
-, <br />
-&#160;&#160;<a class="el" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4">ZEPPELIN_STATE_DOCKED</a>
-<br />
- }</td></tr>
-<tr class="separator:a995847cc028949a255a4a2051a5c7d66"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:ab25cd6fd3bfda5736fd43f449c1b5124"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a55f8950da51c1f03c25714d67e9dbb23"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66">WestguardZeppelinState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/a04970.html#a55f8950da51c1f03c25714d67e9dbb23">GetWestguardZeppelinState</a> (<a class="el" href="../../de/d1c/a09130.html">Player</a> *player, <a class="el" href="../../df/d9f/a10346.html">Map</a> *map)</td></tr>
-<tr class="separator:a55f8950da51c1f03c25714d67e9dbb23"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a29051596b0a3382db98c6b72f7ff3173"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/a04970.html#a29051596b0a3382db98c6b72f7ff3173">AddSC_transport_zeppelins</a> ()</td></tr>
-<tr class="separator:a29051596b0a3382db98c6b72f7ff3173"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a689a4efb7777f4164aee994745a0e2d2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/a04970.html#a689a4efb7777f4164aee994745a0e2d2">AddSC_mage_pet_scripts</a> ()</td></tr>
+<tr class="separator:a689a4efb7777f4164aee994745a0e2d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8" name="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8">&#9670;&#160;</a></span>WestguardZeppelinGossip</h2>
+<a id="ab25cd6fd3bfda5736fd43f449c1b5124" name="ab25cd6fd3bfda5736fd43f449c1b5124"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab25cd6fd3bfda5736fd43f449c1b5124">&#9670;&#160;</a></span>MageSpells</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8">WestguardZeppelinGossip</a></td>
+          <td class="memname">enum <a class="el" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124">MageSpells</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a8b342611236abf02aaad1241d1d4f3f2" name="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a8b342611236abf02aaad1241d1d4f3f2"></a>GOSSIP_TEXT_PETROV_EN_ROUTE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3f7e2f6adc88c144caf7f7521a0bb7b6" name="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3f7e2f6adc88c144caf7f7521a0bb7b6"></a>GOSSIP_TEXT_PETROV_ARRIVING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a009f416c7361b1fafcea3f573775ebc6" name="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a009f416c7361b1fafcea3f573775ebc6"></a>GOSSIP_TEXT_HARROWMEISER_DOCKED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8ac2cd73cf7e8eb367f4e0544b739e93e5" name="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8ac2cd73cf7e8eb367f4e0544b739e93e5"></a>GOSSIP_TEXT_HARROWMEISER_ARRIVING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3ba4b73f33d738448822c000e484530e" name="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3ba4b73f33d738448822c000e484530e"></a>GOSSIP_TEXT_HARROWMEISER_EN_ROUTE&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a490a27b1ed91b6f3f3a8cd41b5ded635" name="ab25cd6fd3bfda5736fd43f449c1b5124a490a27b1ed91b6f3f3a8cd41b5ded635"></a>SPELL_MAGE_CLONE_ME&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a73b29ac6b8c782654ff6d4e43542124f" name="ab25cd6fd3bfda5736fd43f449c1b5124a73b29ac6b8c782654ff6d4e43542124f"></a>SPELL_MAGE_MASTERS_THREAT_LIST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a0699159f7383b3918ad087631975dbd8" name="ab25cd6fd3bfda5736fd43f449c1b5124a0699159f7383b3918ad087631975dbd8"></a>SPELL_PET_HIT_SCALING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a91857de5d74978531a10d32c8fc8058f" name="ab25cd6fd3bfda5736fd43f449c1b5124a91857de5d74978531a10d32c8fc8058f"></a>SPELL_SUMMON_MIRROR_IMAGE1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ae877fb36424c6d02560270fbaee8f426" name="ab25cd6fd3bfda5736fd43f449c1b5124ae877fb36424c6d02560270fbaee8f426"></a>SPELL_SUMMON_MIRROR_IMAGE2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ad95b243bb8c22a972eec724b562abb75" name="ab25cd6fd3bfda5736fd43f449c1b5124ad95b243bb8c22a972eec724b562abb75"></a>SPELL_SUMMON_MIRROR_IMAGE3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124adfa0626e20fe30b8c54819861210e763" name="ab25cd6fd3bfda5736fd43f449c1b5124adfa0626e20fe30b8c54819861210e763"></a>SPELL_SUMMON_MIRROR_IMAGE_GLYPH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ab2c1a1b83ed3ffcc5955c3d995332247" name="ab25cd6fd3bfda5736fd43f449c1b5124ab2c1a1b83ed3ffcc5955c3d995332247"></a>SPELL_MAGE_MIRROR_IMAGE_FROSTBOLT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124aada9dd1608267e938a37b92e53b33abd" name="ab25cd6fd3bfda5736fd43f449c1b5124aada9dd1608267e938a37b92e53b33abd"></a>SPELL_MAGE_MIRROR_IMAGE_FIRE_BLAST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a8f879d1ddabf7a5890548fe923b0b734" name="ab25cd6fd3bfda5736fd43f449c1b5124a8f879d1ddabf7a5890548fe923b0b734"></a>SPELL_MAGE_ARCANE_MISSILES_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124aeb365610a1f64be024535322d600efa9" name="ab25cd6fd3bfda5736fd43f449c1b5124aeb365610a1f64be024535322d600efa9"></a>SPELL_MAGE_BLAZING_SPEED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124af902c6055a7c4d321d31a8d6030e45b7" name="ab25cd6fd3bfda5736fd43f449c1b5124af902c6055a7c4d321d31a8d6030e45b7"></a>SPELL_MAGE_MAGIC_ABSORPTION_MANA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a6581435e60a8ed6d2ef11fa4ec9de9da" name="ab25cd6fd3bfda5736fd43f449c1b5124a6581435e60a8ed6d2ef11fa4ec9de9da"></a>SPELL_MAGE_BURNOUT_TRIGGER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a220f2bbe2ba928299f8e9cd759af68fc" name="ab25cd6fd3bfda5736fd43f449c1b5124a220f2bbe2ba928299f8e9cd759af68fc"></a>SPELL_MAGE_IMPROVED_BLIZZARD_CHILLED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a599ac9067a5b4cbe42ea7557e831fc3f" name="ab25cd6fd3bfda5736fd43f449c1b5124a599ac9067a5b4cbe42ea7557e831fc3f"></a>SPELL_MAGE_COMBUSTION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ac5fecbef5a0690390f99f1b70727566b" name="ab25cd6fd3bfda5736fd43f449c1b5124ac5fecbef5a0690390f99f1b70727566b"></a>SPELL_MAGE_COMBUSTION_PROC&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a61b3456ff5a5cdb94c57c0be96c56f33" name="ab25cd6fd3bfda5736fd43f449c1b5124a61b3456ff5a5cdb94c57c0be96c56f33"></a>SPELL_MAGE_COLD_SNAP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a75e05026759d9b14b7d5cdbf1ce6a234" name="ab25cd6fd3bfda5736fd43f449c1b5124a75e05026759d9b14b7d5cdbf1ce6a234"></a>SPELL_MAGE_FOCUS_MAGIC_PROC&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a0c5b2cb0579c478b7f36a5aee1a45b6e" name="ab25cd6fd3bfda5736fd43f449c1b5124a0c5b2cb0579c478b7f36a5aee1a45b6e"></a>SPELL_MAGE_FROST_WARDING_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124af5e1b0ad1e4f78d3b102c8061155459e" name="ab25cd6fd3bfda5736fd43f449c1b5124af5e1b0ad1e4f78d3b102c8061155459e"></a>SPELL_MAGE_FROST_WARDING_TRIGGERED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a422f167d55affa065359ac04e732b816" name="ab25cd6fd3bfda5736fd43f449c1b5124a422f167d55affa065359ac04e732b816"></a>SPELL_MAGE_INCANTERS_ABSORBTION_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124acec4a9ecc4023e9709049e07f502ba83" name="ab25cd6fd3bfda5736fd43f449c1b5124acec4a9ecc4023e9709049e07f502ba83"></a>SPELL_MAGE_INCANTERS_ABSORBTION_TRIGGERED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a744a819410a70bdedcaa68aeeead2d04" name="ab25cd6fd3bfda5736fd43f449c1b5124a744a819410a70bdedcaa68aeeead2d04"></a>SPELL_MAGE_IGNITE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8" name="ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8"></a>SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a3194beb3a492322f101edc2bb58cd379" name="ab25cd6fd3bfda5736fd43f449c1b5124a3194beb3a492322f101edc2bb58cd379"></a>SPELL_MAGE_PERMAFROST_AURA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ab185e7b3efc927ff579a848f59a4dec6" name="ab25cd6fd3bfda5736fd43f449c1b5124ab185e7b3efc927ff579a848f59a4dec6"></a>SPELL_MAGE_SQUIRREL_FORM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a7f4029f76569babf96dae83a4d33f32b" name="ab25cd6fd3bfda5736fd43f449c1b5124a7f4029f76569babf96dae83a4d33f32b"></a>SPELL_MAGE_GIRAFFE_FORM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ad5a7db4b9c62c2e4531cc589ea6b050f" name="ab25cd6fd3bfda5736fd43f449c1b5124ad5a7db4b9c62c2e4531cc589ea6b050f"></a>SPELL_MAGE_SERPENT_FORM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124aa36c6d835be3d18c0a9a146f309de5dc" name="ab25cd6fd3bfda5736fd43f449c1b5124aa36c6d835be3d18c0a9a146f309de5dc"></a>SPELL_MAGE_DRAGONHAWK_FORM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a1d25c71ce529713654e90eede8da5dd2" name="ab25cd6fd3bfda5736fd43f449c1b5124a1d25c71ce529713654e90eede8da5dd2"></a>SPELL_MAGE_WORGEN_FORM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124af6ea5812f5a9177e7bbc22f292e13983" name="ab25cd6fd3bfda5736fd43f449c1b5124af6ea5812f5a9177e7bbc22f292e13983"></a>SPELL_MAGE_SHEEP_FORM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124adf14fd7122c8f6ab97c65e5ff8b45ba3" name="ab25cd6fd3bfda5736fd43f449c1b5124adf14fd7122c8f6ab97c65e5ff8b45ba3"></a>SPELL_MAGE_GLYPH_OF_ETERNAL_WATER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124abbf4a8698fe7379264db5729ce10440f" name="ab25cd6fd3bfda5736fd43f449c1b5124abbf4a8698fe7379264db5729ce10440f"></a>SPELL_MAGE_SUMMON_WATER_ELEMENTAL_PERMANENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a031b2cacce733305e8bbba4ec69cc276" name="ab25cd6fd3bfda5736fd43f449c1b5124a031b2cacce733305e8bbba4ec69cc276"></a>SPELL_MAGE_SUMMON_WATER_ELEMENTAL_TEMPORARY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ac553ca96324337663da102edbf50b474" name="ab25cd6fd3bfda5736fd43f449c1b5124ac553ca96324337663da102edbf50b474"></a>SPELL_MAGE_GLYPH_OF_BLAST_WAVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a8361e4d18a35c3a0b98379c6186a12ad" name="ab25cd6fd3bfda5736fd43f449c1b5124a8361e4d18a35c3a0b98379c6186a12ad"></a>SPELL_MAGE_FINGERS_OF_FROST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a36a7972054109f8e8dac189a18a1c080" name="ab25cd6fd3bfda5736fd43f449c1b5124a36a7972054109f8e8dac189a18a1c080"></a>SPELL_MAGE_FINGERS_OF_FROST_AURASTATE_AURA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a2a2ca945a40ec79572aafcd10c618301" name="ab25cd6fd3bfda5736fd43f449c1b5124a2a2ca945a40ec79572aafcd10c618301"></a>SPELL_MAGE_ARCANE_POTENCY_RANK_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a8bd812deba6aa600a0beac911df1cf76" name="ab25cd6fd3bfda5736fd43f449c1b5124a8bd812deba6aa600a0beac911df1cf76"></a>SPELL_MAGE_ARCANE_POTENCY_RANK_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a6f6a4f2fd7996e9c293e9eccfad8270b" name="ab25cd6fd3bfda5736fd43f449c1b5124a6f6a4f2fd7996e9c293e9eccfad8270b"></a>SPELL_MAGE_EMPOWERED_FIRE_PROC&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96" name="ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96"></a>SPELL_MAGE_T10_2P_BONUS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac" name="ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac"></a>SPELL_MAGE_T10_2P_BONUS_EFFECT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a3a5440f423904ec6caa228ceff573164" name="ab25cd6fd3bfda5736fd43f449c1b5124a3a5440f423904ec6caa228ceff573164"></a>SPELL_MAGE_T8_4P_BONUS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ae7dcf12a2bc77be4e2fc92b623d4df21" name="ab25cd6fd3bfda5736fd43f449c1b5124ae7dcf12a2bc77be4e2fc92b623d4df21"></a>SPELL_MAGE_HOT_STREAK_PROC&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a6f1ed3ca8cab6eb4ec6bb38f7d33b560" name="ab25cd6fd3bfda5736fd43f449c1b5124a6f1ed3ca8cab6eb4ec6bb38f7d33b560"></a>SPELL_MAGE_CHILLED_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a882c0556bd30143c62679328758fb233" name="ab25cd6fd3bfda5736fd43f449c1b5124a882c0556bd30143c62679328758fb233"></a>SPELL_MAGE_CHILLED_R2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124aa8e771a8342a23774f4fd862f7426204" name="ab25cd6fd3bfda5736fd43f449c1b5124aa8e771a8342a23774f4fd862f7426204"></a>SPELL_MAGE_CHILLED_R3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a1b0d66fd0a5f407d767b20b8a9ab5564" name="ab25cd6fd3bfda5736fd43f449c1b5124a1b0d66fd0a5f407d767b20b8a9ab5564"></a>SPELL_MAGE_MANA_SURGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786" name="ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786"></a>SPELL_MAGE_FROST_NOVA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ab772f9a168d7112d3e4cbc4109e024bb" name="ab25cd6fd3bfda5736fd43f449c1b5124ab772f9a168d7112d3e4cbc4109e024bb"></a>SPELL_MAGE_LIVING_BOMB_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124aea3e790fd819d1693c42451ed75d6648" name="ab25cd6fd3bfda5736fd43f449c1b5124aea3e790fd819d1693c42451ed75d6648"></a>SPELL_MAGE_MISSILE_BARRAGE_PROC&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  143</span>{</div>
-<div class="line"><span class="lineno">  144</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a8b342611236abf02aaad1241d1d4f3f2">GOSSIP_TEXT_PETROV_EN_ROUTE</a>       = 11322,</div>
-<div class="line"><span class="lineno">  145</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3f7e2f6adc88c144caf7f7521a0bb7b6">GOSSIP_TEXT_PETROV_ARRIVING</a>       = 11324,</div>
-<div class="line"><span class="lineno">  146</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a009f416c7361b1fafcea3f573775ebc6">GOSSIP_TEXT_HARROWMEISER_DOCKED</a>   = 11328,</div>
-<div class="line"><span class="lineno">  147</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8ac2cd73cf7e8eb367f4e0544b739e93e5">GOSSIP_TEXT_HARROWMEISER_ARRIVING</a> = 11330,</div>
-<div class="line"><span class="lineno">  148</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3ba4b73f33d738448822c000e484530e">GOSSIP_TEXT_HARROWMEISER_EN_ROUTE</a> = 11332,</div>
-<div class="line"><span class="lineno">  149</span>};</div>
-<div class="ttc" id="aa04970_html_a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a009f416c7361b1fafcea3f573775ebc6"><div class="ttname"><a href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a009f416c7361b1fafcea3f573775ebc6">GOSSIP_TEXT_HARROWMEISER_DOCKED</a></div><div class="ttdeci">@ GOSSIP_TEXT_HARROWMEISER_DOCKED</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:146</div></div>
-<div class="ttc" id="aa04970_html_a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3ba4b73f33d738448822c000e484530e"><div class="ttname"><a href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3ba4b73f33d738448822c000e484530e">GOSSIP_TEXT_HARROWMEISER_EN_ROUTE</a></div><div class="ttdeci">@ GOSSIP_TEXT_HARROWMEISER_EN_ROUTE</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:148</div></div>
-<div class="ttc" id="aa04970_html_a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3f7e2f6adc88c144caf7f7521a0bb7b6"><div class="ttname"><a href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3f7e2f6adc88c144caf7f7521a0bb7b6">GOSSIP_TEXT_PETROV_ARRIVING</a></div><div class="ttdeci">@ GOSSIP_TEXT_PETROV_ARRIVING</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:145</div></div>
-<div class="ttc" id="aa04970_html_a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a8b342611236abf02aaad1241d1d4f3f2"><div class="ttname"><a href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a8b342611236abf02aaad1241d1d4f3f2">GOSSIP_TEXT_PETROV_EN_ROUTE</a></div><div class="ttdeci">@ GOSSIP_TEXT_PETROV_EN_ROUTE</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:144</div></div>
-<div class="ttc" id="aa04970_html_a0e0fe2cb0f4a9bbe66f9c22b27bff6d8ac2cd73cf7e8eb367f4e0544b739e93e5"><div class="ttname"><a href="../../db/db8/a04970.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8ac2cd73cf7e8eb367f4e0544b739e93e5">GOSSIP_TEXT_HARROWMEISER_ARRIVING</a></div><div class="ttdeci">@ GOSSIP_TEXT_HARROWMEISER_ARRIVING</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:147</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a995847cc028949a255a4a2051a5c7d66" name="a995847cc028949a255a4a2051a5c7d66"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a995847cc028949a255a4a2051a5c7d66">&#9670;&#160;</a></span>WestguardZeppelinState</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66">WestguardZeppelinState</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359" name="a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359"></a>ZEPPELIN_STATE_EN_ROUTE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b" name="a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b"></a>ZEPPELIN_STATE_ARRIVING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4" name="a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4"></a>ZEPPELIN_STATE_DOCKED&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  160</span>{</div>
-<div class="line"><span class="lineno">  161</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359">ZEPPELIN_STATE_EN_ROUTE</a>,</div>
-<div class="line"><span class="lineno">  162</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b">ZEPPELIN_STATE_ARRIVING</a>,</div>
-<div class="line"><span class="lineno">  163</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4">ZEPPELIN_STATE_DOCKED</a>,</div>
-<div class="line"><span class="lineno">  164</span>};</div>
-<div class="ttc" id="aa04970_html_a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4"><div class="ttname"><a href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4">ZEPPELIN_STATE_DOCKED</a></div><div class="ttdeci">@ ZEPPELIN_STATE_DOCKED</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:163</div></div>
-<div class="ttc" id="aa04970_html_a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b"><div class="ttname"><a href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b">ZEPPELIN_STATE_ARRIVING</a></div><div class="ttdeci">@ ZEPPELIN_STATE_ARRIVING</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:162</div></div>
-<div class="ttc" id="aa04970_html_a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359"><div class="ttname"><a href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359">ZEPPELIN_STATE_EN_ROUTE</a></div><div class="ttdeci">@ ZEPPELIN_STATE_EN_ROUTE</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:161</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a5b83dccc97ebc1973dc36dfd05ae2386" name="a5b83dccc97ebc1973dc36dfd05ae2386"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5b83dccc97ebc1973dc36dfd05ae2386">&#9670;&#160;</a></span>WestguardZeppelinWorldState</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../db/db8/a04970.html#a5b83dccc97ebc1973dc36dfd05ae2386">WestguardZeppelinWorldState</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf" name="a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf"></a>WORLD_STATE_ZEPPELIN_ETA&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  155</span>{</div>
-<div class="line"><span class="lineno">  156</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf">WORLD_STATE_ZEPPELIN_ETA</a> = 3078,</div>
-<div class="line"><span class="lineno">  157</span>};</div>
-<div class="ttc" id="aa04970_html_a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf"><div class="ttname"><a href="../../db/db8/a04970.html#a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf">WORLD_STATE_ZEPPELIN_ETA</a></div><div class="ttdeci">@ WORLD_STATE_ZEPPELIN_ETA</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:156</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124a490a27b1ed91b6f3f3a8cd41b5ded635">SPELL_MAGE_CLONE_ME</a>                 = 45204,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124a73b29ac6b8c782654ff6d4e43542124f">SPELL_MAGE_MASTERS_THREAT_LIST</a>      = 58838,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124a0699159f7383b3918ad087631975dbd8">SPELL_PET_HIT_SCALING</a>               = 61013,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124a91857de5d74978531a10d32c8fc8058f">SPELL_SUMMON_MIRROR_IMAGE1</a>          = 58831,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124ae877fb36424c6d02560270fbaee8f426">SPELL_SUMMON_MIRROR_IMAGE2</a>          = 58833,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124ad95b243bb8c22a972eec724b562abb75">SPELL_SUMMON_MIRROR_IMAGE3</a>          = 58834,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124adfa0626e20fe30b8c54819861210e763">SPELL_SUMMON_MIRROR_IMAGE_GLYPH</a>     = 65047,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124ab2c1a1b83ed3ffcc5955c3d995332247">SPELL_MAGE_MIRROR_IMAGE_FROSTBOLT</a>   = 59638,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124aada9dd1608267e938a37b92e53b33abd">SPELL_MAGE_MIRROR_IMAGE_FIRE_BLAST</a>  = 59637</div>
+<div class="line"><span class="lineno">   42</span>};</div>
+<div class="ttc" id="aa04970_html_ab25cd6fd3bfda5736fd43f449c1b5124a0699159f7383b3918ad087631975dbd8"><div class="ttname"><a href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124a0699159f7383b3918ad087631975dbd8">SPELL_PET_HIT_SCALING</a></div><div class="ttdeci">@ SPELL_PET_HIT_SCALING</div><div class="ttdef"><b>Definition:</b> pet_mage.cpp:35</div></div>
+<div class="ttc" id="aa04970_html_ab25cd6fd3bfda5736fd43f449c1b5124a490a27b1ed91b6f3f3a8cd41b5ded635"><div class="ttname"><a href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124a490a27b1ed91b6f3f3a8cd41b5ded635">SPELL_MAGE_CLONE_ME</a></div><div class="ttdeci">@ SPELL_MAGE_CLONE_ME</div><div class="ttdef"><b>Definition:</b> pet_mage.cpp:33</div></div>
+<div class="ttc" id="aa04970_html_ab25cd6fd3bfda5736fd43f449c1b5124a73b29ac6b8c782654ff6d4e43542124f"><div class="ttname"><a href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124a73b29ac6b8c782654ff6d4e43542124f">SPELL_MAGE_MASTERS_THREAT_LIST</a></div><div class="ttdeci">@ SPELL_MAGE_MASTERS_THREAT_LIST</div><div class="ttdef"><b>Definition:</b> pet_mage.cpp:34</div></div>
+<div class="ttc" id="aa04970_html_ab25cd6fd3bfda5736fd43f449c1b5124a91857de5d74978531a10d32c8fc8058f"><div class="ttname"><a href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124a91857de5d74978531a10d32c8fc8058f">SPELL_SUMMON_MIRROR_IMAGE1</a></div><div class="ttdeci">@ SPELL_SUMMON_MIRROR_IMAGE1</div><div class="ttdef"><b>Definition:</b> pet_mage.cpp:36</div></div>
+<div class="ttc" id="aa04970_html_ab25cd6fd3bfda5736fd43f449c1b5124aada9dd1608267e938a37b92e53b33abd"><div class="ttname"><a href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124aada9dd1608267e938a37b92e53b33abd">SPELL_MAGE_MIRROR_IMAGE_FIRE_BLAST</a></div><div class="ttdeci">@ SPELL_MAGE_MIRROR_IMAGE_FIRE_BLAST</div><div class="ttdef"><b>Definition:</b> pet_mage.cpp:41</div></div>
+<div class="ttc" id="aa04970_html_ab25cd6fd3bfda5736fd43f449c1b5124ab2c1a1b83ed3ffcc5955c3d995332247"><div class="ttname"><a href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124ab2c1a1b83ed3ffcc5955c3d995332247">SPELL_MAGE_MIRROR_IMAGE_FROSTBOLT</a></div><div class="ttdeci">@ SPELL_MAGE_MIRROR_IMAGE_FROSTBOLT</div><div class="ttdef"><b>Definition:</b> pet_mage.cpp:40</div></div>
+<div class="ttc" id="aa04970_html_ab25cd6fd3bfda5736fd43f449c1b5124ad95b243bb8c22a972eec724b562abb75"><div class="ttname"><a href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124ad95b243bb8c22a972eec724b562abb75">SPELL_SUMMON_MIRROR_IMAGE3</a></div><div class="ttdeci">@ SPELL_SUMMON_MIRROR_IMAGE3</div><div class="ttdef"><b>Definition:</b> pet_mage.cpp:38</div></div>
+<div class="ttc" id="aa04970_html_ab25cd6fd3bfda5736fd43f449c1b5124adfa0626e20fe30b8c54819861210e763"><div class="ttname"><a href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124adfa0626e20fe30b8c54819861210e763">SPELL_SUMMON_MIRROR_IMAGE_GLYPH</a></div><div class="ttdeci">@ SPELL_SUMMON_MIRROR_IMAGE_GLYPH</div><div class="ttdef"><b>Definition:</b> pet_mage.cpp:39</div></div>
+<div class="ttc" id="aa04970_html_ab25cd6fd3bfda5736fd43f449c1b5124ae877fb36424c6d02560270fbaee8f426"><div class="ttname"><a href="../../db/db8/a04970.html#ab25cd6fd3bfda5736fd43f449c1b5124ae877fb36424c6d02560270fbaee8f426">SPELL_SUMMON_MIRROR_IMAGE2</a></div><div class="ttdeci">@ SPELL_SUMMON_MIRROR_IMAGE2</div><div class="ttdef"><b>Definition:</b> pet_mage.cpp:37</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a29051596b0a3382db98c6b72f7ff3173" name="a29051596b0a3382db98c6b72f7ff3173"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a29051596b0a3382db98c6b72f7ff3173">&#9670;&#160;</a></span>AddSC_transport_zeppelins()</h2>
+<a id="a689a4efb7777f4164aee994745a0e2d2" name="a689a4efb7777f4164aee994745a0e2d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a689a4efb7777f4164aee994745a0e2d2">&#9670;&#160;</a></span>AddSC_mage_pet_scripts()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_transport_zeppelins </td>
+          <td class="memname">void AddSC_mage_pet_scripts </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  266</span>{</div>
-<div class="line"><span class="lineno">  267</span>    <a class="code hl_define" href="../../dd/d5d/a01325.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../db/d83/a28922.html">go_transport_the_iron_eagle</a>);</div>
-<div class="line"><span class="lineno">  268</span>    <a class="code hl_define" href="../../dd/d5d/a01325.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../dd/d77/a28926.html">go_transport_the_thundercaller</a>);</div>
-<div class="line"><span class="lineno">  269</span>    <a class="code hl_define" href="../../dd/d5d/a01325.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../d0/d85/a28930.html">go_transport_the_purple_princess</a>);</div>
-<div class="line"><span class="lineno">  270</span>    <a class="code hl_define" href="../../dd/d5d/a01325.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../df/deb/a28934.html">go_transport_westguard_zeppelin</a>);</div>
-<div class="line"><span class="lineno">  271</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d84/a28938.html">npc_harrowmeiser</a>();</div>
-<div class="line"><span class="lineno">  272</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/d09/a28942.html">npc_bombardier_petrov</a>();</div>
-<div class="line"><span class="lineno">  273</span>}</div>
-<div class="ttc" id="aa01325_html_a87397a2ba2a1acd88f62793eae9aa30e"><div class="ttname"><a href="../../dd/d5d/a01325.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a></div><div class="ttdeci">#define RegisterGameObjectAI(ai_name)</div><div class="ttdef"><b>Definition:</b> GameObjectScript.h:77</div></div>
-<div class="ttc" id="aa28922_html"><div class="ttname"><a href="../../db/d83/a28922.html">go_transport_the_iron_eagle</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:32</div></div>
-<div class="ttc" id="aa28926_html"><div class="ttname"><a href="../../dd/d77/a28926.html">go_transport_the_thundercaller</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:56</div></div>
-<div class="ttc" id="aa28930_html"><div class="ttname"><a href="../../d0/d85/a28930.html">go_transport_the_purple_princess</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:86</div></div>
-<div class="ttc" id="aa28934_html"><div class="ttname"><a href="../../df/deb/a28934.html">go_transport_westguard_zeppelin</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:113</div></div>
-<div class="ttc" id="aa28938_html"><div class="ttname"><a href="../../d2/d84/a28938.html">npc_harrowmeiser</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:220</div></div>
-<div class="ttc" id="aa28942_html"><div class="ttname"><a href="../../de/d09/a28942.html">npc_bombardier_petrov</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:246</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  252</span>{</div>
+<div class="line"><span class="lineno">  253</span>    <a class="code hl_define" href="../../d5/d32/a01214.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d6/d99/a24669.html">npc_pet_mage_mirror_image</a>);</div>
+<div class="line"><span class="lineno">  254</span>}</div>
+<div class="ttc" id="aa01214_html_a5e7352841895df7117e2830448eb533f"><div class="ttname"><a href="../../d5/d32/a01214.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a></div><div class="ttdeci">#define RegisterCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> CreatureScript.h:71</div></div>
+<div class="ttc" id="aa24669_html"><div class="ttname"><a href="../../d6/d99/a24669.html">npc_pet_mage_mirror_image</a></div><div class="ttdef"><b>Definition:</b> pet_mage.cpp:60</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">RegisterGameObjectAI</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00071">RegisterCreatureAI</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00041">AddWorldScripts()</a>.</p>
-
-</div>
-</div>
-<a id="a55f8950da51c1f03c25714d67e9dbb23" name="a55f8950da51c1f03c25714d67e9dbb23"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55f8950da51c1f03c25714d67e9dbb23">&#9670;&#160;</a></span>GetWestguardZeppelinState()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66">WestguardZeppelinState</a> GetWestguardZeppelinState </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d1c/a09130.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../df/d9f/a10346.html">Map</a> *&#160;</td>
-          <td class="paramname"><em>map</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  169</span>{</div>
-<div class="line"><span class="lineno">  170</span>    <a class="code hl_class" href="../../d3/dd3/a09178.html">MotionTransport</a> <span class="keyword">const</span>* zeppelin = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  171</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d7/dcc/a09174.html">Transport</a>* transport : map-&gt;<a class="code hl_function" href="../../df/d9f/a10346.html#a7f81bb1122ae428b4a765ff62edf495a">GetAllTransports</a>())</div>
-<div class="line"><span class="lineno">  172</span>        <span class="keywordflow">if</span> (transport-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../d1/d82/a05027.html#ab056b3dcfb6a8a0900235d92e3b5677aa263fae717f9aaa910f37e7aebcda407d">GO_WESTGUARD_ZEPPELIN</a>)</div>
-<div class="line"><span class="lineno">  173</span>        {</div>
-<div class="line"><span class="lineno">  174</span>            zeppelin = transport-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#a5aae646746017d2cab8aa0f625cb4d42">ToMotionTransport</a>();</div>
-<div class="line"><span class="lineno">  175</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  176</span>        }</div>
-<div class="line"><span class="lineno">  177</span> </div>
-<div class="line"><span class="lineno">  178</span>    <span class="keywordflow">if</span> (!zeppelin || !zeppelin-&gt;<a class="code hl_function" href="../../d3/dd3/a09178.html#a57eb95df116519359de5d29e2a8c7163">GetPeriod</a>())</div>
-<div class="line"><span class="lineno">  179</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359">ZEPPELIN_STATE_EN_ROUTE</a>;</div>
-<div class="line"><span class="lineno">  180</span> </div>
-<div class="line"><span class="lineno">  181</span>    <a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dockArriveTime = 0;</div>
-<div class="line"><span class="lineno">  182</span>    <a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dockDepartTime = 0;</div>
-<div class="line"><span class="lineno">  183</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d7/dff/a10426.html">KeyFrame</a> <span class="keyword">const</span>&amp; frame : zeppelin-&gt;<a class="code hl_function" href="../../d3/dd3/a09178.html#a4644371fc5f276dac58a53cd6da3c89f">GetKeyFrames</a>())</div>
-<div class="line"><span class="lineno">  184</span>    {</div>
-<div class="line"><span class="lineno">  185</span>        <span class="keywordflow">if</span> (frame.Node-&gt;arrivalEventID == <a class="code hl_enumvalue" href="../../d1/d82/a05027.html#a79ab5591f9534775ed690dc76f71b042a9a576d577517ddbcaeb801b9833b7f84">EVENT_WK_ARRIVAL</a>)</div>
-<div class="line"><span class="lineno">  186</span>            dockArriveTime = frame.ArriveTime;</div>
-<div class="line"><span class="lineno">  187</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (frame.Node-&gt;departureEventID == <a class="code hl_enumvalue" href="../../d1/d82/a05027.html#a79ab5591f9534775ed690dc76f71b042ac6234171b69b268fec1236327f9372d0">EVENT_WK_DEPARTURE</a>)</div>
-<div class="line"><span class="lineno">  188</span>            dockDepartTime = frame.DepartureTime;</div>
-<div class="line"><span class="lineno">  189</span>    }</div>
-<div class="line"><span class="lineno">  190</span> </div>
-<div class="line"><span class="lineno">  191</span>    <span class="keywordflow">if</span> (!dockArriveTime)</div>
-<div class="line"><span class="lineno">  192</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359">ZEPPELIN_STATE_EN_ROUTE</a>;</div>
-<div class="line"><span class="lineno">  193</span> </div>
-<div class="line"><span class="lineno">  194</span>    <a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> period = zeppelin-&gt;<a class="code hl_function" href="../../d3/dd3/a09178.html#a57eb95df116519359de5d29e2a8c7163">GetPeriod</a>();</div>
-<div class="line"><span class="lineno">  195</span>    <a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> timer = zeppelin-&gt;<a class="code hl_function" href="../../d7/dcc/a09174.html#a4ecab9f8617918aea3a26cc0feb9c021">GetPathProgress</a>() % period;</div>
-<div class="line"><span class="lineno">  196</span> </div>
-<div class="line"><span class="lineno">  197</span>    <span class="comment">// the dock is covered by the last and the first stop frame of the path, so the docked</span></div>
-<div class="line"><span class="lineno">  198</span>    <span class="comment">// window normally wraps the end of one period into the start of the next</span></div>
-<div class="line"><span class="lineno">  199</span>    <span class="keywordtype">bool</span> <span class="keyword">const</span> docked = dockArriveTime &gt; dockDepartTime</div>
-<div class="line"><span class="lineno">  200</span>        ? timer &gt;= dockArriveTime || timer &lt; dockDepartTime</div>
-<div class="line"><span class="lineno">  201</span>        : timer &gt;= dockArriveTime &amp;&amp; timer &lt; dockDepartTime;</div>
-<div class="line"><span class="lineno">  202</span> </div>
-<div class="line"><span class="lineno">  203</span>    <span class="keywordflow">if</span> (docked)</div>
-<div class="line"><span class="lineno">  204</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4">ZEPPELIN_STATE_DOCKED</a>;</div>
-<div class="line"><span class="lineno">  205</span> </div>
-<div class="line"><span class="lineno">  206</span>    <span class="comment">// modular so it stays correct whichever way around the two stop frames sit</span></div>
-<div class="line"><span class="lineno">  207</span>    <a class="code hl_typedef" href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> msUntilArrival = (dockArriveTime + period - timer) % period;</div>
-<div class="line"><span class="lineno">  208</span>    <span class="keywordflow">if</span> (msUntilArrival &lt;= <a class="code hl_variable" href="../../df/d0c/a00788.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../df/d0c/a00788.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>)</div>
-<div class="line"><span class="lineno">  209</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b">ZEPPELIN_STATE_ARRIVING</a>;</div>
-<div class="line"><span class="lineno">  210</span> </div>
-<div class="line"><span class="lineno">  211</span>    <span class="comment">// the texts read &quot;less than X minutes&quot;, so round up</span></div>
-<div class="line"><span class="lineno">  212</span>    player-&gt;<a class="code hl_function" href="../../de/d1c/a09130.html#a2a12863caf54ad9a8af56bda556d7a4b">SendUpdateWorldState</a>(<a class="code hl_enumvalue" href="../../db/db8/a04970.html#a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf">WORLD_STATE_ZEPPELIN_ETA</a>,</div>
-<div class="line"><span class="lineno">  213</span>        (msUntilArrival + <a class="code hl_variable" href="../../df/d0c/a00788.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../df/d0c/a00788.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a> - 1) / (<a class="code hl_variable" href="../../df/d0c/a00788.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../df/d0c/a00788.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>));</div>
-<div class="line"><span class="lineno">  214</span> </div>
-<div class="line"><span class="lineno">  215</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../db/db8/a04970.html#a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359">ZEPPELIN_STATE_EN_ROUTE</a>;</div>
-<div class="line"><span class="lineno">  216</span>}</div>
-<div class="ttc" id="aa00788_html_a84190f79c8167211609f67284e066c58"><div class="ttname"><a href="../../df/d0c/a00788.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></div><div class="ttdeci">constexpr auto IN_MILLISECONDS</div><div class="ttdef"><b>Definition:</b> Common.h:53</div></div>
-<div class="ttc" id="aa00788_html_afacf27522adfacf698390ddafc53fa30"><div class="ttname"><a href="../../df/d0c/a00788.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a></div><div class="ttdeci">constexpr auto MINUTE</div><div class="ttdef"><b>Definition:</b> Common.h:47</div></div>
-<div class="ttc" id="aa00812_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/db7/a00812.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa05027_html_a79ab5591f9534775ed690dc76f71b042a9a576d577517ddbcaeb801b9833b7f84"><div class="ttname"><a href="../../d1/d82/a05027.html#a79ab5591f9534775ed690dc76f71b042a9a576d577517ddbcaeb801b9833b7f84">EVENT_WK_ARRIVAL</a></div><div class="ttdeci">@ EVENT_WK_ARRIVAL</div><div class="ttdef"><b>Definition:</b> transport_zeppelin.h:26</div></div>
-<div class="ttc" id="aa05027_html_a79ab5591f9534775ed690dc76f71b042ac6234171b69b268fec1236327f9372d0"><div class="ttname"><a href="../../d1/d82/a05027.html#a79ab5591f9534775ed690dc76f71b042ac6234171b69b268fec1236327f9372d0">EVENT_WK_DEPARTURE</a></div><div class="ttdeci">@ EVENT_WK_DEPARTURE</div><div class="ttdef"><b>Definition:</b> transport_zeppelin.h:39</div></div>
-<div class="ttc" id="aa05027_html_ab056b3dcfb6a8a0900235d92e3b5677aa263fae717f9aaa910f37e7aebcda407d"><div class="ttname"><a href="../../d1/d82/a05027.html#ab056b3dcfb6a8a0900235d92e3b5677aa263fae717f9aaa910f37e7aebcda407d">GO_WESTGUARD_ZEPPELIN</a></div><div class="ttdeci">@ GO_WESTGUARD_ZEPPELIN</div><div class="ttdef"><b>Definition:</b> transport_zeppelin.h:61</div></div>
-<div class="ttc" id="aa08682_html_a5aae646746017d2cab8aa0f625cb4d42"><div class="ttname"><a href="../../d1/d2a/a08682.html#a5aae646746017d2cab8aa0f625cb4d42">GameObject::ToMotionTransport</a></div><div class="ttdeci">MotionTransport * ToMotionTransport()</div><div class="ttdef"><b>Definition:</b> GameObject.h:347</div></div>
-<div class="ttc" id="aa09130_html_a2a12863caf54ad9a8af56bda556d7a4b"><div class="ttname"><a href="../../de/d1c/a09130.html#a2a12863caf54ad9a8af56bda556d7a4b">Player::SendUpdateWorldState</a></div><div class="ttdeci">void SendUpdateWorldState(uint32 variable, uint32 value) const</div><div class="ttdef"><b>Definition:</b> PlayerUpdates.cpp:2298</div></div>
-<div class="ttc" id="aa09174_html"><div class="ttname"><a href="../../d7/dcc/a09174.html">Transport</a></div><div class="ttdef"><b>Definition:</b> Transport.h:30</div></div>
-<div class="ttc" id="aa09174_html_a4ecab9f8617918aea3a26cc0feb9c021"><div class="ttname"><a href="../../d7/dcc/a09174.html#a4ecab9f8617918aea3a26cc0feb9c021">Transport::GetPathProgress</a></div><div class="ttdeci">uint32 GetPathProgress() const</div><div class="ttdef"><b>Definition:</b> Transport.h:43</div></div>
-<div class="ttc" id="aa09178_html"><div class="ttname"><a href="../../d3/dd3/a09178.html">MotionTransport</a></div><div class="ttdef"><b>Definition:</b> Transport.h:51</div></div>
-<div class="ttc" id="aa09178_html_a4644371fc5f276dac58a53cd6da3c89f"><div class="ttname"><a href="../../d3/dd3/a09178.html#a4644371fc5f276dac58a53cd6da3c89f">MotionTransport::GetKeyFrames</a></div><div class="ttdeci">KeyFrameVec const &amp; GetKeyFrames() const</div><div class="ttdef"><b>Definition:</b> Transport.h:77</div></div>
-<div class="ttc" id="aa09178_html_a57eb95df116519359de5d29e2a8c7163"><div class="ttname"><a href="../../d3/dd3/a09178.html#a57eb95df116519359de5d29e2a8c7163">MotionTransport::GetPeriod</a></div><div class="ttdeci">uint32 GetPeriod() const</div><div class="ttdef"><b>Definition:</b> Transport.h:81</div></div>
-<div class="ttc" id="aa10346_html_a7f81bb1122ae428b4a765ff62edf495a"><div class="ttname"><a href="../../df/d9f/a10346.html#a7f81bb1122ae428b4a765ff62edf495a">Map::GetAllTransports</a></div><div class="ttdeci">TransportsContainer const &amp; GetAllTransports() const</div><div class="ttdef"><b>Definition:</b> Map.h:525</div></div>
-<div class="ttc" id="aa10426_html"><div class="ttname"><a href="../../d7/dff/a10426.html">KeyFrame</a></div><div class="ttdef"><b>Definition:</b> TransportMgr.h:42</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00026">EVENT_WK_ARRIVAL</a>, <a class="el" href="../../#l00039">EVENT_WK_DEPARTURE</a>, <a class="el" href="../../#l00525">Map::GetAllTransports()</a>, <a class="el" href="../../#l00077">MotionTransport::GetKeyFrames()</a>, <a class="el" href="../../#l00043">Transport::GetPathProgress()</a>, <a class="el" href="../../#l00081">MotionTransport::GetPeriod()</a>, <a class="el" href="../../#l00061">GO_WESTGUARD_ZEPPELIN</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../#l02298">Player::SendUpdateWorldState()</a>, <a class="el" href="../../#l00347">GameObject::ToMotionTransport()</a>, <a class="el" href="../../#l00156">WORLD_STATE_ZEPPELIN_ETA</a>, <a class="el" href="../../#l00162">ZEPPELIN_STATE_ARRIVING</a>, <a class="el" href="../../#l00163">ZEPPELIN_STATE_DOCKED</a>, and <a class="el" href="../../#l00161">ZEPPELIN_STATE_EN_ROUTE</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00224">npc_harrowmeiser::OnGossipHello()</a>, and <a class="el" href="../../#l00250">npc_bombardier_petrov::OnGossipHello()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00029">AddPetScripts()</a>.</p>
 
 </div>
 </div>
@@ -394,8 +361,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_0a0414616ece51a8570c4e36029d4e29.html">World</a></li><li class="navelem"><a class="el" href="../../db/db8/a04970.html">transport_zeppelins.cpp</a></li>
-    <li class="footer">Generated on Tue Nov 3 2026 02:36:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ff1fc60aa0464e46be01116f0901446f.html">Pet</a></li><li class="navelem"><a class="el" href="../../db/db8/a04970.html">pet_mage.cpp</a></li>
+    <li class="footer">Generated on Tue Nov 10 2026 02:54:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

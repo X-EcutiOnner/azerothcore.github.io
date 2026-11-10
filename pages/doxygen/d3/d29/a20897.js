@@ -1,7 +1,13 @@
 var a20897 =
 [
-    [ "go_razorscale_harpoonAI", "d4/d56/a20901.html", "d4/d56/a20901" ],
-    [ "go_razorscale_harpoon", "d3/d29/a20897.html#a68e5414333ca5ed4ec2de2da5f1756d4", null ],
-    [ "GetAI", "d3/d29/a20897.html#a89a25716733ed0f589ce50eab8466453", null ],
-    [ "OnGossipHello", "d3/d29/a20897.html#ac6ea67384010725c56daab8c4f58c7ff", null ]
+    [ "npc_razorscale_dark_rune_guardian", "d3/d29/a20897.html#a539b905da508869adcc7bad601490c9f", null ],
+    [ "CanAIAttack", "d3/d29/a20897.html#a096058710ee0d02583c4402081da9f18", null ],
+    [ "GetData", "d3/d29/a20897.html#ac1bb7e2ac921fa542ec414a204117f98", null ],
+    [ "JustEngagedWith", "d3/d29/a20897.html#ac7fb0480f94e0e8ca0061947ec7fdebb", null ],
+    [ "Reset", "d3/d29/a20897.html#afd7fcb578ea65c7a060215257bcc5589", null ],
+    [ "SetData", "d3/d29/a20897.html#a7adbb5b9fa95e7ab73ac5acf81ffefdc", null ],
+    [ "UpdateAI", "d3/d29/a20897.html#ab4ab3b501994c55ce6c2a7b01b8ca70b", null ],
+    [ "_events", "d3/d29/a20897.html#a6faba05e56bdbd4453ee44f9de7dca2d", null ],
+    [ "_instance", "d3/d29/a20897.html#aa392619b8e14ec4092e78cfdfe367858", null ],
+    [ "_killed", "d3/d29/a20897.html#af9dafde2780d5be7a6e22025299dc013", null ]
 ];

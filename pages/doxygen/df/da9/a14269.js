@@ -1,8 +1,7 @@
 var a14269 =
 [
-    [ "HandleDummy", "df/da9/a14269.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "df/da9/a14269.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "df/da9/a14269.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "df/da9/a14269.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "df/da9/a14269.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "HandleScriptEffect", "df/da9/a14269.html#a1cdba27f7311021407307bcd35235fed", null ],
+    [ "PrepareSpellScript", "df/da9/a14269.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
+    [ "Register", "df/da9/a14269.html#a9794991aa1710ce37112888eeb572796", null ],
+    [ "Validate", "df/da9/a14269.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
 ];

@@ -1,7 +1,11 @@
 var a16005 =
 [
-    [ "npc_kerlonianAI", "d2/dfb/a16009.html", "d2/dfb/a16009" ],
-    [ "npc_kerlonian", "d3/d48/a16005.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "d3/d48/a16005.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "d3/d48/a16005.html#a353f482c843066031397b1bfaf193b5f", null ]
+    [ "npc_stillpine_capitiveAI", "d3/d48/a16005.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
+    [ "MovementInform", "d3/d48/a16005.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
+    [ "Reset", "d3/d48/a16005.html#a9c884f892e64044057d477bdc0f89eed", null ],
+    [ "StartMoving", "d3/d48/a16005.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
+    [ "UpdateAI", "d3/d48/a16005.html#a25dc06767382b5fee2a7098b58726fb2", null ],
+    [ "_events", "d3/d48/a16005.html#a93dd55d392836d8d085e34293344b700", null ],
+    [ "_movementComplete", "d3/d48/a16005.html#ae8e39ca782aee412e39d65a33d14014e", null ],
+    [ "_playerGUID", "d3/d48/a16005.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
 ];

@@ -1,7 +1,6 @@
 var a13121 =
 [
-    [ "HandleAfterApply", "d2/d86/a13121.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "d2/d86/a13121.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "d2/d86/a13121.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "d2/d86/a13121.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "HandleOnHit", "d2/d86/a13121.html#a804097903354ab3a730f0fe3eb5ec863", null ],
+    [ "PrepareSpellScript", "d2/d86/a13121.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
+    [ "Register", "d2/d86/a13121.html#a53bed6f1af71fd309a04bc004d07be80", null ]
 ];

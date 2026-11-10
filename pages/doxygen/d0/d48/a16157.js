@@ -1,6 +1,6 @@
 var a16157 =
 [
-    [ "Creature", "d0/d48/a16157.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d0/d48/a16157.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d0/d48/a16157.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "npc_omenAI", "de/d41/a16161.html", "de/d41/a16161" ],
+    [ "npc_omen", "d0/d48/a16157.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d0/d48/a16157.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

@@ -1,5 +1,6 @@
 var a04208 =
 [
-    [ "message_commandscript", "d0/d06/a12630.html", "d0/d06/a12630" ],
-    [ "AddSC_message_commandscript", "d4/d1c/a04208.html#a85760eb92ac87e8dcb18c91d31f09fc0", null ]
+    [ "debug_commandscript", "df/d49/a12565.html", "df/d49/a12565" ],
+    [ "debug_commandscript::CreatureCountWorker", "d3/d63/a12569.html", "d3/d63/a12569" ],
+    [ "AddSC_debug_commandscript", "d4/d1c/a04208.html#abae44bbc8eb2fb66a5596017ea83583f", null ]
 ];

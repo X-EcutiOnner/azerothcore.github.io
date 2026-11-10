@@ -1,17 +1,15 @@
 var a13537 =
 [
-    [ "boss_priestess_lackey_commonAI", "dc/dc7/a13537.html#acf122076823631cef5d66e03a9f607aa", null ],
-    [ "AttackStart", "dc/dc7/a13537.html#a6056ef3425f39208e5731b25fc94a335", null ],
-    [ "EnterEvadeMode", "dc/dc7/a13537.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
-    [ "GetThreatMod", "dc/dc7/a13537.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
-    [ "JustDied", "dc/dc7/a13537.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
-    [ "JustEngagedWith", "dc/dc7/a13537.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
-    [ "JustSummoned", "dc/dc7/a13537.html#a9a7bcf641bae31827872faf7666635d5", null ],
-    [ "KilledUnit", "dc/dc7/a13537.html#a23aaa0a619470898dd617a18130ca17b", null ],
-    [ "RecalculateThreat", "dc/dc7/a13537.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
-    [ "Reset", "dc/dc7/a13537.html#aa2ef03d73c43668c97205fa72414e71b", null ],
-    [ "UpdateAI", "dc/dc7/a13537.html#adf87bd797da345e49700265319d808cc", null ],
-    [ "aiType", "dc/dc7/a13537.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
-    [ "instance", "dc/dc7/a13537.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
-    [ "summons", "dc/dc7/a13537.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
+    [ "npc_image_of_medivhAI", "dc/dc7/a13537.html#a1afe3245dc18db3c0bf6801b5ca20d31", null ],
+    [ "JustEngagedWith", "dc/dc7/a13537.html#a1013be426b3567d8cbd1c45debc914c5", null ],
+    [ "NextStep", "dc/dc7/a13537.html#a87160b37ba61af4866fe3f410813fe9f", null ],
+    [ "Reset", "dc/dc7/a13537.html#af2e7dd7f1038bb5662fe7375a7e052c4", null ],
+    [ "UpdateAI", "dc/dc7/a13537.html#a321d689d645b4630e2e93e6251d5130c", null ],
+    [ "ArcanagosGUID", "dc/dc7/a13537.html#a877c693b6ac736aa874926d8efe0d79a", null ],
+    [ "ATimer", "dc/dc7/a13537.html#a28aef0767b6adb0ccf0479dd50dc11a8", null ],
+    [ "EventStarted", "dc/dc7/a13537.html#a9a662b435218a3e13ca58eb4a6b3af86", null ],
+    [ "instance", "dc/dc7/a13537.html#a2e02aa8d441426aa51f46121eec0becb", null ],
+    [ "MTimer", "dc/dc7/a13537.html#a16c3f6d5bd1cc288590bd096233e0bfb", null ],
+    [ "Step", "dc/dc7/a13537.html#a9d7b9bdcf9e185284dba5251a0deb0b3", null ],
+    [ "YellTimer", "dc/dc7/a13537.html#a34ad7cabe4cb86e23deb30ca0ce77db0", null ]
 ];

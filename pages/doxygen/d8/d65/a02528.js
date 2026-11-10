@@ -1,53 +1,113 @@
 var a02528 =
 [
-    [ "BattlegroundDS", "d0/db7/a07866.html", "d0/db7/a07866" ],
-    [ "BattlegroundDSCreatures", "d8/d65/a02528.html#a239235ff6a77dc70519faae59c868202", [
-      [ "BG_DS_NPC_TYPE_WATER_SPOUT", "d8/d65/a02528.html#a239235ff6a77dc70519faae59c868202ad40b08b0df1abb642f3f0caf18301171", null ]
+    [ "BG_SA_RoundScore", "de/d98/a07941.html", "de/d98/a07941" ],
+    [ "BattlegroundSAScore", "dd/d0b/a07945.html", "dd/d0b/a07945" ],
+    [ "BattlegroundSA", "d0/d86/a07949.html", "d0/d86/a07949" ],
+    [ "BG_SA_DEMOLISHER_AMOUNT", "d8/d65/a02528.html#aaf470646067725fcbaa2cd2244813cef", null ],
+    [ "BG_SA_FLAG_AMOUNT", "d8/d65/a02528.html#a618d60620199e19e1cf637471ac184d4", null ],
+    [ "SPELL_SA_END_OF_ROUND", "d8/d65/a02528.html#a10f9b0e47e9f7cab36a6148a69fd9277", null ],
+    [ "BG_SA_Boat", "d8/d65/a02528.html#a2fdde502d58fcad4ec4e86e7d4753dee", [
+      [ "BG_SA_BOAT_ONE_A", "d8/d65/a02528.html#a2fdde502d58fcad4ec4e86e7d4753deeac3bf23e78473f3a300ff0e560c249076", null ],
+      [ "BG_SA_BOAT_TWO_H", "d8/d65/a02528.html#a2fdde502d58fcad4ec4e86e7d4753deea605c6cd721a5eb37b5cf987a29a23370", null ],
+      [ "BG_SA_BOAT_ONE_H", "d8/d65/a02528.html#a2fdde502d58fcad4ec4e86e7d4753deea0872cd6b5c610a4f26c64756b4d67fd3", null ],
+      [ "BG_SA_BOAT_TWO_A", "d8/d65/a02528.html#a2fdde502d58fcad4ec4e86e7d4753deead4839dd8ea380fcc8ee3ea2590c5c1f5", null ]
     ] ],
-    [ "BattlegroundDSCreatureTypes", "d8/d65/a02528.html#aca2990bbe9b2261c7f9f9761c063c3f4", [
-      [ "BG_DS_NPC_WATERFALL_KNOCKBACK", "d8/d65/a02528.html#aca2990bbe9b2261c7f9f9761c063c3f4a79cd4de05b72abd60374190c7802850a", null ],
-      [ "BG_DS_NPC_PIPE_KNOCKBACK_1", "d8/d65/a02528.html#aca2990bbe9b2261c7f9f9761c063c3f4a499e73119219ab047050066925863cbf", null ],
-      [ "BG_DS_NPC_PIPE_KNOCKBACK_2", "d8/d65/a02528.html#aca2990bbe9b2261c7f9f9761c063c3f4a0f7c473d66f71a2692f1a7b5e1c110b4", null ],
-      [ "BG_DS_NPC_MAX", "d8/d65/a02528.html#aca2990bbe9b2261c7f9f9761c063c3f4aea764dbeaf590cb06750d0b4146c581a", null ]
+    [ "BG_SA_BroadcastTexts", "d8/d65/a02528.html#af2b1ff3fe0a9494efd8a7e1241323ce9", [
+      [ "BG_SA_TEXT_ALLIANCE_CAPTURED_TITAN_PORTAL", "d8/d65/a02528.html#af2b1ff3fe0a9494efd8a7e1241323ce9a9d77f0e12e8533aa15be553e91175a8f", null ],
+      [ "BG_SA_TEXT_HORDE_CAPTURED_TITAN_PORTAL", "d8/d65/a02528.html#af2b1ff3fe0a9494efd8a7e1241323ce9ad2bb88613bdc961d95584bceaf469aea", null ],
+      [ "BG_SA_TEXT_ROUND_TWO_START_ONE_MINUTE", "d8/d65/a02528.html#af2b1ff3fe0a9494efd8a7e1241323ce9a28297a624897a74ff7bfcedea5ee2284", null ],
+      [ "BG_SA_TEXT_ROUND_TWO_START_HALF_MINUTE", "d8/d65/a02528.html#af2b1ff3fe0a9494efd8a7e1241323ce9ab3e87a51e7e69f5fcb922455927cf9d1", null ]
     ] ],
-    [ "BattlegroundDSData", "d8/d65/a02528.html#aa31b86760427e7e9348ef8bf69da141c", [
-      [ "BG_DS_PIPE_KNOCKBACK_FIRST_DELAY", "d8/d65/a02528.html#aa31b86760427e7e9348ef8bf69da141cabbf10d8eecab52ccb852376f82fd018d", null ],
-      [ "BG_DS_PIPE_KNOCKBACK_DELAY", "d8/d65/a02528.html#aa31b86760427e7e9348ef8bf69da141ca35f8577eea8f26daf33a3dd21e2231b5", null ],
-      [ "BG_DS_PIPE_KNOCKBACK_TOTAL_COUNT", "d8/d65/a02528.html#aa31b86760427e7e9348ef8bf69da141cafa0805e6bb3bad41fe68cd2697758704", null ]
+    [ "BG_SA_GateState", "d8/d65/a02528.html#a1a5802e3e727d92fc12f7a76c13e1fff", [
+      [ "BG_SA_GATE_OK", "d8/d65/a02528.html#a1a5802e3e727d92fc12f7a76c13e1fffab78884f340f9c3c49e77e6543bb820ec", null ],
+      [ "BG_SA_GATE_DAMAGED", "d8/d65/a02528.html#a1a5802e3e727d92fc12f7a76c13e1fffacd2da24d75a595742cb53197a68f25c2", null ],
+      [ "BG_SA_GATE_DESTROYED", "d8/d65/a02528.html#a1a5802e3e727d92fc12f7a76c13e1fffa02705aa2b9465e7e046a0e5db3119046", null ]
     ] ],
-    [ "BattlegroundDSEvents", "d8/d65/a02528.html#a28c190d1bc1cda7ce04873badd8dd1b9", [
-      [ "BG_DS_EVENT_WATERFALL_WARNING", "d8/d65/a02528.html#a28c190d1bc1cda7ce04873badd8dd1b9a556b41865c0cb90edad807f781c04185", null ],
-      [ "BG_DS_EVENT_WATERFALL_ON", "d8/d65/a02528.html#a28c190d1bc1cda7ce04873badd8dd1b9a146cc864281f18ab4b717202919f44ce", null ],
-      [ "BG_DS_EVENT_WATERFALL_OFF", "d8/d65/a02528.html#a28c190d1bc1cda7ce04873badd8dd1b9adb0372ad161febcd2fb2b195e52da56d", null ],
-      [ "BG_DS_EVENT_WATERFALL_KNOCKBACK", "d8/d65/a02528.html#a28c190d1bc1cda7ce04873badd8dd1b9a90015d0b077cd7e296410208637e46b4", null ],
-      [ "BG_DS_EVENT_PIPE_KNOCKBACK", "d8/d65/a02528.html#a28c190d1bc1cda7ce04873badd8dd1b9a7fed7cfa0547c6e8ceeb5e3453fa6268", null ]
+    [ "BG_SA_Graveyards", "d8/d65/a02528.html#a11d890bc33f187169c4372df4b2a2675", [
+      [ "BG_SA_BEACH_GY", "d8/d65/a02528.html#a11d890bc33f187169c4372df4b2a2675a823821df9525e04f84fe23ebf5dd2c23", null ],
+      [ "BG_SA_DEFENDER_LAST_GY", "d8/d65/a02528.html#a11d890bc33f187169c4372df4b2a2675a1a78f58ff71eedf3c6ab08e93805495d", null ],
+      [ "BG_SA_RIGHT_CAPTURABLE_GY", "d8/d65/a02528.html#a11d890bc33f187169c4372df4b2a2675ae55d488f431dee5f1dce8bf7564d591d", null ],
+      [ "BG_SA_LEFT_CAPTURABLE_GY", "d8/d65/a02528.html#a11d890bc33f187169c4372df4b2a2675ac3820dbff51304ae6b49225c5e548f38", null ],
+      [ "BG_SA_CENTRAL_CAPTURABLE_GY", "d8/d65/a02528.html#a11d890bc33f187169c4372df4b2a2675a7e968b899dbbf87ebb69929774e731eb", null ],
+      [ "BG_SA_MAX_GY", "d8/d65/a02528.html#a11d890bc33f187169c4372df4b2a2675abdd8e367597aaf2a5d12d211f80c2569", null ]
     ] ],
-    [ "BattlegroundDSGameObjects", "d8/d65/a02528.html#a71d8aad7096e6f4e538eadab51fc76f8", [
-      [ "BG_DS_OBJECT_TYPE_DOOR_1", "d8/d65/a02528.html#a71d8aad7096e6f4e538eadab51fc76f8a8117a9fd3e3221f5980949e5150fe737", null ],
-      [ "BG_DS_OBJECT_TYPE_DOOR_2", "d8/d65/a02528.html#a71d8aad7096e6f4e538eadab51fc76f8a687d200b385c99eca799508a8a3da61d", null ],
-      [ "BG_DS_OBJECT_TYPE_WATER_1", "d8/d65/a02528.html#a71d8aad7096e6f4e538eadab51fc76f8ae42c0b118aa8e527eabad9d8302c86db", null ],
-      [ "BG_DS_OBJECT_TYPE_WATER_2", "d8/d65/a02528.html#a71d8aad7096e6f4e538eadab51fc76f8a90ec16bb076db4028cbf2a5dbb327f1d", null ],
-      [ "BG_DS_OBJECT_TYPE_BUFF_1", "d8/d65/a02528.html#a71d8aad7096e6f4e538eadab51fc76f8a141655234e2fa43143622578cf71ec71", null ],
-      [ "BG_DS_OBJECT_TYPE_BUFF_2", "d8/d65/a02528.html#a71d8aad7096e6f4e538eadab51fc76f8affd7ba30f4f2024dd6429f065d5edb9f", null ]
+    [ "BG_SA_NPCs", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924be", [
+      [ "BG_SA_GUN_1", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924beac4146576abce67a75c7bd9ac83626024", null ],
+      [ "BG_SA_GUN_2", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea329adab562700210e7bc1fa2acbc497b", null ],
+      [ "BG_SA_GUN_3", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea07b151af8957c4730fe07f4c14290b05", null ],
+      [ "BG_SA_GUN_4", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea2149a4c21e32a6b98b5c52356bce9e0d", null ],
+      [ "BG_SA_GUN_5", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bead91e87158b2006ef8b30c3a5e464e68b", null ],
+      [ "BG_SA_GUN_6", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924beaf0a9b38513b9ca778af048e0b919fb12", null ],
+      [ "BG_SA_GUN_7", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924beab5b28e7ffb35f76df37b53d2c3a01a86", null ],
+      [ "BG_SA_GUN_8", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924beac83ade9e45d805fb4aa9e95400bb5b98", null ],
+      [ "BG_SA_GUN_9", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924beae6bf211355942a078ed80a33cb903f15", null ],
+      [ "BG_SA_GUN_10", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea20239b336b99084edad9f45aa637fb98", null ],
+      [ "BG_SA_NPC_TRIGGER_1", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924beaf25fb3cee9a63e26fac69e0cafbc3c01", null ],
+      [ "BG_SA_NPC_TRIGGER_2", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea465d29324f41dc0286952d883faa2103", null ],
+      [ "BG_SA_NPC_TRIGGER_3", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea1c2e72b4533d78c59ed347490fe72517", null ],
+      [ "BG_SA_NPC_TRIGGER_4", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea50dd1c58107cfd9c7e0728536abd952e", null ],
+      [ "BG_SA_NPC_TRIGGER_5", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea2f98d10b9734f1faf99fe9ba1fa13c08", null ],
+      [ "BG_SA_DEMOLISHER_1", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea28d751da34358f47b2275f79552f141c", null ],
+      [ "BG_SA_DEMOLISHER_2", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924beaa7b9b17103e6e227b4753d3d82a1c4ff", null ],
+      [ "BG_SA_DEMOLISHER_3", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea02d0ac7029987e0c6c4afd37ddaae4c9", null ],
+      [ "BG_SA_DEMOLISHER_4", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea2cf04af92e948da7904271426dbe405f", null ],
+      [ "BG_SA_DEMOLISHER_5", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea839059eca54ba38023aa55cf145a7b8b", null ],
+      [ "BG_SA_DEMOLISHER_6", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea430f4279be64578c1343e30e9db1854e", null ],
+      [ "BG_SA_DEMOLISHER_7", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea4c8dacda16962033bcf544136ad60259", null ],
+      [ "BG_SA_DEMOLISHER_8", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924beaf0c8b126cd1d3de511197a7c1115797c", null ],
+      [ "BG_SA_NPC_SPARKLIGHT", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924beaa9e1c5eb5858ba48354ae39686111b64", null ],
+      [ "BG_SA_NPC_RIGSPARK", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924beaa38a0ee752c0842ff30602a6fd1d3f18", null ],
+      [ "BG_SA_MAXNPC", "d8/d65/a02528.html#aea1aed3c14fd6d73de4714dba32924bea96ed9b8c8ee7a83223e574eb5f10a5f5", null ]
     ] ],
-    [ "BattlegroundDSObjectTypes", "d8/d65/a02528.html#a8d5224d87e17a7242576ee301e628de6", [
-      [ "BG_DS_OBJECT_DOOR_1", "d8/d65/a02528.html#a8d5224d87e17a7242576ee301e628de6a8610bd7f4f1a8e7eb1e9f2429aac5b42", null ],
-      [ "BG_DS_OBJECT_DOOR_2", "d8/d65/a02528.html#a8d5224d87e17a7242576ee301e628de6a330db292ad2569c554efbb54f9683a65", null ],
-      [ "BG_DS_OBJECT_WATER_1", "d8/d65/a02528.html#a8d5224d87e17a7242576ee301e628de6ad7b7d41afc57c57dfb26c89c33cc6d30", null ],
-      [ "BG_DS_OBJECT_WATER_2", "d8/d65/a02528.html#a8d5224d87e17a7242576ee301e628de6a4afa2177f1262bb3fb3c015047d6c1f1", null ],
-      [ "BG_DS_OBJECT_BUFF_1", "d8/d65/a02528.html#a8d5224d87e17a7242576ee301e628de6ab65c1a961954720559d3b7d2114d0f1a", null ],
-      [ "BG_DS_OBJECT_BUFF_2", "d8/d65/a02528.html#a8d5224d87e17a7242576ee301e628de6aba69c00240803bc3130e93706ca3fd03", null ],
-      [ "BG_DS_OBJECT_MAX", "d8/d65/a02528.html#a8d5224d87e17a7242576ee301e628de6a6067df4d0384c2cbc7b6b11a0ad6abef", null ]
+    [ "BG_SA_Objects", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701", [
+      [ "BG_SA_GREEN_GATE", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a39168537485f83fcaecad9ee7df5c53c", null ],
+      [ "BG_SA_YELLOW_GATE", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a0f22a303bdde42fd4ba2e555d8f3841c", null ],
+      [ "BG_SA_BLUE_GATE", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701aa677dd9786ce46653d34a6530475b6ed", null ],
+      [ "BG_SA_RED_GATE", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a68c03205185626f56fc627f4ee900e6a", null ],
+      [ "BG_SA_PURPLE_GATE", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a6d74052a63d48c5200a918ef7795e0f6", null ],
+      [ "BG_SA_ANCIENT_GATE", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701ac56f4ba86ad45e41e623e0ba08c2efa3", null ],
+      [ "BG_SA_TITAN_RELIC", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701adcf0075eae66e8b2ceedd205472072a5", null ],
+      [ "BG_SA_BOAT_ONE", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a10b4cd7727e528609a0ff55b79daadd4", null ],
+      [ "BG_SA_BOAT_TWO", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701abd9577fc76c6eeedcebf599212f060d5", null ],
+      [ "BG_SA_SIGIL_1", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a57e5a1290efed76eb3e6ac718d613e22", null ],
+      [ "BG_SA_SIGIL_2", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a1f85dcb64b1d4a625674ed40542f33d6", null ],
+      [ "BG_SA_SIGIL_3", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701af7c5965801baa4f43aff642e07f7170a", null ],
+      [ "BG_SA_SIGIL_4", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701ac2d12e7289110383ac3b8d0a769d1977", null ],
+      [ "BG_SA_SIGIL_5", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a6573237213ea097696beb6ead5caca34", null ],
+      [ "BG_SA_CENTRAL_FLAGPOLE", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a0515122e96d117a4a59ddb1feebb22bc", null ],
+      [ "BG_SA_RIGHT_FLAGPOLE", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a93e7b80ca65c61286e8dcecae63d530f", null ],
+      [ "BG_SA_LEFT_FLAGPOLE", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a69966db660491a3a4729604ac13b2ed1", null ],
+      [ "BG_SA_CENTRAL_FLAG", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a3e8f730935357ca3e65353a1f16eebc7", null ],
+      [ "BG_SA_RIGHT_FLAG", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a7b1c25d2dbc02248850ce278c1f7522f", null ],
+      [ "BG_SA_LEFT_FLAG", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701ad2acd915b36102027c638ad6aa22bbdd", null ],
+      [ "BG_SA_PORTAL_DEFFENDER_BLUE", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a95308567d5588fc80028306730cf9935", null ],
+      [ "BG_SA_PORTAL_DEFFENDER_GREEN", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a633262bf7c7d5d49d3dfed140c17a773", null ],
+      [ "BG_SA_PORTAL_DEFFENDER_YELLOW", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701aeb4e28b68f506c518ab83a78f925987c", null ],
+      [ "BG_SA_PORTAL_DEFFENDER_PURPLE", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a3c37fa41cf718fc83c59d582aedb8c93", null ],
+      [ "BG_SA_PORTAL_DEFFENDER_RED", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701abbfe6fdb0124b85b630a16bce9aac795", null ],
+      [ "BG_SA_BOMB", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701ae5cf5a33cbe1b92b63ab2deb3c71f327", null ],
+      [ "BG_SA_MAXOBJ", "d8/d65/a02528.html#abcc187f20ab36658182fcc66b4ceb701a0a1c0e8ac3731de8d878b6d04493c594", null ]
     ] ],
-    [ "BattlegroundDSSpells", "d8/d65/a02528.html#a41065fade7598429191146de35f52e86", [
-      [ "BG_DS_SPELL_FLUSH", "d8/d65/a02528.html#a41065fade7598429191146de35f52e86a92b5731f68ff7782811d2ed6ecc27d50", null ],
-      [ "BG_DS_SPELL_FLUSH_KNOCKBACK", "d8/d65/a02528.html#a41065fade7598429191146de35f52e86a048190b79973e03b8a950faa2e702817", null ],
-      [ "BG_DS_SPELL_WATER_SPOUT", "d8/d65/a02528.html#a41065fade7598429191146de35f52e86a9fddcfba49dc5538f51c0d537c440f67", null ],
-      [ "SPELL_WARL_DEMONIC_CIRCLE", "d8/d65/a02528.html#a41065fade7598429191146de35f52e86ae21b8d7e5a28c9d4fac00f918d272f71", null ]
+    [ "BG_SA_Status", "d8/d65/a02528.html#a1c65f9048b8e702610fcf00591e915d7", [
+      [ "BG_SA_NOTSTARTED", "d8/d65/a02528.html#a1c65f9048b8e702610fcf00591e915d7ab5dc9d642a2560fceb18fc7a5fbfcb38", null ],
+      [ "BG_SA_WARMUP", "d8/d65/a02528.html#a1c65f9048b8e702610fcf00591e915d7af900bdf476a1e5b6dd021af2bcde8d90", null ],
+      [ "BG_SA_ROUND_ONE", "d8/d65/a02528.html#a1c65f9048b8e702610fcf00591e915d7a1f0470f40a7cab98ed879e2e7c925011", null ],
+      [ "BG_SA_SECOND_WARMUP", "d8/d65/a02528.html#a1c65f9048b8e702610fcf00591e915d7ada7ec5fe9b0ce16520adb5f9e1ccd166", null ],
+      [ "BG_SA_ROUND_TWO", "d8/d65/a02528.html#a1c65f9048b8e702610fcf00591e915d7a5647c0afccab28ef5348e6bf78cf4427", null ],
+      [ "BG_SA_BONUS_ROUND", "d8/d65/a02528.html#a1c65f9048b8e702610fcf00591e915d7aeb0f1f7546ab844bd4fdd11b5be5b4f1", null ]
     ] ],
-    [ "BG_DS_WATERFALL_DURATION", "d8/d65/a02528.html#a5ab9e4c80e884fe70b5ec7fa8a804467", null ],
-    [ "BG_DS_WATERFALL_KNOCKBACK_TIMER", "d8/d65/a02528.html#a1b36a98e6aeda4fffe6eb42b5b97d8b9", null ],
-    [ "BG_DS_WATERFALL_TIMER_MAX", "d8/d65/a02528.html#aa60e58163a826a5883866a7acc392a69", null ],
-    [ "BG_DS_WATERFALL_TIMER_MIN", "d8/d65/a02528.html#a42d81786420a8cf7be3391223230530a", null ],
-    [ "BG_DS_WATERFALL_WARNING_DURATION", "d8/d65/a02528.html#ad0d7dc59c1690e15c35f7ba622eb2fef", null ]
+    [ "npc", "d8/d65/a02528.html#aac8160a2d201984c00bdcedc6e721055", [
+      [ "NPC_ANTI_PERSONNAL_CANNON", "d8/d65/a02528.html#aac8160a2d201984c00bdcedc6e721055af0f05d437e318e1c78552b5ed47144cb", null ],
+      [ "NPC_DEMOLISHER_SA", "d8/d65/a02528.html#aac8160a2d201984c00bdcedc6e721055aded700e05ede868ea2e9124b0ab95b46", null ],
+      [ "NPC_RIGGER_SPARKLIGHT", "d8/d65/a02528.html#aac8160a2d201984c00bdcedc6e721055a0414d956dd9155d1e8affe4614fd3619", null ],
+      [ "NPC_GORGRIL_RIGSPARK", "d8/d65/a02528.html#aac8160a2d201984c00bdcedc6e721055a7fae39dbdadcbdf111a0613c9880c9ea", null ]
+    ] ],
+    [ "BG_SA_Factions", "d8/d65/a02528.html#a9c54c79ca18c24f7ce1db7c33591e77c", null ],
+    [ "BG_SA_GYEntries", "d8/d65/a02528.html#a53220f7ce5fdbb409918270e4f8158fd", null ],
+    [ "BG_SA_GYOrientation", "d8/d65/a02528.html#a9309f689c2af9fc781a64e1665344a7a", null ],
+    [ "BG_SA_NpcEntries", "d8/d65/a02528.html#af09df121eaf84723331cafc46f9eeedb", null ],
+    [ "BG_SA_NpcSpawnlocs", "d8/d65/a02528.html#ac39afb1c6e408b6ae2290ca6d1e39e25", null ],
+    [ "BG_SA_ObjEntries", "d8/d65/a02528.html#a6dced036258c6cf42426f1cf0cd838f9", null ],
+    [ "BG_SA_ObjSpawnlocs", "d8/d65/a02528.html#ac80f7cc783ba19b2ad9c8eef95405e3e", null ],
+    [ "SOTADefPortalDest", "d8/d65/a02528.html#af84cb0582fa6a8afb2000ab86b942e08", null ]
 ];

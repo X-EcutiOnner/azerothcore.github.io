@@ -1,6 +1,6 @@
 var a22525 =
 [
-    [ "HandleDamage", "d3/d17/a22525.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
-    [ "PrepareSpellScript", "d3/d17/a22525.html#a23b6afe1e35edc4013767b119b8e0218", null ],
-    [ "Register", "d3/d17/a22525.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "de/d9f/a22529.html", "de/d9f/a22529" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d3/d17/a22525.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "d3/d17/a22525.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

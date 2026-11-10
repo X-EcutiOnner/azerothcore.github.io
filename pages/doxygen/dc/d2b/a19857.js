@@ -1,8 +1,8 @@
 var a19857 =
 [
-    [ "Load", "dc/d2b/a19857.html#af8ef90a44a5405e58dbb3003642c078b", null ],
-    [ "PrepareSpellScript", "dc/d2b/a19857.html#a40649371440d62e4ba8af1b077880d0b", null ],
-    [ "Register", "dc/d2b/a19857.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
-    [ "SendThreeTargets", "dc/d2b/a19857.html#ab16b83839ce9136da84691640020f846", null ],
-    [ "Validate", "dc/d2b/a19857.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
+    [ "Load", "dc/d2b/a19857.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
+    [ "OnRemove", "dc/d2b/a19857.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
+    [ "PrepareAuraScript", "dc/d2b/a19857.html#aae6c3a215b09fd2270976190600e2cc4", null ],
+    [ "Register", "dc/d2b/a19857.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
+    [ "Validate", "dc/d2b/a19857.html#ae4ac76269793280335d76a78e5dced91", null ]
 ];

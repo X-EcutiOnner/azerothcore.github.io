@@ -1,10 +1,12 @@
 var a20477 =
 [
-    [ "boss_freya_elder_ironbranch", "d4/d2a/a20477.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
-    [ "JustDied", "d4/d2a/a20477.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
-    [ "JustEngagedWith", "d4/d2a/a20477.html#a34d87135b8dac114a8783941dba69559", null ],
-    [ "KilledUnit", "d4/d2a/a20477.html#a20b5a622ac233d1280169f54942c894f", null ],
-    [ "Reset", "d4/d2a/a20477.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
-    [ "UpdateAI", "d4/d2a/a20477.html#a00dade8af24a2240187fb4e52138c0d1", null ],
-    [ "events", "d4/d2a/a20477.html#a8693a800da6890004f3ae82fd9898480", null ]
+    [ "boss_freya_elder_stonebark", "d4/d2a/a20477.html#ad379afe772ff29d689bc763786d28793", null ],
+    [ "DamageTaken", "d4/d2a/a20477.html#a1a6b9897ffff95b29de351d02411f216", null ],
+    [ "JustDied", "d4/d2a/a20477.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
+    [ "JustEngagedWith", "d4/d2a/a20477.html#a363a639d65fb746cca3410427f8a1e10", null ],
+    [ "KilledUnit", "d4/d2a/a20477.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
+    [ "Reset", "d4/d2a/a20477.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
+    [ "UpdateAI", "d4/d2a/a20477.html#a913cd147d5a88189e183d817357946e3", null ],
+    [ "_chargesCount", "d4/d2a/a20477.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
+    [ "events", "d4/d2a/a20477.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
 ];

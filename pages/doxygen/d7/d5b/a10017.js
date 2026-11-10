@@ -1,13 +1,7 @@
 var a10017 =
 [
-    [ "GroupReference", "d7/d5b/a10017.html#ab1a008e85d413c67696d4d568a98bde7", null ],
-    [ "~GroupReference", "d7/d5b/a10017.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
-    [ "getSubGroup", "d7/d5b/a10017.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
-    [ "next", "d7/d5b/a10017.html#a6f8f406f1209dd7060904d40f5424b41", null ],
-    [ "next", "d7/d5b/a10017.html#ac913ec0703c28cda068375d01c9cd72d", null ],
-    [ "setSubGroup", "d7/d5b/a10017.html#a303caf55ea463398237e6a825f30b143", null ],
-    [ "sourceObjectDestroyLink", "d7/d5b/a10017.html#a458157654c27def9b36b68ae099ca7b3", null ],
-    [ "targetObjectBuildLink", "d7/d5b/a10017.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
-    [ "targetObjectDestroyLink", "d7/d5b/a10017.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
-    [ "iSubGroup", "d7/d5b/a10017.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
+    [ "PowerCheck", "d7/d5b/a10017.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
+    [ "operator()", "d7/d5b/a10017.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
+    [ "_equals", "d7/d5b/a10017.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
+    [ "_power", "d7/d5b/a10017.html#a922a57b62b4289835b539a69b0f58fa1", null ]
 ];

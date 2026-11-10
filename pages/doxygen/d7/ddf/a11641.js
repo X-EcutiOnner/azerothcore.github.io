@@ -1,7 +1,4 @@
 var a11641 =
 [
-    [ "PetActionSound", "d7/ddf/a11641.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
-    [ "Write", "d7/ddf/a11641.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
-    [ "Action", "d7/ddf/a11641.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
-    [ "UnitGUID", "d7/ddf/a11641.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
+    [ "format", "d7/ddf/a11641.html#a24a0c7409f4aa2903361863f9cc4c8b6", null ]
 ];

@@ -1,12 +1,16 @@
 var a17977 =
 [
-    [ "npc_saurfang_eventAI", "dd/de6/a17977.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "dd/de6/a17977.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "MovementInform", "dd/de6/a17977.html#a712de3075d5b37b19e80641023796733", null ],
-    [ "Reset", "dd/de6/a17977.html#a5e7f11d5c09a8f08a2869ab6481fad18", null ],
-    [ "SetData", "dd/de6/a17977.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "dd/de6/a17977.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "UpdateAI", "dd/de6/a17977.html#af35f211e302489b7ab82852b737a199c", null ],
-    [ "_events", "dd/de6/a17977.html#a70cfc908f5a4ff86571661bab9181cc9", null ],
-    [ "_index", "dd/de6/a17977.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "dd/de6/a17977.html#a4313164857ebd174fe33a9a16340b332", null ],
+    [ "DoAction", "dd/de6/a17977.html#a16eeb7d0ed6c943c088285462131cd51", null ],
+    [ "MovementInform", "dd/de6/a17977.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
+    [ "Reset", "dd/de6/a17977.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
+    [ "SpellHit", "dd/de6/a17977.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
+    [ "UpdateAI", "dd/de6/a17977.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
+    [ "_events", "dd/de6/a17977.html#ae7079b335373cc06a040756328e7f714", null ],
+    [ "_guardList", "dd/de6/a17977.html#a394b54fde0f1336fdf161482ea4d1115", null ],
+    [ "_instance", "dd/de6/a17977.html#af1d8694678b10e5393c658ba0b20f47a", null ],
+    [ "_outroJainaGUID", "dd/de6/a17977.html#a21a44922a06bd3105a0aeb12ffda0d4a", null ],
+    [ "_outroSaurfangGUID", "dd/de6/a17977.html#abbff68eecae6764afcb3ec1178c1777c", null ],
+    [ "_outroVarianGUID", "dd/de6/a17977.html#a78cf107f8fc698ac30167d1bdbc8c617", null ],
+    [ "_outroZeppelinWait", "dd/de6/a17977.html#ab7e0deb9d6c786c224fac2e274f516c8", null ]
 ];

@@ -1,9 +1,8 @@
 var a09853 =
 [
-    [ "AnyFriendlyUnitInObjectRangeCheck", "d2/d1e/a09853.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
-    [ "operator()", "d2/d1e/a09853.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
-    [ "i_funit", "d2/d1e/a09853.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
-    [ "i_obj", "d2/d1e/a09853.html#adacade7450b0af19540ea705e1bd438b", null ],
-    [ "i_playerOnly", "d2/d1e/a09853.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
-    [ "i_range", "d2/d1e/a09853.html#a2af638499152888a698b0fc1570e46ed", null ]
+    [ "MostHPMissingInRange", "d2/d1e/a09853.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
+    [ "operator()", "d2/d1e/a09853.html#a420388204d8a1420552b902fbcb2bebe", null ],
+    [ "i_hp", "d2/d1e/a09853.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
+    [ "i_obj", "d2/d1e/a09853.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
+    [ "i_range", "d2/d1e/a09853.html#acef63da9004997c7f25056651284efa9", null ]
 ];

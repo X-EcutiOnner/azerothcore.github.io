@@ -1,6 +1,6 @@
 var a27309 =
 [
-    [ "HandleDummy", "d0/dd4/a27309.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
-    [ "PrepareSpellScript", "d0/dd4/a27309.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
-    [ "Register", "d0/dd4/a27309.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
+    [ "HandleScriptEffect", "d0/dd4/a27309.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
+    [ "PrepareSpellScript", "d0/dd4/a27309.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
+    [ "Register", "d0/dd4/a27309.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
 ];

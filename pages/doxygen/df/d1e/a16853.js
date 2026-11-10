@@ -1,6 +1,13 @@
 var a16853 =
 [
-    [ "FilterTargets", "df/d1e/a16853.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "df/d1e/a16853.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "df/d1e/a16853.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "boss_eadricAI", "df/d1e/a16853.html#a461043fe1bff0f5478e2a57504e7477c", null ],
+    [ "DamageTaken", "df/d1e/a16853.html#a440899ffdeda7794ef4fa5530638eecc", null ],
+    [ "JustEngagedWith", "df/d1e/a16853.html#a09a0cebcdffb00e37e9d60111c582669", null ],
+    [ "KilledUnit", "df/d1e/a16853.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
+    [ "MovementInform", "df/d1e/a16853.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
+    [ "Reset", "df/d1e/a16853.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
+    [ "SpellHit", "df/d1e/a16853.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
+    [ "UpdateAI", "df/d1e/a16853.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
+    [ "events", "df/d1e/a16853.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
+    [ "pInstance", "df/d1e/a16853.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
 ];

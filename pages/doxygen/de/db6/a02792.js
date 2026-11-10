@@ -1,4 +1,5 @@
 var a02792 =
 [
-    [ "validUtf8String", "de/db6/a02792.html#a15c437e1d990c60d0d271ab1773b7d97", null ]
+    [ "WaypointMgr", "d0/da7/a10685.html", "d0/da7/a10685" ],
+    [ "sWaypointMgr", "de/db6/a02792.html#a8e3218ae672aeeb8c1d9dc23a3a1a627", null ]
 ];

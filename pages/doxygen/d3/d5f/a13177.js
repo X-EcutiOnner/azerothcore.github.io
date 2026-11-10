@@ -1,7 +1,10 @@
 var a13177 =
 [
-    [ "HandlePeriodic", "d3/d5f/a13177.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "d3/d5f/a13177.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "d3/d5f/a13177.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "d3/d5f/a13177.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_golemagg", "d3/d5f/a13177.html#ac7a23be0a51bd73b5c5b8215ba31412e", null ],
+    [ "DamageTaken", "d3/d5f/a13177.html#acf0917a65764074ebb11d51cb537c2f5", null ],
+    [ "Reset", "d3/d5f/a13177.html#ac663539bac3bcd858dfbfba6095172dd", null ],
+    [ "UpdateAI", "d3/d5f/a13177.html#aa68a9ff1858591b65ad650c18954bdea", null ],
+    [ "earthquakeTimer", "d3/d5f/a13177.html#ad581b8e54e08342041886b180c139db0", null ],
+    [ "enraged", "d3/d5f/a13177.html#a27a5041fcf93a3da6fe2130af24de386", null ],
+    [ "pyroblastTimer", "d3/d5f/a13177.html#aae54e1e74dd44329af4f66bf26b2e277", null ]
 ];

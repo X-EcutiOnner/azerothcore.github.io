@@ -1,9 +1,7 @@
 var a12989 =
 [
-    [ "npc_vaelastrasz_the_red", "d8/d78/a12989.html#a28ba5ca91e61707360c8a1f9a8550567", null ],
-    [ "IsSummonedBy", "d8/d78/a12989.html#ad5f2aeaee704c436e60bc5c5400c0f75", null ],
-    [ "UpdateAI", "d8/d78/a12989.html#a95b48026759f9e5e5f0c452a8019ef03", null ],
-    [ "_combatEnabled", "d8/d78/a12989.html#a373fe15d1e754f11db59186517783a40", null ],
-    [ "_events2", "d8/d78/a12989.html#acecc982854e9d587112e9117e7d7a3fa", null ],
-    [ "_victorGUID", "d8/d78/a12989.html#a0e5d6bd095c980a45dcfe68faf2c7b3f", null ]
+    [ "boss_warmaster_voone", "d8/d78/a12989.html#a5dd3b0140dda8ef141c9598a427f6633", null ],
+    [ "DamageTaken", "d8/d78/a12989.html#a48e135857ef9e7e524e07ed979f137e6", null ],
+    [ "ExecuteEvent", "d8/d78/a12989.html#a2ff38398f38e61f91bd1aa7222867fd3", null ],
+    [ "JustEngagedWith", "d8/d78/a12989.html#a961113ecf4c46f52001d153a60ea238a", null ]
 ];

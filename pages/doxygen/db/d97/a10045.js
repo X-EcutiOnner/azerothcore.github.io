@@ -1,12 +1,18 @@
 var a10045 =
 [
-    [ "EventLogEntry", "db/d97/a10045.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
-    [ "EventLogEntry", "db/d97/a10045.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
-    [ "~EventLogEntry", "db/d97/a10045.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
-    [ "SaveToDB", "db/d97/a10045.html#a2ca71e291a44f95bb42d51083aa84985", null ],
-    [ "WritePacket", "db/d97/a10045.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
-    [ "m_eventType", "db/d97/a10045.html#a00216643e6856591402c21df490c1fec", null ],
-    [ "m_newRank", "db/d97/a10045.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
-    [ "m_playerGuid1", "db/d97/a10045.html#a06a2b45d16860c711829f49f97624272", null ],
-    [ "m_playerGuid2", "db/d97/a10045.html#a1f66e71f9536e484663e437bbcbcefca", null ]
+    [ "GroupContainer", "db/d97/a10045.html#a417c5798d50cac5c1bc5b0eae13945cc", null ],
+    [ "GroupIds", "db/d97/a10045.html#ad3a9005c50a5957d3f47adf60624b9aa", null ],
+    [ "GroupMgr", "db/d97/a10045.html#a663dbeb2e20161d8d6cf72f322c05f0e", null ],
+    [ "~GroupMgr", "db/d97/a10045.html#ad5a5efeed7f78146983611c2349c111f", null ],
+    [ "AddGroup", "db/d97/a10045.html#abb97c613417573dc4cafa117065e7cf8", null ],
+    [ "GenerateGroupId", "db/d97/a10045.html#ad881433a3836a70e44734bde5a1afc6f", null ],
+    [ "GetGroupByGUID", "db/d97/a10045.html#a2af93882e217f762df95ba21af191c89", null ],
+    [ "InitGroupIds", "db/d97/a10045.html#a6881453ec34dc2d9416069a87b1a3234", null ],
+    [ "instance", "db/d97/a10045.html#a1b7275cfd70d46216df8c353e70d64c8", null ],
+    [ "LoadGroups", "db/d97/a10045.html#ab8548ce88b015ae3040cd5f2cd7b1990", null ],
+    [ "RegisterGroupId", "db/d97/a10045.html#a8bface2b6600801ebcd1cbb9070ec3ef", null ],
+    [ "RemoveGroup", "db/d97/a10045.html#a654b7c795c9c3d77a7a39bce58dec2c7", null ],
+    [ "_groupIds", "db/d97/a10045.html#af260c73ba61242f741103bdfe6d6fb9e", null ],
+    [ "_nextGroupId", "db/d97/a10045.html#a4e41d7444f8b7d3dbb54569be80b65f9", null ],
+    [ "GroupStore", "db/d97/a10045.html#ae897c661dd4b185d205c3a12d17ccb2b", null ]
 ];

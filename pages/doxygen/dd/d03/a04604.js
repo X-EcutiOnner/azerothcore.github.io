@@ -1,14 +1,9 @@
 var a04604 =
 [
-    [ "npc_cairne_bloodhoof", "d1/dc4/a16326.html", "d1/dc4/a16326" ],
-    [ "npc_cairne_bloodhoof::npc_cairne_bloodhoofAI", "d9/d2d/a16330.html", "d9/d2d/a16330" ],
-    [ "CairneBloodhoof", "dd/d03/a04604.html#a1d11da63be1309061cba3b5e10f2bbd9", [
-      [ "SPELL_BERSERKER_CHARGE", "dd/d03/a04604.html#a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66", null ],
-      [ "SPELL_CLEAVE", "dd/d03/a04604.html#a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
-      [ "SPELL_MORTAL_STRIKE", "dd/d03/a04604.html#a1d11da63be1309061cba3b5e10f2bbd9a7794ace87705e2898f8b60f1f5228110", null ],
-      [ "SPELL_THUNDERCLAP", "dd/d03/a04604.html#a1d11da63be1309061cba3b5e10f2bbd9a7f4e66bb0a1b5b2705975420f645b16e", null ],
-      [ "SPELL_UPPERCUT", "dd/d03/a04604.html#a1d11da63be1309061cba3b5e10f2bbd9aec5ad6f4170f697acf9499e4e06bb065", null ],
-      [ "SPELL_CAIRNES_HOOFPRINT", "dd/d03/a04604.html#a1d11da63be1309061cba3b5e10f2bbd9aa5dbce7c49b1794438bd8cfc874c7104", null ]
-    ] ],
-    [ "AddSC_thunder_bluff", "dd/d03/a04604.html#ae5d674fbd346082d81f6f6720eed1081", null ]
+    [ "instance_gruuls_lair", "d5/d9d/a23753.html", "d5/d9d/a23753" ],
+    [ "instance_gruuls_lair::instance_gruuls_lair_InstanceMapScript", "d2/d1e/a23757.html", "d2/d1e/a23757" ],
+    [ "AddSC_instance_gruuls_lair", "dd/d03/a04604.html#a6c9bd5a761d9018e8be9e0c11b8db2c5", null ],
+    [ "creatureData", "dd/d03/a04604.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "dd/d03/a04604.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "minionData", "dd/d03/a04604.html#a6720238df140a3c574a711042b7f5bd3", null ]
 ];

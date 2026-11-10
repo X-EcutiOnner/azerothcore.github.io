@@ -1,6 +1,5 @@
 var a26437 =
 [
-    [ "OnRemove", "d3/d55/a26437.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "d3/d55/a26437.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "d3/d55/a26437.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "PrepareSpellScript", "d3/d55/a26437.html#ac08a5b38ac3012ad31c8ecdf4ca36585", null ],
+    [ "Register", "d3/d55/a26437.html#a7d6187a7aa8f8d67efe15ffc74fa1873", null ]
 ];

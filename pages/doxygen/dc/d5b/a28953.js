@@ -1,5 +1,5 @@
 var a28953 =
 [
-    [ "ID", "dc/d5b/a28953.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "dc/d5b/a28953.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "npc_bombardier_petrov", "dc/d5b/a28953.html#ac0314c37918381ed6242fcfa4790461a", null ],
+    [ "OnGossipHello", "dc/d5b/a28953.html#ab67c12cf53bc5bec85a0707ce35ce888", null ]
 ];

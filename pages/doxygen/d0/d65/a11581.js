@@ -1,4 +1,8 @@
 var a11581 =
 [
-    [ "Validate", "d0/d65/a11581.html#ab0d4c07b4ce9903a913bdced5e05bbd6", null ]
+    [ "TrainerBuyFailed", "d0/d65/a11581.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
+    [ "Write", "d0/d65/a11581.html#a75c3bff5da4699fc412793caef1b75af", null ],
+    [ "SpellID", "d0/d65/a11581.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
+    [ "TrainerFailedReason", "d0/d65/a11581.html#a746ff497fba16adb16bbb647dff385df", null ],
+    [ "TrainerGUID", "d0/d65/a11581.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
 ];

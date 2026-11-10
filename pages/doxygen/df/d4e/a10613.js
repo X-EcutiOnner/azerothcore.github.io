@@ -1,7 +1,5 @@
 var a10613 =
 [
-    [ "TransportPathTransform", "df/d4e/a10613.html#af73e0369a2f0e4c2aabfde5b47b7520d", null ],
-    [ "operator()", "df/d4e/a10613.html#ac86e405f0d39698c400d7a8d2ab10607", null ],
-    [ "_owner", "df/d4e/a10613.html#a15428c0b9a8b11f7f63845a7d65620e8", null ],
-    [ "_transformForTransport", "df/d4e/a10613.html#afad44bc388b7d224f7a87aed7ba2e120", null ]
+    [ "Cost", "df/d4e/a10613.html#a6de1eebdd222f71e874a46e5daa354a4", null ],
+    [ "PathIndex", "df/d4e/a10613.html#aa5f8bc350f2c5aeac9d5e135c34eb662", null ]
 ];

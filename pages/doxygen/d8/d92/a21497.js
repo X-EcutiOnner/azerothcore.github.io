@@ -1,6 +1,5 @@
 var a21497 =
 [
-    [ "CalculateAmount", "d8/d92/a21497.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "d8/d92/a21497.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "d8/d92/a21497.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "npc_ritual_channelerAI", "d8/d92/a21497.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "d8/d92/a21497.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

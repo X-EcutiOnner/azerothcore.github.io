@@ -1,7 +1,9 @@
 var a20373 =
 [
-    [ "npc_storm_beacon_spawn", "d3/dbc/a20373.html#a999b6421a0ef6eec2987716a60352a5e", null ],
-    [ "UpdateAI", "d3/dbc/a20373.html#a93dbd7a26d6333f18329142280cc743d", null ],
-    [ "_amount", "d3/dbc/a20373.html#acb5d1f2b6590da32f36882339729c4e9", null ],
-    [ "_checkTimer", "d3/dbc/a20373.html#a9717b52f26045707fd852b955d29a5e6", null ]
+    [ "npc_thorims_hammer", "d3/dbc/a20373.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
+    [ "Reset", "d3/dbc/a20373.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
+    [ "UpdateAI", "d3/dbc/a20373.html#a006414298b31eb0cfb964916298d66ce", null ],
+    [ "_beamTimer", "d3/dbc/a20373.html#adcd5af2b86d1d8f119514f799c42444b", null ],
+    [ "_finishTime", "d3/dbc/a20373.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
+    [ "_removeTimer", "d3/dbc/a20373.html#a7b9a2435b0953c12e693c562193d45e0", null ]
 ];

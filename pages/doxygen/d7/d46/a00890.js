@@ -1,5 +1,4 @@
 var a00890 =
 [
-    [ "HandleLearnSpellCommand", "d7/d46/a00890.html#acbe37f872cbc981a27671ebdf10904de", null ],
-    [ "HandleUnlearnSpellCommand", "d7/d46/a00890.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
+    [ "SocketMgr< SocketType >", "dd/d29/a29705.html", "dd/d29/a29705" ]
 ];

@@ -1,12 +1,6 @@
 var a14421 =
 [
-    [ "npc_akilzon_eagle", "de/dd5/a14421.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
-    [ "JustEngagedWith", "de/dd5/a14421.html#aa5c3d77a1086ad90397d47f081b25476", null ],
-    [ "MoveInLineOfSight", "de/dd5/a14421.html#adefd384b8a273ca52343d836a399f3cb", null ],
-    [ "MovementInform", "de/dd5/a14421.html#abf69be0c32356e65e6d451c33fb389f0", null ],
-    [ "Reset", "de/dd5/a14421.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
-    [ "UpdateAI", "de/dd5/a14421.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
-    [ "arrived", "de/dd5/a14421.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
-    [ "EagleSwoop_Timer", "de/dd5/a14421.html#a37a5861ef690729e2a8bfafddce168be", null ],
-    [ "TargetGUID", "de/dd5/a14421.html#a14d4f82f932569d24f6014ad39640619", null ]
+    [ "npc_andorhal_towerAI", "d9/d10/a14425.html", "d9/d10/a14425" ],
+    [ "npc_andorhal_tower", "de/dd5/a14421.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "de/dd5/a14421.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

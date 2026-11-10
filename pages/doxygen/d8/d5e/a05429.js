@@ -1,7 +1,4 @@
 var a05429 =
 [
-    [ "GameobjectModelData", "d8/d5e/a05429.html#a7d259df5a5541f95e0f548674d023fc8", null ],
-    [ "bound", "d8/d5e/a05429.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
-    [ "isWmo", "d8/d5e/a05429.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
-    [ "name", "d8/d5e/a05429.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
+    [ "GetBounds", "d8/d5e/a05429.html#a04d9251d9a67affeece303853c2c8a84", null ]
 ];

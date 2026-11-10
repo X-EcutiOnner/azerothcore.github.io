@@ -1,5 +1,5 @@
 var a28517 =
 [
-    [ "go_massive_seaforium_charge", "d2/db7/a28517.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "d2/db7/a28517.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "go_arcane_prison", "d2/db7/a28517.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "d2/db7/a28517.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

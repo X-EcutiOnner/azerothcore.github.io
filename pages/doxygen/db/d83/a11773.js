@@ -1,7 +1,9 @@
 var a11773 =
 [
-    [ "OpcodeHandler", "d5/d87/a05118.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d5/d87/a05118.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d5/d87/a05118.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d5/d87/a05118.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "TotemCreated", "db/d83/a11773.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "db/d83/a11773.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "db/d83/a11773.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "db/d83/a11773.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "db/d83/a11773.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "db/d83/a11773.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

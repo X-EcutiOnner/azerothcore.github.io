@@ -1,8 +1,10 @@
 var a09821 =
 [
-    [ "MostHPMissingInRange", "dc/d01/a09821.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
-    [ "operator()", "dc/d01/a09821.html#a420388204d8a1420552b902fbcb2bebe", null ],
-    [ "i_hp", "dc/d01/a09821.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
-    [ "i_obj", "dc/d01/a09821.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
-    [ "i_range", "dc/d01/a09821.html#acef63da9004997c7f25056651284efa9", null ]
+    [ "AnyDeadUnitObjectInRangeCheck", "dc/d01/a09821.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
+    [ "operator()", "dc/d01/a09821.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
+    [ "operator()", "dc/d01/a09821.html#ae885f49537043421a92b44c201bec358", null ],
+    [ "operator()", "dc/d01/a09821.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
+    [ "operator()", "dc/d01/a09821.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
+    [ "i_range", "dc/d01/a09821.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
+    [ "i_searchObj", "dc/d01/a09821.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
 ];

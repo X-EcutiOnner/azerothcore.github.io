@@ -1,8 +1,12 @@
 var a16477 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d9/d63/a16477.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
-    [ "IsAllSpheresActivated", "d9/d63/a16477.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
-    [ "OnGameObjectCreate", "d9/d63/a16477.html#ad00fdc90a61e1c927323daa2149f8466", null ],
-    [ "SetData", "d9/d63/a16477.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
-    [ "taldaramPlatform_GUID", "d9/d63/a16477.html#a840ce69595c384be321c1167513d151e", null ]
+    [ "npc_twilight_volunteer", "d9/d63/a16477.html#a3062041fcabf972e0a3d4753363c37b3", null ],
+    [ "AttackStart", "d9/d63/a16477.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
+    [ "DoAction", "d9/d63/a16477.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
+    [ "EnterEvadeMode", "d9/d63/a16477.html#abd88e6fe0565babb92ccae17df0421d6", null ],
+    [ "MovementInform", "d9/d63/a16477.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
+    [ "UpdateAI", "d9/d63/a16477.html#a93288a45982b172c201e2442a4c91114", null ],
+    [ "events", "d9/d63/a16477.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
+    [ "isSacraficeTarget", "d9/d63/a16477.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
+    [ "pInstance", "d9/d63/a16477.html#ad58453e078520fa23238a96115e5f38f", null ]
 ];

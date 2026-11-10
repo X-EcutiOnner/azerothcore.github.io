@@ -1,9 +1,8 @@
 var a12465 =
 [
-    [ "map", "d2/dd1/a12465.html#a274c6d61203c24b3c680055244e1f590", null ],
-    [ "mouth", "d2/dd1/a12465.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
-    [ "mouthGuid", "d2/dd1/a12465.html#a2245c14e379c83bdd47165e829de2e41", null ],
-    [ "necropolisCount", "d2/dd1/a12465.html#aec44e315616920ba8224be8c4831f5e9", null ],
-    [ "remainingNecropoli", "d2/dd1/a12465.html#a3c18c61fcd44c32f9e0009479db85399", null ],
-    [ "zoneId", "d2/dd1/a12465.html#a98e1490705f74627cf9e5483857f3f25", null ]
+    [ "Crashed", "d2/dd1/a12465.html#a17d96b6094cce7610f434cee47bda806", null ],
+    [ "Reason", "d2/dd1/a12465.html#ad7ffcc2a6d684945aebc97e33c98df0b", null ],
+    [ "StartTime", "d2/dd1/a12465.html#aebe79dace75744ed690219c258bf1adc", null ],
+    [ "Type", "d2/dd1/a12465.html#a09862410aba49a16939b83cd5a8ba344", null ],
+    [ "Uptime", "d2/dd1/a12465.html#afd367ad58c143d5b0aca8959e9e733ff", null ]
 ];

@@ -1,5 +1,7 @@
 var a21845 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d7/d16/a21845.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "d7/d16/a21845.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_warmage_violetstand", "d7/d16/a21845.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d7/d16/a21845.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d7/d16/a21845.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d7/d16/a21845.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

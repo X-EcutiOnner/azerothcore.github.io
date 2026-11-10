@@ -1,5 +1,5 @@
 var a19813 =
 [
-    [ "at_naxxramas_hub_portal", "d4/d06/a19813.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "d4/d06/a19813.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "npc_living_poison", "d4/d06/a19813.html#a277440068846eac71c795880a16475dd", null ],
+    [ "UpdateAI", "d4/d06/a19813.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
 ];

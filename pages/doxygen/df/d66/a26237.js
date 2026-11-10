@@ -1,6 +1,6 @@
 var a26237 =
 [
-    [ "CalculateAmount", "df/d66/a26237.html#a6faee23ed5947a904e58bfb38cf01d05", null ],
-    [ "PrepareAuraScript", "df/d66/a26237.html#a5e7d089dd117b6b3a605ea2e8aea0b04", null ],
-    [ "Register", "df/d66/a26237.html#a37e277143b2ae6cd88260776941b59bf", null ]
+    [ "HandleScript", "df/d66/a26237.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
+    [ "PrepareSpellScript", "df/d66/a26237.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
+    [ "Register", "df/d66/a26237.html#ad75843039e582b64da28b4818f48aeb3", null ]
 ];

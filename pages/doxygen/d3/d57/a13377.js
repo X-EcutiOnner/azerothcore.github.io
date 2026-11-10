@@ -1,11 +1,10 @@
 var a13377 =
 [
-    [ "boss_tenris_mirkblood", "d3/d57/a13377.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
-    [ "DamageTaken", "d3/d57/a13377.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
-    [ "EnterEvadeMode", "d3/d57/a13377.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
-    [ "JustEngagedWith", "d3/d57/a13377.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
-    [ "KilledUnit", "d3/d57/a13377.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
-    [ "Reset", "d3/d57/a13377.html#a88d46f6e972525979687b315db90dc30", null ],
-    [ "SpellHit", "d3/d57/a13377.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
-    [ "_mirrorTarget", "d3/d57/a13377.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
+    [ "npc_netherspite_infernal", "d3/d57/a13377.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d3/d57/a13377.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d3/d57/a13377.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d3/d57/a13377.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d3/d57/a13377.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d3/d57/a13377.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d3/d57/a13377.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

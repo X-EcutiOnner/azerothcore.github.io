@@ -1,6 +1,6 @@
 var a19753 =
 [
-    [ "FilterTargets", "d1/d11/a19753.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "d1/d11/a19753.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "d1/d11/a19753.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "boss_sapphironAI", "dd/d05/a19757.html", "dd/d05/a19757" ],
+    [ "boss_sapphiron", "d1/d11/a19753.html#a87a70204dd727f92d035ad98e2ab9010", null ],
+    [ "GetAI", "d1/d11/a19753.html#a31209287faa721bef341388ae4383b6c", null ]
 ];

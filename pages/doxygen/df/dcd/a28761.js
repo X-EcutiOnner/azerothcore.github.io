@@ -1,6 +1,14 @@
 var a28761 =
 [
-    [ "npc_pet_trainerAI", "de/d9c/a28765.html", "de/d9c/a28765" ],
-    [ "npc_pet_trainer", "df/dcd/a28761.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "df/dcd/a28761.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_garments_of_questsAI", "df/dcd/a28761.html#a079f719ca488ed6fde2783b5db4f328b", null ],
+    [ "JustEngagedWith", "df/dcd/a28761.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
+    [ "Reset", "df/dcd/a28761.html#aaaaa3e41deae0057bd659be5c579d226", null ],
+    [ "SpellHit", "df/dcd/a28761.html#ad22195dba70ced744b319bc1ad83c083", null ],
+    [ "UpdateAI", "df/dcd/a28761.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
+    [ "WaypointReached", "df/dcd/a28761.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
+    [ "WaypointReached", "df/dcd/a28761.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "CanRun", "df/dcd/a28761.html#a93c41781e4cb037b56773bbbf36181b7", null ],
+    [ "CasterGUID", "df/dcd/a28761.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
+    [ "IsHealed", "df/dcd/a28761.html#a96db66704eabf028362d5f8b5c424712", null ],
+    [ "RunAwayTimer", "df/dcd/a28761.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
 ];

@@ -1,11 +1,6 @@
 var a14329 =
 [
-    [ "npc_highborne_lamenterAI", "da/d62/a14329.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
-    [ "JustEngagedWith", "da/d62/a14329.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
-    [ "Reset", "da/d62/a14329.html#a7cf9338767e8edf0a87a5552703de87a", null ],
-    [ "UpdateAI", "da/d62/a14329.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
-    [ "EventCast", "da/d62/a14329.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
-    [ "EventCastTimer", "da/d62/a14329.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
-    [ "EventMove", "da/d62/a14329.html#aca22c73db989f0393926067506794e43", null ],
-    [ "EventMoveTimer", "da/d62/a14329.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
+    [ "OnRemove", "da/d62/a14329.html#aedad236b202300eee0925e3600b87bfa", null ],
+    [ "PrepareAuraScript", "da/d62/a14329.html#acfdeb98e274989e378d4d4c800306a24", null ],
+    [ "Register", "da/d62/a14329.html#a0d820ca108e3aabe87ab5867d997264c", null ]
 ];

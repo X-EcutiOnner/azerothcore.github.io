@@ -1,14 +1,10 @@
 var a10473 =
 [
-    [ "~MovementGenerator", "d5/de8/a10473.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
-    [ "Finalize", "d5/de8/a10473.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
-    [ "GetMovementGeneratorType", "d5/de8/a10473.html#a60bac341b438ea7258986f234a952324", null ],
-    [ "GetResetPosition", "d5/de8/a10473.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
-    [ "GetSplineId", "d5/de8/a10473.html#a99865a1b7cf84b02784bfa8df958585f", null ],
-    [ "Initialize", "d5/de8/a10473.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
-    [ "Pause", "d5/de8/a10473.html#a37530e5cd743faecabd21eba08dce939", null ],
-    [ "Reset", "d5/de8/a10473.html#aa6641fa1182551421fc8572afad8e083", null ],
-    [ "Resume", "d5/de8/a10473.html#a51988a8b0a45459242467e38ca46303c", null ],
-    [ "unitSpeedChanged", "d5/de8/a10473.html#a0f9c4fd52947688dcda1161924e829bb", null ],
-    [ "Update", "d5/de8/a10473.html#ae3014d8c6e728799c86134ef64737ed5", null ]
+    [ "ID", "d5/de8/a10473.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
+    [ "Map", "d5/de8/a10473.html#af4e60380e8434e5b8f573d2172ddf656", null ],
+    [ "name", "d5/de8/a10473.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
+    [ "wnameLow", "d5/de8/a10473.html#a148ead3270ad02213204792d6063cead", null ],
+    [ "x", "d5/de8/a10473.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
+    [ "y", "d5/de8/a10473.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
+    [ "z", "d5/de8/a10473.html#adf56d09898752230a4fa1629849ac945", null ]
 ];

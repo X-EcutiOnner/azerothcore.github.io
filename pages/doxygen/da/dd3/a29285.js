@@ -1,12 +1,7 @@
 var a29285 =
 [
-    [ "ID", "da/dd3/a29285.html#a84ba697182123cb3e7dd3ba07241e971", null ],
-    [ "maxScale", "da/dd3/a29285.html#a23ca0ae7c45790a24f58546970194abf", null ],
-    [ "maxScaleLevel", "da/dd3/a29285.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
-    [ "minScale", "da/dd3/a29285.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
-    [ "minScaleLevel", "da/dd3/a29285.html#a49d9d7847cc4d54891d83166eb277740", null ],
-    [ "Name", "da/dd3/a29285.html#a937fc579ab2790f4a972f07d3453a762", null ],
-    [ "petFoodMask", "da/dd3/a29285.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
-    [ "petTalentType", "da/dd3/a29285.html#a802000cefb6c4d357edfc45cc291e21e", null ],
-    [ "skillLine", "da/dd3/a29285.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
+    [ "bit_index", "da/dd3/a29285.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "da/dd3/a29285.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "da/dd3/a29285.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "da/dd3/a29285.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

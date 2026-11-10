@@ -1,13 +1,9 @@
 var a29745 =
 [
-    [ "Context", "dc/d4b/a29745.html#a0dd9f22f9528a05b229828e4a2c97757", null ],
-    [ "CreateEventInfo", "dc/d4b/a29745.html#a81032fc22ce45902d34cf897606bd966", null ],
-    [ "CreateProcEntry", "dc/d4b/a29745.html#a26531bd3f3256075455b32b42a172f6a", null ],
-    [ "CreateSpellInfo", "dc/d4b/a29745.html#adee75944dc2e9a3fff7848d0ccfff527", null ],
-    [ "SetUp", "dc/d4b/a29745.html#a65b0d4a0beb4c2f986f71ff5732e0f3c", null ],
-    [ "TearDown", "dc/d4b/a29745.html#a782580d41f8233b93d51fe347601e730", null ],
-    [ "TestCanProc", "dc/d4b/a29745.html#a6827c531761877b01d44665a4eb90f61", null ],
-    [ "TestSpellFamilyMatch", "dc/d4b/a29745.html#a97d06c4fdf207051543fbf8c9207242e", null ],
-    [ "_context", "dc/d4b/a29745.html#a0b5925a6df47ba704bfc196cc89c4919", null ],
-    [ "_spellInfos", "dc/d4b/a29745.html#a30ebff666ac835168f1bf7d6aa771e0c", null ]
+    [ "flags", "dc/d4b/a29745.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "dc/d4b/a29745.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "dc/d4b/a29745.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "dc/d4b/a29745.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "dc/d4b/a29745.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "dc/d4b/a29745.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

@@ -1,8 +1,10 @@
 var a09769 =
 [
-    [ "PlayerListSearcher", "d5/ddf/a09769.html#a82520531c26a6c9645956739538cd286", null ],
-    [ "Visit", "d5/ddf/a09769.html#a5cec285c685fce6ac215ac0cde740168", null ],
-    [ "Visit", "d5/ddf/a09769.html#a87980d05e12069a42baea27ee0e937d3", null ],
-    [ "i_check", "d5/ddf/a09769.html#ad49658237a1e6bf54852d4fc127ea660", null ],
-    [ "i_phaseMask", "d5/ddf/a09769.html#ae61e586baa621b0dbd15d453d1320091", null ]
+    [ "UnitSearcher", "d5/ddf/a09769.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
+    [ "Visit", "d5/ddf/a09769.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
+    [ "Visit", "d5/ddf/a09769.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
+    [ "Visit", "d5/ddf/a09769.html#ac65516ed337b509ff5c316fb29727854", null ],
+    [ "i_check", "d5/ddf/a09769.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
+    [ "i_object", "d5/ddf/a09769.html#a3029760131a6f50883246afe2533c062", null ],
+    [ "i_phaseMask", "d5/ddf/a09769.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
 ];

@@ -1,4 +1,4 @@
 var a01085 =
 [
-    [ "ConditionScript", "da/dce/a10842.html", "da/dce/a10842" ]
+    [ "WorldMapScript", "d3/dd7/a10993.html", "d3/dd7/a10993" ]
 ];

@@ -1,9 +1,6 @@
 var a02960 =
 [
-    [ "SQLElementData", "db/d84/a06318.html", "db/d84/a06318" ],
-    [ "SQLOperation", "d5/d62/a06322.html", "d5/d62/a06322" ],
-    [ "SQLElementDataType", "db/d1b/a02960.html#abb4a6cfcce013f18b29779f1f435e627", [
-      [ "SQL_ELEMENT_RAW", "db/d1b/a02960.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a", null ],
-      [ "SQL_ELEMENT_PREPARED", "db/d1b/a02960.html#abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d", null ]
-    ] ]
+    [ "DatabaseWorkerPool< T >", "d9/d6f/a06149.html", "d9/d6f/a06149" ],
+    [ "MIN_MYSQL_CLIENT_VERSION", "db/d1b/a02960.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
+    [ "MIN_MYSQL_SERVER_VERSION", "db/d1b/a02960.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
 ];

@@ -1,9 +1,7 @@
 var a21069 =
 [
-    [ "OnProc", "db/d4c/a21069.html#a94de5901e43000e99b478e9194d59ecd", null ],
-    [ "PrepareAuraScript", "db/d4c/a21069.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
-    [ "Register", "db/d4c/a21069.html#acc8a07807e5c306af285cb5889ef2c41", null ],
-    [ "Validate", "db/d4c/a21069.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
-    [ "_lastOrbTime", "db/d4c/a21069.html#a4522510d836abf625b019674c1c5281f", null ],
-    [ "OrbCooldown", "db/d4c/a21069.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
+    [ "FilterTargets", "db/d4c/a21069.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "db/d4c/a21069.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "db/d4c/a21069.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "db/d4c/a21069.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

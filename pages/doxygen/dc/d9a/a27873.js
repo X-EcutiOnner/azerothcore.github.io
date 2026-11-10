@@ -1,10 +1,7 @@
 var a27873 =
 [
-    [ "CalculateAPAmount", "dc/d9a/a27873.html#ae76d10c68df1f149f83d4247122b47a7", null ],
-    [ "CalculateResistanceAmount", "dc/d9a/a27873.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
-    [ "CalculateSPAmount", "dc/d9a/a27873.html#a421996ca946d5b04c264718e6dd63fa9", null ],
-    [ "CalculateStatAmount", "dc/d9a/a27873.html#ae695515c915f2452dccb71aeb018f3a3", null ],
-    [ "HandleEffectApply", "dc/d9a/a27873.html#a207864c73e485e0db0fe47bde97d87a2", null ],
-    [ "PrepareAuraScript", "dc/d9a/a27873.html#a4179be48195872410bda69cac3454812", null ],
-    [ "Register", "dc/d9a/a27873.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
+    [ "HandleProc", "dc/d9a/a27873.html#a5e428ae0d1d6b54494a62ca0a77820c9", null ],
+    [ "PrepareAuraScript", "dc/d9a/a27873.html#a953eee0cd2f18703ce04b1579d698365", null ],
+    [ "Register", "dc/d9a/a27873.html#a8552c78a1d78fae17650a24c25b87ad3", null ],
+    [ "Validate", "dc/d9a/a27873.html#aadd49f63e9203d3314c5597ef72f6658", null ]
 ];

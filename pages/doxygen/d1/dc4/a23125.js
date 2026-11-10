@@ -1,6 +1,9 @@
 var a23125 =
 [
-    [ "boss_essence_of_angerAI", "d5/d9f/a23129.html", "d5/d9f/a23129" ],
-    [ "boss_essence_of_anger", "d1/dc4/a23125.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "d1/dc4/a23125.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "FilterTargets", "d1/dc4/a23125.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "d1/dc4/a23125.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "d1/dc4/a23125.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "d1/dc4/a23125.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "d1/dc4/a23125.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "d1/dc4/a23125.html#a814083360970284a325621f45e109b5b", null ]
 ];

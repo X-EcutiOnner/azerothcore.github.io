@@ -1,6 +1,5 @@
 var a24077 =
 [
-    [ "HandleScriptEffect", "d5/de8/a24077.html#a724e857ad8604ef4546c8823bb7bd632", null ],
-    [ "PrepareSpellScript", "d5/de8/a24077.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
-    [ "Register", "d5/de8/a24077.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
+    [ "npc_thaladred", "d5/de8/a24077.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
+    [ "ScheduleEvents", "d5/de8/a24077.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
 ];

@@ -1,6 +1,6 @@
 var a21925 =
 [
-    [ "npc_mindless_ghoulAI", "d0/d29/a21929.html", "d0/d29/a21929" ],
-    [ "npc_mindless_ghoul", "dc/d8f/a21925.html#ac5bf71e719c0df04687f426a022fd65e", null ],
-    [ "GetAI", "dc/d8f/a21925.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
+    [ "npc_future_youAI", "d0/d29/a21929.html", "d0/d29/a21929" ],
+    [ "npc_future_you", "dc/d8f/a21925.html#a36e363156bcb32fee468989062817bd5", null ],
+    [ "GetAI", "dc/d8f/a21925.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
 ];

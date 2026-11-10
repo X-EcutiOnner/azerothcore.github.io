@@ -1,5 +1,5 @@
 var a04118 =
 [
-    [ "quest_commandscript", "df/d35/a12694.html", "df/d35/a12694" ],
-    [ "AddSC_quest_commandscript", "d4/ddb/a04118.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ]
+    [ "chatfilter_commandscript", "d4/db0/a12557.html", "d4/db0/a12557" ],
+    [ "AddSC_chatfilter_commandscript", "d4/ddb/a04118.html#aee5ca3527878cd26d04712c7dc6b8611", null ]
 ];

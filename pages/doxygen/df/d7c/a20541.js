@@ -1,7 +1,8 @@
 var a20541 =
 [
-    [ "HandleEffectPeriodic", "df/d7c/a20541.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "df/d7c/a20541.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "df/d7c/a20541.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "df/d7c/a20541.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "npc_ulduar_saronite_animus", "df/d7c/a20541.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
+    [ "JustDied", "df/d7c/a20541.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
+    [ "UpdateAI", "df/d7c/a20541.html#afc7899752e25669b37ab04b50fb2d604", null ],
+    [ "_instance", "df/d7c/a20541.html#a6f2bf52c82185365efe88941b7922504", null ],
+    [ "timer", "df/d7c/a20541.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
 ];

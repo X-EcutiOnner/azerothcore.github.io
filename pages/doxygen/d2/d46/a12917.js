@@ -1,11 +1,8 @@
 var a12917 =
 [
-    [ "boss_quartermaster_zigris", "d2/d46/a12917.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
-    [ "DamageTaken", "d2/d46/a12917.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
-    [ "JustDied", "d2/d46/a12917.html#a9295bbcffd7968051a789e8dfb634e23", null ],
-    [ "JustEngagedWith", "d2/d46/a12917.html#af482c06e00e7f6c15b290115998a27a9", null ],
-    [ "Reset", "d2/d46/a12917.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
-    [ "SpellHitTarget", "d2/d46/a12917.html#a38197746cc73ada1378e6e1a5555ef79", null ],
-    [ "UpdateAI", "d2/d46/a12917.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
-    [ "_hasDrunkPotion", "d2/d46/a12917.html#a25335533bc43171687e03f1ed22d4fb3", null ]
+    [ "CheckProc", "d2/d46/a12917.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d2/d46/a12917.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d2/d46/a12917.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d2/d46/a12917.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d2/d46/a12917.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

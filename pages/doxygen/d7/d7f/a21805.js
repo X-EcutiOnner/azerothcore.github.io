@@ -1,6 +1,6 @@
 var a21805 =
 [
-    [ "PrepareSpellScript", "d7/d7f/a21805.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "d7/d7f/a21805.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "d7/d7f/a21805.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "npc_bloodmage_laurithAI", "d1/d8a/a21809.html", "d1/d8a/a21809" ],
+    [ "npc_bloodmage_laurith", "d7/d7f/a21805.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
+    [ "GetAI", "d7/d7f/a21805.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
 ];

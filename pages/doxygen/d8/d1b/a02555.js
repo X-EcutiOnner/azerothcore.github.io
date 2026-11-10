@@ -1,5 +1,5 @@
 var a02555 =
 [
-    [ "SmartScript", "da/d1a/a06726.html", "da/d1a/a06726" ],
-    [ "SmartScript::SmartScriptFrame", "de/d9f/a06730.html", "de/d9f/a06730" ]
+    [ "GetAISpellInfo", "d8/d1b/a02555.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
+    [ "IsValidCombatTarget", "d8/d1b/a02555.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
 ];

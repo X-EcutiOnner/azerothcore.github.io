@@ -1,13 +1,6 @@
 var a12233 =
 [
-    [ "AsyncFunction", "d6/dc7/a12233.html#a2addfa1b63edc880ca54fc46e0a6d94b", null ],
-    [ "CallbackFunction", "d6/dc7/a12233.html#ab2d6148aad6c533ac787ebef69250357", null ],
-    [ "AsyncTask", "d6/dc7/a12233.html#ad6f8ee54d3e1b0736e34362cd30f1365", null ],
-    [ "~AsyncTask", "d6/dc7/a12233.html#a553b3c1b778f9dadea8b764f210b8d8c", null ],
-    [ "ExecuteAsync", "d6/dc7/a12233.html#a1cdc60ddffaa431d19c992c0e389b85d", null ],
-    [ "InvokeIfReady", "d6/dc7/a12233.html#aecfe1b8d9ab2be59f564939dde44cfb9", null ],
-    [ "asyncFunc", "d6/dc7/a12233.html#a835a7b06185916adfb632d27ef73c9ce", null ],
-    [ "asyncTask", "d6/dc7/a12233.html#a81e22f584cc7d48594751038ac113ab2", null ],
-    [ "callbackFunc", "d6/dc7/a12233.html#a9eb4e4b1eddea03bc0197758d34f9325", null ],
-    [ "isReady", "d6/dc7/a12233.html#af4b96cd278382c34dbaaa3782df8371b", null ]
+    [ "EffectAbsorbHandler", "d6/dc7/a12233.html#a29bb773b8271acf651b08f33ce358720", null ],
+    [ "Call", "d6/dc7/a12233.html#a56bfb0fd0d860678920445d1182c09ef", null ],
+    [ "pEffectHandlerScript", "d6/dc7/a12233.html#a519489b8d951173a806e86cfe075faf1", null ]
 ];

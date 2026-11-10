@@ -1,6 +1,7 @@
 var a27381 =
 [
-    [ "HandleDummy", "d5/d4c/a27381.html#a73628636431d3549d6e3530c6ef23c08", null ],
-    [ "PrepareSpellScript", "d5/d4c/a27381.html#ab90d3031b356e8004fa62c9562f1ba1f", null ],
-    [ "Register", "d5/d4c/a27381.html#a7f42cf47831d3c8544453530a1454ddc", null ]
+    [ "HandleDummy", "d5/d4c/a27381.html#a1abe1e04be6b6c410e0ff273d8aa15c9", null ],
+    [ "Load", "d5/d4c/a27381.html#a249e9c3c74bcc20ea2c0d5ce63fbd88c", null ],
+    [ "PrepareSpellScript", "d5/d4c/a27381.html#aeffcc8db6125a35227545911fa03a850", null ],
+    [ "Register", "d5/d4c/a27381.html#a1de981482ebb05b8507b308dba7a426b", null ]
 ];

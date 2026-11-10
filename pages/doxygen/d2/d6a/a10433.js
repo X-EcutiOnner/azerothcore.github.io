@@ -1,6 +1,17 @@
 var a10433 =
 [
-    [ "aiNotifyDelay", "d2/d6a/a10433.html#af70453021c5ded85c73a4d5559dca2ea", null ],
-    [ "requiredMoveDistanceSq", "d2/d6a/a10433.html#aaa4faa0170181e409940b5441eb2f586", null ],
-    [ "visibilityNotifyDelay", "d2/d6a/a10433.html#ad566fd5eff102929247b75cf5092a60b", null ]
+    [ "SpawnData", "d2/d6a/a10433.html#af108bd4f8d7080f008f1f3263e575311", null ],
+    [ "dbData", "d2/d6a/a10433.html#a32037d54d1c8dfd74e18b8b501843e93", null ],
+    [ "mapid", "d2/d6a/a10433.html#ac23de576d628ec0dde71be9a06976c83", null ],
+    [ "orientation", "d2/d6a/a10433.html#a645082615abc236e61a409595afca3e4", null ],
+    [ "phaseMask", "d2/d6a/a10433.html#a1d08a4a00b3ffe3eaaf260c7a447c861", null ],
+    [ "poolId", "d2/d6a/a10433.html#ae3790bdeab5bd664665f9a991ec15107", null ],
+    [ "posX", "d2/d6a/a10433.html#a038b864df6fc5db9a47ae565a5e8d627", null ],
+    [ "posY", "d2/d6a/a10433.html#a13dc41e4c6b296b6b7a0a1ca402f407b", null ],
+    [ "posZ", "d2/d6a/a10433.html#ae911f34522832f2842ea7450c55e264c", null ],
+    [ "ScriptId", "d2/d6a/a10433.html#acb2ca11212667789bbd41a285cf708d6", null ],
+    [ "spawnGroupId", "d2/d6a/a10433.html#aa608bdbe2112f69e2c96ee45830cc3f8", null ],
+    [ "spawnId", "d2/d6a/a10433.html#a589f8c64b4d22ee6a638a4bb4674c6ca", null ],
+    [ "spawnMask", "d2/d6a/a10433.html#a236e4a809883421cb2c5d4c4d607621b", null ],
+    [ "type", "d2/d6a/a10433.html#abb2ece9629d63141de2702acd5383564", null ]
 ];

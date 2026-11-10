@@ -1,5 +1,4 @@
 var a01124 =
 [
-    [ "ForeachMaps", "d0/dc8/a01124.html#a899f6a046cdda33d737030dd4923ca7d", null ],
-    [ "ScriptRegistry< AllMapScript >", "d0/dc8/a01124.html#ada370fef23e6d206da686c8bb6149104", null ]
+    [ "ScriptRegistry< InstanceMapScript >", "d0/dc8/a01124.html#a1271f70bb9300f8012216659f38edaee", null ]
 ];

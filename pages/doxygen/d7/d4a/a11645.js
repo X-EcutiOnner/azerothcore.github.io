@@ -1,7 +1,6 @@
 var a11645 =
 [
-    [ "PetDismissSound", "d7/d4a/a11645.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
-    [ "Write", "d7/d4a/a11645.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
-    [ "ModelId", "d7/d4a/a11645.html#aba65e6547adde55978ce7b2abb779d51", null ],
-    [ "ModelPosition", "d7/d4a/a11645.html#a06e6bff9d70996ba890c31ea74363dad", null ]
+    [ "DismissCritter", "d7/d4a/a11645.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "d7/d4a/a11645.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "d7/d4a/a11645.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

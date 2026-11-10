@@ -1,12 +1,10 @@
 var a14409 =
 [
-    [ "npc_tapoke_slim_jahnAI", "d3/dc2/a14409.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
-    [ "AttackedBy", "d3/dc2/a14409.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
-    [ "DamageTaken", "d3/dc2/a14409.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
-    [ "JustEngagedWith", "d3/dc2/a14409.html#a544b8eaee365217a4a735ed39b4607b2", null ],
-    [ "JustSummoned", "d3/dc2/a14409.html#ae468305fbe930baf0a1547f2e6de9953", null ],
-    [ "Reset", "d3/dc2/a14409.html#a5aeaa5511584d1095639e7df584019c5", null ],
-    [ "WaypointReached", "d3/dc2/a14409.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
-    [ "WaypointReached", "d3/dc2/a14409.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "IsFriendSummoned", "d3/dc2/a14409.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d3/dc2/a14409.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "d3/dc2/a14409.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "d3/dc2/a14409.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "d3/dc2/a14409.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "d3/dc2/a14409.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "d3/dc2/a14409.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "d3/dc2/a14409.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

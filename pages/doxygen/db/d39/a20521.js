@@ -1,6 +1,6 @@
 var a20521 =
 [
-    [ "FilterTargets", "db/d39/a20521.html#a977f0687005cdbd585be0704e5ce20d8", null ],
-    [ "PrepareSpellScript", "db/d39/a20521.html#a96f279fbc08f23f0b7e7f807dc0ddd7a", null ],
-    [ "Register", "db/d39/a20521.html#a1038ca2384a31671dab1d72e1232cfe1", null ]
+    [ "HandleSurge", "db/d39/a20521.html#a669a46f3583518664462b4ee915be2da", null ],
+    [ "PrepareSpellScript", "db/d39/a20521.html#adead1c7e506e9dc8d6b9cc04f2331a58", null ],
+    [ "Register", "db/d39/a20521.html#a7f29f72897e2e175044a49b05d2994d7", null ]
 ];

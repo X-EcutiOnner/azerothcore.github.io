@@ -1,8 +1,6 @@
 var a24545 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "d5/dd1/a24545.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "CanAIAttack", "d5/dd1/a24545.html#a514fe49b143f57ef87359b3060911c02", null ],
-    [ "OwnerAttacked", "d5/dd1/a24545.html#ad5189df825dc917e59c9b19e4a84cded", null ],
-    [ "OwnerAttackedBy", "d5/dd1/a24545.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ],
-    [ "UpdateAI", "d5/dd1/a24545.html#ac44836f84d172dfac90dfb3eaaeeac6a", null ]
+    [ "npc_unkor_the_ruthlessAI", "dc/d11/a24549.html", "dc/d11/a24549" ],
+    [ "npc_unkor_the_ruthless", "d5/dd1/a24545.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "d5/dd1/a24545.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

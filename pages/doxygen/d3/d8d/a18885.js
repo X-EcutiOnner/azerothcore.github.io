@@ -1,9 +1,8 @@
 var a18885 =
 [
-    [ "HandleScript", "d3/d8d/a18885.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "d3/d8d/a18885.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "d3/d8d/a18885.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "d3/d8d/a18885.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "d3/d8d/a18885.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "d3/d8d/a18885.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "Load", "d3/d8d/a18885.html#add67e02f44e3658bff98faf7a9466ba3", null ],
+    [ "OnPeriodic", "d3/d8d/a18885.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
+    [ "PrepareAuraScript", "d3/d8d/a18885.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
+    [ "Register", "d3/d8d/a18885.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
+    [ "_is25Man", "d3/d8d/a18885.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
 ];

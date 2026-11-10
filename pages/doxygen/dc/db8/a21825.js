@@ -1,8 +1,7 @@
 var a21825 =
 [
-    [ "npc_dusk", "dc/db8/a21825.html#ab142eb266e64af625a8a38d3234ded72", null ],
-    [ "MovementInform", "dc/db8/a21825.html#a49cade56e631668c946edb6753172c87", null ],
-    [ "PassengerBoarded", "dc/db8/a21825.html#aaff19f52995db17f4dab953e2e928c68", null ],
-    [ "WaypointReached", "dc/db8/a21825.html#ac8f70426313aa6834285905e94f1d0d9", null ],
-    [ "_ejected", "dc/db8/a21825.html#a4f749f98c178a32b211bbd38b9447607", null ]
+    [ "HandleScriptEffect", "dc/db8/a21825.html#adc89459d7b6c073b8a60e08a9e3281cf", null ],
+    [ "PrepareSpellScript", "dc/db8/a21825.html#a8f15bf27d9e54c1ee6c84f99f1f83d48", null ],
+    [ "Register", "dc/db8/a21825.html#a86ef787e1db46e578a10ca25ac84ba87", null ],
+    [ "Validate", "dc/db8/a21825.html#abeb8baf7dabf2d3acea4df79535770d2", null ]
 ];

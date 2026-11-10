@@ -1,6 +1,6 @@
 var a23377 =
 [
-    [ "HandleScriptEffect", "df/d93/a23377.html#a766edc5924124c869b04ec82cd2bc693", null ],
-    [ "PrepareSpellScript", "df/d93/a23377.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
-    [ "Register", "df/d93/a23377.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
+    [ "OnPeriodic", "df/d93/a23377.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
+    [ "PrepareAuraScript", "df/d93/a23377.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
+    [ "Register", "df/d93/a23377.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
 ];

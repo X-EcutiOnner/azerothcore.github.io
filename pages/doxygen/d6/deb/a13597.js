@@ -1,6 +1,5 @@
 var a13597 =
 [
-    [ "HandleDummy", "d6/deb/a13597.html#a30b184682d9d7e5cd992b033bf089589", null ],
-    [ "PrepareSpellScript", "d6/deb/a13597.html#a4499d38e1bb64a76ada4d47ae5aa72a9", null ],
-    [ "Register", "d6/deb/a13597.html#a8c30b2d7ad63280b3d0721c5ded43609", null ]
+    [ "boss_apoko", "d6/deb/a13597.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
+    [ "JustEngagedWith", "d6/deb/a13597.html#a7ad52b258863bd818b3e5d1143de7629", null ]
 ];

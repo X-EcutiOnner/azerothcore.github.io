@@ -1,6 +1,6 @@
 var a18265 =
 [
-    [ "boss_lady_deathwhisperAI", "da/d4d/a18269.html", "da/d4d/a18269" ],
-    [ "boss_lady_deathwhisper", "d3/d6e/a18265.html#a979411cb834611b1239f3bf9058d316d", null ],
-    [ "GetAI", "d3/d6e/a18265.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
+    [ "CheckProc", "d3/d6e/a18265.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d3/d6e/a18265.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d3/d6e/a18265.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

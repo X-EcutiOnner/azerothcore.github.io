@@ -1,5 +1,6 @@
 var a05218 =
 [
-    [ "TotemCreated", "da/d51/a11758.html", "da/d51/a11758" ],
-    [ "TotemDestroyed", "d3/dc1/a11754.html", "d3/dc1/a11754" ]
+    [ "ChatServerMessage", "d0/d2b/a11133.html", "d0/d2b/a11133" ],
+    [ "Emote", "de/d7a/a11125.html", "de/d7a/a11125" ],
+    [ "EmoteClient", "d8/d80/a11129.html", "d8/d80/a11129" ]
 ];

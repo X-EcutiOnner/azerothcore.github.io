@@ -1,5 +1,8 @@
 var a25721 =
 [
-    [ "PrepareSpellScript", "d7/d9e/a25721.html#a2c88a98e1f76f62f745dbd83fa939506", null ],
-    [ "Register", "d7/d9e/a25721.html#a93dcf131a040c95ef1b8cc5ec1d3bc37", null ]
+    [ "OnApply", "d7/d9e/a25721.html#acf25199409ab6f991db15a784749aaf1", null ],
+    [ "OnRemove", "d7/d9e/a25721.html#a700513c27a2ae22581bbc61c8c4b523a", null ],
+    [ "PrepareAuraScript", "d7/d9e/a25721.html#ae6f93ab542d8f05a95745d7b10d1856a", null ],
+    [ "Register", "d7/d9e/a25721.html#a9332cb72f66e83f648b4ed02c8c074eb", null ],
+    [ "Validate", "d7/d9e/a25721.html#a09017d12ecf0ae0c3091cea17640782c", null ]
 ];

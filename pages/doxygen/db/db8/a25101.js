@@ -1,7 +1,8 @@
 var a25101 =
 [
-    [ "HandleProc", "db/db8/a25101.html#a17f1f652f4144bfade0072e311f579e7", null ],
-    [ "PrepareAuraScript", "db/db8/a25101.html#a8ab8da270b52ce7be6419f5947df6566", null ],
-    [ "Register", "db/db8/a25101.html#a660b69eb520799733f59218c919b28ed", null ],
-    [ "Validate", "db/db8/a25101.html#a433be7a238be09e86c395a6d3625c56d", null ]
+    [ "CheckProc", "db/db8/a25101.html#a465402287949b12e5f4a4fe5405c32ce", null ],
+    [ "HandleProc", "db/db8/a25101.html#a11329d2093e30e91d7582c5eb34228ab", null ],
+    [ "PrepareAuraScript", "db/db8/a25101.html#a0c17de6a23adf74e32cf7c50b09762fc", null ],
+    [ "Register", "db/db8/a25101.html#ade6720401687c7ad102e51572351705c", null ],
+    [ "Validate", "db/db8/a25101.html#a71c224e13289673e5d2ed700cde6cd6a", null ]
 ];

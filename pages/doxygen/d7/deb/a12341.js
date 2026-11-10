@@ -1,13 +1,11 @@
 var a12341 =
 [
-    [ "PlayerDumpWriter", "d7/deb/a12341.html#a060152c060b37c4bf1208a99edc4a840", null ],
-    [ "AppendTable", "d7/deb/a12341.html#a7f285fddf6d33dd1664b5af801f110e9", null ],
-    [ "GetDump", "d7/deb/a12341.html#a17457008e1262c0aed284469e55841c6", null ],
-    [ "PopulateGuids", "d7/deb/a12341.html#aab122c84eefe801ac23211ec5a41e888", null ],
-    [ "WriteDumpToFile", "d7/deb/a12341.html#a81612bfc0d161595f4de1a6133d5c46d", null ],
-    [ "WriteDumpToString", "d7/deb/a12341.html#a43d30815c9b3b2608e0fecad7bba7254", null ],
-    [ "_items", "d7/deb/a12341.html#a5da825b82a09809ded2ce2c88458cc26", null ],
-    [ "_itemSets", "d7/deb/a12341.html#a33ff3a269064d883eff84ec83c394e92", null ],
-    [ "_mails", "d7/deb/a12341.html#a2863e88ee13debe77e4b1d3d0960d18a", null ],
-    [ "_pets", "d7/deb/a12341.html#a33325b0514324020bba98364a7f59de5", null ]
+    [ "WorldUpdateTime", "d7/deb/a12341.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "d7/deb/a12341.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "d7/deb/a12341.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "d7/deb/a12341.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "d7/deb/a12341.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "d7/deb/a12341.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "d7/deb/a12341.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "d7/deb/a12341.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

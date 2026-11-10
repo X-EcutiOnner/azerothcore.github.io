@@ -1,8 +1,7 @@
 var a26741 =
 [
-    [ "CheckProc", "db/d19/a26741.html#ac3f606ee9c54ab23bdd1277594112ed1", null ],
-    [ "HandleProc", "db/d19/a26741.html#a9d6d6d752da222fd0edbb045840893fd", null ],
-    [ "PrepareAuraScript", "db/d19/a26741.html#a62a1ae18832157f00ee2eea31ff13d01", null ],
-    [ "Register", "db/d19/a26741.html#a5c417d0c4e46ebd2356f2d78ba5eee14", null ],
-    [ "Validate", "db/d19/a26741.html#a9e8a8a231ee04be353be7f0bf320776b", null ]
+    [ "CalculateSpellAmount", "db/d19/a26741.html#ae99e08e78cf8192ea2d6210432d7a72d", null ],
+    [ "CheckCast", "db/d19/a26741.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "db/d19/a26741.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "db/d19/a26741.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

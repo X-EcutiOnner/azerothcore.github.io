@@ -1,6 +1,5 @@
 var a16265 =
 [
-    [ "npc_twiggy_flatheadAI", "de/df2/a16269.html", "de/df2/a16269" ],
-    [ "npc_twiggy_flathead", "d7/dae/a16265.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
-    [ "GetAI", "d7/dae/a16265.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
+    [ "npc_steward_of_time", "d7/dae/a16265.html#ad49973464c96f44506033b73a85f6360", null ],
+    [ "OnQuestAccept", "d7/dae/a16265.html#a53d552282da49e8246089b2799fff9ca", null ]
 ];

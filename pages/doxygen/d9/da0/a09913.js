@@ -1,10 +1,8 @@
 var a09913 =
 [
-    [ "AnyPlayerInObjectRangeCheck", "d9/da0/a09913.html#ae636bd72045687920ec1d460508bc74b", null ],
-    [ "operator()", "d9/da0/a09913.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
-    [ "operator()", "d9/da0/a09913.html#a70c477213c8b271d3402857edd87ef8b", null ],
-    [ "_disallowGM", "d9/da0/a09913.html#a9c43efd575de2edfdaa0b84def91c727", null ],
-    [ "_obj", "d9/da0/a09913.html#a07a346225f675433792d2298673acd1f", null ],
-    [ "_range", "d9/da0/a09913.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
-    [ "_reqAlive", "d9/da0/a09913.html#af1e397c5033711e65d9ac5b35311e893", null ]
+    [ "CallOfHelpCreatureInRangeDo", "d9/da0/a09913.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
+    [ "operator()", "d9/da0/a09913.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
+    [ "i_enemy", "d9/da0/a09913.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
+    [ "i_funit", "d9/da0/a09913.html#aff1768cd844e4e23821cf78f9d360e06", null ],
+    [ "i_range", "d9/da0/a09913.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
 ];

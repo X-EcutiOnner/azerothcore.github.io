@@ -1,6 +1,5 @@
 var a15877 =
 [
-    [ "HandleDummy", "d5/d6a/a15877.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "d5/d6a/a15877.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "d5/d6a/a15877.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "npc_toxic_slime", "d5/d6a/a15877.html#a4c3a03916280342ec9aec07049de161f", null ],
+    [ "InitializeAI", "d5/d6a/a15877.html#ae69f228040aaa5bc4df40a652f551992", null ]
 ];

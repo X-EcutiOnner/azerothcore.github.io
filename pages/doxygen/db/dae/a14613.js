@@ -1,5 +1,6 @@
 var a14613 =
 [
-    [ "at_zulgurub_bloodfire_pit_speech", "db/dae/a14613.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
-    [ "_OnTrigger", "db/dae/a14613.html#aeb9d0e2da05a7a11ce54dbe91ca75d69", null ]
+    [ "OnEffect", "db/dae/a14613.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "db/dae/a14613.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "db/dae/a14613.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

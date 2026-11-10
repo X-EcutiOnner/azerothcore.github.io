@@ -1,8 +1,6 @@
 var a26849 =
 [
-    [ "HandleApply", "db/d32/a26849.html#aafdf3712f163919f010d11d0becb398f", null ],
-    [ "HandleRemove", "db/d32/a26849.html#ac3e33cb37d13b633f3938a48917a4975", null ],
-    [ "PrepareAuraScript", "db/d32/a26849.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
-    [ "Register", "db/d32/a26849.html#a84e7337494dc2e1772ca10dea26c675f", null ],
-    [ "Validate", "db/d32/a26849.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
+    [ "CheckEffectProc", "db/d32/a26849.html#af7756cdb71cc2acc15c56fffc49609f4", null ],
+    [ "PrepareAuraScript", "db/d32/a26849.html#a1025c7edec455f647c5c37ffebdf7576", null ],
+    [ "Register", "db/d32/a26849.html#a282d4aced8b34e5d800e13dc8e71ef7b", null ]
 ];

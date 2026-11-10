@@ -1,7 +1,6 @@
 var a16089 =
 [
-    [ "HandleDummy", "d9/db7/a16089.html#a30a87266b89021caf7d05c45397f70d1", null ],
-    [ "PrepareSpellScript", "d9/db7/a16089.html#a43a92b346088d710719722e8feed9634", null ],
-    [ "Register", "d9/db7/a16089.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
-    [ "Validate", "d9/db7/a16089.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
+    [ "npc_tiger_matriarchAI", "d8/d32/a16093.html", "d8/d32/a16093" ],
+    [ "npc_tiger_matriarch", "d9/db7/a16089.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "d9/db7/a16089.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

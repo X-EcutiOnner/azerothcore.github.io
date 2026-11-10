@@ -1,5 +1,5 @@
 var a04226 =
 [
-    [ "lookup_commandscript", "df/dba/a12622.html", "df/dba/a12622" ],
-    [ "AddSC_lookup_commandscript", "d2/d73/a04226.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
+    [ "spellinfo_commandscript", "dc/d41/a12741.html", "dc/d41/a12741" ],
+    [ "AddSC_spellinfo_commandscript", "d2/d73/a04226.html#ab9e45d5e5eb40c48734ab273bdb3be64", null ]
 ];

@@ -1,4 +1,4 @@
 var a01082 =
 [
-    [ "WorldMapScript", "df/d17/a10978.html", "df/d17/a10978" ]
+    [ "AllItemScript", "dc/d77/a10809.html", "dc/d77/a10809" ]
 ];

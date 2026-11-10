@@ -1,10 +1,8 @@
 var a27009 =
 [
-    [ "spell_pal_improved_aura", "d0/d97/a27009.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
-    [ "HandleEffectApply", "d0/d97/a27009.html#a441952100c103ccdf84c58827669faac", null ],
-    [ "HandleEffectRemove", "d0/d97/a27009.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
-    [ "PrepareAuraScript", "d0/d97/a27009.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
-    [ "Register", "d0/d97/a27009.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
-    [ "Validate", "d0/d97/a27009.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
-    [ "_spellId", "d0/d97/a27009.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
+    [ "CheckProc", "d0/d97/a27009.html#adf8318a646fab2d5794e6207e14a05d5", null ],
+    [ "HandleProc", "d0/d97/a27009.html#a09d717ce8371e15c38093cb120f7b39a", null ],
+    [ "PrepareAuraScript", "d0/d97/a27009.html#a6df6c44fbb742caf264e81d2bf73f662", null ],
+    [ "Register", "d0/d97/a27009.html#ac7fc2bff25209f4ebbc9305734a7878b", null ],
+    [ "Validate", "d0/d97/a27009.html#ab0b647863fec0fd7880cdcc506caa148", null ]
 ];

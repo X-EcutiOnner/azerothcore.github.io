@@ -1,8 +1,9 @@
 var a06517 =
 [
-    [ "BannedAddon", "de/dda/a06517.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
-    [ "Id", "de/dda/a06517.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
-    [ "NameMD5", "de/dda/a06517.html#a67c4437044d747ff9867a71967697767", null ],
-    [ "Timestamp", "de/dda/a06517.html#af62257c39a4ae1eba959086e981b0d19", null ],
-    [ "VersionMD5", "de/dda/a06517.html#acb8dbe824f71363eb81504f43a126d96", null ]
+    [ "itemId", "de/dda/a06517.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
+    [ "mailTemplate", "de/dda/a06517.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
+    [ "sender", "de/dda/a06517.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
+    [ "subject", "de/dda/a06517.html#a45644f308278529f822080f8274180d8", null ],
+    [ "text", "de/dda/a06517.html#a4d57dcb4d130552f5bf756308d79307c", null ],
+    [ "titleId", "de/dda/a06517.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
 ];

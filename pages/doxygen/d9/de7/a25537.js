@@ -1,7 +1,7 @@
 var a25537 =
 [
-    [ "HandleProc", "d9/de7/a25537.html#ac88c41bcfcedd9194d9d3f958d605d37", null ],
-    [ "PrepareAuraScript", "d9/de7/a25537.html#a66c3458e88ab5802e10445df3aeb52f6", null ],
-    [ "Register", "d9/de7/a25537.html#af02b0af51a1fece0780414ab45c8d31e", null ],
-    [ "Validate", "d9/de7/a25537.html#a9f955b53e5905cfb3742a58c8bedab96", null ]
+    [ "CheckIfLanceEquipped", "d9/de7/a25537.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
+    [ "PrepareSpellScript", "d9/de7/a25537.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
+    [ "Register", "d9/de7/a25537.html#a4421ceaedce16777f8f04b9c40855782", null ],
+    [ "Validate", "d9/de7/a25537.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
 ];

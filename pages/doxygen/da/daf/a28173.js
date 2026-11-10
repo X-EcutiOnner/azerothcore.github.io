@@ -1,5 +1,7 @@
 var a28173 =
 [
-    [ "achievement_bg_ic_glaive_grave", "da/daf/a28173.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "da/daf/a28173.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "HandleProc", "da/daf/a28173.html#a41b42a2d219904cdaf2a714d97e500f7", null ],
+    [ "PrepareAuraScript", "da/daf/a28173.html#a95c26300614ecdab588ddcc256fc1fd6", null ],
+    [ "Register", "da/daf/a28173.html#afb32150ac10ad392b63f40db05433835", null ],
+    [ "Validate", "da/daf/a28173.html#ab012775206fb6011eff8fbed293319c8", null ]
 ];

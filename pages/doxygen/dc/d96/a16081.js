@@ -1,7 +1,6 @@
 var a16081 =
 [
-    [ "HandleDummy", "dc/d96/a16081.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "dc/d96/a16081.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "dc/d96/a16081.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "dc/d96/a16081.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "npc_tiger_matriarch_creditAI", "d9/d87/a16085.html", "d9/d87/a16085" ],
+    [ "npc_tiger_matriarch_credit", "dc/d96/a16081.html#a9d76e8e808c828da501551025eecd8ea", null ],
+    [ "GetAI", "dc/d96/a16081.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
 ];

@@ -1,8 +1,10 @@
 var a24397 =
 [
-    [ "CreatureId", "de/df5/a24397.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "de/df5/a24397.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "de/df5/a24397.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "de/df5/a24397.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "de/df5/a24397.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "npc_infernal_attackerAI", "de/df5/a24397.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "de/df5/a24397.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "de/df5/a24397.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "de/df5/a24397.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "de/df5/a24397.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "de/df5/a24397.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "de/df5/a24397.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

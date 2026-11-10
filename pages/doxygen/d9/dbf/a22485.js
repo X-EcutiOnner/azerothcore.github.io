@@ -1,6 +1,6 @@
 var a22485 =
 [
-    [ "HandleScriptEffect", "d9/dbf/a22485.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "d9/dbf/a22485.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "d9/dbf/a22485.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_time_lost_proto_drakeAI", "d9/ddf/a22489.html", "d9/ddf/a22489" ],
+    [ "npc_time_lost_proto_drake", "d9/dbf/a22485.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "d9/dbf/a22485.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

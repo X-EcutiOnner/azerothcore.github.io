@@ -1,6 +1,8 @@
 var a19277 =
 [
-    [ "OnRemove", "da/daa/a19277.html#a748868eb89f1fb3ccfec5ea9f8603168", null ],
-    [ "PrepareAuraScript", "da/daa/a19277.html#a9033a0ef5963800d13b898f7c02ff7b2", null ],
-    [ "Register", "da/daa/a19277.html#a7ac0cff5f8f918e7a61bbc600419d3c3", null ]
+    [ "OnApply", "da/daa/a19277.html#ab36c99093a1659e65cd7e41524fdeeff", null ],
+    [ "OnRemove", "da/daa/a19277.html#a433df999703d10b8d5001af75e8b2c97", null ],
+    [ "PrepareAuraScript", "da/daa/a19277.html#af6c809fb292cafd052b22b345df23b7f", null ],
+    [ "Register", "da/daa/a19277.html#ad116dbd8b69a1f7e8951a170b1872d97", null ],
+    [ "Validate", "da/daa/a19277.html#a9d122f2335fdab34791e2eedff022aef", null ]
 ];

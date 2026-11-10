@@ -1,10 +1,8 @@
 var a09789 =
 [
-    [ "AnyDeadUnitObjectInRangeCheck", "df/d12/a09789.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
-    [ "operator()", "df/d12/a09789.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
-    [ "operator()", "df/d12/a09789.html#ae885f49537043421a92b44c201bec358", null ],
-    [ "operator()", "df/d12/a09789.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
-    [ "operator()", "df/d12/a09789.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
-    [ "i_range", "df/d12/a09789.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
-    [ "i_searchObj", "df/d12/a09789.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
+    [ "CreatureListSearcher", "df/d12/a09789.html#a7b16bf9b7a847a08fa6582b81b607e20", null ],
+    [ "Visit", "df/d12/a09789.html#a48c084b8fbcbf7db7c051d1aa2aff523", null ],
+    [ "Visit", "df/d12/a09789.html#a91fcbdcfb08964ebaacec8acae13476b", null ],
+    [ "i_check", "df/d12/a09789.html#a985d622243d5c7c6c91eb01377b0f91b", null ],
+    [ "i_phaseMask", "df/d12/a09789.html#a10e4e1fb5749d2b1065dd6a1245783d0", null ]
 ];

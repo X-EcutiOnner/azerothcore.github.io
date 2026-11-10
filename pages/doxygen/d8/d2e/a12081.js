@@ -1,10 +1,7 @@
 var a12081 =
 [
-    [ "Aura", "d8/d2e/a12081.html#ab87ff32c7b9d25f238245df1b646c49a", null ],
-    [ "DispelType", "d8/d2e/a12081.html#a964f9e427d50b8630ef1221914adad89", null ],
-    [ "Effect", "d8/d2e/a12081.html#a61a5bcfce9d99c09aa58fd99afb97e5c", null ],
-    [ "ImmuneAoE", "d8/d2e/a12081.html#a2b195291886ba333efd63d0edded1bb4", null ],
-    [ "ImmuneChain", "d8/d2e/a12081.html#a81a36e982f45209bfd6d1b0bad843cc1", null ],
-    [ "Mechanic", "d8/d2e/a12081.html#a01290d95abdbcf391557c7d72be05ebe", null ],
-    [ "School", "d8/d2e/a12081.html#a587a27eae3c94be00522b6b84521ed3c", null ]
+    [ "attributeMask", "d8/d2e/a12081.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "d8/d2e/a12081.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "d8/d2e/a12081.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "d8/d2e/a12081.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

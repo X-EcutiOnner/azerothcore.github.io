@@ -1,9 +1,9 @@
 var a30001 =
 [
-    [ "SetUp", "d6/da4/a30001.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
-    [ "TearDown", "d6/da4/a30001.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
-    [ "_distributor", "d6/da4/a30001.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
-    [ "_mockRewarder", "d6/da4/a30001.html#ad466c2751d8e9739db56f9f82d15deff", null ],
-    [ "_previousWorld", "d6/da4/a30001.html#aef822a2309df5d13af31ea5a5da74df7", null ],
-    [ "_worldMock", "d6/da4/a30001.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
+    [ "SetUp", "d6/da4/a30001.html#a4347f48d02c94f49010af69139906e55", null ],
+    [ "TearDown", "d6/da4/a30001.html#a9bd0ab9c01db6f9fc6538c5aad454ac1", null ],
+    [ "PERM_DANGLING", "d6/da4/a30001.html#afa69b7fc315147806018e36f01971509", null ],
+    [ "PERM_VALID", "d6/da4/a30001.html#a77dfab95ef63118a33e2c2aae57c8578", null ],
+    [ "rbacData", "d6/da4/a30001.html#a30f37bd4d7e16a92551224c524cb5ca4", null ],
+    [ "ROLE_WITH_DANGLING", "d6/da4/a30001.html#aec146baa1151e73bac2686a4b6aacc06", null ]
 ];

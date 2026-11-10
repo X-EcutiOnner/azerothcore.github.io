@@ -1,14 +1,15 @@
 var a29909 =
 [
-    [ "SetUp", "d1/dd1/a29909.html#a77eba369912e1969b3f049cb3a5c0ca4", null ],
-    [ "TearDown", "d1/dd1/a29909.html#adc8da5178618fb9742ea60920560d6ff", null ],
-    [ "PERM_ADMIN_1", "d1/dd1/a29909.html#afaa2c4b6a7112d04a95cd85143b0f4f0", null ],
-    [ "PERM_GM_1", "d1/dd1/a29909.html#a378e309848a3ee8b3f0e610572ba6124", null ],
-    [ "PERM_MOD_1", "d1/dd1/a29909.html#a05f115edd8aa321527de060f17c2e956", null ],
-    [ "PERM_PLAYER_1", "d1/dd1/a29909.html#a2c61447c90608ed3b714ba4e28efca76", null ],
-    [ "PERM_PLAYER_2", "d1/dd1/a29909.html#a31cc52a84454c48879c558f9698cd29b", null ],
-    [ "SEC_ADMINISTRATOR", "d1/dd1/a29909.html#aaddb5fa0a6d385cda760eaf92a7f59b3", null ],
-    [ "SEC_GAMEMASTER", "d1/dd1/a29909.html#ac922fc5904bb31a878f28a210b1a5740", null ],
-    [ "SEC_MODERATOR", "d1/dd1/a29909.html#a82e9196ebe8fe4f4672abe9cfbc6f163", null ],
-    [ "SEC_PLAYER", "d1/dd1/a29909.html#ad8c087c8b8503262387306039b44f09c", null ]
+    [ "MOCK_METHOD", "d1/dd1/a29909.html#ad315c9b44cd400050ba5d0ede0a6ed38", null ],
+    [ "MOCK_METHOD", "d1/dd1/a29909.html#a70f7f432cdb5248e4d7538e989d45c11", null ],
+    [ "MOCK_METHOD", "d1/dd1/a29909.html#ab1469fe474ab6290bfd8d8222392fdb1", null ],
+    [ "MOCK_METHOD", "d1/dd1/a29909.html#a72198bd1a85cc6fea8665fb7e0b19ee5", null ],
+    [ "MOCK_METHOD", "d1/dd1/a29909.html#aebca824eff5f8d2f7c210abdcdf1ed7d", null ],
+    [ "MOCK_METHOD", "d1/dd1/a29909.html#afc487e92b80c573fd5b01400204401da", null ],
+    [ "MOCK_METHOD", "d1/dd1/a29909.html#a5e71c6a07e54153dd5081af175031c18", null ],
+    [ "MOCK_METHOD", "d1/dd1/a29909.html#af6fccda3c70d3ddb643dcae31d63c205", null ],
+    [ "MOCK_METHOD", "d1/dd1/a29909.html#acccf2037a6b3dbccbadedfdcb7d4c95d", null ],
+    [ "MOCK_METHOD", "d1/dd1/a29909.html#aff433673cca191db03810f378879eae1", null ],
+    [ "MOCK_METHOD", "d1/dd1/a29909.html#a0cbd6994e0de9a0052bdcc8750881eac", null ],
+    [ "MOCK_METHOD", "d1/dd1/a29909.html#a4d624c7be7180f8c85b624e87601d659", null ]
 ];

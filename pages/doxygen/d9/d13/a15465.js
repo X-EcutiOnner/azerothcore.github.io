@@ -1,9 +1,6 @@
 var a15465 =
 [
-    [ "boss_temporus", "d9/d13/a15465.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d9/d13/a15465.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d9/d13/a15465.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d9/d13/a15465.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d9/d13/a15465.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d9/d13/a15465.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "de/d91/a15469.html", "de/d91/a15469" ],
+    [ "instance_old_hillsbrad", "d9/d13/a15465.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
+    [ "GetInstanceScript", "d9/d13/a15465.html#a1929c38b1c745b2df1ccaf462113e220", null ]
 ];

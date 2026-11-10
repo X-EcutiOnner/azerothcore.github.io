@@ -1,6 +1,8 @@
 var a19781 =
 [
-    [ "npc_teslaAI", "d0/dc0/a19785.html", "d0/dc0/a19785" ],
-    [ "npc_tesla", "de/d35/a19781.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
-    [ "GetAI", "de/d35/a19781.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
+    [ "HandleDamage", "de/d35/a19781.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "de/d35/a19781.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "de/d35/a19781.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "de/d35/a19781.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "de/d35/a19781.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

@@ -1,6 +1,6 @@
 var a27349 =
 [
-    [ "HandleDummy", "d3/dee/a27349.html#aa530b0e27c9b9ba1978a80fd4a47f68d", null ],
-    [ "PrepareSpellScript", "d3/dee/a27349.html#a22adac71d2693d17313e506f1d12532f", null ],
-    [ "Register", "d3/dee/a27349.html#a2680afcbe3d7e95404c614e2f0f93bf4", null ]
+    [ "HandleDummy", "d3/dee/a27349.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
+    [ "PrepareSpellScript", "d3/dee/a27349.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
+    [ "Register", "d3/dee/a27349.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
 ];

@@ -1,5 +1,5 @@
 var a28213 =
 [
-    [ "achievement_killed_exp_or_honor_target", "de/d25/a28213.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "de/d25/a28213.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "achievement_bg_ic_glaive_grave", "de/d25/a28213.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "de/d25/a28213.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

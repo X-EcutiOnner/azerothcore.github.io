@@ -1,21 +1,13 @@
 var a07973 =
 [
-    [ "ChannelMap", "d5/df7/a07973.html#a84c686f095464d67f750309244a47ba5", null ],
-    [ "ChannelRightsMap", "d5/df7/a07973.html#a4e153c81aede8182160b0a5ab89e5b4b", null ],
-    [ "ChannelMgr", "d5/df7/a07973.html#aa671334be6933f374466666ec5c6cc46", null ],
-    [ "~ChannelMgr", "d5/df7/a07973.html#a2f9099cf528aacae9110d349841e57a7", null ],
-    [ "forTeam", "d5/df7/a07973.html#a62fd837572c3c88d8848115c98587401", null ],
-    [ "GetChannel", "d5/df7/a07973.html#a89dbd4095eeeb79ae59947beb2d2cd17", null ],
-    [ "GetChannelRightsFor", "d5/df7/a07973.html#a418644f22226851f452e7698eab973eb", null ],
-    [ "GetChannels", "d5/df7/a07973.html#a26ffff762f0aa2d28be005fb2d914821", null ],
-    [ "GetJoinChannel", "d5/df7/a07973.html#a92540d37b38ccc032665fa220349a4ec", null ],
-    [ "LoadChannelRights", "d5/df7/a07973.html#a4fa043d2c61f5013d62b192d46bd453a", null ],
-    [ "LoadChannels", "d5/df7/a07973.html#a73e822c758aacb7f959407b100b9aff6", null ],
-    [ "MakeNotOnPacket", "d5/df7/a07973.html#ae85b95eac40037d5066efa17fb484bc5", null ],
-    [ "SetChannelRightsFor", "d5/df7/a07973.html#a17ce7f88be65f0432ab663dd264eb16e", null ],
-    [ "_channelIdMax", "d5/df7/a07973.html#a41bbe928d2e50c899a10b4b7da0e1a68", null ],
-    [ "_teamId", "d5/df7/a07973.html#a1ac5de545c0cb91088176fae883748ed", null ],
-    [ "channelRightsEmpty", "d5/df7/a07973.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9", null ],
-    [ "channels", "d5/df7/a07973.html#a823810bd463e51a0fb007712717f13dd", null ],
-    [ "channels_rights", "d5/df7/a07973.html#adfc7c2e0156b2dc290c1c0f307a6911f", null ]
+    [ "WhoListCacheMgr", "d5/df7/a07973.html#a2190c113c3d38bd316b17a4400c113e6", null ],
+    [ "~WhoListCacheMgr", "d5/df7/a07973.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
+    [ "WhoListCacheMgr", "d5/df7/a07973.html#a366e452317179d647042c24c56faafa1", null ],
+    [ "WhoListCacheMgr", "d5/df7/a07973.html#ae0358ae9260f929410f6518f89135161", null ],
+    [ "GetWhoList", "d5/df7/a07973.html#a4dec6544342fdc5052b69dcc61148453", null ],
+    [ "instance", "d5/df7/a07973.html#a1e8ce970e3213cd0361af303df98b387", null ],
+    [ "operator=", "d5/df7/a07973.html#a80615aa0a66ac29765f27598e605c712", null ],
+    [ "operator=", "d5/df7/a07973.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
+    [ "Update", "d5/df7/a07973.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
+    [ "_whoListStorage", "d5/df7/a07973.html#a75495cb910c6de65d60a5080248e1e25", null ]
 ];

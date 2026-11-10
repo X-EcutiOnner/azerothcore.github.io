@@ -1,6 +1,6 @@
 var a26413 =
 [
-    [ "OnPeriodic", "d5/df2/a26413.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
-    [ "PrepareAuraScript", "d5/df2/a26413.html#ad3d091510685ebc2d87aadb658cacf58", null ],
-    [ "Register", "d5/df2/a26413.html#a9552ba0f4c18623b6b00ababa034942c", null ]
+    [ "CheckCast", "d5/df2/a26413.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
+    [ "PrepareSpellScript", "d5/df2/a26413.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
+    [ "Register", "d5/df2/a26413.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
 ];

@@ -1,6 +1,9 @@
 var a25041 =
 [
-    [ "HandleKnockBack", "d4/dab/a25041.html#ae50d143953074b83183482770046e131", null ],
-    [ "PrepareSpellScript", "d4/dab/a25041.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
-    [ "Register", "d4/dab/a25041.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
+    [ "Absorb", "d4/dab/a25041.html#a8f6e773840274e07d685c891561f72d8", null ],
+    [ "CalculateAmount", "d4/dab/a25041.html#af337ef5d5cea283f4e43b943961838d6", null ],
+    [ "Load", "d4/dab/a25041.html#a65f51613dd3614f5b0e3e1dc938f56cf", null ],
+    [ "PrepareAuraScript", "d4/dab/a25041.html#a5c2eca05834a29fa6d5d7dd3c75e52ed", null ],
+    [ "Register", "d4/dab/a25041.html#a80982626e1b67374629cb6e0800ccaea", null ],
+    [ "absorbPct", "d4/dab/a25041.html#a7ce98d22bb4a28f94366b4c08f76b61a", null ]
 ];

@@ -1,10 +1,7 @@
 var a16649 =
 [
-    [ "npc_xerestraszaAI", "d4/d7b/a16649.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
-    [ "DoAction", "d4/d7b/a16649.html#af696ecee315892b2bf0233113d2f89f9", null ],
-    [ "Reset", "d4/d7b/a16649.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
-    [ "UpdateAI", "d4/d7b/a16649.html#a6389ab58f4b44c668590113ec75f2adf", null ],
-    [ "_events", "d4/d7b/a16649.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
-    [ "_introDone", "d4/d7b/a16649.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
-    [ "_isIntro", "d4/d7b/a16649.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
+    [ "DelayedTalk", "d4/d7b/a16649.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d4/d7b/a16649.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d4/d7b/a16649.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d4/d7b/a16649.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

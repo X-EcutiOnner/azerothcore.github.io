@@ -1,11 +1,9 @@
 var a05545 =
 [
-    [ "AuthCrypt", "d0/d57/a05545.html#a8c5239631bd6cf700059af31f04126a3", null ],
-    [ "DecryptRecv", "d0/d57/a05545.html#a552bd409afb5fcda8a11627ccb20e4b0", null ],
-    [ "EncryptSend", "d0/d57/a05545.html#a385fe62742cdbbf62725ace616a06b37", null ],
-    [ "Init", "d0/d57/a05545.html#ac76e9a59dc6bcef074e3213cecb4c7b8", null ],
-    [ "IsInitialized", "d0/d57/a05545.html#a911330ec40c0ca881af2f0c6fd6b0fef", null ],
-    [ "_clientDecrypt", "d0/d57/a05545.html#ae67fcb84288ebd120ad71bedc52086c2", null ],
-    [ "_initialized", "d0/d57/a05545.html#a99de2f8dd625cef94d70eeddefc9ac5c", null ],
-    [ "_serverEncrypt", "d0/d57/a05545.html#af30b0691f7089d52c2fbd9c5b9f52e68", null ]
+    [ "criticalOptionSeverity", "d0/d57/a05545.html#adfaae562c345965b96fa5f7c92da161e", null ],
+    [ "defaultSeverity", "d0/d57/a05545.html#a4d490930b6bbaa9c50570ff9808b1af9", null ],
+    [ "missingFileSeverity", "d0/d57/a05545.html#a8cd5da53d2cd0b5d0533741a2dcf651c", null ],
+    [ "missingOptionSeverity", "d0/d57/a05545.html#a3c64d5a1ac04533f27af53de8d688ec5", null ],
+    [ "unknownOptionSeverity", "d0/d57/a05545.html#ad41070de3cb2c7fa2916654b9e2a693e", null ],
+    [ "valueErrorSeverity", "d0/d57/a05545.html#a2c1a05a826289e1cc3f01a988718dda2", null ]
 ];

@@ -1,5 +1,6 @@
 var a17673 =
 [
-    [ "endPosition", "db/ded/a17673.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "db/ded/a17673.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "HandleEffectPeriodic", "db/ded/a17673.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
+    [ "PrepareAuraScript", "db/ded/a17673.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
+    [ "Register", "db/ded/a17673.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: WorldPackets::ClientPacket Class Reference</title>
+<title>AzerothCore: ScriptRegistry&lt; TScript &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,190 +105,350 @@ $(document).ready(function(){initNavTree('d1/d80/a11013.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
+<a href="#pri-static-methods">Static Private Member Functions</a> &#124;
+<a href="#pri-static-attribs">Static Private Attributes</a> &#124;
 <a href="../../dc/d38/a11010.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">WorldPackets::ClientPacket Class Reference</div></div>
+  <div class="headertitle"><div class="title">ScriptRegistry&lt; TScript &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Packet.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for WorldPackets::ClientPacket:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d1/d80/a11013.png" usemap="#WorldPackets::ClientPacket_map" alt=""/>
-  <map id="WorldPackets::ClientPacket_map" name="WorldPackets::ClientPacket_map">
-<area href="../../d8/d22/a11005.html" alt="WorldPackets::Packet" shape="rect" coords="0,0,372,24"/>
-<area href="../../da/d84/a11017.html" alt="WorldPackets::Bank::AutoBankItem" shape="rect" coords="382,112,754,136"/>
-<area href="../../df/d3b/a11021.html" alt="WorldPackets::Bank::AutoStoreBankItem" shape="rect" coords="382,168,754,192"/>
-<area href="../../d0/d60/a11025.html" alt="WorldPackets::Bank::BuyBankSlot" shape="rect" coords="382,224,754,248"/>
-<area href="../../d4/dcb/a11045.html" alt="WorldPackets::Calendar::ArenaTeam" shape="rect" coords="382,280,754,304"/>
-<area href="../../de/d67/a11049.html" alt="WorldPackets::Calendar::CalendarComplain" shape="rect" coords="382,336,754,360"/>
-<area href="../../df/d0a/a11037.html" alt="WorldPackets::Calendar::GetEvent" shape="rect" coords="382,392,754,416"/>
-<area href="../../db/d3b/a11041.html" alt="WorldPackets::Calendar::GuildFilter" shape="rect" coords="382,448,754,472"/>
-<area href="../../d2/d1e/a11073.html" alt="WorldPackets::Character::LogoutCancel" shape="rect" coords="382,504,754,528"/>
-<area href="../../db/d13/a11061.html" alt="WorldPackets::Character::LogoutRequest" shape="rect" coords="382,560,754,584"/>
-<area href="../../d3/d0d/a11085.html" alt="WorldPackets::Character::PlayedTimeClient" shape="rect" coords="382,616,754,640"/>
-<area href="../../dd/dcd/a11081.html" alt="WorldPackets::Character::PlayerLogout" shape="rect" coords="382,672,754,696"/>
-<area href="../../da/dc2/a11053.html" alt="WorldPackets::Character::ShowingCloak" shape="rect" coords="382,728,754,752"/>
-<area href="../../de/d34/a11057.html" alt="WorldPackets::Character::ShowingHelm" shape="rect" coords="382,784,754,808"/>
-<area href="../../dd/d7a/a11097.html" alt="WorldPackets::Chat::EmoteClient" shape="rect" coords="382,840,754,864"/>
-<area href="../../d8/d94/a11109.html" alt="WorldPackets::Combat::SetSheathed" shape="rect" coords="382,896,754,920"/>
-<area href="../../d2/dc1/a11165.html" alt="WorldPackets::Guild::AcceptGuildInvite" shape="rect" coords="382,952,754,976"/>
-<area href="../../da/dfa/a11213.html" alt="WorldPackets::Guild::GuildAddRank" shape="rect" coords="382,1008,754,1032"/>
-<area href="../../d6/df7/a11249.html" alt="WorldPackets::Guild::GuildBankActivate" shape="rect" coords="382,1064,754,1088"/>
-<area href="../../db/d84/a11253.html" alt="WorldPackets::Guild::GuildBankBuyTab" shape="rect" coords="382,1120,754,1144"/>
-<area href="../../d7/dd1/a11261.html" alt="WorldPackets::Guild::GuildBankDepositMoney" shape="rect" coords="382,1176,754,1200"/>
-<area href="../../d8/d35/a11301.html" alt="WorldPackets::Guild::GuildBankLogQuery" shape="rect" coords="382,1232,754,1256"/>
-<area href="../../d7/d23/a11265.html" alt="WorldPackets::Guild::GuildBankQueryTab" shape="rect" coords="382,1288,754,1312"/>
-<area href="../../dc/d13/a11269.html" alt="WorldPackets::Guild::GuildBankRemainingWithdrawMoneyQuery" shape="rect" coords="382,1344,754,1368"/>
-<area href="../../d8/d11/a11321.html" alt="WorldPackets::Guild::GuildBankSetTabText" shape="rect" coords="382,1400,754,1424"/>
-<area href="../../df/db3/a11297.html" alt="WorldPackets::Guild::GuildBankSwapItems" shape="rect" coords="382,1456,754,1480"/>
-<area href="../../d4/d21/a11313.html" alt="WorldPackets::Guild::GuildBankTextQuery" shape="rect" coords="382,1512,754,1536"/>
-<area href="../../dc/d9d/a11257.html" alt="WorldPackets::Guild::GuildBankUpdateTab" shape="rect" coords="382,1568,754,1592"/>
-<area href="../../d7/dd9/a11277.html" alt="WorldPackets::Guild::GuildBankWithdrawMoney" shape="rect" coords="382,1624,754,1648"/>
-<area href="../../d8/d80/a11129.html" alt="WorldPackets::Guild::GuildCreate" shape="rect" coords="382,1680,754,1704"/>
-<area href="../../d6/d4d/a11169.html" alt="WorldPackets::Guild::GuildDeclineInvitation" shape="rect" coords="382,1736,754,1760"/>
-<area href="../../de/db7/a11229.html" alt="WorldPackets::Guild::GuildDelete" shape="rect" coords="382,1792,754,1816"/>
-<area href="../../d2/d8f/a11217.html" alt="WorldPackets::Guild::GuildDeleteRank" shape="rect" coords="382,1848,754,1872"/>
-<area href="../../de/d8f/a11233.html" alt="WorldPackets::Guild::GuildDemoteMember" shape="rect" coords="382,1904,754,1928"/>
-<area href="../../db/d06/a11189.html" alt="WorldPackets::Guild::GuildEventLogQuery" shape="rect" coords="382,1960,754,1984"/>
-<area href="../../d0/d2b/a11133.html" alt="WorldPackets::Guild::GuildGetInfo" shape="rect" coords="382,2016,754,2040"/>
-<area href="../../d7/dfb/a11141.html" alt="WorldPackets::Guild::GuildGetRoster" shape="rect" coords="382,2072,754,2096"/>
-<area href="../../d8/d76/a11173.html" alt="WorldPackets::Guild::GuildInviteByName" shape="rect" coords="382,2128,754,2152"/>
-<area href="../../d2/d49/a11245.html" alt="WorldPackets::Guild::GuildLeave" shape="rect" coords="382,2184,754,2208"/>
-<area href="../../d7/dbf/a11241.html" alt="WorldPackets::Guild::GuildOfficerRemoveMember" shape="rect" coords="382,2240,754,2264"/>
-<area href="../../da/d24/a11197.html" alt="WorldPackets::Guild::GuildPermissionsQuery" shape="rect" coords="382,2296,754,2320"/>
-<area href="../../d3/daf/a11237.html" alt="WorldPackets::Guild::GuildPromoteMember" shape="rect" coords="382,2352,754,2376"/>
-<area href="../../d9/d58/a11325.html" alt="WorldPackets::Guild::GuildSetGuildMaster" shape="rect" coords="382,2408,754,2432"/>
-<area href="../../d1/ddc/a11225.html" alt="WorldPackets::Guild::GuildSetMemberNote" shape="rect" coords="382,2464,754,2488"/>
-<area href="../../d6/d41/a11209.html" alt="WorldPackets::Guild::GuildSetRankPermissions" shape="rect" coords="382,2520,754,2544"/>
-<area href="../../d8/dbb/a11221.html" alt="WorldPackets::Guild::GuildUpdateInfoText" shape="rect" coords="382,2576,754,2600"/>
-<area href="../../df/d9b/a11157.html" alt="WorldPackets::Guild::GuildUpdateMotdText" shape="rect" coords="382,2632,754,2656"/>
-<area href="../../da/d0c/a11117.html" alt="WorldPackets::Guild::QueryGuildInfo" shape="rect" coords="382,2688,754,2712"/>
-<area href="../../d4/d5b/a11329.html" alt="WorldPackets::Guild::SaveGuildEmblem" shape="rect" coords="382,2744,754,2768"/>
-<area href="../../df/d07/a11369.html" alt="WorldPackets::Instance::InstanceLockResponse" shape="rect" coords="382,2800,754,2824"/>
-<area href="../../db/dbd/a11365.html" alt="WorldPackets::Instance::ResetInstances" shape="rect" coords="382,2856,754,2880"/>
-<area href="../../de/d3e/a11349.html" alt="WorldPackets::Instance::SetDungeonDifficultyClient" shape="rect" coords="382,2912,754,2936"/>
-<area href="../../d3/d97/a11361.html" alt="WorldPackets::Instance::SetRaidDifficultyClient" shape="rect" coords="382,2968,754,2992"/>
-<area href="../../d2/dbf/a11389.html" alt="WorldPackets::Item::AutoEquipItem" shape="rect" coords="382,3024,754,3048"/>
-<area href="../../d2/d50/a11381.html" alt="WorldPackets::Item::AutoEquipItemSlot" shape="rect" coords="382,3080,754,3104"/>
-<area href="../../d7/d62/a11421.html" alt="WorldPackets::Item::AutoStoreBagItem" shape="rect" coords="382,3136,754,3160"/>
-<area href="../../d2/d2d/a11413.html" alt="WorldPackets::Item::BuyItem" shape="rect" coords="382,3192,754,3216"/>
-<area href="../../d0/da2/a11409.html" alt="WorldPackets::Item::BuyItemInSlot" shape="rect" coords="382,3248,754,3272"/>
-<area href="../../d6/d5e/a11405.html" alt="WorldPackets::Item::BuybackItem" shape="rect" coords="382,3304,754,3328"/>
-<area href="../../dd/d72/a11441.html" alt="WorldPackets::Item::CancelTempEnchantment" shape="rect" coords="382,3360,754,3384"/>
-<area href="../../d7/d3b/a11393.html" alt="WorldPackets::Item::DestroyItem" shape="rect" coords="382,3416,754,3440"/>
-<area href="../../d5/d33/a11449.html" alt="WorldPackets::Item::ItemRefund" shape="rect" coords="382,3472,754,3496"/>
-<area href="../../d0/d81/a11445.html" alt="WorldPackets::Item::ItemRefundInfo" shape="rect" coords="382,3528,754,3552"/>
-<area href="../../d6/d2e/a11417.html" alt="WorldPackets::Item::ListInventory" shape="rect" coords="382,3584,754,3608"/>
-<area href="../../d6/d22/a11397.html" alt="WorldPackets::Item::ReadItem" shape="rect" coords="382,3640,754,3664"/>
-<area href="../../d5/dc9/a11401.html" alt="WorldPackets::Item::SellItem" shape="rect" coords="382,3696,754,3720"/>
-<area href="../../d8/dad/a11437.html" alt="WorldPackets::Item::SocketGems" shape="rect" coords="382,3752,754,3776"/>
-<area href="../../d0/d5e/a11373.html" alt="WorldPackets::Item::SplitItem" shape="rect" coords="382,3808,754,3832"/>
-<area href="../../da/da4/a11377.html" alt="WorldPackets::Item::SwapInventoryItem" shape="rect" coords="382,3864,754,3888"/>
-<area href="../../d9/dab/a11385.html" alt="WorldPackets::Item::SwapItem" shape="rect" coords="382,3920,754,3944"/>
-<area href="../../d5/d8a/a11433.html" alt="WorldPackets::Item::WrapItem" shape="rect" coords="382,3976,754,4000"/>
-<area href="../../d5/d88/a11453.html" alt="WorldPackets::LFG::LFGJoin" shape="rect" coords="382,4032,754,4056"/>
-<area href="../../d8/d5d/a11457.html" alt="WorldPackets::LFG::LFGLeave" shape="rect" coords="382,4088,754,4112"/>
-<area href="../../d5/dc5/a11521.html" alt="WorldPackets::Misc::Complain" shape="rect" coords="382,4144,754,4168"/>
-<area href="../../db/d9c/a11481.html" alt="WorldPackets::Misc::MinimapPingClient" shape="rect" coords="382,4200,754,4224"/>
-<area href="../../d7/d8b/a11489.html" alt="WorldPackets::Misc::RandomRollClient" shape="rect" coords="382,4256,754,4280"/>
-<area href="../../dd/de2/a11533.html" alt="WorldPackets::NPC::Hello" shape="rect" coords="382,4312,754,4336"/>
-<area href="../../dd/d2f/a11545.html" alt="WorldPackets::NPC::TrainerBuySpell" shape="rect" coords="382,4368,754,4392"/>
-<area href="../../d6/d63/a11613.html" alt="WorldPackets::Pet::DismissCritter" shape="rect" coords="382,4424,754,4448"/>
-<area href="../../d3/dfa/a11617.html" alt="WorldPackets::Pet::PetAbandon" shape="rect" coords="382,4480,754,4504"/>
-<area href="../../d0/ddc/a11625.html" alt="WorldPackets::Pet::PetSpellAutocast" shape="rect" coords="382,4536,754,4560"/>
-<area href="../../d5/d5d/a11621.html" alt="WorldPackets::Pet::PetStopAttack" shape="rect" coords="382,4592,754,4616"/>
-<area href="../../db/d17/a11637.html" alt="WorldPackets::Pet::RequestPetInfo" shape="rect" coords="382,4648,754,4672"/>
-<area href="../../d4/dc3/a11665.html" alt="WorldPackets::Query::CorpseMapPositionQuery" shape="rect" coords="382,4704,754,4728"/>
-<area href="../../d7/da4/a11649.html" alt="WorldPackets::Query::NameQuery" shape="rect" coords="382,4760,754,4784"/>
-<area href="../../d7/d8b/a11657.html" alt="WorldPackets::Query::TimeQuery" shape="rect" coords="382,4816,754,4840"/>
-<area href="../../dc/df8/a11733.html" alt="WorldPackets::Quest::PushQuestToParty" shape="rect" coords="382,4872,754,4896"/>
-<area href="../../d5/df9/a11729.html" alt="WorldPackets::Quest::QuestConfirmAcceptClient" shape="rect" coords="382,4928,754,4952"/>
-<area href="../../d7/d93/a11717.html" alt="WorldPackets::Quest::QuestGiverQuestAutoLaunch" shape="rect" coords="382,4984,754,5008"/>
-<area href="../../d9/dad/a11725.html" alt="WorldPackets::Quest::QuestLogRemoveQuest" shape="rect" coords="382,5040,754,5064"/>
-<area href="../../da/dae/a11721.html" alt="WorldPackets::Quest::QuestLogSwapQuest" shape="rect" coords="382,5096,754,5120"/>
-<area href="../../d7/d64/a11713.html" alt="WorldPackets::Quest::QuestPushResultClient" shape="rect" coords="382,5152,754,5176"/>
-<area href="../../dc/db6/a11737.html" alt="WorldPackets::Totem::TotemDestroyed" shape="rect" coords="382,5208,754,5232"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:aa1d1946c07e248bae5927e83fdad9500"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#aa1d1946c07e248bae5927e83fdad9500">ClientPacket</a> (<a class="el" href="../../d3/da3/a11809.html">WorldPacket</a> &amp;&amp;packet)</td></tr>
-<tr class="separator:aa1d1946c07e248bae5927e83fdad9500"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1cdaaacca2695c4366647c7611073ff0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#a1cdaaacca2695c4366647c7611073ff0">ClientPacket</a> (<a class="el" href="../../d5/d87/a05118.html#ga1073b6abb3a749f18bf1633020879e9b">OpcodeClient</a> expectedOpcode, <a class="el" href="../../d3/da3/a11809.html">WorldPacket</a> &amp;&amp;packet)</td></tr>
-<tr class="separator:a1cdaaacca2695c4366647c7611073ff0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a16e5b9fa05e35fa1e32e33bef2688487"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/da3/a11809.html">WorldPacket</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#a16e5b9fa05e35fa1e32e33bef2688487">Write</a> () final</td></tr>
-<tr class="separator:a16e5b9fa05e35fa1e32e33bef2688487"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa51558bb8faa96a665fe40b1bddf9d14"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d87/a05118.html#ga1073b6abb3a749f18bf1633020879e9b">OpcodeClient</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#aa51558bb8faa96a665fe40b1bddf9d14">GetOpcode</a> () const</td></tr>
-<tr class="separator:aa51558bb8faa96a665fe40b1bddf9d14"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a11005"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11005')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d8/d22/a11005.html">WorldPackets::Packet</a></td></tr>
-<tr class="memitem:a316af2b7ce1ac7189fb1e57f534bad11 inherit pub_methods_a11005"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d22/a11005.html#a316af2b7ce1ac7189fb1e57f534bad11">Packet</a> (<a class="el" href="../../d3/da3/a11809.html">WorldPacket</a> &amp;&amp;worldPacket)</td></tr>
-<tr class="separator:a316af2b7ce1ac7189fb1e57f534bad11 inherit pub_methods_a11005"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2ca1e6377bb2fb10bf042311e72eb5d4 inherit pub_methods_a11005"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d22/a11005.html#a2ca1e6377bb2fb10bf042311e72eb5d4">~Packet</a> ()=default</td></tr>
-<tr class="separator:a2ca1e6377bb2fb10bf042311e72eb5d4 inherit pub_methods_a11005"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a00213b64110a99004b3d9a6b38876cd4 inherit pub_methods_a11005"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d22/a11005.html#a00213b64110a99004b3d9a6b38876cd4">Packet</a> (<a class="el" href="../../d8/d22/a11005.html">Packet</a> const &amp;right)=delete</td></tr>
-<tr class="separator:a00213b64110a99004b3d9a6b38876cd4 inherit pub_methods_a11005"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6d2afd0d4b0d7daff11868854b7c4715 inherit pub_methods_a11005"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d22/a11005.html">Packet</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d22/a11005.html#a6d2afd0d4b0d7daff11868854b7c4715">operator=</a> (<a class="el" href="../../d8/d22/a11005.html">Packet</a> const &amp;right)=delete</td></tr>
-<tr class="separator:a6d2afd0d4b0d7daff11868854b7c4715 inherit pub_methods_a11005"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af7c79156d7b6cfe3142fc530f9ed262a inherit pub_methods_a11005"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d3/da3/a11809.html">WorldPacket</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d22/a11005.html#af7c79156d7b6cfe3142fc530f9ed262a">Write</a> ()=0</td></tr>
-<tr class="separator:af7c79156d7b6cfe3142fc530f9ed262a inherit pub_methods_a11005"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94afc4d66c2b5bced3063bab5a666bfd inherit pub_methods_a11005"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d22/a11005.html#a94afc4d66c2b5bced3063bab5a666bfd">Read</a> ()=0</td></tr>
-<tr class="separator:a94afc4d66c2b5bced3063bab5a666bfd inherit pub_methods_a11005"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9d8649e1b035fe7387dcee3e0b062a5e inherit pub_methods_a11005"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/da3/a11809.html">WorldPacket</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d22/a11005.html#a9d8649e1b035fe7387dcee3e0b062a5e">GetRawPacket</a> () const</td></tr>
-<tr class="separator:a9d8649e1b035fe7387dcee3e0b062a5e inherit pub_methods_a11005"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a08eb4c40f49c0d4e7f17a6dc1df2fe6a inherit pub_methods_a11005"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d22/a11005.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a">GetSize</a> () const</td></tr>
-<tr class="separator:a08eb4c40f49c0d4e7f17a6dc1df2fe6a inherit pub_methods_a11005"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a0f8009ac0cd91574f0bf4ac92ef90ce0"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, TScript * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#a0f8009ac0cd91574f0bf4ac92ef90ce0">ScriptMap</a></td></tr>
+<tr class="separator:a0f8009ac0cd91574f0bf4ac92ef90ce0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad1fcde41ec854314c5e1cc50b916ac5d"><td class="memItemLeft" align="right" valign="top">typedef ScriptMap::iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#ad1fcde41ec854314c5e1cc50b916ac5d">ScriptMapIterator</a></td></tr>
+<tr class="separator:ad1fcde41ec854314c5e1cc50b916ac5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf04ad36ed630be4499f0be2d53016a9"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; std::pair&lt; TScript *, std::vector&lt; <a class="el" href="../../d8/d2d/a00815.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt; &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#abf04ad36ed630be4499f0be2d53016a9">ScriptVector</a></td></tr>
+<tr class="separator:abf04ad36ed630be4499f0be2d53016a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac0554c5200368592f5d0bfb1025935fe"><td class="memItemLeft" align="right" valign="top">typedef ScriptVector::iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#ac0554c5200368592f5d0bfb1025935fe">ScriptVectorIterator</a></td></tr>
+<tr class="separator:ac0554c5200368592f5d0bfb1025935fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9d98df16d3857ca556acda331064063"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; std::vector&lt; TScript * &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#ac9d98df16d3857ca556acda331064063">EnabledHooksVector</a></td></tr>
+<tr class="separator:ac9d98df16d3857ca556acda331064063"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a575c2a2974f9e002a8a3bb1b858a2912"><td class="memItemLeft" align="right" valign="top">typedef EnabledHooksVector::iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#a575c2a2974f9e002a8a3bb1b858a2912">EnabledHooksVectorIterator</a></td></tr>
+<tr class="separator:a575c2a2974f9e002a8a3bb1b858a2912"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
-Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pro_attribs_a11005"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a11005')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../d8/d22/a11005.html">WorldPackets::Packet</a></td></tr>
-<tr class="memitem:ab85f1c9f20117bc5015180165c7b458a inherit pro_attribs_a11005"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/da3/a11809.html">WorldPacket</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d22/a11005.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a></td></tr>
-<tr class="separator:ab85f1c9f20117bc5015180165c7b458a inherit pro_attribs_a11005"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a44238d9b122f50192b989b1efe2107bd"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#a44238d9b122f50192b989b1efe2107bd">InitEnabledHooksIfNeeded</a> (<a class="el" href="../../d8/d2d/a00815.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks)</td></tr>
+<tr class="separator:a44238d9b122f50192b989b1efe2107bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a25c0e3b90f6af4563baf0e7a1c0622"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#a4a25c0e3b90f6af4563baf0e7a1c0622">AddScript</a> (TScript *const script, std::vector&lt; <a class="el" href="../../d8/d2d/a00815.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt; enabledHooks={})</td></tr>
+<tr class="separator:a4a25c0e3b90f6af4563baf0e7a1c0622"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa86b74a2560deae81f5c2a38cf1f72c8"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#aa86b74a2560deae81f5c2a38cf1f72c8">AddALScripts</a> ()</td></tr>
+<tr class="separator:aa86b74a2560deae81f5c2a38cf1f72c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aea1f4b1a1e5c0bb83160732833580b1d"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#aea1f4b1a1e5c0bb83160732833580b1d">Unload</a> ()</td></tr>
+<tr class="separator:aea1f4b1a1e5c0bb83160732833580b1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22226c545e7975d4c612e7adcc766d05"><td class="memItemLeft" align="right" valign="top">static TScript *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#a22226c545e7975d4c612e7adcc766d05">GetScriptById</a> (<a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id)</td></tr>
+<tr class="separator:a22226c545e7975d4c612e7adcc766d05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
+Static Public Attributes</h2></td></tr>
+<tr class="memitem:a57e93b2fa2db2a29fa4c12714e217d43"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d1/d80/a11013.html#a0f8009ac0cd91574f0bf4ac92ef90ce0">ScriptMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#a57e93b2fa2db2a29fa4c12714e217d43">ScriptPointerList</a></td></tr>
+<tr class="separator:a57e93b2fa2db2a29fa4c12714e217d43"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac67b828a489c483ceaaa745b2dd7ef57"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d1/d80/a11013.html#abf04ad36ed630be4499f0be2d53016a9">ScriptVector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#ac67b828a489c483ceaaa745b2dd7ef57">ALScripts</a></td></tr>
+<tr class="separator:ac67b828a489c483ceaaa745b2dd7ef57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4274e01ddb2659f125970b97014da00e"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d1/d80/a11013.html#ac9d98df16d3857ca556acda331064063">EnabledHooksVector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#a4274e01ddb2659f125970b97014da00e">EnabledHooks</a></td></tr>
+<tr class="separator:a4274e01ddb2659f125970b97014da00e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-methods" name="pri-static-methods"></a>
+Static Private Member Functions</h2></td></tr>
+<tr class="memitem:a8d784f25a47c9ca4be72fca0215bf1c8"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#a8d784f25a47c9ca4be72fca0215bf1c8">_checkMemory</a> (TScript *const script)</td></tr>
+<tr class="separator:a8d784f25a47c9ca4be72fca0215bf1c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-attribs" name="pri-static-attribs"></a>
+Static Private Attributes</h2></td></tr>
+<tr class="memitem:aa66e44e9291be980d12f4167f699c680"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a11013.html#aa66e44e9291be980d12f4167f699c680">_scriptIdCounter</a> = 0</td></tr>
+<tr class="separator:aa66e44e9291be980d12f4167f699c680"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aa1d1946c07e248bae5927e83fdad9500" name="aa1d1946c07e248bae5927e83fdad9500"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa1d1946c07e248bae5927e83fdad9500">&#9670;&#160;</a></span>ClientPacket() <span class="overload">[1/2]</span></h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;class TScript&gt;<br />
+class ScriptRegistry&lt; TScript &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="ac9d98df16d3857ca556acda331064063" name="ac9d98df16d3857ca556acda331064063"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac9d98df16d3857ca556acda331064063">&#9670;&#160;</a></span>EnabledHooksVector</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">WorldPackets::ClientPacket::ClientPacket </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/da3/a11809.html">WorldPacket</a> &amp;&amp;&#160;</td>
-          <td class="paramname"><em>packet</em></td><td>)</td>
-          <td></td>
+          <td class="memname">typedef std::vector&lt;std::vector&lt;TScript*&gt; &gt; <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::EnabledHooksVector</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   40</span>    : <a class="code hl_function" href="../../d8/d22/a11005.html#a316af2b7ce1ac7189fb1e57f534bad11">Packet</a>(std::move(packet))</div>
-<div class="line"><span class="lineno">   41</span>{</div>
-<div class="line"><span class="lineno">   42</span>}</div>
-<div class="ttc" id="aa11005_html_a316af2b7ce1ac7189fb1e57f534bad11"><div class="ttname"><a href="../../d8/d22/a11005.html#a316af2b7ce1ac7189fb1e57f534bad11">WorldPackets::Packet::Packet</a></div><div class="ttdeci">Packet(WorldPacket &amp;&amp;worldPacket)</div><div class="ttdef"><b>Definition:</b> Packet.cpp:21</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
-<a id="a1cdaaacca2695c4366647c7611073ff0" name="a1cdaaacca2695c4366647c7611073ff0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1cdaaacca2695c4366647c7611073ff0">&#9670;&#160;</a></span>ClientPacket() <span class="overload">[2/2]</span></h2>
+<a id="a575c2a2974f9e002a8a3bb1b858a2912" name="a575c2a2974f9e002a8a3bb1b858a2912"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a575c2a2974f9e002a8a3bb1b858a2912">&#9670;&#160;</a></span>EnabledHooksVectorIterator</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">WorldPackets::ClientPacket::ClientPacket </td>
+          <td class="memname">typedef EnabledHooksVector::iterator <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::EnabledHooksVectorIterator</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0f8009ac0cd91574f0bf4ac92ef90ce0" name="a0f8009ac0cd91574f0bf4ac92ef90ce0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f8009ac0cd91574f0bf4ac92ef90ce0">&#9670;&#160;</a></span>ScriptMap</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, TScript*&gt; <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;<a class="el" href="../../dd/d08/a01682.html#a260daf2379f66c27770f8fdc2e527bce">::ScriptMap</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad1fcde41ec854314c5e1cc50b916ac5d" name="ad1fcde41ec854314c5e1cc50b916ac5d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad1fcde41ec854314c5e1cc50b916ac5d">&#9670;&#160;</a></span>ScriptMapIterator</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef ScriptMap::iterator <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::ScriptMapIterator</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abf04ad36ed630be4499f0be2d53016a9" name="abf04ad36ed630be4499f0be2d53016a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abf04ad36ed630be4499f0be2d53016a9">&#9670;&#160;</a></span>ScriptVector</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::vector&lt;std::pair&lt;TScript*,std::vector&lt;<a class="el" href="../../d8/d2d/a00815.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt; &gt; &gt; <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::ScriptVector</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac0554c5200368592f5d0bfb1025935fe" name="ac0554c5200368592f5d0bfb1025935fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac0554c5200368592f5d0bfb1025935fe">&#9670;&#160;</a></span>ScriptVectorIterator</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef ScriptVector::iterator <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::ScriptVectorIterator</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a8d784f25a47c9ca4be72fca0215bf1c8" name="a8d784f25a47c9ca4be72fca0215bf1c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8d784f25a47c9ca4be72fca0215bf1c8">&#9670;&#160;</a></span>_checkMemory()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::_checkMemory </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d87/a05118.html#ga1073b6abb3a749f18bf1633020879e9b">OpcodeClient</a>&#160;</td>
-          <td class="paramname"><em>expectedOpcode</em>, </td>
+          <td class="paramtype">TScript *const&#160;</td>
+          <td class="paramname"><em>script</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  929</span>    {</div>
+<div class="line"><span class="lineno">  930</span>        <span class="comment">// See if the script is using the same memory as another script. If this happens, it means that</span></div>
+<div class="line"><span class="lineno">  931</span>        <span class="comment">// someone forgot to allocate new memory for a script.</span></div>
+<div class="line"><span class="lineno">  932</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d1/d80/a11013.html#ad1fcde41ec854314c5e1cc50b916ac5d">ScriptMapIterator</a> it = <a class="code hl_variable" href="../../d1/d80/a11013.html#a57e93b2fa2db2a29fa4c12714e217d43">ScriptPointerList</a>.begin(); it != <a class="code hl_variable" href="../../d1/d80/a11013.html#a57e93b2fa2db2a29fa4c12714e217d43">ScriptPointerList</a>.end(); ++it)</div>
+<div class="line"><span class="lineno">  933</span>        {</div>
+<div class="line"><span class="lineno">  934</span>            <span class="keywordflow">if</span> (it-&gt;second == script)</div>
+<div class="line"><span class="lineno">  935</span>            {</div>
+<div class="line"><span class="lineno">  936</span>                <a class="code hl_define" href="../../d4/dfa/a00746.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;scripts&quot;</span>, <span class="stringliteral">&quot;Script &#39;{}&#39; has same memory pointer as &#39;{}&#39;.&quot;</span>,</div>
+<div class="line"><span class="lineno">  937</span>                               script-&gt;GetName(), it-&gt;second-&gt;GetName());</div>
+<div class="line"><span class="lineno">  938</span> </div>
+<div class="line"><span class="lineno">  939</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  940</span>            }</div>
+<div class="line"><span class="lineno">  941</span>        }</div>
+<div class="line"><span class="lineno">  942</span> </div>
+<div class="line"><span class="lineno">  943</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  944</span>    }</div>
+<div class="ttc" id="aa00746_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d4/dfa/a00746.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:145</div></div>
+<div class="ttc" id="aa11013_html_a57e93b2fa2db2a29fa4c12714e217d43"><div class="ttname"><a href="../../d1/d80/a11013.html#a57e93b2fa2db2a29fa4c12714e217d43">ScriptRegistry::ScriptPointerList</a></div><div class="ttdeci">static ScriptMap ScriptPointerList</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:786</div></div>
+<div class="ttc" id="aa11013_html_ad1fcde41ec854314c5e1cc50b916ac5d"><div class="ttname"><a href="../../d1/d80/a11013.html#ad1fcde41ec854314c5e1cc50b916ac5d">ScriptRegistry::ScriptMapIterator</a></div><div class="ttdeci">ScriptMap::iterator ScriptMapIterator</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:776</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00145">LOG_ERROR</a>, and <a class="el" href="../../#l00786">ScriptRegistry&lt; TScript &gt;::ScriptPointerList</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00825">ScriptRegistry&lt; TScript &gt;::AddALScripts()</a>.</p>
+
+</div>
+</div>
+<a id="aa86b74a2560deae81f5c2a38cf1f72c8" name="aa86b74a2560deae81f5c2a38cf1f72c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa86b74a2560deae81f5c2a38cf1f72c8">&#9670;&#160;</a></span>AddALScripts()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::AddALScripts </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  826</span>    {</div>
+<div class="line"><span class="lineno">  827</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d1/d80/a11013.html#ac0554c5200368592f5d0bfb1025935fe">ScriptVectorIterator</a> it = <a class="code hl_variable" href="../../d1/d80/a11013.html#ac67b828a489c483ceaaa745b2dd7ef57">ALScripts</a>.begin(); it != <a class="code hl_variable" href="../../d1/d80/a11013.html#ac67b828a489c483ceaaa745b2dd7ef57">ALScripts</a>.end(); ++it)</div>
+<div class="line"><span class="lineno">  828</span>        {</div>
+<div class="line"><span class="lineno">  829</span>            TScript* <span class="keyword">const</span> script = (*it).first;</div>
+<div class="line"><span class="lineno">  830</span> </div>
+<div class="line"><span class="lineno">  831</span>            script-&gt;checkValidity();</div>
+<div class="line"><span class="lineno">  832</span> </div>
+<div class="line"><span class="lineno">  833</span>            <span class="keywordflow">if</span> (script-&gt;IsDatabaseBound())</div>
+<div class="line"><span class="lineno">  834</span>            {</div>
+<div class="line"><span class="lineno">  835</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d1/d80/a11013.html#a8d784f25a47c9ca4be72fca0215bf1c8">_checkMemory</a>(script))</div>
+<div class="line"><span class="lineno">  836</span>                {</div>
+<div class="line"><span class="lineno">  837</span>                    <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  838</span>                }</div>
+<div class="line"><span class="lineno">  839</span> </div>
+<div class="line"><span class="lineno">  840</span>                <span class="comment">// Get an ID for the script. An ID only exists if it&#39;s a script that is assigned in the database</span></div>
+<div class="line"><span class="lineno">  841</span>                <span class="comment">// through a script name (or similar).</span></div>
+<div class="line"><span class="lineno">  842</span>                <a class="code hl_typedef" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keywordtype">id</span> = <a class="code hl_define" href="../../dd/d08/a01682.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetScriptId(script-&gt;GetName().c_str());</div>
+<div class="line"><span class="lineno">  843</span>                <span class="keywordflow">if</span> (<span class="keywordtype">id</span>)</div>
+<div class="line"><span class="lineno">  844</span>                {</div>
+<div class="line"><span class="lineno">  845</span>                    <span class="comment">// Try to find an existing script.</span></div>
+<div class="line"><span class="lineno">  846</span>                    TScript <span class="keyword">const</span>* oldScript = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  847</span>                    <span class="keywordflow">for</span> (<span class="keyword">auto</span> iterator = <a class="code hl_variable" href="../../d1/d80/a11013.html#a57e93b2fa2db2a29fa4c12714e217d43">ScriptPointerList</a>.begin(); iterator != <a class="code hl_variable" href="../../d1/d80/a11013.html#a57e93b2fa2db2a29fa4c12714e217d43">ScriptPointerList</a>.end(); ++iterator)</div>
+<div class="line"><span class="lineno">  848</span>                    {</div>
+<div class="line"><span class="lineno">  849</span>                        <span class="comment">// If the script names match...</span></div>
+<div class="line"><span class="lineno">  850</span>                        <span class="keywordflow">if</span> (iterator-&gt;second-&gt;GetName() == script-&gt;GetName())</div>
+<div class="line"><span class="lineno">  851</span>                        {</div>
+<div class="line"><span class="lineno">  852</span>                            <span class="comment">// ... It exists.</span></div>
+<div class="line"><span class="lineno">  853</span>                            oldScript = iterator-&gt;second;</div>
+<div class="line"><span class="lineno">  854</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  855</span>                        }</div>
+<div class="line"><span class="lineno">  856</span>                    }</div>
+<div class="line"><span class="lineno">  857</span> </div>
+<div class="line"><span class="lineno">  858</span>                    <span class="comment">// If the script is already assigned -&gt; delete it!</span></div>
+<div class="line"><span class="lineno">  859</span>                    <span class="keywordflow">if</span> (oldScript)</div>
+<div class="line"><span class="lineno">  860</span>                    {</div>
+<div class="line"><span class="lineno">  861</span>                        <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; vIt : <a class="code hl_variable" href="../../d1/d80/a11013.html#a4274e01ddb2659f125970b97014da00e">EnabledHooks</a>)</div>
+<div class="line"><span class="lineno">  862</span>                            <span class="keywordflow">for</span> (std::size_t i = 0; i &lt; vIt.size(); ++i)</div>
+<div class="line"><span class="lineno">  863</span>                                <span class="keywordflow">if</span> (vIt[i] == oldScript)</div>
+<div class="line"><span class="lineno">  864</span>                                {</div>
+<div class="line"><span class="lineno">  865</span>                                    vIt.erase(vIt.begin() + i);</div>
+<div class="line"><span class="lineno">  866</span>                                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  867</span>                                }</div>
+<div class="line"><span class="lineno">  868</span> </div>
+<div class="line"><span class="lineno">  869</span>                        <span class="keyword">delete</span> oldScript;</div>
+<div class="line"><span class="lineno">  870</span>                    }</div>
+<div class="line"><span class="lineno">  871</span> </div>
+<div class="line"><span class="lineno">  872</span>                    <span class="comment">// Assign new script!</span></div>
+<div class="line"><span class="lineno">  873</span>                    <a class="code hl_variable" href="../../d1/d80/a11013.html#a57e93b2fa2db2a29fa4c12714e217d43">ScriptPointerList</a>[id] = script;</div>
+<div class="line"><span class="lineno">  874</span> </div>
+<div class="line"><span class="lineno">  875</span>                    <span class="comment">// Increment script count only with new scripts</span></div>
+<div class="line"><span class="lineno">  876</span>                    <span class="keywordflow">if</span> (!oldScript)</div>
+<div class="line"><span class="lineno">  877</span>                    {</div>
+<div class="line"><span class="lineno">  878</span>                        <a class="code hl_define" href="../../d2/d49/a01067.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;IncreaseScriptCount();</div>
+<div class="line"><span class="lineno">  879</span>                    }</div>
+<div class="line"><span class="lineno">  880</span>                }</div>
+<div class="line"><span class="lineno">  881</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  882</span>                {</div>
+<div class="line"><span class="lineno">  883</span>                    <span class="comment">// The script uses a script name from database, but isn&#39;t assigned to anything.</span></div>
+<div class="line"><span class="lineno">  884</span>                    <span class="keywordflow">if</span> (script-&gt;GetName().find(<span class="stringliteral">&quot;Smart&quot;</span>) == std::string::npos)</div>
+<div class="line"><span class="lineno">  885</span>                        <a class="code hl_define" href="../../d4/dfa/a00746.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Script named &#39;{}&#39; is not assigned in the database.&quot;</span>,</div>
+<div class="line"><span class="lineno">  886</span>                                         script-&gt;GetName());</div>
+<div class="line"><span class="lineno">  887</span>                }</div>
+<div class="line"><span class="lineno">  888</span>            }</div>
+<div class="line"><span class="lineno">  889</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  890</span>            {</div>
+<div class="line"><span class="lineno">  891</span>                <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/d2d/a00815.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> v : (*it).second)</div>
+<div class="line"><span class="lineno">  892</span>                    <a class="code hl_variable" href="../../d1/d80/a11013.html#a4274e01ddb2659f125970b97014da00e">EnabledHooks</a>[v].emplace_back(script);</div>
+<div class="line"><span class="lineno">  893</span> </div>
+<div class="line"><span class="lineno">  894</span>                <span class="comment">// We&#39;re dealing with a code-only script; just add it.</span></div>
+<div class="line"><span class="lineno">  895</span>                <a class="code hl_variable" href="../../d1/d80/a11013.html#a57e93b2fa2db2a29fa4c12714e217d43">ScriptPointerList</a>[<a class="code hl_variable" href="../../d1/d80/a11013.html#aa66e44e9291be980d12f4167f699c680">_scriptIdCounter</a>++] = script;</div>
+<div class="line"><span class="lineno">  896</span>                <a class="code hl_define" href="../../d2/d49/a01067.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;IncreaseScriptCount();</div>
+<div class="line"><span class="lineno">  897</span>            }</div>
+<div class="line"><span class="lineno">  898</span>        }</div>
+<div class="line"><span class="lineno">  899</span>    }</div>
+<div class="ttc" id="aa00815_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00815_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d8/d2d/a00815.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
+<div class="ttc" id="aa01067_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d2/d49/a01067.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:769</div></div>
+<div class="ttc" id="aa01682_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../dd/d08/a01682.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1731</div></div>
+<div class="ttc" id="aa11013_html_a4274e01ddb2659f125970b97014da00e"><div class="ttname"><a href="../../d1/d80/a11013.html#a4274e01ddb2659f125970b97014da00e">ScriptRegistry::EnabledHooks</a></div><div class="ttdeci">static EnabledHooksVector EnabledHooks</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:791</div></div>
+<div class="ttc" id="aa11013_html_a8d784f25a47c9ca4be72fca0215bf1c8"><div class="ttname"><a href="../../d1/d80/a11013.html#a8d784f25a47c9ca4be72fca0215bf1c8">ScriptRegistry::_checkMemory</a></div><div class="ttdeci">static bool _checkMemory(TScript *const script)</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:928</div></div>
+<div class="ttc" id="aa11013_html_aa66e44e9291be980d12f4167f699c680"><div class="ttname"><a href="../../d1/d80/a11013.html#aa66e44e9291be980d12f4167f699c680">ScriptRegistry::_scriptIdCounter</a></div><div class="ttdeci">static uint32 _scriptIdCounter</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:947</div></div>
+<div class="ttc" id="aa11013_html_ac0554c5200368592f5d0bfb1025935fe"><div class="ttname"><a href="../../d1/d80/a11013.html#ac0554c5200368592f5d0bfb1025935fe">ScriptRegistry::ScriptVectorIterator</a></div><div class="ttdeci">ScriptVector::iterator ScriptVectorIterator</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:779</div></div>
+<div class="ttc" id="aa11013_html_ac67b828a489c483ceaaa745b2dd7ef57"><div class="ttname"><a href="../../d1/d80/a11013.html#ac67b828a489c483ceaaa745b2dd7ef57">ScriptRegistry::ALScripts</a></div><div class="ttdeci">static ScriptVector ALScripts</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:788</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00928">ScriptRegistry&lt; TScript &gt;::_checkMemory()</a>, <a class="el" href="../../#l00947">ScriptRegistry&lt; TScript &gt;::_scriptIdCounter</a>, <a class="el" href="../../#l00788">ScriptRegistry&lt; TScript &gt;::ALScripts</a>, <a class="el" href="../../#l00791">ScriptRegistry&lt; TScript &gt;::EnabledHooks</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00786">ScriptRegistry&lt; TScript &gt;::ScriptPointerList</a>, <a class="el" href="../../#l01731">sObjectMgr</a>, and <a class="el" href="../../#l00769">sScriptMgr</a>.</p>
+
+</div>
+</div>
+<a id="a4a25c0e3b90f6af4563baf0e7a1c0622" name="a4a25c0e3b90f6af4563baf0e7a1c0622"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a25c0e3b90f6af4563baf0e7a1c0622">&#9670;&#160;</a></span>AddScript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::AddScript </td>
+          <td>(</td>
+          <td class="paramtype">TScript *const&#160;</td>
+          <td class="paramname"><em>script</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/da3/a11809.html">WorldPacket</a> &amp;&amp;&#160;</td>
-          <td class="paramname"><em>packet</em>&#160;</td>
+          <td class="paramtype">std::vector&lt; <a class="el" href="../../d8/d2d/a00815.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;&#160;</td>
+          <td class="paramname"><em>enabledHooks</em> = <code>{}</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -296,61 +456,132 @@ Additional Inherited Members</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   34</span>                                                                                        : <a class="code hl_function" href="../../d8/d22/a11005.html#a316af2b7ce1ac7189fb1e57f534bad11">Packet</a>(std::move(packet))</div>
-<div class="line"><span class="lineno">   35</span>{</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_define" href="../../db/db4/a04835.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_function" href="../../d1/d80/a11013.html#aa51558bb8faa96a665fe40b1bddf9d14">GetOpcode</a>() == expectedOpcode);</div>
-<div class="line"><span class="lineno">   37</span>}</div>
-<div class="ttc" id="aa04835_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../db/db4/a04835.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa11013_html_aa51558bb8faa96a665fe40b1bddf9d14"><div class="ttname"><a href="../../d1/d80/a11013.html#aa51558bb8faa96a665fe40b1bddf9d14">WorldPackets::ClientPacket::GetOpcode</a></div><div class="ttdeci">OpcodeClient GetOpcode() const</div><div class="ttdef"><b>Definition:</b> Packet.h:67</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  798</span>                                                                                  {})</div>
+<div class="line"><span class="lineno">  799</span>    {</div>
+<div class="line"><span class="lineno">  800</span>        <a class="code hl_define" href="../../d4/dc4/a00617.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(script);</div>
+<div class="line"><span class="lineno">  801</span> </div>
+<div class="line"><span class="lineno">  802</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d1/d80/a11013.html#a8d784f25a47c9ca4be72fca0215bf1c8">_checkMemory</a>(script))</div>
+<div class="line"><span class="lineno">  803</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  804</span> </div>
+<div class="line"><span class="lineno">  805</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d80/a11013.html#a4274e01ddb2659f125970b97014da00e">EnabledHooks</a>.empty())</div>
+<div class="line"><span class="lineno">  806</span>            <a class="code hl_function" href="../../d1/d80/a11013.html#a44238d9b122f50192b989b1efe2107bd">InitEnabledHooksIfNeeded</a>(script-&gt;GetTotalAvailableHooks());</div>
+<div class="line"><span class="lineno">  807</span> </div>
+<div class="line"><span class="lineno">  808</span>        <span class="keywordflow">if</span> (script-&gt;isAfterLoadScript())</div>
+<div class="line"><span class="lineno">  809</span>        {</div>
+<div class="line"><span class="lineno">  810</span>            <a class="code hl_variable" href="../../d1/d80/a11013.html#ac67b828a489c483ceaaa745b2dd7ef57">ALScripts</a>.emplace_back(script, std::move(enabledHooks));</div>
+<div class="line"><span class="lineno">  811</span>        }</div>
+<div class="line"><span class="lineno">  812</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  813</span>        {</div>
+<div class="line"><span class="lineno">  814</span>            script-&gt;checkValidity();</div>
+<div class="line"><span class="lineno">  815</span> </div>
+<div class="line"><span class="lineno">  816</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/d2d/a00815.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> v : enabledHooks)</div>
+<div class="line"><span class="lineno">  817</span>                <a class="code hl_variable" href="../../d1/d80/a11013.html#a4274e01ddb2659f125970b97014da00e">EnabledHooks</a>[v].emplace_back(script);</div>
+<div class="line"><span class="lineno">  818</span> </div>
+<div class="line"><span class="lineno">  819</span>            <span class="comment">// We&#39;re dealing with a code-only script; just add it.</span></div>
+<div class="line"><span class="lineno">  820</span>            <a class="code hl_variable" href="../../d1/d80/a11013.html#a57e93b2fa2db2a29fa4c12714e217d43">ScriptPointerList</a>[<a class="code hl_variable" href="../../d1/d80/a11013.html#aa66e44e9291be980d12f4167f699c680">_scriptIdCounter</a>++] = script;</div>
+<div class="line"><span class="lineno">  821</span>            <a class="code hl_define" href="../../d2/d49/a01067.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;IncreaseScriptCount();</div>
+<div class="line"><span class="lineno">  822</span>        }</div>
+<div class="line"><span class="lineno">  823</span>    }</div>
+<div class="ttc" id="aa00617_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d4/dc4/a00617.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa11013_html_a44238d9b122f50192b989b1efe2107bd"><div class="ttname"><a href="../../d1/d80/a11013.html#a44238d9b122f50192b989b1efe2107bd">ScriptRegistry::InitEnabledHooksIfNeeded</a></div><div class="ttdeci">static void InitEnabledHooksIfNeeded(uint16 totalAvailableHooks)</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:793</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00067">GetOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00067">AccountScript::AccountScript()</a>, <a class="el" href="../../#l00030">AchievementCriteriaScript::AchievementCriteriaScript()</a>, <a class="el" href="../../#l00047">AchievementScript::AchievementScript()</a>, <a class="el" href="../../#l00021">ALEScript::ALEScript()</a>, <a class="el" href="../../#l00122">AllBattlegroundScript::AllBattlegroundScript()</a>, <a class="el" href="../../#l00038">AllCommandScript::AllCommandScript()</a>, <a class="el" href="../../#l00081">AllCreatureScript::AllCreatureScript()</a>, <a class="el" href="../../#l00052">AllGameObjectScript::AllGameObjectScript()</a>, <a class="el" href="../../#l00145">AllItemScript::AllItemScript()</a>, <a class="el" href="../../#l00284">AllMapScript::AllMapScript()</a>, <a class="el" href="../../#l00097">AllSpellScript::AllSpellScript()</a>, <a class="el" href="../../#l00043">AreaTriggerScript::AreaTriggerScript()</a>, <a class="el" href="../../#l00062">ArenaScript::ArenaScript()</a>, <a class="el" href="../../#l00047">ArenaTeamScript::ArenaTeamScript()</a>, <a class="el" href="../../#l00089">AuctionHouseScript::AuctionHouseScript()</a>, <a class="el" href="../../#l00057">BattlefieldScript::BattlefieldScript()</a>, <a class="el" href="../../#l00022">BattlegroundMapScript::BattlegroundMapScript()</a>, <a class="el" href="../../#l00028">BattlegroundScript::BattlegroundScript()</a>, <a class="el" href="../../#l00035">CommandScript::CommandScript()</a>, <a class="el" href="../../#l00029">ConditionScript::ConditionScript()</a>, <a class="el" href="../../#l00198">CreatureScript::CreatureScript()</a>, <a class="el" href="../../#l00057">DatabaseScript::DatabaseScript()</a>, <a class="el" href="../../#l00031">DynamicObjectScript::DynamicObjectScript()</a>, <a class="el" href="../../#l00070">FormulaScript::FormulaScript()</a>, <a class="el" href="../../#l00037">GameEventScript::GameEventScript()</a>, <a class="el" href="../../#l00242">GameObjectScript::GameObjectScript()</a>, <a class="el" href="../../#l00162">GlobalScript::GlobalScript()</a>, <a class="el" href="../../#l00067">GroupScript::GroupScript()</a>, <a class="el" href="../../#l00082">GuildScript::GuildScript()</a>, <a class="el" href="../../#l00029">InstanceMapScript::InstanceMapScript()</a>, <a class="el" href="../../#l00151">ItemScript::ItemScript()</a>, <a class="el" href="../../#l00029">LootScript::LootScript()</a>, <a class="el" href="../../#l00027">MailScript::MailScript()</a>, <a class="el" href="../../#l00112">MiscScript::MiscScript()</a>, <a class="el" href="../../#l00021">ModuleScript::ModuleScript()</a>, <a class="el" href="../../#l00027">MovementHandlerScript::MovementHandlerScript()</a>, <a class="el" href="../../#l00030">OutdoorPvPScript::OutdoorPvPScript()</a>, <a class="el" href="../../#l00054">PetScript::PetScript()</a>, <a class="el" href="../../#l01012">PlayerScript::PlayerScript()</a>, <a class="el" href="../../#l00072">ServerScript::ServerScript()</a>, <a class="el" href="../../#l00038">SessionScript::SessionScript()</a>, <a class="el" href="../../#l00079">SpellScriptLoader::SpellScriptLoader()</a>, <a class="el" href="../../#l00047">TicketScript::TicketScript()</a>, <a class="el" href="../../#l00073">TransportScript::TransportScript()</a>, <a class="el" href="../../#l00142">UnitScript::UnitScript()</a>, <a class="el" href="../../#l00091">VehicleScript::VehicleScript()</a>, <a class="el" href="../../#l00048">WeatherScript::WeatherScript()</a>, <a class="el" href="../../#l00022">WorldMapScript::WorldMapScript()</a>, <a class="el" href="../../#l00057">WorldObjectScript::WorldObjectScript()</a>, and <a class="el" href="../../#l00087">WorldScript::WorldScript()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="aa51558bb8faa96a665fe40b1bddf9d14" name="aa51558bb8faa96a665fe40b1bddf9d14"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa51558bb8faa96a665fe40b1bddf9d14">&#9670;&#160;</a></span>GetOpcode()</h2>
+<a id="a22226c545e7975d4c612e7adcc766d05" name="a22226c545e7975d4c612e7adcc766d05"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a22226c545e7975d4c612e7adcc766d05">&#9670;&#160;</a></span>GetScriptById()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/d87/a05118.html#ga1073b6abb3a749f18bf1633020879e9b">OpcodeClient</a> WorldPackets::ClientPacket::GetOpcode </td>
+          <td class="memname">static TScript * <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::GetScriptById </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype"><a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   67</span>{ <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../d5/d87/a05118.html#ga168cceac84af6c8197247537b103c659">OpcodeClient</a>(<a class="code hl_variable" href="../../d8/d22/a11005.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a>.<a class="code hl_function" href="../../d3/da3/a11809.html#a666547feae3b83bfbba424a541287239">GetOpcode</a>()); }</div>
-<div class="ttc" id="aa05118_html_ga168cceac84af6c8197247537b103c659"><div class="ttname"><a href="../../d5/d87/a05118.html#ga168cceac84af6c8197247537b103c659">OpcodeClient</a></div><div class="ttdeci">Opcodes OpcodeClient</div><div class="ttdef"><b>Definition:</b> Opcodes.h:1352</div></div>
-<div class="ttc" id="aa11005_html_ab85f1c9f20117bc5015180165c7b458a"><div class="ttname"><a href="../../d8/d22/a11005.html#ab85f1c9f20117bc5015180165c7b458a">WorldPackets::Packet::_worldPacket</a></div><div class="ttdeci">WorldPacket _worldPacket</div><div class="ttdef"><b>Definition:</b> Packet.h:42</div></div>
-<div class="ttc" id="aa11809_html_a666547feae3b83bfbba424a541287239"><div class="ttname"><a href="../../d3/da3/a11809.html#a666547feae3b83bfbba424a541287239">WorldPacket::GetOpcode</a></div><div class="ttdeci">uint16 GetOpcode() const</div><div class="ttdef"><b>Definition:</b> WorldPacket.h:75</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  917</span>    {</div>
+<div class="line"><span class="lineno">  918</span>        <a class="code hl_typedef" href="../../d1/d80/a11013.html#ad1fcde41ec854314c5e1cc50b916ac5d">ScriptMapIterator</a> it = <a class="code hl_variable" href="../../d1/d80/a11013.html#a57e93b2fa2db2a29fa4c12714e217d43">ScriptPointerList</a>.find(<span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno">  919</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d1/d80/a11013.html#a57e93b2fa2db2a29fa4c12714e217d43">ScriptPointerList</a>.end())</div>
+<div class="line"><span class="lineno">  920</span>            <span class="keywordflow">return</span> it-&gt;second;</div>
+<div class="line"><span class="lineno">  921</span> </div>
+<div class="line"><span class="lineno">  922</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  923</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00034">ClientPacket()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00786">ScriptRegistry&lt; TScript &gt;::ScriptPointerList</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">ScriptMgr::CreateAuraScripts()</a>, <a class="el" href="../../#l00021">ScriptMgr::CreateInstanceScript()</a>, <a class="el" href="../../#l00022">ScriptMgr::CreateOutdoorPvP()</a>, <a class="el" href="../../#l00064">ScriptMgr::CreateSpellScriptLoaders()</a>, <a class="el" href="../../#l00022">ScriptMgr::CreateSpellScripts()</a>, <a class="el" href="../../#l00156">ScriptMgr::GetCreatureAI()</a>, <a class="el" href="../../#l00147">ScriptMgr::GetDialogStatus()</a>, <a class="el" href="../../#l00224">ScriptMgr::GetGameObjectAI()</a>, <a class="el" href="../../#l00102">ScriptMgr::OnCastItemCombatSpell()</a>, <a class="el" href="../../#l00021">ScriptMgr::OnConditionCheck()</a>, <a class="el" href="../../#l00021">ScriptMgr::OnCriteriaCheck()</a>, <a class="el" href="../../#l00024">ScriptMgr::OnGossipHello()</a>, <a class="el" href="../../#l00044">ScriptMgr::OnGossipSelect()</a>, <a class="el" href="../../#l00063">ScriptMgr::OnGossipSelectCode()</a>, <a class="el" href="../../#l00064">ScriptMgr::OnItemExpire()</a>, <a class="el" href="../../#l00083">ScriptMgr::OnItemRemove()</a>, <a class="el" href="../../#l00045">ScriptMgr::OnItemUse()</a>, <a class="el" href="../../#l00024">ScriptMgr::OnQuestAccept()</a>, <a class="el" href="../../#l00115">ScriptMgr::OnQuestComplete()</a>, <a class="el" href="../../#l00126">ScriptMgr::OnQuestReward()</a>, and <a class="el" href="../../#l00104">ScriptMgr::OnQuestSelect()</a>.</p>
 
 </div>
 </div>
-<a id="a16e5b9fa05e35fa1e32e33bef2688487" name="a16e5b9fa05e35fa1e32e33bef2688487"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a16e5b9fa05e35fa1e32e33bef2688487">&#9670;&#160;</a></span>Write()</h2>
+<a id="a44238d9b122f50192b989b1efe2107bd" name="a44238d9b122f50192b989b1efe2107bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a44238d9b122f50192b989b1efe2107bd">&#9670;&#160;</a></span>InitEnabledHooksIfNeeded()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/da3/a11809.html">WorldPacket</a> const  * WorldPackets::ClientPacket::Write </td>
+          <td class="memname">static void <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::InitEnabledHooksIfNeeded </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d2d/a00815.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>totalAvailableHooks</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  794</span>    {</div>
+<div class="line"><span class="lineno">  795</span>        <a class="code hl_variable" href="../../d1/d80/a11013.html#a4274e01ddb2659f125970b97014da00e">EnabledHooks</a>.resize(totalAvailableHooks);</div>
+<div class="line"><span class="lineno">  796</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00791">ScriptRegistry&lt; TScript &gt;::EnabledHooks</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">TestMap::EnsureDBC()</a>, <a class="el" href="../../#l00035">ArenaHookDefaultsTest::EnsureScriptRegistriesInitialized()</a>, and <a class="el" href="../../#l00037">LowLevelsMinPlayersOverrideTest::SetUp()</a>.</p>
+
+</div>
+</div>
+<a id="aea1f4b1a1e5c0bb83160732833580b1d" name="aea1f4b1a1e5c0bb83160732833580b1d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aea1f4b1a1e5c0bb83160732833580b1d">&#9670;&#160;</a></span>Unload()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::Unload </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -358,19 +589,128 @@ Additional Inherited Members</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">final</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  905</span>    {</div>
+<div class="line"><span class="lineno">  906</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [scriptID, script] : <a class="code hl_variable" href="../../d1/d80/a11013.html#a57e93b2fa2db2a29fa4c12714e217d43">ScriptPointerList</a>)</div>
+<div class="line"><span class="lineno">  907</span>            <span class="keyword">delete</span> script;</div>
+<div class="line"><span class="lineno">  908</span> </div>
+<div class="line"><span class="lineno">  909</span>        <a class="code hl_variable" href="../../d1/d80/a11013.html#a57e93b2fa2db2a29fa4c12714e217d43">ScriptPointerList</a>.clear();</div>
+<div class="line"><span class="lineno">  910</span> </div>
+<div class="line"><span class="lineno">  911</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; hookScripts : <a class="code hl_variable" href="../../d1/d80/a11013.html#a4274e01ddb2659f125970b97014da00e">EnabledHooks</a>)</div>
+<div class="line"><span class="lineno">  912</span>            hookScripts.clear();</div>
+<div class="line"><span class="lineno">  913</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00791">ScriptRegistry&lt; TScript &gt;::EnabledHooks</a>, and <a class="el" href="../../#l00786">ScriptRegistry&lt; TScript &gt;::ScriptPointerList</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00038">TEST()</a>, and <a class="el" href="../../#l00150">ScriptMgr::Unload()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="aa66e44e9291be980d12f4167f699c680" name="aa66e44e9291be980d12f4167f699c680"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa66e44e9291be980d12f4167f699c680">&#9670;&#160;</a></span>_scriptIdCounter</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::_scriptIdCounter = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="../../d8/d22/a11005.html#af7c79156d7b6cfe3142fc530f9ed262a">WorldPackets::Packet</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_define" href="../../db/db4/a04835.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(!<span class="stringliteral">&quot;Write not allowed for client packets.&quot;</span>);</div>
-<div class="line"><span class="lineno">   47</span>    <span class="comment">// Shut up some compilers</span></div>
-<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   49</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00825">ScriptRegistry&lt; TScript &gt;::AddALScripts()</a>.</p>
+
+</div>
+</div>
+<a id="ac67b828a489c483ceaaa745b2dd7ef57" name="ac67b828a489c483ceaaa745b2dd7ef57"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac67b828a489c483ceaaa745b2dd7ef57">&#9670;&#160;</a></span>ALScripts</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt; std::pair&lt; TScript *, std::vector&lt; <a class="el" href="../../d8/d2d/a00815.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt; &gt; &gt; <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::ALScripts</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00825">ScriptRegistry&lt; TScript &gt;::AddALScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a4274e01ddb2659f125970b97014da00e" name="a4274e01ddb2659f125970b97014da00e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4274e01ddb2659f125970b97014da00e">&#9670;&#160;</a></span>EnabledHooks</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt; std::vector&lt; TScript * &gt; &gt; <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::EnabledHooks</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00825">ScriptRegistry&lt; TScript &gt;::AddALScripts()</a>, <a class="el" href="../../#l00793">ScriptRegistry&lt; TScript &gt;::InitEnabledHooksIfNeeded()</a>, and <a class="el" href="../../#l00904">ScriptRegistry&lt; TScript &gt;::Unload()</a>.</p>
+
+</div>
+</div>
+<a id="a57e93b2fa2db2a29fa4c12714e217d43" name="a57e93b2fa2db2a29fa4c12714e217d43"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a57e93b2fa2db2a29fa4c12714e217d43">&#9670;&#160;</a></span>ScriptPointerList</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class TScript &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::map&lt; <a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, TScript * &gt; <a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a>&lt; TScript &gt;::ScriptPointerList</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00928">ScriptRegistry&lt; TScript &gt;::_checkMemory()</a>, <a class="el" href="../../#l00825">ScriptRegistry&lt; TScript &gt;::AddALScripts()</a>, <a class="el" href="../../#l00916">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00904">ScriptRegistry&lt; TScript &gt;::Unload()</a>.</p>
 
 </div>
 </div>
@@ -379,8 +719,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d64/a05180.html">WorldPackets</a></li><li class="navelem"><a class="el" href="../../d1/d80/a11013.html">ClientPacket</a></li>
-    <li class="footer">Generated on Mon Oct 19 2026 23:58:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/d80/a11013.html">ScriptRegistry</a></li>
+    <li class="footer">Generated on Tue Nov 10 2026 02:55:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

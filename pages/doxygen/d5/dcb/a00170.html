@@ -119,12 +119,12 @@ $(document).ready(function(){initNavTree('d5/dcb/a00170.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/def/a30118.html">anonymous_namespace{ScriptRegistryUnloadTest.cpp}::TestDestructGroupScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/ded/a30133.html">anonymous_namespace{ScriptRegistryUnloadTest.cpp}::TestDestructGroupScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:d6/d63/a05242"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d63/a05242.html">anonymous_namespace{ScriptRegistryUnloadTest.cpp}</a></td></tr>
+<tr class="memitem:d4/d90/a05253"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d90/a05253.html">anonymous_namespace{ScriptRegistryUnloadTest.cpp}</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
@@ -159,29 +159,29 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_variable" href="../../dc/def/a30118.html#aa4741f1c2d75bb7e5ad1e4f11ce62909">TestDestructGroupScript::CallCount</a> = 0;</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_variable" href="../../d5/ded/a30133.html#aa4741f1c2d75bb7e5ad1e4f11ce62909">TestDestructGroupScript::CallCount</a> = 0;</div>
 <div class="line"><span class="lineno">   41</span>    <span class="keyword">new</span> TestDestructGroupScript();</div>
 <div class="line"><span class="lineno">   42</span> </div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_define" href="../../d9/db3/a01064.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnDestructGroup(<span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">   44</span>    ASSERT_EQ(<a class="code hl_variable" href="../../dc/def/a30118.html#aa4741f1c2d75bb7e5ad1e4f11ce62909">TestDestructGroupScript::CallCount</a>, 1u);</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_define" href="../../d2/d49/a01067.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnDestructGroup(<span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">   44</span>    ASSERT_EQ(<a class="code hl_variable" href="../../d5/ded/a30133.html#aa4741f1c2d75bb7e5ad1e4f11ce62909">TestDestructGroupScript::CallCount</a>, 1u);</div>
 <div class="line"><span class="lineno">   45</span> </div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_function" href="../../d3/d24/a10998.html#aea1f4b1a1e5c0bb83160732833580b1d">ScriptRegistry&lt;MiscScript&gt;::Unload</a>();</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_function" href="../../d1/d80/a11013.html#aea1f4b1a1e5c0bb83160732833580b1d">ScriptRegistry&lt;MiscScript&gt;::Unload</a>();</div>
 <div class="line"><span class="lineno">   47</span> </div>
-<div class="line"><span class="lineno">   48</span>    EXPECT_TRUE(<a class="code hl_class" href="../../d3/d24/a10998.html">ScriptRegistry&lt;MiscScript&gt;::ScriptPointerList</a>.empty());</div>
-<div class="line"><span class="lineno">   49</span>    ASSERT_EQ(<a class="code hl_class" href="../../d3/d24/a10998.html">ScriptRegistry&lt;MiscScript&gt;::EnabledHooks</a>.size(), std::size_t(<a class="code hl_enumvalue" href="../../de/d90/a01313.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9">MISCHOOK_END</a>));</div>
-<div class="line"><span class="lineno">   50</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; hookScripts : <a class="code hl_class" href="../../d3/d24/a10998.html">ScriptRegistry&lt;MiscScript&gt;::EnabledHooks</a>)</div>
+<div class="line"><span class="lineno">   48</span>    EXPECT_TRUE(<a class="code hl_class" href="../../d1/d80/a11013.html">ScriptRegistry&lt;MiscScript&gt;::ScriptPointerList</a>.empty());</div>
+<div class="line"><span class="lineno">   49</span>    ASSERT_EQ(<a class="code hl_class" href="../../d1/d80/a11013.html">ScriptRegistry&lt;MiscScript&gt;::EnabledHooks</a>.size(), std::size_t(<a class="code hl_enumvalue" href="../../d4/d49/a01316.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9">MISCHOOK_END</a>));</div>
+<div class="line"><span class="lineno">   50</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; hookScripts : <a class="code hl_class" href="../../d1/d80/a11013.html">ScriptRegistry&lt;MiscScript&gt;::EnabledHooks</a>)</div>
 <div class="line"><span class="lineno">   51</span>        EXPECT_TRUE(hookScripts.empty());</div>
 <div class="line"><span class="lineno">   52</span> </div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_define" href="../../d9/db3/a01064.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnDestructGroup(<span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">   54</span>    EXPECT_EQ(<a class="code hl_variable" href="../../dc/def/a30118.html#aa4741f1c2d75bb7e5ad1e4f11ce62909">TestDestructGroupScript::CallCount</a>, 1u);</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_define" href="../../d2/d49/a01067.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnDestructGroup(<span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">   54</span>    EXPECT_EQ(<a class="code hl_variable" href="../../d5/ded/a30133.html#aa4741f1c2d75bb7e5ad1e4f11ce62909">TestDestructGroupScript::CallCount</a>, 1u);</div>
 <div class="line"><span class="lineno">   55</span>}</div>
-<div class="ttc" id="aa01064_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d9/db3/a01064.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:768</div></div>
-<div class="ttc" id="aa01313_html_af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9"><div class="ttname"><a href="../../de/d90/a01313.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9">MISCHOOK_END</a></div><div class="ttdeci">@ MISCHOOK_END</div><div class="ttdef"><b>Definition:</b> MiscScript.h:45</div></div>
-<div class="ttc" id="aa10998_html"><div class="ttname"><a href="../../d3/d24/a10998.html">ScriptRegistry</a></div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:772</div></div>
-<div class="ttc" id="aa10998_html_aea1f4b1a1e5c0bb83160732833580b1d"><div class="ttname"><a href="../../d3/d24/a10998.html#aea1f4b1a1e5c0bb83160732833580b1d">ScriptRegistry::Unload</a></div><div class="ttdeci">static void Unload()</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:903</div></div>
-<div class="ttc" id="aa30118_html_aa4741f1c2d75bb7e5ad1e4f11ce62909"><div class="ttname"><a href="../../dc/def/a30118.html#aa4741f1c2d75bb7e5ad1e4f11ce62909">anonymous_namespace{ScriptRegistryUnloadTest.cpp}::TestDestructGroupScript::CallCount</a></div><div class="ttdeci">static uint32 CallCount</div><div class="ttdef"><b>Definition:</b> ScriptRegistryUnloadTest.cpp:31</div></div>
+<div class="ttc" id="aa01067_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d2/d49/a01067.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:769</div></div>
+<div class="ttc" id="aa01316_html_af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9"><div class="ttname"><a href="../../d4/d49/a01316.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9">MISCHOOK_END</a></div><div class="ttdeci">@ MISCHOOK_END</div><div class="ttdef"><b>Definition:</b> MiscScript.h:45</div></div>
+<div class="ttc" id="aa11013_html"><div class="ttname"><a href="../../d1/d80/a11013.html">ScriptRegistry</a></div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:773</div></div>
+<div class="ttc" id="aa11013_html_aea1f4b1a1e5c0bb83160732833580b1d"><div class="ttname"><a href="../../d1/d80/a11013.html#aea1f4b1a1e5c0bb83160732833580b1d">ScriptRegistry::Unload</a></div><div class="ttdeci">static void Unload()</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:904</div></div>
+<div class="ttc" id="aa30133_html_aa4741f1c2d75bb7e5ad1e4f11ce62909"><div class="ttname"><a href="../../d5/ded/a30133.html#aa4741f1c2d75bb7e5ad1e4f11ce62909">anonymous_namespace{ScriptRegistryUnloadTest.cpp}::TestDestructGroupScript::CallCount</a></div><div class="ttdeci">static uint32 CallCount</div><div class="ttdef"><b>Definition:</b> ScriptRegistryUnloadTest.cpp:31</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">anonymous_namespace{ScriptRegistryUnloadTest.cpp}::TestDestructGroupScript::CallCount</a>, <a class="el" href="../../#l00045">MISCHOOK_END</a>, <a class="el" href="../../#l00768">sScriptMgr</a>, and <a class="el" href="../../#l00903">ScriptRegistry&lt; TScript &gt;::Unload()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">anonymous_namespace{ScriptRegistryUnloadTest.cpp}::TestDestructGroupScript::CallCount</a>, <a class="el" href="../../#l00045">MISCHOOK_END</a>, <a class="el" href="../../#l00769">sScriptMgr</a>, and <a class="el" href="../../#l00904">ScriptRegistry&lt; TScript &gt;::Unload()</a>.</p>
 
 </div>
 </div>
@@ -191,7 +191,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_b63b37c19d460df230ed0311799f46ad.html">Scripting</a></li><li class="navelem"><a class="el" href="../../d5/dcb/a00170.html">ScriptRegistryUnloadTest.cpp</a></li>
-    <li class="footer">Generated on Tue Nov 3 2026 02:36:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Nov 10 2026 02:54:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

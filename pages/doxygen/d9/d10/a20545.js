@@ -1,6 +1,8 @@
 var a20545 =
 [
-    [ "FilterTargets", "d9/d10/a20545.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d9/d10/a20545.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d9/d10/a20545.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "OnApply", "d9/d10/a20545.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "d9/d10/a20545.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "d9/d10/a20545.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "d9/d10/a20545.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "d9/d10/a20545.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

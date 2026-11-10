@@ -1,7 +1,6 @@
 var a13061 =
 [
-    [ "HandlePeriodic", "da/d73/a13061.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "da/d73/a13061.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "da/d73/a13061.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "da/d73/a13061.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "boss_flamegor", "da/d73/a13061.html#a721c23d631d305c102117566f609f10a", null ],
+    [ "JustEngagedWith", "da/d73/a13061.html#aebbcd35868c64d2a0b1f660720f84575", null ],
+    [ "UpdateAI", "da/d73/a13061.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
 ];

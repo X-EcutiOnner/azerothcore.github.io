@@ -1,8 +1,14 @@
 var a20305 =
 [
-    [ "CatsTargetSelector", "d8/d6a/a20305.html#a48068e5fb4d835303d1d0fbbc4a7e66e", null ],
-    [ "operator()", "d8/d6a/a20305.html#a86e65be219bb8f1fdbebba21ba16884a", null ],
-    [ "_maxDist", "d8/d6a/a20305.html#a569a1fc697a16c55ef0d087993461a01", null ],
-    [ "_me", "d8/d6a/a20305.html#a510937836db06bf70f2bd3737efa4369", null ],
-    [ "_minDist", "d8/d6a/a20305.html#a28f5ca413d51073294888cfc97c21b04", null ]
+    [ "boss_auriaya", "d8/d6a/a20305.html#a2d946ada185a29bf00dc49d28089e64e", null ],
+    [ "DespawnFormationMembers", "d8/d6a/a20305.html#a46dcb873d4101174687b4189d0494403", null ],
+    [ "DoAction", "d8/d6a/a20305.html#aa58503020e3382e0c541047b233945a7", null ],
+    [ "ExecuteEvent", "d8/d6a/a20305.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
+    [ "GetData", "d8/d6a/a20305.html#a44781b758392f8f519b9684617757620", null ],
+    [ "JustDied", "d8/d6a/a20305.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
+    [ "JustEngagedWith", "d8/d6a/a20305.html#ac80d7bbc334e20df9e85540556b8714e", null ],
+    [ "KilledUnit", "d8/d6a/a20305.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
+    [ "Reset", "d8/d6a/a20305.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
+    [ "_feralDied", "d8/d6a/a20305.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
+    [ "_nineLives", "d8/d6a/a20305.html#a26d80573eda1aa1005e1bc5453c182af", null ]
 ];

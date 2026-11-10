@@ -1,9 +1,6 @@
 var a24465 =
 [
-    [ "npc_kservantAI", "d1/d16/a24465.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d1/d16/a24465.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d1/d16/a24465.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "UpdateAI", "d1/d16/a24465.html#a0f2b37f4575f32d9ce0a441157a80a8b", null ],
-    [ "WaypointReached", "d1/d16/a24465.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
-    [ "WaypointReached", "d1/d16/a24465.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_enraged_spiritAI", "d7/d94/a24469.html", "d7/d94/a24469" ],
+    [ "npc_enraged_spirit", "d1/d16/a24465.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d1/d16/a24465.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

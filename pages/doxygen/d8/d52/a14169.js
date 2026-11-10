@@ -1,6 +1,6 @@
 var a14169 =
 [
-    [ "CheckProc", "d8/d52/a14169.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "d8/d52/a14169.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "d8/d52/a14169.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "npc_rinjiAI", "db/ddf/a14173.html", "db/ddf/a14173" ],
+    [ "npc_rinji", "d8/d52/a14169.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
+    [ "GetAI", "d8/d52/a14169.html#a5457ac00ce0b195752640358b912af10", null ]
 ];

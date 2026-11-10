@@ -1,9 +1,7 @@
 var a26637 =
 [
-    [ "HandleAfterCast", "df/db0/a26637.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "df/db0/a26637.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "df/db0/a26637.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "df/db0/a26637.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "df/db0/a26637.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "df/db0/a26637.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "HandleProc", "df/db0/a26637.html#adae03d8ff102215e61bbfff13c63290d", null ],
+    [ "PrepareAuraScript", "df/db0/a26637.html#acbaa8391980af138bd53173f0b8bd243", null ],
+    [ "Register", "df/db0/a26637.html#aec87249ec23b6b3314e5fb95fd832ad0", null ],
+    [ "Validate", "df/db0/a26637.html#abfb835c784033a6b2eb4159a6a15221e", null ]
 ];

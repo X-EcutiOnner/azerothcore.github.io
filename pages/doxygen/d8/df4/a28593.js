@@ -1,10 +1,5 @@
 var a28593 =
 [
-    [ "npc_prof_blacksmith", "d8/df4/a28593.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d8/df4/a28593.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d8/df4/a28593.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d8/df4/a28593.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d8/df4/a28593.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d8/df4/a28593.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d8/df4/a28593.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "item_disgusting_jar", "d8/df4/a28593.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "d8/df4/a28593.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

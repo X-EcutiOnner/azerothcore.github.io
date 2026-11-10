@@ -1,5 +1,5 @@
 var a13793 =
 [
-    [ "at_sunwell_madrigosa", "d3/dbc/a13793.html#a489ddb537ef272f22bd69ced194762e7", null ],
-    [ "_OnTrigger", "d3/dbc/a13793.html#a137c231ea66d3781080a5617a2ffcc9e", null ]
+    [ "at_malfurion_stormrage", "d3/dbc/a13793.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
+    [ "OnTrigger", "d3/dbc/a13793.html#aaeae64b901ee7b0752425e35af9f4af6", null ]
 ];

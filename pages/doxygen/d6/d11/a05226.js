@@ -1,10 +1,12 @@
 var a05226 =
 [
-    [ "AuraLoadedStateTest", "d7/dfe/a30081.html", "d7/dfe/a30081" ],
-    [ "TEST_F", "d6/d11/a05226.html#a895af5f48da5209f7d733deb9891ed14", null ],
-    [ "TEST_F", "d6/d11/a05226.html#a548b1d31d026d08300cee3bdae2fd6d6", null ],
-    [ "AURA_DURATION", "d6/d11/a05226.html#a3518f795a6c55dbdde7cc0ece4a705e1", null ],
-    [ "BASE_AMOUNT", "d6/d11/a05226.html#ad5f15dfa412737c696115d53ae943a5e", null ],
-    [ "SAVED_AMOUNT", "d6/d11/a05226.html#ae35607bfd8bc471969f34f8f743ff210", null ],
-    [ "TEST_AURA_SPELL_ID", "d6/d11/a05226.html#a1372aab52ee88af350f43d4b126245d5", null ]
+    [ "DismissCritter", "d7/d4a/a11645.html", "d7/d4a/a11645" ],
+    [ "PetAbandon", "d7/da4/a11649.html", "d7/da4/a11649" ],
+    [ "PetActionSound", "de/dc1/a11673.html", "de/dc1/a11673" ],
+    [ "PetDismissSound", "d4/d06/a11677.html", "d4/d06/a11677" ],
+    [ "PetLearnedSpell", "d1/d11/a11661.html", "d1/d11/a11661" ],
+    [ "PetSpellAutocast", "d7/d8b/a11657.html", "d7/d8b/a11657" ],
+    [ "PetStopAttack", "db/d5a/a11653.html", "db/d5a/a11653" ],
+    [ "PetUnlearnedSpell", "d4/dc3/a11665.html", "d4/dc3/a11665" ],
+    [ "RequestPetInfo", "d4/de0/a11669.html", "d4/de0/a11669" ]
 ];

@@ -1,5 +1,5 @@
 var a04238 =
 [
-    [ "tele_commandscript", "db/d48/a12730.html", "db/d48/a12730" ],
-    [ "AddSC_tele_commandscript", "d0/dd6/a04238.html#a75673ffc02c68c43cefd69bb0648dd53", null ]
+    [ "ticket_commandscript", "d0/d98/a12749.html", "d0/d98/a12749" ],
+    [ "AddSC_ticket_commandscript", "d0/dd6/a04238.html#ad71463f4442d2e022a92404a4d9dec76", null ]
 ];

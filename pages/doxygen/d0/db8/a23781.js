@@ -1,6 +1,6 @@
 var a23781 =
 [
-    [ "CheckProc", "d0/db8/a23781.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "d0/db8/a23781.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "d0/db8/a23781.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "dc/d66/a23785.html", "dc/d66/a23785" ],
+    [ "instance_blood_furnace", "d0/db8/a23781.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "d0/db8/a23781.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

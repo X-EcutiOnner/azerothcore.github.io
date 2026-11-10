@@ -1,6 +1,10 @@
 var a13753 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "d6/de1/a13757.html", "d6/de1/a13757" ],
-    [ "instance_sunken_temple", "d8/d91/a13753.html#a123b052c1cd1487588c88bf2611bc53b", null ],
-    [ "GetInstanceScript", "d8/d91/a13753.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
+    [ "HandleDummyTick", "d8/d91/a13753.html#a036291aee8b08212ecead4afce01adf4", null ],
+    [ "Load", "d8/d91/a13753.html#aaecea41af42790dfe9aeba3c56480668", null ],
+    [ "OnApply", "d8/d91/a13753.html#a37b425f877e7415b245c119c29521c4b", null ],
+    [ "PrepareAuraScript", "d8/d91/a13753.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
+    [ "Register", "d8/d91/a13753.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
+    [ "Validate", "d8/d91/a13753.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
+    [ "_forsakenSpell", "d8/d91/a13753.html#ae2aee05482e4854120fc581ecec41f95", null ]
 ];

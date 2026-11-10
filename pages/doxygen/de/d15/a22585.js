@@ -1,6 +1,6 @@
 var a22585 =
 [
-    [ "npc_wg_siege_machineAI", "d7/d78/a22589.html", "d7/d78/a22589" ],
-    [ "npc_wg_siege_machine", "de/d15/a22585.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
-    [ "GetAI", "de/d15/a22585.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
+    [ "HandleSummon", "de/d15/a22585.html#a98c5df8b6c561a5aa7d766b639f3c2c8", null ],
+    [ "PrepareSpellScript", "de/d15/a22585.html#ab5605e1d401d7a762fc8b5a530ecd640", null ],
+    [ "Register", "de/d15/a22585.html#a9c9a0fd43758a6441a086860e8276cc0", null ]
 ];

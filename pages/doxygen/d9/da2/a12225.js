@@ -1,6 +1,6 @@
 var a12225 =
 [
-    [ "EffectProcHandler", "d9/da2/a12225.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
-    [ "Call", "d9/da2/a12225.html#ae03d27451f687319629b3c54c5a7eed5", null ],
-    [ "_EffectHandlerScript", "d9/da2/a12225.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
+    [ "EffectCalcSpellModHandler", "d9/da2/a12225.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "d9/da2/a12225.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "d9/da2/a12225.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

@@ -1,9 +1,9 @@
 var a20365 =
 [
-    [ "npc_thorims_hammer", "dc/d83/a20365.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
-    [ "Reset", "dc/d83/a20365.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
-    [ "UpdateAI", "dc/d83/a20365.html#a006414298b31eb0cfb964916298d66ce", null ],
-    [ "_beamTimer", "dc/d83/a20365.html#adcd5af2b86d1d8f119514f799c42444b", null ],
-    [ "_finishTime", "dc/d83/a20365.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
-    [ "_removeTimer", "dc/d83/a20365.html#a7b9a2435b0953c12e693c562193d45e0", null ]
+    [ "npc_hodirs_fury", "dc/d83/a20365.html#abda902842d76a0a5a17196a11654f5ab", null ],
+    [ "MovementInform", "dc/d83/a20365.html#a4d82007c5b70edad74b461948629b9fb", null ],
+    [ "Reset", "dc/d83/a20365.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
+    [ "UpdateAI", "dc/d83/a20365.html#a58a8b1664bb00b930cce86e856facb8b", null ],
+    [ "_switchTargetTimer", "dc/d83/a20365.html#a9736332e6f3d163f04aa12cbd6829670", null ],
+    [ "_timeToHit", "dc/d83/a20365.html#a611d171dc27bd78d298040eabfc00e5f", null ]
 ];

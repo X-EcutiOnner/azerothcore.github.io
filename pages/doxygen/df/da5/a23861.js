@@ -1,7 +1,6 @@
 var a23861 =
 [
-    [ "FilterTargets", "df/da5/a23861.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "df/da5/a23861.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "df/da5/a23861.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "df/da5/a23861.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "d1/d7d/a23865.html", "d1/d7d/a23865" ],
+    [ "instance_magtheridons_lair", "df/da5/a23861.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
+    [ "GetInstanceScript", "df/da5/a23861.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
 ];

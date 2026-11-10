@@ -1,6 +1,7 @@
 var a24553 =
 [
-    [ "HandleDamageCalc", "da/d46/a24553.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "da/d46/a24553.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "da/d46/a24553.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "npc_isla_starmaneAI", "d8/d5f/a24557.html", "d8/d5f/a24557" ],
+    [ "npc_isla_starmane", "da/d46/a24553.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
+    [ "GetAI", "da/d46/a24553.html#a0ea2dbaab4115772f92849e06aa85575", null ],
+    [ "OnQuestAccept", "da/d46/a24553.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
 ];

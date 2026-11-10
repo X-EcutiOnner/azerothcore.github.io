@@ -1,9 +1,7 @@
 var a09997 =
 [
-    [ "WorldPacketList", "dd/d90/a09997.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
-    [ "LocalizedPacketListDo", "dd/d90/a09997.html#ab52133e238752f725f18580018a84cd2", null ],
-    [ "~LocalizedPacketListDo", "dd/d90/a09997.html#a8442452027bcb5c98d60830e016803b5", null ],
-    [ "operator()", "dd/d90/a09997.html#adea9610e36d436563ba1f472481aed85", null ],
-    [ "i_builder", "dd/d90/a09997.html#a83bda52b10d30f7fd633c285b79e740b", null ],
-    [ "i_data_cache", "dd/d90/a09997.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
+    [ "ObjectTypeIdCheck", "dd/d90/a09997.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
+    [ "operator()", "dd/d90/a09997.html#a9cbd09a6021bef7819a0002952264293", null ],
+    [ "_equals", "dd/d90/a09997.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
+    [ "_typeId", "dd/d90/a09997.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
 ];

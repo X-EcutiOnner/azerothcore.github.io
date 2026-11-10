@@ -1,12 +1,12 @@
 var a10873 =
 [
-    [ "GroupScript", "d9/d31/a10873.html#a6fd439e90bee7e42c2bd493497eb418c", null ],
-    [ "CanGroupJoinBattlegroundQueue", "d9/d31/a10873.html#a931b4a94a2f95958579b37c0af6ece03", null ],
-    [ "IsDatabaseBound", "d9/d31/a10873.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
-    [ "OnAddMember", "d9/d31/a10873.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
-    [ "OnChangeLeader", "d9/d31/a10873.html#a64a1441fd3db3f25236691efcff4a80b", null ],
-    [ "OnCreate", "d9/d31/a10873.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
-    [ "OnDisband", "d9/d31/a10873.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
-    [ "OnInviteMember", "d9/d31/a10873.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
-    [ "OnRemoveMember", "d9/d31/a10873.html#a55410c643fdeed3fd270d6f3a7826d4d", null ]
+    [ "DatabaseScript", "d9/d31/a10873.html#a323ab8c4dc1e4c2501eeb833ce89ab87", null ],
+    [ "IsDatabaseBound", "d9/d31/a10873.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
+    [ "OnAfterDatabaseLoadCreatureTemplates", "d9/d31/a10873.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
+    [ "OnAfterDatabasesLoaded", "d9/d31/a10873.html#ab52afc833cb462693f5e0d79cff6bb3f", null ],
+    [ "OnDatabaseGetDBRevision", "d9/d31/a10873.html#a61dba3526358f020f10965c1285ea17f", null ],
+    [ "OnDatabaseWarnAboutSyncQueries", "d9/d31/a10873.html#a03a50d201a9290fc9cfd0856156bc77a", null ],
+    [ "OnModuleDatabasesClosing", "d9/d31/a10873.html#af011bbb81be4c1f5d88456880233499f", null ],
+    [ "OnModuleDatabasesKeepAlive", "d9/d31/a10873.html#a18bf8214af415218f6b4a911b32d9109", null ],
+    [ "OnModuleDatabasesLoading", "d9/d31/a10873.html#a887413cff0c9e65acead62797944d8b3", null ]
 ];

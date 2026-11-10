@@ -1,19 +1,7 @@
 var a02417 =
 [
-    [ "ArenaSeasonReward", "de/d40/a07718.html", "de/d40/a07718" ],
-    [ "ArenaSeasonRewardGroup", "db/d64/a07722.html", "db/d64/a07722" ],
-    [ "ArenaSeasonMgr", "d8/d58/a07726.html", "d8/d58/a07726" ],
-    [ "sArenaSeasonMgr", "de/d76/a02417.html#ac46c94dc4c6cf0de37233cdd42a97ccf", null ],
-    [ "ArenaSeasonRewardGroupCriteriaType", "de/d76/a02417.html#a983281e9aada2538d6bc53ae4dd4d266", [
-      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE", "de/d76/a02417.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422", null ],
-      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE", "de/d76/a02417.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63", null ]
-    ] ],
-    [ "ArenaSeasonRewardType", "de/d76/a02417.html#a89a1f93759bb943ff9ef0e4991579265", [
-      [ "ARENA_SEASON_REWARD_TYPE_ITEM", "de/d76/a02417.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32", null ],
-      [ "ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT", "de/d76/a02417.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444", null ]
-    ] ],
-    [ "ArenaSeasonState", "de/d76/a02417.html#a64f8715fead51dc9727d105bce4d0e38", [
-      [ "ARENA_SEASON_STATE_DISABLED", "de/d76/a02417.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017", null ],
-      [ "ARENA_SEASON_STATE_IN_PROGRESS", "de/d76/a02417.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8", null ]
-    ] ]
+    [ "ArenaTeamMgr", "d4/dc3/a07781.html", "d4/dc3/a07781" ],
+    [ "sArenaTeamMgr", "de/d76/a02417.html#a94afc7262fb2f00293dc80de8ba547df", null ],
+    [ "MAX_ARENA_TEAM_ID", "de/d76/a02417.html#aa472ba6cfd587021965aece0e77797b7", null ],
+    [ "MAX_TEMP_ARENA_TEAM_ID", "de/d76/a02417.html#ade4bc52db611f6481d3c8f5e6f346b4c", null ]
 ];

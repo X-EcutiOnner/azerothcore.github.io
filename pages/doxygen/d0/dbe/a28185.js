@@ -1,6 +1,7 @@
 var a28185 =
 [
-    [ "achievement_arena_by_type", "d0/dbe/a28185.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d0/dbe/a28185.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d0/dbe/a28185.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "HandleProc", "d0/dbe/a28185.html#ae41ac4278c643bcd14ff4ab0ecc6dc46", null ],
+    [ "PrepareAuraScript", "d0/dbe/a28185.html#abdb4073728e7e637a8538a238eda2f6d", null ],
+    [ "Register", "d0/dbe/a28185.html#a052f2a48c2b30b5e83c95eb4aada0899", null ],
+    [ "Validate", "d0/dbe/a28185.html#a04085f70b61ea7ff2073a1cd777eca1b", null ]
 ];

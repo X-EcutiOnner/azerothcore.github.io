@@ -1,5 +1,5 @@
 var a04247 =
 [
-    [ "pool_commandscript", "df/d27/a12674.html", "df/d27/a12674" ],
-    [ "AddSC_pool_commandscript", "dc/dd9/a04247.html#a933dbb3e5588f0735759e9409b716e55", null ]
+    [ "tele_commandscript", "dd/d5d/a12745.html", "dd/d5d/a12745" ],
+    [ "AddSC_tele_commandscript", "dc/dd9/a04247.html#a75673ffc02c68c43cefd69bb0648dd53", null ]
 ];

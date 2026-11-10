@@ -1,8 +1,6 @@
 var a15301 =
 [
-    [ "hyjalThrallAI", "da/dd4/a15301.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "da/dd4/a15301.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "da/dd4/a15301.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "da/dd4/a15301.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "da/dd4/a15301.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "OnRemove", "da/dd4/a15301.html#af9da33426d8ea4462f7d9957c4312019", null ],
+    [ "PrepareAuraScript", "da/dd4/a15301.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
+    [ "Register", "da/dd4/a15301.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
 ];

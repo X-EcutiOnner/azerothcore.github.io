@@ -1,7 +1,8 @@
 var a23313 =
 [
-    [ "HandleProc", "da/dbf/a23313.html#a43892c85339867a65e992b7f17fdc61c", null ],
-    [ "PrepareAuraScript", "da/dbf/a23313.html#ab5728e2c3df5b887c26f2485575087ff", null ],
-    [ "Register", "da/dbf/a23313.html#aae9f80730de402ebbda918e0116e59a0", null ],
-    [ "Validate", "da/dbf/a23313.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
+    [ "Absorb", "da/dbf/a23313.html#a1c054ce067a620e16611cbb9e784cee1", null ],
+    [ "CalculateAmount", "da/dbf/a23313.html#abd828dd3493339db9c0613e960792941", null ],
+    [ "PrepareAuraScript", "da/dbf/a23313.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
+    [ "Register", "da/dbf/a23313.html#a85840e7d27a7ed256c45de87f4486d45", null ],
+    [ "Update", "da/dbf/a23313.html#afbf28fd4eb66899a424e0b542d561656", null ]
 ];

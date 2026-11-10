@@ -1,6 +1,6 @@
 var a27433 =
 [
-    [ "HandleEffectPeriodic", "da/d66/a27433.html#a29eb3f3dadd45ccab069222fc36cea09", null ],
-    [ "PrepareAuraScript", "da/d66/a27433.html#aaa8296439ffe69eafdd1cece8ec346ad", null ],
-    [ "Register", "da/d66/a27433.html#a0a62a0bcf39a781289e1467384ac82cb", null ]
+    [ "CheckRequirement", "da/d66/a27433.html#a4ad49f2f781d1c6b27dd04f46203c6d4", null ],
+    [ "PrepareSpellScript", "da/d66/a27433.html#a4263eebcb64f00152a4b64dafef20510", null ],
+    [ "Register", "da/d66/a27433.html#a8b825a97f50abb0231036a3ff651531d", null ]
 ];

@@ -1,13 +1,8 @@
 var a22221 =
 [
-    [ "npc_sorlof", "db/d6e/a22221.html#afdac1cfc891e8cfda3506022e5f79204", null ],
-    [ "JustDied", "db/d6e/a22221.html#a53440692c7e64f03e601dc9ab65bc3cb", null ],
-    [ "MovementInform", "db/d6e/a22221.html#a0128234c450bcef8e3c9ebc6fee0c578", null ],
-    [ "MoveToNextNode", "db/d6e/a22221.html#a6a80487d0c5e55d9216efb63dbdd598e", null ],
-    [ "Reset", "db/d6e/a22221.html#a6b34547c0ae6b588a788e57353b933c8", null ],
-    [ "SetData", "db/d6e/a22221.html#a388be22752dc524735459e62a97fe510", null ],
-    [ "UpdateAI", "db/d6e/a22221.html#a1165631ba6c172930691766cfb73eda8", null ],
-    [ "_advancePath", "db/d6e/a22221.html#aa731d85060b9280ef172a2e15614aaf9", null ],
-    [ "_pathId", "db/d6e/a22221.html#ab3d9b633e7304d65fda49890b5c9672e", null ],
-    [ "_pathNode", "db/d6e/a22221.html#a33fa8fa6c768335887daaab226b8cff2", null ]
+    [ "FilterTargets", "db/d6e/a22221.html#aa78b0121f4c30f69d51695b2f5e74eb6", null ],
+    [ "HandleScript", "db/d6e/a22221.html#a588bcf6f271491dc42eb8455fe594aea", null ],
+    [ "PrepareSpellScript", "db/d6e/a22221.html#a0e1998798f47ebdccdc649925967be47", null ],
+    [ "Register", "db/d6e/a22221.html#adc24d17bdeaeb30b9304ed5e2365414f", null ],
+    [ "Validate", "db/d6e/a22221.html#a4f11c9bd5563529e6b62db239a1ce1b7", null ]
 ];

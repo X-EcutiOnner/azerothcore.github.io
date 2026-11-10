@@ -1,10 +1,11 @@
 var a17465 =
 [
-    [ "boss_frostsworn_general", "d3/d73/a17465.html#adae1b1d60e78a33b875ac08312a454cf", null ],
-    [ "EnterEvadeMode", "d3/d73/a17465.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
-    [ "JustDied", "d3/d73/a17465.html#a14741cafce857fa819418ec3208c62fc", null ],
-    [ "JustEngagedWith", "d3/d73/a17465.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
-    [ "Reset", "d3/d73/a17465.html#a1576562e5fe2247235b152029aa8edce", null ],
-    [ "UpdateAI", "d3/d73/a17465.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
-    [ "instance", "d3/d73/a17465.html#ab04347cee4d7542171d622cfde936cb1", null ]
+    [ "npc_spectral_footman", "d3/d73/a17465.html#ab12174cbf246178b52c074024453015e", null ],
+    [ "AttackStart", "d3/d73/a17465.html#a0fe7529c47d56f67b15023bc432f0498", null ],
+    [ "DoAction", "d3/d73/a17465.html#a9a81be4f5c159e64ba0f8926ea095f81", null ],
+    [ "EnterEvadeMode", "d3/d73/a17465.html#afc51e0562045028af7161ea66e7be9f0", null ],
+    [ "JustDied", "d3/d73/a17465.html#ae4292ffa4b9e142b41e58d31338b97b5", null ],
+    [ "JustEngagedWith", "d3/d73/a17465.html#a9d8d723b403035660b78c332d5813d3f", null ],
+    [ "Reset", "d3/d73/a17465.html#a1c3612a7d9ac3076392c5c22e4e0a73e", null ],
+    [ "UpdateAI", "d3/d73/a17465.html#af76de9237937199dfa715a445b0060c3", null ]
 ];

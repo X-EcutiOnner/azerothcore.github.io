@@ -1,5 +1,11 @@
 var a13761 =
 [
-    [ "at_malfurion_stormrage", "dd/d04/a13761.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
-    [ "OnTrigger", "dd/d04/a13761.html#aaeae64b901ee7b0752425e35af9f4af6", null ]
+    [ "boss_baroness_anastariAI", "dd/d04/a13761.html#acf180bbe881ba1f6e49c075254759c00", null ],
+    [ "JustDied", "dd/d04/a13761.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
+    [ "JustEngagedWith", "dd/d04/a13761.html#a7329455d99045e7002abffe09112a4ea", null ],
+    [ "Reset", "dd/d04/a13761.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
+    [ "SchedulePossession", "dd/d04/a13761.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
+    [ "UpdateAI", "dd/d04/a13761.html#a962e4e3091d126682825c326af5f6922", null ],
+    [ "_possessedTargetGuid", "dd/d04/a13761.html#a36e386b847c7032b5ce95a01070518ad", null ],
+    [ "_scheduler", "dd/d04/a13761.html#aa59518627a5e64e371dbbb45cfced75f", null ]
 ];

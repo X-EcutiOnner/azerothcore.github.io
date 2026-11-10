@@ -1,6 +1,6 @@
 var a16817 =
 [
-    [ "boss_eadricAI", "dd/d22/a16821.html", "dd/d22/a16821" ],
-    [ "boss_eadric", "d5/d85/a16817.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
-    [ "GetAI", "d5/d85/a16817.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
+    [ "npc_living_infernoAI", "d5/d85/a16817.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "d5/d85/a16817.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "d5/d85/a16817.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

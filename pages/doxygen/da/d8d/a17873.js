@@ -1,7 +1,6 @@
 var a17873 =
 [
-    [ "HandleDummyTick", "da/d8d/a17873.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "da/d8d/a17873.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "da/d8d/a17873.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "da/d8d/a17873.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "HandleStackDrop", "da/d8d/a17873.html#a5c1064d764a6bfa4b3fde8bf57316e44", null ],
+    [ "PrepareAuraScript", "da/d8d/a17873.html#a294db521fc56c4fe5e50317fedd8a86d", null ],
+    [ "Register", "da/d8d/a17873.html#a45b1fd2c1896023d71a0916100376e57", null ]
 ];

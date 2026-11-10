@@ -1,6 +1,7 @@
 var a26821 =
 [
-    [ "HandleRemove", "db/dd3/a26821.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "db/dd3/a26821.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "db/dd3/a26821.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "HandleProc", "db/dd3/a26821.html#a00e4e7a77373767f4a68f0ee209d4e7d", null ],
+    [ "PrepareAuraScript", "db/dd3/a26821.html#a1b93f0cedfac153c2dab9d331d9fae0f", null ],
+    [ "Register", "db/dd3/a26821.html#a6d171ec8688075496ec7d9f2325a5a1c", null ],
+    [ "Validate", "db/dd3/a26821.html#a74be985272c75fff9592927ea010a9d9", null ]
 ];

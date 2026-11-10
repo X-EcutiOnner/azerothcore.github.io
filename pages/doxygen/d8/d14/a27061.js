@@ -1,6 +1,8 @@
 var a27061 =
 [
-    [ "HandleAfterHit", "d8/d14/a27061.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "d8/d14/a27061.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "d8/d14/a27061.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "CheckProc", "d8/d14/a27061.html#acfdb90639eb05a5ec252c20c9f302fed", null ],
+    [ "HandleProc", "d8/d14/a27061.html#aa2e48771627700ee12153b13a094cea8", null ],
+    [ "PrepareAuraScript", "d8/d14/a27061.html#a0fec47a0918ecfe3517c63190b27e91c", null ],
+    [ "Register", "d8/d14/a27061.html#a88b06e814ade33fad51c8036d963f654", null ],
+    [ "Validate", "d8/d14/a27061.html#ae9911ba6c95cfc6c345743b0f970062b", null ]
 ];

@@ -1,8 +1,11 @@
 var a06353 =
 [
-    [ "UpdateResult", "db/de4/a06353.html#af32cdf09d32607955c98353fbfa7d392", null ],
-    [ "UpdateResult", "db/de4/a06353.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
-    [ "archived", "db/de4/a06353.html#adee274af5f5d6981e28b3587008d690c", null ],
-    [ "recent", "db/de4/a06353.html#aea54f4388b659def734957a47e9cca8c", null ],
-    [ "updated", "db/de4/a06353.html#a12b3fffe01639493fc405bd5a797f463", null ]
+    [ "AppenderDB", "db/de4/a06353.html#af8e48076d47a06c73f6b8ae054955a83", null ],
+    [ "~AppenderDB", "db/de4/a06353.html#a7da848083d02833acc632051a2d938bf", null ],
+    [ "_write", "db/de4/a06353.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
+    [ "getType", "db/de4/a06353.html#a96221ceed23435556df03c5f7ffab61e", null ],
+    [ "setRealmId", "db/de4/a06353.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
+    [ "enabled", "db/de4/a06353.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
+    [ "realmId", "db/de4/a06353.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
+    [ "type", "db/de4/a06353.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
 ];

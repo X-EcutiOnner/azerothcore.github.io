@@ -1,9 +1,7 @@
 var a08433 =
 [
-    [ "cancelTime", "d8/d5f/a08433.html#ac1d5edf075556c488aff36799ee6cb96", null ],
-    [ "dungeons", "d8/d5f/a08433.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
-    [ "leader", "d8/d5f/a08433.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
-    [ "rDungeonId", "d8/d5f/a08433.html#af07fdfed0b56211af723db06959013f6", null ],
-    [ "roles", "d8/d5f/a08433.html#a3759dc8140194b09be842365dc0053d7", null ],
-    [ "state", "d8/d5f/a08433.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
+    [ "LfgJoinResultData", "d8/d5f/a08433.html#a1d711d49a6b49f55eb3771352b294b95", null ],
+    [ "lockmap", "d8/d5f/a08433.html#aff918b3c02ca76982a964402175f8ad7", null ],
+    [ "result", "d8/d5f/a08433.html#aa713cbc1930962d520883523f6f6446c", null ],
+    [ "state", "d8/d5f/a08433.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
 ];

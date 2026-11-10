@@ -1,7 +1,6 @@
 var a24921 =
 [
-    [ "AfterApply", "de/d42/a24921.html#aee69eceead7e31cce2638ff252f6653d", null ],
-    [ "AfterRemove", "de/d42/a24921.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
-    [ "PrepareAuraScript", "de/d42/a24921.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
-    [ "Register", "de/d42/a24921.html#ab5f8afbfa688ebd548a5508543498b55", null ]
+    [ "HandleEffectCalcSpellMod", "de/d42/a24921.html#afbeb38535f9330cb1e74345f0c3a833a", null ],
+    [ "PrepareAuraScript", "de/d42/a24921.html#a911a292f535abda7b56d837a05c66d0d", null ],
+    [ "Register", "de/d42/a24921.html#a46493bf3521a0427a63596734d592c61", null ]
 ];

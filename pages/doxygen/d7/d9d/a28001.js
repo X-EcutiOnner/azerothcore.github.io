@@ -1,7 +1,7 @@
 var a28001 =
 [
-    [ "HandleProc", "d7/d9d/a28001.html#a1ebfd477399cbac2cba33cfd90db72e6", null ],
-    [ "PrepareAuraScript", "d7/d9d/a28001.html#aadbaea984fedb04e77b92174efd5e83d", null ],
-    [ "Register", "d7/d9d/a28001.html#aedd1652a571275a305db70fbbe6f725c", null ],
-    [ "Validate", "d7/d9d/a28001.html#a28c281aeef80409b419753f71da80f92", null ]
+    [ "CalculateAmount", "d7/d9d/a28001.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
+    [ "PrepareAuraScript", "d7/d9d/a28001.html#a20dad49a99420556f393a16525eb14b4", null ],
+    [ "Register", "d7/d9d/a28001.html#ad7d339ab137ebd640981f7789e1757f0", null ],
+    [ "Validate", "d7/d9d/a28001.html#a341acb2dd25c1db94777f7036f3338ac", null ]
 ];

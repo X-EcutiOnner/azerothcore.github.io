@@ -1,6 +1,7 @@
 var a24089 =
 [
-    [ "HandleScriptEffect", "dc/d7a/a24089.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
-    [ "PrepareSpellScript", "dc/d7a/a24089.html#af475c0968aabaf56e8ca38950ad651f0", null ],
-    [ "Register", "dc/d7a/a24089.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
+    [ "HandleEffect", "dc/d7a/a24089.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "dc/d7a/a24089.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "dc/d7a/a24089.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "dc/d7a/a24089.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

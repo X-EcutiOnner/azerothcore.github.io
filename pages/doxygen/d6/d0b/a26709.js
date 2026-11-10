@@ -1,7 +1,6 @@
 var a26709 =
 [
-    [ "AfterRemove", "d6/d0b/a26709.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "d6/d0b/a26709.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "d6/d0b/a26709.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "d6/d0b/a26709.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "OnRemove", "d6/d0b/a26709.html#ae1f257e43effcb396d57d42db3063afd", null ],
+    [ "PrepareAuraScript", "d6/d0b/a26709.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
+    [ "Register", "d6/d0b/a26709.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
 ];

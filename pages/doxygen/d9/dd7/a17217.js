@@ -1,5 +1,7 @@
 var a17217 =
 [
-    [ "boss_eydisAI", "d9/dd7/a17217.html#a0e97e184b2a2f610730cd3d455702955", null ],
-    [ "JustSummoned", "d9/dd7/a17217.html#aa5ae64cfe003a25859364a12cb871199", null ]
+    [ "HandleRemove", "d9/dd7/a17217.html#abaaf6d96458eb98f69552c2694c20698", null ],
+    [ "PrepareAuraScript", "d9/dd7/a17217.html#a9d219779962cb05103c90eb66a0eac60", null ],
+    [ "Register", "d9/dd7/a17217.html#abbfc73e3f4a822c47242000bf093a46f", null ],
+    [ "Validate", "d9/dd7/a17217.html#a5c4566711923c08a879a1be3f2b2f1ee", null ]
 ];

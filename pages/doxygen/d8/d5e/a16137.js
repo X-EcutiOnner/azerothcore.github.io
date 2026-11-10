@@ -1,7 +1,7 @@
 var a16137 =
 [
-    [ "npc_giant_spotlightAI", "d8/d5e/a16137.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d8/d5e/a16137.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d8/d5e/a16137.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d8/d5e/a16137.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "HandleDummy", "d8/d5e/a16137.html#a478665938b298fa87bde5bd764bcde18", null ],
+    [ "PrepareSpellScript", "d8/d5e/a16137.html#adc581ed46587afcc8be3800ae79105f6", null ],
+    [ "Register", "d8/d5e/a16137.html#a7d09808ea2fdec450fcd129e996bd245", null ],
+    [ "Validate", "d8/d5e/a16137.html#a28c0efdb7274372a43e286a923e08f56", null ]
 ];

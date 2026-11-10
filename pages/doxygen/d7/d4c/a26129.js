@@ -1,6 +1,6 @@
 var a26129 =
 [
-    [ "CheckProc", "d7/d4c/a26129.html#acac962ba1cb72615772fe8bc81d24f9d", null ],
-    [ "PrepareAuraScript", "d7/d4c/a26129.html#aebe1c8083ba09c21125c47843b2949da", null ],
-    [ "Register", "d7/d4c/a26129.html#adde6dada6b3012c2650ba9173c6616a0", null ]
+    [ "HandleSummon", "d7/d4c/a26129.html#ad1ee0eb347454d50216610a266226d68", null ],
+    [ "PrepareSpellScript", "d7/d4c/a26129.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
+    [ "Register", "d7/d4c/a26129.html#aa145041af68291f107c3ff11ce15b85e", null ]
 ];

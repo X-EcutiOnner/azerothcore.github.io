@@ -1,9 +1,9 @@
 var a26905 =
 [
-    [ "spell_pal_judgement", "db/d1f/a26905.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
-    [ "HandleScriptEffect", "db/d1f/a26905.html#add419a824dbebdc168d2b6dc49d07913", null ],
-    [ "PrepareSpellScript", "db/d1f/a26905.html#a2cffed69c16a1a6189048ed52af35152", null ],
-    [ "Register", "db/d1f/a26905.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
-    [ "Validate", "db/d1f/a26905.html#a3971c195a279338253771675131b4802", null ],
-    [ "_spellId", "db/d1f/a26905.html#ad49ea02800078c672747f4fdbbab1d20", null ]
+    [ "Load", "db/d1f/a26905.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "db/d1f/a26905.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "db/d1f/a26905.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "db/d1f/a26905.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "db/d1f/a26905.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "db/d1f/a26905.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

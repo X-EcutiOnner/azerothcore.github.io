@@ -1,6 +1,7 @@
 var a24349 =
 [
-    [ "npc_invis_infernal_casterAI", "d6/d38/a24353.html", "d6/d38/a24353" ],
-    [ "npc_invis_infernal_caster", "d1/d84/a24349.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "d1/d84/a24349.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "npc_bessyAI", "d6/d38/a24353.html", "d6/d38/a24353" ],
+    [ "npc_bessy", "d1/d84/a24349.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d1/d84/a24349.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d1/d84/a24349.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

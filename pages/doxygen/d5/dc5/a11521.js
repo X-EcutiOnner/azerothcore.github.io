@@ -1,12 +1,7 @@
 var a11521 =
 [
-    [ "Complain", "d5/dc5/a11521.html#aa1cf8c3159d1334186b28c0abf0b5bec", null ],
-    [ "Read", "d5/dc5/a11521.html#a5a5cc78c807ce5d1e455bedd283c0f4d", null ],
-    [ "ChannelId", "d5/dc5/a11521.html#a134b3bc2c782494fff06b5d83a2b9f98", null ],
-    [ "Description", "d5/dc5/a11521.html#a557676064707e2597a10e9b2efc9d09a", null ],
-    [ "MailIdOrMessageType", "d5/dc5/a11521.html#a1dc57952838e5eccaefe64f381584f4f", null ],
-    [ "SecondsSinceMessage", "d5/dc5/a11521.html#ac436590edc1d7de977edb9472100d9a2", null ],
-    [ "SpammerGuid", "d5/dc5/a11521.html#a4a8b664b598624046b26953051a28718", null ],
-    [ "SpamType", "d5/dc5/a11521.html#aece15ac467b310fc170844119978aa2a", null ],
-    [ "Unk1", "d5/dc5/a11521.html#a7cc02360329a0b67c67fb5798d1e658d", null ]
+    [ "RandomRollClient", "d5/dc5/a11521.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
+    [ "Read", "d5/dc5/a11521.html#ab682763f35a40f776b1742927df0a336", null ],
+    [ "Max", "d5/dc5/a11521.html#a45a1e140ed402f54deb4c0798360a43a", null ],
+    [ "Min", "d5/dc5/a11521.html#a3cd07e7891b43b453b56013d76f51f71", null ]
 ];

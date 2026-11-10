@@ -1,7 +1,10 @@
 var a30049 =
 [
-    [ "ExpectDate", "db/d59/a30049.html#a4d45a7190580f2191020d031ad0aab10", null ],
-    [ "IsLeapYear", "db/d59/a30049.html#af80c133dce034eed150593681fba594d", null ],
-    [ "IsValidDate", "db/d59/a30049.html#af1ee91196bfb749605bf98f4441a03a4", null ],
-    [ "NormalizeTm", "db/d59/a30049.html#af4587d4154c059f5e472f00f141a771a", null ]
+    [ "SetUp", "db/d59/a30049.html#a577c64b32e7d6e1055f23a9204a9dc9d", null ],
+    [ "TearDown", "db/d59/a30049.html#a154bc25a4e054558748b5599b56de11f", null ],
+    [ "_creatureA", "db/d59/a30049.html#a95e6c0f1f7a8692ec255c052b40416df", null ],
+    [ "_creatureB", "db/d59/a30049.html#af5d64516264eeb9f1acadeeba44b79c2", null ],
+    [ "_map", "db/d59/a30049.html#ada2e0d28b42465ea6f7c8de71142efd0", null ],
+    [ "_previousWorld", "db/d59/a30049.html#a2805a828f7a7c92845f7c712b90af381", null ],
+    [ "_worldMock", "db/d59/a30049.html#ab8d82db4b26a11e286ec603c63ea1613", null ]
 ];

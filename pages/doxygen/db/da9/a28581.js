@@ -1,8 +1,5 @@
 var a28581 =
 [
-    [ "trigger_periodicAI", "db/da9/a28581.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "db/da9/a28581.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "db/da9/a28581.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "db/da9/a28581.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "db/da9/a28581.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "item_only_for_flight", "db/da9/a28581.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "db/da9/a28581.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

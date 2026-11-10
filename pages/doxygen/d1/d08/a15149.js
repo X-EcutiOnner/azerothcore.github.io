@@ -1,5 +1,6 @@
 var a15149 =
 [
-    [ "npc_pilgrims_bounty_plate", "d1/d08/a15149.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
-    [ "SpellHit", "d1/d08/a15149.html#a7797b7a532336542ef37f0643df8dec0", null ]
+    [ "HandleAfterEffectRemove", "d1/d08/a15149.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
+    [ "PrepareAuraScript", "d1/d08/a15149.html#a3b54e232c0502eaa03b314a05dce1835", null ],
+    [ "Register", "d1/d08/a15149.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
 ];

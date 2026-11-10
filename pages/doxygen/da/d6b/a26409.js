@@ -1,6 +1,6 @@
 var a26409 =
 [
-    [ "OnPeriodic", "da/d6b/a26409.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
-    [ "PrepareAuraScript", "da/d6b/a26409.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
-    [ "Register", "da/d6b/a26409.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
+    [ "HandleScriptEffect", "da/d6b/a26409.html#a14df2ed73118826254a6ffa923063f6c", null ],
+    [ "PrepareSpellScript", "da/d6b/a26409.html#a1b20ba3fe209ebf0100f32d4013f2d08", null ],
+    [ "Register", "da/d6b/a26409.html#ac70a96209898dc6f2c7b2532dc9f5e6c", null ]
 ];

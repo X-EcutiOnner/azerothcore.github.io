@@ -1,12 +1,7 @@
 var a12377 =
 [
-    [ "Action", "d1/da3/a12377.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
-    [ "Address", "d1/da3/a12377.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
-    [ "CheckId", "d1/da3/a12377.html#a51a0cea0381f2b64e9d240ac39591172", null ],
-    [ "Comment", "d1/da3/a12377.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
-    [ "Data", "d1/da3/a12377.html#a962795028d40645fe67e4290ea64b10b", null ],
-    [ "IdStr", "d1/da3/a12377.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
-    [ "Length", "d1/da3/a12377.html#abe0249d9550042e696eb74edf06aaec8", null ],
-    [ "Str", "d1/da3/a12377.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
-    [ "Type", "d1/da3/a12377.html#aca31cdb700dca4801dfa514812639c70", null ]
+    [ "PlayerDumpReader", "d1/da3/a12377.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "d1/da3/a12377.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "d1/da3/a12377.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "d1/da3/a12377.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

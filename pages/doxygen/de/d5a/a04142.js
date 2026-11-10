@@ -1,5 +1,5 @@
 var a04142 =
 [
-    [ "bf_commandscript", "da/de7/a12522.html", "da/de7/a12522" ],
-    [ "AddSC_bf_commandscript", "de/d5a/a04142.html#a55cfeb06fb5af5d31e3c2627d0db8da8", null ]
+    [ "gm_commandscript", "dc/dad/a12589.html", "dc/dad/a12589" ],
+    [ "AddSC_gm_commandscript", "de/d5a/a04142.html#a65c7b128fdf4dd9807ef514c24918e7b", null ]
 ];

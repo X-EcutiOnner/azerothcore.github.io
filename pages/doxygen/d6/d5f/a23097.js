@@ -1,7 +1,6 @@
 var a23097 =
 [
-    [ "SuckBackEvent", "d6/d5f/a23097.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "d6/d5f/a23097.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "d6/d5f/a23097.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "d6/d5f/a23097.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "HandleSharedRule", "d6/d5f/a23097.html#a94b783490dafae872b65e0bbfed156b9", null ],
+    [ "PrepareSpellScript", "d6/d5f/a23097.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
+    [ "Register", "d6/d5f/a23097.html#a31f2d90059e62da77a719a192d62328b", null ]
 ];

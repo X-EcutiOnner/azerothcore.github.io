@@ -1,7 +1,7 @@
 var a26749 =
 [
-    [ "HandleProc", "d4/d16/a26749.html#a43ab86331d22e82a95371c86cb8c2dc9", null ],
-    [ "PrepareAuraScript", "d4/d16/a26749.html#aac7469b398a46e038e7168f5ff94e8ff", null ],
-    [ "Register", "d4/d16/a26749.html#a70bcd72b90cfd3230cd8c012fabb5512", null ],
-    [ "Validate", "d4/d16/a26749.html#aff4a1b7a5b90a618cdd658dc17d49857", null ]
+    [ "AfterRemove", "d4/d16/a26749.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
+    [ "PrepareAuraScript", "d4/d16/a26749.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
+    [ "Register", "d4/d16/a26749.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
+    [ "Validate", "d4/d16/a26749.html#ae08f33e0271166afa87208faa30684c4", null ]
 ];

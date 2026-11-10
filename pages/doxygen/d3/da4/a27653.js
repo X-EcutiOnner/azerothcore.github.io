@@ -1,7 +1,6 @@
 var a27653 =
 [
-    [ "CalculateAmount", "d3/da4/a27653.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
-    [ "PrepareAuraScript", "d3/da4/a27653.html#aa966d001c3687403dfa2b13e998ca241", null ],
-    [ "Register", "d3/da4/a27653.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
-    [ "Validate", "d3/da4/a27653.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
+    [ "CheckCast", "d3/da4/a27653.html#aecbecbd753b8ed32d51971a090063ef4", null ],
+    [ "PrepareSpellScript", "d3/da4/a27653.html#a0efb319154edb2c798460de72d6a56ed", null ],
+    [ "Register", "d3/da4/a27653.html#acd6ecb0204dd369c410e465551328f56", null ]
 ];

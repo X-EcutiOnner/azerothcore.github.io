@@ -1,12 +1,6 @@
 var a12253 =
 [
-    [ "BroadcastTextBuilder", "d6/d4c/a12253.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
-    [ "operator()", "d6/d4c/a12253.html#a16f9719278e00013c25902846fa1be5b", null ],
-    [ "operator()", "d6/d4c/a12253.html#ac87701626dddffb6b09bf504b97c4d55", null ],
-    [ "_achievementId", "d6/d4c/a12253.html#a82de25331657b17ce0de33f2b374abda", null ],
-    [ "_gender", "d6/d4c/a12253.html#a71032b0749dd75f552107503528e8166", null ],
-    [ "_msgType", "d6/d4c/a12253.html#a232325cefa217843da5cc6db7e5d80fe", null ],
-    [ "_source", "d6/d4c/a12253.html#ab73315225b3aa36a309f45596f7089f4", null ],
-    [ "_target", "d6/d4c/a12253.html#a958b154f3c82188e9684be0f0b7dae56", null ],
-    [ "_textId", "d6/d4c/a12253.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
+    [ "AuraProcHandler", "d6/d4c/a12253.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
+    [ "Call", "d6/d4c/a12253.html#abc0c3be9dee08e995c282f20900f3c46", null ],
+    [ "_HandlerScript", "d6/d4c/a12253.html#ada8d7a5659598b0092739a91ba2653bd", null ]
 ];

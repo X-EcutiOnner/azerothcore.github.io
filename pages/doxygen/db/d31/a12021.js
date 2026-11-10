@@ -1,17 +1,9 @@
 var a12021 =
 [
-    [ "StaticData", "d5/d48/a12025.html", "d5/d48/a12025" ],
-    [ "SpellImplicitTargetInfo", "db/d31/a12021.html#a6eadac193f40d3a14db74d6e07552bdb", null ],
-    [ "SpellImplicitTargetInfo", "db/d31/a12021.html#a8e746c8dd4956a1bedc78c932740dfca", null ],
-    [ "CalcDirectionAngle", "db/d31/a12021.html#ac726d7df6103bc991e650c5d221ec4cc", null ],
-    [ "GetCheckType", "db/d31/a12021.html#a1822c2908aff0701ab6e56ccf1c83a83", null ],
-    [ "GetDirectionType", "db/d31/a12021.html#a094f5c6bc82196355aeded09cb469b7c", null ],
-    [ "GetExplicitTargetMask", "db/d31/a12021.html#ad368870f99d85f27ae2a15ee75b4b5dd", null ],
-    [ "GetObjectType", "db/d31/a12021.html#a964c185b1d3ed3563c6efa68e8bf9f42", null ],
-    [ "GetReferenceType", "db/d31/a12021.html#a59769a12291673682e1b5c3650e8aff7", null ],
-    [ "GetSelectionCategory", "db/d31/a12021.html#a5dd39484ccfed1e34b27d957614b45e6", null ],
-    [ "GetTarget", "db/d31/a12021.html#ae5a138c973300efce4744ea260108097", null ],
-    [ "IsArea", "db/d31/a12021.html#a263a4660dfdf8b77f69e5475048b414b", null ],
-    [ "_data", "db/d31/a12021.html#a1a05bbd8400ec4451ca34b2754e056e9", null ],
-    [ "_target", "db/d31/a12021.html#ab2cec29c53f0b9bc6a016ce177f97c1d", null ]
+    [ "WorldObjectSpellAreaTargetCheck", "db/d31/a12021.html#a27df2d4c2d8c39b06a3e11681e16876e", null ],
+    [ "operator()", "db/d31/a12021.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
+    [ "_position", "db/d31/a12021.html#a680c45dd148161657da011a1772375ca", null ],
+    [ "_range", "db/d31/a12021.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ],
+    [ "_referenceType", "db/d31/a12021.html#a87252b8b2dd0d38417c236718aadaa98", null ],
+    [ "_searchReason", "db/d31/a12021.html#aad544cdfe9423a7967dfed64aeaed995", null ]
 ];

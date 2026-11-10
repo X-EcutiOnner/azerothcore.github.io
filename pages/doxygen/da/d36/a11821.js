@@ -1,9 +1,12 @@
 var a11821 =
 [
-    [ "LoginQueryHolder", "da/d36/a11821.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
-    [ "GetAccountId", "da/d36/a11821.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
-    [ "GetGuid", "da/d36/a11821.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
-    [ "Initialize", "da/d36/a11821.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
-    [ "_accountId", "da/d36/a11821.html#a58897938e2c878d8665739ae38d5d116", null ],
-    [ "_guid", "da/d36/a11821.html#aaa4b96d92d6fc702daf07b801b9bdb08", null ]
+    [ "Build", "da/d36/a11821.html#aa5ed2806342a36723f1317105ebc13fa", null ],
+    [ "FormatVersion", "da/d36/a11821.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
+    [ "Locale", "da/d36/a11821.html#acdcbe4c10ad6143b756638349c185ae5", null ],
+    [ "OptionalDataSize", "da/d36/a11821.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
+    [ "SessionKey", "da/d36/a11821.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
+    [ "Signature", "da/d36/a11821.html#a34b88d6d83daeee7827176993c152de4", null ],
+    [ "SnifferId", "da/d36/a11821.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
+    [ "SniffStartTicks", "da/d36/a11821.html#a1884076ea4fe5af08964471d0058fd4d", null ],
+    [ "SniffStartUnixtime", "da/d36/a11821.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
 ];

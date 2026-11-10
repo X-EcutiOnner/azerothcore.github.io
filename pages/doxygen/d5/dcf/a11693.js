@@ -1,8 +1,7 @@
 var a11693 =
 [
-    [ "QuestConfirmAccept", "d5/dcf/a11693.html#a96504f0bcddeb3f339552d95052595c9", null ],
-    [ "Write", "d5/dcf/a11693.html#add2f826fb7a8c9eed85e46a217dff0fc", null ],
-    [ "PlayerGuid", "d5/dcf/a11693.html#a591f77f3c6de30ac07e62a5bedded7d5", null ],
-    [ "QuestId", "d5/dcf/a11693.html#a4c857c0b173f5fd19f2a83123e8e0d44", null ],
-    [ "QuestTitle", "d5/dcf/a11693.html#abf35fe4b947f0b645010009388d80bcd", null ]
+    [ "TimeQueryResponse", "d5/dcf/a11693.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
+    [ "Write", "d5/dcf/a11693.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
+    [ "ServerTime", "d5/dcf/a11693.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
+    [ "TimeResponse", "d5/dcf/a11693.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
 ];

@@ -1,6 +1,7 @@
 var a23649 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "dc/dbc/a23653.html", "dc/dbc/a23653" ],
-    [ "instance_the_underbog", "dc/ddc/a23649.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "dc/ddc/a23649.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "npc_underbog_mushroom", "dc/ddc/a23649.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "dc/ddc/a23649.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "dc/ddc/a23649.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "dc/ddc/a23649.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

@@ -1,6 +1,6 @@
 var a27389 =
 [
-    [ "HandleDummy", "d6/d1b/a27389.html#a86ec9b4606ae92b070edd4ca863fe93e", null ],
-    [ "PrepareSpellScript", "d6/d1b/a27389.html#a4411e4317053450a0ac5217d546952b2", null ],
-    [ "Register", "d6/d1b/a27389.html#a9eea8631e0723555a9c328bdfc1e30b7", null ]
+    [ "HandleDummy", "d6/d1b/a27389.html#aa530b0e27c9b9ba1978a80fd4a47f68d", null ],
+    [ "PrepareSpellScript", "d6/d1b/a27389.html#a22adac71d2693d17313e506f1d12532f", null ],
+    [ "Register", "d6/d1b/a27389.html#a2680afcbe3d7e95404c614e2f0f93bf4", null ]
 ];

@@ -1,6 +1,6 @@
 var a20725 =
 [
-    [ "OnRemoveStun", "d0/d32/a20725.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "d0/d32/a20725.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "d0/d32/a20725.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "boss_kologarn_pit_kill_bunny", "d0/d32/a20725.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "d0/d32/a20725.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "d0/d32/a20725.html#ad863666aec3db81f73165148ffc98033", null ]
 ];

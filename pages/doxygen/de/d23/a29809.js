@@ -1,13 +1,22 @@
 var a29809 =
 [
-    [ "attackType", "de/d23/a29809.html#a4715e7e37c120d791e6a32cd275b8cbd", null ],
-    [ "equippedItemClass", "de/d23/a29809.html#aceba901b7f666b4a3806c35b6d8697ad", null ],
-    [ "equippedItemSubClassMask", "de/d23/a29809.html#a3384bf3ae58fb0977f8fa81f84d940e2", null ],
-    [ "hasEquippedItem", "de/d23/a29809.html#a5d7780265fe18a0657f2a68d9c737fe7", null ],
-    [ "hasNoEquipRequirementAttr", "de/d23/a29809.html#ab754fdbbb49982e7152057341fc3e3af", null ],
-    [ "isInFeralForm", "de/d23/a29809.html#a3d8d88f4640c3100a88efee52ecf5822", null ],
-    [ "isPassive", "de/d23/a29809.html#ad56881b893a29dc5d6be193c6720c4e0", null ],
-    [ "isPlayer", "de/d23/a29809.html#a7de2ea9efe7606f26e2c11d8963357d0", null ],
-    [ "itemFitsRequirements", "de/d23/a29809.html#a760a3b39c124c3f408f0541744b6b34a", null ],
-    [ "itemIsBroken", "de/d23/a29809.html#a3b53871ecd10bd1f6d624431b0907b90", null ]
+    [ "HealInfoStub", "de/d23/a29809.html#afa2b7c6e93b387f16e2b545adc4fa05c", null ],
+    [ "HealInfoStub", "de/d23/a29809.html#ae011c5a0f72cd5581e661793c3ac2fdc", null ],
+    [ "~HealInfoStub", "de/d23/a29809.html#ae599d81216cbcaa69f206ac6eca6d886", null ],
+    [ "GetAbsorb", "de/d23/a29809.html#aae8cd0f206d4dbd78b56838cdb49dad6", null ],
+    [ "GetEffectiveHeal", "de/d23/a29809.html#aa19e94b9523f803f2af09fb77382f3c2", null ],
+    [ "GetHeal", "de/d23/a29809.html#abc0ad944af22920bc105b1b4c71ad467", null ],
+    [ "GetHitMask", "de/d23/a29809.html#ac110638d1729fae0ba6594d7f092d4b0", null ],
+    [ "GetOverheal", "de/d23/a29809.html#a5af3db6eed10c8b2cd17f0509f6085fa", null ],
+    [ "GetSpellInfo", "de/d23/a29809.html#a05ce52ae6ea15c8043dfeae236466017", null ],
+    [ "SetAbsorb", "de/d23/a29809.html#a5f7988705654a3b6f460ddbbecb3992b", null ],
+    [ "SetEffectiveHeal", "de/d23/a29809.html#ad8c263f50edf324a72ca366f6caf4377", null ],
+    [ "SetHeal", "de/d23/a29809.html#a6dede4a2256ff21fde331ae05d257718", null ],
+    [ "SetHitMask", "de/d23/a29809.html#a4f50475819621d56efd4e359ed004483", null ],
+    [ "SetSpellInfo", "de/d23/a29809.html#a2e5ac0bb798710d33e0ff4c29c8507a0", null ],
+    [ "_absorb", "de/d23/a29809.html#a1b6726177d88f4da4b4fa36e96136711", null ],
+    [ "_effectiveHeal", "de/d23/a29809.html#aab54619f78456698c646d83ac448e1e2", null ],
+    [ "_heal", "de/d23/a29809.html#a44c86cf0c0d87d9ceb9574ced0990845", null ],
+    [ "_hitMask", "de/d23/a29809.html#a2228ffd4334cc5adff51e67394d19de9", null ],
+    [ "_spellInfo", "de/d23/a29809.html#a94cd95b537e2510047da23a7f9176aa6", null ]
 ];

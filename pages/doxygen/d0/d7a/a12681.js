@@ -1,8 +1,7 @@
 var a12681 =
 [
-    [ "RBACCommandData", "d0/d7a/a12681.html#a05b9fb0ce4d459f4f4bf6fab258b0737", null ],
-    [ "RBACCommandData", "d0/d7a/a12681.html#ae871dc19c052c205378810f91534caf6", null ],
-    [ "~RBACCommandData", "d0/d7a/a12681.html#adf59e804b6cc4779da75f07f8e904f43", null ],
-    [ "needDelete", "d0/d7a/a12681.html#a97e567ffef62804e327d909ad4c2a385", null ],
-    [ "rbac", "d0/d7a/a12681.html#ac681f852bea86d3bd1e290c93cf5e285", null ]
+    [ "player_commandscript", "d0/d7a/a12681.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
+    [ "GetCommands", "d0/d7a/a12681.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
+    [ "HandlePlayerLearnCommand", "d0/d7a/a12681.html#a6ca511bcecf73049665772cb80dbcf40", null ],
+    [ "HandlePlayerUnLearnCommand", "d0/d7a/a12681.html#a22fddb5da1278fe794a78a899c423bfd", null ]
 ];

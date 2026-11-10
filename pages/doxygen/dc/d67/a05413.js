@@ -1,5 +1,5 @@
 var a05413 =
 [
-    [ "TileEntries", "dc/d67/a05413.html#ac982af8210389fe769d161a12d4cdb5f", null ],
-    [ "UniqueEntries", "dc/d67/a05413.html#a5ba6c948eedc6c070a7eb6aa3816d85c", null ]
+    [ "hitModel", "dc/d67/a05413.html#a4d0c56a02fb5f454753a3dba17e9d67b", null ],
+    [ "rootId", "dc/d67/a05413.html#aa855bd49800e7a3b6713d72f0cf629d5", null ]
 ];

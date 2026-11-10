@@ -1,6 +1,6 @@
 var a28473 =
 [
-    [ "go_fel_crystalforge", "d7/d58/a28473.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "d7/d58/a28473.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "d7/d58/a28473.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "go_midsummer_musicAI", "dc/de6/a28477.html", "dc/de6/a28477" ],
+    [ "go_midsummer_music", "d7/d58/a28473.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
+    [ "GetAI", "d7/d58/a28473.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
 ];

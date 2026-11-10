@@ -1,9 +1,16 @@
 var a16205 =
 [
-    [ "go_wind_stoneAI", "d5/d2b/a16205.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
-    [ "GossipHello", "d5/d2b/a16205.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
-    [ "GossipSelect", "d5/d2b/a16205.html#aff4dedbf3a6fea405722f7064633edb1", null ],
-    [ "InitializeAI", "d5/d2b/a16205.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
-    [ "SummonNPC", "d5/d2b/a16205.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
-    [ "_creatureGuid", "d5/d2b/a16205.html#a50ad8b248381a6d9fac7a291796966d6", null ]
+    [ "npc_anachronos_the_ancientAI", "d5/d2b/a16205.html#aad6fbdc3cf33f2deb6dd3cc741e4aec4", null ],
+    [ "HandleAnimation", "d5/d2b/a16205.html#a0bd43e2482a12cda79566f761d448109", null ],
+    [ "Reset", "d5/d2b/a16205.html#a3bd2380cfd18b14aae1ae72a452299bb", null ],
+    [ "UpdateAI", "d5/d2b/a16205.html#a5a55cfec1d204b6657779938e93b6be5", null ],
+    [ "AnachronosQuestTriggerGUID", "d5/d2b/a16205.html#aa51b7cdfb2a37310196c81a01f89a7dd", null ],
+    [ "AnimationCount", "d5/d2b/a16205.html#a504038880b7e837f63f99d477c8a0bba", null ],
+    [ "AnimationTimer", "d5/d2b/a16205.html#a4ca3807429ffa2caca6199ecd66c4015", null ],
+    [ "ArygosGUID", "d5/d2b/a16205.html#a4f2917c85d41d3b5015d6eed56fe9e12", null ],
+    [ "CaelestraszGUID", "d5/d2b/a16205.html#adceafa1ad19ecb7df59f87b501d4622c", null ],
+    [ "eventEnd", "d5/d2b/a16205.html#ad125b9eb7052449a6b75eebde7a192e0", null ],
+    [ "FandralGUID", "d5/d2b/a16205.html#a157af7db82bf943c298b63d8294067ce", null ],
+    [ "MerithraGUID", "d5/d2b/a16205.html#af7088f79687a4109f5701488e9019aeb", null ],
+    [ "PlayerGUID", "d5/d2b/a16205.html#a7e1777ca319e4f6dafc1a035d05dabc0", null ]
 ];

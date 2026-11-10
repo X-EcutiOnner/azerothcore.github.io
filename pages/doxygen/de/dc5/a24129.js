@@ -1,9 +1,8 @@
 var a24129 =
 [
-    [ "boss_nethermancer_sepethrea", "de/dc5/a24129.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "de/dc5/a24129.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "de/dc5/a24129.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "de/dc5/a24129.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "de/dc5/a24129.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "de/dc5/a24129.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "boss_void_reaver", "de/dc5/a24129.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "de/dc5/a24129.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "de/dc5/a24129.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "de/dc5/a24129.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "de/dc5/a24129.html#a02c36ea960de24991f879943991a93c6", null ]
 ];

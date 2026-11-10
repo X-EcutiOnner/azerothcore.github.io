@@ -1,6 +1,6 @@
 var a00707 =
 [
-    [ "Acore::Impl::GenericHMAC< HashCreator, DigestLength >", "de/dd0/a05590.html", "de/dd0/a05590" ],
-    [ "HMAC_SHA1", "d1/d56/a00707.html#a5186a2a02e2301ec3ea7b37d8b41097f", null ],
-    [ "HMAC_SHA256", "d1/d56/a00707.html#a80d906d20826d6c963f50eba5f7c4c2a", null ]
+    [ "GetRandomBytes", "d1/d56/a00707.html#ab09d7cc2f8e11fc5fe6b2323d57b7184", null ],
+    [ "GetRandomBytes", "d1/d56/a00707.html#a797cfc74306f60b5c63eecb37a2061d3", null ],
+    [ "GetRandomBytes", "d1/d56/a00707.html#a2ff283a7b883696205a91f122b194f6f", null ]
 ];

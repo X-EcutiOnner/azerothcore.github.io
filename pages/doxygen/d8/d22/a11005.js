@@ -1,12 +1,8 @@
 var a11005 =
 [
-    [ "Packet", "d8/d22/a11005.html#a316af2b7ce1ac7189fb1e57f534bad11", null ],
-    [ "~Packet", "d8/d22/a11005.html#a2ca1e6377bb2fb10bf042311e72eb5d4", null ],
-    [ "Packet", "d8/d22/a11005.html#a00213b64110a99004b3d9a6b38876cd4", null ],
-    [ "GetRawPacket", "d8/d22/a11005.html#a9d8649e1b035fe7387dcee3e0b062a5e", null ],
-    [ "GetSize", "d8/d22/a11005.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a", null ],
-    [ "operator=", "d8/d22/a11005.html#a6d2afd0d4b0d7daff11868854b7c4715", null ],
-    [ "Read", "d8/d22/a11005.html#a94afc4d66c2b5bced3063bab5a666bfd", null ],
-    [ "Write", "d8/d22/a11005.html#af7c79156d7b6cfe3142fc530f9ed262a", null ],
-    [ "_worldPacket", "d8/d22/a11005.html#ab85f1c9f20117bc5015180165c7b458a", null ]
+    [ "type", "d8/d22/a11005.html#a93b2e49d8b93d48c1fcf9ce460f965d6", null ],
+    [ "EnabledHooks", "d8/d22/a11005.html#ac0ca0ab60e350e783c1297a657e32cdc", null ],
+    [ "HasEnabledHooks", "d8/d22/a11005.html#a8cad14090933423a3bd83b87af723810", null ],
+    [ "LegacyDbValidationCandidate", "d8/d22/a11005.html#a1c71456b199770112365ee54f0bd28ad", null ],
+    [ "PromotedAfterDbLoad", "d8/d22/a11005.html#a1800cba1759f5cdee36e47e3aa4ab2e8", null ]
 ];

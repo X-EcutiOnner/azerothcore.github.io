@@ -1,16 +1,9 @@
 var a09133 =
 [
-    [ "RaceMgr", "da/d69/a09133.html#a78e384652a5e52776f13085d14e6037a", null ],
-    [ "~RaceMgr", "da/d69/a09133.html#a3abfe795c417bf794f3b38a23deac7a3", null ],
-    [ "GetAllianceRaceMask", "da/d69/a09133.html#a6e8a0ba72a13d62321246cb4c11a6f4d", null ],
-    [ "GetHordeRaceMask", "da/d69/a09133.html#ab783bff98d389f35ef89f45327cec299", null ],
-    [ "GetMaxRaces", "da/d69/a09133.html#a5cf45d0a57727daee3432fca51479c32", null ],
-    [ "GetPlayableRaceMask", "da/d69/a09133.html#a0ba5fec061f9bbd2ccbfcad2ea29cd8a", null ],
-    [ "instance", "da/d69/a09133.html#ac54cc09b38129b4d7cfc02767c8ba41e", null ],
-    [ "LoadRaces", "da/d69/a09133.html#a93d2f89ab56fa6d4c20547b411b0a812", null ],
-    [ "SetMaxRaces", "da/d69/a09133.html#a3789528cb72e6f837633b8f3692ea36b", null ],
-    [ "_allianceRaceMask", "da/d69/a09133.html#a694fca25b429d99dad214ea277ade0c7", null ],
-    [ "_hordeRaceMask", "da/d69/a09133.html#a3f27d5d4ae27c1ebe2462f35dbace85e", null ],
-    [ "_maxRaces", "da/d69/a09133.html#af5b87bbc81180f92f18424dfb0181569", null ],
-    [ "_playableRaceMask", "da/d69/a09133.html#a0ddd9c8393001fc41b14dd95eece8400", null ]
+    [ "EntryPointData", "da/d69/a09133.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "da/d69/a09133.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "da/d69/a09133.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "da/d69/a09133.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "da/d69/a09133.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "da/d69/a09133.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

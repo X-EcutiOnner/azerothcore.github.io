@@ -1,8 +1,10 @@
 var a26733 =
 [
-    [ "CheckProc", "d8/d6c/a26733.html#a9895aa713e01c6322363c743049c1bc8", null ],
-    [ "HandleProc", "d8/d6c/a26733.html#ab75f7630b98e266b08d0317bd852b1a9", null ],
-    [ "PrepareAuraScript", "d8/d6c/a26733.html#a7a1066e9cde0a782db105ef32003274d", null ],
-    [ "Register", "d8/d6c/a26733.html#aac269ad519a8c15334526629786b60b3", null ],
-    [ "Validate", "d8/d6c/a26733.html#a42f67d758360e142c9434186a07c1a71", null ]
+    [ "CheckProc", "d8/d6c/a26733.html#a787008462dce35eb27deda41301b146d", null ],
+    [ "HandleProc", "d8/d6c/a26733.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
+    [ "Load", "d8/d6c/a26733.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
+    [ "PrepareAuraScript", "d8/d6c/a26733.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
+    [ "Register", "d8/d6c/a26733.html#aa4ef731870355dc386fcd07c5f19d090", null ],
+    [ "Validate", "d8/d6c/a26733.html#ad04864f0710262364cf40e071446d87c", null ],
+    [ "_procTargetGUID", "d8/d6c/a26733.html#a1cabf65eacb5d10d9430a3ff320bfe1d", null ]
 ];

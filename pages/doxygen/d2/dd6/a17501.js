@@ -1,7 +1,8 @@
 var a17501 =
 [
-    [ "HandleEffectPeriodic", "d2/dd6/a17501.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
-    [ "PrepareAuraScript", "d2/dd6/a17501.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
-    [ "Register", "d2/dd6/a17501.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
-    [ "Validate", "d2/dd6/a17501.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
+    [ "npc_hor_risen_witch_doctor", "d2/dd6/a17501.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "d2/dd6/a17501.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "d2/dd6/a17501.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "d2/dd6/a17501.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "d2/dd6/a17501.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

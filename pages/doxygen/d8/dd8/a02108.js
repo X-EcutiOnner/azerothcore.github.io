@@ -1,6 +1,7 @@
 var a02108 =
 [
-    [ "GetDominantOtherSameSpellApp", "d8/dd8/a02108.html#a35cf5d451332db8c1e4a11f23b11d0ec", null ],
-    [ "IsPaladinAuraDominant", "d8/dd8/a02108.html#a2c54ebda028a15512cff94e01f9f92d8", null ],
-    [ "UPDATE_TARGET_MAP_INTERVAL", "d8/dd8/a02108.html#a49c1eff45f8eb67e523f8593923a5df0", null ]
+    [ "AuraApplication", "d4/dcc/a11953.html", "d4/dcc/a11953" ],
+    [ "Aura", "d7/d43/a11957.html", "d7/d43/a11957" ],
+    [ "UnitAura", "d5/dcd/a11961.html", "d5/dcd/a11961" ],
+    [ "DynObjAura", "d2/dc6/a11965.html", "d2/dc6/a11965" ]
 ];

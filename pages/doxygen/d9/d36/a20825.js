@@ -1,9 +1,13 @@
 var a20825 =
 [
-    [ "npc_ulduar_emergency_fire_bot", "d9/d36/a20825.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
-    [ "AttackStart", "d9/d36/a20825.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
-    [ "MoveInLineOfSight", "d9/d36/a20825.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
-    [ "MovementInform", "d9/d36/a20825.html#a6f7306e3da54511ddbef772044f76950", null ],
-    [ "UpdateAI", "d9/d36/a20825.html#a653df31873aca5acb86020cc1e14f4a0", null ],
-    [ "_events", "d9/d36/a20825.html#a99f051bd7a1136375103005f0615c4f2", null ]
+    [ "npc_ulduar_flames_initial", "d9/d36/a20825.html#ac0ba4a5631f580b23be30f6d19545a1f", null ],
+    [ "DoAction", "d9/d36/a20825.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
+    [ "GetMimironAI", "d9/d36/a20825.html#a173f3b895907e518625b62c08831c1ef", null ],
+    [ "RemoveAll", "d9/d36/a20825.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
+    [ "RemoveFlame", "d9/d36/a20825.html#ad676a542b40b554027fc2ab491fa083d", null ],
+    [ "SpreadFlame", "d9/d36/a20825.html#af50c950610f5277a755d1786b596b9d7", null ],
+    [ "UpdateAI", "d9/d36/a20825.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
+    [ "_createTime", "d9/d36/a20825.html#aa73a9fa2110bd5abdff9b509e13ce333", null ],
+    [ "_events", "d9/d36/a20825.html#a0f99d43d373b61e9c665bd6c0d389afb", null ],
+    [ "_flameList", "d9/d36/a20825.html#a50a26001f8bfe87a3a4f1feb544cf521", null ]
 ];

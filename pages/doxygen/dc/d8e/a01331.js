@@ -1,14 +1,6 @@
 var a01331 =
 [
-    [ "DatabaseScript", "de/de2/a10858.html", "de/de2/a10858" ],
-    [ "DatabaseHook", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707e", [
-      [ "DATABASEHOOK_ON_AFTER_DATABASES_LOADED", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707ea669793dd5bb736daf7bf4e7a57422171", null ],
-      [ "DATABASEHOOK_ON_AFTER_DATABASE_LOAD_CREATURETEMPLATES", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707ea5da0ac4b05308347ca9a69286153d974", null ],
-      [ "DATABASEHOOK_ON_MODULE_DATABASES_LOADING", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707ea3e4b4c302d32dd5148107942c6786405", null ],
-      [ "DATABASEHOOK_ON_MODULE_DATABASES_KEEPALIVE", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707eac7d7207b9239e153df824bc6dd58d816", null ],
-      [ "DATABASEHOOK_ON_MODULE_DATABASES_CLOSING", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707ea642bce2e95802e8d078b36b5595e9be6", null ],
-      [ "DATABASEHOOK_ON_DATABASE_WARN_ABOUT_SYNC_QUERIES", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707eaba48d9e2b4a034a812a90cc0daa438df", null ],
-      [ "DATABASEHOOK_ON_DATABASE_GET_DB_REVISION", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707eaf7b857fe3022dde98e883ae35cfea79a", null ],
-      [ "DATABASEHOOK_END", "dc/d8e/a01331.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04", null ]
-    ] ]
+    [ "InstanceMapScript", "d4/df5/a10913.html", "d4/df5/a10913" ],
+    [ "GenericInstanceMapScript< IS >", "d8/daf/a10917.html", "d8/daf/a10917" ],
+    [ "RegisterInstanceScript", "dc/d8e/a01331.html#a78044a95772db069981b463451a60613", null ]
 ];

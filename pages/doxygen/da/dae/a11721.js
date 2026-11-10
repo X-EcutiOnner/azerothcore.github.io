@@ -1,7 +1,6 @@
 var a11721 =
 [
-    [ "QuestLogSwapQuest", "da/dae/a11721.html#a5c6cca2526e2a6b11b85e8ab7233436b", null ],
-    [ "Read", "da/dae/a11721.html#a7fea7dac43d6988dff5f38218bceb626", null ],
-    [ "Slot1", "da/dae/a11721.html#a5dd83b2c88a07236d8937b2d536d5056", null ],
-    [ "Slot2", "da/dae/a11721.html#a9a98532db2a51821efc95b11b8379f28", null ]
+    [ "QuestGiverQuestInvalid", "da/dae/a11721.html#a7220ac375523d524f905042722522bfb", null ],
+    [ "Write", "da/dae/a11721.html#aed56e88c0fc568d524913c0863a45622", null ],
+    [ "FailureReason", "da/dae/a11721.html#a7c2cc4153399abfbaa4b2b2811d2fde2", null ]
 ];

@@ -1,6 +1,9 @@
 var a21077 =
 [
-    [ "HandleScript", "d4/d2f/a21077.html#a679cf770e38e1fda66f8a64fff53f968", null ],
-    [ "PrepareSpellScript", "d4/d2f/a21077.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
-    [ "Register", "d4/d2f/a21077.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
+    [ "OnProc", "d4/d2f/a21077.html#a94de5901e43000e99b478e9194d59ecd", null ],
+    [ "PrepareAuraScript", "d4/d2f/a21077.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
+    [ "Register", "d4/d2f/a21077.html#acc8a07807e5c306af285cb5889ef2c41", null ],
+    [ "Validate", "d4/d2f/a21077.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
+    [ "_lastOrbTime", "d4/d2f/a21077.html#a4522510d836abf625b019674c1c5281f", null ],
+    [ "OrbCooldown", "d4/d2f/a21077.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
 ];

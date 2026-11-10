@@ -1,4 +1,4 @@
 var a01169 =
 [
-    [ "ScriptRegistry< DatabaseScript >", "d7/daf/a01169.html#aea9c85b8c04ac043bf7c7cb880a57d95", null ]
+    [ "ScriptRegistry< AllBattlegroundScript >", "d7/daf/a01169.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
 ];

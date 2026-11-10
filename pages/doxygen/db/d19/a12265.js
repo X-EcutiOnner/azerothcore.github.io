@@ -1,12 +1,13 @@
 var a12265 =
 [
-    [ "CreatureTextBuilder", "db/d19/a12265.html#a582eed3ab284675e72261a1db9808925", null ],
-    [ "operator()", "db/d19/a12265.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
-    [ "_gender", "db/d19/a12265.html#a615c3046f749bf44b036958fb1a50128", null ],
-    [ "_language", "db/d19/a12265.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
-    [ "_msgType", "db/d19/a12265.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
-    [ "_source", "db/d19/a12265.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
-    [ "_target", "db/d19/a12265.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
-    [ "_textGroup", "db/d19/a12265.html#afcd842c1482980c6232f3f19d21a1481", null ],
-    [ "_textId", "db/d19/a12265.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
+    [ "AsyncFunction", "db/d19/a12265.html#a2addfa1b63edc880ca54fc46e0a6d94b", null ],
+    [ "CallbackFunction", "db/d19/a12265.html#ab2d6148aad6c533ac787ebef69250357", null ],
+    [ "AsyncTask", "db/d19/a12265.html#ad6f8ee54d3e1b0736e34362cd30f1365", null ],
+    [ "~AsyncTask", "db/d19/a12265.html#a553b3c1b778f9dadea8b764f210b8d8c", null ],
+    [ "ExecuteAsync", "db/d19/a12265.html#a1cdc60ddffaa431d19c992c0e389b85d", null ],
+    [ "InvokeIfReady", "db/d19/a12265.html#aecfe1b8d9ab2be59f564939dde44cfb9", null ],
+    [ "asyncFunc", "db/d19/a12265.html#a835a7b06185916adfb632d27ef73c9ce", null ],
+    [ "asyncTask", "db/d19/a12265.html#a81e22f584cc7d48594751038ac113ab2", null ],
+    [ "callbackFunc", "db/d19/a12265.html#a9eb4e4b1eddea03bc0197758d34f9325", null ],
+    [ "isReady", "db/d19/a12265.html#af4b96cd278382c34dbaaa3782df8371b", null ]
 ];

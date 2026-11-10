@@ -1,14 +1,6 @@
 var a11653 =
 [
-    [ "NameQueryResponse", "db/d5a/a11653.html#a04a03faa1ab655eb87d755b603f7b427", null ],
-    [ "Write", "db/d5a/a11653.html#a8bbf006e3b84b9b47df8f1497a6c4eb8", null ],
-    [ "Class", "db/d5a/a11653.html#acd3c6d5f56924fe32bb8a0bddddce13a", null ],
-    [ "Declined", "db/d5a/a11653.html#abe147a5c99db99148cc3b76136eccb2b", null ],
-    [ "DeclinedNames", "db/d5a/a11653.html#a4d3a2f218c8e1763889cc45adc514f0b", null ],
-    [ "Guid", "db/d5a/a11653.html#ae45b2723b1b5a3313566df2d353114f9", null ],
-    [ "Name", "db/d5a/a11653.html#ad2d16050d9229912105c8f2136538d91", null ],
-    [ "NameUnknown", "db/d5a/a11653.html#ab15e54b3abb638a8782ce4eefa77d489", null ],
-    [ "Race", "db/d5a/a11653.html#a74463c6218d56c913df7f24b7491003f", null ],
-    [ "RealmName", "db/d5a/a11653.html#ab52bc81a49ff62ea23f1dd05e4826f6c", null ],
-    [ "Sex", "db/d5a/a11653.html#ae3f54cab19cf94fef55ef1dcac1f1ad8", null ]
+    [ "PetStopAttack", "db/d5a/a11653.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "db/d5a/a11653.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "db/d5a/a11653.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

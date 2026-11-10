@@ -1,7 +1,5 @@
 var a29765 =
 [
-    [ "MockAuraStub", "d9/dec/a29765.html#a9f0561eabca5230f8fe27384e0deb6b8", null ],
-    [ "MOCK_METHOD", "d9/dec/a29765.html#a727233484b563f548c9f0e2d8a78b9a6", null ],
-    [ "MOCK_METHOD", "d9/dec/a29765.html#a9581f1887abbe708bc4e2da24e1996b5", null ],
-    [ "MOCK_METHOD", "d9/dec/a29765.html#abe2d675e124d5cb9115e8f726b1c7d8b", null ]
+    [ "SetUp", "d9/dec/a29765.html#a5c53a827b493cf27c07c8dfb87b02352", null ],
+    [ "TearDown", "d9/dec/a29765.html#af1d517839befebd5782976980eeaa67d", null ]
 ];

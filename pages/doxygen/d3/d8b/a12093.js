@@ -1,7 +1,6 @@
 var a12093 =
 [
-    [ "CategoryRecoveryTime", "d3/d8b/a12093.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "d3/d8b/a12093.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "d3/d8b/a12093.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "d3/d8b/a12093.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "apPctMod", "d3/d8b/a12093.html#a35f5f8f7a3ac33768299913fecc1cf8d", null ],
+    [ "flatMod", "d3/d8b/a12093.html#a0d66e48d986f246e6aea08dd00837158", null ],
+    [ "pctMod", "d3/d8b/a12093.html#af13802a7f6872cfce3a1d14655f30287", null ]
 ];

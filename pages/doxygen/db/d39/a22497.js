@@ -1,6 +1,6 @@
 var a22497 =
 [
-    [ "CheckCast", "db/d39/a22497.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "db/d39/a22497.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "db/d39/a22497.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "npc_brunnhildar_prisonerAI", "d7/d85/a22501.html", "d7/d85/a22501" ],
+    [ "npc_brunnhildar_prisoner", "db/d39/a22497.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
+    [ "GetAI", "db/d39/a22497.html#aa2a1787849c74a5163a39137c9d03d57", null ]
 ];

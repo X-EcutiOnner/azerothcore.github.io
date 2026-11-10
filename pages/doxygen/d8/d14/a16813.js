@@ -1,7 +1,6 @@
 var a16813 =
 [
-    [ "CountAllies", "d8/d14/a16813.html#a207c1fd89fd726054a881e342391d2a0", null ],
-    [ "PrepareSpellScript", "d8/d14/a16813.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
-    [ "Register", "d8/d14/a16813.html#a47574795b2a262625c65ab23a4179684", null ],
-    [ "Validate", "d8/d14/a16813.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
+    [ "npc_living_infernoAI", "d5/d85/a16817.html", "d5/d85/a16817" ],
+    [ "npc_living_inferno", "d8/d14/a16813.html#a7df2bb522e67b6f1864604c7b0182078", null ],
+    [ "GetAI", "d8/d14/a16813.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
 ];

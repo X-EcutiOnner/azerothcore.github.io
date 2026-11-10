@@ -1,6 +1,8 @@
 var a17973 =
 [
-    [ "npc_saurfang_eventAI", "dd/de6/a17977.html", "dd/de6/a17977" ],
-    [ "npc_saurfang_event", "d7/d3d/a17973.html#a3bfce5457466360458498833098d660c", null ],
-    [ "GetAI", "d7/d3d/a17973.html#a953842d2fa3380a8331faf3a42cb3177", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "dd/de6/a17977.html", "dd/de6/a17977" ],
+    [ "npc_muradin_bronzebeard_icc", "d7/d3d/a17973.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
+    [ "GetAI", "d7/d3d/a17973.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
+    [ "OnGossipHello", "d7/d3d/a17973.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
+    [ "OnGossipSelect", "d7/d3d/a17973.html#a46c4893be723a848d985ff55e28d55a2", null ]
 ];

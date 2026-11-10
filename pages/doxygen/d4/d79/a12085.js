@@ -1,7 +1,7 @@
 var a12085 =
 [
-    [ "maxvalue", "d4/d79/a12085.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
-    [ "skill", "d4/d79/a12085.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
-    [ "step", "d4/d79/a12085.html#a1c882f7d43c65954cb99566225660312", null ],
-    [ "value", "d4/d79/a12085.html#a064fece53cdaf07b072510b14200a968", null ]
+    [ "ap_bonus", "d4/d79/a12085.html#a98410b8bb89434cd7e1747462f8039dc", null ],
+    [ "ap_dot_bonus", "d4/d79/a12085.html#a09caeec47b138d9eff3539795416a09a", null ],
+    [ "direct_damage", "d4/d79/a12085.html#abab1af227a6c8e592b8a9bd15589535d", null ],
+    [ "dot_damage", "d4/d79/a12085.html#a92491d8d1e61612d88c7c830d7912be5", null ]
 ];

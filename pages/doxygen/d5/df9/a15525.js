@@ -1,6 +1,8 @@
 var a15525 =
 [
-    [ "npc_onyxian_lair_guard", "d5/df9/a15525.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "d5/df9/a15525.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "d5/df9/a15525.html#ac8649636d5847813e49d2ada05f78645", null ]
+    [ "Load", "d5/df9/a15525.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "d5/df9/a15525.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "d5/df9/a15525.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "d5/df9/a15525.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "d5/df9/a15525.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

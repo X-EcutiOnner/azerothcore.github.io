@@ -1,20 +1,10 @@
 var a10785 =
 [
-    [ "AllSpellScript", "de/d45/a10785.html#a8c4266bf7a21c199eac02b5422c358e8", null ],
-    [ "CanPrepare", "de/d45/a10785.html#aeb2d438fdd7ca823ce670a94941bafff", null ],
-    [ "CanScalingEverything", "de/d45/a10785.html#a026842dcd2d8c0e0c3f99718b04e86b0", null ],
-    [ "CanSelectSpecTalent", "de/d45/a10785.html#a3cf7b45d8e9f5b23e2753d1624c4af78", null ],
-    [ "IsDatabaseBound", "de/d45/a10785.html#a0854a57b62e310575a3e5cd8d35e8532", null ],
-    [ "OnBeforeAuraRankForLevel", "de/d45/a10785.html#ae5a4590e4fb49d4cfe73c5ce307773ca", null ],
-    [ "OnCalcMaxDuration", "de/d45/a10785.html#a5d02de785a4e1cf5103110828fac5e75", null ],
-    [ "OnDummyEffect", "de/d45/a10785.html#a54e0b823c538c41507c541db025d5295", null ],
-    [ "OnDummyEffect", "de/d45/a10785.html#a36061e5bcec2ef4dea35d1b5c9e703b4", null ],
-    [ "OnDummyEffect", "de/d45/a10785.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
-    [ "OnIsAuraExclusiveBySpecificWith", "de/d45/a10785.html#a861468896a9a29ababed2077be1c9242", null ],
-    [ "OnRemoveAuraScaleTargets", "de/d45/a10785.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
-    [ "OnScaleAuraUnitAdd", "de/d45/a10785.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
-    [ "OnSpellCast", "de/d45/a10785.html#aac6481ca905c3f44f85c55aaf694afca", null ],
-    [ "OnSpellCastCancel", "de/d45/a10785.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
-    [ "OnSpellCheckCast", "de/d45/a10785.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
-    [ "OnSpellPrepare", "de/d45/a10785.html#addb78dc29f771ec376922a4a2bff558b", null ]
+    [ "AchievementScript", "de/d45/a10785.html#ab09a80bc238814358e1397da529e9584", null ],
+    [ "CanCheckCriteria", "de/d45/a10785.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "de/d45/a10785.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "de/d45/a10785.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "de/d45/a10785.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "de/d45/a10785.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "de/d45/a10785.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

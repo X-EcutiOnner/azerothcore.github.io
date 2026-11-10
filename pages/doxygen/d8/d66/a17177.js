@@ -1,6 +1,26 @@
 var a17177 =
 [
-    [ "boss_dreadscaleAI", "d3/d59/a17181.html", "d3/d59/a17181" ],
-    [ "boss_dreadscale", "d8/d66/a17177.html#ab3276e515419303358b0ee59bc92c12e", null ],
-    [ "GetAI", "d8/d66/a17177.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
+    [ "boss_jormungarAI", "d8/d66/a17177.html#ab5291ccd06b4a0601e3426a89a86d99d", null ],
+    [ "AttackStart", "d8/d66/a17177.html#acabeffd2f9978b25a0b27abfbb3f5220", null ],
+    [ "DoAction", "d8/d66/a17177.html#a5ce0f99d3889933633e1d88b4bacee88", null ],
+    [ "EnterEvadeMode", "d8/d66/a17177.html#aa3cd34a173b92dd2b54a28bb1b17fae7", null ],
+    [ "IsSummonedBy", "d8/d66/a17177.html#af4ba4cb07dec00f147c5571f381a46ae", null ],
+    [ "JustDied", "d8/d66/a17177.html#a2a9278b547776c84b756b6fb2fc89e67", null ],
+    [ "JustEngagedWith", "d8/d66/a17177.html#af5a266b577c5bb8ef8f7bbd7fddc163e", null ],
+    [ "JustReachedHome", "d8/d66/a17177.html#afd345729b079d2dacd8f37f4481968f1", null ],
+    [ "MovementInform", "d8/d66/a17177.html#af262f0613d0ba62883411408d7c8f666", null ],
+    [ "ScheduleEvents", "d8/d66/a17177.html#a495a4483c2ae768f6a52f9a5afe096c0", null ],
+    [ "UpdateAI", "d8/d66/a17177.html#ad8e5bf4176dfa37c3af476f6f71e699e", null ],
+    [ "_MODEL_MOBILE", "d8/d66/a17177.html#a4be09bf0ae4c96d77edd5b1577b8aa28", null ],
+    [ "_MODEL_STATIONARY", "d8/d66/a17177.html#adb7d8c493523dadcd0168899621cd246", null ],
+    [ "_SPELL_BITE", "d8/d66/a17177.html#a604bcb56112044c4e437a9c447f0db51", null ],
+    [ "_SPELL_SPEW", "d8/d66/a17177.html#af8f47b7cbad0adb835c1bdcf40ca5288", null ],
+    [ "_SPELL_SPIT", "d8/d66/a17177.html#a4bdfcadfd0ebcc98b0a2c221b3a387b2", null ],
+    [ "_SPELL_SPRAY", "d8/d66/a17177.html#ac73edc1b85cd78b045657279335a7564", null ],
+    [ "_TYPE_OTHER", "d8/d66/a17177.html#a4c341523dfc63b6c9b73f9e3a49ce854", null ],
+    [ "bIsStationary", "d8/d66/a17177.html#a16e42748b51576e6acb7cb30794b47bf", null ],
+    [ "BurrowDest", "d8/d66/a17177.html#a65ab09c0349d30da7d9e3f354ee0d8d8", null ],
+    [ "events", "d8/d66/a17177.html#a08cfa4cc7bf270926bf1d3fc8089318f", null ],
+    [ "pInstance", "d8/d66/a17177.html#a981495f258c2fdeec9d0139ab02cf044", null ],
+    [ "Submerged", "d8/d66/a17177.html#afc3042265ef2d7f3b1dd347ae4f4fcf2", null ]
 ];

@@ -1,6 +1,7 @@
 var a24253 =
 [
-    [ "go_beaconAI", "d0/d74/a24257.html", "d0/d74/a24257" ],
-    [ "go_beacon", "d2/db5/a24253.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "d2/db5/a24253.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "HandleDummy", "d2/db5/a24253.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "d2/db5/a24253.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "d2/db5/a24253.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "d2/db5/a24253.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

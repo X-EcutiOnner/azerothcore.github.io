@@ -1,25 +1,4 @@
 var searchData=
 [
-  ['anonymous_5fnamespace_7bweathermgr_2ecpp_7d_0',['anonymous_namespace{WeatherMgr.cpp}',['../df/daa/a05225.html',1,'WeatherMgr']]],
-  ['bank_1',['Bank',['../d6/d3f/a05204.html',1,'WorldPackets']]],
-  ['calendar_2',['Calendar',['../d6/d88/a05205.html',1,'WorldPackets']]],
-  ['character_3',['Character',['../d4/d56/a05206.html',1,'WorldPackets']]],
-  ['chat_4',['Chat',['../d8/d42/a05207.html',1,'WorldPackets']]],
-  ['combat_5',['Combat',['../d7/dd9/a05209.html',1,'WorldPackets']]],
-  ['combatlog_6',['CombatLog',['../df/dfd/a05208.html',1,'WorldPackets']]],
-  ['guild_7',['Guild',['../d4/d9d/a05193.html',1,'WorldPackets']]],
-  ['instance_8',['Instance',['../d5/dfc/a05210.html',1,'WorldPackets']]],
-  ['item_9',['Item',['../d1/d50/a05211.html',1,'WorldPackets']]],
-  ['lfg_10',['LFG',['../d4/d61/a05212.html',1,'WorldPackets']]],
-  ['misc_11',['Misc',['../d3/dbd/a05213.html',1,'WorldPackets']]],
-  ['npc_12',['NPC',['../da/d0e/a05201.html',1,'WorldPackets']]],
-  ['pet_13',['Pet',['../d3/dd2/a05215.html',1,'WorldPackets']]],
-  ['query_14',['Query',['../df/d2e/a05216.html',1,'WorldPackets']]],
-  ['quest_15',['Quest',['../d9/d28/a05217.html',1,'WorldPackets']]],
-  ['strings_16',['Strings',['../d0/d19/a05214.html',1,'WorldPackets']]],
-  ['totem_17',['Totem',['../dc/d72/a05218.html',1,'WorldPackets']]],
-  ['weathermgr_18',['WeatherMgr',['../d1/d94/a05224.html',1,'']]],
-  ['wmo_19',['WMO',['../d8/d44/a05258.html',1,'']]],
-  ['worldpackets_20',['WorldPackets',['../d9/d4a/a05192.html',1,'']]],
-  ['worldstate_21',['WorldState',['../d8/d9b/a05219.html',1,'WorldPackets']]]
+  ['vmap_0',['VMAP',['../d5/d9c/a05152.html',1,'']]]
 ];

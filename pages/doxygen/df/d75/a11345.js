@@ -1,8 +1,6 @@
 var a11345 =
 [
-    [ "SetDungeonDifficulty", "df/d75/a11345.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
-    [ "Write", "df/d75/a11345.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
-    [ "Difficulty", "df/d75/a11345.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
-    [ "IsInGroup", "df/d75/a11345.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
-    [ "Unk", "df/d75/a11345.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
+    [ "GuildBankTextQuery", "df/d75/a11345.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
+    [ "Read", "df/d75/a11345.html#af20bd5c8e58b891028613625fb14807d", null ],
+    [ "Tab", "df/d75/a11345.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
 ];

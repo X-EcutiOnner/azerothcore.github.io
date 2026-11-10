@@ -1,7 +1,6 @@
 var a14817 =
 [
-    [ "FilterTargets", "df/d0b/a14817.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
-    [ "HandleDummyEffect", "df/d0b/a14817.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
-    [ "PrepareSpellScript", "df/d0b/a14817.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
-    [ "Register", "df/d0b/a14817.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
+    [ "npc_brewfest_keg_reciver", "df/d0b/a14817.html#af12e7608f3f715650e6c265ac18920e4", null ],
+    [ "MoveInLineOfSight", "df/d0b/a14817.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
+    [ "sGossipSelect", "df/d0b/a14817.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
 ];

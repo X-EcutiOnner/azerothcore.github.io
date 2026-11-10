@@ -1,11 +1,6 @@
 var a13413 =
 [
-    [ "npc_kilrek", "db/d88/a13413.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
-    [ "JustDied", "db/d88/a13413.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
-    [ "JustEngagedWith", "db/d88/a13413.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
-    [ "Reset", "db/d88/a13413.html#ae0b375abe5ec909cfaff96c257da0325", null ],
-    [ "UpdateAI", "db/d88/a13413.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
-    [ "_scheduler", "db/d88/a13413.html#a93663ee806385f617e81a03062dd94d6", null ],
-    [ "instance", "db/d88/a13413.html#a13b969fa86ef57f9508117a73252a36b", null ],
-    [ "TerestianGUID", "db/d88/a13413.html#a411476da379bf687cd007e25ba11280e", null ]
+    [ "npc_sanguine_spirit", "db/d88/a13413.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
+    [ "Reset", "db/d88/a13413.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
+    [ "UpdateAI", "db/d88/a13413.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
 ];

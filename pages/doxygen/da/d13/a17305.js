@@ -1,10 +1,5 @@
 var a17305 =
 [
-    [ "boss_tharon_jaAI", "da/d13/a17305.html#a03025fa529e932f23479ff19b0cd8238", null ],
-    [ "DoAction", "da/d13/a17305.html#a655fd83c2d671847fea9ae393c132fb9", null ],
-    [ "JustDied", "da/d13/a17305.html#a7928b5db061f1073e1decc2d40601195", null ],
-    [ "JustEngagedWith", "da/d13/a17305.html#aab194a8f802eeb625d1a74960acbe154", null ],
-    [ "KilledUnit", "da/d13/a17305.html#a41e929a3768768eb06bafdee3269fd24", null ],
-    [ "Reset", "da/d13/a17305.html#a272e8565a9b00a27505b301d52814eee", null ],
-    [ "UpdateAI", "da/d13/a17305.html#a6f482cabcb0bd56711878a5ea297b950", null ]
+    [ "achievement_oh_novos", "da/d13/a17305.html#a31ca1f458c384401af107cb8f709ef61", null ],
+    [ "OnCheck", "da/d13/a17305.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
 ];

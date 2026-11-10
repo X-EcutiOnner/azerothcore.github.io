@@ -1,10 +1,12 @@
 var a30069 =
 [
-    [ "SetUp", "d3/dd8/a30069.html#a3fdec2bf96f4e567b3ed2a8103d175ec", null ],
-    [ "SimulateGlyphsForLevel", "d3/dd8/a30069.html#ac0b04d88968102ac5cf34be21a44eed9", null ],
-    [ "TearDown", "d3/dd8/a30069.html#aa381706733e71ee3d426c4e0d0c4b4e9", null ],
-    [ "originalWorld", "d3/dd8/a30069.html#a5e142dc81a057b4ecc3084177942b91d", null ],
-    [ "player", "d3/dd8/a30069.html#ac57623d8e963cdb8de2258f36c1281bd", null ],
-    [ "session", "d3/dd8/a30069.html#ac92bad60994d699564da54739ac0b4f0", null ],
-    [ "worldMock", "d3/dd8/a30069.html#af4605e78650f67c3a3af4d91e1e485c5", null ]
+    [ "TestVisibilityScript", "d3/dd8/a30069.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "d3/dd8/a30069.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "d3/dd8/a30069.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "d3/dd8/a30069.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "d3/dd8/a30069.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "d3/dd8/a30069.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "d3/dd8/a30069.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "d3/dd8/a30069.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "d3/dd8/a30069.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

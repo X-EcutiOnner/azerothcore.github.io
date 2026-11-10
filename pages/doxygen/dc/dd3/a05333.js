@@ -1,10 +1,4 @@
 var a05333 =
 [
-    [ "AreaInfo", "dc/dd3/a05333.html#a7cd6d0845a1fea33d4f51deb5890f9f1", null ],
-    [ "AreaInfo", "dc/dd3/a05333.html#acdd6c482f37134fdc962a55771003b5c", null ],
-    [ "adtId", "dc/dd3/a05333.html#aee38e987da24645d36792a1024235035", null ],
-    [ "groupId", "dc/dd3/a05333.html#a6472ad95a025769da84943fc490860e1", null ],
-    [ "mogpFlags", "dc/dd3/a05333.html#ae97f4c32ecee4844f2cb0fec92cb21ec", null ],
-    [ "rootId", "dc/dd3/a05333.html#a5af47da55bdcb6a92356a33112a41da5", null ],
-    [ "uniqueId", "dc/dd3/a05333.html#a4496a2c21c4bca0e8acbd563de282338", null ]
+    [ "GetPosition", "dc/dd3/a05333.html#a731c4d061ea551b10c488cad55c88113", null ]
 ];

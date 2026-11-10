@@ -1,9 +1,5 @@
 var a22669 =
 [
-    [ "npc_crusade_recruitAI", "d7/dcb/a22669.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
-    [ "Reset", "d7/dcb/a22669.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
-    [ "sGossipSelect", "d7/dcb/a22669.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
-    [ "UpdateAI", "d7/dcb/a22669.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
-    [ "_events", "d7/dcb/a22669.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
-    [ "_heading", "d7/dcb/a22669.html#a6e260a6e085962d54b765bff4cb17963", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "d7/dcb/a22669.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "d7/dcb/a22669.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

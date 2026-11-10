@@ -1,6 +1,5 @@
 var a30185 =
 [
-    [ "CreateArmorProcConfig", "d8/d3e/a30185.html#aae16272567352cb8730edcba3908a08f", null ],
-    [ "CreateWeaponProcConfig", "d8/d3e/a30185.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
-    [ "SetUp", "d8/d3e/a30185.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
+    [ "damageApplied", "d8/d3e/a30185.html#a69a7cfd95e3e3b43879eae37963d1e14", null ],
+    [ "slowApplied", "d8/d3e/a30185.html#a2d99cc2f9c6aedfeef6e18885ff2675d", null ]
 ];

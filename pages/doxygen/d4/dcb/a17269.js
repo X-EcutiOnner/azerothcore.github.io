@@ -1,6 +1,6 @@
 var a17269 =
 [
-    [ "OnPeriodic", "d4/dcb/a17269.html#a6f2e191d76f894517aed395866b7e508", null ],
-    [ "PrepareAuraScript", "d4/dcb/a17269.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
-    [ "Register", "d4/dcb/a17269.html#a6094dc303c034e49fb4e543874db080b", null ]
+    [ "boss_dredAI", "da/d3e/a17273.html", "da/d3e/a17273" ],
+    [ "boss_dred", "d4/dcb/a17269.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "d4/dcb/a17269.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

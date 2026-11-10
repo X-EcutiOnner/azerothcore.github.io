@@ -1,8 +1,7 @@
 var a05457 =
 [
-    [ "GModelRayCallback", "d6/d0f/a05457.html#a53c56761318819e5bfde72bf82f92ec3", null ],
-    [ "operator()", "d6/d0f/a05457.html#a3b9d4f8dbb3d1ba83932d99f7763a1f5", null ],
-    [ "hit", "d6/d0f/a05457.html#ad8861bd8f8c15ff9955c62f5cb1e13bf", null ],
-    [ "triangles", "d6/d0f/a05457.html#a09ef515a1b16d184071e708ed9245b3d", null ],
-    [ "vertices", "d6/d0f/a05457.html#af80815b123c6611f38e3d5b41e501546", null ]
+    [ "GameobjectModelData", "d6/d0f/a05457.html#a7d259df5a5541f95e0f548674d023fc8", null ],
+    [ "bound", "d6/d0f/a05457.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
+    [ "isWmo", "d6/d0f/a05457.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
+    [ "name", "d6/d0f/a05457.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
 ];

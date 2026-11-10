@@ -1,6 +1,7 @@
 var a18897 =
 [
-    [ "npc_strangulate_vehicleAI", "d1/d38/a18901.html", "d1/d38/a18901" ],
-    [ "npc_strangulate_vehicle", "de/da6/a18897.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "de/da6/a18897.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "CheckTargetCount", "de/da6/a18897.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "de/da6/a18897.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "de/da6/a18897.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "de/da6/a18897.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

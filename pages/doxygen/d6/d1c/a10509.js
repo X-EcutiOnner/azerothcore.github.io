@@ -1,6 +1,7 @@
 var a10509 =
 [
-    [ "AssistanceDistractMovementGenerator", "d6/d1c/a10509.html#ae472d28ebb4624855632ac7f0bd7b219", null ],
-    [ "Finalize", "d6/d1c/a10509.html#a1511f74a52e5ad92471e554eb77c235a", null ],
-    [ "GetMovementGeneratorType", "d6/d1c/a10509.html#a233eb9333ea365955589932ddbd18d8a", null ]
+    [ "Finalize", "d6/d1c/a10509.html#a90c8b42ef67968bf58acae5678dc7496", null ],
+    [ "Initialize", "d6/d1c/a10509.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
+    [ "Reset", "d6/d1c/a10509.html#a6db99ea9863dc60d032bacda37afa078", null ],
+    [ "Update", "d6/d1c/a10509.html#af044c8725ef11e8a152987225521ef8b", null ]
 ];

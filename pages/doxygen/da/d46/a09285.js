@@ -1,6 +1,7 @@
 var a09285 =
 [
-    [ "Reset", "da/d46/a09285.html#acccf504073283011dc32b05a5a87b85a", null ],
-    [ "Guid", "da/d46/a09285.html#a738a014abc8cb5df525642acc218576b", null ],
-    [ "IsUnselectable", "da/d46/a09285.html#a037411c58c414d0c5a39915b7acd578d", null ]
+    [ "HealthOrderPred", "da/d46/a09285.html#ac5d0408da69ecd6415c6f4eae61d11d8", null ],
+    [ "operator()", "da/d46/a09285.html#acb5867bddd0e5107139d52ff99817f5c", null ],
+    [ "operator()", "da/d46/a09285.html#ad9cae47d98b31687958cfca56b29c213", null ],
+    [ "_ascending", "da/d46/a09285.html#a93e2e41a9849d6c2ecfffcaffa74acee", null ]
 ];

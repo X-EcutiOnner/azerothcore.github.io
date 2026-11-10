@@ -1,11 +1,7 @@
 var a25625 =
 [
-    [ "spell_gen_apply_aura_after_expiration", "d7/d6f/a25625.html#a391e5089eb034618c5e3edde26685a00", null ],
-    [ "AfterRemove", "d7/d6f/a25625.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
-    [ "PrepareAuraScript", "d7/d6f/a25625.html#a494123635eda4c43d92a08c9c8cd5627", null ],
-    [ "Register", "d7/d6f/a25625.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
-    [ "Validate", "d7/d6f/a25625.html#ad405128104d8a6528e8db96281ad0f0b", null ],
-    [ "_aura", "d7/d6f/a25625.html#a8a79aef777e1397b031149c54ae9d81d", null ],
-    [ "_effect", "d7/d6f/a25625.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
-    [ "_spellId", "d7/d6f/a25625.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
+    [ "EjectPassenger", "d7/d6f/a25625.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "d7/d6f/a25625.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "d7/d6f/a25625.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "d7/d6f/a25625.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

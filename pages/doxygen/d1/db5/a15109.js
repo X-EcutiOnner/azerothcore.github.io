@@ -1,6 +1,4 @@
 var a15109 =
 [
-    [ "HandleAfterEffectApply", "d1/db5/a15109.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
-    [ "PrepareAuraScript", "d1/db5/a15109.html#a917379c33352721b5b76c1d9dac0c025", null ],
-    [ "Register", "d1/db5/a15109.html#a846d79564d76d6000c2276045775d7da", null ]
+    [ "npc_midsummer_bonfire_despawner", "d1/db5/a15109.html#aacb82b08ec0fef0f53d7e251e010abd8", null ]
 ];

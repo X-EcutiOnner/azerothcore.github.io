@@ -1,6 +1,8 @@
 var a27197 =
 [
-    [ "HandleScriptEffect", "db/df5/a27197.html#a8b60ae77f13045a582548fe5d1186d54", null ],
-    [ "PrepareSpellScript", "db/df5/a27197.html#ad68619783c4a1aad5a24826bf5d89858", null ],
-    [ "Register", "db/df5/a27197.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
+    [ "CheckProc", "db/df5/a27197.html#ab37749506a197a97cb3cc567cdff199c", null ],
+    [ "HandleProc", "db/df5/a27197.html#a4af1cc19b8ccc4ce0d3bdcaa93a3cce2", null ],
+    [ "PrepareAuraScript", "db/df5/a27197.html#a0c7c91113f0a4a289dcc5e53450a635a", null ],
+    [ "Register", "db/df5/a27197.html#af52bd6c3d698e3e1f7144431ee5c7d69", null ],
+    [ "Validate", "db/df5/a27197.html#aa4639d482cfda229e0a6eaa53c320ea8", null ]
 ];

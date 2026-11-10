@@ -1,12 +1,13 @@
 var a02660 =
 [
-    [ "Escort_Waypoint", "d5/de3/a06702.html", "d5/de3/a06702" ],
-    [ "npc_escortAI", "d2/da4/a06706.html", "d2/da4/a06706" ],
-    [ "DEFAULT_MAX_PLAYER_DISTANCE", "de/d7b/a02660.html#ad23dc39ce2da634e67360fab90e3b9e2", null ],
-    [ "eEscortState", "de/d7b/a02660.html#af40ca4990501264cb0359ab6d93fb08a", [
-      [ "STATE_ESCORT_NONE", "de/d7b/a02660.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5", null ],
-      [ "STATE_ESCORT_ESCORTING", "de/d7b/a02660.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92", null ],
-      [ "STATE_ESCORT_RETURNING", "de/d7b/a02660.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48", null ],
-      [ "STATE_ESCORT_PAUSED", "de/d7b/a02660.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6", null ]
+    [ "FollowerAI", "d0/d53/a06721.html", "d0/d53/a06721" ],
+    [ "eFollowState", "de/d7b/a02660.html#a1ec9c3a60a913ecbf16778626ccf0138", [
+      [ "STATE_FOLLOW_NONE", "de/d7b/a02660.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae", null ],
+      [ "STATE_FOLLOW_INPROGRESS", "de/d7b/a02660.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b", null ],
+      [ "STATE_FOLLOW_RETURNING", "de/d7b/a02660.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523", null ],
+      [ "STATE_FOLLOW_PAUSED", "de/d7b/a02660.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6", null ],
+      [ "STATE_FOLLOW_COMPLETE", "de/d7b/a02660.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9", null ],
+      [ "STATE_FOLLOW_PREEVENT", "de/d7b/a02660.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b", null ],
+      [ "STATE_FOLLOW_POSTEVENT", "de/d7b/a02660.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a", null ]
     ] ]
 ];

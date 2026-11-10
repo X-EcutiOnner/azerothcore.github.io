@@ -1,6 +1,25 @@
 var a16473 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d9/d63/a16477.html", "d9/d63/a16477" ],
-    [ "instance_ahnkahet", "df/d52/a16473.html#afbe11bc040019231878cf31cc357830b", null ],
-    [ "GetInstanceScript", "df/d52/a16473.html#a8847099c88f11de363c45e27998f10b7", null ]
+    [ "boss_jedoga_shadowseeker", "df/d52/a16473.html#ab9cbbc07add92d5e02910660d54bac52", null ],
+    [ "DamageTaken", "df/d52/a16473.html#a049fa9b95e231bbbbc0f9d1970d1281d", null ],
+    [ "DespawnOOCSummons", "df/d52/a16473.html#ac52f5994af533906e5b60e539c48abb4", null ],
+    [ "DoAction", "df/d52/a16473.html#aa1c42164d1eb87240443c21c96805bfa", null ],
+    [ "GetData", "df/d52/a16473.html#a7829368c62ef80d41480e0f8fdfacd06", null ],
+    [ "JustDied", "df/d52/a16473.html#af2ea97b4d6b74b81b5abc0520e832dbc", null ],
+    [ "JustEngagedWith", "df/d52/a16473.html#acbd8518cd3d32ddb98d79659a2aa4313", null ],
+    [ "JustSummoned", "df/d52/a16473.html#a69cef8ffc1b62eab23538cb3d7f342d7", null ],
+    [ "KilledUnit", "df/d52/a16473.html#a1d6db2fdd85d4df233a65f8963dcd2ad", null ],
+    [ "MoveInLineOfSight", "df/d52/a16473.html#a3d70de2d7a6d2c50083a684b9d969550", null ],
+    [ "MovementInform", "df/d52/a16473.html#a4522476699ac513e209d9ee2d56309f0", null ],
+    [ "ReschedulleCombatEvents", "df/d52/a16473.html#a501370436e01fb860433a8d782b7b37e", null ],
+    [ "Reset", "df/d52/a16473.html#a3def3996c41da5a5f5ad1368b1cb973d", null ],
+    [ "SummonedCreatureDies", "df/d52/a16473.html#a3efaecfd3dcf2987b1a8afced8f674b2", null ],
+    [ "UpdateAI", "df/d52/a16473.html#a7f1d6998efe3fdeb60ba1743c6561902", null ],
+    [ "combatSummonsSummoned", "df/d52/a16473.html#af300322d9b1f7705289588e217e120a3", null ],
+    [ "oocSummons", "df/d52/a16473.html#a8ab34fcd605e5c15c4dab7fb3f5a3160", null ],
+    [ "oocTriggers", "df/d52/a16473.html#adcec05da7f5feeca36e5e9054fba871f", null ],
+    [ "ritualTriggered", "df/d52/a16473.html#a28837c2f84acf08657cc301e8d382cfc", null ],
+    [ "sacrificeTargetGUID", "df/d52/a16473.html#a3b2d17143859cadc1bcbd1f43498286c", null ],
+    [ "sayPreachTimer", "df/d52/a16473.html#ac4e501a54c8da479cede1378db0c953c", null ],
+    [ "volunteerWork", "df/d52/a16473.html#aa0ff8d7556662b8db97aebcf27e0d5e4", null ]
 ];

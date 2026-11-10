@@ -1,8 +1,18 @@
 var a09349 =
 [
-    [ "TempSummonGroupKey", "dd/ded/a09349.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
-    [ "operator<", "dd/ded/a09349.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
-    [ "_summonerEntry", "dd/ded/a09349.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
-    [ "_summonerType", "dd/ded/a09349.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
-    [ "_summonGroup", "dd/ded/a09349.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
+    [ "GameEventData", "dd/ded/a09349.html#ab7963b01d9e138d79f06274ea57b9590", null ],
+    [ "isValid", "dd/ded/a09349.html#a7a91c9c9cc68593812b13f6efd2ea4ff", null ],
+    [ "Announce", "dd/ded/a09349.html#ae055378db69064ad4338ec2ddf6c7c75", null ],
+    [ "Conditions", "dd/ded/a09349.html#a0915a0321c4c26bfb61824587a309cde", null ],
+    [ "Description", "dd/ded/a09349.html#a5ab9afbc209e319839fd68de0cbc2207", null ],
+    [ "End", "dd/ded/a09349.html#a4bae1cf480ee64f190e2f09640e8a8cd", null ],
+    [ "EventId", "dd/ded/a09349.html#a6fe6513946fc98803fb816d2aabd8dcc", null ],
+    [ "HolidayId", "dd/ded/a09349.html#a9c9979bdece8534af216b693a2a58a80", null ],
+    [ "HolidayStage", "dd/ded/a09349.html#a44c52795eed59abdff72cdebdccc50ca", null ],
+    [ "Length", "dd/ded/a09349.html#a72bff4c3a62db350460993d804a461ea", null ],
+    [ "NextStart", "dd/ded/a09349.html#aafe5f4d5b9122f26442266c651ebd77e", null ],
+    [ "Occurence", "dd/ded/a09349.html#ab4e80a88f30560a3af0c6381e974687d", null ],
+    [ "PrerequisiteEvents", "dd/ded/a09349.html#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0", null ],
+    [ "Start", "dd/ded/a09349.html#a3be91b7e00641ca6cb853104190845dc", null ],
+    [ "State", "dd/ded/a09349.html#a6288a7c28aba2927c3e91f5d2f517a60", null ]
 ];

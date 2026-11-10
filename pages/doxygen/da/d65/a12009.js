@@ -1,22 +1,7 @@
 var a12009 =
 [
-    [ "CastSpellExtraArgs", "da/d65/a12009.html#acc0d26e24a5bc6a319d93595479ad5a7", null ],
-    [ "CastSpellExtraArgs", "da/d65/a12009.html#aa04558f6c057199be6e2a29757415a33", null ],
-    [ "CastSpellExtraArgs", "da/d65/a12009.html#a4a17c18662901b27dac8f8d13ee9135c", null ],
-    [ "CastSpellExtraArgs", "da/d65/a12009.html#a51557cea86937c12a0b17348cba2ced8", null ],
-    [ "CastSpellExtraArgs", "da/d65/a12009.html#a357b88e94fc54c52c677f248d5d679ed", null ],
-    [ "CastSpellExtraArgs", "da/d65/a12009.html#a7f5e5133a161e38b890b4c3987656ccf", null ],
-    [ "CastSpellExtraArgs", "da/d65/a12009.html#a8a88c84c5e59e6e2321a47d0d19f3e4b", null ],
-    [ "CastSpellExtraArgs", "da/d65/a12009.html#ab3f36c827883d9d3fee7855d2ba7cdba", null ],
-    [ "AddSpellBP0", "da/d65/a12009.html#a6a2107d1c9ab21b51e810a32a5c6f165", null ],
-    [ "AddSpellMod", "da/d65/a12009.html#a8678546c5b7f2e9df5f6bdab8ecaa3d5", null ],
-    [ "SetCastItem", "da/d65/a12009.html#ab17825377e5a0e07b99d72fbec4e2a27", null ],
-    [ "SetOriginalCaster", "da/d65/a12009.html#a6344b91798c84a8462da40cc87a26852", null ],
-    [ "SetTriggerFlags", "da/d65/a12009.html#a69a2dd620aa1df727931451ea0db48ac", null ],
-    [ "SetTriggeringAura", "da/d65/a12009.html#a3b6b9c02778e0b5a6be0f8feddbb21a9", null ],
-    [ "CastItem", "da/d65/a12009.html#a9908c55d024699d2c6caa3af941c6ade", null ],
-    [ "OriginalCaster", "da/d65/a12009.html#a8d0b1a195529e936707382b6137a7236", null ],
-    [ "SpellValueOverrides", "da/d65/a12009.html#a08601ff6f3454775b3502c0f872a5287", null ],
-    [ "TriggerFlags", "da/d65/a12009.html#a2f222ea6cb2fd04134c5e6200e6f8d4c", null ],
-    [ "TriggeringAura", "da/d65/a12009.html#aa7fbeb6c0f2d4062874214c9844f9fc3", null ]
+    [ "chance", "da/d65/a12009.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "da/d65/a12009.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "da/d65/a12009.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "da/d65/a12009.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

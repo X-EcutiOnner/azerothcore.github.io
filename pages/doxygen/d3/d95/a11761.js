@@ -1,5 +1,6 @@
 var a11761 =
 [
-    [ "PacketHandler", "d3/d95/a11761.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
-    [ "Call", "d3/d95/a11761.html#a42ac77b81d5280c7f1c54991649ab501", null ]
+    [ "QuestConfirmAcceptClient", "d3/d95/a11761.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
+    [ "Read", "d3/d95/a11761.html#a483980152418879fd1a55db2fa4bf68a", null ],
+    [ "QuestId", "d3/d95/a11761.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
 ];

@@ -1,5 +1,5 @@
 var a02546 =
 [
-    [ "GetAISpellInfo", "d1/d1a/a02546.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
-    [ "IsValidCombatTarget", "d1/d1a/a02546.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
+    [ "ArenaScore", "dc/d48/a07721.html", "dc/d48/a07721" ],
+    [ "ArenaTeamScore", "de/d5b/a07725.html", "de/d5b/a07725" ]
 ];

@@ -1,7 +1,10 @@
 var a14777 =
 [
-    [ "FilterTargets", "d4/d34/a14777.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
-    [ "HandleEffect", "d4/d34/a14777.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
-    [ "PrepareSpellScript", "d4/d34/a14777.html#a08127992c96fb02e87e9ade65a5375d5", null ],
-    [ "Register", "d4/d34/a14777.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
+    [ "npc_zealot_lorkhan", "d4/d34/a14777.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "d4/d34/a14777.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "d4/d34/a14777.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "d4/d34/a14777.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "d4/d34/a14777.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "d4/d34/a14777.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "d4/d34/a14777.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

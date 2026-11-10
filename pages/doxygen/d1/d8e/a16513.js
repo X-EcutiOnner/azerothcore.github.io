@@ -1,6 +1,6 @@
 var a16513 =
 [
-    [ "npc_anub_ar_crusher_champion", "d1/d8e/a16513.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
-    [ "DoEngagedWith", "d1/d8e/a16513.html#a2dcef4fe57880ba725dff52455a7a428", null ],
-    [ "DoEvent", "d1/d8e/a16513.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
+    [ "HandlePeriodic", "d1/d8e/a16513.html#ad22b433005b2678bde3516a01eaaaa60", null ],
+    [ "PrepareAuraScript", "d1/d8e/a16513.html#a3711004edaef7242d9cae1f23f9b7467", null ],
+    [ "Register", "d1/d8e/a16513.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
 ];

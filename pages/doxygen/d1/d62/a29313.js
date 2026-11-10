@@ -1,5 +1,4 @@
 var a29313 =
 [
-    [ "Itemlvl", "d1/d62/a29313.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
-    [ "multiplier", "d1/d62/a29313.html#a5c6c206a6185a546223de7501ff846f6", null ]
+    [ "DisplayRaceID", "d1/d62/a29313.html#a5f3897281f18061c4508d752b2291552", null ]
 ];

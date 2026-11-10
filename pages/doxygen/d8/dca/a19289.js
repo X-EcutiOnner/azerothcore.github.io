@@ -1,7 +1,9 @@
 var a19289 =
 [
-    [ "OnApply", "d8/dca/a19289.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "d8/dca/a19289.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "d8/dca/a19289.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "d8/dca/a19289.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "FilterTargets", "d8/dca/a19289.html#a3acf306a9cae592d93a909ee0162777f", null ],
+    [ "HandleMirror", "d8/dca/a19289.html#aa37be5d7e140afe7ad9ef51b5d173b98", null ],
+    [ "PrepareSpellScript", "d8/dca/a19289.html#a5344b059a1e2543e0da03dfce3d36bf4", null ],
+    [ "Register", "d8/dca/a19289.html#a7e90d4e97a3e9a07edd6a482e8faa5c7", null ],
+    [ "Validate", "d8/dca/a19289.html#a0e3138957535ddfebe25aa44d917d942", null ],
+    [ "_targets", "d8/dca/a19289.html#a93afed08cf6714c896d2619e0fa0536f", null ]
 ];

@@ -1,9 +1,9 @@
 var a00491 =
 [
-    [ "NodeArray< Node >", "d3/dc0/a05502.html", "d3/dc0/a05502" ],
-    [ "NodeCreator< Node >", "d0/dac/a05506.html", "d0/dac/a05506" ],
-    [ "RegularGrid2D< T, Node, NodeCreatorFunc, PositionFunc >", "da/d88/a05510.html", "da/d88/a05510" ],
-    [ "RegularGrid2D< T, Node, NodeCreatorFunc, PositionFunc >::Cell", "d7/d55/a05514.html", "d7/d55/a05514" ],
-    [ "CELL_SIZE", "d6/d60/a00491.html#a7a4127f14f16563da90eb3c836bc404f", null ],
-    [ "HGRID_MAP_SIZE", "d6/d60/a00491.html#ac836977c6cb1a34ebc070436978fb2bb", null ]
+    [ "CleanStringForMysqlQuery", "d6/d60/a00491.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
+    [ "GetLocaleByName", "d6/d60/a00491.html#a3193e61abf2ddeae08f61cd4f13c6250", null ],
+    [ "GetNameByLocaleConstant", "d6/d60/a00491.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
+    [ "IsLocaleValid", "d6/d60/a00491.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
+    [ "accountFlagNames", "d6/d60/a00491.html#a77b8b95357d9fd48d99c7e82eb567fc0", null ],
+    [ "localeNames", "d6/d60/a00491.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
 ];

@@ -1,10 +1,14 @@
 var a22857 =
 [
-    [ "boss_talon_king_ikiss", "d3/d2a/a22857.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
-    [ "JustDied", "d3/d2a/a22857.html#ada1d993842d04453d6afad91e186a3fe", null ],
-    [ "JustEngagedWith", "d3/d2a/a22857.html#a325312ce6695435fcca701720434c64f", null ],
-    [ "KilledUnit", "d3/d2a/a22857.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
-    [ "MoveInLineOfSight", "d3/d2a/a22857.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
-    [ "Reset", "d3/d2a/a22857.html#adcb1dca375ec548499da5a7690babc21", null ],
-    [ "_spoken", "d3/d2a/a22857.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
+    [ "boss_nexusprince_shaffar", "d3/d2a/a22857.html#a2e861fb53bca7a40e967971b5e7be533", null ],
+    [ "JustDied", "d3/d2a/a22857.html#abf2fef0888bced83511883027bf4d500", null ],
+    [ "JustEngagedWith", "d3/d2a/a22857.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
+    [ "JustSummoned", "d3/d2a/a22857.html#a576240b46ce0988f0ef86e1460c831ef", null ],
+    [ "KilledUnit", "d3/d2a/a22857.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
+    [ "MoveInLineOfSight", "d3/d2a/a22857.html#a71e501225d88851210d2e0e58de27f99", null ],
+    [ "Reset", "d3/d2a/a22857.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
+    [ "SummonedCreatureDespawn", "d3/d2a/a22857.html#ab806564e96708ca12f444249abd3c88c", null ],
+    [ "UpdateAI", "d3/d2a/a22857.html#a147500575a3821262ec718ec023b458c", null ],
+    [ "HasTaunted", "d3/d2a/a22857.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
+    [ "summons", "d3/d2a/a22857.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
 ];

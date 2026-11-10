@@ -1,5 +1,7 @@
 var a11509 =
 [
-    [ "DurabilityDamageDeath", "d7/daa/a11509.html#a9b4350d37291b9b714be1563b28dcb43", null ],
-    [ "Write", "d7/daa/a11509.html#a35a93d9abeeb029f3da080487423f495", null ]
+    [ "Playsound", "d7/daa/a11509.html#a955f91d0d65c64f154f99b3b9472e273", null ],
+    [ "Playsound", "d7/daa/a11509.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
+    [ "Write", "d7/daa/a11509.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
+    [ "SoundKitID", "d7/daa/a11509.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
 ];

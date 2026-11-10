@@ -1,11 +1,8 @@
 var a23129 =
 [
-    [ "boss_essence_of_angerAI", "d5/d9f/a23129.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "d5/d9f/a23129.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "d5/d9f/a23129.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "d5/d9f/a23129.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "d5/d9f/a23129.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "d5/d9f/a23129.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "d5/d9f/a23129.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "targetGUID", "d5/d9f/a23129.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "FilterTargets", "d5/d9f/a23129.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "d5/d9f/a23129.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "d5/d9f/a23129.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "d5/d9f/a23129.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "d5/d9f/a23129.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

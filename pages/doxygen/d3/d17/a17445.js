@@ -1,11 +1,10 @@
 var a17445 =
 [
-    [ "npc_phantom_mage", "d3/d17/a17445.html#a96702110e1bd587aaa88a076773cac72", null ],
-    [ "AttackStart", "d3/d17/a17445.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
-    [ "DoAction", "d3/d17/a17445.html#a8adf87e600eeab3678f369ab48b73927", null ],
-    [ "EnterEvadeMode", "d3/d17/a17445.html#a270f664ad9545f672405d051d1a8932a", null ],
-    [ "JustDied", "d3/d17/a17445.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
-    [ "JustEngagedWith", "d3/d17/a17445.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
-    [ "Reset", "d3/d17/a17445.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
-    [ "UpdateAI", "d3/d17/a17445.html#a919416fd6b52060e271e79afaaf14085", null ]
+    [ "npc_hor_leaderAI", "d3/d17/a17445.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
+    [ "DoAction", "d3/d17/a17445.html#a610700732a6cc197a40106adef654a62", null ],
+    [ "Reset", "d3/d17/a17445.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
+    [ "UpdateAI", "d3/d17/a17445.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
+    [ "events", "d3/d17/a17445.html#a94128223bddd84b8a678e49f3189cb75", null ],
+    [ "instance", "d3/d17/a17445.html#aaf5ee73e8d3a52c51cbc64853843ed4e", null ],
+    [ "shortver", "d3/d17/a17445.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
 ];

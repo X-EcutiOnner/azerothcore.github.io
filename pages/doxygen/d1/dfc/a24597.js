@@ -1,9 +1,6 @@
 var a24597 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "d1/dfc/a24597.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "d1/dfc/a24597.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "d1/dfc/a24597.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "d1/dfc/a24597.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "d1/dfc/a24597.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "d1/dfc/a24597.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "achievement", "d1/dfc/a24597.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "d1/dfc/a24597.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "d1/dfc/a24597.html#ab8c1bedac4bccf5c47eda591c9e5e9d1", null ]
 ];

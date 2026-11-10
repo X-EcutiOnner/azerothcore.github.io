@@ -1,6 +1,6 @@
 var a30097 =
 [
-    [ "hasAttr", "dc/d38/a30097.html#aec6e687803471c9e36fb371be3994db9", null ],
-    [ "name", "dc/d38/a30097.html#acb40ba3ca029314d1efd8d4499428e4b", null ],
-    [ "spellId", "dc/d38/a30097.html#a6b7e7e5d028fb5c006f8785a53394535", null ]
+    [ "CreatePlayerWithVehicleKit", "dc/d38/a30097.html#a44c9991ca103fbb4c0e09ec35918fce9", null ],
+    [ "TestSeatId", "dc/d38/a30097.html#a0942d30e78d1865092aa5b1f40c9c193", null ],
+    [ "TestVehicleId", "dc/d38/a30097.html#aa08f416d4401cfc896ee4de15942ea49", null ]
 ];

@@ -1,14 +1,18 @@
 var a08337 =
 [
-    [ "ThreatListIterator", "da/d32/a08337.html#a6fd3aa74e738a871fc79292789fe8002", null ],
-    [ "operator!=", "da/d32/a08337.html#ab048192b55edc518d7e88a16ef3fe75c", null ],
-    [ "operator!=", "da/d32/a08337.html#adfa9c371d231a572a2ea728163e34614", null ],
-    [ "operator*", "da/d32/a08337.html#a4d45ae04b885844bd84fc8ba13316991", null ],
-    [ "operator++", "da/d32/a08337.html#aff62dfcc3d94c8355a42693ab1b97774", null ],
-    [ "operator->", "da/d32/a08337.html#a78606724fb7081a2e3e579f0ce71a43f", null ],
-    [ "operator==", "da/d32/a08337.html#ac6f2a13304c433d61d1b69bb6d649347", null ],
-    [ "operator==", "da/d32/a08337.html#a95c5850a5ce04c18451df6c610814fc3", null ],
-    [ "_current", "da/d32/a08337.html#a8f3e33ae4fb15668fbf5d562bfa793d7", null ],
-    [ "_generator", "da/d32/a08337.html#ab777887451473dfe77f428d40f8359ba", null ],
-    [ "ThreatManager", "da/d32/a08337.html#a974a09cd8ac71d4298b01f019ef7e63b", null ]
+    [ "CombatReference", "da/d32/a08337.html#a6640ef9042145388483ee1b0ebba2142", null ],
+    [ "CombatReference", "da/d32/a08337.html#a7872f44776ee0bc2716ca1406597bf58", null ],
+    [ "EndCombat", "da/d32/a08337.html#a9cf5d802eb7e1eb51259e98fac1eb7f8", null ],
+    [ "GetOther", "da/d32/a08337.html#a61c70264912f26b7c5af5b11c1764626", null ],
+    [ "IsSuppressedFor", "da/d32/a08337.html#a5f0ae30ffd9015cded12c487ccaacbda", null ],
+    [ "operator=", "da/d32/a08337.html#a51bdb6b52ff1ff0e0bd64e2aab68528e", null ],
+    [ "Refresh", "da/d32/a08337.html#aa5b1b591d371ff34bea9ffecbf76842f", null ],
+    [ "Suppress", "da/d32/a08337.html#a923ecc13bec9370a226d2052a8098c8d", null ],
+    [ "SuppressFor", "da/d32/a08337.html#a3e90cc2c7cc3edddadd4d8d8a712b4be", null ],
+    [ "CombatManager", "da/d32/a08337.html#ae013513b37e5f4a92a90f8c59f9291c1", null ],
+    [ "_isPvP", "da/d32/a08337.html#a0c0570a2acff79babb17f20a789b6a89", null ],
+    [ "_suppressFirst", "da/d32/a08337.html#a4be6390bcfab905aa65a925194582dd4", null ],
+    [ "_suppressSecond", "da/d32/a08337.html#a1c327a45889405e7d92d2eb468cb36cc", null ],
+    [ "first", "da/d32/a08337.html#a353dd1fb9729fadb3dc6f3356f27373b", null ],
+    [ "second", "da/d32/a08337.html#a226199d73dab2ac6b939a1900b338e09", null ]
 ];

@@ -1,6 +1,9 @@
 var a10693 =
 [
-    [ "Description", "d6/ddf/a10693.html#a1d49e1ff4533507cb64dfc8fc6790c37", null ],
-    [ "MapId", "d6/ddf/a10693.html#a252400abf9080866cdf2eebba16df4dc", null ],
-    [ "MaxLimit", "d6/ddf/a10693.html#a38ba12a67e99cabba2388a63f12a2b53", null ]
+    [ "entry", "d6/ddf/a10693.html#a63e9b557b5e712d30580376ad811ff6c", null ],
+    [ "map", "d6/ddf/a10693.html#a762951c4230f0b40a59071e20852bf77", null ],
+    [ "o", "d6/ddf/a10693.html#a70e425f84949f6964a33250e6e9650ef", null ],
+    [ "x", "d6/ddf/a10693.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
+    [ "y", "d6/ddf/a10693.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
+    [ "z", "d6/ddf/a10693.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
 ];

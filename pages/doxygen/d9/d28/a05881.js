@@ -1,8 +1,17 @@
 var a05881 =
 [
-    [ "Event", "d9/d28/a05881.html#acd0d1988a60808384e2cc0dba8735cd3", null ],
-    [ "Event", "d9/d28/a05881.html#a0c6f6d46b2210c42e41fbeb1241c9e7d", null ],
-    [ "_groupMask", "d9/d28/a05881.html#a7f752259eafab986537db2d70c56d211", null ],
-    [ "_id", "d9/d28/a05881.html#a7b60d3d526fd45833d87165d8356f896", null ],
-    [ "_phaseMask", "d9/d28/a05881.html#afce8fa5e187a1c2110a06c70707db247", null ]
+    [ "CircularBuffer", "d9/d28/a05881.html#a169d3975fbe8eda83c02f62b34347bc9", null ],
+    [ "capacity", "d9/d28/a05881.html#aed04549e911fb6ecebbac1cbd01e9dcd", null ],
+    [ "content", "d9/d28/a05881.html#ad364f8ee7c9176b912ea053e2f3c928f", null ],
+    [ "empty", "d9/d28/a05881.html#a7509cc5ef0dd0a9f731c47b05929580c", null ],
+    [ "full", "d9/d28/a05881.html#a2a2f13f00dca028142c250b5f2183097", null ],
+    [ "peak_back", "d9/d28/a05881.html#ad4bb17889033526da4605ebddd60f3c7", null ],
+    [ "put", "d9/d28/a05881.html#a2a5e093804731b69969c18e49a206572", null ],
+    [ "size", "d9/d28/a05881.html#af429f831da3fd31618d1c1612cd94ce7", null ],
+    [ "buf_", "d9/d28/a05881.html#aa2b9389da6cd912b4dd54d89ca1d69ee", null ],
+    [ "full_", "d9/d28/a05881.html#a1dfcbf9f9d2760d7d82144c57ff8a60e", null ],
+    [ "head_", "d9/d28/a05881.html#a43ba1c722307cdbbf38f8ba1ec7f64c6", null ],
+    [ "max_size_", "d9/d28/a05881.html#a4ad34b67dc4924addf79905732203d2a", null ],
+    [ "mutex_", "d9/d28/a05881.html#aa4762ba2167d8b9560ff39328b4b3afa", null ],
+    [ "tail_", "d9/d28/a05881.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f", null ]
 ];

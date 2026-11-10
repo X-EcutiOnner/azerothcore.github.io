@@ -1,7 +1,5 @@
 var a28397 =
 [
-    [ "go_bear_trapAI", "d3/d81/a28397.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "d3/d81/a28397.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "d3/d81/a28397.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "d3/d81/a28397.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "go_ethereum_prison", "d3/d81/a28397.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "d3/d81/a28397.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

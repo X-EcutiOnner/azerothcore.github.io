@@ -1,12 +1,5 @@
 var a23625 =
 [
-    [ "boss_swamplord_muselek", "de/dd4/a23625.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
-    [ "AttackStart", "de/dd4/a23625.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
-    [ "CanShootVictim", "de/dd4/a23625.html#af84af5e4b344fc5f5da9f2047519710a", null ],
-    [ "JustDied", "de/dd4/a23625.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
-    [ "JustEngagedWith", "de/dd4/a23625.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
-    [ "KilledUnit", "de/dd4/a23625.html#a9f2afd6aacb9befa956079a42fbace37", null ],
-    [ "Reset", "de/dd4/a23625.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
-    [ "_canChase", "de/dd4/a23625.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
-    [ "_markTarget", "de/dd4/a23625.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
+    [ "go_main_chambers_access_panel", "de/dd4/a23625.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "de/dd4/a23625.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

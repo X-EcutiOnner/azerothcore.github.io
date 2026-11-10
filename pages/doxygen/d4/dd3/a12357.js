@@ -1,7 +1,7 @@
 var a12357 =
 [
-    [ "Command", "d4/dd3/a12357.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "d4/dd3/a12357.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "d4/dd3/a12357.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "d4/dd3/a12357.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "StringTransaction", "d4/dd3/a12357.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
+    [ "Append", "d4/dd3/a12357.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
+    [ "GetBuffer", "d4/dd3/a12357.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
+    [ "_buf", "d4/dd3/a12357.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
 ];

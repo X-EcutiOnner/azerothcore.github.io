@@ -1,7 +1,6 @@
 var a18557 =
 [
-    [ "FrostwyrmLandEvent", "d2/d7a/a18557.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "d2/d7a/a18557.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "d2/d7a/a18557.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "d2/d7a/a18557.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "npc_precious_iccAI", "d9/d9d/a18561.html", "d9/d9d/a18561" ],
+    [ "npc_precious_icc", "d2/d7a/a18557.html#a463eb0df1edb17e154658dac131f0898", null ],
+    [ "GetAI", "d2/d7a/a18557.html#aa63840c5968a089bff41dcd9c86d5849", null ]
 ];

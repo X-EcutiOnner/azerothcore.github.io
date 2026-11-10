@@ -1,6 +1,6 @@
 var a14201 =
 [
-    [ "npc_lord_gregor_lescovarAI", "d2/df0/a14205.html", "d2/df0/a14205" ],
-    [ "npc_lord_gregor_lescovar", "dc/d50/a14201.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "dc/d50/a14201.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "CheckProc", "dc/d50/a14201.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "dc/d50/a14201.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "dc/d50/a14201.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

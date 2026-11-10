@@ -1,8 +1,8 @@
 var a21017 =
 [
-    [ "npc_pummeller", "da/d02/a21017.html#a0c67bf3781fde8d4580aad093bf87291", null ],
-    [ "Reset", "da/d02/a21017.html#abdb3f0984c03780aee9dd55496fc7835", null ],
-    [ "UpdateAI", "da/d02/a21017.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
-    [ "_instance", "da/d02/a21017.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
-    [ "_scheduler", "da/d02/a21017.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
+    [ "npc_xt002_heart", "da/d02/a21017.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
+    [ "DoAction", "da/d02/a21017.html#a3150ab74ea50c9de6d937b3271e782de", null ],
+    [ "JustDied", "da/d02/a21017.html#a4f62cabc74ad43cf53f2257902982dff", null ],
+    [ "Reset", "da/d02/a21017.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
+    [ "_instance", "da/d02/a21017.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
 ];

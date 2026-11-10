@@ -1,6 +1,13 @@
 var a16309 =
 [
-    [ "npc_cairne_bloodhoofAI", "d3/d3a/a16313.html", "d3/d3a/a16313" ],
-    [ "npc_cairne_bloodhoof", "de/d30/a16309.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
-    [ "GetAI", "de/d30/a16309.html#a1c34470c46ae9e98684de0e786be28b7", null ]
+    [ "npc_wizzlecrank_shredderAI", "de/d30/a16309.html#a055c4b426219aa3372a83d2e2021d916", null ],
+    [ "JustSummoned", "de/d30/a16309.html#a7cad21f0b3286ed75256a49c315069ce", null ],
+    [ "Reset", "de/d30/a16309.html#a86929e8a2f3433f37e4dda03e3011193", null ],
+    [ "UpdateEscortAI", "de/d30/a16309.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
+    [ "WaypointReached", "de/d30/a16309.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
+    [ "WaypointReached", "de/d30/a16309.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "WaypointStart", "de/d30/a16309.html#a00857e372e53950338ed71d672edb780", null ],
+    [ "IsPostEvent", "de/d30/a16309.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
+    [ "PostEventCount", "de/d30/a16309.html#aa5284a284c074f32cee85d29aea00f2f", null ],
+    [ "PostEventTimer", "de/d30/a16309.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
 ];

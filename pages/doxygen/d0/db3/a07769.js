@@ -1,14 +1,15 @@
 var a07769 =
 [
-    [ "ArenaLogEntryData", "d0/db3/a07769.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
-    [ "Fill", "d0/db3/a07769.html#aa3cca4521431bf152550611549bf4bbe", null ],
-    [ "SaveStats", "d0/db3/a07769.html#a2f612b3623ad77bc5e25ac0fdad4197b", null ],
-    [ "Acc", "d0/db3/a07769.html#aa8983930063298c86f4635d2ae3078fe", null ],
-    [ "ArenaTeamId", "d0/db3/a07769.html#ac764620c3c8a986286fd74062dac4645", null ],
-    [ "DamageDone", "d0/db3/a07769.html#a7c4c458a7128e869dbf207655b52c7ee", null ],
-    [ "Guid", "d0/db3/a07769.html#a03b32cd44c655dcc9104aead3b76454e", null ],
-    [ "HealingDone", "d0/db3/a07769.html#af026544d31252e10035364540b96b5b0", null ],
-    [ "IP", "d0/db3/a07769.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
-    [ "KillingBlows", "d0/db3/a07769.html#a6acec2f17b65a994ee6eba3304fe9ce2", null ],
-    [ "Name", "d0/db3/a07769.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
+    [ "ModifyMatchmakerRating", "d0/db3/a07769.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
+    [ "ModifyPersonalRating", "d0/db3/a07769.html#a34401ea82507df97e540c698fa549b5f", null ],
+    [ "Class", "d0/db3/a07769.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
+    [ "Guid", "d0/db3/a07769.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
+    [ "MatchMakerRating", "d0/db3/a07769.html#ac91a344c7aecb72d17841413f5d935da", null ],
+    [ "MaxMMR", "d0/db3/a07769.html#afc86e111a1c699254c5ea761d0dda088", null ],
+    [ "Name", "d0/db3/a07769.html#a7917e705d8c15bbe2731c32375c34d16", null ],
+    [ "PersonalRating", "d0/db3/a07769.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
+    [ "SeasonGames", "d0/db3/a07769.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
+    [ "SeasonWins", "d0/db3/a07769.html#a7239187cef3a02839fe27577ad022ec9", null ],
+    [ "WeekGames", "d0/db3/a07769.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
+    [ "WeekWins", "d0/db3/a07769.html#a5b9e5e02d59569080d34abd9b9728693", null ]
 ];

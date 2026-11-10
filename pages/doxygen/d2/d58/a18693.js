@@ -1,6 +1,6 @@
 var a18693 =
 [
-    [ "HandleScript", "d2/d58/a18693.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "d2/d58/a18693.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "d2/d58/a18693.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "OrderWhelpTargetSelector", "d2/d58/a18693.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
+    [ "operator()", "d2/d58/a18693.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
+    [ "_owner", "d2/d58/a18693.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
 ];

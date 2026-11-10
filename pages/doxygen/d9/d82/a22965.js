@@ -1,6 +1,5 @@
 var a22965 =
 [
-    [ "HandleScriptEffect", "d9/d82/a22965.html#aa60961c2609184e739dea3be8ba992d5", null ],
-    [ "PrepareSpellScript", "d9/d82/a22965.html#aacde592314399112786b024153389024", null ],
-    [ "Register", "d9/d82/a22965.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
+    [ "ChargeTargetSelector", "d9/d82/a22965.html#a064e7d9008bfc85b7c636490c7aaf714", null ],
+    [ "operator()", "d9/d82/a22965.html#a596223da822f5a08281fe709cca95909", null ]
 ];

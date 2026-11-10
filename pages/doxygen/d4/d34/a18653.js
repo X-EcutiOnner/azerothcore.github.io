@@ -1,6 +1,7 @@
 var a18653 =
 [
-    [ "npc_spinestalkerAI", "d9/db0/a18657.html", "d9/db0/a18657" ],
-    [ "npc_spinestalker", "d4/d34/a18653.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "d4/d34/a18653.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "PeriodicTick", "d4/d34/a18653.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
+    [ "PrepareAuraScript", "d4/d34/a18653.html#afcadfbdd84608e827b89c64bf03c8501", null ],
+    [ "Register", "d4/d34/a18653.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
+    [ "Validate", "d4/d34/a18653.html#a879b657d94c1faf6225fe64f907cdf82", null ]
 ];

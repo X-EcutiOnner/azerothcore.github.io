@@ -1,11 +1,6 @@
 var a05589 =
 [
-    [ "Record", "d0/de1/a05589.html#a3303a6b7ba364777e368158052dbe1db", null ],
-    [ "getFloat", "d0/de1/a05589.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
-    [ "getString", "d0/de1/a05589.html#af7b7a8dd685bac5a93e3299d85aab784", null ],
-    [ "getUInt", "d0/de1/a05589.html#a6f22775adc36b8955009f3f0bd51f355", null ],
-    [ "getUInt8", "d0/de1/a05589.html#af6a95de37b34f0204f57323d9a39d110", null ],
-    [ "DBCFileLoader", "d0/de1/a05589.html#aa9814b507b472e781e08c803e025cc72", null ],
-    [ "file", "d0/de1/a05589.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
-    [ "offset", "d0/de1/a05589.html#a06e2c90771be91d9ca948840a07125e8", null ]
+    [ "AppendToBack", "d0/de1/a05589.html#a631dbb5771929cb72bd090e3ced49523", null ],
+    [ "GenerateRandomIV", "d0/de1/a05589.html#afd4b9dd6223e8bd48810b88adc24a4b7", null ],
+    [ "SplitFromBack", "d0/de1/a05589.html#ac27f3335f0fadf98dbd0bedebbfd8390", null ]
 ];

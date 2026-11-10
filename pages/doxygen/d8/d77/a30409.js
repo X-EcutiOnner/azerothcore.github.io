@@ -1,9 +1,20 @@
 var a30409 =
 [
-    [ "WDT_file", "d8/d77/a30409.html#afa32849d31abde3cb2c9f3b558816368", null ],
-    [ "~WDT_file", "d8/d77/a30409.html#a29bf710b8346204eb848017450afebe1", null ],
-    [ "free", "d8/d77/a30409.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
-    [ "prepareLoadedData", "d8/d77/a30409.html#add675f96f010e67ca1df01b029c9ebfb", null ],
-    [ "main", "d8/d77/a30409.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
-    [ "mphd", "d8/d77/a30409.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
+    [ "Record", "d8/d77/a30409.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
+    [ "Record", "d8/d77/a30409.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
+    [ "getByte", "d8/d77/a30409.html#ab1897952fa01e930caffa262519645c5", null ],
+    [ "getFloat", "d8/d77/a30409.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
+    [ "getFloat", "d8/d77/a30409.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
+    [ "getInt", "d8/d77/a30409.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
+    [ "getInt", "d8/d77/a30409.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
+    [ "getString", "d8/d77/a30409.html#a268ecb804f3a4c852a898a928a846f0a", null ],
+    [ "getString", "d8/d77/a30409.html#a268ecb804f3a4c852a898a928a846f0a", null ],
+    [ "getUInt", "d8/d77/a30409.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
+    [ "getUInt", "d8/d77/a30409.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
+    [ "operator=", "d8/d77/a30409.html#a1f7968eeee027251427a7f41dc7f948e", null ],
+    [ "DBCFile", "d8/d77/a30409.html#a6c4f02b14caa99337bbe77b30e5615ab", null ],
+    [ "DBCFile::Iterator", "d8/d77/a30409.html#a56d48f82a62e25038bf9cf339e608083", null ],
+    [ "Iterator", "d8/d77/a30409.html#a9830fc407400559db7e7783cc10a9394", null ],
+    [ "file", "d8/d77/a30409.html#adffc3b9545883356dd9bed0a0613a1fe", null ],
+    [ "offset", "d8/d77/a30409.html#ae76eb8b329fb6d580aa42484de46c95e", null ]
 ];

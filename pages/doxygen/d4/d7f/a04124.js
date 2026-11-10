@@ -1,6 +1,5 @@
 var a04124 =
 [
-    [ "RBACCommandData", "df/d4c/a12698.html", "df/d4c/a12698" ],
-    [ "rbac_commandscript", "d8/d4a/a12702.html", "d8/d4a/a12702" ],
-    [ "AddSC_rbac_commandscript", "d4/d7f/a04124.html#ac877b170f7f12651a1d6c8252a8fc0ff", null ]
+    [ "instance_commandscript", "d5/d90/a12613.html", "d5/d90/a12613" ],
+    [ "AddSC_instance_commandscript", "d4/d7f/a04124.html#a3d7dc88b6e95322f2f3dc69ad367fa0c", null ]
 ];

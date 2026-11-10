@@ -1,13 +1,19 @@
 var a22689 =
 [
-    [ "OPvPCapturePointEP_EWT", "d1/d13/a22689.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
-    [ "ChangeState", "d1/d13/a22689.html#ac00c50b89e1218f87506778096a9d7cd", null ],
-    [ "FillInitialWorldStates", "d1/d13/a22689.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
-    [ "HandlePlayerEnter", "d1/d13/a22689.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
-    [ "HandlePlayerLeave", "d1/d13/a22689.html#a2638b24dca375420778845963e307db3", null ],
-    [ "SendChangePhase", "d1/d13/a22689.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
-    [ "SummonSupportUnitAtNorthpassTower", "d1/d13/a22689.html#ad70a8cc485072cd9af892290584062d8", null ],
-    [ "UpdateTowerState", "d1/d13/a22689.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
-    [ "m_TowerState", "d1/d13/a22689.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
-    [ "m_UnitsSummonedSideId", "d1/d13/a22689.html#a0319f0d51624df44419976e7abd1b813", null ]
+    [ "npc_overlord_drakuru_betrayal", "d1/d13/a22689.html#ab15331d6fd3a2783a4c95d49e4dbe7b2", null ],
+    [ "DamageTaken", "d1/d13/a22689.html#a7425750b8bd904de4bdf90a70f17ba52", null ],
+    [ "DoAction", "d1/d13/a22689.html#aece047445959751d8bff83ed3555a382", null ],
+    [ "EnterEvadeMode", "d1/d13/a22689.html#ae7927006050c6eab309671b2d39ac74e", null ],
+    [ "IsPlayerOnQuest", "d1/d13/a22689.html#a95f42c51b10eeeb8f238572f4190b777", null ],
+    [ "JustEngagedWith", "d1/d13/a22689.html#a3781dde3a7fb066620ada4bda214d9d7", null ],
+    [ "JustSummoned", "d1/d13/a22689.html#a7a28c8050615a13148092b1d6f0f8bea", null ],
+    [ "MoveInLineOfSight", "d1/d13/a22689.html#a27173bdb8e63f52563cbf15f10bfeb8a", null ],
+    [ "Reset", "d1/d13/a22689.html#aafcf7f832f3c5412bc1c71fc59dec003", null ],
+    [ "SpellHit", "d1/d13/a22689.html#a92cd659095e45c414a2c05672a70aaeb", null ],
+    [ "SpellHitTarget", "d1/d13/a22689.html#abd7728d7ac2a59b436385069ffc62c9d", null ],
+    [ "UpdateAI", "d1/d13/a22689.html#a25d0591a131f2e49b9d5c97ed2f2586e", null ],
+    [ "_lichGUID", "d1/d13/a22689.html#ae921b29ac3e5d5f7b39cd660848242f0", null ],
+    [ "_playerGUID", "d1/d13/a22689.html#a3f4a61d141c51a29eaefc8118b5311e0", null ],
+    [ "_state", "d1/d13/a22689.html#ac99fa024d5c71c37e94d0ff17808e2d4", null ],
+    [ "_summons", "d1/d13/a22689.html#a2fbda53115c9b69d2d01a77b3b60710d", null ]
 ];

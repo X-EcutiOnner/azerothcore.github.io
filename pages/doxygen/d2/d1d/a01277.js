@@ -1,4 +1,4 @@
 var a01277 =
 [
-    [ "ScriptRegistry< WeatherScript >", "d2/d1d/a01277.html#aa691cee39a36861af34c3315e7aa582b", null ]
+    [ "ScriptRegistry< MovementHandlerScript >", "d2/d1d/a01277.html#adecbf467a875ee8886c336d96a2f97dc", null ]
 ];

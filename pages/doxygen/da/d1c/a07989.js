@@ -1,16 +1,10 @@
 var a07989 =
 [
-    [ "Print", "da/d1c/a07989.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
-    [ "CliHandler", "da/d1c/a07989.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
-    [ "GetAcoreString", "da/d1c/a07989.html#ab12ec41c55bc5f92461abff538a76b66", null ],
-    [ "GetModuleString", "da/d1c/a07989.html#aefd8e9833bbe24c6414dc6259d078df6", null ],
-    [ "GetNameLink", "da/d1c/a07989.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
-    [ "GetSessionDbcLocale", "da/d1c/a07989.html#a610f7431dc7b064c964e0d446160d19f", null ],
-    [ "GetSessionDbLocaleIndex", "da/d1c/a07989.html#a5a2118d9227aa53818d736e387d77dea", null ],
-    [ "HasSession", "da/d1c/a07989.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
-    [ "needReportToTarget", "da/d1c/a07989.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
-    [ "ParseCommands", "da/d1c/a07989.html#abbd02247d6094bf39b2791ba45e9942e", null ],
-    [ "SendSysMessage", "da/d1c/a07989.html#a636be10a282a8d100b807dac119b3ff6", null ],
-    [ "m_callbackArg", "da/d1c/a07989.html#aa1fafd68fca180506cc15680b695db9e", null ],
-    [ "m_print", "da/d1c/a07989.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
+    [ "ChannelRights", "da/d1c/a07989.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
+    [ "ChannelRights", "da/d1c/a07989.html#a7beaed8c82905e7c019c799153e862c4", null ],
+    [ "flags", "da/d1c/a07989.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
+    [ "joinMessage", "da/d1c/a07989.html#af8797ef8c642f3a954b1581fb54ed545", null ],
+    [ "moderators", "da/d1c/a07989.html#ac80f92b9e633bf309970179b32e29cee", null ],
+    [ "speakDelay", "da/d1c/a07989.html#a9883582d36b8cc67ab5d649670441000", null ],
+    [ "speakMessage", "da/d1c/a07989.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
 ];

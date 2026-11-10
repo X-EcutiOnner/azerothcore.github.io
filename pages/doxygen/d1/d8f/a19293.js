@@ -1,7 +1,7 @@
 var a19293 =
 [
-    [ "HandleEvent", "d1/d8f/a19293.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
-    [ "PrepareSpellScript", "d1/d8f/a19293.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
-    [ "Register", "d1/d8f/a19293.html#a96c6a479141f765b9c0f96b5f148a428", null ],
-    [ "Validate", "d1/d8f/a19293.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
+    [ "HandleScript", "d1/d8f/a19293.html#ace11e192a27b2da98ff62c4eee7980ba", null ],
+    [ "PrepareSpellScript", "d1/d8f/a19293.html#a8a6351b7f87101ac8328b6e76784978c", null ],
+    [ "Register", "d1/d8f/a19293.html#ad57068b21218492078e2d2bfe76cc3c9", null ],
+    [ "Validate", "d1/d8f/a19293.html#af6f1dd22aef0595315460c149d920dff", null ]
 ];

@@ -1,6 +1,10 @@
 var a20717 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "db/df5/a20717.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "db/df5/a20717.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "db/df5/a20717.html#ad863666aec3db81f73165148ffc98033", null ]
+    [ "boss_kologarn_eyebeam", "db/df5/a20717.html#ae51ea98b22b3a0734347825b3a0346be", null ],
+    [ "DamageDealt", "db/df5/a20717.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d", null ],
+    [ "IsSummonedBy", "db/df5/a20717.html#a1640ef2ca2a58803786a6c675191676c", null ],
+    [ "UpdateAI", "db/df5/a20717.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
+    [ "_damaged", "db/df5/a20717.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
+    [ "_instance", "db/df5/a20717.html#a600467b5bb551022d7e0b12ce739b672", null ],
+    [ "_timer", "db/df5/a20717.html#a0d324467d4d02d7bd204f66fcadc52ea", null ]
 ];

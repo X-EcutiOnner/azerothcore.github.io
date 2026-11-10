@@ -1,5 +1,5 @@
 var a28921 =
 [
-    [ "npc_bombardier_petrov", "df/db3/a28921.html#ac0314c37918381ed6242fcfa4790461a", null ],
-    [ "OnGossipHello", "df/db3/a28921.html#ab67c12cf53bc5bec85a0707ce35ce888", null ]
+    [ "ServerMailReward", "df/db3/a28921.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "df/db3/a28921.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

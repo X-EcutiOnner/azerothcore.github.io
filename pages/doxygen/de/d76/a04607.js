@@ -1,43 +1,36 @@
 var a04607 =
 [
-    [ "npc_lakota_windsong", "d3/dc4/a16298.html", "d3/dc4/a16298" ],
-    [ "npc_lakota_windsong::npc_lakota_windsongAI", "dd/da6/a16302.html", "dd/da6/a16302" ],
-    [ "npc_paoka_swiftmountain", "d7/dfc/a16306.html", "d7/dfc/a16306" ],
-    [ "npc_paoka_swiftmountain::npc_paoka_swiftmountainAI", "d6/d76/a16310.html", "d6/d76/a16310" ],
-    [ "npc_plucky", "d7/d89/a16314.html", "d7/d89/a16314" ],
-    [ "npc_plucky::npc_pluckyAI", "d3/d7e/a16318.html", "d3/d7e/a16318" ],
-    [ "spell_panther_cage_key", "d3/df2/a16322.html", "d3/df2/a16322" ],
-    [ "Lakota", "de/d76/a04607.html#ac39a2ad4e9c1ced24984bd5c9acf3745", [
-      [ "SAY_LAKO_START", "de/d76/a04607.html#ac39a2ad4e9c1ced24984bd5c9acf3745ad685ecf0f999b3b0859c272226a5b4b0", null ],
-      [ "SAY_LAKO_LOOK_OUT", "de/d76/a04607.html#ac39a2ad4e9c1ced24984bd5c9acf3745a1b46b3b897330c62331282922a1cc28f", null ],
-      [ "SAY_LAKO_HERE_COME", "de/d76/a04607.html#ac39a2ad4e9c1ced24984bd5c9acf3745ab3d49c68827aa5fe936a35424c8f0e6a", null ],
-      [ "SAY_LAKO_MORE", "de/d76/a04607.html#ac39a2ad4e9c1ced24984bd5c9acf3745a2c2cac4bc7f485753ffc62ce9ac53f74", null ],
-      [ "SAY_LAKO_END", "de/d76/a04607.html#ac39a2ad4e9c1ced24984bd5c9acf3745aec914a4c9c6b907b2f105307b224a80c", null ],
-      [ "QUEST_FREE_AT_LAST", "de/d76/a04607.html#ac39a2ad4e9c1ced24984bd5c9acf3745aaab7b3aeba6646842a5bdadb11feed57", null ],
-      [ "NPC_GRIM_BANDIT", "de/d76/a04607.html#ac39a2ad4e9c1ced24984bd5c9acf3745acbe7e3eadbfd99e1aefdd918f0c28923", null ],
-      [ "ID_AMBUSH_1", "de/d76/a04607.html#ac39a2ad4e9c1ced24984bd5c9acf3745a6b351de9d4d7cf41632a688dac1d3c33", null ],
-      [ "ID_AMBUSH_2", "de/d76/a04607.html#ac39a2ad4e9c1ced24984bd5c9acf3745af63f5bcbb697f260ed4b2b515e6c5820", null ],
-      [ "ID_AMBUSH_3", "de/d76/a04607.html#ac39a2ad4e9c1ced24984bd5c9acf3745a104db33b08420d20a3c621920e5af607", null ]
+    [ "boss_high_king_maulgar", "df/d61/a23733.html", "df/d61/a23733" ],
+    [ "boss_olm_the_summoner", "d1/daa/a23737.html", "d1/daa/a23737" ],
+    [ "boss_kiggler_the_crazed", "d3/d37/a23741.html", "d3/d37/a23741" ],
+    [ "boss_blindeye_the_seer", "d0/d93/a23745.html", "d0/d93/a23745" ],
+    [ "boss_krosh_firehand", "de/d70/a23749.html", "de/d70/a23749" ],
+    [ "HighKingMaulgar", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00", [
+      [ "SAY_AGGRO", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_ENRAGE", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00ac90d9311ef3cf3f33564ce22ff904f54", null ],
+      [ "SAY_OGRE_DEATH", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a95b1d5ce0a72c3cd74ad2936384e0327", null ],
+      [ "SAY_SLAY", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a9e64f6e600dd42567d18006912811f75", null ],
+      [ "SAY_DEATH", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a04c962d9b6aaafde54ff92a54369135e", null ],
+      [ "SPELL_ARCING_SMASH", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00abfd4b3a49fefdc02e654db0e63326f1e", null ],
+      [ "SPELL_MIGHTY_BLOW", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00ae9c68ac99f2257b412925e1b55e98716", null ],
+      [ "SPELL_WHIRLWIND", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00aed3f27157e41ec7644a53b6f9a827801", null ],
+      [ "SPELL_BERSERKER_C", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a3310668bd975bc2e17281127230ab8c4", null ],
+      [ "SPELL_ROAR", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a2850de7b373712096ae835fe75a3632f", null ],
+      [ "SPELL_FLURRY", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a98984f299eb2988a14d18b17e10cae58", null ],
+      [ "SPELL_DARK_DECAY", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00af01fc976fe7d4ab3beae4c372bc5920c", null ],
+      [ "SPELL_DEATH_COIL", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a196972e452f4cb5df032e5119d25f163", null ],
+      [ "SPELL_SUMMON_WFH", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a2e3a5283de8e1145f42de375883b6112", null ],
+      [ "SPELL_GREATER_POLYMORPH", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a1dd7faa947ee359df60cc4dfc87aa9df", null ],
+      [ "SPELL_LIGHTNING_BOLT", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a920803a7ad734282762d93767b701526", null ],
+      [ "SPELL_ARCANE_SHOCK", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a70217cff0adeb1a0499b1651a82f03ef", null ],
+      [ "SPELL_ARCANE_EXPLOSION", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a6cef4c5e88133771f6b27aec8b8cfdce", null ],
+      [ "SPELL_GREATER_PW_SHIELD", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a55ae8f41cbf9520dcf85fbec5a89d7d0", null ],
+      [ "SPELL_HEAL", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a69fcca2d13e03c684fa0459f960ef9a7", null ],
+      [ "SPELL_PRAYER_OH", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a60e7f4938fc88cf1649f00a81e4ea95b", null ],
+      [ "SPELL_GREATER_FIREBALL", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00ab7f9ec669b70354ccaba25559dda41d7", null ],
+      [ "SPELL_SPELLSHIELD", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a37fcb71489a9591a31c6f74520ed175e", null ],
+      [ "SPELL_BLAST_WAVE", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a70309c041527816c73053b7d9b387f88", null ],
+      [ "ACTION_ADD_DEATH", "de/d76/a04607.html#a79b8e9b872a1c2b80ceefb2d55901a00a37c2463b1e6a48c0812bd3a0df718ffd", null ]
     ] ],
-    [ "Packa", "de/d76/a04607.html#aa5861ade3620d04c615fc8c237d80102", [
-      [ "SAY_START", "de/d76/a04607.html#aa5861ade3620d04c615fc8c237d80102a2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_WYVERN", "de/d76/a04607.html#aa5861ade3620d04c615fc8c237d80102a89b65c3f1b01d8e211937b52981ec045", null ],
-      [ "SAY_COMPLETE", "de/d76/a04607.html#aa5861ade3620d04c615fc8c237d80102ac31c61437b536671a4aac2cfc0a66fdd", null ],
-      [ "QUEST_HOMEWARD", "de/d76/a04607.html#aa5861ade3620d04c615fc8c237d80102a226fac5a4fdf03b5b8cbdb6ff533037c", null ],
-      [ "NPC_WYVERN", "de/d76/a04607.html#aa5861ade3620d04c615fc8c237d80102a771d1fc8b6ed270a927ff5a146e4d9de", null ]
-    ] ],
-    [ "PantherCage", "de/d76/a04607.html#a59d31c8fc3505146f60a3a4fcbb5b502", [
-      [ "NPC_ENRAGED_PANTHER", "de/d76/a04607.html#a59d31c8fc3505146f60a3a4fcbb5b502a9a705dc738c579f064f3dedc010cfa84", null ],
-      [ "QUEST_HYPERCAPACITOR_GIZMO", "de/d76/a04607.html#a59d31c8fc3505146f60a3a4fcbb5b502af086e007008db9902863c5bb28c1affe", null ]
-    ] ],
-    [ "Plucky", "de/d76/a04607.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1", [
-      [ "QUEST_SCOOP", "de/d76/a04607.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1a6c756d0f0363f4a2918294de15581e1b", null ],
-      [ "SPELL_PLUCKY_HUMAN", "de/d76/a04607.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae828034bf4e23f2a9ab587c74aea1e47", null ],
-      [ "SPELL_PLUCKY_CHICKEN", "de/d76/a04607.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae20866bf46f5f2e406792d8e5e6a5179", null ],
-      [ "GOSSIP_MENU_PLUCKY", "de/d76/a04607.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ab51d50141e1bd6bb328482e0dd5dbeaf", null ],
-      [ "GOSSIP_OPTION_PHRASE", "de/d76/a04607.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1a978e3e1b19e22b89304642e4a49f66aa", null ]
-    ] ],
-    [ "AddSC_thousand_needles", "de/d76/a04607.html#a58e024bcebfefe3b44080ac0751c36bd", null ],
-    [ "BanditLoc", "de/d76/a04607.html#a9d831677b4e878c5a76e7bc332ba6730", null ],
-    [ "WyvernLoc", "de/d76/a04607.html#aca7b1639e471cc34f43cd5768265d02a", null ]
+    [ "AddSC_boss_high_king_maulgar", "de/d76/a04607.html#a834deb3700299f1a26f70d1db3e7c804", null ]
 ];

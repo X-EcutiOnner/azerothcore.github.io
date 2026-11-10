@@ -1,7 +1,5 @@
 var a10185 =
 [
-    [ "LootGroupInvalidSelector", "d0/de3/a10185.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
-    [ "operator()", "d0/de3/a10185.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
-    [ "_loot", "d0/de3/a10185.html#a67b9d223426512af79bbf5b035c18a6d", null ],
-    [ "_lootMode", "d0/de3/a10185.html#a10e307846a0731aa812388c29c0d4bc8", null ]
+    [ "bossId", "d0/de3/a10185.html#ac7be12fc714b2760399185e96b01efe0", null ],
+    [ "entry", "d0/de3/a10185.html#adae739bf9cf30d1a8ca5c5790dc61c01", null ]
 ];

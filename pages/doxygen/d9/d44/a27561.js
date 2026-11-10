@@ -1,7 +1,8 @@
 var a27561 =
 [
-    [ "HandleProc", "d9/d44/a27561.html#a297383c7eae5cc846be4a0f9e28c7e52", null ],
-    [ "PrepareAuraScript", "d9/d44/a27561.html#a00a68329e8ab03cb5e38b1ad85932a57", null ],
-    [ "Register", "d9/d44/a27561.html#a813cb759ccbe0464334890008d5e5a7a", null ],
-    [ "Validate", "d9/d44/a27561.html#a41590ae5cb30b97cdf1db02266dd2c7c", null ]
+    [ "HandleDummy", "d9/d44/a27561.html#ab653cf0414411c17ccc674395b08af7a", null ],
+    [ "Load", "d9/d44/a27561.html#a6eb80b68a00c91d92a2963adb753ed23", null ],
+    [ "PrepareSpellScript", "d9/d44/a27561.html#ae6c5ba4ed1918125594b31368c3bcf2f", null ],
+    [ "Register", "d9/d44/a27561.html#a92eb201b3ae3ab167cc338174a355b00", null ],
+    [ "Validate", "d9/d44/a27561.html#a3635089640297e059a183322c7e8f7b9", null ]
 ];

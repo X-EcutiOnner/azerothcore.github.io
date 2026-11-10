@@ -1,6 +1,5 @@
 var a12813 =
 [
-    [ "boss_anubshiah", "d3/d0d/a12813.html#aa8e436501ebf08465a9742dedb5901fc", null ],
-    [ "JustEngagedWith", "d3/d0d/a12813.html#aedd04c5765ca4360d8290fac7e7b9c55", null ],
-    [ "UpdateAI", "d3/d0d/a12813.html#a0a3cbdd6be45415723cbadb40478831a", null ]
+    [ "amount", "d3/d0d/a12813.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
+    [ "entry", "d3/d0d/a12813.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
 ];

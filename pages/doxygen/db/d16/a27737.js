@@ -1,7 +1,7 @@
 var a27737 =
 [
-    [ "HandleScriptEffect", "db/d16/a27737.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
-    [ "PrepareSpellScript", "db/d16/a27737.html#a7462fbeab2254046e12a262418ec0d2c", null ],
-    [ "Register", "db/d16/a27737.html#ac14625182eb0289d8536ac322500ab45", null ],
-    [ "Validate", "db/d16/a27737.html#a190b802f3b09655886e5bbb9980375af", null ]
+    [ "HandleProc", "db/d16/a27737.html#a46726e3e05e386892ea86d74d161e8d0", null ],
+    [ "PrepareAuraScript", "db/d16/a27737.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
+    [ "Register", "db/d16/a27737.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
+    [ "Validate", "db/d16/a27737.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
 ];

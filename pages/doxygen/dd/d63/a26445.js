@@ -1,7 +1,6 @@
 var a26445 =
 [
-    [ "HandleProc", "dd/d63/a26445.html#aebfe42c802e0abb628b5dee769e44235", null ],
-    [ "PrepareAuraScript", "dd/d63/a26445.html#a74f6874be6f97566495ee4c5df790897", null ],
-    [ "Register", "dd/d63/a26445.html#a662623c5bf43d0dc3404337ef3c30eb6", null ],
-    [ "Validate", "dd/d63/a26445.html#a114692bbf6fd7600c56e794a5f6ddb29", null ]
+    [ "OnPeriodic", "dd/d63/a26445.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "dd/d63/a26445.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "dd/d63/a26445.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

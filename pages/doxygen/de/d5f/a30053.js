@@ -1,5 +1,5 @@
 var a30053 =
 [
-    [ "MakeTime", "de/d5f/a30053.html#a26f7c5c9395291b98facf91b7ba9530b", null ],
-    [ "PackTwoDates", "de/d5f/a30053.html#a62c6e33dcbd3970319b3f8a791063d15", null ]
+    [ "Die", "de/d5f/a30053.html#a1c8428b8d30ca7f130ef610c70779c89", null ],
+    [ "SetUp", "de/d5f/a30053.html#ab0176577491adcbf50642c3c1e194fd5", null ]
 ];

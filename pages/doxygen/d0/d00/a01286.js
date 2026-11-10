@@ -1,4 +1,4 @@
 var a01286 =
 [
-    [ "WeatherScript", "d9/d49/a10974.html", "d9/d49/a10974" ]
+    [ "ScriptRegistry< DynamicObjectScript >", "d0/d00/a01286.html#a81c3616d496bf8bc2392d79508d2e446", null ]
 ];

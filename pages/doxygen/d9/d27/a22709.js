@@ -1,5 +1,5 @@
 var a22709 =
 [
-    [ "OutdoorPvP_grizzly_hills", "d9/d27/a22709.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "d9/d27/a22709.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "go_scourge_enclosure", "d9/d27/a22709.html#a3611232cb735f336087d4d3c90f66b8d", null ],
+    [ "OnGossipHello", "d9/d27/a22709.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
 ];

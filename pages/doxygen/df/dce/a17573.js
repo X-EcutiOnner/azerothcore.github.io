@@ -1,6 +1,6 @@
 var a17573 =
 [
-    [ "npc_pos_leaderAI", "db/d3c/a17577.html", "db/d3c/a17577" ],
-    [ "npc_pos_leader", "df/dce/a17573.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
-    [ "GetAI", "df/dce/a17573.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
+    [ "instance_pit_of_saron_InstanceScript", "db/d3c/a17577.html", "db/d3c/a17577" ],
+    [ "instance_pit_of_saron", "df/dce/a17573.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
+    [ "GetInstanceScript", "df/dce/a17573.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
 ];

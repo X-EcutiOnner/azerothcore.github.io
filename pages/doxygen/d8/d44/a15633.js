@@ -1,7 +1,7 @@
 var a15633 =
 [
-    [ "go_sand_trap", "d8/d44/a15633.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "d8/d44/a15633.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "d8/d44/a15633.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "d8/d44/a15633.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "HandleScript", "d8/d44/a15633.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
+    [ "PrepareSpellScript", "d8/d44/a15633.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
+    [ "Register", "d8/d44/a15633.html#aff966352a2babe6e6daed91f02e1190a", null ],
+    [ "Validate", "d8/d44/a15633.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
 ];

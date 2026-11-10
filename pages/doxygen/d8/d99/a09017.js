@@ -1,9 +1,9 @@
 var a09017 =
 [
-    [ "ActionButton", "d8/d99/a09017.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
-    [ "GetAction", "d8/d99/a09017.html#a7c10f6089fab30179cfe8175b740477a", null ],
-    [ "GetType", "d8/d99/a09017.html#abe5bc143770d411cff0d8c8c425b1253", null ],
-    [ "SetActionAndType", "d8/d99/a09017.html#a29d804ed78d79f64e868e9741b37d7be", null ],
-    [ "packedData", "d8/d99/a09017.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
-    [ "uState", "d8/d99/a09017.html#a6384e73650da93c96d3b4cc42b151b63", null ]
+    [ "PetInfo", "da/d15/a09021.html", "da/d15/a09021" ],
+    [ "GetUnslottedHunterPet", "d8/d99/a09017.html#a4e0e22a135703c989976694a32912cbd", null ],
+    [ "CurrentPet", "d8/d99/a09017.html#a7a9f76452985abc65560773ac413208f", null ],
+    [ "MaxStabledPets", "d8/d99/a09017.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
+    [ "StabledPets", "d8/d99/a09017.html#a6bd064e692fff316581d08680b163026", null ],
+    [ "UnslottedPets", "d8/d99/a09017.html#a8e6f6e36722dd883e6df962a1e950346", null ]
 ];

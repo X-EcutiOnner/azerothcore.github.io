@@ -1,7 +1,6 @@
 var a26989 =
 [
-    [ "OnProc", "da/d3b/a26989.html#a0a85e641521f1e9b7fd074f7edde97ac", null ],
-    [ "PrepareAuraScript", "da/d3b/a26989.html#a4ff27309c8848a6155ad28809ace5cba", null ],
-    [ "Register", "da/d3b/a26989.html#a20b6a18ce3fac99689b958b384da7836", null ],
-    [ "Validate", "da/d3b/a26989.html#ac4275cca4f974a5a131e4dc1be8eed23", null ]
+    [ "CheckCast", "da/d3b/a26989.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "da/d3b/a26989.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "da/d3b/a26989.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

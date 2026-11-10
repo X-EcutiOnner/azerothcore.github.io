@@ -1,7 +1,14 @@
 var a20713 =
 [
-    [ "FilterTargetsInitial", "db/d97/a20713.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "db/d97/a20713.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "db/d97/a20713.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "db/d97/a20713.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "boss_kologarn_arms", "db/d97/a20713.html#a938ba2bc623d8bfea80e76743adadd6b", null ],
+    [ "AttackStart", "db/d97/a20713.html#aa900d84701962847fe8c50ca42a9e395", null ],
+    [ "DamageTaken", "db/d97/a20713.html#ab9dfb82063b299c4b983ea48e78a17be", null ],
+    [ "EnterEvadeMode", "db/d97/a20713.html#abb2cf784779f808ab5d5340047ce95e4", null ],
+    [ "JustDied", "db/d97/a20713.html#a165f77b79a3e601fe2269f20362df3ca", null ],
+    [ "MoveInLineOfSight", "db/d97/a20713.html#a515d1d1eb959a03adca5e2c79da9082b", null ],
+    [ "PassengerBoarded", "db/d97/a20713.html#aa0c14ab6b8b0081c1e8c43de1883ae59", null ],
+    [ "Reset", "db/d97/a20713.html#a1d164aa9234edb81ed6d4e0713d16a91", null ],
+    [ "UpdateAI", "db/d97/a20713.html#a013d5b17e93486679f625872331c94f6", null ],
+    [ "_combatStarted", "db/d97/a20713.html#a8b4f90719ef93e7f8d8e435e090d566a", null ],
+    [ "_damageDone", "db/d97/a20713.html#a0e196cc2602f325f4639d9e854f013b9", null ]
 ];

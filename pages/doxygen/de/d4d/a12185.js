@@ -1,6 +1,6 @@
 var a12185 =
 [
-    [ "EffectCalcPeriodicHandler", "de/d4d/a12185.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
-    [ "Call", "de/d4d/a12185.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
-    [ "pEffectHandlerScript", "de/d4d/a12185.html#a57673f457c08edfbf7fc1877aa071721", null ]
+    [ "ObjectTargetSelectHandler", "de/d4d/a12185.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
+    [ "Call", "de/d4d/a12185.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
+    [ "pObjectTargetSelectHandlerScript", "de/d4d/a12185.html#a6982985537c0ddb8dd79647766c9ae70", null ]
 ];

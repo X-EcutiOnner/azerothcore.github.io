@@ -1,6 +1,6 @@
 var a23117 =
 [
-    [ "boss_essence_of_desireAI", "d2/dd9/a23121.html", "d2/dd9/a23121" ],
-    [ "boss_essence_of_desire", "de/d9a/a23117.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "de/d9a/a23117.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "PrepareAuraScript", "de/d9a/a23117.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
+    [ "Register", "de/d9a/a23117.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
+    [ "Update", "de/d9a/a23117.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
 ];

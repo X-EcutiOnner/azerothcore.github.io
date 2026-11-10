@@ -1,8 +1,8 @@
 var a28673 =
 [
-    [ "npc_training_dummy", "d6/d31/a28673.html#a7cf3b633e444d67dfaea6308e3ed2dc1", null ],
-    [ "DamageTaken", "d6/d31/a28673.html#accd7c39cd7b22b30e654288b034f1319", null ],
-    [ "JustEnteredCombat", "d6/d31/a28673.html#a2dad51de23663e7b0bf6bcd2ce86a290", null ],
-    [ "UpdateAI", "d6/d31/a28673.html#abd6941fcfd3bdff557b38017bc74e83c", null ],
-    [ "_combatTimer", "d6/d31/a28673.html#a6e2ed26a35fecc3fe6e1957c3ed47124", null ]
+    [ "npc_franklinAI", "d3/d2b/a28677.html", "d3/d2b/a28677" ],
+    [ "npc_franklin", "d6/d31/a28673.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "d6/d31/a28673.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "d6/d31/a28673.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "d6/d31/a28673.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

@@ -1,12 +1,13 @@
 var a09505 =
 [
-    [ "IsTeamAward1", "d3/dd1/a09505.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
-    [ "IsTeamAward2", "d3/dd1/a09505.html#a053bd7825d0464ac322b449f3d243722", null ],
-    [ "RepFaction1", "d3/dd1/a09505.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
-    [ "RepFaction2", "d3/dd1/a09505.html#a5934590811c666d06b68216428574d8a", null ],
-    [ "ReputationMaxCap1", "d3/dd1/a09505.html#a292b78f629723c3993a796eb256dd9b8", null ],
-    [ "ReputationMaxCap2", "d3/dd1/a09505.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
-    [ "RepValue1", "d3/dd1/a09505.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
-    [ "RepValue2", "d3/dd1/a09505.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
-    [ "TeamDependent", "d3/dd1/a09505.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
+    [ "entry", "d3/dd1/a09505.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
+    [ "height", "d3/dd1/a09505.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
+    [ "length", "d3/dd1/a09505.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
+    [ "map", "d3/dd1/a09505.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
+    [ "orientation", "d3/dd1/a09505.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
+    [ "radius", "d3/dd1/a09505.html#ae4195d9f29b425394296009c22654380", null ],
+    [ "width", "d3/dd1/a09505.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
+    [ "x", "d3/dd1/a09505.html#a423077ceaf75c367831a6d9f55427a6f", null ],
+    [ "y", "d3/dd1/a09505.html#a55ab832828addcef1b2f570bda81f2ce", null ],
+    [ "z", "d3/dd1/a09505.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
 ];

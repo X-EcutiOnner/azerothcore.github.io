@@ -1,6 +1,28 @@
 var a29889 =
 [
-    [ "SetUp", "db/d9d/a29889.html#abb19e39864b83953d4521914a78ed608", null ],
-    [ "TearDown", "db/d9d/a29889.html#a72dfb16bc49f5ebc3cfc34e7058e4ac9", null ],
-    [ "rbacData", "db/d9d/a29889.html#a96c1c7558b15f241f429f479ae36f497", null ]
+    [ "TestCreature", "db/d9d/a29889.html#a1bed4f4dbd27e6a39bd492e90aac3c87", null ],
+    [ "~TestCreature", "db/d9d/a29889.html#a8e8c59b2055f731428ff5b8a5a2f72f8", null ],
+    [ "AddToWorld", "db/d9d/a29889.html#ad50d535e3d817e349ca2261355ef42e9", null ],
+    [ "CleanupCombatState", "db/d9d/a29889.html#a2843b8b064a7590fdc300eca55130510", null ],
+    [ "ForceInitValues", "db/d9d/a29889.html#a14b977c061ad7205565165ab95e26b7b", null ],
+    [ "GetNativeObjectScale", "db/d9d/a29889.html#aa79c21bcd9ae9a08601c85e3a86e95cc", null ],
+    [ "InitializeThreatManager", "db/d9d/a29889.html#a1b7dc8fdaa7410f56fcb7c0c09c330cc", null ],
+    [ "RemoveFromWorld", "db/d9d/a29889.html#aff159ed812267686dc40d8f040d246d5", null ],
+    [ "SetAlive", "db/d9d/a29889.html#a50bbd14ac9f04f95fe2c4b993853b18c", null ],
+    [ "SetControlledByPlayer", "db/d9d/a29889.html#ad12f0c188f1a5acf70dc537c6f25bf01", null ],
+    [ "SetFaction", "db/d9d/a29889.html#a58eeb63a554e2dbfbe34cc33559f8c3e", null ],
+    [ "SetFriendlyFaction", "db/d9d/a29889.html#aa683a0c1dc1fdda74250f2e790350d93", null ],
+    [ "SetHostileFaction", "db/d9d/a29889.html#aff2208e72cee6107d2d9f4dd293284e2", null ],
+    [ "SetInWorld", "db/d9d/a29889.html#a105e047afc1322cabc0abaa6ed966429", null ],
+    [ "SetPhase", "db/d9d/a29889.html#ae507367aae1e5df5ae4b2b361fa01292", null ],
+    [ "SetTestMap", "db/d9d/a29889.html#a82ca211dc98584e18321bf2617e5d516", null ],
+    [ "SetTestNativeObjectScale", "db/d9d/a29889.html#aa504942042cc85ad8dc5c9eedf61ba90", null ],
+    [ "SetupForCombatTest", "db/d9d/a29889.html#a59bbe55e405b1130893bdd981ee67ac3", null ],
+    [ "TestGetCombatMgr", "db/d9d/a29889.html#a077215ab2596e971da9e1164c8767b0d", null ],
+    [ "TestGetThreatMgr", "db/d9d/a29889.html#ab83a95caba2ba1382dbbf2358207ec4d", null ],
+    [ "UpdateObjectVisibility", "db/d9d/a29889.html#af383075d66f66abd9fa2ae6bca9e1efe", null ],
+    [ "_fakeCreatureTemplate", "db/d9d/a29889.html#a62c771f19a46a99b1d3dbe92e099025f", null ],
+    [ "_fakeTemplateInitialized", "db/d9d/a29889.html#a70308cfba61ee3fe3b8456d9e17663f8", null ],
+    [ "_testMap", "db/d9d/a29889.html#aa7ed608845789326b9465a820360f4a4", null ],
+    [ "_testNativeObjectScale", "db/d9d/a29889.html#a6abb5d92481f2b6db389bb55400f1de9", null ]
 ];

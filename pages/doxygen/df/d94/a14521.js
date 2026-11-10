@@ -1,6 +1,7 @@
 var a14521 =
 [
-    [ "OnEffect", "df/d94/a14521.html#ab87d53faac04ced3c11088e260782068", null ],
-    [ "PrepareSpellScript", "df/d94/a14521.html#af618e8d84029dda5e48b699cbcf671be", null ],
-    [ "Register", "df/d94/a14521.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
+    [ "HandleScript", "df/d94/a14521.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "df/d94/a14521.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "df/d94/a14521.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "df/d94/a14521.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

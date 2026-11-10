@@ -1,6 +1,7 @@
 var a28769 =
 [
-    [ "npc_locksmith", "d6/d72/a28769.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "d6/d72/a28769.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "d6/d72/a28769.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "npc_guardianAI", "d6/d72/a28769.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "d6/d72/a28769.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "d6/d72/a28769.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "d6/d72/a28769.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

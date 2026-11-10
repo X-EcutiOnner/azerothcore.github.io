@@ -1,13 +1,8 @@
 var a09269 =
 [
-    [ "BuildValuesCachePosPointers", "d8/d8c/a09269.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
-    [ "ApplyOffset", "d8/d8c/a09269.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
-    [ "other", "d8/d8c/a09269.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
-    [ "UnitDynamicFlagsPos", "d8/d8c/a09269.html#a230385a8646ebce01faaadce648b1a61", null ],
-    [ "UnitFieldAuraStatePos", "d8/d8c/a09269.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
-    [ "UnitFieldBytes2Pos", "d8/d8c/a09269.html#aa1df8492f0a3c576b067469ee3552796", null ],
-    [ "UnitFieldDisplayPos", "d8/d8c/a09269.html#a1058d1650d656498f7dcd5139363a315", null ],
-    [ "UnitFieldFactionTemplatePos", "d8/d8c/a09269.html#a9b8eae9da685231956dca3e92b845cbb", null ],
-    [ "UnitFieldFlagsPos", "d8/d8c/a09269.html#a04e607123d1d1dde24611b573d25fedb", null ],
-    [ "UnitNPCFlagsPos", "d8/d8c/a09269.html#aa9412413e1a867d1f3857d18f4d52906", null ]
+    [ "AttackPosition", "d8/d8c/a09269.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
+    [ "operator=", "d8/d8c/a09269.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
+    [ "operator==", "d8/d8c/a09269.html#a320adced006c0f70456492c9e9dc99c2", null ],
+    [ "_pos", "d8/d8c/a09269.html#a77783e0e6e83836ad6e5903535ad9370", null ],
+    [ "_taken", "d8/d8c/a09269.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
 ];

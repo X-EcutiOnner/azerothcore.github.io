@@ -1,8 +1,5 @@
 var a30177 =
 [
-    [ "prepareLoadedData", "dc/d6a/a30177.html#a696cfebd8fe66840b316919519e9b319", null ],
-    [ "fcc", "dc/d6a/a30177.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
-    [ "fcc_txt", "dc/d6a/a30177.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
-    [ "height_map", "dc/d6a/a30177.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
-    [ "size", "dc/d6a/a30177.html#add2809c6e520cf4aa43807d61f973f0e", null ]
+    [ "aura", "dc/d6a/a30177.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
+    [ "effect", "dc/d6a/a30177.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
 ];

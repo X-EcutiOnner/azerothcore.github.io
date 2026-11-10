@@ -1,9 +1,11 @@
 var a24557 =
 [
-    [ "npc_pet_gen_soul_trader_beacon", "d8/d5f/a24557.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
-    [ "GetOwner", "d8/d5f/a24557.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
-    [ "SpellHit", "d8/d5f/a24557.html#a0bed2e8e8dac9c1bc7763a3ad27acd22", null ],
-    [ "UpdateAI", "d8/d5f/a24557.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
-    [ "events", "d8/d5f/a24557.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
-    [ "ownerGUID", "d8/d5f/a24557.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
+    [ "npc_isla_starmaneAI", "d8/d5f/a24557.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "d8/d5f/a24557.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "d8/d5f/a24557.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "d8/d5f/a24557.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "d8/d5f/a24557.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "d8/d5f/a24557.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "WaypointReached", "d8/d5f/a24557.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "events", "d8/d5f/a24557.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

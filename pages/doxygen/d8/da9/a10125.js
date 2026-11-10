@@ -1,9 +1,9 @@
 var a10125 =
 [
-    [ "completedEncounters", "d8/da9/a10125.html#acd444d68aab9efa6aace6f3964a40206", null ],
-    [ "data", "d8/da9/a10125.html#a50d57b4d7d0ba162ae1cc53ee4c4462c", null ],
-    [ "difficulty", "d8/da9/a10125.html#a31694740b0a3af858c12c51f0659fe3c", null ],
-    [ "instanceId", "d8/da9/a10125.html#aefe57dc77cf3043b6c187fdb676d9c51", null ],
-    [ "mapId", "d8/da9/a10125.html#a14cbda11b8b949fe647a6851d15d6465", null ],
-    [ "resetTime", "d8/da9/a10125.html#af7c9d7b1fee85de40aade9576e8c49ff", null ]
+    [ "BroadcastTextID", "d8/da9/a10125.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "d8/da9/a10125.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "d8/da9/a10125.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "d8/da9/a10125.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "d8/da9/a10125.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "d8/da9/a10125.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

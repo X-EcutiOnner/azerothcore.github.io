@@ -1,14 +1,10 @@
 var a07933 =
 [
-    [ "AccountId", "d6/d9b/a07933.html#ae1921d1e949cec70ebbd52779b775df6", null ],
-    [ "ArenaTeamId", "d6/d9b/a07933.html#a1d094e514af9970b0239cc8e27da06bc", null ],
-    [ "Class", "d6/d9b/a07933.html#a19dbbbdce9dbf9993d57edbebeeaf425", null ],
-    [ "GroupGuid", "d6/d9b/a07933.html#a4b6f5540de2e47959a053696698e8e05", null ],
-    [ "Guid", "d6/d9b/a07933.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532", null ],
-    [ "GuildId", "d6/d9b/a07933.html#a4fba749bb66642a1601c5cb37c756222", null ],
-    [ "Level", "d6/d9b/a07933.html#a41ea77c9e690336b709259bfccbd939f", null ],
-    [ "MailCount", "d6/d9b/a07933.html#a6ed31437554dab26387118cb1d1783b1", null ],
-    [ "Name", "d6/d9b/a07933.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b", null ],
-    [ "Race", "d6/d9b/a07933.html#aa57c5abbbd7218d26e4156b310229766", null ],
-    [ "Sex", "d6/d9b/a07933.html#a91c17eef26be0a18823a9834853c296a", null ]
+    [ "BattlegroundRL", "d6/d9b/a07933.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
+    [ "FillInitialWorldStates", "d6/d9b/a07933.html#a410a5dbfa6fccbe802058d60eb7393d9", null ],
+    [ "HandleAreaTrigger", "d6/d9b/a07933.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
+    [ "HandlePlayerUnderMap", "d6/d9b/a07933.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
+    [ "SetupBattleground", "d6/d9b/a07933.html#a3393353028ffd35eaad1d5e121654366", null ],
+    [ "StartingEventCloseDoors", "d6/d9b/a07933.html#aae633887d9689898c8b73efa8257eb34", null ],
+    [ "StartingEventOpenDoors", "d6/d9b/a07933.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
 ];

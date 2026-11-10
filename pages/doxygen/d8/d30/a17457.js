@@ -1,11 +1,8 @@
 var a17457 =
 [
-    [ "npc_spectral_footman", "d8/d30/a17457.html#ab12174cbf246178b52c074024453015e", null ],
-    [ "AttackStart", "d8/d30/a17457.html#a0fe7529c47d56f67b15023bc432f0498", null ],
-    [ "DoAction", "d8/d30/a17457.html#a9a81be4f5c159e64ba0f8926ea095f81", null ],
-    [ "EnterEvadeMode", "d8/d30/a17457.html#afc51e0562045028af7161ea66e7be9f0", null ],
-    [ "JustDied", "d8/d30/a17457.html#ae4292ffa4b9e142b41e58d31338b97b5", null ],
-    [ "JustEngagedWith", "d8/d30/a17457.html#a9d8d723b403035660b78c332d5813d3f", null ],
-    [ "Reset", "d8/d30/a17457.html#a1c3612a7d9ac3076392c5c22e4e0a73e", null ],
-    [ "UpdateAI", "d8/d30/a17457.html#af76de9237937199dfa715a445b0060c3", null ]
+    [ "npc_phantom_hallucination", "d8/d30/a17457.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
+    [ "EnterEvadeMode", "d8/d30/a17457.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
+    [ "JustDied", "d8/d30/a17457.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
+    [ "UpdateAI", "d8/d30/a17457.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
+    [ "numOfUpd", "d8/d30/a17457.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
 ];

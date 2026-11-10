@@ -1,11 +1,6 @@
 var a23305 =
 [
-    [ "boss_doomlordkazzakAI", "dc/d9a/a23305.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "dc/d9a/a23305.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "dc/d9a/a23305.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "dc/d9a/a23305.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "dc/d9a/a23305.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "dc/d9a/a23305.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "dc/d9a/a23305.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "dc/d9a/a23305.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "PrepareAuraScript", "dc/d9a/a23305.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "dc/d9a/a23305.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "dc/d9a/a23305.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

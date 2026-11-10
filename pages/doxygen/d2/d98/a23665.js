@@ -1,7 +1,8 @@
 var a23665 =
 [
-    [ "CalcPeriodic", "d2/d98/a23665.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "d2/d98/a23665.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "d2/d98/a23665.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "d2/d98/a23665.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "boss_the_black_stalker", "d2/d98/a23665.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "d2/d98/a23665.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "d2/d98/a23665.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "d2/d98/a23665.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "d2/d98/a23665.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

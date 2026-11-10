@@ -1,11 +1,6 @@
 var a29865 =
 [
-    [ "AddToWorld", "d6/d12/a29865.html#a3b5a3472d4a5ca1cff7dc0dbed0b04c7", null ],
-    [ "ForceInitValues", "d6/d12/a29865.html#adb765e8464642610eeebf25c5fa17edd", null ],
-    [ "Player", "d6/d12/a29865.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
-    [ "RemoveFromWorld", "d6/d12/a29865.html#aa69937d52e60e235f35a48e9d80d65ce", null ],
-    [ "SaveToDB", "d6/d12/a29865.html#a21d71f7f913da0213b98cfe2e0d1b832", null ],
-    [ "SaveToDB", "d6/d12/a29865.html#a74818d35eddf0c5ccea7693ba455cff2", null ],
-    [ "TestSelectCharmedAIGroupTarget", "d6/d12/a29865.html#a31b19bcaa3a3006da6f7b8074c23500d", null ],
-    [ "UpdateObjectVisibility", "d6/d12/a29865.html#a35487432f2af544c20bc3c45f8ba1602", null ]
+    [ "hasInstantTargetProcs", "d6/d12/a29865.html#a043a2884a456208d85bc3bf8d4733682", null ],
+    [ "isRemoved", "d6/d12/a29865.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
+    [ "spellId", "d6/d12/a29865.html#aee26a119051d638047018aeb93d593f6", null ]
 ];

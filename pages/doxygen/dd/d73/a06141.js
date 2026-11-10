@@ -1,8 +1,6 @@
 var a06141 =
 [
-    [ "DatabaseWorkerPoolAdapter", "dd/d73/a06141.html#afaf15e7b5a8305b7766452f68b0e5763", null ],
-    [ "DirectExecute", "dd/d73/a06141.html#a001df1f9dead46304cad902e1e7689d1", null ],
-    [ "GetConnectionInfo", "dd/d73/a06141.html#ab823ad038f84c114cb85764320a3f546", null ],
-    [ "Query", "dd/d73/a06141.html#abe05d7ef60e96d2a054c430af6913c3f", null ],
-    [ "_pool", "dd/d73/a06141.html#acffa90573e6f9d4889d62f4c9d57b28b", null ]
+    [ "Append", "dd/d73/a06141.html#a290b052f7cbd321c646e9e5e19484444", null ],
+    [ "Append", "dd/d73/a06141.html#a867b7a92080104278aef5fb4975a4a52", null ],
+    [ "Append", "dd/d73/a06141.html#aa0a81814abe26d456018c3bc9153cd4d", null ]
 ];

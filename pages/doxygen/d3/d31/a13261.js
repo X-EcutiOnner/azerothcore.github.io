@@ -1,8 +1,8 @@
 var a13261 =
 [
-    [ "npc_kernobeeAI", "d3/d31/a13261.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "d3/d31/a13261.html#ab704b138670279f6d731a6bb58ac6d10", null ],
-    [ "UpdateAI", "d3/d31/a13261.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "d3/d31/a13261.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "d3/d31/a13261.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "npc_lava_spawn", "d3/d31/a13261.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "d3/d31/a13261.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "d3/d31/a13261.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "d3/d31/a13261.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "d3/d31/a13261.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

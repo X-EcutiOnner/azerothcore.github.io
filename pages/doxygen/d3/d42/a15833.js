@@ -1,7 +1,13 @@
 var a15833 =
 [
-    [ "FilterTargets", "d3/d42/a15833.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "d3/d42/a15833.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "d3/d42/a15833.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "d3/d42/a15833.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "boss_sartura", "d3/d42/a15833.html#a7faaf16a1a56badd1e65a3364d425f02", null ],
+    [ "DamageTaken", "d3/d42/a15833.html#a9a404743ac8491a9efc7091259706e0f", null ],
+    [ "InitializeAI", "d3/d42/a15833.html#ae86d0a6b0cd591b3bb18333195109c22", null ],
+    [ "JustDied", "d3/d42/a15833.html#aceff44022b8d53da41ecfcb1e2317e01", null ],
+    [ "JustEngagedWith", "d3/d42/a15833.html#ab1c024908117e8460eb89c062d3825dc", null ],
+    [ "KilledUnit", "d3/d42/a15833.html#a516a75910e872718a519c2a5c9805770", null ],
+    [ "Reset", "d3/d42/a15833.html#ab3514ad48f622f65d67063723601f8de", null ],
+    [ "UpdateAI", "d3/d42/a15833.html#af3d093dab3f5191d5da2df36ca9c4a11", null ],
+    [ "berserked", "d3/d42/a15833.html#a8ad40cee9667500cb0e9533256d216c6", null ],
+    [ "enraged", "d3/d42/a15833.html#af916ff3f6468b1e48d5b1944442594e5", null ]
 ];

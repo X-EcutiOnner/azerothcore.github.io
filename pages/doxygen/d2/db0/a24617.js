@@ -1,8 +1,6 @@
 var a24617 =
 [
-    [ "CheckProc", "d2/db0/a24617.html#a8875c54a3cae852681a389c8777f25bb", null ],
-    [ "HandleProc", "d2/db0/a24617.html#aa4025d668080ba03af23abbb3a461758", null ],
-    [ "PrepareAuraScript", "d2/db0/a24617.html#a5fee783960ed7f0b4adcfc30db68061d", null ],
-    [ "Register", "d2/db0/a24617.html#a5a6251290dd3389e9307c2e6f9b52098", null ],
-    [ "Validate", "d2/db0/a24617.html#a38cdd5d8346797e53ed82be598df48cd", null ]
+    [ "PrepareSpellScript", "d2/db0/a24617.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
+    [ "RecalculateDamage", "d2/db0/a24617.html#af01757d0968da2a096d800782ed7e66e", null ],
+    [ "Register", "d2/db0/a24617.html#a62b6613707a2a9b78d52bffe92de604e", null ]
 ];

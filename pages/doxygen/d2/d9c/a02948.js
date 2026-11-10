@@ -1,6 +1,7 @@
 var a02948 =
 [
-    [ "ResultIterator< T >", "dd/d71/a06306.html", "dd/d71/a06306" ],
-    [ "ResultSet", "d1/dbe/a06310.html", "d1/dbe/a06310" ],
-    [ "PreparedResultSet", "de/ded/a06314.html", "de/ded/a06314" ]
+    [ "FieldTypeToString", "d2/d9c/a02948.html#a9b1d39b7abfe176191c0ed27188ed310", null ],
+    [ "InitializeDatabaseFieldMetadata", "d2/d9c/a02948.html#a5e0e57902060d1fcd32688acb949b98e", null ],
+    [ "MysqlTypeToFieldType", "d2/d9c/a02948.html#a1a26932646b97d033efdf53078561a90", null ],
+    [ "SizeForType", "d2/d9c/a02948.html#ae077e892df09ce687a0a50be949ad69f", null ]
 ];

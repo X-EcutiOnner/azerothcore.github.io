@@ -1,6 +1,6 @@
 var a19001 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d1/d4a/a19005.html", "d1/d4a/a19005" ],
-    [ "npc_green_dragon_combat_trigger", "db/d43/a19001.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "db/d43/a19001.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "boss_valithria_dreamwalkerAI", "d1/d4a/a19005.html", "d1/d4a/a19005" ],
+    [ "boss_valithria_dreamwalker", "db/d43/a19001.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
+    [ "GetAI", "db/d43/a19001.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
 ];

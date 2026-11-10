@@ -1,6 +1,6 @@
 var a28121 =
 [
-    [ "HandleOnHit", "da/dd1/a28121.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "da/dd1/a28121.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "da/dd1/a28121.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "FilterTargets", "da/dd1/a28121.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "da/dd1/a28121.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "da/dd1/a28121.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

@@ -1,13 +1,13 @@
 var a12269 =
 [
-    [ "PlayerTextBuilder", "d6/dbc/a12269.html#a0740c581636009448fe2c29084db41ae", null ],
-    [ "operator()", "d6/dbc/a12269.html#a64d2905971ecd645e364a774f320a721", null ],
-    [ "_gender", "d6/dbc/a12269.html#aece205d3d523dcf6fefbdd9914943723", null ],
-    [ "_language", "d6/dbc/a12269.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
-    [ "_msgType", "d6/dbc/a12269.html#af546f2788870b8b10b3405695ef81171", null ],
-    [ "_source", "d6/dbc/a12269.html#a9fe9f865b0ba84b5497e63947893533e", null ],
-    [ "_talker", "d6/dbc/a12269.html#a8a8cd00cc76e048500800938a773aa06", null ],
-    [ "_target", "d6/dbc/a12269.html#ac97cf187d079c5162e47bebb7024faa5", null ],
-    [ "_textGroup", "d6/dbc/a12269.html#ab44fe12e73da36acb1199987e8573467", null ],
-    [ "_textId", "d6/dbc/a12269.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
+    [ "ToCloud9GroupHooks", "d6/dbc/a12269.html#a56b706ee7923e004bc1097887d645793", null ],
+    [ "~ToCloud9GroupHooks", "d6/dbc/a12269.html#a05fc2da0da6f565a0bc4bc234a92046f", null ],
+    [ "OnGroupConvertedToRaid", "d6/dbc/a12269.html#a104b63c83abe82809e16bc86b9649011", null ],
+    [ "OnGroupCreated", "d6/dbc/a12269.html#a7fa6a2d72e6891d9ab41fc113c1a27dd", null ],
+    [ "OnGroupDisbanded", "d6/dbc/a12269.html#ae47dee5f18aea4827a1b320c3ba9f607", null ],
+    [ "OnGroupDungeonDifficultyChanged", "d6/dbc/a12269.html#a829c7d428363bf0720f0e27e84747b88", null ],
+    [ "OnGroupLootTypeChanged", "d6/dbc/a12269.html#adad70b61a54071c25a9e1950f4b656bf", null ],
+    [ "OnGroupMemberAdded", "d6/dbc/a12269.html#ad001911251ec8d9f280d5aa1ab291b7e", null ],
+    [ "OnGroupMemberRemoved", "d6/dbc/a12269.html#a0c63904979beb754131797a163000ec5", null ],
+    [ "OnGroupRaidDifficultyChanged", "d6/dbc/a12269.html#a0c066c39c344d750164735a4f549cf69", null ]
 ];

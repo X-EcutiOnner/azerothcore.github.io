@@ -1,7 +1,9 @@
 var a25085 =
 [
-    [ "HandleProc", "df/d0f/a25085.html#a43704e8ddf8eb94adf27225eb02135bd", null ],
-    [ "PrepareAuraScript", "df/d0f/a25085.html#a626ebecdbb7e431af364fa9bcde38644", null ],
-    [ "Register", "df/d0f/a25085.html#ab56bed8649452b9ae7ac07bf6ee16641", null ],
-    [ "Validate", "df/d0f/a25085.html#a3699a230042bd646d459bd7dcf73e3b6", null ]
+    [ "FilterTargets", "df/d0f/a25085.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "df/d0f/a25085.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "df/d0f/a25085.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "df/d0f/a25085.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "df/d0f/a25085.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "df/d0f/a25085.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

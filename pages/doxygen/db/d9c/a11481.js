@@ -1,7 +1,6 @@
 var a11481 =
 [
-    [ "MinimapPingClient", "db/d9c/a11481.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
-    [ "Read", "db/d9c/a11481.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
-    [ "MapX", "db/d9c/a11481.html#ad4ff3977c260035145d6acd00429d81e", null ],
-    [ "MapY", "db/d9c/a11481.html#abd8640cb98238f339218c3b945885c97", null ]
+    [ "ItemRefund", "db/d9c/a11481.html#aa257d579519d45da88694ff6306395da", null ],
+    [ "Read", "db/d9c/a11481.html#a6d031070a4832bdc716f8b73629ebc8d", null ],
+    [ "ItemGuid", "db/d9c/a11481.html#ac394336b15540248770f81d748206f7b", null ]
 ];

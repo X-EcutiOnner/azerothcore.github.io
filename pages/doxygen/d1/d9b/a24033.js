@@ -1,6 +1,6 @@
 var a24033 =
 [
-    [ "npc_capernian", "d1/d9b/a24033.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "d1/d9b/a24033.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "d1/d9b/a24033.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "HandlePeriodic", "d1/d9b/a24033.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "d1/d9b/a24033.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "d1/d9b/a24033.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

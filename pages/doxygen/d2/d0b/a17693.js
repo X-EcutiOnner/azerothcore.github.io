@@ -1,6 +1,6 @@
 var a17693 =
 [
-    [ "boss_drakkari_elementalAI", "db/d9b/a17697.html", "db/d9b/a17697" ],
-    [ "boss_drakkari_elemental", "d2/d0b/a17693.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
-    [ "GetAI", "d2/d0b/a17693.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
+    [ "boss_drakkari_colossusAI", "db/d9b/a17697.html", "db/d9b/a17697" ],
+    [ "boss_drakkari_colossus", "d2/d0b/a17693.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
+    [ "GetAI", "d2/d0b/a17693.html#a75c6c9c56fe11342dd8aece031059e77", null ]
 ];

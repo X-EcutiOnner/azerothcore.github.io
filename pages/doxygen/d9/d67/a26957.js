@@ -1,7 +1,9 @@
 var a26957 =
 [
-    [ "HandleProc", "d9/d67/a26957.html#ab743366a1ee3e2a77ecafde5a06439d0", null ],
-    [ "PrepareAuraScript", "d9/d67/a26957.html#afcf7c0209a22464b7cf72f2b4fa74eaf", null ],
-    [ "Register", "d9/d67/a26957.html#a1898ee4e5e69f7b00b242340e53c131f", null ],
-    [ "Validate", "d9/d67/a26957.html#a84495f575255d3359490021254edb31b", null ]
+    [ "CheckCast", "d9/d67/a26957.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "d9/d67/a26957.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "d9/d67/a26957.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "d9/d67/a26957.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "d9/d67/a26957.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "d9/d67/a26957.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

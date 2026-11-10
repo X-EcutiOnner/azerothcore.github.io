@@ -1,11 +1,11 @@
 var a12705 =
 [
-    [ "spectator_commandscript", "d1/d47/a12705.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
-    [ "GetCommands", "d1/d47/a12705.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
-    [ "HandleSpectatorCommand", "d1/d47/a12705.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
-    [ "HandleSpectatorLeaveCommand", "d1/d47/a12705.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
-    [ "HandleSpectatorResetCommand", "d1/d47/a12705.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
-    [ "HandleSpectatorSpectateCommand", "d1/d47/a12705.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
-    [ "HandleSpectatorVersionCommand", "d1/d47/a12705.html#aaf7c57603d263f7ab919f12d9680f058", null ],
-    [ "HandleSpectatorWatchCommand", "d1/d47/a12705.html#a1ee822e332374b375962d1ae87adbc61", null ]
+    [ "pooltools_commandscript", "d1/d47/a12705.html#a3428978e91000cbe46dd2b84a30eee2d", null ],
+    [ "GetCommands", "d1/d47/a12705.html#aebd69a3ae0a0e0833f3eaeeb637d97e6", null ],
+    [ "HandlePoolAdd", "d1/d47/a12705.html#afb113b7673dbddf804f9384fbc400d67", null ],
+    [ "HandlePoolClear", "d1/d47/a12705.html#a4bde765f2949ae2db1601e8f5a103ed2", null ],
+    [ "HandlePoolDef", "d1/d47/a12705.html#a12edd3f4697bba8e03594ceed8c6c289", null ],
+    [ "HandlePoolEnd", "d1/d47/a12705.html#a039862a0ca89201187f4e06ce792cae8", null ],
+    [ "HandlePoolRemove", "d1/d47/a12705.html#a158f83f814cba8328dcb81f02525dcdb", null ],
+    [ "HandlePoolStart", "d1/d47/a12705.html#a13629c50653c80b949bdf80485e51d59", null ]
 ];

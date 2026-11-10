@@ -1,8 +1,7 @@
 var a05365 =
 [
-    [ "ModelFileMap", "d2/d8f/a05365.html#ae609ba50932b7bac6ac0c1c7d0800b5d", null ],
-    [ "AcquireModelInstance", "d2/d8f/a05365.html#af6dc1b3c77f5eeff5ff4b9bc5c4024b0", null ],
-    [ "instance", "d2/d8f/a05365.html#a6cae2913accf21c262dafa01c14b1795", null ],
-    [ "_loadedModels", "d2/d8f/a05365.html#a406474470aaa0da5b752817cc5ea81ae", null ],
-    [ "_lock", "d2/d8f/a05365.html#ab258d227875d9aad8f399fae3f57f0ab", null ]
+    [ "LiquidInfo", "d2/d8f/a05365.html#a0caefac43d2f5c59446e2a9f7e565c11", null ],
+    [ "LiquidInfo", "d2/d8f/a05365.html#abfae4e75223a93b5b71840f60710afb9", null ],
+    [ "level", "d2/d8f/a05365.html#ade8f31cc9adc77ff82724134b5ebba24", null ],
+    [ "type", "d2/d8f/a05365.html#a46eda7aed64f2a5b0bd5ce1f88942c20", null ]
 ];

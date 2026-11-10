@@ -1,6 +1,8 @@
 var a21465 =
 [
-    [ "CanBeAppliedOn", "dc/d38/a21465.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
-    [ "PrepareAuraScript", "dc/d38/a21465.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
-    [ "Register", "dc/d38/a21465.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
+    [ "FilterTargets", "dc/d38/a21465.html#a6f3d275e5ff06a6fc37f143d6394bf45", null ],
+    [ "HandleScript", "dc/d38/a21465.html#aa97e0b2f4a8e33d412501f6625ab1504", null ],
+    [ "PrepareSpellScript", "dc/d38/a21465.html#a0db5183ec1aa7f490202ac41cd00b153", null ],
+    [ "Register", "dc/d38/a21465.html#acd4b270dbe27be417892e0a4183ffa0d", null ],
+    [ "Validate", "dc/d38/a21465.html#abb3ca41a50087763d731d1f911065e14", null ]
 ];

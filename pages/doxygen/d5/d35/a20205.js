@@ -1,8 +1,6 @@
 var a20205 =
 [
-    [ "npc_algalon_worm_hole", "d5/d35/a20205.html#a546bd0ede2586fcbe3812698b68528d4", null ],
-    [ "JustSummoned", "d5/d35/a20205.html#a077425b35d86c007daa93fc8b1fd9717", null ],
-    [ "Reset", "d5/d35/a20205.html#a363814abdee714faddfd966b11a4fddc", null ],
-    [ "UpdateAI", "d5/d35/a20205.html#a16f644be53169adc67fc971bdeaa7263", null ],
-    [ "_summonTimer", "d5/d35/a20205.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
+    [ "npc_collapsing_star", "d5/d35/a20205.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
+    [ "DamageTaken", "d5/d35/a20205.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
+    [ "JustSummoned", "d5/d35/a20205.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
 ];

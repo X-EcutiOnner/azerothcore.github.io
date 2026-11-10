@@ -1,7 +1,10 @@
 var a16761 =
 [
-    [ "TwilightCutterSelector", "d4/d3e/a16761.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
-    [ "operator()", "d4/d3e/a16761.html#a6374425df156bdf202d53a2c73ef784c", null ],
-    [ "_caster", "d4/d3e/a16761.html#a784c95ef6472e711f4200f194222d179", null ],
-    [ "_cutterCaster", "d4/d3e/a16761.html#a7f713777a36a8d127c2865e4610b1288", null ]
+    [ "spell_halion_marks_aura", "d4/d3e/a16761.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
+    [ "BeforeDispel", "d4/d3e/a16761.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
+    [ "OnRemove", "d4/d3e/a16761.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
+    [ "PrepareAuraScript", "d4/d3e/a16761.html#acd5285ea5c378b31526440d263c54770", null ],
+    [ "Register", "d4/d3e/a16761.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
+    [ "_removeSpellId", "d4/d3e/a16761.html#aeef9d928c6a8739337251e144558b169", null ],
+    [ "_summonSpellId", "d4/d3e/a16761.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
 ];

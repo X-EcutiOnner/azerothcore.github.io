@@ -1,7 +1,5 @@
 var a09065 =
 [
-    [ "SetRuneState", "d5/dc4/a09065.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
-    [ "lastUsedRune", "d5/dc4/a09065.html#a88c702716eb3032c20ae5ed74922d923", null ],
-    [ "runes", "d5/dc4/a09065.html#aac485530bfa81d54d9da3213fe917c29", null ],
-    [ "runeState", "d5/dc4/a09065.html#ae58297e0766578b234604a97641501a1", null ]
+    [ "PlayerLevelInfo", "d5/dc4/a09065.html#af0d716577a3645fe1cef95968382ec80", null ],
+    [ "stats", "d5/dc4/a09065.html#a796af7d07604474adebf5a6f3518ca30", null ]
 ];

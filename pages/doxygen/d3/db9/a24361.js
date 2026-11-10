@@ -1,10 +1,11 @@
 var a24361 =
 [
-    [ "npc_infernal_attackerAI", "d3/db9/a24361.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "d3/db9/a24361.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "d3/db9/a24361.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "d3/db9/a24361.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "d3/db9/a24361.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "d3/db9/a24361.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "d3/db9/a24361.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "npc_maxx_a_million_escortAI", "d3/db9/a24361.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "d3/db9/a24361.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "d3/db9/a24361.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "d3/db9/a24361.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "d3/db9/a24361.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "WaypointReached", "d3/db9/a24361.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bTake", "d3/db9/a24361.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "d3/db9/a24361.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

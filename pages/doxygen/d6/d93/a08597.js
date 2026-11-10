@@ -1,7 +1,10 @@
 var a08597 =
 [
-    [ "entry", "d6/d93/a08597.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
-    [ "pos", "d6/d93/a08597.html#af264c1262d9fcd204a2a536847a613b1", null ],
-    [ "respawnTime", "d6/d93/a08597.html#abeadd86c92a8c301626dde6943da1b9b", null ],
-    [ "rot", "d6/d93/a08597.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
+    [ "BoxMessage", "d6/d93/a08597.html#a450f6063a89db2d152370bc997c844a3", null ],
+    [ "BoxMoney", "d6/d93/a08597.html#a52a12645b55f5757cc61e9a014a71f32", null ],
+    [ "IsCoded", "d6/d93/a08597.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
+    [ "MenuItemIcon", "d6/d93/a08597.html#a987724c4673be20f5386f44245267bc9", null ],
+    [ "Message", "d6/d93/a08597.html#af130b33294cd49261b3c093cf6f9542c", null ],
+    [ "OptionType", "d6/d93/a08597.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
+    [ "Sender", "d6/d93/a08597.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
 ];

@@ -1,31 +1,5 @@
 var a07625 =
 [
-    [ "BfCapturePoint", "da/df4/a07625.html#a1eac786bb758ef6f3295e2241045dc32", null ],
-    [ "~BfCapturePoint", "da/df4/a07625.html#a309a0c2b2f3c5696aef46bb7bdf4dade", null ],
-    [ "ChangeTeam", "da/df4/a07625.html#a429037910b1a3108cdb753ba91230bf7", null ],
-    [ "DelCapturePoint", "da/df4/a07625.html#a67d01513cc9f41ce103f214a85bcf5c6", null ],
-    [ "FillInitialWorldStates", "da/df4/a07625.html#a0f35096b5f4fb611ff4e2dd398c87a12", null ],
-    [ "GetCapturePointGo", "da/df4/a07625.html#a605d9ced3b467ff21c638490b1f089f0", null ],
-    [ "GetCapturePointGo", "da/df4/a07625.html#a100e1b83863595f598cf40cfa6d9443f", null ],
-    [ "GetTeamId", "da/df4/a07625.html#a564f867d536944f729f63e4b773cc173", null ],
-    [ "HandlePlayerEnter", "da/df4/a07625.html#a1a4ed58f9874900d822305dd406b1c67", null ],
-    [ "HandlePlayerLeave", "da/df4/a07625.html#a02eab1f489ee817d0b0263a57eb71ed2", null ],
-    [ "IsInsideObjective", "da/df4/a07625.html#a5a375223e2be7103bf6d9b411bb95b2c", null ],
-    [ "SendChangePhase", "da/df4/a07625.html#a7c727552544f98f3ace8e42c2d1cca02", null ],
-    [ "SendObjectiveComplete", "da/df4/a07625.html#ab961bfe8934f89e6e454b8a74a280e3e", null ],
-    [ "SendUpdateWorldState", "da/df4/a07625.html#a887af016c482f532f38b3aa10ce6e546", null ],
-    [ "SetCapturePointData", "da/df4/a07625.html#a309d340d11c1712f5525438f31779671", null ],
-    [ "Update", "da/df4/a07625.html#a3620c3873aca6e90594a4ddc8345102d", null ],
-    [ "ActivePlayers", "da/df4/a07625.html#a4119bc83520e4e5c68a2af470f30e2fc", null ],
-    [ "Bf", "da/df4/a07625.html#abd194abc04e9f60d5980a15d121cb13d", null ],
-    [ "CapturePoint", "da/df4/a07625.html#a828856e871ab12e7222f542fcfebf6e3", null ],
-    [ "CapturePointEntry", "da/df4/a07625.html#adc770791f08285d7bc5a4c59a0b8c542", null ],
-    [ "MaxSpeed", "da/df4/a07625.html#a8174a10f3afcadc9d86928fad6d7f143", null ],
-    [ "MaxValue", "da/df4/a07625.html#a124efffeeea68485676dac664f89aea3", null ],
-    [ "MinValue", "da/df4/a07625.html#a16f5d7c78671d14eb6f0800b67c52f62", null ],
-    [ "NeutralValuePct", "da/df4/a07625.html#aa4290b17ee300ad0779e67aad8b8c943", null ],
-    [ "OldState", "da/df4/a07625.html#afd5cbd6dd52834c59e119389b7e8a416", null ],
-    [ "State", "da/df4/a07625.html#a38e693844d00a27395a582baa4f0ade4", null ],
-    [ "Team", "da/df4/a07625.html#abb7bd0bdbe2834d3c2e702b8d2f3dd5f", null ],
-    [ "Value", "da/df4/a07625.html#aa5d1cf8097e181ffb0563c334a896f29", null ]
+    [ "AuctionSearchAdd", "da/df4/a07625.html#a40116c721d736fe362a3dab56e6b3113", null ],
+    [ "searchableAuctionEntry", "da/df4/a07625.html#a48e000b0e7d9411676fd2ccacf283163", null ]
 ];

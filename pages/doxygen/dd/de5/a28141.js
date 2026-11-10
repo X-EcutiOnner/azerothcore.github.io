@@ -1,6 +1,7 @@
 var a28141 =
 [
-    [ "HandleProc", "dd/de5/a28141.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
-    [ "PrepareAuraScript", "dd/de5/a28141.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
-    [ "Register", "dd/de5/a28141.html#adf0852d1aad8097143df205a66a49f2f", null ]
+    [ "HandleGlyph", "dd/de5/a28141.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
+    [ "PrepareSpellScript", "dd/de5/a28141.html#adffd8b39adef397a886a66465e09f68b", null ],
+    [ "Register", "dd/de5/a28141.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
+    [ "Validate", "dd/de5/a28141.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
 ];

@@ -1,7 +1,6 @@
 var a24217 =
 [
-    [ "HandleDummy", "d1/dc3/a24217.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d1/dc3/a24217.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d1/dc3/a24217.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d1/dc3/a24217.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_daranelleAI", "de/d91/a24221.html", "de/d91/a24221" ],
+    [ "npc_daranelle", "d1/dc3/a24217.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "d1/dc3/a24217.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

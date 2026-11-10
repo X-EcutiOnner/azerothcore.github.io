@@ -1,8 +1,13 @@
 var a28821 =
 [
-    [ "npc_traveler_mammoth_vendor", "d5/deb/a28821.html#af3b5fc14371eb03e8259799b296967c1", null ],
-    [ "Reset", "d5/deb/a28821.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
-    [ "UpdateAI", "d5/deb/a28821.html#a98129bb78476ddc0b1a09593b8894fff", null ],
-    [ "_hasEjected", "d5/deb/a28821.html#af801e9849a795358c812fddf69ec8434", null ],
-    [ "_playerGuid", "d5/deb/a28821.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
+    [ "npc_spring_rabbitAI", "d5/deb/a28821.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
+    [ "DoAction", "d5/deb/a28821.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
+    [ "JustEngagedWith", "d5/deb/a28821.html#a0c36f1dfc094007990f067544a940538", null ],
+    [ "Reset", "d5/deb/a28821.html#ac0f6b47044099016dd6453674b75b2c8", null ],
+    [ "UpdateAI", "d5/deb/a28821.html#af9da118068234755fa9219b84050d2a3", null ],
+    [ "bunnyTimer", "d5/deb/a28821.html#a99c2923194cf6a07bee8924abf98f470", null ],
+    [ "inLove", "d5/deb/a28821.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
+    [ "jumpTimer", "d5/deb/a28821.html#a5c17e00187ac87b23482dfbabb89809b", null ],
+    [ "rabbitGUID", "d5/deb/a28821.html#af838b25c8442767aaef16e95022cb062", null ],
+    [ "searchTimer", "d5/deb/a28821.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
 ];

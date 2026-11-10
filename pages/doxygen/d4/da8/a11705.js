@@ -1,10 +1,6 @@
 var a11705 =
 [
-    [ "QuestUpdateAddKill", "d4/da8/a11705.html#ac6e44b351690b0a24565a13cad87ec89", null ],
-    [ "Write", "d4/da8/a11705.html#a6f2392423f15178d7a07665a808e6e64", null ],
-    [ "CreatureEntry", "d4/da8/a11705.html#abc41116b77ad21277dbf88b7c904bfe7", null ],
-    [ "CurrentCount", "d4/da8/a11705.html#a6427713c318210153964d9ee29df155b", null ],
-    [ "ObjectiveGuid", "d4/da8/a11705.html#a00e241b298e0351d26c59ac59df3ad62", null ],
-    [ "QuestId", "d4/da8/a11705.html#a9f7eccb75e106acd2d8a1372aa85fd4f", null ],
-    [ "RequiredCount", "d4/da8/a11705.html#a0a1a4435755f778bb263ad65d305a5e9", null ]
+    [ "QuestUpdateComplete", "d4/da8/a11705.html#a1e6d102e4063facad1230b55d4048702", null ],
+    [ "Write", "d4/da8/a11705.html#a2ec714ac25e784446e8a614587bd79b3", null ],
+    [ "QuestId", "d4/da8/a11705.html#ac44a95d88d2970ee3e8bf0a8c57d578d", null ]
 ];

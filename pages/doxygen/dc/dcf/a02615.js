@@ -1,4 +1,8 @@
 var a02615 =
 [
-    [ "UPDATE_TARGET", "dc/dcf/a02615.html#a7147e15125e75e9e1624cd480f4afb5f", null ]
+    [ "PassiveAI", "d4/d42/a06585.html", "d4/d42/a06585" ],
+    [ "PossessedAI", "d3/d0d/a06589.html", "d3/d0d/a06589" ],
+    [ "NullCreatureAI", "d4/d24/a06593.html", "d4/d24/a06593" ],
+    [ "CritterAI", "d3/d86/a06597.html", "d3/d86/a06597" ],
+    [ "TriggerAI", "d6/d64/a06601.html", "d6/d64/a06601" ]
 ];

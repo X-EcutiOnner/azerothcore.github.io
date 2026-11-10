@@ -1,9 +1,8 @@
 var a11741 =
 [
-    [ "TotemCreated", "db/d0c/a11741.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "db/d0c/a11741.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "db/d0c/a11741.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "db/d0c/a11741.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "db/d0c/a11741.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "db/d0c/a11741.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "QuestUpdateAddPvPKill", "db/d0c/a11741.html#a22b1143d1ee7c28f0ae63c0d215e64ce", null ],
+    [ "Write", "db/d0c/a11741.html#ab58c8dc6918834caa654e05992abde6a", null ],
+    [ "CurrentCount", "db/d0c/a11741.html#a4c6df4b5647d8b71084c4495548cdd58", null ],
+    [ "QuestId", "db/d0c/a11741.html#ae80d16619ecac6b381b89483ce96b810", null ],
+    [ "RequiredCount", "db/d0c/a11741.html#a95d2c68a8383bcac985a891de7771274", null ]
 ];

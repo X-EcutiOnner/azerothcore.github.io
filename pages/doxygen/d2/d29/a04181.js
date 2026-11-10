@@ -1,5 +1,5 @@
 var a04181 =
 [
-    [ "reload_commandscript", "d5/d92/a12706.html", "d5/d92/a12706" ],
-    [ "AddSC_reload_commandscript", "d2/d29/a04181.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
+    [ "group_commandscript", "d7/d5b/a12601.html", "d7/d5b/a12601" ],
+    [ "AddSC_group_commandscript", "d2/d29/a04181.html#ac4c9434ed910cd9636e0a8644a8e91e1", null ]
 ];

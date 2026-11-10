@@ -1,6 +1,7 @@
 var a24429 =
 [
-    [ "npc_enraged_spiritAI", "d6/d31/a24433.html", "d6/d31/a24433" ],
-    [ "npc_enraged_spirit", "d6/d4b/a24429.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "d6/d4b/a24429.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "o", "d6/d4b/a24429.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "d6/d4b/a24429.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "d6/d4b/a24429.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "d6/d4b/a24429.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

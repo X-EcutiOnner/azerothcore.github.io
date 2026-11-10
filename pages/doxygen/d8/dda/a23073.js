@@ -1,8 +1,7 @@
 var a23073 =
 [
-    [ "boss_mother_shahraz", "d8/dda/a23073.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "d8/dda/a23073.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "d8/dda/a23073.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "d8/dda/a23073.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "d8/dda/a23073.html#ab9e4162ac92e786b84b6497c37251386", null ]
+    [ "boss_lady_malande", "d8/dda/a23073.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "d8/dda/a23073.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "d8/dda/a23073.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "d8/dda/a23073.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

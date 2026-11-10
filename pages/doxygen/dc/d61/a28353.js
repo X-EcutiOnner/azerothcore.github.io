@@ -1,6 +1,10 @@
 var a28353 =
 [
-    [ "go_witherbark_totem_bundleAI", "dc/d61/a28353.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "dc/d61/a28353.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "dc/d61/a28353.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "boss_emerissAI", "dc/d61/a28353.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
+    [ "DamageTaken", "dc/d61/a28353.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
+    [ "ExecuteEvent", "dc/d61/a28353.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
+    [ "JustEngagedWith", "dc/d61/a28353.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
+    [ "KilledUnit", "dc/d61/a28353.html#ad851169bc09a362137e211dd10d30a1b", null ],
+    [ "Reset", "dc/d61/a28353.html#a44dfb325c4e8413662052137edc710ef", null ],
+    [ "_stage", "dc/d61/a28353.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
 ];

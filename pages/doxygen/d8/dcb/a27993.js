@@ -1,10 +1,10 @@
 var a27993 =
 [
-    [ "CalculateBuffer", "d8/dcb/a27993.html#a3fa1917fc77575531e485cd0228bcc00", null ],
-    [ "Detonate", "d8/dcb/a27993.html#aa005ef9fba06c26dec9998153119c90f", null ],
-    [ "HandleProc", "d8/dcb/a27993.html#a35edcf5f57dee1bbb63321cd67b200db", null ],
-    [ "OnRemove", "d8/dcb/a27993.html#ae5ea7f0286f7e4c45611874b5ef79750", null ],
-    [ "PrepareAuraScript", "d8/dcb/a27993.html#a325ad66cd69a15260e274562250c8e32", null ],
-    [ "Register", "d8/dcb/a27993.html#a2d107c9db0b3b1859cb284b741a77ef8", null ],
-    [ "Validate", "d8/dcb/a27993.html#ae7de3e43a47e6b35d0dead23ac51325e", null ]
+    [ "CheckProc", "d8/dcb/a27993.html#a257202ac9b80a67ce58d9e3491164d22", null ],
+    [ "HandleProc", "d8/dcb/a27993.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
+    [ "HandleTick", "d8/dcb/a27993.html#a5e436c530e5ef70bc4de4305676ed196", null ],
+    [ "PrepareAuraScript", "d8/dcb/a27993.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
+    [ "Register", "d8/dcb/a27993.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
+    [ "RemoveEffect", "d8/dcb/a27993.html#a333ad80d8478f59713ee049f935d7885", null ],
+    [ "Validate", "d8/dcb/a27993.html#aed3cb37f0230463978b210add84bd31d", null ]
 ];

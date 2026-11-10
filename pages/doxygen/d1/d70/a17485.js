@@ -1,13 +1,19 @@
 var a17485 =
 [
-    [ "npc_hor_leader_secondAI", "d1/d70/a17485.html#a54a5094dc533755efc249ebc96663b62", null ],
-    [ "DamageTaken", "d1/d70/a17485.html#ae534779315b04b3dde495b13a1cb28e4", null ],
-    [ "DoAction", "d1/d70/a17485.html#a4185259006017e85fade721796851dd0", null ],
-    [ "MovementInform", "d1/d70/a17485.html#afe93165a3e96496b52a2be8de5022164", null ],
-    [ "MoveToNextStopPoint", "d1/d70/a17485.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
-    [ "Reset", "d1/d70/a17485.html#ae5d125deab31e6425e94b4523d8251eb", null ],
-    [ "UpdateAI", "d1/d70/a17485.html#ae991e18a6729a1b088c60060802c01c2", null ],
-    [ "currentStopPoint", "d1/d70/a17485.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
-    [ "events", "d1/d70/a17485.html#a3510e246908f4e5b758e05ca06a29e47", null ],
-    [ "instance", "d1/d70/a17485.html#a09cc193b1a718c06ef8349499e697f10", null ]
+    [ "npc_hor_lich_king", "d1/d70/a17485.html#a2d062432ca688b498c99b1a404939482", null ],
+    [ "DoAction", "d1/d70/a17485.html#ad6c3d39fa2762b82af94c75cb13e5293", null ],
+    [ "JustSummoned", "d1/d70/a17485.html#a616641dc2e0f46d3f0a86edc87a9a301", null ],
+    [ "MovementInform", "d1/d70/a17485.html#ae7f41d3aaa28699aee477dfada1a962f", null ],
+    [ "Reset", "d1/d70/a17485.html#a5c9512ccad51c881c9e8759341fd9d14", null ],
+    [ "SpellHitTarget", "d1/d70/a17485.html#a44b63fa387d05676c992cc100fb92806", null ],
+    [ "SummonedCreatureDespawn", "d1/d70/a17485.html#ac261de86ded5c319226867dfc3a5f42f", null ],
+    [ "SummonedCreatureDies", "d1/d70/a17485.html#a56b91c8d991778306bfea3702d94f1e7", null ],
+    [ "UpdateAI", "d1/d70/a17485.html#a0b5247d0e23ede8b867343803cec9774", null ],
+    [ "WallCompleted", "d1/d70/a17485.html#ad668e38cc7c651700686665d088d3a1d", null ],
+    [ "currentWall", "d1/d70/a17485.html#a5bac2be147e9725b68f56f056a341442", null ],
+    [ "div2", "d1/d70/a17485.html#af656d33ad0117378a75551d54d2a376f", null ],
+    [ "events", "d1/d70/a17485.html#acab01caba2cf66c21fe8a164f77491f1", null ],
+    [ "instance", "d1/d70/a17485.html#acaf28a6ecc646d551795bcb10d803923", null ],
+    [ "summons", "d1/d70/a17485.html#ad7c511cfa480c3b6801b63e63c0013c6", null ],
+    [ "summonsCount", "d1/d70/a17485.html#aa2e468e58f92cbdf7377805d5711c45e", null ]
 ];

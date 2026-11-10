@@ -1,5 +1,6 @@
 var a24289 =
 [
-    [ "go_warmaul_prison", "d1/dff/a24289.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "d1/dff/a24289.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "go_beaconAI", "dc/d8b/a24293.html", "dc/d8b/a24293" ],
+    [ "go_beacon", "d1/dff/a24289.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "d1/dff/a24289.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

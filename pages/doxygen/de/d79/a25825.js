@@ -1,10 +1,6 @@
 var a25825 =
 [
-    [ "CheckProc", "de/d79/a25825.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
-    [ "HandleProc", "de/d79/a25825.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
-    [ "OnApply", "de/d79/a25825.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
-    [ "OnRemove", "de/d79/a25825.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
-    [ "PrepareAuraScript", "de/d79/a25825.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
-    [ "Register", "de/d79/a25825.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
-    [ "Validate", "de/d79/a25825.html#a91c5a0e10c308332e18dc40033049996", null ]
+    [ "FilterTargets", "de/d79/a25825.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
+    [ "PrepareSpellScript", "de/d79/a25825.html#a9fb910382c89750e38cb36bed48a1597", null ],
+    [ "Register", "de/d79/a25825.html#a667b10129d2d23f72712be523dc93180", null ]
 ];

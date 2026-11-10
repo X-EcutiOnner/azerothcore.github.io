@@ -1,13 +1,6 @@
 var a16525 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "db/da9/a16525.html#ac61aaa16a5c0c7b28520d688d23d8c5c", null ],
-    [ "HandlePeriodic", "db/da9/a16525.html#a7f34f81ea8d710dc6d5e002a2e34ab1b", null ],
-    [ "OnApply", "db/da9/a16525.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "db/da9/a16525.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "db/da9/a16525.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "db/da9/a16525.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "db/da9/a16525.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
-    [ "_lowerDoorSpellEntry", "db/da9/a16525.html#aa9c6171b2b4a8cc34888c80f1ad7a602", null ],
-    [ "_spellEntry", "db/da9/a16525.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ],
-    [ "SUMMON_PERIOD", "db/da9/a16525.html#a7922f9fe5ceea635beea6037be7c4d14", null ]
+    [ "HandleApplyAura", "db/da9/a16525.html#aeddfd61eab5aa077ca07a924ec491285", null ],
+    [ "PrepareSpellScript", "db/da9/a16525.html#ad53341842455d98722c03318dd80fb94", null ],
+    [ "Register", "db/da9/a16525.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
 ];

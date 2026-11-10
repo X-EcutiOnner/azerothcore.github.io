@@ -1,9 +1,12 @@
 var a15529 =
 [
-    [ "npc_onyxian_whelp", "d9/db2/a15529.html#a9b3104050ef56883c1810f85d878195d", null ],
-    [ "AttackStart", "d9/db2/a15529.html#a80b976a536d77df7f499b29253843e0c", null ],
-    [ "IsSummonedBy", "d9/db2/a15529.html#a41d70414509f4f2f6914455e7b39c84c", null ],
-    [ "JustDied", "d9/db2/a15529.html#adf93b78cc3d94e6cb4c823afb1aef377", null ],
-    [ "TeleportIfVictimUnreachable", "d9/db2/a15529.html#ad9658563caa887a7febd6d4baf6cd658", null ],
-    [ "UpdateAI", "d9/db2/a15529.html#aa7622b1d405d6efe016c652d59a7d934", null ]
+    [ "boss_isalien", "d9/db2/a15529.html#a736a25e60ae367a45c7d6451be96126d", null ],
+    [ "DamageTaken", "d9/db2/a15529.html#a95d461e099193b5e2c1363acb1b5939a", null ],
+    [ "JustDied", "d9/db2/a15529.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
+    [ "JustEngagedWith", "d9/db2/a15529.html#ad6714da515db77c7299ee80b3268433e", null ],
+    [ "JustSummoned", "d9/db2/a15529.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
+    [ "Reset", "d9/db2/a15529.html#a4995c18e2baa62d05717617d0b1e3529", null ],
+    [ "UpdateAI", "d9/db2/a15529.html#aa067bea34557a4b2fe840ef305852bc0", null ],
+    [ "_phase", "d9/db2/a15529.html#a954bbd32948e6c416197199d96142056", null ],
+    [ "_scheduler", "d9/db2/a15529.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
 ];

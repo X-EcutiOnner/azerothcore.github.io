@@ -1,8 +1,7 @@
 var a27761 =
 [
-    [ "CheckProc", "d6/d85/a27761.html#ae2cab3bddee64667e242fe89cf1d97ad", null ],
-    [ "HandleProc", "d6/d85/a27761.html#afe9fa2846b939aafdd49163990c73204", null ],
-    [ "PrepareAuraScript", "d6/d85/a27761.html#a2d3bb1f075e3b18c678d23c457c8fcd1", null ],
-    [ "Register", "d6/d85/a27761.html#a03803e95a51f5668eb024aa45183f853", null ],
-    [ "Validate", "d6/d85/a27761.html#a1847090f13a6692b868469739d57ff1c", null ]
+    [ "PeriodicTick", "d6/d85/a27761.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
+    [ "PrepareAuraScript", "d6/d85/a27761.html#afd362a7dd0373e9480445a99023a5c8c", null ],
+    [ "Register", "d6/d85/a27761.html#a0332788648661d5c2665c5d1431e4ca7", null ],
+    [ "Validate", "d6/d85/a27761.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
 ];

@@ -1,7 +1,13 @@
 var a10881 =
 [
-    [ "InstanceMapScript", "d1/d55/a10881.html#a4efcd2ea9d4bd654b7454cd55541af14", null ],
-    [ "checkValidity", "d1/d55/a10881.html#a221dd91e2d2f761e66d990a6cae42306", null ],
-    [ "GetInstanceScript", "d1/d55/a10881.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
-    [ "IsDatabaseBound", "d1/d55/a10881.html#ab77651bb427813a7e119057c3dc53ca8", null ]
+    [ "FormulaScript", "d1/d55/a10881.html#a6d945a3c85aada82cdeb86e0aea63bde", null ],
+    [ "OnAfterArenaRatingCalculation", "d1/d55/a10881.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
+    [ "OnBaseGainCalculation", "d1/d55/a10881.html#ab154eaf469d5fe3e86c364940816270a", null ],
+    [ "OnBeforeUpdatingPersonalRating", "d1/d55/a10881.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
+    [ "OnColorCodeCalculation", "d1/d55/a10881.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
+    [ "OnGainCalculation", "d1/d55/a10881.html#aa83fab65cc89bd03021da2805e935ffb", null ],
+    [ "OnGrayLevelCalculation", "d1/d55/a10881.html#affeb57234f961b9e01f5898c7738f38f", null ],
+    [ "OnGroupRateCalculation", "d1/d55/a10881.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
+    [ "OnHonorCalculation", "d1/d55/a10881.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
+    [ "OnZeroDifferenceCalculation", "d1/d55/a10881.html#a7755c35bc56e6645e36de08c12a4847d", null ]
 ];

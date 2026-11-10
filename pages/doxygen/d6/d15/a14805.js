@@ -1,10 +1,5 @@
 var a14805 =
 [
-    [ "npc_brewfest_super_brew_trigger", "d6/d15/a14805.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "d6/d15/a14805.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "d6/d15/a14805.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "d6/d15/a14805.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "d6/d15/a14805.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "d6/d15/a14805.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "d6/d15/a14805.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "go_brazier_of_madness", "d6/d15/a14805.html#aeb900e575be02244e62c6e5e4153c855", null ],
+    [ "GossipHello", "d6/d15/a14805.html#aba3af326b01cd045523434aec189fd47", null ]
 ];

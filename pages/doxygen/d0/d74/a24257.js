@@ -1,6 +1,6 @@
 var a24257 =
 [
-    [ "go_beaconAI", "d0/d74/a24257.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d0/d74/a24257.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "_whelpGUIDs", "d0/d74/a24257.html#a083094ececd327c833649da6a755c635", null ]
+    [ "npc_aeranasAI", "da/dad/a24261.html", "da/dad/a24261" ],
+    [ "npc_aeranas", "d0/d74/a24257.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "d0/d74/a24257.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

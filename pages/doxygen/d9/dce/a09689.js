@@ -1,10 +1,26 @@
 var a09689 =
 [
-    [ "AIRelocationNotifier", "d9/dce/a09689.html#a05c1f74272dff612eeda6c50d1c6fb43", null ],
-    [ "Visit", "d9/dce/a09689.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "d9/dce/a09689.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "Visit", "d9/dce/a09689.html#a3cbdb164a6239614ef6ade13ddb5d33c", null ],
-    [ "i_unit", "d9/dce/a09689.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "includePlayers", "d9/dce/a09689.html#ac7985b8f0282180a063ccfba7583917e", null ],
-    [ "isCreature", "d9/dce/a09689.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "GetHeightPtr", "d9/dce/a09689.html#a347927f9d7df887b2a6fd89d841e004c", null ],
+    [ "GridTerrainData", "d9/dce/a09689.html#a1cf2965cea22f5a98ad2d737e372ac18", null ],
+    [ "~GridTerrainData", "d9/dce/a09689.html#a7380c5dbf731134733b87cab470603a4", null ],
+    [ "getArea", "d9/dce/a09689.html#a938710a8304ef342373d41581018c623", null ],
+    [ "getHeight", "d9/dce/a09689.html#a1269f47abd6faf5304494c85628bb961", null ],
+    [ "getHeightFromFlat", "d9/dce/a09689.html#adc73b5d06468dbf30b7b6507f6ac6474", null ],
+    [ "getHeightFromFloat", "d9/dce/a09689.html#a43b34255bd40b0824ad161bd40c8a5ec", null ],
+    [ "getHeightFromUint16", "d9/dce/a09689.html#a4ae5997baa9f9905cf13a3a214781df9", null ],
+    [ "getHeightFromUint8", "d9/dce/a09689.html#af849394add099d86aa8ec9eb8c807f5d", null ],
+    [ "GetLiquidData", "d9/dce/a09689.html#a07d7e85ff8386eaad8c9d1d32414e3b9", null ],
+    [ "getLiquidLevel", "d9/dce/a09689.html#a2e3b2ea01f5ce3f93944529d73fa70de", null ],
+    [ "getMinHeight", "d9/dce/a09689.html#ab39ef52957f9c1ece42c3fc11893a3fc", null ],
+    [ "isHole", "d9/dce/a09689.html#abdf3da449ed62b2d7a54547178d21110", null ],
+    [ "Load", "d9/dce/a09689.html#acacaa661126e761a863b5490a3e78e73", null ],
+    [ "LoadAreaData", "d9/dce/a09689.html#a28f80f4acdb72dd9641a261178df0859", null ],
+    [ "LoadHeightData", "d9/dce/a09689.html#ae50db87879b0b0bca66f0f0a625e2bc9", null ],
+    [ "LoadHolesData", "d9/dce/a09689.html#a0741c8d46e938fcf7b18fe7c9254b629", null ],
+    [ "LoadLiquidData", "d9/dce/a09689.html#ac3dc194ca16a7e9b604b2c2d14c478d8", null ],
+    [ "_gridGetHeight", "d9/dce/a09689.html#a2425f13f62b37931192acdc02127c243", null ],
+    [ "_loadedAreaData", "d9/dce/a09689.html#a6d4887b105ac3c7f6c49ef0d92a33780", null ],
+    [ "_loadedHeightData", "d9/dce/a09689.html#aea51fcf34105d685405203093ce67085", null ],
+    [ "_loadedHoleData", "d9/dce/a09689.html#a421f20b133fab6afa2295de1ebe5b51a", null ],
+    [ "_loadedLiquidData", "d9/dce/a09689.html#a3d72914b55d6c6413ade869503b259cc", null ]
 ];

@@ -1,9 +1,8 @@
 var a28697 =
 [
-    [ "npc_chicken_cluckAI", "df/dca/a28697.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "df/dca/a28697.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "df/dca/a28697.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "df/dca/a28697.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "df/dca/a28697.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "df/dca/a28697.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "npc_riggle_bassbaitAI", "d0/d59/a28701.html", "d0/d59/a28701" ],
+    [ "npc_riggle_bassbait", "df/dca/a28697.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "df/dca/a28697.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "df/dca/a28697.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "df/dca/a28697.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

@@ -1,7 +1,6 @@
 var a18001 =
 [
-    [ "FilterTargets", "db/d37/a18001.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "db/d37/a18001.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "db/d37/a18001.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "db/d37/a18001.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "PrepareAuraScript", "db/d37/a18001.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "db/d37/a18001.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "db/d37/a18001.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

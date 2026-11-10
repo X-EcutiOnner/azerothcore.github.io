@@ -1,5 +1,5 @@
 var a04235 =
 [
-    [ "account_commandscript", "de/db7/a12498.html", "de/db7/a12498" ],
-    [ "AddSC_account_commandscript", "de/d93/a04235.html#a8c18eb17be05fd3da5e9cfa3480c52c4", null ]
+    [ "lookup_commandscript", "d2/d76/a12637.html", "d2/d76/a12637" ],
+    [ "AddSC_lookup_commandscript", "de/d93/a04235.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

@@ -1,7 +1,9 @@
 var a09685 =
 [
-    [ "CreatureRelocationNotifier", "d4/d61/a09685.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
-    [ "Visit", "d4/d61/a09685.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
-    [ "Visit", "d4/d61/a09685.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
-    [ "i_creature", "d4/d61/a09685.html#a3116f6245816ba8fb9edb5995faa9927", null ]
+    [ "LiquidData", "d4/d61/a09685.html#ac2435178323f480d2dae449b49b39146", null ],
+    [ "DepthLevel", "d4/d61/a09685.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
+    [ "Entry", "d4/d61/a09685.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
+    [ "Flags", "d4/d61/a09685.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
+    [ "Level", "d4/d61/a09685.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
+    [ "Status", "d4/d61/a09685.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
 ];

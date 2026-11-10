@@ -1,5 +1,5 @@
 var a28489 =
 [
-    [ "go_jotunheim_cage", "dd/dff/a28489.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "dd/dff/a28489.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "go_sacred_fire_of_life", "dd/dff/a28489.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "dd/dff/a28489.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

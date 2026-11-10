@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/TC9Sidecar/TC9Sidecar.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/TC9Sidecar/TC9Sidecar.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,56 +105,86 @@ $(document).ready(function(){initNavTree('dc/d31/a01892.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a>  </div>
-  <div class="headertitle"><div class="title">TC9Sidecar.h File Reference</div></div>
+<a href="#define-members">Macros</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">TC9Sidecar.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AsyncCallbackProcessor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AsyncTask.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">TC9Sidecar.h</a>&quot;</code><br />
+<code>#include &quot;Config.h&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceSaveMgr.h</a>&quot;</code><br />
+<code>#include &quot;libsidecar.h&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TC9GroupHooks.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TC9GrpcHandler.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TC9GuildHooks.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">UpdateTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code><br />
+<code>#include &lt;limits&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d10/a12266.html">ToCloud9Sidecar</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
 Macros</h2></td></tr>
-<tr class="memitem:a913ea4496407eed4f786059d99f61b95"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d31/a01892.html#a913ea4496407eed4f786059d99f61b95">MAX_MAP_ID</a>&#160;&#160;&#160;800</td></tr>
-<tr class="separator:a913ea4496407eed4f786059d99f61b95"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a269ff175e81e59511267ed3605cb45cb"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d31/a01892.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a>&#160;&#160;&#160;<a class="el" href="../../d0/d10/a12266.html#a774f8f01e13ce579dd5371d668e79d68">ToCloud9Sidecar::instance</a>()</td></tr>
-<tr class="separator:a269ff175e81e59511267ed3605cb45cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ce088496ac6391921eb6558a8bfa534"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d31/a01892.html#a3ce088496ac6391921eb6558a8bfa534">AVAILABLE_MAPS_ALL_MAPS</a>&#160;&#160;&#160;&quot;&quot;</td></tr>
+<tr class="separator:a3ce088496ac6391921eb6558a8bfa534"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:abdac64925d58546fe47fef3f63e42404"><td class="memItemLeft" align="right" valign="top">MonitoringDataCollectorResponse&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d31/a01892.html#abdac64925d58546fe47fef3f63e42404">HandleMonitoringRequest</a> ()</td></tr>
+<tr class="separator:abdac64925d58546fe47fef3f63e42404"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a913ea4496407eed4f786059d99f61b95" name="a913ea4496407eed4f786059d99f61b95"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a913ea4496407eed4f786059d99f61b95">&#9670;&#160;</a></span>MAX_MAP_ID</h2>
+<a id="a3ce088496ac6391921eb6558a8bfa534" name="a3ce088496ac6391921eb6558a8bfa534"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3ce088496ac6391921eb6558a8bfa534">&#9670;&#160;</a></span>AVAILABLE_MAPS_ALL_MAPS</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define MAX_MAP_ID&#160;&#160;&#160;800</td>
+          <td class="memname">#define AVAILABLE_MAPS_ALL_MAPS&#160;&#160;&#160;&quot;&quot;</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="a269ff175e81e59511267ed3605cb45cb" name="a269ff175e81e59511267ed3605cb45cb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a269ff175e81e59511267ed3605cb45cb">&#9670;&#160;</a></span>sToCloud9Sidecar</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="abdac64925d58546fe47fef3f63e42404" name="abdac64925d58546fe47fef3f63e42404"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abdac64925d58546fe47fef3f63e42404">&#9670;&#160;</a></span>HandleMonitoringRequest()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define sToCloud9Sidecar&#160;&#160;&#160;<a class="el" href="../../d0/d10/a12266.html#a774f8f01e13ce579dd5371d668e79d68">ToCloud9Sidecar::instance</a>()</td>
+          <td class="memname">MonitoringDataCollectorResponse HandleMonitoringRequest </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  323</span>{</div>
+<div class="line"><span class="lineno">  324</span>    MonitoringDataCollectorResponse res;</div>
+<div class="line"><span class="lineno">  325</span>    res.errorCode         = MonitoringErrorCodeNoError;</div>
+<div class="line"><span class="lineno">  326</span>    res.diffMean          = <a class="code hl_variable" href="../../d2/d41/a01493.html#aa415d38dafe4c1c78c951de9fed8393b">sWorldUpdateTime</a>.<a class="code hl_function" href="../../de/dd5/a12337.html#a12ec461e5d33845ed375c0965fb024ae">GetAverageUpdateTime</a>();</div>
+<div class="line"><span class="lineno">  327</span>    res.diffMedian        = <a class="code hl_variable" href="../../d2/d41/a01493.html#aa415d38dafe4c1c78c951de9fed8393b">sWorldUpdateTime</a>.<a class="code hl_function" href="../../de/dd5/a12337.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(50);</div>
+<div class="line"><span class="lineno">  328</span>    res.diff95Percentile  = <a class="code hl_variable" href="../../d2/d41/a01493.html#aa415d38dafe4c1c78c951de9fed8393b">sWorldUpdateTime</a>.<a class="code hl_function" href="../../de/dd5/a12337.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(95);</div>
+<div class="line"><span class="lineno">  329</span>    res.diff99Percentile  = <a class="code hl_variable" href="../../d2/d41/a01493.html#aa415d38dafe4c1c78c951de9fed8393b">sWorldUpdateTime</a>.<a class="code hl_function" href="../../de/dd5/a12337.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(99);</div>
+<div class="line"><span class="lineno">  330</span>    res.diffMaxPercentile = <a class="code hl_variable" href="../../d2/d41/a01493.html#aa415d38dafe4c1c78c951de9fed8393b">sWorldUpdateTime</a>.<a class="code hl_function" href="../../de/dd5/a12337.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(100);</div>
+<div class="line"><span class="lineno">  331</span>    res.connectedPlayers  = <a class="code hl_define" href="../../df/dee/a01646.html#a57dd9797e2282d27210248275f47ab85">sWorldSessionMgr</a>-&gt;GetActiveSessionCount();</div>
+<div class="line"><span class="lineno">  332</span>    <span class="keywordflow">return</span> res;</div>
+<div class="line"><span class="lineno">  333</span>}</div>
+<div class="ttc" id="aa01493_html_aa415d38dafe4c1c78c951de9fed8393b"><div class="ttname"><a href="../../d2/d41/a01493.html#aa415d38dafe4c1c78c951de9fed8393b">sWorldUpdateTime</a></div><div class="ttdeci">WorldUpdateTime sWorldUpdateTime</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:27</div></div>
+<div class="ttc" id="aa01646_html_a57dd9797e2282d27210248275f47ab85"><div class="ttname"><a href="../../df/dee/a01646.html#a57dd9797e2282d27210248275f47ab85">sWorldSessionMgr</a></div><div class="ttdeci">#define sWorldSessionMgr</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:118</div></div>
+<div class="ttc" id="aa12337_html_a12ec461e5d33845ed375c0965fb024ae"><div class="ttname"><a href="../../de/dd5/a12337.html#a12ec461e5d33845ed375c0965fb024ae">UpdateTime::GetAverageUpdateTime</a></div><div class="ttdeci">uint32 GetAverageUpdateTime() const</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:41</div></div>
+<div class="ttc" id="aa12337_html_a45b460f5fec335763e20bfe06fa33980"><div class="ttname"><a href="../../de/dd5/a12337.html#a45b460f5fec335763e20bfe06fa33980">UpdateTime::GetPercentile</a></div><div class="ttdeci">uint32 GetPercentile(uint8 p)</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:82</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00041">UpdateTime::GetAverageUpdateTime()</a>, <a class="el" href="../../#l00082">UpdateTime::GetPercentile()</a>, <a class="el" href="../../#l00118">sWorldSessionMgr</a>, and <a class="el" href="../../#l00027">sWorldUpdateTime</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00173">ToCloud9Sidecar::SetupGrpcHandlers()</a>.</p>
 
 </div>
 </div>
@@ -163,8 +193,8 @@ Macros</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_665ad2249ecdd6ffa5118847b893f456.html">TC9Sidecar</a></li><li class="navelem"><a class="el" href="../../dc/d31/a01892.html">TC9Sidecar.h</a></li>
-    <li class="footer">Generated on Tue Nov 3 2026 02:35:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_665ad2249ecdd6ffa5118847b893f456.html">TC9Sidecar</a></li><li class="navelem"><a class="el" href="../../dc/d31/a01892.html">TC9Sidecar.cpp</a></li>
+    <li class="footer">Generated on Tue Nov 10 2026 02:53:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

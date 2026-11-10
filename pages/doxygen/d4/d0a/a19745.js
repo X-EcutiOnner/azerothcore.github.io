@@ -1,6 +1,6 @@
 var a19745 =
 [
-    [ "boss_sapphironAI", "d8/d2a/a19749.html", "d8/d2a/a19749" ],
-    [ "boss_sapphiron", "d4/d0a/a19745.html#a87a70204dd727f92d035ad98e2ab9010", null ],
-    [ "GetAI", "d4/d0a/a19745.html#a31209287faa721bef341388ae4383b6c", null ]
+    [ "boss_razuvious_minionAI", "d8/d2a/a19749.html", "d8/d2a/a19749" ],
+    [ "boss_razuvious_minion", "d4/d0a/a19745.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "d4/d0a/a19745.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

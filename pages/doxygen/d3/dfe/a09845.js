@@ -1,8 +1,10 @@
 var a09845 =
 [
-    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "d3/dfe/a09845.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
-    [ "operator()", "d3/dfe/a09845.html#a08f8e473914c8a7bddbf26568294c18b", null ],
-    [ "i_obj", "d3/dfe/a09845.html#a949ff3bcc3530206d83512d293647a2b", null ],
-    [ "i_owner", "d3/dfe/a09845.html#a64f58427bbab3276bdc53450b33eca12", null ],
-    [ "i_range", "d3/dfe/a09845.html#af52388830cec17e32b1d368739b4555a", null ]
+    [ "NearestGameObjectEntryInObjectRangeCheck", "d3/dfe/a09845.html#a7d57ae865868d4848caf088c4520b2a7", null ],
+    [ "NearestGameObjectEntryInObjectRangeCheck", "d3/dfe/a09845.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
+    [ "operator()", "d3/dfe/a09845.html#ad0c6798e28784ed547102414f4c6a31f", null ],
+    [ "i_entry", "d3/dfe/a09845.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
+    [ "i_obj", "d3/dfe/a09845.html#a104b8bece6ea78ba049dc592e54311be", null ],
+    [ "i_onlySpawned", "d3/dfe/a09845.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
+    [ "i_range", "d3/dfe/a09845.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
 ];

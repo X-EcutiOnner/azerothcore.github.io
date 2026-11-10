@@ -1,5 +1,6 @@
 var a19457 =
 [
-    [ "at_icc_gauntlet_event", "d3/dd3/a19457.html#ae8790bad655661aeda887f56b9393847", null ],
-    [ "OnTrigger", "d3/dd3/a19457.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
+    [ "npc_icc_putricades_trapAI", "d8/d8b/a19461.html", "d8/d8b/a19461" ],
+    [ "npc_icc_putricades_trap", "d3/dd3/a19457.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "d3/dd3/a19457.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

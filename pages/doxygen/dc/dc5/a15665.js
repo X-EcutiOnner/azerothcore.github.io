@@ -1,6 +1,7 @@
 var a15665 =
 [
-    [ "FilterTargets", "dc/dc5/a15665.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
-    [ "PrepareSpellScript", "dc/dc5/a15665.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
-    [ "Register", "dc/dc5/a15665.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
+    [ "go_sand_trap", "dc/dc5/a15665.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "dc/dc5/a15665.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "dc/dc5/a15665.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "dc/dc5/a15665.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

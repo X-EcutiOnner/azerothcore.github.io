@@ -1,6 +1,7 @@
 var a29837 =
 [
-    [ "canProcDuringTrigger", "de/d88/a29837.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
-    [ "procDeepDuringTrigger", "de/d88/a29837.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
-    [ "spellId", "de/d88/a29837.html#ac63803a380695f311a39cd62a4f298b4", null ]
+    [ "flatModifier", "de/d88/a29837.html#a781485dfaede63716eddba66971600e3", null ],
+    [ "hasSpellModOwner", "de/d88/a29837.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
+    [ "hasSpellProto", "de/d88/a29837.html#a96607da311b5774eeaa01674d32ab22e", null ],
+    [ "pctModifier", "de/d88/a29837.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
 ];

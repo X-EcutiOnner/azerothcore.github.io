@@ -1,10 +1,13 @@
 var a10777 =
 [
-    [ "AllItemScript", "d1/de2/a10777.html#a705a1e113fe6b22608a6b560e477334f", null ],
-    [ "CanItemExpire", "d1/de2/a10777.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
-    [ "CanItemQuestAccept", "d1/de2/a10777.html#a545e2bc7436a064146025954eaf5ae92", null ],
-    [ "CanItemRemove", "d1/de2/a10777.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
-    [ "CanItemUse", "d1/de2/a10777.html#a89d237f426840658e4423fb9cc7428db", null ],
-    [ "OnItemGossipSelect", "d1/de2/a10777.html#a7157f72c6d09988b60480d1671892cde", null ],
-    [ "OnItemGossipSelectCode", "d1/de2/a10777.html#ae7409c8dff580bd85fbf82272324efea", null ]
+    [ "AccountScript", "d1/de2/a10777.html#a2554f46fcf6ff81b353513916771b8d1", null ],
+    [ "CanAccountCreateCharacter", "d1/de2/a10777.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
+    [ "OnAccountLogin", "d1/de2/a10777.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
+    [ "OnBeforeAccountDelete", "d1/de2/a10777.html#a631f7deca08644da2613142c667618a8", null ],
+    [ "OnEmailChange", "d1/de2/a10777.html#adf20bd20cdc97b91db664dca95f82670", null ],
+    [ "OnFailedAccountLogin", "d1/de2/a10777.html#aae3401d74bdc9e8328a5f084462ae740", null ],
+    [ "OnFailedEmailChange", "d1/de2/a10777.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
+    [ "OnFailedPasswordChange", "d1/de2/a10777.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
+    [ "OnLastIpUpdate", "d1/de2/a10777.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
+    [ "OnPasswordChange", "d1/de2/a10777.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
 ];

@@ -1,11 +1,12 @@
 var a12645 =
 [
-    [ "pet_commandscript", "dd/dd7/a12645.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "dd/dd7/a12645.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "dd/dd7/a12645.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetDeleteCommand", "dd/dd7/a12645.html#a728201526e905b025aba5e6b030c288b", null ],
-    [ "HandlePetLearnCommand", "dd/dd7/a12645.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetListCommand", "dd/dd7/a12645.html#aeaa05b073553c0c0758ea99d982ce1cc", null ],
-    [ "HandlePetRenameCommand", "dd/dd7/a12645.html#a556529bfe267eb618410b63065b7096c", null ],
-    [ "HandlePetUnlearnCommand", "dd/dd7/a12645.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "message_commandscript", "dd/dd7/a12645.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
+    [ "GetCommands", "dd/dd7/a12645.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
+    [ "HandleAnnounceCommand", "dd/dd7/a12645.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
+    [ "HandleGMAnnounceCommand", "dd/dd7/a12645.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
+    [ "HandleGMNameAnnounceCommand", "dd/dd7/a12645.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
+    [ "HandleGMNotifyCommand", "dd/dd7/a12645.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
+    [ "HandleNameAnnounceCommand", "dd/dd7/a12645.html#a786902b70345712c6dba9f638695dd9e", null ],
+    [ "HandleNotifyCommand", "dd/dd7/a12645.html#a0d53b2414931451b30abd2fe5acee1af", null ],
+    [ "HandleWhispersCommand", "dd/dd7/a12645.html#a9a02c97677250136f9717968a9f47b73", null ]
 ];

@@ -1,8 +1,7 @@
 var a26993 =
 [
-    [ "HandleProc", "d5/dfc/a26993.html#a95553bc0c973be3a2e3911602e4067c8", null ],
-    [ "PrepareAuraScript", "d5/dfc/a26993.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
-    [ "Register", "d5/dfc/a26993.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
-    [ "Validate", "d5/dfc/a26993.html#aad1324e94920136258c419094cfca4c3", null ],
-    [ "_cooldownEnd", "d5/dfc/a26993.html#a4f19a965ed8ddab712633abdb761d210", null ]
+    [ "CheckProc", "d5/dfc/a26993.html#ad9511694733ed76ed2e55ffc1005345e", null ],
+    [ "HandleProc", "d5/dfc/a26993.html#a8021759730e413476d768495e856c544", null ],
+    [ "PrepareAuraScript", "d5/dfc/a26993.html#a2d226a3b38dbe3da64f3ae9a3c47f9ea", null ],
+    [ "Register", "d5/dfc/a26993.html#a2d8e2b52076b519e083c71b99b482c32", null ]
 ];

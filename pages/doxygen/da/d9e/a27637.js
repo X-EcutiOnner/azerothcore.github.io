@@ -1,9 +1,8 @@
 var a27637 =
 [
-    [ "Absorb", "da/d9e/a27637.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
-    [ "CalculateAmount", "da/d9e/a27637.html#a820c27c2161063307a10903cbbc5c0fa", null ],
-    [ "Load", "da/d9e/a27637.html#a7b71990051faaa083110408c13b8401f", null ],
-    [ "PrepareAuraScript", "da/d9e/a27637.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
-    [ "Register", "da/d9e/a27637.html#aa443ab0eed74229883884fbced0426d7", null ],
-    [ "absorbPct", "da/d9e/a27637.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
+    [ "CheckProc", "da/d9e/a27637.html#a2e564758a050827108955f73a08e72e7", null ],
+    [ "PrepareAuraScript", "da/d9e/a27637.html#a5993871d8837b43580818fa94e1bccc2", null ],
+    [ "Register", "da/d9e/a27637.html#a24faa9992523bc87df7f5ebccfb42233", null ],
+    [ "WasUsedByMutilate", "da/d9e/a27637.html#af31c8d77307f3cf3acee06e0b159925e", null ],
+    [ "_usedByMutilate", "da/d9e/a27637.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
 ];

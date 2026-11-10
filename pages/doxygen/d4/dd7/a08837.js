@@ -1,10 +1,10 @@
 var a08837 =
 [
-    [ "SpellCategory", "d4/dd7/a08837.html#ad170ffceb499879a4b0d638e9c922703", null ],
-    [ "SpellCategoryCooldown", "d4/dd7/a08837.html#a8a33274d71b410f24f110e9a5921ff18", null ],
-    [ "SpellCharges", "d4/dd7/a08837.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
-    [ "SpellCooldown", "d4/dd7/a08837.html#a8ef7106595ed25ce23ca2163258d769a", null ],
-    [ "SpellId", "d4/dd7/a08837.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
-    [ "SpellPPMRate", "d4/dd7/a08837.html#a5b208a667802e4c3766619c96d267287", null ],
-    [ "SpellTrigger", "d4/dd7/a08837.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
+    [ "GameObjectData", "d4/dd7/a08837.html#aaef16c60fee2c9c6a309cfe14f02c0fe", null ],
+    [ "animprogress", "d4/dd7/a08837.html#aadec9e3088063532fd879fdaad3c3d74", null ],
+    [ "artKit", "d4/dd7/a08837.html#a4e5d0f2b99f1bd87aa22c943594ce355", null ],
+    [ "go_state", "d4/dd7/a08837.html#ae8c523cb24a55fcde5d8caac3f82dfd5", null ],
+    [ "id", "d4/dd7/a08837.html#ae12c8c5e7b3c848a57960e4c51d76e84", null ],
+    [ "rotation", "d4/dd7/a08837.html#a81da3cac2ac1a3cf71579b1da6873fe9", null ],
+    [ "spawntimesecs", "d4/dd7/a08837.html#a6afeb167bb136c3ddabcc350007788db", null ]
 ];

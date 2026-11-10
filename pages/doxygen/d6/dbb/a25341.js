@@ -1,7 +1,6 @@
 var a25341 =
 [
-    [ "HandleScript", "d6/dbb/a25341.html#a628fbc7ef23ce8f93d132f7bf518d4d8", null ],
-    [ "PrepareSpellScript", "d6/dbb/a25341.html#a8e5aa0a33907c5216299734a928de2fd", null ],
-    [ "Register", "d6/dbb/a25341.html#a9e25da03bbbea35f13420c14c6fab0d5", null ],
-    [ "Validate", "d6/dbb/a25341.html#a30cc03ed0c19074dc1fde4951a061815", null ]
+    [ "HandleOnEffectHit", "d6/dbb/a25341.html#a07b15e180ee79149cad15b32b3c94359", null ],
+    [ "PrepareSpellScript", "d6/dbb/a25341.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
+    [ "Register", "d6/dbb/a25341.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
 ];

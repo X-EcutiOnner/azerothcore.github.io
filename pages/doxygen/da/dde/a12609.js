@@ -1,10 +1,8 @@
 var a12609 =
 [
-    [ "mail_commandscript", "da/dde/a12609.html#a213bedb9d8fd8cb3c4b5928b2c193c58", null ],
-    [ "GetCommands", "da/dde/a12609.html#a931c5f4d66e598886984458a4a7fd3b0", null ],
-    [ "GetItemListString", "da/dde/a12609.html#a6d5fc2ef156b3d6be01b3b62f9efb2c9", null ],
-    [ "GetMailStationeryString", "da/dde/a12609.html#af016c0c682c94250cdb26eea3377ec6e", null ],
-    [ "GetMailTypeString", "da/dde/a12609.html#aeadf09762c52e71d4b6ef2b248e21077", null ],
-    [ "HandleMailListCommand", "da/dde/a12609.html#aea68c55c26314abf0bb4040ad6de8e1b", null ],
-    [ "HandleMailReturnCommand", "da/dde/a12609.html#acbdb7a0ea15ed5202866355d4839948c", null ]
+    [ "honor_commandscript", "da/dde/a12609.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
+    [ "GetCommands", "da/dde/a12609.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
+    [ "HandleHonorAddCommand", "da/dde/a12609.html#a03caa77b436e3d513e1325badf05df33", null ],
+    [ "HandleHonorAddKillCommand", "da/dde/a12609.html#aec79f459796d821a032477827e16308a", null ],
+    [ "HandleHonorUpdateCommand", "da/dde/a12609.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
 ];

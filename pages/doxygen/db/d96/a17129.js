@@ -1,8 +1,8 @@
 var a17129 =
 [
-    [ "npc_fel_infernal", "db/d96/a17129.html#a4d8f956193efd148948b48892fb47240", null ],
-    [ "EnterEvadeMode", "db/d96/a17129.html#a3a8ed8a9636f1002de3ef896575e033d", null ],
-    [ "JustDied", "db/d96/a17129.html#ac4dbf210111940e8e88b4112252d1a61", null ],
-    [ "Reset", "db/d96/a17129.html#a5618a5a696352d802bc1ec200768bd4f", null ],
-    [ "UpdateAI", "db/d96/a17129.html#a06f75ff314cd55b307f5c00a6254b409", null ]
+    [ "npc_toc_pet_hunterAI", "db/d96/a17129.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "db/d96/a17129.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "db/d96/a17129.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "db/d96/a17129.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "db/d96/a17129.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

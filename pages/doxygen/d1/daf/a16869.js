@@ -1,6 +1,9 @@
 var a16869 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "df/d9a/a16873.html", "df/d9a/a16873" ],
-    [ "npc_black_knight_skeletal_gryphon", "d1/daf/a16869.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
-    [ "GetAI", "d1/daf/a16869.html#aad244f95877a208b56a2b6544984d724", null ]
+    [ "npc_memoryAI", "d1/daf/a16869.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d1/daf/a16869.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d1/daf/a16869.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d1/daf/a16869.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d1/daf/a16869.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d1/daf/a16869.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

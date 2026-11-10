@@ -1,7 +1,9 @@
 var a22501 =
 [
-    [ "HandleOnEffectHit", "d7/d85/a22501.html#a909ec44339061a114697cacee5fba5b2", null ],
-    [ "PrepareSpellScript", "d7/d85/a22501.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
-    [ "Register", "d7/d85/a22501.html#aa241c97b4e895d07fe89d03edca29912", null ],
-    [ "Validate", "d7/d85/a22501.html#aa84f4c29ca00789bb47661267549cda6", null ]
+    [ "npc_brunnhildar_prisonerAI", "d7/d85/a22501.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d7/d85/a22501.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d7/d85/a22501.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d7/d85/a22501.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d7/d85/a22501.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d7/d85/a22501.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

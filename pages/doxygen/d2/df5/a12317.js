@@ -1,7 +1,6 @@
 var a12317 =
 [
-    [ "PlayerGuid", "d2/df5/a12317.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "d2/df5/a12317.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "d2/df5/a12317.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "d2/df5/a12317.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "cooldown", "d2/df5/a12317.html#affc13f6cd029447df6cb1db56df42147", null ],
+    [ "playerOnly", "d2/df5/a12317.html#a183ae9fd6863cbc9afe1f690c87f54e2", null ],
+    [ "triggerChance", "d2/df5/a12317.html#a3430fbb945b281cb5c2820130d4444a8", null ]
 ];

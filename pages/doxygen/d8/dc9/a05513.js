@@ -1,5 +1,6 @@
 var a05513 =
 [
-    [ "argument_type", "d8/dc9/a05513.html#ad0011a133ce27e947c35917314e60693", null ],
-    [ "result_type", "d8/dc9/a05513.html#a6dcbf6789c1565b95f16de3d580118a9", null ]
+    [ "NodeArray", "d8/dc9/a05513.html#ad14de28828d5dd9c425e47a261125423", null ],
+    [ "AddNode", "d8/dc9/a05513.html#a370b6e8633c2c739ff68c0399e315a7e", null ],
+    [ "_nodes", "d8/dc9/a05513.html#a581a71d15d245efc585297c218313134", null ]
 ];

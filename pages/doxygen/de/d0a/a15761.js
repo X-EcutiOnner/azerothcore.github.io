@@ -1,6 +1,5 @@
 var a15761 =
 [
-    [ "OnPeriodic", "de/d0a/a15761.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "de/d0a/a15761.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "de/d0a/a15761.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "NotInStomachSelector", "de/d0a/a15761.html#a766a75e73261ac8bb76c90e8befd21ad", null ],
+    [ "operator()", "de/d0a/a15761.html#a189c90e585ecef8ffbcbe9227c588946", null ]
 ];

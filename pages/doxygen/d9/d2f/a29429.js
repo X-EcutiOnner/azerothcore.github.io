@@ -1,6 +1,4 @@
 var a29429 =
 [
-    [ "Enchantment", "d9/d2f/a29429.html#a480ab806214bb138d56dfd5e9e43936f", null ],
-    [ "ID", "d9/d2f/a29429.html#acb673be771124b84dd3fdd5deb300de7", null ],
-    [ "Name", "d9/d2f/a29429.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
+    [ "ratio", "d9/d2f/a29429.html#ad3cdf9a27817d39d05b8b785f5ba5ac7", null ]
 ];

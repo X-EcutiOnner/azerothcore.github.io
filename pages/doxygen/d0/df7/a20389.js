@@ -1,8 +1,6 @@
 var a20389 =
 [
-    [ "OnApply", "d0/df7/a20389.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "d0/df7/a20389.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "d0/df7/a20389.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "d0/df7/a20389.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "d0/df7/a20389.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "npc_salvaged_chopper", "d0/df7/a20389.html#ad2d875ba3e7de8e44213cd8fdf383df0", null ],
+    [ "PassengerBoarded", "d0/df7/a20389.html#a12e63e4a2ce543293a398bfe3e9635ad", null ],
+    [ "SwapActionButton", "d0/df7/a20389.html#afe67864f4315ad1fa876572c840cc190", null ]
 ];

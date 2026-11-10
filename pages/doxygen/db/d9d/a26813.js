@@ -1,7 +1,6 @@
 var a26813 =
 [
-    [ "CheckProc", "db/d9d/a26813.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
-    [ "HandleProc", "db/d9d/a26813.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
-    [ "PrepareAuraScript", "db/d9d/a26813.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
-    [ "Register", "db/d9d/a26813.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
+    [ "CheckProc", "db/d9d/a26813.html#a4c536d65ba5325a6e63ad78bbc9bbfd6", null ],
+    [ "PrepareAuraScript", "db/d9d/a26813.html#a1dcda7de24effce7d975b714629f0e8a", null ],
+    [ "Register", "db/d9d/a26813.html#a0802e87836e910dc7007e2a2e7a888fd", null ]
 ];

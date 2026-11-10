@@ -1,6 +1,7 @@
 var a25797 =
 [
-    [ "CheckCast", "d5/d29/a25797.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "d5/d29/a25797.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "d5/d29/a25797.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "HandleProc", "d5/d29/a25797.html#a38baf45ac31e2813316c4c22c2db59ec", null ],
+    [ "PrepareAuraScript", "d5/d29/a25797.html#a3704981effea17b2c513f139a892c37c", null ],
+    [ "Register", "d5/d29/a25797.html#a4d24566853a3a73f9ec215167f2bb401", null ],
+    [ "Validate", "d5/d29/a25797.html#a457f28f8b0bab915dd9e65534ce80b87", null ]
 ];

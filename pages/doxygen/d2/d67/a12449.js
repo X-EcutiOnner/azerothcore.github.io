@@ -1,6 +1,6 @@
 var a12449 =
 [
-    [ "ExitCode", "d2/d67/a12449.html#aa25a626e4480e691fd94146cab344f2b", null ],
-    [ "Reason", "d2/d67/a12449.html#a5ad38346f50f9c1bcc3cbc8b00795358", null ],
-    [ "Type", "d2/d67/a12449.html#af22f1b975f932232086c72e6fb8b73ba", null ]
+    [ "rainChance", "d3/dc0/a05140.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
+    [ "snowChance", "d3/dc0/a05140.html#ga474650c5237c4a7428e858775fea7b86", null ],
+    [ "stormChance", "d3/dc0/a05140.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
 ];

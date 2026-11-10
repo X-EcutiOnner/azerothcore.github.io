@@ -1,8 +1,9 @@
 var a09921 =
 [
-    [ "NearestPlayerInObjectRangeCheck", "de/dfb/a09921.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
-    [ "NearestPlayerInObjectRangeCheck", "de/dfb/a09921.html#aac3d406d10a036b92a55bcd955411165", null ],
-    [ "operator()", "de/dfb/a09921.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
-    [ "i_obj", "de/dfb/a09921.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
-    [ "i_range", "de/dfb/a09921.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
+    [ "NearestHostileUnitCheck", "de/dfb/a09921.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "de/dfb/a09921.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "de/dfb/a09921.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "de/dfb/a09921.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "de/dfb/a09921.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "de/dfb/a09921.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

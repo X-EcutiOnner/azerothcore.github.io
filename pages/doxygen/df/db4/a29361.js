@@ -1,4 +1,8 @@
 var a29361 =
 [
-    [ "cost", "df/db4/a29361.html#a624313c8b56b9755593b2f4bacd306d7", null ]
+    [ "EmotesTextId", "df/db4/a29361.html#a8a45e92993f75f5d3b8e8fb045a294da", null ],
+    [ "Id", "df/db4/a29361.html#a60760a3e9768f1b189a4373ffe0b9bca", null ],
+    [ "RaceId", "df/db4/a29361.html#a8427fb95e778194124143d276b527213", null ],
+    [ "SexId", "df/db4/a29361.html#a818eae8ffc756fc359a822de63d21976", null ],
+    [ "SoundId", "df/db4/a29361.html#a17a267412c8a1527370b1e67ea5b6211", null ]
 ];

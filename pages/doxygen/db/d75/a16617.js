@@ -1,7 +1,7 @@
 var a16617 =
 [
-    [ "DelayedTalk", "db/d75/a16617.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "db/d75/a16617.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "db/d75/a16617.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "db/d75/a16617.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "boss_sartharion_shadron", "db/d75/a16617.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "db/d75/a16617.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "db/d75/a16617.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "db/d75/a16617.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

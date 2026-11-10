@@ -1,7 +1,6 @@
 var a28057 =
 [
-    [ "OnProc", "d8/dd0/a28057.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d8/dd0/a28057.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d8/dd0/a28057.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d8/dd0/a28057.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "HandleOnHit", "d8/dd0/a28057.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
+    [ "PrepareSpellScript", "d8/dd0/a28057.html#a999b019665dec9b0690a1019be428072", null ],
+    [ "Register", "d8/dd0/a28057.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
 ];

@@ -1,8 +1,7 @@
 var a17489 =
 [
-    [ "npc_hor_raging_ghoul", "dc/d8b/a17489.html#a733d4ad92566a13ace3427aae6696bac", null ],
-    [ "JustDied", "dc/d8b/a17489.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
-    [ "Reset", "dc/d8b/a17489.html#aad6424be7dd53b59016963cefffe40e5", null ],
-    [ "UpdateAI", "dc/d8b/a17489.html#af4024393b318ca702c6652e042036b26", null ],
-    [ "leaped", "dc/d8b/a17489.html#a69dea538a87ae47de221768b6de42315", null ]
+    [ "npc_hor_leader_secondAI", "d8/db1/a17493.html", "d8/db1/a17493" ],
+    [ "npc_hor_leader_second", "dc/d8b/a17489.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
+    [ "GetAI", "dc/d8b/a17489.html#af5b97ecca35501a75658919d384a18f7", null ],
+    [ "OnGossipSelect", "dc/d8b/a17489.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
 ];

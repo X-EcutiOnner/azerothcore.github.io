@@ -1,7 +1,7 @@
 var a28913 =
 [
-    [ "go_transport_westguard_zeppelin", "d1/d35/a28913.html#a032592597c9f192c7bed3346f16b86af", null ],
-    [ "EventInform", "d1/d35/a28913.html#aae1586c93b91c6bcaea9856f68501673", null ],
-    [ "UpdateAI", "d1/d35/a28913.html#ae82957101b74e49a1a754a259c89435f", null ],
-    [ "_scheduler", "d1/d35/a28913.html#ac62f5a3d0494a18bfee9e8cd02f03959", null ]
+    [ "HandleDummy", "d1/d35/a28913.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d1/d35/a28913.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d1/d35/a28913.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d1/d35/a28913.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

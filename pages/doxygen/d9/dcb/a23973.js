@@ -1,6 +1,10 @@
 var a23973 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "da/d17/a23977.html", "da/d17/a23977" ],
-    [ "instance_the_botanica", "d9/dcb/a23973.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "d9/dcb/a23973.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d9/dcb/a23973.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "d9/dcb/a23973.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "d9/dcb/a23973.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "d9/dcb/a23973.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "d9/dcb/a23973.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "d9/dcb/a23973.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "d9/dcb/a23973.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

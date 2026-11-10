@@ -1,6 +1,4 @@
 var a11613 =
 [
-    [ "DismissCritter", "d6/d63/a11613.html#a87e35583063b340f014d21cd02c54cab", null ],
-    [ "Read", "d6/d63/a11613.html#a411b65505e8a332ecf9291a670dc38c4", null ],
-    [ "CritterGUID", "d6/d63/a11613.html#a89c071e81c9d39c099c32c4976f15304", null ]
+    [ "Validate", "d6/d63/a11613.html#ab0d4c07b4ce9903a913bdced5e05bbd6", null ]
 ];

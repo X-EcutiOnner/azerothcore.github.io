@@ -1,6 +1,8 @@
 var a27593 =
 [
-    [ "CheckProc", "de/db4/a27593.html#ae8f06d0b6738c92a2e4a45fe0ca81cb9", null ],
-    [ "PrepareAuraScript", "de/db4/a27593.html#aafd3eba8af1edb89ded08b056f9b497c", null ],
-    [ "Register", "de/db4/a27593.html#aeb1d84b45afc05b8b9ca5cea2a50f5a4", null ]
+    [ "AfterApply", "de/db4/a27593.html#a3299de0703ca1e14760e9f33b124ac44", null ],
+    [ "PeriodicTick", "de/db4/a27593.html#a34f2fd8d142083705101f8265297c20e", null ],
+    [ "PrepareAuraScript", "de/db4/a27593.html#a79c80876d5788a20a9f686548b70fd64", null ],
+    [ "Register", "de/db4/a27593.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
+    [ "Validate", "de/db4/a27593.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
 ];

@@ -1,5 +1,5 @@
 var a08957 =
 [
-    [ "PositionXYZOStreamer", "da/d76/a08957.html#afddf48b02eea5399d818468cdf8795c5", null ],
-    [ "m_pos", "da/d76/a08957.html#a6c2be4021912b753ed7da07f1c6a7464", null ]
+    [ "ObjectGuidGenerator", "da/d76/a08957.html#a1d917989d9bf681546d0e3e9b20593e0", null ],
+    [ "Generate", "da/d76/a08957.html#ae863a6f3ad3b71ab0ca19c60e4f7d862", null ]
 ];

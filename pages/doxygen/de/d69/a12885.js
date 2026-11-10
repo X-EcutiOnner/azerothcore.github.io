@@ -1,8 +1,6 @@
 var a12885 =
 [
-    [ "CheckProc", "de/d69/a12885.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "de/d69/a12885.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "de/d69/a12885.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "de/d69/a12885.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "de/d69/a12885.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_high_priestess_thaurissan", "de/d69/a12885.html#a72b25580dc84301be59d72df45a3ac87", null ],
+    [ "JustEngagedWith", "de/d69/a12885.html#aa8ba467dd5633e96a20c634880710936", null ],
+    [ "UpdateAI", "de/d69/a12885.html#a66612582a2362e4f07d7a2bda529af06", null ]
 ];

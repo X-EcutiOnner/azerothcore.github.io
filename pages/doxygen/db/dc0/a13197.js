@@ -1,6 +1,8 @@
 var a13197 =
 [
-    [ "boss_shazzrah", "db/dc0/a13197.html#a9886c4c93017936beae1babacffa76a2", null ],
-    [ "ExecuteEvent", "db/dc0/a13197.html#a2d8ab48c6abb3e0334ef54e0b918ff27", null ],
-    [ "JustEngagedWith", "db/dc0/a13197.html#aa23aecbb28a9bb1fc138691f143f8e53", null ]
+    [ "MajordomoAddData", "db/dc0/a13197.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "db/dc0/a13197.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "db/dc0/a13197.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "db/dc0/a13197.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "db/dc0/a13197.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

@@ -1,8 +1,6 @@
 var a23277 =
 [
-    [ "Absorb", "d5/d77/a23277.html#a1c054ce067a620e16611cbb9e784cee1", null ],
-    [ "CalculateAmount", "d5/d77/a23277.html#abd828dd3493339db9c0613e960792941", null ],
-    [ "PrepareAuraScript", "d5/d77/a23277.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
-    [ "Register", "d5/d77/a23277.html#a85840e7d27a7ed256c45de87f4486d45", null ],
-    [ "Update", "d5/d77/a23277.html#afbf28fd4eb66899a424e0b542d561656", null ]
+    [ "instance_black_temple_InstanceMapScript", "d4/d24/a23281.html", "d4/d24/a23281" ],
+    [ "instance_black_temple", "d5/d77/a23277.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d5/d77/a23277.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

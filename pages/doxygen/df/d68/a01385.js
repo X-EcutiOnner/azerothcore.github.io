@@ -1,6 +1,5 @@
 var a01385 =
 [
-    [ "CharacterCacheEntry", "da/dc8/a07950.html", "da/dc8/a07950" ],
-    [ "CharacterCache", "d8/de1/a07954.html", "d8/de1/a07954" ],
-    [ "sCharacterCache", "df/d68/a01385.html#a7a32c898b33d6163d83a32f46d58517c", null ]
+    [ "_characterCacheByNameStore", "df/d68/a01385.html#a409431c82eb6a62b40d55a773cdb02c6", null ],
+    [ "_characterCacheStore", "df/d68/a01385.html#a2a209686002fed926e50d55f7c7ca795", null ]
 ];

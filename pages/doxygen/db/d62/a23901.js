@@ -1,16 +1,13 @@
 var a23901 =
 [
-    [ "npc_millhouse_manastormAI", "db/d62/a23901.html#ac86df4d5887c4c1b719ce47f00b32995", null ],
-    [ "AttackStart", "db/d62/a23901.html#a032cc1ad7a07ead4ced3afe99601d94f", null ],
-    [ "DamageTaken", "db/d62/a23901.html#a30ed336d552596211b3bfc316d223968", null ],
-    [ "InitializeAI", "db/d62/a23901.html#a7e8f7483b7cf4ba5d87386940e632339", null ],
-    [ "JustDied", "db/d62/a23901.html#aaa22ed7812600c1670d12d6887d316d6", null ],
-    [ "JustEngagedWith", "db/d62/a23901.html#a5e643192572f29f954a31b7b949f6525", null ],
-    [ "KilledUnit", "db/d62/a23901.html#ac3ba302f496d03c171d1d3f4dbf175da", null ],
-    [ "Reset", "db/d62/a23901.html#a74076048ea382816fa9c98a0d759af46", null ],
-    [ "UpdateAI", "db/d62/a23901.html#a7dad659c4ba1db0460c23a3dc573eff2", null ],
-    [ "_usedIceblock", "db/d62/a23901.html#af0ce341df018dafdce89f75fcb9f0063", null ],
-    [ "events", "db/d62/a23901.html#aa9aadd461e32cf8a65b185d77f62d838", null ],
-    [ "events2", "db/d62/a23901.html#ac762ce5981457cbcf6ec73236bab2486", null ],
-    [ "instance", "db/d62/a23901.html#aff28c68ed9575440f5732df855ab4372", null ]
+    [ "boss_warbringer_omrogg", "db/d62/a23901.html#a20f790595640cd41d636ad43c8837cda", null ],
+    [ "HandleHeadTalk", "db/d62/a23901.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
+    [ "JustDied", "db/d62/a23901.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
+    [ "JustEngagedWith", "db/d62/a23901.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
+    [ "KilledUnit", "db/d62/a23901.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
+    [ "ScheduleBurningPhase", "db/d62/a23901.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
+    [ "ScheduleNonBurningPhase", "db/d62/a23901.html#a176217a0767e8153d07996461ac68f60", null ],
+    [ "SetData", "db/d62/a23901.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
+    [ "UpdateAI", "db/d62/a23901.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
+    [ "_headTalk", "db/d62/a23901.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
 ];

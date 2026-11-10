@@ -1,6 +1,8 @@
 var a08277 =
 [
-    [ "value_type", "d2/d2d/a08277.html#a8ce1d08e5d320ef2c6301475fba4a7c2", null ],
-    [ "StoreTo", "d2/d2d/a08277.html#ac01b3840e65515853e26c16dd3caaf58", null ],
-    [ "tag", "d2/d2d/a08277.html#abd9c16378ed02e10a25cd45111e6fc69", null ]
+    [ "CurValue", "d2/d2d/a08277.html#a110169c51e3dac271b4ba6d10bbbadac", null ],
+    [ "KnownRecipes", "d2/d2d/a08277.html#a1a44c7eb6dbf3a16e8d2db47821bb39a", null ],
+    [ "MaxValue", "d2/d2d/a08277.html#a6c48d3a6afddf895b97ec9b964dfd86c", null ],
+    [ "Owner", "d2/d2d/a08277.html#a085e0aa9f79129920af96046c4fc29b1", null ],
+    [ "Spell", "d2/d2d/a08277.html#a2b0ca4fecc7ba965a329afa6a184cf07", null ]
 ];

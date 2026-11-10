@@ -1,7 +1,12 @@
 var a20949 =
 [
-    [ "boss_thorim_trap", "d2/dc5/a20949.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
-    [ "Reset", "d2/dc5/a20949.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
-    [ "UpdateAI", "d2/dc5/a20949.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
-    [ "_checkTimer", "d2/dc5/a20949.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
+    [ "boss_thorim_sif", "d2/dc5/a20949.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
+    [ "AttackStart", "d2/dc5/a20949.html#a3da2809c4e7aa0c051647be354ade759", null ],
+    [ "DoAction", "d2/dc5/a20949.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
+    [ "IsSummonedBy", "d2/dc5/a20949.html#a126b546655d4438bf25d0870f5c550b8", null ],
+    [ "MoveInLineOfSight", "d2/dc5/a20949.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
+    [ "Reset", "d2/dc5/a20949.html#a3f747b6da8db72fd61c50a24096834c2", null ],
+    [ "UpdateAI", "d2/dc5/a20949.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
+    [ "_allowCast", "d2/dc5/a20949.html#a6081345415b9ae3892d4f150a195908c", null ],
+    [ "events", "d2/dc5/a20949.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
 ];

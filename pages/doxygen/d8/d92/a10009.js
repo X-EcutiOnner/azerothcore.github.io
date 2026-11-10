@@ -1,8 +1,8 @@
 var a10009 =
 [
-    [ "flags", "d8/d92/a10009.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "d8/d92/a10009.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "d8/d92/a10009.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "d8/d92/a10009.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "d8/d92/a10009.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "AllWorldObjectsInExactRange", "d8/d92/a10009.html#a0281d22587b9b1bdbfbdd8dccc625186", null ],
+    [ "operator()", "d8/d92/a10009.html#afe0bea69ddd5e275363361bf37284840", null ],
+    [ "_equals", "d8/d92/a10009.html#aebb4cb9e84cf91cca235fe663dba8d60", null ],
+    [ "_object", "d8/d92/a10009.html#a5fba0e3c7cde76bfe56f8e9e9716412b", null ],
+    [ "_range", "d8/d92/a10009.html#ae40de8ce49bb429243e5059b6d14398f", null ]
 ];

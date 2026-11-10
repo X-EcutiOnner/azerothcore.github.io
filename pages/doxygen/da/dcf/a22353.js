@@ -1,6 +1,6 @@
 var a22353 =
 [
-    [ "PrepareSpellScript", "da/dcf/a22353.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "da/dcf/a22353.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "da/dcf/a22353.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "npc_frostbrood_skytalonAI", "d9/d7e/a22357.html", "d9/d7e/a22357" ],
+    [ "npc_frostbrood_skytalon", "da/dcf/a22353.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
+    [ "GetAI", "da/dcf/a22353.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
 ];

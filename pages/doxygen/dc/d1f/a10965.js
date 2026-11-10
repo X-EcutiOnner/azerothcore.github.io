@@ -1,10 +1,7 @@
 var a10965 =
 [
-    [ "WorldObjectScript", "dc/d1f/a10965.html#a3cadedd53ff5fffa76d05ce680095954", null ],
-    [ "IsDatabaseBound", "dc/d1f/a10965.html#a48f037dd6152ff68ebef672de68df45e", null ],
-    [ "OnWorldObjectCreate", "dc/d1f/a10965.html#a2b32bc661e5a377de98902f3bc16679b", null ],
-    [ "OnWorldObjectDestroy", "dc/d1f/a10965.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
-    [ "OnWorldObjectResetMap", "dc/d1f/a10965.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
-    [ "OnWorldObjectSetMap", "dc/d1f/a10965.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
-    [ "OnWorldObjectUpdate", "dc/d1f/a10965.html#abc139d1aa728f8a70886eed65d28f566", null ]
+    [ "SpellScriptLoader", "dc/d1f/a10965.html#a3b6fe2ba310f95c438b7cf941865fe46", null ],
+    [ "GetAuraScript", "dc/d1f/a10965.html#a9c60850e39ffe3d151a128b12777859d", null ],
+    [ "GetSpellScript", "dc/d1f/a10965.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
+    [ "IsDatabaseBound", "dc/d1f/a10965.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
 ];

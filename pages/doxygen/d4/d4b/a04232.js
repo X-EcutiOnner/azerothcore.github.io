@@ -1,5 +1,8 @@
 var a04232 =
 [
-    [ "autobroadcast_commandscript", "d7/df8/a12510.html", "d7/df8/a12510" ],
-    [ "AddSC_autobroadcast_commandscript", "d4/d4b/a04232.html#a1d398e7e3a10b992b1d0a10671683d46", null ]
+    [ "misc_commandscript", "db/d6a/a12649.html", "db/d6a/a12649" ],
+    [ "AddSC_misc_commandscript", "d4/d4b/a04232.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
+    [ "GetLocalizeCreatureName", "d4/d4b/a04232.html#aaedbdfd3cae227b11684151f41e3b977", null ],
+    [ "SPELL_FREEZE", "d4/d4b/a04232.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
+    [ "SPELL_STUCK", "d4/d4b/a04232.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
 ];

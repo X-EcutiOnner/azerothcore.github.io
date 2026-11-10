@@ -1,4 +1,4 @@
 var a01352 =
 [
-    [ "ScriptRegistry< GameObjectScript >", "d0/d85/a01352.html#ae9014c60529a1387cccce404773fd736", null ]
+    [ "ScriptRegistry< MailScript >", "d0/d85/a01352.html#a2c63e917d984cb7f72bcae15da56850c", null ]
 ];

@@ -1,6 +1,9 @@
 var a20873 =
 [
-    [ "npc_razorscale_spawner", "d2/d21/a20873.html#afbc71f46d2ac919dae274c7581357d34", null ],
-    [ "Reset", "d2/d21/a20873.html#afdfee27c6933d00f3e8d8fb1d8381e19", null ],
-    [ "UpdateAI", "d2/d21/a20873.html#a0de302ea1ace44cc2f065cae130166cb", null ]
+    [ "npc_expedition_trapper", "d2/d21/a20873.html#ac924a9b9e23624de1460b0cdfe8c8a1b", null ],
+    [ "DoAction", "d2/d21/a20873.html#a094ecbf1a719223d50c7d070989aa782", null ],
+    [ "MovementInform", "d2/d21/a20873.html#ae2a0c15b4a7d59f4222e818d0fcf303b", null ],
+    [ "SetData", "d2/d21/a20873.html#a11241b1513209a9964569ab29eb5dc64", null ],
+    [ "UpdateAI", "d2/d21/a20873.html#a16a39f855263ebde21ddb03d4fe60460", null ],
+    [ "_idx", "d2/d21/a20873.html#ae24ec016a0f29f7bcb41935e1991f9fa", null ]
 ];

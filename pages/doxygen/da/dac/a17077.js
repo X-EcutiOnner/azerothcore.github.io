@@ -1,7 +1,6 @@
 var a17077 =
 [
-    [ "npc_toc_dkAI", "da/dac/a17077.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "da/dac/a17077.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "da/dac/a17077.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "da/dac/a17077.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "npc_toc_warriorAI", "da/d48/a17081.html", "da/d48/a17081" ],
+    [ "npc_toc_warrior", "da/dac/a17077.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "da/dac/a17077.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

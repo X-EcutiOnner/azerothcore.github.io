@@ -1,6 +1,6 @@
 var a27209 =
 [
-    [ "HandleScriptEffect", "db/d34/a27209.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
-    [ "PrepareSpellScript", "db/d34/a27209.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
-    [ "Register", "db/d34/a27209.html#a12c61c9057250f12ea50be74ba74c948", null ]
+    [ "CheckCast", "db/d34/a27209.html#a624ee45c92b37da12204dcc95dc815ca", null ],
+    [ "PrepareSpellScript", "db/d34/a27209.html#acdbb427ed3ebe9e2b8089a5bb50489a9", null ],
+    [ "Register", "db/d34/a27209.html#abc4e276c4759bad63b692a467f2f88f2", null ]
 ];

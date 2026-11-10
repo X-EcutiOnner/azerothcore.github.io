@@ -1,8 +1,8 @@
 var a05717 =
 [
-    [ "Decode", "d0/d8e/a05717.html#aba5ab7c59ce77414bca38bfcde32d1c0", null ],
-    [ "Encode", "d0/d8e/a05717.html#ad6cde2310ca52940df1bbf93deff6b91", null ],
-    [ "BITS_PER_CHAR", "d0/d8e/a05717.html#a5efb6c842ab7733dc26fd67f1a00ccdf", null ],
-    [ "DECODE_ERROR", "d0/d8e/a05717.html#a8fccf3d4b22e835fc4dca6b942771a2a", null ],
-    [ "PADDING", "d0/d8e/a05717.html#a2e5699431f24ca6b745294b935b99240", null ]
+    [ "Count", "d0/d8e/a05717.html#a4ab8f061208d7733ee65ba768f85f513", null ],
+    [ "GetElements", "d0/d8e/a05717.html#af75467b56830b1447bebbf974b2747b6", null ],
+    [ "GetElements", "d0/d8e/a05717.html#a04e403e4e051d7885806e05a408f4329", null ],
+    [ "insert", "d0/d8e/a05717.html#a026880bb3378687143ed19fa7b99b41b", null ],
+    [ "i_elements", "d0/d8e/a05717.html#a8ef4a180d448dcba2141fc389621433d", null ]
 ];

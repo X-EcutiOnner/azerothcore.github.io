@@ -1,8 +1,6 @@
 var a22849 =
 [
-    [ "npc_anzu_spirit", "db/d82/a22849.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "db/d82/a22849.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "db/d82/a22849.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "db/d82/a22849.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "db/d82/a22849.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d7/dfa/a22853.html", "d7/dfa/a22853" ],
+    [ "instance_auchenai_crypts", "db/d82/a22849.html#a8b16924167c54a9d8120bac67bc10fed", null ],
+    [ "GetInstanceScript", "db/d82/a22849.html#a99e47df95fde07d4a6e7687634805b93", null ]
 ];

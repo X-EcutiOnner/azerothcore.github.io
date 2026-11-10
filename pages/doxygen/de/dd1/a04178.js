@@ -1,4 +1,5 @@
 var a04178 =
 [
-    [ "ScriptRegistry< AllCreatureScript >", "de/dd1/a04178.html#a1fdf1f4f0e165d771b9e1e9064529256", null ]
+    [ "pet_commandscript", "dd/dc6/a12677.html", "dd/dc6/a12677" ],
+    [ "AddSC_pet_commandscript", "de/dd1/a04178.html#a9c7b2cae4f7afb6ae0c9ccc623877625", null ]
 ];

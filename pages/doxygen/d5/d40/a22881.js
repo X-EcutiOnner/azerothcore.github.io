@@ -1,15 +1,12 @@
 var a22881 =
 [
-    [ "boss_grandmaster_vorpil", "d5/d40/a22881.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
-    [ "counterVoidSpawns", "d5/d40/a22881.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
-    [ "JustDied", "d5/d40/a22881.html#ab492fff8a9a275c662b44eeff3300b90", null ],
-    [ "JustEngagedWith", "d5/d40/a22881.html#af1e6da02cd33742efad568424cf32c4f", null ],
-    [ "JustSummoned", "d5/d40/a22881.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
-    [ "KilledUnit", "d5/d40/a22881.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
-    [ "MoveInLineOfSight", "d5/d40/a22881.html#adb24a3d337b64f37759a3a39802d7e27", null ],
-    [ "Reset", "d5/d40/a22881.html#a6471121ee02a834591b36d03fae28672", null ],
-    [ "spawnVoidTraveler", "d5/d40/a22881.html#aa842bc3d88d0a3a411dcba3711809956", null ],
-    [ "summonPortals", "d5/d40/a22881.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
-    [ "sayHelp", "d5/d40/a22881.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
-    [ "sayIntro", "d5/d40/a22881.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
+    [ "boss_anzu", "d5/d40/a22881.html#aef8c5c57afa95936d8c2809fa1257799", null ],
+    [ "JustEngagedWith", "d5/d40/a22881.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
+    [ "Reset", "d5/d40/a22881.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
+    [ "SummonBroods", "d5/d40/a22881.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
+    [ "SummonedCreatureDies", "d5/d40/a22881.html#a2e35df609db069c8d31afffabcfead34", null ],
+    [ "SummonSpirits", "d5/d40/a22881.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
+    [ "UpdateAI", "d5/d40/a22881.html#a06373460d454bfaf8db793e591cc0abd", null ],
+    [ "AnzuSpiritPos", "d5/d40/a22881.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
+    [ "talkTimer", "d5/d40/a22881.html#a2afae53534d9e777c90d09456f834b5d", null ]
 ];

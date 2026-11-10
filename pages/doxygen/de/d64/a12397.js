@@ -1,5 +1,5 @@
 var a12397 =
 [
-    [ "data", "d0/d47/a05104.html#ga4e97bd1d129d33b86a11c79c8cfa437b", null ],
-    [ "ScriptId", "d0/d47/a05104.html#gaa452a9be01e00154512cb55980737ae6", null ]
+    [ "Command", "de/d64/a12397.html#af0e8f46d4352430d12f932b5a9e4c44e", null ],
+    [ "Seed", "de/d64/a12397.html#a8770c7de1b983d75214d1de39d0c02ab", null ]
 ];

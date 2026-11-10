@@ -1,21 +1,21 @@
 var a05024 =
 [
-    [ "AccountActionIpLogger", "dc/d64/a28246.html", "dc/d64/a28246" ],
-    [ "CharacterActionIpLogger", "d1/daa/a28250.html", "d1/daa/a28250" ],
-    [ "CharacterDeleteActionIpLogger", "d2/de2/a28254.html", "d2/de2/a28254" ],
-    [ "IPLoggingTypes", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137b", [
-      [ "ACCOUNT_LOGIN", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8", null ],
-      [ "ACCOUNT_FAIL_LOGIN", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f", null ],
-      [ "ACCOUNT_CHANGE_PW", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059", null ],
-      [ "ACCOUNT_CHANGE_PW_FAIL", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53", null ],
-      [ "ACCOUNT_CHANGE_EMAIL", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c", null ],
-      [ "ACCOUNT_CHANGE_EMAIL_FAIL", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30", null ],
-      [ "CHARACTER_CREATE", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85", null ],
-      [ "CHARACTER_LOGIN", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363", null ],
-      [ "CHARACTER_LOGOUT", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607", null ],
-      [ "CHARACTER_DELETE", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162", null ],
-      [ "CHARACTER_FAILED_DELETE", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7", null ],
-      [ "UNKNOWN_ACTION", "d7/d17/a05024.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8", null ]
+    [ "item_only_for_flight", "db/da9/a28581.html", "db/da9/a28581" ],
+    [ "item_incendiary_explosives", "d8/dfa/a28585.html", "d8/dfa/a28585" ],
+    [ "item_mysterious_egg", "d9/dc2/a28589.html", "d9/dc2/a28589" ],
+    [ "item_disgusting_jar", "d8/df4/a28593.html", "d8/df4/a28593" ],
+    [ "item_petrov_cluster_bombs", "df/d78/a28597.html", "df/d78/a28597" ],
+    [ "item_captured_frog", "d5/d35/a28601.html", "d5/d35/a28601" ],
+    [ "item_generic_limit_chance_above_60", "d8/d89/a28605.html", "d8/d89/a28605" ],
+    [ "CapturedFrog", "d7/d17/a05024.html#a3a51d3f5cfd1964cbec23fcba5046cca", [
+      [ "QUEST_THE_PERFECT_SPIES", "d7/d17/a05024.html#a3a51d3f5cfd1964cbec23fcba5046ccaac3f8eeb86f6f3fe350b15b7a2d86bb04", null ],
+      [ "NPC_VANIRAS_SENTRY_TOTEM", "d7/d17/a05024.html#a3a51d3f5cfd1964cbec23fcba5046ccaac387e8b467655f50a7dbaa8bcd0de57f", null ]
     ] ],
-    [ "AddSC_action_ip_logger", "d7/d17/a05024.html#a530be5efb251d5ca58e97804e48ad953", null ]
+    [ "OnlyForFlight", "d7/d17/a05024.html#afa5a0f3082f0a49fcc796209c7828151", [
+      [ "SPELL_ARCANE_CHARGES", "d7/d17/a05024.html#afa5a0f3082f0a49fcc796209c7828151aeefbb491736447da40481cf5a8742e2d", null ]
+    ] ],
+    [ "PetrovClusterBombs", "d7/d17/a05024.html#a5481d2bf1b9efa370833eed302f6f94c", [
+      [ "SPELL_PETROV_BOMB", "d7/d17/a05024.html#a5481d2bf1b9efa370833eed302f6f94ca52897b7254f1ac012c7e278d8dcbd8b6", null ]
+    ] ],
+    [ "AddSC_item_scripts", "d7/d17/a05024.html#a3e28ebf5a580887bb117f786689a34c6", null ]
 ];

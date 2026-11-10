@@ -1,6 +1,7 @@
 var a10257 =
 [
-    [ "ServerMailItems", "da/d1b/a10257.html#a95cb2278da300c6b0385241f5a3950c1", null ],
-    [ "item", "da/d1b/a10257.html#ae03738595a87a47e831bcbeea6f97d34", null ],
-    [ "itemCount", "da/d1b/a10257.html#a4475d65dd5721d4af323ae93d15f4170", null ]
+    [ "LootView", "da/d1b/a10257.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
+    [ "loot", "da/d1b/a10257.html#ac95fa4805c79923b292e8984b00de929", null ],
+    [ "permission", "da/d1b/a10257.html#a33d7eeebd6fbc854300275a4138d9030", null ],
+    [ "viewer", "da/d1b/a10257.html#af9a6926c6c871dee245f876038e49995", null ]
 ];

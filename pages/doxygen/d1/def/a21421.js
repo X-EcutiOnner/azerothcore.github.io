@@ -1,6 +1,6 @@
 var a21421 =
 [
-    [ "npc_frenzied_worgenAI", "de/d78/a21425.html", "de/d78/a21425" ],
-    [ "npc_frenzied_worgen", "d1/def/a21421.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "d1/def/a21421.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "npc_ravenous_furbolgAI", "de/d78/a21425.html", "de/d78/a21425" ],
+    [ "npc_ravenous_furbolg", "d1/def/a21421.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "d1/def/a21421.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

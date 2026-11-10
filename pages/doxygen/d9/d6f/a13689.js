@@ -1,8 +1,6 @@
 var a13689 =
 [
-    [ "FilterTargets", "d9/d6f/a13689.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
-    [ "HandleScript", "d9/d6f/a13689.html#aecb62c147905d0a4fe60086b8028df0b", null ],
-    [ "PrepareSpellScript", "d9/d6f/a13689.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
-    [ "Register", "d9/d6f/a13689.html#a2832f131d99608923ade8070e17da86d", null ],
-    [ "Validate", "d9/d6f/a13689.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
+    [ "npc_scholomance_occultistAI", "db/d4c/a13693.html", "db/d4c/a13693" ],
+    [ "npc_scholomance_occultist", "d9/d6f/a13689.html#adf100912a15ff8edf056efa7eebd13ff", null ],
+    [ "GetAI", "d9/d6f/a13689.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
 ];

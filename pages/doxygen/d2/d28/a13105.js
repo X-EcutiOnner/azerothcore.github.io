@@ -1,7 +1,7 @@
 var a13105 =
 [
-    [ "HandleEffectScriptEffect", "d2/d28/a13105.html#a8157c4b213b3b4e260222976e283e2ae", null ],
-    [ "PrepareSpellScript", "d2/d28/a13105.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
-    [ "Register", "d2/d28/a13105.html#aeda056b568b4956ba35b32a3f20c053e", null ],
-    [ "Validate", "d2/d28/a13105.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
+    [ "HandleDummy", "d2/d28/a13105.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "d2/d28/a13105.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "d2/d28/a13105.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "d2/d28/a13105.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

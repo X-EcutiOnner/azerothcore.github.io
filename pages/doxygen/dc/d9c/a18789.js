@@ -1,7 +1,6 @@
 var a18789 =
 [
-    [ "OnPeriodic", "dc/d9c/a18789.html#accd12b06341f3168c74cb18926614f7f", null ],
-    [ "OnUpdate", "dc/d9c/a18789.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
-    [ "PrepareAuraScript", "dc/d9c/a18789.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
-    [ "Register", "dc/d9c/a18789.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
+    [ "npc_shambling_horror_iccAI", "d9/d98/a18793.html", "d9/d98/a18793" ],
+    [ "npc_shambling_horror_icc", "dc/d9c/a18789.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
+    [ "GetAI", "dc/d9c/a18789.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
 ];

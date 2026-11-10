@@ -1,7 +1,4 @@
 var a14069 =
 [
-    [ "HandleScriptEffect", "dd/d99/a14069.html#aa537704c2066df4f5b4c60a775026a83", null ],
-    [ "PrepareSpellScript", "dd/d99/a14069.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
-    [ "Register", "dd/d99/a14069.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
-    [ "Validate", "dd/d99/a14069.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
+    [ "instance_the_stockade_InstanceMapScript", "dd/d99/a14069.html#a255ebc2ebda65b412f46e05e332d605e", null ]
 ];

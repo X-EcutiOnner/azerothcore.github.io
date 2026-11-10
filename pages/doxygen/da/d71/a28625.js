@@ -1,8 +1,10 @@
 var a28625 =
 [
-    [ "npc_simoneAI", "d7/d93/a28629.html", "d7/d93/a28629" ],
-    [ "npc_simone", "da/d71/a28625.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
-    [ "GetAI", "da/d71/a28625.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
-    [ "OnGossipHello", "da/d71/a28625.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
-    [ "OnGossipSelect", "da/d71/a28625.html#ae2b1a653be3767881769b54607219757", null ]
+    [ "npc_prof_blacksmith", "da/d71/a28625.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
+    [ "HasWeaponSub", "da/d71/a28625.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
+    [ "OnGossipHello", "da/d71/a28625.html#a9a432c1ec33578949110c877fc6a686d", null ],
+    [ "OnGossipSelect", "da/d71/a28625.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
+    [ "SendActionMenu", "da/d71/a28625.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
+    [ "SendConfirmLearn", "da/d71/a28625.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
+    [ "SendConfirmUnlearn", "da/d71/a28625.html#a851dc241d944bc888a00df85bff17e3a", null ]
 ];

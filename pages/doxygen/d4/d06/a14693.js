@@ -1,12 +1,9 @@
 var a14693 =
 [
-    [ "npc_chained_spirit", "d4/d06/a14693.html#a5f407e700a2086f971bed0e8c0def0db", null ],
-    [ "DoAction", "d4/d06/a14693.html#a7205ef13ca0d164a9222c049bc582254", null ],
-    [ "JustDied", "d4/d06/a14693.html#a3b405503231173e7ff7aa52e34f63da5", null ],
-    [ "MovementInform", "d4/d06/a14693.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
-    [ "Reset", "d4/d06/a14693.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
-    [ "SetGUID", "d4/d06/a14693.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
-    [ "UpdateAI", "d4/d06/a14693.html#a38d14b69c71bf2902a916028580fbfad", null ],
-    [ "instance", "d4/d06/a14693.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
-    [ "revivePlayerGUID", "d4/d06/a14693.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
+    [ "npc_shade_of_jindo", "d4/d06/a14693.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "d4/d06/a14693.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "d4/d06/a14693.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "d4/d06/a14693.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "d4/d06/a14693.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "d4/d06/a14693.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

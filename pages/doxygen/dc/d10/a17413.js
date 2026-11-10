@@ -1,6 +1,10 @@
 var a17413 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "da/dc5/a17417.html", "da/dc5/a17417" ],
-    [ "instance_forge_of_souls", "dc/d10/a17413.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "dc/d10/a17413.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "HandleAfterEffectAbsorb", "dc/d10/a17413.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "dc/d10/a17413.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "dc/d10/a17413.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "dc/d10/a17413.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "dc/d10/a17413.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "dc/d10/a17413.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "dc/d10/a17413.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

@@ -1,11 +1,11 @@
 var a17461 =
 [
-    [ "npc_tortured_rifleman", "dc/dfd/a17461.html#a5ab42b048c14838b6992716f62200c57", null ],
-    [ "AttackStart", "dc/dfd/a17461.html#a82f84e5b66d8cbcb25267e0eeb5ce65c", null ],
-    [ "DoAction", "dc/dfd/a17461.html#aafd02b19ba0280db3eacc21b24d3ceaa", null ],
-    [ "EnterEvadeMode", "dc/dfd/a17461.html#a1eddbbfa45174c05a24ad01f200983e3", null ],
-    [ "JustDied", "dc/dfd/a17461.html#abb8349f4f1c19a60c7566f1801ae3087", null ],
-    [ "JustEngagedWith", "dc/dfd/a17461.html#ab60cf1d4e6a58613a032b25b043aceea", null ],
-    [ "Reset", "dc/dfd/a17461.html#a04210cb211db92a1be6de7bc28953953", null ],
-    [ "UpdateAI", "dc/dfd/a17461.html#aa794584f9a842f9725f1f926b4099181", null ]
+    [ "npc_shadowy_mercenary", "dc/dfd/a17461.html#ae4e26a15f7ee0ba768a5ad6c18c8bc40", null ],
+    [ "AttackStart", "dc/dfd/a17461.html#a2851972b1fa6e3de4f79433e1308dd11", null ],
+    [ "DoAction", "dc/dfd/a17461.html#afba6e6565c04fe0b325a1ecf9d65ae80", null ],
+    [ "EnterEvadeMode", "dc/dfd/a17461.html#a71290c72bff2a91d7c5cc8d661f28bf9", null ],
+    [ "JustDied", "dc/dfd/a17461.html#a88cde525eb5d8db9fb2ffc30f18ddf61", null ],
+    [ "JustEngagedWith", "dc/dfd/a17461.html#aab9ac47fa72e7a7a6941aad190a18ebb", null ],
+    [ "Reset", "dc/dfd/a17461.html#aeedf803d4d6747ef505c11bb035c2c05", null ],
+    [ "UpdateAI", "dc/dfd/a17461.html#af36c113ac34b5e2db382c6d5f9d546e4", null ]
 ];

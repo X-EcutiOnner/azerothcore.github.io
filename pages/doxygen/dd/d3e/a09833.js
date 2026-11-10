@@ -1,8 +1,7 @@
 var a09833 =
 [
-    [ "FriendlyMissingBuffInRange", "dd/d3e/a09833.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "dd/d3e/a09833.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "dd/d3e/a09833.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "dd/d3e/a09833.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "dd/d3e/a09833.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "GameObjectFocusCheck", "dd/d3e/a09833.html#a4e85da5aa745128d8103c8214ae32af5", null ],
+    [ "operator()", "dd/d3e/a09833.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_caster", "dd/d3e/a09833.html#a2cc23e9fbd7beee5314b72036cba9ebf", null ],
+    [ "i_focusId", "dd/d3e/a09833.html#ace009546c2dcc6dac5de98b3c34152a5", null ]
 ];

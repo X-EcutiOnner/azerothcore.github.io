@@ -1,4 +1,4 @@
 var a01091 =
 [
-    [ "ScriptRegistry< WorldMapScript >", "d6/d0d/a01091.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
+    [ "OutdoorPvPScript", "d7/d4e/a10945.html", "d7/d4e/a10945" ]
 ];

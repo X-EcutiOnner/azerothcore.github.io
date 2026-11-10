@@ -1,7 +1,6 @@
 var a22561 =
 [
-    [ "npc_wg_demolisher_engineer", "da/d0c/a22561.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "da/d0c/a22561.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "da/d0c/a22561.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "da/d0c/a22561.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "HandleDamage", "da/d0c/a22561.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "da/d0c/a22561.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "da/d0c/a22561.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

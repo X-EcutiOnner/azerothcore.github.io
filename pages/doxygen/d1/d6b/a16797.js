@@ -1,7 +1,6 @@
 var a16797 =
 [
-    [ "HandleDummy", "d1/d6b/a16797.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
-    [ "PrepareSpellScript", "d1/d6b/a16797.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
-    [ "Register", "d1/d6b/a16797.html#a144224b42aabc0402b729dcc808d779d", null ],
-    [ "Validate", "d1/d6b/a16797.html#a985e843e856a7322bccf8544c45df48c", null ]
+    [ "PrepareSpellScript", "d1/d6b/a16797.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "d1/d6b/a16797.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "d1/d6b/a16797.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

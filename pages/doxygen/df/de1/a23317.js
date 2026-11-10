@@ -1,11 +1,6 @@
 var a23317 =
 [
-    [ "boss_doomwalker", "df/de1/a23317.html#a47811086ff98b1a09af5300af94b6c0e", null ],
-    [ "JustDied", "df/de1/a23317.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
-    [ "JustEngagedWith", "df/de1/a23317.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
-    [ "KilledUnit", "df/de1/a23317.html#a2335eb642940397f73ee2a8051624e8e", null ],
-    [ "MoveInLineOfSight", "df/de1/a23317.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
-    [ "Reset", "df/de1/a23317.html#aba08b227d629c9f35e59f465e29c267b", null ],
-    [ "UpdateAI", "df/de1/a23317.html#a3105c50e512c6f709985cece619b131f", null ],
-    [ "_inEnrage", "df/de1/a23317.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
+    [ "HandleScriptEffect", "df/de1/a23317.html#a2b46490b70bf93effb7379686e648618", null ],
+    [ "PrepareSpellScript", "df/de1/a23317.html#a5030d071372ef12663f6a75be637476e", null ],
+    [ "Register", "df/de1/a23317.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
 ];

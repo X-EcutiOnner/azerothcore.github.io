@@ -1,10 +1,16 @@
 var a29705 =
 [
-    [ "BugfixVersion", "dd/d29/a29705.html#a461f8c749a874405584dc1fd3fe1d805", null ],
-    [ "Build", "dd/d29/a29705.html#a6cc7aff1b397df7333b9bb0003282abd", null ],
-    [ "HotfixVersion", "dd/d29/a29705.html#a0df61c036a57b8a3efde5d180dc38131", null ],
-    [ "MacHash", "dd/d29/a29705.html#ad59772e86371318fe975760e303fa7d9", null ],
-    [ "MajorVersion", "dd/d29/a29705.html#a0eb78564680f771e325536a0ab77382a", null ],
-    [ "MinorVersion", "dd/d29/a29705.html#a7140f7ef9540eff08fabf74ded68b9cc", null ],
-    [ "WindowsHash", "dd/d29/a29705.html#a96abd69a458dfc4363c4e545fc7fabab", null ]
+    [ "~SocketMgr", "dd/d29/a29705.html#a8c8b979692599a68d6f9dbe864e58645", null ],
+    [ "SocketMgr", "dd/d29/a29705.html#a7582b914e42af5d67e4a4e968fd99b4a", null ],
+    [ "CreateThreads", "dd/d29/a29705.html#ac712a459d409da9e8f21603da8aa0305", null ],
+    [ "GetNetworkThreadCount", "dd/d29/a29705.html#ac1afac1d7f3e5092e9fe4425412186fc", null ],
+    [ "GetSocketForAccept", "dd/d29/a29705.html#acc5fbaea6228d5d5122e22472c79476e", null ],
+    [ "OnSocketOpen", "dd/d29/a29705.html#ad0830a83c94a940b254b71b4c7c979c2", null ],
+    [ "SelectThreadWithMinConnections", "dd/d29/a29705.html#abf161238fa7dcf2ee8b3a4ef3c71d5fd", null ],
+    [ "StartNetwork", "dd/d29/a29705.html#a81fc5b0c7bc9750b67ca607ae0cf2c81", null ],
+    [ "StopNetwork", "dd/d29/a29705.html#a7966832a9ef2151033ac9eeeadffff34", null ],
+    [ "Wait", "dd/d29/a29705.html#aace37f1c8fa4c4c4dd378ba2da496b50", null ],
+    [ "_acceptor", "dd/d29/a29705.html#af397e6129662d41adeeef25d27a980ea", null ],
+    [ "_threadCount", "dd/d29/a29705.html#abeae5090b8ea81e39465a20c7b960885", null ],
+    [ "_threads", "dd/d29/a29705.html#a0802f42ee5a7c8fec400e5034d87caac", null ]
 ];

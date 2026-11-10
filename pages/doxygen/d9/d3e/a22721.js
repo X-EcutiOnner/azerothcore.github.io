@@ -1,5 +1,5 @@
 var a22721 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "d9/d3e/a22721.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
-    [ "GetOutdoorPvP", "d9/d3e/a22721.html#aee93a8191457d7a264053809a5c082e8", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "d9/d3e/a22721.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "d9/d3e/a22721.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

@@ -1,11 +1,9 @@
 var a21133 =
 [
-    [ "boss_yoggsaron_constrictor_tentacle", "d7/d3f/a21133.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
-    [ "DoAction", "d7/d3f/a21133.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
-    [ "GrabPlayer", "d7/d3f/a21133.html#a0ae04ac300d4f08b12f7edaa75dbe208", null ],
-    [ "IsSummonedBy", "d7/d3f/a21133.html#a404e4ab66a757b6ff4fa492219198b91", null ],
-    [ "JustDied", "d7/d3f/a21133.html#aac8f5a80248c4616074e7ef88fb10395", null ],
-    [ "PassengerBoarded", "d7/d3f/a21133.html#afdef8417bffb0a2079199060b0c26980", null ],
-    [ "SelectConstrictTarget", "d7/d3f/a21133.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
-    [ "_playerGUID", "d7/d3f/a21133.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "d7/d3f/a21133.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "d7/d3f/a21133.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "d7/d3f/a21133.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "d7/d3f/a21133.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "d7/d3f/a21133.html#ae22a12401dc98534da1cb771468a58ce", null ],
+    [ "_diminishReady", "d7/d3f/a21133.html#af8d417c56918cf59dfe3d8429c4cf239", null ]
 ];

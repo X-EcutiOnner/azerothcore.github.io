@@ -1,6 +1,12 @@
 var a29817 =
 [
-    [ "auraName", "d6/dab/a29817.html#a953f930e046655ca0d8f373362d3f334", null ],
-    [ "isAlwaysTriggeredAura", "d6/dab/a29817.html#a05786c8e0daef9a2da98f832c230d99c", null ],
-    [ "procFlags", "d6/dab/a29817.html#aed48a1ad923118ac0a86d864e1e98519", null ]
+    [ "HealInfoStubBuilder", "d6/dab/a29817.html#a57945de96ad065451cadb47edba287c8", null ],
+    [ "Build", "d6/dab/a29817.html#a291565d223df00ce9d09c0315e803448", null ],
+    [ "WithAbsorb", "d6/dab/a29817.html#aa09160afe48114a7a3566be328f64658", null ],
+    [ "WithEffectiveHeal", "d6/dab/a29817.html#a34a359322b018cffc5f54ca999c11b11", null ],
+    [ "WithHeal", "d6/dab/a29817.html#a812e06b07eeb18c1d379409b77a80b89", null ],
+    [ "WithHitMask", "d6/dab/a29817.html#ab788ddcc209140ed3c10b02785471dcb", null ],
+    [ "WithOverheal", "d6/dab/a29817.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
+    [ "WithSpellInfo", "d6/dab/a29817.html#a4dc784241fbe998437cceb953fb83e1f", null ],
+    [ "_stub", "d6/dab/a29817.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
 ];

@@ -1,7 +1,6 @@
 var a24393 =
 [
-    [ "o", "d4/d1c/a24393.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "d4/d1c/a24393.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "d4/d1c/a24393.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "d4/d1c/a24393.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "npc_infernal_attackerAI", "de/df5/a24397.html", "de/df5/a24397" ],
+    [ "npc_infernal_attacker", "d4/d1c/a24393.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d4/d1c/a24393.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

@@ -1,15 +1,15 @@
 var a02765 =
 [
-    [ "MonsterMoveType", "da/d73/a02765.html#afd3f02560404659d901713e1228d9339", [
-      [ "MonsterMoveNormal", "da/d73/a02765.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
-      [ "MonsterMoveStop", "da/d73/a02765.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],
-      [ "MonsterMoveFacingSpot", "da/d73/a02765.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323", null ],
-      [ "MonsterMoveFacingTarget", "da/d73/a02765.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9", null ],
-      [ "MonsterMoveFacingAngle", "da/d73/a02765.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642", null ]
-    ] ],
-    [ "operator<<", "da/d73/a02765.html#a36206fc0a1fcffec4fbb7696f2fba68a", null ],
-    [ "operator>>", "da/d73/a02765.html#ae394b26156a3fa0d1d828d30cee475b1", null ],
-    [ "WriteCatmullRomCyclicPath", "da/d73/a02765.html#a512a47e7c442a3d5260ff7ec7b4d69bb", null ],
-    [ "WriteCatmullRomPath", "da/d73/a02765.html#a04fba7015071fbd9335a9723c694e511", null ],
-    [ "WriteLinearPath", "da/d73/a02765.html#a55368980761369537a648ba735e1f71f", null ]
+    [ "STR", "da/d73/a02765.html#a18d295a837ac71add5578860b55e5502", null ],
+    [ "computeFallElevation", "da/d73/a02765.html#a87260372150c8322b45e75bfaa445f14", null ],
+    [ "computeFallTime", "da/d73/a02765.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
+    [ "print_flags", "da/d73/a02765.html#a189485de5eba32c5b18dbb5c579b60d9", null ],
+    [ "g_MovementFlag_names", "da/d73/a02765.html#a2982e1b6388bf8b29797b16969b64173", null ],
+    [ "g_SplineFlag_names", "da/d73/a02765.html#aa6a1b38cb6e1507d88f0f45a4820990b", null ],
+    [ "terminal_fallTime", "da/d73/a02765.html#aa927e4ada20ca56ce951239357407270", null ],
+    [ "terminal_length", "da/d73/a02765.html#a7d1eb637bb6ae4a1859504fb84872808", null ],
+    [ "terminal_safeFall_fallTime", "da/d73/a02765.html#a2fc34c9abcc5822e12037c23c2ecbfe0", null ],
+    [ "terminal_safeFall_length", "da/d73/a02765.html#a4e816239736800d4508c1fc14e624ddc", null ],
+    [ "terminalSafefallVelocity", "da/d73/a02765.html#a654673c77f53f27a80309b050d44d38d", null ],
+    [ "terminalVelocity", "da/d73/a02765.html#a98cc74e5667e1057f334f02a28abcb01", null ]
 ];

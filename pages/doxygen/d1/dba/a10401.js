@@ -1,17 +1,12 @@
 var a10401 =
 [
-    [ "SpawnData", "d1/dba/a10401.html#af108bd4f8d7080f008f1f3263e575311", null ],
-    [ "dbData", "d1/dba/a10401.html#a32037d54d1c8dfd74e18b8b501843e93", null ],
-    [ "mapid", "d1/dba/a10401.html#ac23de576d628ec0dde71be9a06976c83", null ],
-    [ "orientation", "d1/dba/a10401.html#a645082615abc236e61a409595afca3e4", null ],
-    [ "phaseMask", "d1/dba/a10401.html#a1d08a4a00b3ffe3eaaf260c7a447c861", null ],
-    [ "poolId", "d1/dba/a10401.html#ae3790bdeab5bd664665f9a991ec15107", null ],
-    [ "posX", "d1/dba/a10401.html#a038b864df6fc5db9a47ae565a5e8d627", null ],
-    [ "posY", "d1/dba/a10401.html#a13dc41e4c6b296b6b7a0a1ca402f407b", null ],
-    [ "posZ", "d1/dba/a10401.html#ae911f34522832f2842ea7450c55e264c", null ],
-    [ "ScriptId", "d1/dba/a10401.html#acb2ca11212667789bbd41a285cf708d6", null ],
-    [ "spawnGroupId", "d1/dba/a10401.html#aa608bdbe2112f69e2c96ee45830cc3f8", null ],
-    [ "spawnId", "d1/dba/a10401.html#a589f8c64b4d22ee6a638a4bb4674c6ca", null ],
-    [ "spawnMask", "d1/dba/a10401.html#a236e4a809883421cb2c5d4c4d607621b", null ],
-    [ "type", "d1/dba/a10401.html#abb2ece9629d63141de2702acd5383564", null ]
+    [ "MapReference", "d1/dba/a10401.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
+    [ "~MapReference", "d1/dba/a10401.html#a1e93b44871737991140718322fd1cd69", null ],
+    [ "next", "d1/dba/a10401.html#a352ef695a8968a17e921861b7d6242c1", null ],
+    [ "next", "d1/dba/a10401.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
+    [ "nocheck_prev", "d1/dba/a10401.html#a6cfff18295cf049ff554b0f140680890", null ],
+    [ "nockeck_prev", "d1/dba/a10401.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
+    [ "sourceObjectDestroyLink", "d1/dba/a10401.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
+    [ "targetObjectBuildLink", "d1/dba/a10401.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
+    [ "targetObjectDestroyLink", "d1/dba/a10401.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
 ];

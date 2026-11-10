@@ -1,5 +1,11 @@
 var a16101 =
 [
-    [ "at_ancient_leaf", "da/de7/a16101.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
-    [ "OnTrigger", "da/de7/a16101.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
+    [ "npc_troll_volunteerAI", "da/de7/a16101.html#a7eb0c508122616a6781c8b23210e4062", null ],
+    [ "GetMountId", "da/de7/a16101.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
+    [ "InitializeAI", "da/de7/a16101.html#a1c758c7601624e0620778e13e8ec60a0", null ],
+    [ "MovementInform", "da/de7/a16101.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
+    [ "Reset", "da/de7/a16101.html#a31439533de41c2a459af2b4d3af76139", null ],
+    [ "SpellHit", "da/de7/a16101.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
+    [ "_complete", "da/de7/a16101.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
+    [ "_mountModel", "da/de7/a16101.html#ae226345bd324b9c337dc96570117d82b", null ]
 ];

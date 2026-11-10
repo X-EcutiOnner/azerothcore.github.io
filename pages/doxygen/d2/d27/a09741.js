@@ -1,10 +1,14 @@
 var a09741 =
 [
-    [ "UnitLastSearcher", "d2/d27/a09741.html#a7924240df139cf0814282eaff8a898b6", null ],
-    [ "Visit", "d2/d27/a09741.html#a95a5148e040daf44ed19e3118621a4ca", null ],
-    [ "Visit", "d2/d27/a09741.html#ae9992afc09771d4f1e1517642075f17e", null ],
-    [ "Visit", "d2/d27/a09741.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
-    [ "i_check", "d2/d27/a09741.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
-    [ "i_object", "d2/d27/a09741.html#a7bd2407800c461de70b217a4b48f9921", null ],
-    [ "i_phaseMask", "d2/d27/a09741.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
+    [ "WorldObjectLastSearcher", "d2/d27/a09741.html#af8baf5ff23a3167a963ade43faec09fc", null ],
+    [ "Visit", "d2/d27/a09741.html#ac011f150695eb1f3a83536175fd2a016", null ],
+    [ "Visit", "d2/d27/a09741.html#af5c5a533084c436e0d7de828e1ef82ad", null ],
+    [ "Visit", "d2/d27/a09741.html#a962a050f568dab037a9a48879eae0f86", null ],
+    [ "Visit", "d2/d27/a09741.html#a98967233e04c6223361897c02bc0edc5", null ],
+    [ "Visit", "d2/d27/a09741.html#a94d30e81eb509ff4fd3dac7c207c819b", null ],
+    [ "Visit", "d2/d27/a09741.html#a39a9d66014df641c0cb08f619f9d8434", null ],
+    [ "i_check", "d2/d27/a09741.html#a66afc21dd0fd740c2723516b8c33a319", null ],
+    [ "i_mapTypeMask", "d2/d27/a09741.html#a5689c8aa9120bc545c98ec0916d78d56", null ],
+    [ "i_object", "d2/d27/a09741.html#a765d65a90639b34a8cf9f42fdd6ae653", null ],
+    [ "i_phaseMask", "d2/d27/a09741.html#a966213d495a613f33aebaa8ebda7c380", null ]
 ];

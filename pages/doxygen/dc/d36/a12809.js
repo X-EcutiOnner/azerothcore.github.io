@@ -1,8 +1,8 @@
 var a12809 =
 [
-    [ "npc_burning_spirit", "dc/d36/a12809.html#acb0a685ea9aaddd23580ebeb4a0f1e45", null ],
-    [ "EnterEvadeMode", "dc/d36/a12809.html#a162d280d1fc53de0655c99efce81c539", null ],
-    [ "IsSummonedBy", "dc/d36/a12809.html#a3ef47ad5f1697f3a890469412e43c452", null ],
-    [ "MovementInform", "dc/d36/a12809.html#a4c001de653aa8b096552247f5cbf1573", null ],
-    [ "_flamelasherGUID", "dc/d36/a12809.html#aea694b777b8437b5909bd668279837b1", null ]
+    [ "brd_ironhand_guardian", "dc/d36/a12809.html#a635a59a53948b6e252a15384d784a969", null ],
+    [ "SetData", "dc/d36/a12809.html#a7677681c4d39ed73f4143caa66a1a5de", null ],
+    [ "UpdateAI", "dc/d36/a12809.html#a8840ead9b577888ec2ac15d68ddffe71", null ],
+    [ "_flamesEnabled", "dc/d36/a12809.html#a1b162039fc21a7eddddd22ed9c97e9cb", null ],
+    [ "events", "dc/d36/a12809.html#a01047164b0728cb6d08a7f41cf092a58", null ]
 ];

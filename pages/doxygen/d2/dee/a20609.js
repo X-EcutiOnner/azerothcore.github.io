@@ -1,10 +1,7 @@
 var a20609 =
 [
-    [ "HandleEffectPeriodic", "d2/dee/a20609.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "d2/dee/a20609.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "d2/dee/a20609.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "d2/dee/a20609.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "d2/dee/a20609.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "d2/dee/a20609.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "d2/dee/a20609.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "HandleEffectPeriodic", "d2/dee/a20609.html#acddafc5100d667e8fcc034815204f8ce", null ],
+    [ "PrepareAuraScript", "d2/dee/a20609.html#aeee4eeb0d55d084630bf850c0af165a9", null ],
+    [ "Register", "d2/dee/a20609.html#acc96d2a38e4da19e6cd6c72037a24202", null ],
+    [ "Validate", "d2/dee/a20609.html#acacf8df2d00899bed640c1be0d4287f2", null ]
 ];

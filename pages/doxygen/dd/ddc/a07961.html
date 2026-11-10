@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ChannelRights Class Reference</title>
+<title>AzerothCore: CharacterCacheEntry Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,196 +105,214 @@ $(document).ready(function(){initNavTree('dd/ddc/a07961.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d0/d8c/a07958.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ChannelRights Class Reference</div></div>
+  <div class="headertitle"><div class="title">CharacterCacheEntry Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Channel.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">CharacterCache.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a7fbfd84470bf1b4bf564eec0315f6c8d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#a7fbfd84470bf1b4bf564eec0315f6c8d">ChannelRights</a> ()=default</td></tr>
-<tr class="separator:a7fbfd84470bf1b4bf564eec0315f6c8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7beaed8c82905e7c019c799153e862c4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#a7beaed8c82905e7c019c799153e862c4">ChannelRights</a> (<a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const &amp;f, <a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const &amp;d, std::string jm, std::string sm, std::set&lt; <a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; ml)</td></tr>
-<tr class="separator:a7beaed8c82905e7c019c799153e862c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ad7fdc943a5a97c3c812108243192f6ae"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#ad7fdc943a5a97c3c812108243192f6ae">flags</a> {0}</td></tr>
-<tr class="separator:ad7fdc943a5a97c3c812108243192f6ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9883582d36b8cc67ab5d649670441000"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#a9883582d36b8cc67ab5d649670441000">speakDelay</a> {0}</td></tr>
-<tr class="separator:a9883582d36b8cc67ab5d649670441000"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af8797ef8c642f3a954b1581fb54ed545"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#af8797ef8c642f3a954b1581fb54ed545">joinMessage</a></td></tr>
-<tr class="separator:af8797ef8c642f3a954b1581fb54ed545"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b7dc06e8839da5a6d50b5d4dae76c1b"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#a4b7dc06e8839da5a6d50b5d4dae76c1b">speakMessage</a></td></tr>
-<tr class="separator:a4b7dc06e8839da5a6d50b5d4dae76c1b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac80f92b9e633bf309970179b32e29cee"><td class="memItemLeft" align="right" valign="top">std::set&lt; <a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#ac80f92b9e633bf309970179b32e29cee">moderators</a></td></tr>
-<tr class="separator:ac80f92b9e633bf309970179b32e29cee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0d1c9151ec4f2401b2d9fdd1c1d1532"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dc7/a08945.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532">Guid</a></td></tr>
+<tr class="separator:ae0d1c9151ec4f2401b2d9fdd1c1d1532"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d2bae6994c96b2b2ac2eefbab4b8f8b"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b">Name</a></td></tr>
+<tr class="separator:a7d2bae6994c96b2b2ac2eefbab4b8f8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae1921d1e949cec70ebbd52779b775df6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#ae1921d1e949cec70ebbd52779b775df6">AccountId</a></td></tr>
+<tr class="separator:ae1921d1e949cec70ebbd52779b775df6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19dbbbdce9dbf9993d57edbebeeaf425"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#a19dbbbdce9dbf9993d57edbebeeaf425">Class</a></td></tr>
+<tr class="separator:a19dbbbdce9dbf9993d57edbebeeaf425"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa57c5abbbd7218d26e4156b310229766"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#aa57c5abbbd7218d26e4156b310229766">Race</a></td></tr>
+<tr class="separator:aa57c5abbbd7218d26e4156b310229766"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a91c17eef26be0a18823a9834853c296a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#a91c17eef26be0a18823a9834853c296a">Sex</a></td></tr>
+<tr class="separator:a91c17eef26be0a18823a9834853c296a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41ea77c9e690336b709259bfccbd939f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#a41ea77c9e690336b709259bfccbd939f">Level</a></td></tr>
+<tr class="separator:a41ea77c9e690336b709259bfccbd939f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ed31437554dab26387118cb1d1783b1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d2d/a00815.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#a6ed31437554dab26387118cb1d1783b1">MailCount</a></td></tr>
+<tr class="separator:a6ed31437554dab26387118cb1d1783b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4fba749bb66642a1601c5cb37c756222"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dc7/a08945.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#a4fba749bb66642a1601c5cb37c756222">GuildId</a></td></tr>
+<tr class="separator:a4fba749bb66642a1601c5cb37c756222"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d094e514af9970b0239cc8e27da06bc"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d5/dcb/a02456.html#a3ed680b9b5f263a9c57435bf412b89f6">MAX_ARENA_SLOT</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#a1d094e514af9970b0239cc8e27da06bc">ArenaTeamId</a></td></tr>
+<tr class="separator:a1d094e514af9970b0239cc8e27da06bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b6f5540de2e47959a053696698e8e05"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dc7/a08945.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddc/a07961.html#a4b6f5540de2e47959a053696698e8e05">GroupGuid</a></td></tr>
+<tr class="separator:a4b6f5540de2e47959a053696698e8e05"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a7fbfd84470bf1b4bf564eec0315f6c8d" name="a7fbfd84470bf1b4bf564eec0315f6c8d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7fbfd84470bf1b4bf564eec0315f6c8d">&#9670;&#160;</a></span>ChannelRights() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">ChannelRights::ChannelRights </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a7beaed8c82905e7c019c799153e862c4" name="a7beaed8c82905e7c019c799153e862c4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7beaed8c82905e7c019c799153e862c4">&#9670;&#160;</a></span>ChannelRights() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">ChannelRights::ChannelRights </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const &amp;&#160;</td>
-          <td class="paramname"><em>f</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const &amp;&#160;</td>
-          <td class="paramname"><em>d</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string&#160;</td>
-          <td class="paramname"><em>jm</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string&#160;</td>
-          <td class="paramname"><em>sm</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::set&lt; <a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td>
-          <td class="paramname"><em>ml</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  122</span>: <a class="code hl_variable" href="../../dd/ddc/a07961.html#ad7fdc943a5a97c3c812108243192f6ae">flags</a>(f), <a class="code hl_variable" href="../../dd/ddc/a07961.html#a9883582d36b8cc67ab5d649670441000">speakDelay</a>(d), <a class="code hl_variable" href="../../dd/ddc/a07961.html#af8797ef8c642f3a954b1581fb54ed545">joinMessage</a>(std::move(jm)), <a class="code hl_variable" href="../../dd/ddc/a07961.html#a4b7dc06e8839da5a6d50b5d4dae76c1b">speakMessage</a>(std::move(sm)), <a class="code hl_variable" href="../../dd/ddc/a07961.html#ac80f92b9e633bf309970179b32e29cee">moderators</a>(std::move(ml)) {}</div>
-<div class="ttc" id="aa07961_html_a4b7dc06e8839da5a6d50b5d4dae76c1b"><div class="ttname"><a href="../../dd/ddc/a07961.html#a4b7dc06e8839da5a6d50b5d4dae76c1b">ChannelRights::speakMessage</a></div><div class="ttdeci">std::string speakMessage</div><div class="ttdef"><b>Definition:</b> Channel.h:126</div></div>
-<div class="ttc" id="aa07961_html_a9883582d36b8cc67ab5d649670441000"><div class="ttname"><a href="../../dd/ddc/a07961.html#a9883582d36b8cc67ab5d649670441000">ChannelRights::speakDelay</a></div><div class="ttdeci">uint32 speakDelay</div><div class="ttdef"><b>Definition:</b> Channel.h:124</div></div>
-<div class="ttc" id="aa07961_html_ac80f92b9e633bf309970179b32e29cee"><div class="ttname"><a href="../../dd/ddc/a07961.html#ac80f92b9e633bf309970179b32e29cee">ChannelRights::moderators</a></div><div class="ttdeci">std::set&lt; uint32 &gt; moderators</div><div class="ttdef"><b>Definition:</b> Channel.h:127</div></div>
-<div class="ttc" id="aa07961_html_ad7fdc943a5a97c3c812108243192f6ae"><div class="ttname"><a href="../../dd/ddc/a07961.html#ad7fdc943a5a97c3c812108243192f6ae">ChannelRights::flags</a></div><div class="ttdeci">uint32 flags</div><div class="ttdef"><b>Definition:</b> Channel.h:123</div></div>
-<div class="ttc" id="aa07961_html_af8797ef8c642f3a954b1581fb54ed545"><div class="ttname"><a href="../../dd/ddc/a07961.html#af8797ef8c642f3a954b1581fb54ed545">ChannelRights::joinMessage</a></div><div class="ttdeci">std::string joinMessage</div><div class="ttdef"><b>Definition:</b> Channel.h:125</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="ad7fdc943a5a97c3c812108243192f6ae" name="ad7fdc943a5a97c3c812108243192f6ae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad7fdc943a5a97c3c812108243192f6ae">&#9670;&#160;</a></span>flags</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="ae1921d1e949cec70ebbd52779b775df6" name="ae1921d1e949cec70ebbd52779b775df6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae1921d1e949cec70ebbd52779b775df6">&#9670;&#160;</a></span>AccountId</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ChannelRights::flags {0}</td>
+          <td class="memname"><a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CharacterCacheEntry::AccountId</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00730">Channel::Announce()</a>, <a class="el" href="../../#l00030">Channel::Channel()</a>, <a class="el" href="../../#l01196">Channel::FlagsNotify()</a>, <a class="el" href="../../#l00158">Channel::JoinChannel()</a>, <a class="el" href="../../#l01163">Channel::JoinNotify()</a>, <a class="el" href="../../#l00316">Channel::KickOrBan()</a>, <a class="el" href="../../#l01180">Channel::LeaveNotify()</a>, <a class="el" href="../../#l00689">Channel::List()</a>, <a class="el" href="../../#l00535">Channel::Password()</a>, <a class="el" href="../../#l00573">Channel::SetMode()</a>, and <a class="el" href="../../#l00468">Channel::UnBan()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00109">CharacterCache::AddCharacterCacheEntry()</a>, <a class="el" href="../../#l00038">WorldSession::HandleAddFriendOpcode()</a>, <a class="el" href="../../#l00049">cache_commandscript::HandleCacheInfoCommand()</a>, and <a class="el" href="../../#l00187">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>.</p>
 
 </div>
 </div>
-<a id="af8797ef8c642f3a954b1581fb54ed545" name="af8797ef8c642f3a954b1581fb54ed545"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af8797ef8c642f3a954b1581fb54ed545">&#9670;&#160;</a></span>joinMessage</h2>
+<a id="a1d094e514af9970b0239cc8e27da06bc" name="a1d094e514af9970b0239cc8e27da06bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d094e514af9970b0239cc8e27da06bc">&#9670;&#160;</a></span>ArenaTeamId</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::string ChannelRights::joinMessage</td>
+          <td class="memname">std::array&lt;<a class="el" href="../../d8/d2d/a00815.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d5/dcb/a02456.html#a3ed680b9b5f263a9c57435bf412b89f6">MAX_ARENA_SLOT</a>&gt; CharacterCacheEntry::ArenaTeamId</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00158">Channel::JoinChannel()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00109">CharacterCache::AddCharacterCacheEntry()</a>, and <a class="el" href="../../#l00049">cache_commandscript::HandleCacheInfoCommand()</a>.</p>
 
 </div>
 </div>
-<a id="ac80f92b9e633bf309970179b32e29cee" name="ac80f92b9e633bf309970179b32e29cee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac80f92b9e633bf309970179b32e29cee">&#9670;&#160;</a></span>moderators</h2>
+<a id="a19dbbbdce9dbf9993d57edbebeeaf425" name="a19dbbbdce9dbf9993d57edbebeeaf425"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a19dbbbdce9dbf9993d57edbebeeaf425">&#9670;&#160;</a></span>Class</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::set&lt;<a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; ChannelRights::moderators</td>
+          <td class="memname"><a class="el" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCacheEntry::Class</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00158">Channel::JoinChannel()</a>, <a class="el" href="../../#l00316">Channel::KickOrBan()</a>, <a class="el" href="../../#l00573">Channel::SetMode()</a>, <a class="el" href="../../#l00643">Channel::SetOwner()</a>, and <a class="el" href="../../#l00468">Channel::UnBan()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00109">CharacterCache::AddCharacterCacheEntry()</a>, <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l00049">cache_commandscript::HandleCacheInfoCommand()</a>, <a class="el" href="../../#l01987">WorldSession::HandleCharFactionOrRaceChangeCallback()</a>, and <a class="el" href="../../#l00032">WorldSession::SendNameQueryOpcode()</a>.</p>
 
 </div>
 </div>
-<a id="a9883582d36b8cc67ab5d649670441000" name="a9883582d36b8cc67ab5d649670441000"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9883582d36b8cc67ab5d649670441000">&#9670;&#160;</a></span>speakDelay</h2>
+<a id="a4b6f5540de2e47959a053696698e8e05" name="a4b6f5540de2e47959a053696698e8e05"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b6f5540de2e47959a053696698e8e05">&#9670;&#160;</a></span>GroupGuid</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ChannelRights::speakDelay {0}</td>
+          <td class="memname"><a class="el" href="../../d2/dc7/a08945.html">ObjectGuid</a> CharacterCacheEntry::GroupGuid</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00049">cache_commandscript::HandleCacheInfoCommand()</a>.</p>
+
 </div>
 </div>
-<a id="a4b7dc06e8839da5a6d50b5d4dae76c1b" name="a4b7dc06e8839da5a6d50b5d4dae76c1b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4b7dc06e8839da5a6d50b5d4dae76c1b">&#9670;&#160;</a></span>speakMessage</h2>
+<a id="ae0d1c9151ec4f2401b2d9fdd1c1d1532" name="ae0d1c9151ec4f2401b2d9fdd1c1d1532"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae0d1c9151ec4f2401b2d9fdd1c1d1532">&#9670;&#160;</a></span>Guid</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::string ChannelRights::speakMessage</td>
+          <td class="memname"><a class="el" href="../../d2/dc7/a08945.html">ObjectGuid</a> CharacterCacheEntry::Guid</td>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">CharacterCache::AddCharacterCacheEntry()</a>, and <a class="el" href="../../#l00049">cache_commandscript::HandleCacheInfoCommand()</a>.</p>
+
+</div>
+</div>
+<a id="a4fba749bb66642a1601c5cb37c756222" name="a4fba749bb66642a1601c5cb37c756222"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4fba749bb66642a1601c5cb37c756222">&#9670;&#160;</a></span>GuildId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dc7/a08945.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> CharacterCacheEntry::GuildId</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">CharacterCache::AddCharacterCacheEntry()</a>, <a class="el" href="../../#l00049">cache_commandscript::HandleCacheInfoCommand()</a>, <a class="el" href="../../#l01987">WorldSession::HandleCharFactionOrRaceChangeCallback()</a>, and <a class="el" href="../../#l01869">debug_commandscript::HandleDebugFactionChangeCommand()</a>.</p>
+
+</div>
+</div>
+<a id="a41ea77c9e690336b709259bfccbd939f" name="a41ea77c9e690336b709259bfccbd939f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41ea77c9e690336b709259bfccbd939f">&#9670;&#160;</a></span>Level</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCacheEntry::Level</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">CharacterCache::AddCharacterCacheEntry()</a>, <a class="el" href="../../#l00049">cache_commandscript::HandleCacheInfoCommand()</a>, and <a class="el" href="../../#l01987">WorldSession::HandleCharFactionOrRaceChangeCallback()</a>.</p>
+
+</div>
+</div>
+<a id="a6ed31437554dab26387118cb1d1783b1" name="a6ed31437554dab26387118cb1d1783b1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ed31437554dab26387118cb1d1783b1">&#9670;&#160;</a></span>MailCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d2d/a00815.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> CharacterCacheEntry::MailCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00049">cache_commandscript::HandleCacheInfoCommand()</a>, <a class="el" href="../../#l01987">WorldSession::HandleCharFactionOrRaceChangeCallback()</a>, and <a class="el" href="../../#l01869">debug_commandscript::HandleDebugFactionChangeCommand()</a>.</p>
+
+</div>
+</div>
+<a id="a7d2bae6994c96b2b2ac2eefbab4b8f8b" name="a7d2bae6994c96b2b2ac2eefbab4b8f8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7d2bae6994c96b2b2ac2eefbab4b8f8b">&#9670;&#160;</a></span>Name</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string CharacterCacheEntry::Name</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">CharacterCache::AddCharacterCacheEntry()</a>, <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l00049">cache_commandscript::HandleCacheInfoCommand()</a>, <a class="el" href="../../#l01987">WorldSession::HandleCharFactionOrRaceChangeCallback()</a>, <a class="el" href="../../#l00187">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, and <a class="el" href="../../#l00032">WorldSession::SendNameQueryOpcode()</a>.</p>
+
+</div>
+</div>
+<a id="aa57c5abbbd7218d26e4156b310229766" name="aa57c5abbbd7218d26e4156b310229766"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa57c5abbbd7218d26e4156b310229766">&#9670;&#160;</a></span>Race</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCacheEntry::Race</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">CharacterCache::AddCharacterCacheEntry()</a>, <a class="el" href="../../#l00038">WorldSession::HandleAddFriendOpcode()</a>, <a class="el" href="../../#l00049">cache_commandscript::HandleCacheInfoCommand()</a>, <a class="el" href="../../#l01987">WorldSession::HandleCharFactionOrRaceChangeCallback()</a>, <a class="el" href="../../#l01869">debug_commandscript::HandleDebugFactionChangeCommand()</a>, and <a class="el" href="../../#l00032">WorldSession::SendNameQueryOpcode()</a>.</p>
+
+</div>
+</div>
+<a id="a91c17eef26be0a18823a9834853c296a" name="a91c17eef26be0a18823a9834853c296a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a91c17eef26be0a18823a9834853c296a">&#9670;&#160;</a></span>Sex</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCacheEntry::Sex</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">CharacterCache::AddCharacterCacheEntry()</a>, <a class="el" href="../../#l00049">cache_commandscript::HandleCacheInfoCommand()</a>, and <a class="el" href="../../#l00032">WorldSession::SendNameQueryOpcode()</a>.</p>
 
 </div>
 </div>
@@ -303,8 +321,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/ddc/a07961.html">ChannelRights</a></li>
-    <li class="footer">Generated on Mon Oct 19 2026 23:57:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/ddc/a07961.html">CharacterCacheEntry</a></li>
+    <li class="footer">Generated on Tue Nov 10 2026 02:55:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

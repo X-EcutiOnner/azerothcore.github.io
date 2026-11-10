@@ -1,6 +1,6 @@
 var a24161 =
 [
-    [ "npc_deaths_fel_cannonAI", "d4/df5/a24165.html", "d4/df5/a24165" ],
-    [ "npc_deaths_fel_cannon", "df/d00/a24161.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "df/d00/a24161.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "HandleDummy", "df/d00/a24161.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
+    [ "PrepareSpellScript", "df/d00/a24161.html#af511bcad63ff423bf04a430f56959f40", null ],
+    [ "Register", "df/d00/a24161.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
 ];

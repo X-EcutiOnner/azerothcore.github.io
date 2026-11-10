@@ -1,6 +1,6 @@
 var a24509 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d5/d43/a24513.html", "d5/d43/a24513" ],
-    [ "npc_unkor_the_ruthless", "d0/d2d/a24509.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "d0/d2d/a24509.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "PrepareSpellScript", "d0/d2d/a24509.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
+    [ "Register", "d0/d2d/a24509.html#ac57aee08a131bcf7db11bc105f32242c", null ],
+    [ "SetDest", "d0/d2d/a24509.html#a26362c4873890bb60c2526bf07058746", null ]
 ];

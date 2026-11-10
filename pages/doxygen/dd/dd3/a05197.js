@@ -1,5 +1,6 @@
 var a05197 =
 [
-    [ "SAttackStop", "dd/de3/a11113.html", "dd/de3/a11113" ],
-    [ "SetSheathed", "d8/d94/a11109.html", "d8/d94/a11109" ]
+    [ "hash< ObjectGuid >", "d5/da8/a08961.html", "d5/da8/a08961" ],
+    [ "hash< SpellGroup >", "df/d41/a12089.html", "df/d41/a12089" ],
+    [ "hash< std::pair< uint32_t, uint32_t > >", "d2/d07/a30469.html", "d2/d07/a30469" ]
 ];

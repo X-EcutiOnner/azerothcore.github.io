@@ -1,6 +1,10 @@
 var a15353 =
 [
-    [ "boss_mal_ganisAI", "d2/df2/a15357.html", "d2/df2/a15357" ],
-    [ "boss_mal_ganis", "de/ddb/a15353.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "de/ddb/a15353.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "npc_hyjal_gargoyle", "de/ddb/a15353.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
+    [ "AttackStart", "de/ddb/a15353.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
+    [ "DoAction", "de/ddb/a15353.html#ae213c71426f438dd2b27699d7de23664", null ],
+    [ "JustEngagedWith", "de/ddb/a15353.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
+    [ "PathEndReached", "de/ddb/a15353.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
+    [ "Reset", "de/ddb/a15353.html#af314bb183bde44680eeb136d2a08c142", null ],
+    [ "UpdateAI", "de/ddb/a15353.html#ac1ca0648b08430a8bcbf99980222b684", null ]
 ];

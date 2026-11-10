@@ -1,7 +1,10 @@
 var a23733 =
 [
-    [ "PeriodicTick", "df/d61/a23733.html#a53541105e40202e4a73ecc38d84e9eca", null ],
-    [ "PrepareAuraScript", "df/d61/a23733.html#a79c8829a86db535e254db009d5286430", null ],
-    [ "Register", "df/d61/a23733.html#a58cd762eb10d224bb188aaf167c816b9", null ],
-    [ "Validate", "df/d61/a23733.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
+    [ "boss_high_king_maulgar", "df/d61/a23733.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "df/d61/a23733.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "df/d61/a23733.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "df/d61/a23733.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "df/d61/a23733.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "df/d61/a23733.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "df/d61/a23733.html#ae540909dbbb3cf93e37503cd755c3001", null ]
 ];

@@ -1,7 +1,8 @@
 var a17141 =
 [
-    [ "FilterTargets", "db/d9e/a17141.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "db/d9e/a17141.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "db/d9e/a17141.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "db/d9e/a17141.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_fel_infernal", "db/d9e/a17141.html#a4d8f956193efd148948b48892fb47240", null ],
+    [ "EnterEvadeMode", "db/d9e/a17141.html#a3a8ed8a9636f1002de3ef896575e033d", null ],
+    [ "JustDied", "db/d9e/a17141.html#ac4dbf210111940e8e88b4112252d1a61", null ],
+    [ "Reset", "db/d9e/a17141.html#a5618a5a696352d802bc1ec200768bd4f", null ],
+    [ "UpdateAI", "db/d9e/a17141.html#a06f75ff314cd55b307f5c00a6254b409", null ]
 ];

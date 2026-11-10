@@ -1,19 +1,12 @@
 var a10077 =
 [
-    [ "GuildContainer", "d1/d50/a10077.html#aa9afb05ecb2eb6ee427503a4ea76f7ca", null ],
-    [ "GuildMgr", "d1/d50/a10077.html#a0d4a44461eb4c54ddb6646dfd1c11a68", null ],
-    [ "~GuildMgr", "d1/d50/a10077.html#ae90afb785961e122afc419a61dfb20c1", null ],
-    [ "AddGuild", "d1/d50/a10077.html#a5b63dae4f2252c452c797b83477d2280", null ],
-    [ "GenerateGuildId", "d1/d50/a10077.html#a8ad7c4fc3e292e6cecd4964ad22cd135", null ],
-    [ "GetGuildById", "d1/d50/a10077.html#a04f4586ea6461c6f7165efba2bf666a1", null ],
-    [ "GetGuildByLeader", "d1/d50/a10077.html#a5198534a243b70104ce17a7871fcfb27", null ],
-    [ "GetGuildByName", "d1/d50/a10077.html#af9ff736e84a18d8dfce3826c9459df37", null ],
-    [ "GetGuildNameById", "d1/d50/a10077.html#ad32af675831da389755da5f3e4e47361", null ],
-    [ "instance", "d1/d50/a10077.html#aef69fd59528ec594c76ae390a4ba05bd", null ],
-    [ "LoadGuilds", "d1/d50/a10077.html#ac1eb56686e276e11838e9150696b5045", null ],
-    [ "RemoveGuild", "d1/d50/a10077.html#a51728f1c2780cdb105cb35947739cbd7", null ],
-    [ "ResetTimes", "d1/d50/a10077.html#ad2670ee42ff5252a879ccc5cbb730833", null ],
-    [ "SetNextGuildId", "d1/d50/a10077.html#ae1ae88575b7fcb37d4ee1d76f79c0c45", null ],
-    [ "GuildStore", "d1/d50/a10077.html#a174158d11bf6102462a094ff4a8fa402", null ],
-    [ "NextGuildId", "d1/d50/a10077.html#a75e150f66ebccfc05824a4f7b66a9210", null ]
+    [ "EventLogEntry", "d1/d50/a10077.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
+    [ "EventLogEntry", "d1/d50/a10077.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
+    [ "~EventLogEntry", "d1/d50/a10077.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
+    [ "SaveToDB", "d1/d50/a10077.html#a2ca71e291a44f95bb42d51083aa84985", null ],
+    [ "WritePacket", "d1/d50/a10077.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
+    [ "m_eventType", "d1/d50/a10077.html#a00216643e6856591402c21df490c1fec", null ],
+    [ "m_newRank", "d1/d50/a10077.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
+    [ "m_playerGuid1", "d1/d50/a10077.html#a06a2b45d16860c711829f49f97624272", null ],
+    [ "m_playerGuid2", "d1/d50/a10077.html#a1f66e71f9536e484663e437bbcbcefca", null ]
 ];

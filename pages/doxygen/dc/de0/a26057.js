@@ -1,6 +1,6 @@
 var a26057 =
 [
-    [ "OnRemove", "dc/de0/a26057.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "dc/de0/a26057.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "dc/de0/a26057.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "CheckProc", "dc/de0/a26057.html#a8158e7338b29b072f0c851771d0e8eee", null ],
+    [ "PrepareAuraScript", "dc/de0/a26057.html#a44a18144e276e7bdc80c5a19f1d442e2", null ],
+    [ "Register", "dc/de0/a26057.html#ae24336f87db322e546bd858bc50f2351", null ]
 ];

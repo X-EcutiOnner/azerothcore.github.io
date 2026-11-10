@@ -1,6 +1,6 @@
 var a18401 =
 [
-    [ "npc_putricide_mutated_abomination", "d2/d7b/a18401.html#ae8aa90f98296c10cbbb54570304892ca", null ],
-    [ "AttackStart", "d2/d7b/a18401.html#a4ab01c14094f37de91591ff3a81e5c23", null ],
-    [ "UpdateAI", "d2/d7b/a18401.html#a84e6eed6db698c6dfa0a2e73c30c1505", null ]
+    [ "npc_gas_cloudAI", "d9/df6/a18405.html", "d9/df6/a18405" ],
+    [ "npc_gas_cloud", "d2/d7b/a18401.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "d2/d7b/a18401.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

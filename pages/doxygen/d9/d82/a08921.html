@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ObjectGuidGeneratorBase Class Reference</title>
+<title>AzerothCore: MovableMapObject Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,54 +105,71 @@ $(document).ready(function(){initNavTree('d9/d82/a08921.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pro-static-methods">Static Protected Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
 <a href="../../d7/da0/a08918.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ObjectGuidGeneratorBase Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
+  <div class="headertitle"><div class="title">MovableMapObject Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Object.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for ObjectGuidGeneratorBase:</div>
+Inheritance diagram for MovableMapObject:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d9/d82/a08921.png" usemap="#ObjectGuidGeneratorBase_map" alt=""/>
-  <map id="ObjectGuidGeneratorBase_map" name="ObjectGuidGeneratorBase_map">
-<area href="../../df/d62/a08925.html" alt="ObjectGuidGenerator&lt; high &gt;" shape="rect" coords="0,56,180,80"/>
+  <img src="../../d9/d82/a08921.png" usemap="#MovableMapObject_map" alt=""/>
+  <map id="MovableMapObject_map" name="MovableMapObject_map">
+<area href="../../da/d0f/a08505.html" alt="Creature" shape="rect" coords="199,56,322,80"/>
+<area href="../../d4/d38/a08657.html" alt="DynamicObject" shape="rect" coords="332,56,455,80"/>
+<area href="../../d1/d10/a08693.html" alt="GameObject" shape="rect" coords="465,56,588,80"/>
+<area href="../../df/df7/a08629.html" alt="TempSummon" shape="rect" coords="133,112,256,136"/>
+<area href="../../db/d9d/a29889.html" alt="TestCreature" shape="rect" coords="266,112,389,136"/>
+<area href="../../d2/dbd/a09189.html" alt="Transport" shape="rect" coords="465,112,588,136"/>
+<area href="../../dc/deb/a08633.html" alt="Minion" shape="rect" coords="133,168,256,192"/>
+<area href="../../db/da8/a09193.html" alt="MotionTransport" shape="rect" coords="399,168,522,192"/>
+<area href="../../dc/dfb/a09197.html" alt="StaticTransport" shape="rect" coords="532,168,655,192"/>
+<area href="../../d7/d14/a08637.html" alt="Guardian" shape="rect" coords="0,224,123,248"/>
+<area href="../../d2/d43/a08641.html" alt="Puppet" shape="rect" coords="133,224,256,248"/>
+<area href="../../d5/d25/a09185.html" alt="Totem" shape="rect" coords="266,224,389,248"/>
+<area href="../../de/d68/a09013.html" alt="Pet" shape="rect" coords="0,280,123,304"/>
   </map>
 </div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a8af6741cc884915ee86b489fc970fed1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#a8af6741cc884915ee86b489fc970fed1">ObjectGuidGeneratorBase</a> (<a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> start=1)</td></tr>
-<tr class="separator:a8af6741cc884915ee86b489fc970fed1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a18b016edddec211c9cc4b0ff8682cb30"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#a18b016edddec211c9cc4b0ff8682cb30">Set</a> (<a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> val)</td></tr>
-<tr class="separator:a18b016edddec211c9cc4b0ff8682cb30"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac655829fc5af48625c04bab57597fe66"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#ac655829fc5af48625c04bab57597fe66">Generate</a> (<a class="el" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> realmId=<a class="el" href="../../dd/d71/a03182.html#a22e4df27ab300736f6c42ab0e28112a3">DEFAULT_NON_CROSSREALM_REALM_ID</a>)=0</td></tr>
-<tr class="separator:ac655829fc5af48625c04bab57597fe66"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abf1f20b97af8071459bd850e7106a442"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#abf1f20b97af8071459bd850e7106a442">GetNextAfterMaxUsed</a> () const</td></tr>
-<tr class="separator:abf1f20b97af8071459bd850e7106a442"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa4430614e899fb1186f52875cf8d2ea"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#aaa4430614e899fb1186f52875cf8d2ea">~ObjectGuidGeneratorBase</a> ()=default</td></tr>
-<tr class="separator:aaa4430614e899fb1186f52875cf8d2ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:ad9f4cb74c55993cfdfc5895aefc33cfb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#ad9f4cb74c55993cfdfc5895aefc33cfb">MovableMapObject</a> ()=default</td></tr>
+<tr class="separator:ad9f4cb74c55993cfdfc5895aefc33cfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d7d87cff5f00f3b370584675caf7870"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/dae/a09597.html">Cell</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#a6d7d87cff5f00f3b370584675caf7870">GetCurrentCell</a> () const</td></tr>
+<tr class="separator:a6d7d87cff5f00f3b370584675caf7870"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-static-methods" name="pro-static-methods"></a>
-Static Protected Member Functions</h2></td></tr>
-<tr class="memitem:ada7a44ac47b112491c575c38465740fc"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#ada7a44ac47b112491c575c38465740fc">HandleCounterOverflow</a> (<a class="el" href="../../dd/d71/a03182.html#abe8666ac87665ba963053cdd2b014750">HighGuid</a> high)</td></tr>
-<tr class="separator:ada7a44ac47b112491c575c38465740fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7617177be7e333129fe0b6ed94019f6e"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#a7617177be7e333129fe0b6ed94019f6e">GetClusterGuid</a> (<a class="el" href="../../dd/d71/a03182.html#abe8666ac87665ba963053cdd2b014750">HighGuid</a> high, <a class="el" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> realmId, <a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> &amp;clusterGuid)</td></tr>
-<tr class="separator:a7617177be7e333129fe0b6ed94019f6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a4caa8c9e50452bff413dec06bf80b84c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#a4caa8c9e50452bff413dec06bf80b84c">SetCurrentCell</a> (<a class="el" href="../../de/dae/a09597.html">Cell</a> const &amp;cell)</td></tr>
+<tr class="separator:a4caa8c9e50452bff413dec06bf80b84c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
-Protected Attributes</h2></td></tr>
-<tr class="memitem:a4a14102e019aa10f41b050054cacca22"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#a4a14102e019aa10f41b050054cacca22">_nextGuid</a></td></tr>
-<tr class="separator:a4a14102e019aa10f41b050054cacca22"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a529db8859c0c9713bcc2f62459bbcc9f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/dae/a09597.html">Cell</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#a529db8859c0c9713bcc2f62459bbcc9f">_currentCell</a></td></tr>
+<tr class="separator:a529db8859c0c9713bcc2f62459bbcc9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6782d8e3dc7de58ef83a83cf0a355e43"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dc8/a02264.html#a1833d9b1810b160d0c00f297af237b07">MapObjectCellMoveState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#a6782d8e3dc7de58ef83a83cf0a355e43">_moveState</a> {<a class="el" href="../../d7/dc8/a02264.html#a1833d9b1810b160d0c00f297af237b07afb882558defaa808483ae0d24e1d12e1">MAP_OBJECT_CELL_MOVE_NONE</a>}</td></tr>
+<tr class="separator:a6782d8e3dc7de58ef83a83cf0a355e43"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:ad2f32e921244459f7cc6d50355429cc6"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#ad2f32e921244459f7cc6d50355429cc6">Map</a></td></tr>
+<tr class="separator:ad2f32e921244459f7cc6d50355429cc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9551c85ae0e43e4d212225c643da2262"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#a9551c85ae0e43e4d212225c643da2262">ObjectGridLoader</a></td></tr>
+<tr class="separator:a9551c85ae0e43e4d212225c643da2262"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a260ebfc53c9406bc0356c553822d8ab2"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a260ebfc53c9406bc0356c553822d8ab2"><td class="memTemplItemLeft" align="right" valign="top">class&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/d82/a08921.html#a260ebfc53c9406bc0356c553822d8ab2">RandomMovementGenerator</a></td></tr>
+<tr class="separator:a260ebfc53c9406bc0356c553822d8ab2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a8af6741cc884915ee86b489fc970fed1" name="a8af6741cc884915ee86b489fc970fed1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8af6741cc884915ee86b489fc970fed1">&#9670;&#160;</a></span>ObjectGuidGeneratorBase()</h2>
+<a id="ad9f4cb74c55993cfdfc5895aefc33cfb" name="ad9f4cb74c55993cfdfc5895aefc33cfb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9f4cb74c55993cfdfc5895aefc33cfb">&#9670;&#160;</a></span>MovableMapObject()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -161,35 +178,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ObjectGuidGeneratorBase::ObjectGuidGeneratorBase </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td>
-          <td class="paramname"><em>start</em> = <code>1</code></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  287</span>: <a class="code hl_variable" href="../../d9/d82/a08921.html#a4a14102e019aa10f41b050054cacca22">_nextGuid</a>(start) { }</div>
-<div class="ttc" id="aa08921_html_a4a14102e019aa10f41b050054cacca22"><div class="ttname"><a href="../../d9/d82/a08921.html#a4a14102e019aa10f41b050054cacca22">ObjectGuidGeneratorBase::_nextGuid</a></div><div class="ttdeci">ObjectGuid::LowType _nextGuid</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:297</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="aaa4430614e899fb1186f52875cf8d2ea" name="aaa4430614e899fb1186f52875cf8d2ea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaa4430614e899fb1186f52875cf8d2ea">&#9670;&#160;</a></span>~ObjectGuidGeneratorBase()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual ObjectGuidGeneratorBase::~ObjectGuidGeneratorBase </td>
+          <td class="memname">MovableMapObject::MovableMapObject </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -197,7 +186,7 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -205,8 +194,8 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="ac655829fc5af48625c04bab57597fe66" name="ac655829fc5af48625c04bab57597fe66"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac655829fc5af48625c04bab57597fe66">&#9670;&#160;</a></span>Generate()</h2>
+<a id="a6d7d87cff5f00f3b370584675caf7870" name="a6d7d87cff5f00f3b370584675caf7870"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6d7d87cff5f00f3b370584675caf7870">&#9670;&#160;</a></span>GetCurrentCell()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -215,105 +204,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> ObjectGuidGeneratorBase::Generate </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"><em>realmId</em> = <code><a class="el" href="../../dd/d71/a03182.html#a22e4df27ab300736f6c42ab0e28112a3">DEFAULT_NON_CROSSREALM_REALM_ID</a></code></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../df/d62/a08925.html#ae863a6f3ad3b71ab0ca19c60e4f7d862">ObjectGuidGenerator&lt; high &gt;</a>.</p>
-
-</div>
-</div>
-<a id="a7617177be7e333129fe0b6ed94019f6e" name="a7617177be7e333129fe0b6ed94019f6e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7617177be7e333129fe0b6ed94019f6e">&#9670;&#160;</a></span>GetClusterGuid()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ObjectGuidGeneratorBase::GetClusterGuid </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d71/a03182.html#abe8666ac87665ba963053cdd2b014750">HighGuid</a>&#160;</td>
-          <td class="paramname"><em>high</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"><em>realmId</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> &amp;&#160;</td>
-          <td class="paramname"><em>clusterGuid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  107</span>{</div>
-<div class="line"><span class="lineno">  108</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d4/d1d/a04268.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a>-&gt;ClusterModeEnabled())</div>
-<div class="line"><span class="lineno">  109</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  110</span> </div>
-<div class="line"><span class="lineno">  111</span>    <a class="code hl_typedef" href="../../d8/d12/a04694.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> guid = 0;</div>
-<div class="line"><span class="lineno">  112</span>    <span class="keywordflow">if</span> (high == HighGuid::Player)</div>
-<div class="line"><span class="lineno">  113</span>        guid = <a class="code hl_define" href="../../d4/d1d/a04268.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a>-&gt;GenerateCharacterGuid(realmId);</div>
-<div class="line"><span class="lineno">  114</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (high == HighGuid::Item)</div>
-<div class="line"><span class="lineno">  115</span>        guid = <a class="code hl_define" href="../../d4/d1d/a04268.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a>-&gt;GenerateItemGuid(realmId);</div>
-<div class="line"><span class="lineno">  116</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  117</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  118</span> </div>
-<div class="line"><span class="lineno">  119</span>    <span class="comment">// Checked before narrowing: a cluster guid past the uint32 range would otherwise wrap into used guids</span></div>
-<div class="line"><span class="lineno">  120</span>    <span class="keywordflow">if</span> (guid &gt;= <a class="code hl_function" href="../../dc/dc9/a08913.html#ac69dc2d5462b778d2149c0df5ee7ea19">ObjectGuid::GetMaxCounter</a>(high) - 1)</div>
-<div class="line"><span class="lineno">  121</span>        <a class="code hl_function" href="../../d9/d82/a08921.html#ada7a44ac47b112491c575c38465740fc">HandleCounterOverflow</a>(high);</div>
-<div class="line"><span class="lineno">  122</span> </div>
-<div class="line"><span class="lineno">  123</span>    clusterGuid = <a class="code hl_typedef" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>(guid);</div>
-<div class="line"><span class="lineno">  124</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  125</span>}</div>
-<div class="ttc" id="aa04268_html_a269ff175e81e59511267ed3605cb45cb"><div class="ttname"><a href="../../d4/d1d/a04268.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a></div><div class="ttdeci">#define sToCloud9Sidecar</div><div class="ttdef"><b>Definition:</b> TC9Sidecar.h:81</div></div>
-<div class="ttc" id="aa04694_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../d8/d12/a04694.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition:</b> Define.h:106</div></div>
-<div class="ttc" id="aa08913_html_aa278d50613c05dc1333df5185a6993eb"><div class="ttname"><a href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a></div><div class="ttdeci">uint32 LowType</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:125</div></div>
-<div class="ttc" id="aa08913_html_ac69dc2d5462b778d2149c0df5ee7ea19"><div class="ttname"><a href="../../dc/dc9/a08913.html#ac69dc2d5462b778d2149c0df5ee7ea19">ObjectGuid::GetMaxCounter</a></div><div class="ttdeci">ObjectGuid::LowType GetMaxCounter() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:163</div></div>
-<div class="ttc" id="aa08921_html_ada7a44ac47b112491c575c38465740fc"><div class="ttname"><a href="../../d9/d82/a08921.html#ada7a44ac47b112491c575c38465740fc">ObjectGuidGeneratorBase::HandleCounterOverflow</a></div><div class="ttdeci">static void HandleCounterOverflow(HighGuid high)</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:95</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00163">ObjectGuid::GetMaxCounter()</a>, <a class="el" href="../../#l00095">HandleCounterOverflow()</a>, and <a class="el" href="../../#l00081">sToCloud9Sidecar</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00306">ObjectGuidGenerator&lt; high &gt;::Generate()</a>.</p>
-
-</div>
-</div>
-<a id="abf1f20b97af8071459bd850e7106a442" name="abf1f20b97af8071459bd850e7106a442"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abf1f20b97af8071459bd850e7106a442">&#9670;&#160;</a></span>GetNextAfterMaxUsed()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> ObjectGuidGeneratorBase::GetNextAfterMaxUsed </td>
+          <td class="memname"><a class="el" href="../../de/dae/a09597.html">Cell</a> const  &amp; MovableMapObject::GetCurrentCell </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -321,18 +212,21 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  291</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d82/a08921.html#a4a14102e019aa10f41b050054cacca22">_nextGuid</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  429</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d82/a08921.html#a529db8859c0c9713bcc2f62459bbcc9f">_currentCell</a>; }</div>
+<div class="ttc" id="aa08921_html_a529db8859c0c9713bcc2f62459bbcc9f"><div class="ttname"><a href="../../d9/d82/a08921.html#a529db8859c0c9713bcc2f62459bbcc9f">MovableMapObject::_currentCell</a></div><div class="ttdeci">Cell _currentCell</div><div class="ttdef"><b>Definition:</b> Object.h:434</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00297">_nextGuid</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00434">_currentCell</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00826">Map::CreatureRelocation()</a>, <a class="el" href="../../#l00891">Map::DynamicObjectRelocation()</a>, <a class="el" href="../../#l00870">Map::GameObjectRelocation()</a>, <a class="el" href="../../#l03996">Creature::IsUpdateNeeded()</a>, <a class="el" href="../../#l03202">GameObject::IsUpdateNeeded()</a>, <a class="el" href="../../#l00950">Map::MoveAllCreaturesInMoveList()</a>, <a class="el" href="../../#l01019">Map::MoveAllDynamicObjectsInMoveList()</a>, and <a class="el" href="../../#l00984">Map::MoveAllGameObjectsInMoveList()</a>.</p>
 
 </div>
 </div>
-<a id="ada7a44ac47b112491c575c38465740fc" name="ada7a44ac47b112491c575c38465740fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ada7a44ac47b112491c575c38465740fc">&#9670;&#160;</a></span>HandleCounterOverflow()</h2>
+<a id="a4caa8c9e50452bff413dec06bf80b84c" name="a4caa8c9e50452bff413dec06bf80b84c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4caa8c9e50452bff413dec06bf80b84c">&#9670;&#160;</a></span>SetCurrentCell()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -341,42 +235,30 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void ObjectGuidGeneratorBase::HandleCounterOverflow </td>
+          <td class="memname">void MovableMapObject::SetCurrentCell </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d71/a03182.html#abe8666ac87665ba963053cdd2b014750">HighGuid</a>&#160;</td>
-          <td class="paramname"><em>high</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../de/dae/a09597.html">Cell</a> const &amp;&#160;</td>
+          <td class="paramname"><em>cell</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   96</span>{</div>
-<div class="line"><span class="lineno">   97</span>    <span class="comment">// StopNow only flags the shutdown, so Generate would keep handing out wrapped guids until the world loop exits.</span></div>
-<div class="line"><span class="lineno">   98</span>    <span class="comment">// For persisted guids those overwrite other rows on save (REPLACE INTO item_instance), so stop right here.</span></div>
-<div class="line"><span class="lineno">   99</span>    <span class="keywordflow">if</span> (high == HighGuid::Item || high == HighGuid::Player)</div>
-<div class="line"><span class="lineno">  100</span>        <a class="code hl_define" href="../../db/db4/a04835.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(<span class="stringliteral">&quot;{} guid overflow!! Can&#39;t continue, renumber the guids before restarting.&quot;</span>, <a class="code hl_function" href="../../dc/dc9/a08913.html#ad724f21d9bb544bf3f519ecd1d01665c">ObjectGuid::GetTypeName</a>(high));</div>
-<div class="line"><span class="lineno">  101</span> </div>
-<div class="line"><span class="lineno">  102</span>    <a class="code hl_define" href="../../db/d9e/a04892.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;entities.object&quot;</span>, <span class="stringliteral">&quot;{} guid overflow!! Can&#39;t continue, shutting down server. &quot;</span>, <a class="code hl_function" href="../../dc/dc9/a08913.html#ad724f21d9bb544bf3f519ecd1d01665c">ObjectGuid::GetTypeName</a>(high));</div>
-<div class="line"><span class="lineno">  103</span>    <a class="code hl_function" href="../../de/d9d/a12453.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a>(<a class="code hl_enumvalue" href="../../d3/d91/a05119.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a>);</div>
-<div class="line"><span class="lineno">  104</span>}</div>
-<div class="ttc" id="aa04835_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../db/db4/a04835.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition:</b> Errors.h:76</div></div>
-<div class="ttc" id="aa04892_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../db/d9e/a04892.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:145</div></div>
-<div class="ttc" id="aa05119_html_gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08"><div class="ttname"><a href="../../d3/d91/a05119.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a></div><div class="ttdeci">@ ERROR_EXIT_CODE</div><div class="ttdef"><b>Definition:</b> World.h:54</div></div>
-<div class="ttc" id="aa08913_html_ad724f21d9bb544bf3f519ecd1d01665c"><div class="ttname"><a href="../../dc/dc9/a08913.html#ad724f21d9bb544bf3f519ecd1d01665c">ObjectGuid::GetTypeName</a></div><div class="ttdeci">char const * GetTypeName() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:215</div></div>
-<div class="ttc" id="aa12453_html_ab0c53f76dd85fb0f2dcfc29b33291d9d"><div class="ttname"><a href="../../de/d9d/a12453.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a></div><div class="ttdeci">static void StopNow(uint8 exitcode)</div><div class="ttdef"><b>Definition:</b> World.h:195</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  432</span>{ <a class="code hl_variable" href="../../d9/d82/a08921.html#a529db8859c0c9713bcc2f62459bbcc9f">_currentCell</a> = cell; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00054">ERROR_EXIT_CODE</a>, <a class="el" href="../../#l00215">ObjectGuid::GetTypeName()</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, and <a class="el" href="../../#l00195">World::StopNow()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00434">_currentCell</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00306">ObjectGuidGenerator&lt; high &gt;::Generate()</a>, and <a class="el" href="../../#l00106">GetClusterGuid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00125">Map::AddToGrid()</a>.</p>
 
 </div>
 </div>
-<a id="a18b016edddec211c9cc4b0ff8682cb30" name="a18b016edddec211c9cc4b0ff8682cb30"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a18b016edddec211c9cc4b0ff8682cb30">&#9670;&#160;</a></span>Set()</h2>
+<h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="ad2f32e921244459f7cc6d50355429cc6" name="ad2f32e921244459f7cc6d50355429cc6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad2f32e921244459f7cc6d50355429cc6">&#9670;&#160;</a></span>Map</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -385,30 +267,67 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual void ObjectGuidGeneratorBase::Set </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td>
-          <td class="paramname"><em>val</em></td><td>)</td>
-          <td></td>
+          <td class="memname">friend class <a class="el" href="../../dc/db6/a10361.html">Map</a></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  289</span>{ <a class="code hl_variable" href="../../d9/d82/a08921.html#a4a14102e019aa10f41b050054cacca22">_nextGuid</a> = val; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00297">_nextGuid</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l07585">ObjectMgr::SetHighestGuids()</a>.</p>
+</div>
+</div>
+<a id="a9551c85ae0e43e4d212225c643da2262" name="a9551c85ae0e43e4d212225c643da2262"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9551c85ae0e43e4d212225c643da2262">&#9670;&#160;</a></span>ObjectGridLoader</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class ObjectGridLoader</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a260ebfc53c9406bc0356c553822d8ab2" name="a260ebfc53c9406bc0356c553822d8ab2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a260ebfc53c9406bc0356c553822d8ab2">&#9670;&#160;</a></span>RandomMovementGenerator</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../d1/d14/a10585.html">RandomMovementGenerator</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a4a14102e019aa10f41b050054cacca22" name="a4a14102e019aa10f41b050054cacca22"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4a14102e019aa10f41b050054cacca22">&#9670;&#160;</a></span>_nextGuid</h2>
+<a id="a529db8859c0c9713bcc2f62459bbcc9f" name="a529db8859c0c9713bcc2f62459bbcc9f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a529db8859c0c9713bcc2f62459bbcc9f">&#9670;&#160;</a></span>_currentCell</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -417,17 +336,41 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> ObjectGuidGeneratorBase::_nextGuid</td>
+          <td class="memname"><a class="el" href="../../de/dae/a09597.html">Cell</a> MovableMapObject::_currentCell</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00306">ObjectGuidGenerator&lt; high &gt;::Generate()</a>, <a class="el" href="../../#l00291">GetNextAfterMaxUsed()</a>, and <a class="el" href="../../#l00289">Set()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00429">GetCurrentCell()</a>, and <a class="el" href="../../#l00432">SetCurrentCell()</a>.</p>
+
+</div>
+</div>
+<a id="a6782d8e3dc7de58ef83a83cf0a355e43" name="a6782d8e3dc7de58ef83a83cf0a355e43"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6782d8e3dc7de58ef83a83cf0a355e43">&#9670;&#160;</a></span>_moveState</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/dc8/a02264.html#a1833d9b1810b160d0c00f297af237b07">MapObjectCellMoveState</a> MovableMapObject::_moveState {<a class="el" href="../../d7/dc8/a02264.html#a1833d9b1810b160d0c00f297af237b07afb882558defaa808483ae0d24e1d12e1">MAP_OBJECT_CELL_MOVE_NONE</a>}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l00911">Map::AddCreatureToMoveList()</a>, <a class="el" href="../../#l00937">Map::AddDynamicObjectToMoveList()</a>, <a class="el" href="../../#l00924">Map::AddGameObjectToMoveList()</a>, <a class="el" href="../../#l00950">Map::MoveAllCreaturesInMoveList()</a>, <a class="el" href="../../#l01019">Map::MoveAllDynamicObjectsInMoveList()</a>, <a class="el" href="../../#l00984">Map::MoveAllGameObjectsInMoveList()</a>, <a class="el" href="../../#l00918">Map::RemoveCreatureFromMoveList()</a>, <a class="el" href="../../#l00944">Map::RemoveDynamicObjectFromMoveList()</a>, and <a class="el" href="../../#l00931">Map::RemoveGameObjectFromMoveList()</a>.</p>
 
 </div>
 </div>
@@ -436,8 +379,8 @@ Protected Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/d82/a08921.html">ObjectGuidGeneratorBase</a></li>
-    <li class="footer">Generated on Mon Oct 19 2026 23:57:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/d82/a08921.html">MovableMapObject</a></li>
+    <li class="footer">Generated on Tue Nov 10 2026 02:55:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

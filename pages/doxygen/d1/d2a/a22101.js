@@ -1,8 +1,9 @@
 var a22101 =
 [
-    [ "npc_ravenous_worgAI", "d1/d2a/a22101.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "d1/d2a/a22101.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "d1/d2a/a22101.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "d1/d2a/a22101.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "d1/d2a/a22101.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "npc_mrfloppyAI", "d1/d2a/a22101.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
+    [ "EnterEvadeMode", "d1/d2a/a22101.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
+    [ "JustEngagedWith", "d1/d2a/a22101.html#a490bf07de00cc5c59b5f0024317d8125", null ],
+    [ "MoveInLineOfSight", "d1/d2a/a22101.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
+    [ "Reset", "d1/d2a/a22101.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
+    [ "UpdateAI", "d1/d2a/a22101.html#afad6db1ccd903fd18192f832a10a32f4", null ]
 ];

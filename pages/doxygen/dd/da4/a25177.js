@@ -1,11 +1,10 @@
 var a25177 =
 [
-    [ "spell_gen_relocaste_dest", "dd/da4/a25177.html#a5b839f3bd5571ff3b23701c0cd862568", null ],
-    [ "PrepareSpellScript", "dd/da4/a25177.html#a135638c19c130f43f7f3c3c14f1d1570", null ],
-    [ "Register", "dd/da4/a25177.html#a9fd403a48ac9cec79fdf4ac485bbaa6a", null ],
-    [ "RelocateDest", "dd/da4/a25177.html#a1efeb8d17fa6f7cfd9d098d7e97381d9", null ],
-    [ "_o", "dd/da4/a25177.html#a31ecfa99e580c8fb828c1a4ee988ac94", null ],
-    [ "_x", "dd/da4/a25177.html#aa0d6afcc49e6fa41b6ae37d16e0c25e5", null ],
-    [ "_y", "dd/da4/a25177.html#a0152bc47b5950546d9e9505512ed842b", null ],
-    [ "_z", "dd/da4/a25177.html#a40136ab0219829dfb0dcfe234aa73af7", null ]
+    [ "HandleTickUpdate", "dd/da4/a25177.html#aa9c1d6c644a3e42b21d1025fc3b06f69", null ],
+    [ "PrepareAuraScript", "dd/da4/a25177.html#aa930d63d22acf8e7aebbdd828cd09f36", null ],
+    [ "Register", "dd/da4/a25177.html#abf597eb55f63858528325eef387fc344", null ],
+    [ "SetTickHeal", "dd/da4/a25177.html#a2eabcc9aa3898c11062677eca73d1de1", null ],
+    [ "Validate", "dd/da4/a25177.html#ab59a1830ca97e1bda455da330a894d5c", null ],
+    [ "_baseReduction", "dd/da4/a25177.html#a8a3a8adce3dde9300e380500c6877d37", null ],
+    [ "_baseTick", "dd/da4/a25177.html#acd801570e2a1b274ed0d9e8bcc6b66f0", null ]
 ];

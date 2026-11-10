@@ -1,18 +1,9 @@
 var a10449 =
 [
-    [ "GraveyardContainer", "df/d8c/a10449.html#a21ce8ad954d37b385e339c5247f17ffd", null ],
-    [ "AddGraveyardLink", "df/d8c/a10449.html#ab4884f2b2b4f00dd9ea65c1ceb2af1bb", null ],
-    [ "FindGraveyardData", "df/d8c/a10449.html#a54a4461db550d5383fded30a6ecd0408", null ],
-    [ "GetClosestGraveyard", "df/d8c/a10449.html#af989ee1a2f802a0cb5addf50a0586d63", null ],
-    [ "GetClosestGraveyard", "df/d8c/a10449.html#a27223a5d38806b836be3ff9e25d25378", null ],
-    [ "GetDefaultGraveyard", "df/d8c/a10449.html#ab6ef1306db71eb2f2d72167314d5e1c2", null ],
-    [ "GetGraveyard", "df/d8c/a10449.html#a9909f874812997a16895e81fccff994a", null ],
-    [ "GetGraveyard", "df/d8c/a10449.html#aeb72f07dd677dfe31d0e4b45f2f9ddd6", null ],
-    [ "GetGraveyardData", "df/d8c/a10449.html#ab9ebb6afa55d30e64d460b81f9297f09", null ],
-    [ "instance", "df/d8c/a10449.html#aaaf39d71af738cac8dd427ca94a5689b", null ],
-    [ "LoadGraveyardFromDB", "df/d8c/a10449.html#aff7880b8c557fac494e3b8213a048f32", null ],
-    [ "LoadGraveyardZones", "df/d8c/a10449.html#ac398379a421eabea55729e867d57383f", null ],
-    [ "RemoveGraveyardLink", "df/d8c/a10449.html#af957c28b4ccfc7b1853280b7441c958d", null ],
-    [ "_graveyardStore", "df/d8c/a10449.html#a77fb8dad0ae4ea7af0823c0bcafba787", null ],
-    [ "GraveyardStore", "df/d8c/a10449.html#afe83a8248fa6617b868cadd0699af96e", null ]
+    [ "TransportAnimation", "df/d8c/a10449.html#a775b84b54deefd38af40222afd82d572", null ],
+    [ "GetAnimNode", "df/d8c/a10449.html#a73b56750c90afce38dbf57793bae16f3", null ],
+    [ "GetAnimRotation", "df/d8c/a10449.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
+    [ "Path", "df/d8c/a10449.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
+    [ "Rotations", "df/d8c/a10449.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
+    [ "TotalTime", "df/d8c/a10449.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
 ];

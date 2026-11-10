@@ -1,6 +1,7 @@
 var a20177 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "d4/d90/a20181.html", "d4/d90/a20181" ],
-    [ "instance_halls_of_stone", "d7/d09/a20177.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "d7/d09/a20177.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "HandleEffectRemove", "d7/d09/a20177.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "d7/d09/a20177.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "d7/d09/a20177.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "d7/d09/a20177.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

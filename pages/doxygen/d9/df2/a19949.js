@@ -1,13 +1,13 @@
 var a19949 =
 [
-    [ "npc_oculus_unstable_sphereAI", "d9/df2/a19949.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
-    [ "AttackStart", "d9/df2/a19949.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
-    [ "MoveInLineOfSight", "d9/df2/a19949.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
-    [ "MovementInform", "d9/df2/a19949.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
-    [ "PickNewLocation", "d9/df2/a19949.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
-    [ "Reset", "d9/df2/a19949.html#ac2e391d0149b62823ac9074d45c694cf", null ],
-    [ "UpdateAI", "d9/df2/a19949.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
-    [ "gonext", "d9/df2/a19949.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
-    [ "located", "d9/df2/a19949.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
-    [ "timer", "d9/df2/a19949.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
+    [ "boss_drakosAI", "d9/df2/a19949.html#a75d771095897081457353be898b332c3", null ],
+    [ "JustDied", "d9/df2/a19949.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
+    [ "JustEngagedWith", "d9/df2/a19949.html#a4bc15075d9e9a913783da482a7a167c7", null ],
+    [ "JustSummoned", "d9/df2/a19949.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
+    [ "KilledUnit", "d9/df2/a19949.html#a4bd3e45b45660311d7510f58a1850648", null ],
+    [ "MoveInLineOfSight", "d9/df2/a19949.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
+    [ "Reset", "d9/df2/a19949.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
+    [ "UpdateAI", "d9/df2/a19949.html#abf761c7cda4031c31354d8c8d42963e0", null ],
+    [ "events", "d9/df2/a19949.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
+    [ "pInstance", "d9/df2/a19949.html#adc9461ae5334634a9140f338547688b4", null ]
 ];

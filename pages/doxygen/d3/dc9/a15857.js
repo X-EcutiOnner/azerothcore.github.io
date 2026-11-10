@@ -1,6 +1,8 @@
 var a15857 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d6/d7d/a15861.html", "d6/d7d/a15861" ],
-    [ "instance_temple_of_ahnqiraj", "d3/dc9/a15857.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
-    [ "GetInstanceScript", "d3/dc9/a15857.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
+    [ "boss_veklor", "d3/dc9/a15857.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d3/dc9/a15857.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d3/dc9/a15857.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d3/dc9/a15857.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d3/dc9/a15857.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

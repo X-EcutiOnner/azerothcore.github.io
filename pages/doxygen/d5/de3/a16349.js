@@ -1,5 +1,7 @@
 var a16349 =
 [
-    [ "go_elune_fire", "d5/de3/a16349.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "d5/de3/a16349.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "npc_ameAI", "da/dcf/a16353.html", "da/dcf/a16353" ],
+    [ "npc_ame", "d5/de3/a16349.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "d5/de3/a16349.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "d5/de3/a16349.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

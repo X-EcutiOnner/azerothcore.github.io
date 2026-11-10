@@ -1,7 +1,29 @@
 var a08593 =
 [
-    [ "entry", "d0/d09/a08593.html#aabf7002fbd171e7f1832be5f066dbe44", null ],
-    [ "pos", "d0/d09/a08593.html#aad6aa76796625075e4fcfb7d1a3eb88c", null ],
-    [ "time", "d0/d09/a08593.html#a8a38eed04cdb2efb89e98f869e0d800d", null ],
-    [ "type", "d0/d09/a08593.html#a40927a435b557e4c1e5c5eedbb5d5e5b", null ]
+    [ "CreatureGroupMemberType", "d0/d09/a08593.html#a0c8f7d4ceda056e0d39d80d434e4feca", null ],
+    [ "CreatureGroup", "d0/d09/a08593.html#aa5016e1ecda1477992e159bf604e4280", null ],
+    [ "~CreatureGroup", "d0/d09/a08593.html#a16be792f604999ba80b361b59ea77a76", null ],
+    [ "AddMember", "d0/d09/a08593.html#afca7fafddd0f361507469f875bf5d17c", null ],
+    [ "CanLeaderStartMoving", "d0/d09/a08593.html#ab6371dfdcceb23f52935a8aee833a381", null ],
+    [ "DespawnFormation", "d0/d09/a08593.html#a07388907629846288949a5a896d0c00d", null ],
+    [ "FormationReset", "d0/d09/a08593.html#a1b206e69df855ed13f3b687017474a1a", null ],
+    [ "GetId", "d0/d09/a08593.html#a0d67df48ef040fc8f14b1ddf307aed14", null ],
+    [ "GetLeader", "d0/d09/a08593.html#a160d77342c8e11d97f66def5ff795929", null ],
+    [ "GetMembers", "d0/d09/a08593.html#a466b2270725b39e2c4d5dbdee7e68ef4", null ],
+    [ "GetNewTargetForMember", "d0/d09/a08593.html#af6204f37e817c59cd556d76a5a19bf77", null ],
+    [ "IsAnyMemberAlive", "d0/d09/a08593.html#adf09b1ad9b9f48f56ea1f2e0e6579689", null ],
+    [ "IsEmpty", "d0/d09/a08593.html#ad88320d89fba23f6cdf5fd0b4de33c18", null ],
+    [ "IsFormationInCombat", "d0/d09/a08593.html#a6e2dc8bde0b1c0db11bb04f31dafe96d", null ],
+    [ "IsFormed", "d0/d09/a08593.html#a60d646229e75ac6bf0be825f43e7368c", null ],
+    [ "LeaderStartedMoving", "d0/d09/a08593.html#a8f7f63a7244479625dd66ec27366d040", null ],
+    [ "MemberEngagingTarget", "d0/d09/a08593.html#a9964d390c9276d3e058c20afc6932367", null ],
+    [ "MemberEvaded", "d0/d09/a08593.html#a2547bae861879c20724c1d04db55e88a", null ],
+    [ "RemoveFormationMovement", "d0/d09/a08593.html#a93f43557cae43ebe978fc4a25c1d10a5", null ],
+    [ "RemoveMember", "d0/d09/a08593.html#a8080ff17f223119659870c49db3ae6d9", null ],
+    [ "RespawnFormation", "d0/d09/a08593.html#a4777b1e1b5a4d084ba0648917b372c47", null ],
+    [ "RespawnRemovedMembers", "d0/d09/a08593.html#a057e75c268c0344603e9732637a2c79f", null ],
+    [ "m_Formed", "d0/d09/a08593.html#a2215d3dc155916d657c499fac6d4ce3e", null ],
+    [ "m_groupID", "d0/d09/a08593.html#afd1a31d9316e6cca399bea0e328b8333", null ],
+    [ "m_leader", "d0/d09/a08593.html#ae9689e23f755a12f1be14601bb2f2677", null ],
+    [ "m_members", "d0/d09/a08593.html#a63805a04ef3ef80270ae7e7d03014d83", null ]
 ];

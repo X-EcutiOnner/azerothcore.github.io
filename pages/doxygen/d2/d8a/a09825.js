@@ -1,10 +1,10 @@
 var a09825 =
 [
-    [ "MostHPPercentMissingInRange", "d2/d8a/a09825.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
-    [ "operator()", "d2/d8a/a09825.html#ab1734490a3db95ad715756e85ecfaf77", null ],
-    [ "i_hpPct", "d2/d8a/a09825.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
-    [ "i_maxHpPct", "d2/d8a/a09825.html#afd12795ef0cd99e05e4e21f869582416", null ],
-    [ "i_minHpPct", "d2/d8a/a09825.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
-    [ "i_obj", "d2/d8a/a09825.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
-    [ "i_range", "d2/d8a/a09825.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
+    [ "AnyDeadUnitSpellTargetInRangeCheck", "d2/d8a/a09825.html#a212c308a02716ff382e820e86e233ed3", null ],
+    [ "operator()", "d2/d8a/a09825.html#af328df880d17a62e2dbed0ff4231fc39", null ],
+    [ "operator()", "d2/d8a/a09825.html#adcc69b9ef03a68aa235e40449a80b701", null ],
+    [ "operator()", "d2/d8a/a09825.html#a2f2483cf7078681cb3acf28560e61184", null ],
+    [ "operator()", "d2/d8a/a09825.html#aba0bf4c320a684b68743a06e724a369e", null ],
+    [ "i_check", "d2/d8a/a09825.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
+    [ "i_spellInfo", "d2/d8a/a09825.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
 ];

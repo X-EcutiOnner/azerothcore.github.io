@@ -1,5 +1,6 @@
 var a28357 =
 [
-    [ "go_ethereum_prison", "de/dd3/a28357.html#a1872dab11a8470194ab35f87e217aa8a", null ],
-    [ "OnGossipHello", "de/dd3/a28357.html#a73479b0512ea778336fad4bd5cd9b909", null ]
+    [ "boss_taerarAI", "de/d32/a28361.html", "de/d32/a28361" ],
+    [ "boss_taerar", "de/dd3/a28357.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "de/dd3/a28357.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

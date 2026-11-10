@@ -1,7 +1,6 @@
 var a16705 =
 [
-    [ "npc_orb_carrierAI", "dd/d9a/a16705.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "dd/d9a/a16705.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "dd/d9a/a16705.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "dd/d9a/a16705.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "SendEncounterUnit", "dd/d9a/a16705.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "dd/d9a/a16705.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "dd/d9a/a16705.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

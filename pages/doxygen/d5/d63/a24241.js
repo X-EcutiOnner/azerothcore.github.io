@@ -1,10 +1,6 @@
 var a24241 =
 [
-    [ "npc_wounded_blood_elfAI", "d5/d63/a24241.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d5/d63/a24241.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d5/d63/a24241.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d5/d63/a24241.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d5/d63/a24241.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d5/d63/a24241.html#a5affcb00e28a582f8926ab2226001cd0", null ],
-    [ "WaypointReached", "d5/d63/a24241.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "dd/dc8/a24245.html", "dd/dc8/a24245" ],
+    [ "npc_oscillating_frequency_scanner_master_bunny", "d5/d63/a24241.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
+    [ "GetAI", "d5/d63/a24241.html#a60d55e2eda4484ceea4e475ac8653977", null ]
 ];

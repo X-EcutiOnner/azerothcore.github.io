@@ -1,7 +1,9 @@
 var a13997 =
 [
-    [ "PeriodicTick", "d4/d33/a13997.html#acca46d585d06d461f735cddb6075b3b1", null ],
-    [ "PrepareAuraScript", "d4/d33/a13997.html#abd7382ab22efd3d82c4f00745255d024", null ],
-    [ "Register", "d4/d33/a13997.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
-    [ "Validate", "d4/d33/a13997.html#acb31ba162452a30ff0c208829560f9fd", null ]
+    [ "boss_muru", "d4/d33/a13997.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
+    [ "DamageTaken", "d4/d33/a13997.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
+    [ "JustEngagedWith", "d4/d33/a13997.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
+    [ "JustSummoned", "d4/d33/a13997.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
+    [ "MoveInLineOfSight", "d4/d33/a13997.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
+    [ "Reset", "d4/d33/a13997.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
 ];

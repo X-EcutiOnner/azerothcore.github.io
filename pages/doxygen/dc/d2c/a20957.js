@@ -1,8 +1,7 @@
 var a20957 =
 [
-    [ "boss_thorim_pillar", "dc/d2c/a20957.html#aec2fc6e420499c9ce991753b912bef1e", null ],
-    [ "Reset", "dc/d2c/a20957.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
-    [ "SpellHit", "dc/d2c/a20957.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
-    [ "UpdateAI", "dc/d2c/a20957.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
-    [ "_resetTimer", "dc/d2c/a20957.html#ac9c8ef8622496593b5f91611d22120b3", null ]
+    [ "boss_thorim_trap", "dc/d2c/a20957.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
+    [ "Reset", "dc/d2c/a20957.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
+    [ "UpdateAI", "dc/d2c/a20957.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
+    [ "_checkTimer", "dc/d2c/a20957.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
 ];

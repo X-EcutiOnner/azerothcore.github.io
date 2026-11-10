@@ -1,4 +1,5 @@
 var a28829 =
 [
-    [ "go_necropolis", "df/daf/a28829.html#aef477499aefa5340db97538a8f3a3cca", null ]
+    [ "npc_stable_masterAI", "df/daf/a28829.html#a5c6f9bca1004af163ddb074b606330be", null ],
+    [ "sGossipSelect", "df/daf/a28829.html#a09205661674dd011ffe425deaadde053", null ]
 ];

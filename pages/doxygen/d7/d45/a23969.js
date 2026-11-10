@@ -1,7 +1,6 @@
 var a23969 =
 [
-    [ "boss_warp_splinter", "d7/d45/a23969.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "d7/d45/a23969.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "d7/d45/a23969.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "d7/d45/a23969.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d9/dcb/a23973.html", "d9/dcb/a23973" ],
+    [ "instance_arcatraz", "d7/d45/a23969.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "d7/d45/a23969.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

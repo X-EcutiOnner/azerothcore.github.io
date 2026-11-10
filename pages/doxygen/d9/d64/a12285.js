@@ -1,6 +1,12 @@
 var a12285 =
 [
-    [ "cooldown", "d9/d64/a12285.html#affc13f6cd029447df6cb1db56df42147", null ],
-    [ "playerOnly", "d9/d64/a12285.html#a183ae9fd6863cbc9afe1f690c87f54e2", null ],
-    [ "triggerChance", "d9/d64/a12285.html#a3430fbb945b281cb5c2820130d4444a8", null ]
+    [ "BroadcastTextBuilder", "d9/d64/a12285.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
+    [ "operator()", "d9/d64/a12285.html#a16f9719278e00013c25902846fa1be5b", null ],
+    [ "operator()", "d9/d64/a12285.html#ac87701626dddffb6b09bf504b97c4d55", null ],
+    [ "_achievementId", "d9/d64/a12285.html#a82de25331657b17ce0de33f2b374abda", null ],
+    [ "_gender", "d9/d64/a12285.html#a71032b0749dd75f552107503528e8166", null ],
+    [ "_msgType", "d9/d64/a12285.html#a232325cefa217843da5cc6db7e5d80fe", null ],
+    [ "_source", "d9/d64/a12285.html#ab73315225b3aa36a309f45596f7089f4", null ],
+    [ "_target", "d9/d64/a12285.html#a958b154f3c82188e9684be0f0b7dae56", null ],
+    [ "_textId", "d9/d64/a12285.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
 ];

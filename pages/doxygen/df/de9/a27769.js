@@ -1,6 +1,8 @@
 var a27769 =
 [
-    [ "CheckProc", "df/de9/a27769.html#a705be9d078a9c7b04bcec0594cab9ac5", null ],
-    [ "PrepareAuraScript", "df/de9/a27769.html#a68fd79f1f62bcc748f9cce4423632f7f", null ],
-    [ "Register", "df/de9/a27769.html#acac1c6d063090bf191fcd202d7d07c20", null ]
+    [ "CheckProc", "df/de9/a27769.html#a9fedf04ae5a49ad2f2b0c9f34f5813f6", null ],
+    [ "HandleProc", "df/de9/a27769.html#ad41f37b773e528385151f8059974b821", null ],
+    [ "PrepareAuraScript", "df/de9/a27769.html#acd65db816c8562108272e6849481f0ca", null ],
+    [ "Register", "df/de9/a27769.html#a56d85b502b6660ab4ecccc92dd799720", null ],
+    [ "Validate", "df/de9/a27769.html#aa722dde17ef9142578d50b19b8c4c8e5", null ]
 ];

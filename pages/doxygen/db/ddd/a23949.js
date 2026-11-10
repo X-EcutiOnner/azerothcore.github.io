@@ -1,7 +1,8 @@
 var a23949 =
 [
-    [ "HandleCast", "db/ddd/a23949.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "db/ddd/a23949.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "db/ddd/a23949.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "db/ddd/a23949.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "HandleEffectApply", "db/ddd/a23949.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
+    [ "HandleEffectRemove", "db/ddd/a23949.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
+    [ "PrepareAuraScript", "db/ddd/a23949.html#a438a8ba3688e0832853bae4183695494", null ],
+    [ "Register", "db/ddd/a23949.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
+    [ "Validate", "db/ddd/a23949.html#ab07b244e53b397bc9e9842655617a80d", null ]
 ];

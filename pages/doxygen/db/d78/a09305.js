@@ -1,9 +1,6 @@
 var a09305 =
 [
-    [ "GameEventAIHookWorker", "db/d78/a09305.html#ad72640a18d2d32a9201c965089ee49cf", null ],
-    [ "Visit", "db/d78/a09305.html#a23d979ee43838e7d58e9123e36474a5a", null ],
-    [ "Visit", "db/d78/a09305.html#a79106ec550d072d690bbf3496d76cb0a", null ],
-    [ "Visit", "db/d78/a09305.html#a165476edd8b252bbb90b8b78fae963a6", null ],
-    [ "_activate", "db/d78/a09305.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
-    [ "_eventId", "db/d78/a09305.html#ab1ee68bb7134e84780772eba2cfac766", null ]
+    [ "BuildValuesCachedBuffer", "db/d78/a09305.html#a87a3167ae060c8556700e4a137294053", null ],
+    [ "buffer", "db/d78/a09305.html#add7150533a48434b0e606add9cff04d2", null ],
+    [ "posPointers", "db/d78/a09305.html#affa098684782f15383a7df063b178cf1", null ]
 ];

@@ -1,5 +1,9 @@
 var a13397 =
 [
-    [ "at_karazhan_mirkblood_approach", "dc/d3c/a13397.html#a032600991e9fc1aaf026adf2e63314e5", null ],
-    [ "OnTrigger", "dc/d3c/a13397.html#aaece848faa4f1086ac0b16802a1e765e", null ]
+    [ "FilterTargets", "dc/d3c/a13397.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "dc/d3c/a13397.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "dc/d3c/a13397.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "dc/d3c/a13397.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "dc/d3c/a13397.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "dc/d3c/a13397.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

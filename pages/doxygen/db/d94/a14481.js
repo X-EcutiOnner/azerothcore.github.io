@@ -1,7 +1,7 @@
 var a14481 =
 [
-    [ "npc_zuljin_vortex", "db/d94/a14481.html#af3af996adc0a0dba4af992234f8356fb", null ],
-    [ "ChangeToNewPlayer", "db/d94/a14481.html#ab353794ef978151999fdd2294783e757", null ],
-    [ "Reset", "db/d94/a14481.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
-    [ "UpdateAI", "db/d94/a14481.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
+    [ "HandleDispel", "db/d94/a14481.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "db/d94/a14481.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "db/d94/a14481.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "db/d94/a14481.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

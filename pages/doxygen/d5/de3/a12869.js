@@ -1,6 +1,6 @@
 var a12869 =
 [
-    [ "RestoreAttack", "d5/de3/a12869.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
-    [ "Execute", "d5/de3/a12869.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
-    [ "_boss", "d5/de3/a12869.html#a493ef909da834b0befd90f57f54fb10c", null ]
+    [ "boss_hedrum", "d5/de3/a12869.html#adf610c943b7644aa2805934f54571492", null ],
+    [ "JustEngagedWith", "d5/de3/a12869.html#a18dd15e991417b68569b5a0e93499c0f", null ],
+    [ "UpdateAI", "d5/de3/a12869.html#a4af57f4f6d8bdaf1017788f343b5439d", null ]
 ];

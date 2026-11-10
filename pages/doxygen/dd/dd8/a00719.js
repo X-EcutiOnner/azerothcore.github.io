@@ -1,6 +1,4 @@
 var a00719 =
 [
-    [ "GetDefaultNetmaskV4", "dd/dd8/a00719.html#af75b2c10ca445dc89c53b7ed8d17eae0", null ],
-    [ "IsInNetwork", "dd/dd8/a00719.html#af108d05a57113d16ab9c8f3b26870be2", null ],
-    [ "IsInNetwork", "dd/dd8/a00719.html#a2617cb1c747a45e5af4e2c32cc29d5de", null ]
+    [ "Acore::Asio::Resolver", "dc/d46/a05293.html", "dc/d46/a05293" ]
 ];

@@ -1,7 +1,8 @@
 var a11545 =
 [
-    [ "TrainerBuySpell", "dd/d2f/a11545.html#a8afb92fb908d5efd54bcb78269069d39", null ],
-    [ "Read", "dd/d2f/a11545.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
-    [ "SpellID", "dd/d2f/a11545.html#ae342c806c8faabae54260a26659d49ea", null ],
-    [ "TrainerGUID", "dd/d2f/a11545.html#aca1d9dc89b96415a5065a67f7083423c", null ]
+    [ "CrossedInebriationThreshold", "dd/d2f/a11545.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
+    [ "Write", "dd/d2f/a11545.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
+    [ "Guid", "dd/d2f/a11545.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
+    [ "ItemID", "dd/d2f/a11545.html#a9e48a650bf21872099cdb0626e875fd7", null ],
+    [ "Threshold", "dd/d2f/a11545.html#a87b756b64cbfb8f292f46cce38308095", null ]
 ];

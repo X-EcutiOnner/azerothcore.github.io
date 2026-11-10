@@ -1,6 +1,9 @@
 var a14005 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "d1/d23/a14009.html", "d1/d23/a14009" ],
-    [ "instance_sunwell_plateau", "d6/d25/a14005.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
-    [ "GetInstanceScript", "d6/d25/a14005.html#a5960785a845c87e2e1730cfd865b44b4", null ]
+    [ "npc_dark_fiend", "d6/d25/a14005.html#a8c4ebf7ba2f991df7053d40108330609", null ],
+    [ "DamageTaken", "d6/d25/a14005.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
+    [ "Reset", "d6/d25/a14005.html#a5622d14f84ad8e47da773852f1778d56", null ],
+    [ "UpdateAI", "d6/d25/a14005.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
+    [ "_lastVictimGUID", "d6/d25/a14005.html#abcccb35701f21d417e3c13709cc24281", null ],
+    [ "_spellCast", "d6/d25/a14005.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
 ];

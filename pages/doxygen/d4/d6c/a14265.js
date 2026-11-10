@@ -1,7 +1,7 @@
 var a14265 =
 [
-    [ "HandleEffectApply", "d4/d6c/a14265.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "d4/d6c/a14265.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "d4/d6c/a14265.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "d4/d6c/a14265.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "HandleScriptEffect", "d4/d6c/a14265.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "d4/d6c/a14265.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "d4/d6c/a14265.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "d4/d6c/a14265.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

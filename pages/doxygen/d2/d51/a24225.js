@@ -1,11 +1,6 @@
 var a24225 =
 [
-    [ "npc_aeranasAI", "d2/d51/a24225.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "JustReachedHome", "d2/d51/a24225.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
-    [ "Reset", "d2/d51/a24225.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d2/d51/a24225.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "_defeated", "d2/d51/a24225.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
-    [ "envelopingWinds_Timer", "d2/d51/a24225.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d2/d51/a24225.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d2/d51/a24225.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "npc_simon_bunnyAI", "d3/db5/a24229.html", "d3/db5/a24229" ],
+    [ "npc_simon_bunny", "d2/d51/a24225.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "d2/d51/a24225.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

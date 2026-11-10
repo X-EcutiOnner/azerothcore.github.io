@@ -1,6 +1,8 @@
 var a19713 =
 [
-    [ "boss_nothAI", "de/d23/a19717.html", "de/d23/a19717" ],
-    [ "boss_noth", "d1/dc9/a19713.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
-    [ "GetAI", "d1/dc9/a19713.html#a534f30792c051ab44c6c07c9347893e5", null ]
+    [ "boss_maexxna_webwrapAI", "d1/dc9/a19713.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "d1/dc9/a19713.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "d1/dc9/a19713.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "d1/dc9/a19713.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "d1/dc9/a19713.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

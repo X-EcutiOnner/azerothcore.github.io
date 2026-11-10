@@ -1,5 +1,5 @@
 var a28493 =
 [
-    [ "go_table_theka", "d7/dab/a28493.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "d7/dab/a28493.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "go_southfury_moonstone", "d7/dab/a28493.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
+    [ "OnGossipHello", "d7/dab/a28493.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
 ];

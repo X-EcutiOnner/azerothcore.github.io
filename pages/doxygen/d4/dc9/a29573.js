@@ -1,5 +1,5 @@
 var a29573 =
 [
-    [ "Duration", "d4/dc9/a29573.html#a20417b0f394c08c779fd3851c2cde87d", null ],
-    [ "ID", "d4/dc9/a29573.html#a04f9304093a15b4b7f6596993f2e86d9", null ]
+    [ "CastTime", "d4/dc9/a29573.html#af0bf895b1a5d61974cb63230b786c55e", null ],
+    [ "ID", "d4/dc9/a29573.html#a41b1059fc4059bd198925861a9414497", null ]
 ];

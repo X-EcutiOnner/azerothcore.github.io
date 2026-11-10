@@ -1,6 +1,6 @@
 var a15569 =
 [
-    [ "npc_idol_room_spawnerAI", "da/d24/a15573.html", "da/d24/a15573" ],
-    [ "npc_idol_room_spawner", "dc/d2e/a15569.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
-    [ "GetAI", "dc/d2e/a15569.html#a3017caa645e98a7647ec42a43c025624", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "da/d24/a15573.html", "da/d24/a15573" ],
+    [ "instance_onyxias_lair", "dc/d2e/a15569.html#a1be32e45cb8af86477d300efb6e545cc", null ],
+    [ "GetInstanceScript", "dc/d2e/a15569.html#ae1aa7d430a2adbd80d9f7683100e6430", null ]
 ];

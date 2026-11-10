@@ -1,6 +1,6 @@
 var a24121 =
 [
-    [ "HandleAfterRemove", "d1/dfd/a24121.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "d1/dfd/a24121.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "d1/dfd/a24121.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "HandleScriptEffect", "d1/dfd/a24121.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
+    [ "PrepareSpellScript", "d1/dfd/a24121.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
+    [ "Register", "d1/dfd/a24121.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
 ];

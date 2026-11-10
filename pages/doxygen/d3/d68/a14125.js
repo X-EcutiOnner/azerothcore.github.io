@@ -1,10 +1,11 @@
 var a14125 =
 [
-    [ "npc_sentinel_leader", "d3/d68/a14125.html#a583c43b047dd5c172938d60ef647ecd5", null ],
-    [ "JustEngagedWith", "d3/d68/a14125.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
-    [ "MovementInform", "d3/d68/a14125.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
-    [ "Reset", "d3/d68/a14125.html#ad638ba6ce33753af6a0165c053a90d78", null ],
-    [ "UpdateAI", "d3/d68/a14125.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
-    [ "_events", "d3/d68/a14125.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
-    [ "_helpCalled", "d3/d68/a14125.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
+    [ "npc_balance_of_light_and_shadowAI", "d3/d68/a14125.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
+    [ "CanBeSeen", "d3/d68/a14125.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
+    [ "JustDied", "d3/d68/a14125.html#ae862f8763614a98dae6b982414caf30a", null ],
+    [ "MovementInform", "d3/d68/a14125.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
+    [ "SpellHit", "d3/d68/a14125.html#abfddfff72b63fd05673584915d647958", null ],
+    [ "UpdateAI", "d3/d68/a14125.html#a540e3c28cc36917cde0153dd372d0287", null ],
+    [ "_targetGUID", "d3/d68/a14125.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
+    [ "timer", "d3/d68/a14125.html#a204e0a809e9c392f20ec900e9a90a075", null ]
 ];

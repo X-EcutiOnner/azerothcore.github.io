@@ -1,12 +1,11 @@
 var a23165 =
 [
-    [ "npc_creature_generator_akama", "de/d80/a23165.html#a8e91cadea7f135ff692635e4d39923e0", null ],
-    [ "DoAction", "de/d80/a23165.html#a01efeecd374056da287e4a1e468472b6", null ],
-    [ "JustSummoned", "de/d80/a23165.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
-    [ "Reset", "de/d80/a23165.html#a23cf08661802f247147bb23cff30eeab", null ],
-    [ "SummonedCreatureDies", "de/d80/a23165.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
-    [ "UpdateAI", "de/d80/a23165.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
-    [ "instance", "de/d80/a23165.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
-    [ "spawnCounter", "de/d80/a23165.html#a02d8acace195438fe6e8d4705a043078", null ],
-    [ "summons", "de/d80/a23165.html#a3d532e607c48298ca0464ee630dd27b3", null ]
+    [ "boss_essence_of_angerAI", "de/d80/a23165.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "de/d80/a23165.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "de/d80/a23165.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "de/d80/a23165.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "de/d80/a23165.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "de/d80/a23165.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "de/d80/a23165.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "targetGUID", "de/d80/a23165.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

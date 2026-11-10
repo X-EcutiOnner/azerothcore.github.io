@@ -1,7 +1,6 @@
 var a14877 =
 [
-    [ "FilterTargets", "d8/de2/a14877.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
-    [ "HandleDummy", "d8/de2/a14877.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
-    [ "PrepareSpellScript", "d8/de2/a14877.html#a6ac4db072beae6ae7a700774667da613", null ],
-    [ "Register", "d8/de2/a14877.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
+    [ "CheckItem", "d8/de2/a14877.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
+    [ "PrepareSpellScript", "d8/de2/a14877.html#a0fa160f1218cf838444f894716cb8aed", null ],
+    [ "Register", "d8/de2/a14877.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
 ];

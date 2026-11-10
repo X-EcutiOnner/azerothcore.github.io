@@ -1,6 +1,9 @@
 var a11029 =
 [
-    [ "BuyBankSlotResult", "d3/d39/a11029.html#a93b60814becc451c38f06f9702a9e027", null ],
-    [ "Write", "d3/d39/a11029.html#a55a6609863b0d3ef966f222526268acb", null ],
-    [ "Result", "d3/d39/a11029.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
+    [ "fX", "d3/d39/a11029.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "d3/d39/a11029.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "d3/d39/a11029.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "d3/d39/a11029.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "d3/d39/a11029.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "d3/d39/a11029.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

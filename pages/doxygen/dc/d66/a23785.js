@@ -1,6 +1,20 @@
 var a23785 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "dc/d0d/a23789.html", "dc/d0d/a23789" ],
-    [ "instance_hellfire_ramparts", "dc/d66/a23785.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "dc/d66/a23785.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "dc/d66/a23785.html#adb0173cb42642836f7734d8b0fb3e98f", null ],
+    [ "ActivateCell", "dc/d66/a23785.html#abd718216778850455c758d79a5866958", null ],
+    [ "ActivatePrisoners", "dc/d66/a23785.html#a18488afb78747a35ce7e3b4b9a2468b5", null ],
+    [ "GetGuidData", "dc/d66/a23785.html#af7f6acc97bf16f4d31236dcbb2d94007", null ],
+    [ "Initialize", "dc/d66/a23785.html#a3441a24486ec686d42b7320e6f105139", null ],
+    [ "OnCreatureCreate", "dc/d66/a23785.html#ac58da5acec155e596791464c48f29773", null ],
+    [ "OnGameObjectCreate", "dc/d66/a23785.html#a3894ce1d0dff79cee2ff0df51d19e1ea", null ],
+    [ "OnUnitDeath", "dc/d66/a23785.html#a78b07bfe30c7f329046ff572f783c4b9", null ],
+    [ "PrisonerDied", "dc/d66/a23785.html#a16315f7921b1960c7720f855cdddee96", null ],
+    [ "ResetPrisoner", "dc/d66/a23785.html#a57f58c502b5fb2064307adb8c4976979", null ],
+    [ "ResetPrisoners", "dc/d66/a23785.html#ac46b0ed98e69ac0d5b8582bb21a81dc8", null ],
+    [ "ResetPrisons", "dc/d66/a23785.html#a728bbc185bb91cf024f8ff3bd878a10e", null ],
+    [ "SetBossState", "dc/d66/a23785.html#aad428e00762795d8f817d6cfa25505fe", null ],
+    [ "StorePrisoner", "dc/d66/a23785.html#ade72b3e7a2129b8a4f722990aef5ac5f", null ],
+    [ "_prisonerCounter", "dc/d66/a23785.html#a50c371edc425191f610a0e8a6b44d2ab", null ],
+    [ "_prisonersCell", "dc/d66/a23785.html#a3492a327f4c0d637fd5701f3997c1887", null ],
+    [ "_prisonGUIDs", "dc/d66/a23785.html#a9a737e495b638ec65fbd306c6aa0267c", null ]
 ];

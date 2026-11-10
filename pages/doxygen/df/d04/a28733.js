@@ -1,6 +1,6 @@
 var a28733 =
 [
-    [ "npc_guardianAI", "d5/d50/a28737.html", "d5/d50/a28737" ],
-    [ "npc_guardian", "df/d04/a28733.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "df/d04/a28733.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "npc_dancing_flamesAI", "d5/d50/a28737.html", "d5/d50/a28737" ],
+    [ "npc_dancing_flames", "df/d04/a28733.html#adec0401f876ddf159f28fdda8bc4d563", null ],
+    [ "GetAI", "df/d04/a28733.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
 ];

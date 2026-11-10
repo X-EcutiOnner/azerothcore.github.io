@@ -1,10 +1,10 @@
 var a15325 =
 [
-    [ "npc_hyjal_frost_wyrm", "d2/d24/a15325.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d2/d24/a15325.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d2/d24/a15325.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d2/d24/a15325.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d2/d24/a15325.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d2/d24/a15325.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d2/d24/a15325.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "hyjalJainaAI", "d2/d24/a15325.html#aa7532b691e85fd9bd467e20db39c59da", null ],
+    [ "IsSummonedBy", "d2/d24/a15325.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
+    [ "JustDied", "d2/d24/a15325.html#a605687080e5149b3f08ce8349ba9b336", null ],
+    [ "JustEngagedWith", "d2/d24/a15325.html#a187efe775b1e2a35637638507e77352e", null ],
+    [ "PathEndReached", "d2/d24/a15325.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
+    [ "Reset", "d2/d24/a15325.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
+    [ "UpdateAI", "d2/d24/a15325.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
 ];

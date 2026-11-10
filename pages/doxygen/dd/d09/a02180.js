@@ -1,6 +1,7 @@
 var a02180 =
 [
-    [ "GenerateEnchSuffixFactor", "dd/d09/a02180.html#a25026e783b088b45eebd4db8295b1b87", null ],
-    [ "GetItemEnchantMod", "dd/d09/a02180.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
-    [ "LoadRandomEnchantmentsTable", "dd/d09/a02180.html#a376fabf7bba54eaf928217f860f1c33b", null ]
+    [ "LoadLoot", "dd/d09/a02180.html#a5cfec6830ed2be92b527fd22346743a7", null ],
+    [ "RecoveryEnchantmentSlots", "dd/d09/a02180.html#a724841dbfbac618ae98e900a7984a69e", null ],
+    [ "RestoredIds", "dd/d09/a02180.html#a82b8389d93602d2b860afb2dee56ea6e", null ],
+    [ "RestoredIdsLock", "dd/d09/a02180.html#a7a2a83445fcc2c34acc8dea47217cb5f", null ]
 ];

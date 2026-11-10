@@ -1,8 +1,5 @@
 var a12893 =
 [
-    [ "boss_highlord_omokk", "d9/de4/a12893.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
-    [ "JustDied", "d9/de4/a12893.html#a2a8931227eb65759ceebd27919976cb5", null ],
-    [ "JustEngagedWith", "d9/de4/a12893.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
-    [ "Reset", "d9/de4/a12893.html#ada6bf702dc1827e60b558b4fb752b789", null ],
-    [ "UpdateAI", "d9/de4/a12893.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
+    [ "boss_gloomrel", "d9/de4/a12893.html#a2fe4ce0ddf75725dcb388a346ee13af8", null ],
+    [ "sGossipSelect", "d9/de4/a12893.html#a28b2c02b2a4195c90ce313324f056131", null ]
 ];

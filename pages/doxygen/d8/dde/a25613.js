@@ -1,6 +1,5 @@
 var a25613 =
 [
-    [ "CheckRequirement", "d8/dde/a25613.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
-    [ "PrepareSpellScript", "d8/dde/a25613.html#aebb88f5ea803a590a099e4e6427d8276", null ],
-    [ "Register", "d8/dde/a25613.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
+    [ "PrepareSpellScript", "d8/dde/a25613.html#a096abf53c6e622875c463060e986b5ef", null ],
+    [ "Register", "d8/dde/a25613.html#a68905cc33f09dbb42db67139193530cb", null ]
 ];

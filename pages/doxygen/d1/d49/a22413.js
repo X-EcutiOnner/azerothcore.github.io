@@ -1,4 +1,5 @@
 var a22413 =
 [
-    [ "npc_adventurous_dwarfAI", "d1/d49/a22413.html#af953c5fef2ea8abbf7835b0bc5cf1b23", null ]
+    [ "go_brazier", "d1/d49/a22413.html#a432a07256fde679a889de7ba0f64f092", null ],
+    [ "OnGossipHello", "d1/d49/a22413.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
 ];

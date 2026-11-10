@@ -1,6 +1,7 @@
 var a27185 =
 [
-    [ "HandleDummyEffect", "d2/d56/a27185.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
-    [ "PrepareSpellScript", "d2/d56/a27185.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
-    [ "Register", "d2/d56/a27185.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
+    [ "HandleProc", "d2/d56/a27185.html#af27f9408725ff9c7ec17e8ae352234a9", null ],
+    [ "PrepareAuraScript", "d2/d56/a27185.html#a11c2e125d7a583966be3f8a64064a5ad", null ],
+    [ "Register", "d2/d56/a27185.html#a283f05b3649e3c137679ab92386f7a84", null ],
+    [ "Validate", "d2/d56/a27185.html#a4805c758dc85e065cdb9550a5856fe31", null ]
 ];

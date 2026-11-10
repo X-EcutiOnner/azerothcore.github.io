@@ -1,10 +1,15 @@
 var a15517 =
 [
-    [ "CurrId", "d9/d76/a15517.html#a13ab14a7f8ef49fcbfa72b3c383c902a", null ],
-    [ "DestId", "d9/d76/a15517.html#ab29acec583ffa5055ff17c7216cab1b7", null ],
-    [ "O", "d9/d76/a15517.html#a291850314eca39626b811cdf82eadaca", null ],
-    [ "SpellId", "d9/d76/a15517.html#a98b5a11c4f105696d444222113de4607", null ],
-    [ "X", "d9/d76/a15517.html#a90b233e77c593720f434d78cae72458e", null ],
-    [ "Y", "d9/d76/a15517.html#a03176c6113b5fb3c873dc57e06c27d79", null ],
-    [ "Z", "d9/d76/a15517.html#a921c5e8c4b44edb9466cb59e94ac5441", null ]
+    [ "npc_time_rift", "d9/d76/a15517.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "d9/d76/a15517.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "d9/d76/a15517.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "d9/d76/a15517.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "d9/d76/a15517.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "d9/d76/a15517.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "d9/d76/a15517.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "d9/d76/a15517.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "d9/d76/a15517.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "d9/d76/a15517.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "d9/d76/a15517.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "d9/d76/a15517.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

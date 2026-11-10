@@ -1,10 +1,16 @@
 var a05397 =
 [
-    [ "AreaInfo", "d8/d87/a05397.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
-    [ "adtId", "d8/d87/a05397.html#a95c1c986b14dfeba867fa55e77553499", null ],
-    [ "flags", "d8/d87/a05397.html#a780bdbb606fe694941d2105e14a29d70", null ],
-    [ "ground_Z", "d8/d87/a05397.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
-    [ "groupId", "d8/d87/a05397.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
-    [ "result", "d8/d87/a05397.html#ab9e9a7658d5fb76be208835f786036b0", null ],
-    [ "rootId", "d8/d87/a05397.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
+    [ "operator==", "d8/d87/a05397.html#a74f960a358074ddb87d4e1de48e11e53", null ],
+    [ "baseUnitDim", "d8/d87/a05397.html#a49b023bc34148196590dfd5c42fe49f6", null ],
+    [ "cellSizeHorizontal", "d8/d87/a05397.html#a37b48fdf0ff629ff18e262cf1b74604a", null ],
+    [ "cellSizeVertical", "d8/d87/a05397.html#aa3fa9b9705e7a0b4e514f9a900ed4dcd", null ],
+    [ "maxSimplificationError", "d8/d87/a05397.html#afbd14408be8abc7887e79b766d3fe7a5", null ],
+    [ "padding0", "d8/d87/a05397.html#a756affcba9ba67923634b050be35e2b7", null ],
+    [ "tilesPerMapEdge", "d8/d87/a05397.html#a620f2c8f7dae449054a0c9f7fdbb7bdd", null ],
+    [ "vertexPerMapEdge", "d8/d87/a05397.html#a6a95c1c214c3102d2618eaf3df850232", null ],
+    [ "vertexPerTileEdge", "d8/d87/a05397.html#a88fd7166e3555df1307ad0e1a7dfc8f6", null ],
+    [ "walkableClimb", "d8/d87/a05397.html#a6d1d6f164c716e71d0dff034c9e8042a", null ],
+    [ "walkableHeight", "d8/d87/a05397.html#aaaf165b5e3b8361d37837e6b93609557", null ],
+    [ "walkableRadius", "d8/d87/a05397.html#a16440d4ea4533b065cfa8aac216c275a", null ],
+    [ "walkableSlopeAngle", "d8/d87/a05397.html#af825b2f1f457e551a58f343864e3c100", null ]
 ];

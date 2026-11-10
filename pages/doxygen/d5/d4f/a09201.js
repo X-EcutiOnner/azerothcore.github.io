@@ -1,8 +1,6 @@
 var a09201 =
 [
-    [ "CleanDamage", "d5/d4f/a09201.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "d5/d4f/a09201.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "d5/d4f/a09201.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "d5/d4f/a09201.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "d5/d4f/a09201.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "GlobalCooldown", "d5/d4f/a09201.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
+    [ "cast_time", "d5/d4f/a09201.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
+    [ "duration", "d5/d4f/a09201.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
 ];

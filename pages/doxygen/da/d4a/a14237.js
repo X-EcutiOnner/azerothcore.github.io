@@ -1,7 +1,14 @@
 var a14237 =
 [
-    [ "HandleScriptEffect", "da/d4a/a14237.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "da/d4a/a14237.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "da/d4a/a14237.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "da/d4a/a14237.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "npc_lord_gregor_lescovarAI", "da/d4a/a14237.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
+    [ "DoGuardsDisappearAndDie", "da/d4a/a14237.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
+    [ "EnterEvadeMode", "da/d4a/a14237.html#a95e60614808191e4c1f909f5e38e4741", null ],
+    [ "JustEngagedWith", "da/d4a/a14237.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
+    [ "Reset", "da/d4a/a14237.html#a06df695e9acd96b07f4e58c9461a708c", null ],
+    [ "UpdateAI", "da/d4a/a14237.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
+    [ "WaypointReached", "da/d4a/a14237.html#ad91850dc72d0307e28b881717bfba6db", null ],
+    [ "WaypointReached", "da/d4a/a14237.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "MarzonGUID", "da/d4a/a14237.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
+    [ "uiPhase", "da/d4a/a14237.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
+    [ "uiTimer", "da/d4a/a14237.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
 ];

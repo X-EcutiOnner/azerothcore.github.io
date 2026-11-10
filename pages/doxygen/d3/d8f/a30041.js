@@ -1,10 +1,11 @@
 var a30041 =
 [
-    [ "FakeAura", "d3/d8f/a30041.html#a72674203b5aa768aaec46bc824c66ad8", null ],
-    [ "IsExpired", "d3/d8f/a30041.html#af55fe68d7548abe43fbbe391163dcbf4", null ],
-    [ "IsRemoved", "d3/d8f/a30041.html#ad4b4a547d5596ad39d46125ded1c0863", null ],
-    [ "expired", "d3/d8f/a30041.html#a9de4d15b90ea8e89a5a3dd95122f5ff9", null ],
-    [ "removed", "d3/d8f/a30041.html#a0ea41ca4e60c4c56228687ca6038695f", null ],
-    [ "spellId", "d3/d8f/a30041.html#ab08e902dae2b24d869c2befe1e9a74a2", null ],
-    [ "updated", "d3/d8f/a30041.html#aacbde7f93cb160ed272a4b3ddd18f1ee", null ]
+    [ "SetUp", "d3/d8f/a30041.html#abb28ef64461635a540dad471b7b12ebc", null ],
+    [ "TearDown", "d3/d8f/a30041.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
+    [ "_previousWorld", "d3/d8f/a30041.html#a2633d21816e5aa3e4a649292f07a3369", null ],
+    [ "_worldMock", "d3/d8f/a30041.html#ae1629c69438e29ea7be460120132b68b", null ],
+    [ "arenaTeams", "d3/d8f/a30041.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
+    [ "team1", "d3/d8f/a30041.html#a325d8058950e53d17e16fd90cd105776", null ],
+    [ "team2", "d3/d8f/a30041.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
+    [ "team3", "d3/d8f/a30041.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
 ];

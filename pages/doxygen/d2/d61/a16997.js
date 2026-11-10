@@ -1,7 +1,7 @@
 var a16997 =
 [
-    [ "npc_toc_druidAI", "d2/d61/a16997.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "d2/d61/a16997.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "d2/d61/a16997.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "d2/d61/a16997.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "HandleAfterHit", "d2/d61/a16997.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "d2/d61/a16997.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "d2/d61/a16997.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "d2/d61/a16997.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

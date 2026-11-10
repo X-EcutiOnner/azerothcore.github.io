@@ -1,5 +1,6 @@
 var a16549 =
 [
-    [ "achievement_watch_him_die", "db/d0d/a16549.html#a0d885871eac61d859780e08c8518bb15", null ],
-    [ "OnCheck", "db/d0d/a16549.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
+    [ "npc_anub_ar_crusher_crypt_fiend", "db/d0d/a16549.html#a89abbce738f115c26dae9dacb065cc3d", null ],
+    [ "DoEngagedWith", "db/d0d/a16549.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
+    [ "DoEvent", "db/d0d/a16549.html#a276eca6e65b32905f6919d49530ccc2f", null ]
 ];

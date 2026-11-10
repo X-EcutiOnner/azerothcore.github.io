@@ -1,5 +1,6 @@
 var a28181 =
 [
-    [ "achievement_bg_sa_artillery", "de/dd5/a28181.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "de/dd5/a28181.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "HandleProc", "de/dd5/a28181.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
+    [ "PrepareAuraScript", "de/dd5/a28181.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
+    [ "Register", "de/dd5/a28181.html#adf0852d1aad8097143df205a66a49f2f", null ]
 ];

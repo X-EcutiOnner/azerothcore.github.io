@@ -1,7 +1,6 @@
 var a15533 =
 [
-    [ "FilterFissures", "d8/d0d/a15533.html#a5c88837cfdfce5cc197d63067850ce3b", null ],
-    [ "HandleActivateObject", "d8/d0d/a15533.html#ac43b70df32192567486491684806332f", null ],
-    [ "PrepareSpellScript", "d8/d0d/a15533.html#acb2e787b262a09ecdf9595cb51373084", null ],
-    [ "Register", "d8/d0d/a15533.html#a1d44f41719e467a001468b73306d9556", null ]
+    [ "instance_dire_maul_InstanceMapScript", "d4/d77/a15537.html", "d4/d77/a15537" ],
+    [ "instance_dire_maul", "d8/d0d/a15533.html#a54ac2c7095a99481c7efbe4237533fac", null ],
+    [ "GetInstanceScript", "d8/d0d/a15533.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
 ];

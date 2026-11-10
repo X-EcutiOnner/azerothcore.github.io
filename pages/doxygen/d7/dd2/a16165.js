@@ -1,6 +1,6 @@
 var a16165 =
 [
-    [ "SpellId", "d7/dd2/a16165.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d7/dd2/a16165.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d7/dd2/a16165.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_giant_spotlightAI", "db/d30/a16169.html", "db/d30/a16169" ],
+    [ "npc_giant_spotlight", "d7/dd2/a16165.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "d7/dd2/a16165.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

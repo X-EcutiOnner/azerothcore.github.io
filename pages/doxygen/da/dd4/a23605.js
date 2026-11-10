@@ -1,5 +1,5 @@
 var a23605 =
 [
-    [ "at_underbog_ghazan", "da/dd4/a23605.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "da/dd4/a23605.html#a82d82a14a3d5c5125c331df126b9006a", null ]
+    [ "at_quagmirran_lair", "da/dd4/a23605.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "da/dd4/a23605.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];

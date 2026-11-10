@@ -1,8 +1,6 @@
 var a23805 =
 [
-    [ "HandleDummyApply", "df/db2/a23805.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "df/db2/a23805.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "df/db2/a23805.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "df/db2/a23805.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "df/db2/a23805.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "HandleScriptEffect", "df/db2/a23805.html#adf350bccc5862252f6928faa4ae3a001", null ],
+    [ "PrepareSpellScript", "df/db2/a23805.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
+    [ "Register", "df/db2/a23805.html#afaf23967ede6e120caa7758ff2d3c974", null ]
 ];

@@ -1,8 +1,5 @@
 var a21009 =
 [
-    [ "npc_xt002_heart", "df/d91/a21009.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
-    [ "DoAction", "df/d91/a21009.html#a3150ab74ea50c9de6d937b3271e782de", null ],
-    [ "JustDied", "df/d91/a21009.html#a4f62cabc74ad43cf53f2257902982dff", null ],
-    [ "Reset", "df/d91/a21009.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
-    [ "_instance", "df/d91/a21009.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
+    [ "achievement_thorim_lose_your_illusion", "df/d91/a21009.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
+    [ "OnCheck", "df/d91/a21009.html#a322df4f30445a84085615925f74a8a6b", null ]
 ];

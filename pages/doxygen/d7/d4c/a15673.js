@@ -1,7 +1,7 @@
 var a15673 =
 [
-    [ "boss_rajaxx", "d7/d4c/a15673.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "d7/d4c/a15673.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "d7/d4c/a15673.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "d7/d4c/a15673.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "FilterTargets", "d7/d4c/a15673.html#a59e477333a54ec828a429d15b35d4936", null ],
+    [ "HandleScript", "d7/d4c/a15673.html#a983fe53aa52e53a45685055fde04a3b7", null ],
+    [ "PrepareSpellScript", "d7/d4c/a15673.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
+    [ "Register", "d7/d4c/a15673.html#a45ac61990990f16c98eaa7136297afc5", null ]
 ];

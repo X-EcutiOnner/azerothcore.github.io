@@ -1,9 +1,8 @@
 var a20965 =
 [
-    [ "boss_thorim_gauntlet_npcs", "d7/db5/a20965.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
-    [ "JustEngagedWith", "d7/db5/a20965.html#af10a444bada5743c837a9979726c79c9", null ],
-    [ "Reset", "d7/db5/a20965.html#a22fcffcc05f155524cadade389ec3607", null ],
-    [ "UpdateAI", "d7/db5/a20965.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
-    [ "_isCaster", "d7/db5/a20965.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
-    [ "events", "d7/db5/a20965.html#aec35e2b91841c386f083681673e15598", null ]
+    [ "boss_thorim_pillar", "d7/db5/a20965.html#aec2fc6e420499c9ce991753b912bef1e", null ],
+    [ "Reset", "d7/db5/a20965.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
+    [ "SpellHit", "d7/db5/a20965.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
+    [ "UpdateAI", "d7/db5/a20965.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
+    [ "_resetTimer", "d7/db5/a20965.html#ac9c8ef8622496593b5f91611d22120b3", null ]
 ];

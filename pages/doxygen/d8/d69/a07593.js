@@ -1,12 +1,11 @@
 var a07593 =
 [
-    [ "Type", "d8/d69/a07593.html#a758c9729d907d872a5e5365539486408", [
-      [ "ADD", "d8/d69/a07593.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
-      [ "REMOVE", "d8/d69/a07593.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
-      [ "UPDATE_BID", "d8/d69/a07593.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
-    ] ],
-    [ "AuctionSearcherUpdate", "d8/d69/a07593.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
-    [ "~AuctionSearcherUpdate", "d8/d69/a07593.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
-    [ "listFaction", "d8/d69/a07593.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
-    [ "updateType", "d8/d69/a07593.html#af6ee8672029884bdbec327242ce5d5d2", null ]
+    [ "GetSkillValue", "d8/d69/a07593.html#a8f5894a5729d4c8d26376bbe1a2ac29e", null ],
+    [ "HasSpell", "d8/d69/a07593.html#a3400ad05d8423ae6878fab815521ec6f", null ],
+    [ "PlayerCanUseItem", "d8/d69/a07593.html#aee11f4f45f83664483344e3bbfba7463", null ],
+    [ "classMask", "d8/d69/a07593.html#a41a57c372871c84a572d2f3697cb18aa", null ],
+    [ "level", "d8/d69/a07593.html#a870f632b54e4638b1f5a4e93b6bd9e52", null ],
+    [ "raceMask", "d8/d69/a07593.html#a96e56943da42f1a1258fc1d716259e1a", null ],
+    [ "skills", "d8/d69/a07593.html#a55c2ad9d1cdea4913cb35deb4adc87fd", null ],
+    [ "spells", "d8/d69/a07593.html#ac83cc019ceb1752ce8d6b5a3aa3d350f", null ]
 ];

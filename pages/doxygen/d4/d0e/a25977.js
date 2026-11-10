@@ -1,5 +1,6 @@
 var a25977 =
 [
-    [ "PrepareSpellScript", "d4/d0e/a25977.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
-    [ "Register", "d4/d0e/a25977.html#a7fe416070962ba582d59ddff70c13590", null ]
+    [ "CheckCast", "d4/d0e/a25977.html#a1fbbba8bdc9f775963a999aa00a5a256", null ],
+    [ "PrepareSpellScript", "d4/d0e/a25977.html#a481f9d36567607697c3ad5d9501bba48", null ],
+    [ "Register", "d4/d0e/a25977.html#afff66ccf4f6596475f4b58c529472f26", null ]
 ];

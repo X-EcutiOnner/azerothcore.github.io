@@ -1,7 +1,6 @@
 var a22529 =
 [
-    [ "OnApply", "de/d9f/a22529.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "de/d9f/a22529.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "de/d9f/a22529.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "de/d9f/a22529.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "de/d9f/a22529.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "de/d9f/a22529.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "de/d9f/a22529.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

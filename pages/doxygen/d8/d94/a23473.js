@@ -1,7 +1,9 @@
 var a23473 =
 [
-    [ "HandleEffectRemove", "d8/d94/a23473.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "d8/d94/a23473.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "d8/d94/a23473.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "d8/d94/a23473.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "boss_morogrim_tidewalker", "d8/d94/a23473.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "d8/d94/a23473.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "d8/d94/a23473.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "d8/d94/a23473.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "d8/d94/a23473.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "d8/d94/a23473.html#a78ed1d1f8c55407497a4fb679587975d", null ]
 ];

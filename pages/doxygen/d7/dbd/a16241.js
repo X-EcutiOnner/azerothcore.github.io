@@ -1,12 +1,7 @@
 var a16241 =
 [
-    [ "npc_toogaAI", "d7/dbd/a16241.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
-    [ "MoveInLineOfSight", "d7/dbd/a16241.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
-    [ "MovementInform", "d7/dbd/a16241.html#a9315e8ba2688903aaf5b871a7490a700", null ],
-    [ "Reset", "d7/dbd/a16241.html#acfedaf5cc989451a4259a65661685f66", null ],
-    [ "UpdateFollowerAI", "d7/dbd/a16241.html#a742791e714be1ff713ab87e7d515bd9e", null ],
-    [ "CheckSpeechTimer", "d7/dbd/a16241.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
-    [ "PhasePostEvent", "d7/dbd/a16241.html#a4996291afa64e35f3604b2a85ea03dda", null ],
-    [ "PostEventTimer", "d7/dbd/a16241.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
-    [ "TortaGUID", "d7/dbd/a16241.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
+    [ "npc_kaya_flathoofAI", "d8/d42/a16245.html", "d8/d42/a16245" ],
+    [ "npc_kaya_flathoof", "d7/dbd/a16241.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
+    [ "GetAI", "d7/dbd/a16241.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
+    [ "OnQuestAccept", "d7/dbd/a16241.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
 ];

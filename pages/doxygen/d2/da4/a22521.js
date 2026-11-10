@@ -1,7 +1,6 @@
 var a22521 =
 [
-    [ "HandleScript", "d2/da4/a22521.html#ad38771460ddf0f95783718775690d1f0", null ],
-    [ "PrepareSpellScript", "d2/da4/a22521.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
-    [ "Register", "d2/da4/a22521.html#a3ba23fd54c35c2d2866db647811c948d", null ],
-    [ "Validate", "d2/da4/a22521.html#a6a58808356785c25032c2befd429ff2b", null ]
+    [ "HandleScriptEffect", "d2/da4/a22521.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "d2/da4/a22521.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "d2/da4/a22521.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

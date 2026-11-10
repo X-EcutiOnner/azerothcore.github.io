@@ -1,11 +1,8 @@
 var a11121 =
 [
-    [ "BackgroundColor", "d0/df1/a11121.html#abab86dd497de86088873178bf1d54b5b", null ],
-    [ "BorderColor", "d0/df1/a11121.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
-    [ "BorderStyle", "d0/df1/a11121.html#acd5105c31e0f56e680f3384e86186872", null ],
-    [ "EmblemColor", "d0/df1/a11121.html#a2e8a4768292d3566bb61009056a8a230", null ],
-    [ "EmblemStyle", "d0/df1/a11121.html#aa6309467f9f09725a8698de864b4e63c", null ],
-    [ "GuildName", "d0/df1/a11121.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
-    [ "RankCount", "d0/df1/a11121.html#acddb77850a86348df197afc724c4eaa0", null ],
-    [ "Ranks", "d0/df1/a11121.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
+    [ "PlayedTime", "d0/df1/a11121.html#abc477d90a27dc41a7c643448302464cf", null ],
+    [ "Write", "d0/df1/a11121.html#a147071f2545cd91213d6c92dab7438c7", null ],
+    [ "LevelTime", "d0/df1/a11121.html#a2bf832827f9497a59bbfac714799b4b5", null ],
+    [ "TotalTime", "d0/df1/a11121.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
+    [ "TriggerScriptEvent", "d0/df1/a11121.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
 ];

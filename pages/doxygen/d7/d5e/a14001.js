@@ -1,6 +1,9 @@
 var a14001 =
 [
-    [ "ChangeSummonPos", "d7/d5e/a14001.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "d7/d5e/a14001.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "d7/d5e/a14001.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "boss_entropius", "d7/d5e/a14001.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "d7/d5e/a14001.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "d7/d5e/a14001.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "d7/d5e/a14001.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "d7/d5e/a14001.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "d7/d5e/a14001.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

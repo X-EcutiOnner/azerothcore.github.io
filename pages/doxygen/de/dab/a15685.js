@@ -1,6 +1,6 @@
 var a15685 =
 [
-    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d8/d70/a15689.html", "d8/d70/a15689" ],
-    [ "instance_ruins_of_ahnqiraj", "de/dab/a15685.html#adeacb1c68e4b12995a335d1bedde075a", null ],
-    [ "GetInstanceScript", "de/dab/a15685.html#a6a661e961c2599498de0ccd41c0763b4", null ]
+    [ "go_ossirian_crystalAI", "d8/d70/a15689.html", "d8/d70/a15689" ],
+    [ "go_ossirian_crystal", "de/dab/a15685.html#a783f0f0570ee0f667920e29613b565b2", null ],
+    [ "GetAI", "de/dab/a15685.html#a2f7b12eddc6504917614913e347ec0a0", null ]
 ];

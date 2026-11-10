@@ -1,8 +1,6 @@
 var a11549 =
 [
-    [ "TrainerBuyFailed", "d5/d74/a11549.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
-    [ "Write", "d5/d74/a11549.html#a75c3bff5da4699fc412793caef1b75af", null ],
-    [ "SpellID", "d5/d74/a11549.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
-    [ "TrainerFailedReason", "d5/d74/a11549.html#a746ff497fba16adb16bbb647dff385df", null ],
-    [ "TrainerGUID", "d5/d74/a11549.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
+    [ "UITime", "d5/d74/a11549.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
+    [ "Write", "d5/d74/a11549.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
+    [ "Time", "d5/d74/a11549.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
 ];

@@ -1,7 +1,9 @@
 var a12325 =
 [
-    [ "StringTransaction", "de/da6/a12325.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "de/da6/a12325.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "de/da6/a12325.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "de/da6/a12325.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "CreatureTextLocalizer", "de/da6/a12325.html#a799f1007b9977224d71da1451c3454e1", null ],
+    [ "~CreatureTextLocalizer", "de/da6/a12325.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
+    [ "operator()", "de/da6/a12325.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
+    [ "_builder", "de/da6/a12325.html#a1d8d97d3e423810d044a8155b182899d", null ],
+    [ "_msgType", "de/da6/a12325.html#adf9260955b0141e85ff47c66350244e2", null ],
+    [ "_packetCache", "de/da6/a12325.html#a660b352a1c1855f4b10a8aebef88133f", null ]
 ];

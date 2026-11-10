@@ -1,11 +1,11 @@
 var a17453 =
 [
-    [ "npc_shadowy_mercenary", "dd/d7f/a17453.html#ae4e26a15f7ee0ba768a5ad6c18c8bc40", null ],
-    [ "AttackStart", "dd/d7f/a17453.html#a2851972b1fa6e3de4f79433e1308dd11", null ],
-    [ "DoAction", "dd/d7f/a17453.html#afba6e6565c04fe0b325a1ecf9d65ae80", null ],
-    [ "EnterEvadeMode", "dd/d7f/a17453.html#a71290c72bff2a91d7c5cc8d661f28bf9", null ],
-    [ "JustDied", "dd/d7f/a17453.html#a88cde525eb5d8db9fb2ffc30f18ddf61", null ],
-    [ "JustEngagedWith", "dd/d7f/a17453.html#aab9ac47fa72e7a7a6941aad190a18ebb", null ],
-    [ "Reset", "dd/d7f/a17453.html#aeedf803d4d6747ef505c11bb035c2c05", null ],
-    [ "UpdateAI", "dd/d7f/a17453.html#af36c113ac34b5e2db382c6d5f9d546e4", null ]
+    [ "npc_phantom_mage", "dd/d7f/a17453.html#a96702110e1bd587aaa88a076773cac72", null ],
+    [ "AttackStart", "dd/d7f/a17453.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
+    [ "DoAction", "dd/d7f/a17453.html#a8adf87e600eeab3678f369ab48b73927", null ],
+    [ "EnterEvadeMode", "dd/d7f/a17453.html#a270f664ad9545f672405d051d1a8932a", null ],
+    [ "JustDied", "dd/d7f/a17453.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
+    [ "JustEngagedWith", "dd/d7f/a17453.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
+    [ "Reset", "dd/d7f/a17453.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
+    [ "UpdateAI", "dd/d7f/a17453.html#a919416fd6b52060e271e79afaaf14085", null ]
 ];

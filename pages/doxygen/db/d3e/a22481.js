@@ -1,9 +1,11 @@
 var a22481 =
 [
-    [ "HandlePeriodic", "db/d3e/a22481.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "db/d3e/a22481.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "db/d3e/a22481.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "db/d3e/a22481.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "db/d3e/a22481.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "db/d3e/a22481.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "npc_iron_watcherAI", "db/d3e/a22481.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
+    [ "MovementInform", "db/d3e/a22481.html#aaf329f0160efa778abdebf86b1cf230b", null ],
+    [ "Reset", "db/d3e/a22481.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
+    [ "SpellHit", "db/d3e/a22481.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
+    [ "UpdateAI", "db/d3e/a22481.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
+    [ "charging", "db/d3e/a22481.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
+    [ "hpTimer", "db/d3e/a22481.html#afcbb113387345361baf0351a19e6eb1d", null ],
+    [ "spellTimer", "db/d3e/a22481.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
 ];

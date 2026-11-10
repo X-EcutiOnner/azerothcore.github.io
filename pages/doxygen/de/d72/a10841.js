@@ -1,12 +1,12 @@
 var a10841 =
 [
-    [ "DatabaseScript", "de/d72/a10841.html#a323ab8c4dc1e4c2501eeb833ce89ab87", null ],
-    [ "IsDatabaseBound", "de/d72/a10841.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
-    [ "OnAfterDatabaseLoadCreatureTemplates", "de/d72/a10841.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
-    [ "OnAfterDatabasesLoaded", "de/d72/a10841.html#ab52afc833cb462693f5e0d79cff6bb3f", null ],
-    [ "OnDatabaseGetDBRevision", "de/d72/a10841.html#a61dba3526358f020f10965c1285ea17f", null ],
-    [ "OnDatabaseWarnAboutSyncQueries", "de/d72/a10841.html#a03a50d201a9290fc9cfd0856156bc77a", null ],
-    [ "OnModuleDatabasesClosing", "de/d72/a10841.html#af011bbb81be4c1f5d88456880233499f", null ],
-    [ "OnModuleDatabasesKeepAlive", "de/d72/a10841.html#a18bf8214af415218f6b4a911b32d9109", null ],
-    [ "OnModuleDatabasesLoading", "de/d72/a10841.html#a887413cff0c9e65acead62797944d8b3", null ]
+    [ "BattlefieldScript", "de/d72/a10841.html#a8b975d588e1b44aecebcbbb1b547d02c", null ],
+    [ "IsDatabaseBound", "de/d72/a10841.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
+    [ "OnBattlefieldBeforeInvitePlayerToWar", "de/d72/a10841.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
+    [ "OnBattlefieldPlayerEnterZone", "de/d72/a10841.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
+    [ "OnBattlefieldPlayerJoinWar", "de/d72/a10841.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
+    [ "OnBattlefieldPlayerKill", "de/d72/a10841.html#a835001d04260cafe35021108e2ede851", null ],
+    [ "OnBattlefieldPlayerLeaveWar", "de/d72/a10841.html#a3e88ff9ad3772d558ab72123127a550e", null ],
+    [ "OnBattlefieldPlayerLeaveZone", "de/d72/a10841.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ],
+    [ "OnBattlefieldWarEnd", "de/d72/a10841.html#ab4ed21627320723b18a09dbc4c7f6baa", null ]
 ];

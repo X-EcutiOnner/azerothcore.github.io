@@ -1,4 +1,4 @@
 var a01337 =
 [
-    [ "AllGameObjectScript", "de/d50/a10790.html", "de/d50/a10790" ]
+    [ "ScriptRegistry< VehicleScript >", "db/dec/a01337.html#af505a519aaa0d7e6070eb203075ff98d", null ]
 ];

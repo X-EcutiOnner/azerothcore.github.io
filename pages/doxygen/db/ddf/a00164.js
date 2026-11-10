@@ -1,7 +1,9 @@
 var a00164 =
 [
-    [ "anonymous_namespace{ThreatManagerTest.cpp}::ThreatManagerIntegrationTest", "d3/d37/a30050.html", "d3/d37/a30050" ],
-    [ "anonymous_namespace{ThreatManagerTest.cpp}::ThreatRecordingAI", "db/d2f/a30054.html", "db/d2f/a30054" ],
+    [ "anonymous_namespace{ThreatManagerTest.cpp}::ThreatManagerIntegrationTest", "dc/dae/a30061.html", "dc/dae/a30061" ],
+    [ "anonymous_namespace{ThreatManagerTest.cpp}::ThreatRecordingAI", "da/de5/a30065.html", "da/de5/a30065" ],
+    [ "BuildTauntAuraInfo", "db/ddf/a00164.html#a5e0f7985fe3c8508f45f4312d4ee9caf", null ],
+    [ "FindRef", "db/ddf/a00164.html#a8937000ce9d6518397ab82a87f20a7dc", null ],
     [ "TEST_F", "db/ddf/a00164.html#ae19f29921fedacc00c3a6c4fc184ca56", null ],
     [ "TEST_F", "db/ddf/a00164.html#a98cb0a7f10d3742f6e3e7ed2c4ff3fc0", null ],
     [ "TEST_F", "db/ddf/a00164.html#ae77fb7f111413f9369951b3c92a0d2bc", null ],
@@ -63,6 +65,8 @@ var a00164 =
     [ "TEST_F", "db/ddf/a00164.html#ad6f0c462a8a255a84f53b8297fdd0195", null ],
     [ "TEST_F", "db/ddf/a00164.html#a2326f7a427df8e0f92a65eb8bcacfde8", null ],
     [ "TEST_F", "db/ddf/a00164.html#ab05d09b1c94c1c5573e6497a1ab7950f", null ],
+    [ "TEST_F", "db/ddf/a00164.html#a1794b0b256f07f612c0b6706495f7bb7", null ],
+    [ "TEST_F", "db/ddf/a00164.html#a14dc1cecb08b18b97782689ae01568dd", null ],
     [ "TEST_F", "db/ddf/a00164.html#a51479362e403beb1eeaecfce7859de78", null ],
     [ "TEST_F", "db/ddf/a00164.html#a6a85af09797ba0ca8b49559c154bc466", null ],
     [ "TEST_F", "db/ddf/a00164.html#a99f9229ec92b041a25910d1f73aadd61", null ],
@@ -98,6 +102,12 @@ var a00164 =
     [ "TEST_F", "db/ddf/a00164.html#a6b5c80a84cac56a45b54805a1d0e1259", null ],
     [ "TEST_F", "db/ddf/a00164.html#ab3403c9cc14a0b5c08bcc7bf2562433c", null ],
     [ "TEST_F", "db/ddf/a00164.html#a01918ac3d41068f5eb7383fc89286758", null ],
+    [ "TEST_F", "db/ddf/a00164.html#a1962eb82d829d4e31b7369d247638a42", null ],
+    [ "TEST_F", "db/ddf/a00164.html#a188c4c14a61fd7acaa813daec5de70bf", null ],
+    [ "TEST_F", "db/ddf/a00164.html#a838c5c1f49c037590c8a17d80eb0055c", null ],
+    [ "TEST_F", "db/ddf/a00164.html#af51c4858c82e6c42a8c4e12271c3dca1", null ],
+    [ "TEST_F", "db/ddf/a00164.html#ab1568222dcaeeb37fd076be91d8f7c97", null ],
+    [ "TEST_F", "db/ddf/a00164.html#add7794fbb8223eb67279a709acbfabb8", null ],
     [ "TEST_F", "db/ddf/a00164.html#a22322e043923af665de869127366c183", null ],
     [ "TEST_F", "db/ddf/a00164.html#a2406c4aaa75068e2488a657e55deff09", null ],
     [ "TEST_F", "db/ddf/a00164.html#a2811c634cbac52096b2e176b3aa51c35", null ],
@@ -116,5 +126,7 @@ var a00164 =
     [ "TEST_F", "db/ddf/a00164.html#ab11e2881f5bdd8ec1225a4f9119241f0", null ],
     [ "TEST_F", "db/ddf/a00164.html#a07b156d9adcb6fbd66595a19ca9414fe", null ],
     [ "TEST_F", "db/ddf/a00164.html#aae2d69cb6c9852b9978009b1ea8fc707", null ],
-    [ "TEST_F", "db/ddf/a00164.html#a527686d71c8899ab595bc527d4d9a967", null ]
+    [ "TEST_F", "db/ddf/a00164.html#a527686d71c8899ab595bc527d4d9a967", null ],
+    [ "SPELL_TEST_TAUNT", "db/ddf/a00164.html#a9d015cc516034752f1245c7c8b6e1a1e", null ],
+    [ "SPELL_TEST_TAUNT_SECOND", "db/ddf/a00164.html#a3dcada70fb0c830e572e0e807e976fad", null ]
 ];

@@ -1,7 +1,8 @@
 var a26649 =
 [
-    [ "CalcPeriodic", "df/d84/a26649.html#a404e5309016cfcaa3071c0216978699e", null ],
-    [ "PrepareAuraScript", "df/d84/a26649.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
-    [ "Register", "df/d84/a26649.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
-    [ "AuraEffectHandleModes", "df/d84/a26649.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
+    [ "HandleProc", "df/d84/a26649.html#ad470545a3c3f1ffaad2d895f122522e1", null ],
+    [ "OnRemove", "df/d84/a26649.html#adc9b9b988aa1342c34a49622f54d8484", null ],
+    [ "PrepareAuraScript", "df/d84/a26649.html#ab3008bcdeb90825213d2352812ff21d5", null ],
+    [ "Register", "df/d84/a26649.html#a9ee52d89eeff45a4f9df1982da6f7d78", null ],
+    [ "Validate", "df/d84/a26649.html#a0ea66a92b78e59b50181b54ab285b9db", null ]
 ];

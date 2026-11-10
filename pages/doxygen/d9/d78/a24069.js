@@ -1,8 +1,6 @@
 var a24069 =
 [
-    [ "HandleScriptEffect", "d9/d78/a24069.html#a7cde39fc0844f19604c8026a853e8216", null ],
-    [ "Load", "d9/d78/a24069.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
-    [ "PrepareSpellScript", "d9/d78/a24069.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
-    [ "Register", "d9/d78/a24069.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
-    [ "_currentSpellId", "d9/d78/a24069.html#a0ad25535ba345fe9672150af67687305", null ]
+    [ "npc_capernian", "d9/d78/a24069.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "d9/d78/a24069.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "d9/d78/a24069.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

@@ -1,6 +1,10 @@
 var a22893 =
 [
-    [ "PrepareSpellScript", "d3/d11/a22893.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d3/d11/a22893.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d3/d11/a22893.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "boss_talon_king_ikiss", "d3/d11/a22893.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "d3/d11/a22893.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d3/d11/a22893.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d3/d11/a22893.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d3/d11/a22893.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d3/d11/a22893.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d3/d11/a22893.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

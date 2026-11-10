@@ -1,7 +1,7 @@
 var a16977 =
 [
-    [ "HandleEffectPeriodic", "d9/d6e/a16977.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "d9/d6e/a16977.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "d9/d6e/a16977.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "d9/d6e/a16977.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "npc_frost_sphere", "d9/d6e/a16977.html#ad33989871683168317e28d6fc9015ddf", null ],
+    [ "DamageTaken", "d9/d6e/a16977.html#abe4b84f328c3616dfa1d36bc61648b48", null ],
+    [ "SpellHit", "d9/d6e/a16977.html#a3a9836e1921e90778ab8d08111d90995", null ],
+    [ "UpdateAI", "d9/d6e/a16977.html#a1a6fe34e8c822b589b192bd7567a35bb", null ]
 ];

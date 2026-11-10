@@ -1,11 +1,25 @@
 var a17817 =
 [
-    [ "npc_blood_queen_lana_thelAI", "d2/dbd/a17817.html#a7b099b90600e433e304dee1f356a9909", null ],
-    [ "MoveInLineOfSight", "d2/dbd/a17817.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
-    [ "MovementInform", "d2/dbd/a17817.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
-    [ "Reset", "d2/dbd/a17817.html#a539b0e158c800e1aade54f37aa99751e", null ],
-    [ "UpdateAI", "d2/dbd/a17817.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
-    [ "_events", "d2/dbd/a17817.html#a8ec7641bab991fc584b066fae55690bf", null ],
-    [ "_instance", "d2/dbd/a17817.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
-    [ "_introDone", "d2/dbd/a17817.html#a40c642758a751e072e41343bb75ad306", null ]
+    [ "boss_prince_valanarAI", "d2/dbd/a17817.html#a2fea965d45c5ca8646d87634daf63fbe", null ],
+    [ "CheckRoom", "d2/dbd/a17817.html#a679228ccb0e31f463b04cd873fa7e16f", null ],
+    [ "DamageDealt", "d2/dbd/a17817.html#a06a216b9f75f50bf0e738398da37082c", null ],
+    [ "DamageTaken", "d2/dbd/a17817.html#afc12adf72a109be78d5ff936e3432a8f", null ],
+    [ "DoAction", "d2/dbd/a17817.html#a51d020ef915d72366303fbb86892b3bf", null ],
+    [ "EnterEvadeMode", "d2/dbd/a17817.html#a6ab536425fe96d4e4e027d12acecb8e6", null ],
+    [ "InitializeAI", "d2/dbd/a17817.html#aca7e1c2437c3c06d504f617f9d7babc5", null ],
+    [ "JustDied", "d2/dbd/a17817.html#a4e92d6eab67bc52d685528bcba96e603", null ],
+    [ "JustEngagedWith", "d2/dbd/a17817.html#a251205825e07fb27a20b5995b94ea6f4", null ],
+    [ "JustReachedHome", "d2/dbd/a17817.html#ab053f54a54b080992598b3c0991f0d9b", null ],
+    [ "JustRespawned", "d2/dbd/a17817.html#ab23663b51d21bf4ce6d46dc6e08c632e", null ],
+    [ "JustSummoned", "d2/dbd/a17817.html#a3a9bad35893608e8580c0fd64db5bd37", null ],
+    [ "KilledUnit", "d2/dbd/a17817.html#a3a2d2290213fff1baf8946166fed72ac", null ],
+    [ "Reset", "d2/dbd/a17817.html#a9208c67592cfdcea597a58184eaf9c2d", null ],
+    [ "ResetPrince", "d2/dbd/a17817.html#a946d4b8a1cceae0ee5c2f152eafe48ec", null ],
+    [ "SpellHit", "d2/dbd/a17817.html#a878db347de46937a10603d8d04d42025", null ],
+    [ "UpdateAI", "d2/dbd/a17817.html#a485b5124a59447ac4b0b6b0a61ae297f", null ],
+    [ "_canDie", "d2/dbd/a17817.html#afc02a2d3c722a22a98bbb2ba14ba7b5b", null ],
+    [ "_evading", "d2/dbd/a17817.html#a77f05795428fa50c20a83ca926918e89", null ],
+    [ "_isEmpowered", "d2/dbd/a17817.html#ae7a8b27e0de0d15ddd43a5075d8f5125", null ],
+    [ "currentInvocationIndex", "d2/dbd/a17817.html#a1a686457e3000211f966f4d22370552d", null ],
+    [ "invocationOrder", "d2/dbd/a17817.html#a8b6d8fd932bfc5dd3f40a4506aab065a", null ]
 ];

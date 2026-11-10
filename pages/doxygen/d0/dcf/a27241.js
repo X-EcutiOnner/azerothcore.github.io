@@ -1,6 +1,7 @@
 var a27241 =
 [
-    [ "HandleScript", "d0/dcf/a27241.html#ae81570045d4984ee5682a0333b1b142d", null ],
-    [ "PrepareSpellScript", "d0/dcf/a27241.html#acb074781e07961998362349a7616fc4e", null ],
-    [ "Register", "d0/dcf/a27241.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
+    [ "HandleEffectRemove", "d0/dcf/a27241.html#a814687d3938e966f8721438e1a722f77", null ],
+    [ "PrepareAuraScript", "d0/dcf/a27241.html#a2144b0602501471a4001883ce9de6db3", null ],
+    [ "Register", "d0/dcf/a27241.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
+    [ "AuraEffectHandleModes", "d0/dcf/a27241.html#ab291f6c6f269ec7004df39a043f49efd", null ]
 ];

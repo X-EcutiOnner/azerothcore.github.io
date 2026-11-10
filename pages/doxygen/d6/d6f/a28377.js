@@ -1,6 +1,8 @@
 var a28377 =
 [
-    [ "go_flamesAI", "d8/df6/a28381.html", "d8/df6/a28381" ],
-    [ "go_flames", "d6/d6f/a28377.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "d6/d6f/a28377.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "FilterTargets", "d6/d6f/a28377.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "d6/d6f/a28377.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "d6/d6f/a28377.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "d6/d6f/a28377.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "d6/d6f/a28377.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

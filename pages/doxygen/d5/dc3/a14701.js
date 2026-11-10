@@ -1,6 +1,7 @@
 var a14701 =
 [
-    [ "OnRemove", "d5/dc3/a14701.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
-    [ "PrepareAuraScript", "d5/dc3/a14701.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
-    [ "Register", "d5/dc3/a14701.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
+    [ "HandleOnHit", "d5/dc3/a14701.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "d5/dc3/a14701.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "d5/dc3/a14701.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "d5/dc3/a14701.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

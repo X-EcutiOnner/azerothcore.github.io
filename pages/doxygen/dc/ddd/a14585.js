@@ -1,6 +1,6 @@
 var a14585 =
 [
-    [ "boss_grilekAI", "df/d82/a14589.html", "df/d82/a14589" ],
-    [ "boss_grilek", "dc/ddd/a14585.html#acffe0061db18c5725c8c290822c5fed7", null ],
-    [ "GetAI", "dc/ddd/a14585.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
+    [ "boss_arlokkAI", "df/d82/a14589.html", "df/d82/a14589" ],
+    [ "boss_arlokk", "dc/ddd/a14585.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "dc/ddd/a14585.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

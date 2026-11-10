@@ -1,6 +1,6 @@
 var a20737 =
 [
-    [ "OnPeriodic", "d2/d85/a20737.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "d2/d85/a20737.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "d2/d85/a20737.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "HandleInstaKill", "d2/d85/a20737.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "d2/d85/a20737.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "d2/d85/a20737.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

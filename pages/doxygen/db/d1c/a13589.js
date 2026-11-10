@@ -1,6 +1,5 @@
 var a13589 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "da/d6a/a13593.html", "da/d6a/a13593" ],
-    [ "instance_scarlet_monastery", "db/d1c/a13589.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
-    [ "GetInstanceScript", "db/d1c/a13589.html#a1c66031217457809fbe56303085715a0", null ]
+    [ "boss_warlord_salaris", "db/d1c/a13589.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
+    [ "JustEngagedWith", "db/d1c/a13589.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
 ];

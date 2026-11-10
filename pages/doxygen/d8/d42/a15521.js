@@ -1,29 +1,5 @@
 var a15521 =
 [
-    [ "boss_onyxia", "d8/d42/a15521.html#a529d07414467a41b67ec9e79ded31810", null ],
-    [ "DoAction", "d8/d42/a15521.html#a9e6a94b225caf455f9072c3a430ba49e", null ],
-    [ "EnterEvadeMode", "d8/d42/a15521.html#a07a5cd9f8cf3027b3029431c867134e8", null ],
-    [ "GetEggsNearestFirst", "d8/d42/a15521.html#a096e1b574339a98b83c0569ec5d75ea8", null ],
-    [ "HatchNearestEgg", "d8/d42/a15521.html#a4c5436268c8fa41ded9f2577475c0662", null ],
-    [ "Initialize", "d8/d42/a15521.html#ae64cfe5c532c4eae8e76c4ddd845e278", null ],
-    [ "JustEngagedWith", "d8/d42/a15521.html#a1dff56a293babebe82b3947c53a1e0e9", null ],
-    [ "JustSummoned", "d8/d42/a15521.html#a424a1815a0f51097c184f7582f1b2f45", null ],
-    [ "MovementInform", "d8/d42/a15521.html#a1413f44b212b651f276ecb1e2f01c36a", null ],
-    [ "MoveToWaypoint", "d8/d42/a15521.html#a55211461c86b48987087959b96e3ee10", null ],
-    [ "OnSpellCast", "d8/d42/a15521.html#a610a50365bb823bda0617ce5d8323c55", null ],
-    [ "Reset", "d8/d42/a15521.html#a837fb19b4c85d87ebf026b2f692696bb", null ],
-    [ "SetPhase", "d8/d42/a15521.html#a6b814213c31d3b2a2071da222399cdd8", null ],
-    [ "SpellHitTarget", "d8/d42/a15521.html#ace3d7dd677a4716e13f4c0c1c5944471", null ],
-    [ "SummonedCreatureDies", "d8/d42/a15521.html#a477913933faf50c3a4366ec4bc4a2b74", null ],
-    [ "SummonPointWhelp", "d8/d42/a15521.html#a98002157d583eb9039ca257fafe67c9d", null ],
-    [ "UpdateAI", "d8/d42/a15521.html#ad04fc48bd1aa5ffa5570c0e44b2a112c", null ],
-    [ "_currentWP", "d8/d42/a15521.html#ae1ff8beb6c04e5537dae1bdfe66669ae", null ],
-    [ "_fireballsBeforeMoving", "d8/d42/a15521.html#ae4c3074368722edfea7dba9a9bc5abda", null ],
-    [ "_fireballsCast", "d8/d42/a15521.html#af940fda277e3ec00c963e5eb3090822d", null ],
-    [ "_lairGuardTriggerGUID", "d8/d42/a15521.html#a13b51f7387aab4bcafecf9666eec1976", null ],
-    [ "_landingPending", "d8/d42/a15521.html#aae92d9f56be8a8417f03fbf5a96d3624", null ],
-    [ "_manyWhelpsAvailable", "d8/d42/a15521.html#aef1cdea4637777c08766bf77d70ad39a", null ],
-    [ "_phase", "d8/d42/a15521.html#a844b876d1e8568ecac3151c99215e166", null ],
-    [ "_pointWhelpGUIDs", "d8/d42/a15521.html#ac8f310f39f08947262d45778f6d15901", null ],
-    [ "_whelpsRespawn", "d8/d42/a15521.html#a0be641cf079e59cd8a25fd4bcb3eae25", null ]
+    [ "npc_black_morass_summoned_add", "d8/d42/a15521.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "d8/d42/a15521.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

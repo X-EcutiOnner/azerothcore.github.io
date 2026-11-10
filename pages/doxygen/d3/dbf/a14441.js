@@ -1,14 +1,12 @@
 var a14441 =
 [
-    [ "boss_hexlord_malacrass", "d3/dbf/a14441.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
-    [ "JustEngagedWith", "d3/dbf/a14441.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
-    [ "KilledUnit", "d3/dbf/a14441.html#a69e7a3aa2cb068706651bad34363099f", null ],
-    [ "Reset", "d3/dbf/a14441.html#af00159c9e2c54033f52f46d60881f22e", null ],
-    [ "ScheduleClassAbility", "d3/dbf/a14441.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
-    [ "SpawnAdds", "d3/dbf/a14441.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
-    [ "UseAbility", "d3/dbf/a14441.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
-    [ "_classAbilityTimer", "d3/dbf/a14441.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
-    [ "_creatureIndex", "d3/dbf/a14441.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
-    [ "_currentClass", "d3/dbf/a14441.html#ab7e531fccbb486b7b429d77d804841c2", null ],
-    [ "_timeUntilNextDrainPower", "d3/dbf/a14441.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
+    [ "npc_tapoke_slim_jahnAI", "d3/dbf/a14441.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
+    [ "AttackedBy", "d3/dbf/a14441.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
+    [ "DamageTaken", "d3/dbf/a14441.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
+    [ "JustEngagedWith", "d3/dbf/a14441.html#a544b8eaee365217a4a735ed39b4607b2", null ],
+    [ "JustSummoned", "d3/dbf/a14441.html#ae468305fbe930baf0a1547f2e6de9953", null ],
+    [ "Reset", "d3/dbf/a14441.html#a5aeaa5511584d1095639e7df584019c5", null ],
+    [ "WaypointReached", "d3/dbf/a14441.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "WaypointReached", "d3/dbf/a14441.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IsFriendSummoned", "d3/dbf/a14441.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

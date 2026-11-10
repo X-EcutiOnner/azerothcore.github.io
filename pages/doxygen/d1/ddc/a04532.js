@@ -1,14 +1,6 @@
 var a04532 =
 [
-    [ "DataHeader", "d1/ddc/a04532.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "MTScriptName", "d1/ddc/a04532.html#a772413d8818d681e2261c99f58e1268c", null ],
-    [ "RegisterManaTombsCreatureAI", "d1/ddc/a04532.html#a7e2e8ea768842320ce5d953aeaddb176", null ],
-    [ "MTDataTypes", "d1/ddc/a04532.html#a9ffea4a6410ded9f327ba6e91f8766ee", [
-      [ "DATA_PANDEMONIUS", "d1/ddc/a04532.html#a9ffea4a6410ded9f327ba6e91f8766eeab1efde1b4aaad2daab0c383563a9f02a", null ],
-      [ "DATA_TAVAROK", "d1/ddc/a04532.html#a9ffea4a6410ded9f327ba6e91f8766eea9245929feb24a0840eeff34e8c87de57", null ],
-      [ "DATA_NEXUSPRINCE_SHAFFAR", "d1/ddc/a04532.html#a9ffea4a6410ded9f327ba6e91f8766eea07473250c26fb3874461362f93a75a97", null ],
-      [ "DATA_YOR", "d1/ddc/a04532.html#a9ffea4a6410ded9f327ba6e91f8766eea738b876feae2daf42423688ca0f13289", null ]
-    ] ],
-    [ "GetManaTombsAI", "d1/ddc/a04532.html#aaec5771a3ce0808b0a1bb0116b4fb9e3", null ],
-    [ "EncounterCount", "d1/ddc/a04532.html#a31d630c40753c29f94ceac2db5e451a8", null ]
+    [ "instance_mana_tombs", "d4/d2a/a22873.html", "d4/d2a/a22873" ],
+    [ "instance_mana_tombs::instance_mana_tombs_InstanceMapScript", "db/d71/a22877.html", "db/d71/a22877" ],
+    [ "AddSC_instance_mana_tombs", "d1/ddc/a04532.html#ab3a34e5f5a1433a62cdca43b8f13182c", null ]
 ];

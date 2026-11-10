@@ -1,13 +1,7 @@
 var a28789 =
 [
-    [ "npc_spring_rabbitAI", "d6/dfe/a28789.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
-    [ "DoAction", "d6/dfe/a28789.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
-    [ "JustEngagedWith", "d6/dfe/a28789.html#a0c36f1dfc094007990f067544a940538", null ],
-    [ "Reset", "d6/dfe/a28789.html#ac0f6b47044099016dd6453674b75b2c8", null ],
-    [ "UpdateAI", "d6/dfe/a28789.html#af9da118068234755fa9219b84050d2a3", null ],
-    [ "bunnyTimer", "d6/dfe/a28789.html#a99c2923194cf6a07bee8924abf98f470", null ],
-    [ "inLove", "d6/dfe/a28789.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
-    [ "jumpTimer", "d6/dfe/a28789.html#a5c17e00187ac87b23482dfbabb89809b", null ],
-    [ "rabbitGUID", "d6/dfe/a28789.html#af838b25c8442767aaef16e95022cb062", null ],
-    [ "searchTimer", "d6/dfe/a28789.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
+    [ "npc_wormholeAI", "d6/dfe/a28789.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "d6/dfe/a28789.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "d6/dfe/a28789.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "d6/dfe/a28789.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

@@ -1,11 +1,12 @@
 var a21645 =
 [
-    [ "npc_vh_void_sentry", "d8/d35/a21645.html#adeb66953fb7540aab5190b825ff98ec8", null ],
-    [ "DoAction", "d8/d35/a21645.html#a37ed72c221f23cd653694c10d536eec4", null ],
-    [ "JustDied", "d8/d35/a21645.html#aabf96934586d38d6f958c1571c0b3b56", null ],
-    [ "SummonedCreatureDespawn", "d8/d35/a21645.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
-    [ "UpdateAI", "d8/d35/a21645.html#a417af2ca21310ca105d7561e3ab21272", null ],
-    [ "_events", "d8/d35/a21645.html#a30899a2d4d8a82b26251911dc3b48008", null ],
-    [ "_instance", "d8/d35/a21645.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
-    [ "_summonedGuid", "d8/d35/a21645.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
+    [ "boss_xevozz", "d8/d35/a21645.html#aea402ffbe689ca65e29b30899862a8bc", null ],
+    [ "EnterEvadeMode", "d8/d35/a21645.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
+    [ "ExecuteEvent", "d8/d35/a21645.html#af5b37fc643f2b22468a38655fce63d25", null ],
+    [ "JustDied", "d8/d35/a21645.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
+    [ "JustEngagedWith", "d8/d35/a21645.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
+    [ "JustSummoned", "d8/d35/a21645.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
+    [ "KilledUnit", "d8/d35/a21645.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
+    [ "MoveInLineOfSight", "d8/d35/a21645.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
+    [ "SummonedCreatureDespawn", "d8/d35/a21645.html#a1493a5acdfcca7d01446564db622239e", null ]
 ];

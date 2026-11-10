@@ -1,6 +1,6 @@
 var a15577 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "df/d78/a15581.html", "df/d78/a15581" ],
-    [ "instance_razorfen_kraul", "d9/dff/a15577.html#aedd65b901c8131a7ac21e8576734f76f", null ],
-    [ "GetInstanceScript", "d9/dff/a15577.html#a78e77010ebb055b9530733ca25533110", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "df/d78/a15581.html", "df/d78/a15581" ],
+    [ "instance_ragefire_chasm", "d9/dff/a15577.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
+    [ "GetInstanceScript", "d9/dff/a15577.html#a0568996a61ef91688b9f223cb3782e5a", null ]
 ];

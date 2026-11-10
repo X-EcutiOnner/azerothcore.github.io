@@ -1,12 +1,19 @@
 var a20065 =
 [
-    [ "boss_ionar", "d4/dfa/a20065.html#a323da67c3ff33d09d07cf0369600a473", null ],
-    [ "JustDied", "d4/dfa/a20065.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
-    [ "JustEngagedWith", "d4/dfa/a20065.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
-    [ "KilledUnit", "d4/dfa/a20065.html#ae6b1225147bc146066185d4d21c19f14", null ],
-    [ "Reset", "d4/dfa/a20065.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
-    [ "ScheduleEvents", "d4/dfa/a20065.html#af74dda7ad9cd156036689694b3bb9986", null ],
-    [ "SpellHit", "d4/dfa/a20065.html#a85c0ba28de5a684435246539d2106dcd", null ],
-    [ "Split", "d4/dfa/a20065.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
-    [ "UpdateAI", "d4/dfa/a20065.html#ad6fb218e743bad9fec357ea7d862744d", null ]
+    [ "boss_bjarngrim", "d4/dfa/a20065.html#a1bf90864479939ba3f251c38b173e23a", null ],
+    [ "InitializeWaypoints", "d4/dfa/a20065.html#a87eab2b27b48d98b94a030936722781e", null ],
+    [ "JustDied", "d4/dfa/a20065.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
+    [ "JustEngagedWith", "d4/dfa/a20065.html#ad150ab7d9837861e8c4673a78978bb11", null ],
+    [ "JustRespawned", "d4/dfa/a20065.html#ab698e8ea0de311b167d95c01ef1bee69", null ],
+    [ "KilledUnit", "d4/dfa/a20065.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
+    [ "RemoveStanceAura", "d4/dfa/a20065.html#a55a695e27192313c6cbe263a739e669e", null ],
+    [ "Reset", "d4/dfa/a20065.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
+    [ "RollStance", "d4/dfa/a20065.html#acd511435f9d77aa4839e1c856382ea51", null ],
+    [ "UpdateEscortAI", "d4/dfa/a20065.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
+    [ "WaypointReached", "d4/dfa/a20065.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
+    [ "WaypointReached", "d4/dfa/a20065.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "events", "d4/dfa/a20065.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
+    [ "m_pInstance", "d4/dfa/a20065.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
+    [ "m_uiStance", "d4/dfa/a20065.html#aec11755c71f056c8294a8af1c1084353", null ],
+    [ "summons", "d4/dfa/a20065.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
 ];

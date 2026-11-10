@@ -1,9 +1,10 @@
 var a09721 =
 [
-    [ "GameObjectSearcher", "d2/df8/a09721.html#a6625a6afd81bea2f9cdd10fad6d4a5a4", null ],
-    [ "Visit", "d2/df8/a09721.html#a16685c62e1e69fdc5df55b2b3920a579", null ],
-    [ "Visit", "d2/df8/a09721.html#a1105dd396e4fe8c366fc453b5a4bec02", null ],
-    [ "i_check", "d2/df8/a09721.html#a71152e100ea7c72eceb5cda470d5a2f3", null ],
-    [ "i_object", "d2/df8/a09721.html#ad1c14442e0f1b5d9ee43639077c75876", null ],
-    [ "i_phaseMask", "d2/df8/a09721.html#ac11e036da088f6e62556c42965530040", null ]
+    [ "AIRelocationNotifier", "d2/df8/a09721.html#a05c1f74272dff612eeda6c50d1c6fb43", null ],
+    [ "Visit", "d2/df8/a09721.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
+    [ "Visit", "d2/df8/a09721.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
+    [ "Visit", "d2/df8/a09721.html#a3cbdb164a6239614ef6ade13ddb5d33c", null ],
+    [ "i_unit", "d2/df8/a09721.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
+    [ "includePlayers", "d2/df8/a09721.html#ac7985b8f0282180a063ccfba7583917e", null ],
+    [ "isCreature", "d2/df8/a09721.html#a199f4b91d00dd4db90855e5521d87a95", null ]
 ];

@@ -1,13 +1,21 @@
 var a05156 =
 [
-    [ "anonymous_namespace{AddonMgr.cpp}", "d1/df0/a05157.html", [
-      [ "SavedAddonsList", "d1/df0/a05157.html#afa468163a23ed58507a89e5724c06eac", null ],
-      [ "m_bannedAddons", "d1/df0/a05157.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
-      [ "m_knownAddons", "d1/df0/a05157.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
-    ] ],
-    [ "BannedAddonList", "d7/d13/a05156.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
-    [ "GetAddonInfo", "d7/d13/a05156.html#a6edf9a462d4afcaff40e69da1e75cca5", null ],
-    [ "GetBannedAddons", "d7/d13/a05156.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "d7/d13/a05156.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "d7/d13/a05156.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
+    [ "AES", "d8/d7e/a05561.html", "d8/d7e/a05561" ],
+    [ "ARC4", "d2/d4a/a05565.html", "d2/d4a/a05565" ],
+    [ "Argon2", "d3/d72/a05569.html", "d3/d72/a05569" ],
+    [ "Constants", "d3/d99/a05585.html", "d3/d99/a05585" ],
+    [ "SRP6", "d1/dfe/a05577.html", "d1/dfe/a05577" ],
+    [ "TOTP", "d5/d6f/a05609.html", "d5/d6f/a05609" ],
+    [ "HMAC_SHA1", "d7/d13/a05156.html#a5186a2a02e2301ec3ea7b37d8b41097f", null ],
+    [ "HMAC_SHA256", "d7/d13/a05156.html#a80d906d20826d6c963f50eba5f7c4c2a", null ],
+    [ "MD5", "d7/d13/a05156.html#a0e8f523857a8cf977c3aa63b40112a4d", null ],
+    [ "SHA1", "d7/d13/a05156.html#ac698fcc9e65a1dd451c5bd72b1b3e368", null ],
+    [ "SHA256", "d7/d13/a05156.html#a57930df8fd74a97f0fbc8d958ebb215f", null ],
+    [ "AEDecrypt", "d7/d13/a05156.html#a1173a93d3f38af692d24411d34829de0", null ],
+    [ "AEDecrypt", "d7/d13/a05156.html#aeb3d22d5d1d2ceeb4a752b7dccc143b0", null ],
+    [ "AEEncryptWithRandomIV", "d7/d13/a05156.html#a0057c59e47839100792e392e2d73783a", null ],
+    [ "AEEncryptWithRandomIV", "d7/d13/a05156.html#a42045f5644391c1c876f0ae1bc180f7c", null ],
+    [ "GetRandomBytes", "d7/d13/a05156.html#ab09d7cc2f8e11fc5fe6b2323d57b7184", null ],
+    [ "GetRandomBytes", "d7/d13/a05156.html#a797cfc74306f60b5c63eecb37a2061d3", null ],
+    [ "GetRandomBytes", "d7/d13/a05156.html#a2ff283a7b883696205a91f122b194f6f", null ]
 ];

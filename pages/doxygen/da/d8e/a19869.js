@@ -1,6 +1,7 @@
 var a19869 =
 [
-    [ "HandleScript", "da/d8e/a19869.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
-    [ "PrepareSpellScript", "da/d8e/a19869.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
-    [ "Register", "da/d8e/a19869.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
+    [ "FilterTargets", "da/d8e/a19869.html#a6beccd163ab8442a1ed39c553716cb73", null ],
+    [ "Load", "da/d8e/a19869.html#a5df67c2dbd14a75435f68939240daae6", null ],
+    [ "PrepareSpellScript", "da/d8e/a19869.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
+    [ "Register", "da/d8e/a19869.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
 ];

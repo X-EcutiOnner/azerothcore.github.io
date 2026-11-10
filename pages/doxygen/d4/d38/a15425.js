@@ -1,7 +1,9 @@
 var a15425 =
 [
-    [ "boss_epoch_hunter", "d4/d38/a15425.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "d4/d38/a15425.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "d4/d38/a15425.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "d4/d38/a15425.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "npc_crate_helperAI", "d4/d38/a15425.html#ad58a2f3746da7862658fb3b9e1580836", null ],
+    [ "GetCrateId", "d4/d38/a15425.html#ae034fd80a80a1300a10e68dc97600f2a", null ],
+    [ "SpellHit", "d4/d38/a15425.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
+    [ "StartCitizenRP", "d4/d38/a15425.html#a557bd9e25cba056e7f44cb5a85c026d9", null ],
+    [ "StartCrateRP", "d4/d38/a15425.html#a20b659d82d9552207ad972da01ea5e2d", null ],
+    [ "_marked", "d4/d38/a15425.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
 ];
