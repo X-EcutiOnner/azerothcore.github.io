@@ -1,4 +1,5 @@
 var a01151 =
 [
-    [ "ScriptRegistry< GuildScript >", "de/df1/a01151.html#af7c126caabb7b664b2a28086b5f7737e", null ]
+    [ "holetab_h", "de/df1/a01151.html#a10e90ca95e60d3244de3e68d7882433b", null ],
+    [ "holetab_v", "de/df1/a01151.html#a54b408dce116992610ba9c141426d821", null ]
 ];

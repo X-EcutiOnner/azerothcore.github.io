@@ -1,6 +1,6 @@
 var a24041 =
 [
-    [ "OnApply", "dc/d77/a24041.html#a472220f22165c6d21eab5f4b5f75921e", null ],
-    [ "PrepareAuraScript", "dc/d77/a24041.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
-    [ "Register", "dc/d77/a24041.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
+    [ "HandlePeriodic", "dc/d77/a24041.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "dc/d77/a24041.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "dc/d77/a24041.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

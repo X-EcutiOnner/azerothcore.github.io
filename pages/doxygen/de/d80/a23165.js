@@ -1,11 +1,11 @@
 var a23165 =
 [
-    [ "boss_essence_of_angerAI", "de/d80/a23165.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "de/d80/a23165.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "de/d80/a23165.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "de/d80/a23165.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "de/d80/a23165.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "de/d80/a23165.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "de/d80/a23165.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "targetGUID", "de/d80/a23165.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "boss_essence_of_desireAI", "de/d80/a23165.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "de/d80/a23165.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "de/d80/a23165.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "de/d80/a23165.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "de/d80/a23165.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "de/d80/a23165.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "de/d80/a23165.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "de/d80/a23165.html#af348a1b996a8e7704ba55185ef79fe7d", null ]
 ];

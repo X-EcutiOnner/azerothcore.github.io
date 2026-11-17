@@ -1,12 +1,13 @@
 var a20885 =
 [
-    [ "npc_razorscale_harpoon_fire_state", "d4/dcc/a20885.html#a5bcb95382dc80bae1f4f05c306fb52bf", null ],
-    [ "DoAction", "d4/dcc/a20885.html#aa7a12bae703c1a7d215dc0181f9ad532", null ],
-    [ "GetData", "d4/dcc/a20885.html#ae552669fbd1a66a457cc30a2ed13c8fd", null ],
-    [ "RemovePart", "d4/dcc/a20885.html#a94b0d5a0d04b78633fc6fb354392649c", null ],
-    [ "Reset", "d4/dcc/a20885.html#aad5f2d32fffaacec3485b0743f4267aa", null ],
-    [ "_gunGUID", "d4/dcc/a20885.html#a28aa10fbd9bf6c14c69c49bc2b038934", null ],
-    [ "_index", "d4/dcc/a20885.html#a6d41e56fe86b818a78188bbd58b4a702", null ],
-    [ "_propGUID", "d4/dcc/a20885.html#aee12db66c438a5f4e798fe7a51bc4156", null ],
-    [ "_repairProgress", "d4/dcc/a20885.html#af1c14d6762f9fc9f3a78f040a544bde4", null ]
+    [ "npc_expedition_engineer", "d4/dcc/a20885.html#a4466b777c0018535ab36101a0ac15c1f", null ],
+    [ "DoAction", "d4/dcc/a20885.html#a3d6ae901e36064d9530c53a81f3283c4", null ],
+    [ "IsEast", "d4/dcc/a20885.html#aaad4dea3d9d22df71cb0aa9a362ee89d", null ],
+    [ "Reset", "d4/dcc/a20885.html#a52036cb7114c752dee00a0eeab247c1c", null ],
+    [ "StopRepairing", "d4/dcc/a20885.html#a19c1724343a928fc40d4c9c8c439633c", null ],
+    [ "UpdateAI", "d4/dcc/a20885.html#a0d28f6c2705414fbed53db59f49d31c1", null ],
+    [ "_harpoonGUID", "d4/dcc/a20885.html#a658a071b9b9db16d59aadcf7345545be", null ],
+    [ "_instance", "d4/dcc/a20885.html#aeb8e60ec32b8701e5e38f95665dc6651", null ],
+    [ "_state", "d4/dcc/a20885.html#aa5d58d052539fc5705cdafc30a86433e", null ],
+    [ "_timer", "d4/dcc/a20885.html#aedd930cbb62c28f73c68823493bb35bd", null ]
 ];

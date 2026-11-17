@@ -1,19 +1,9 @@
 var a00236 =
 [
-    [ "SpellProcChargeTest", "d8/de4/a30209.html", "d8/de4/a30209" ],
-    [ "TEST_F", "d7/d40/a00236.html#af6b7ce5004d831afafdd960e76b497b9", null ],
-    [ "TEST_F", "d7/d40/a00236.html#a6aad9923e77ce2183a9bfd5884fe3912", null ],
-    [ "TEST_F", "d7/d40/a00236.html#a7502979bd6cdb7d72f8c6ce5a3e67598", null ],
-    [ "TEST_F", "d7/d40/a00236.html#af9b31ad83d3c0000b3862f4271c5a670", null ],
-    [ "TEST_F", "d7/d40/a00236.html#a223a5cdf49fecfa7b4b80d2a0dcf1468", null ],
-    [ "TEST_F", "d7/d40/a00236.html#add201c56e63c8e3d4b9541d4b0ad8d1f", null ],
-    [ "TEST_F", "d7/d40/a00236.html#a746f7ab811ea4ea58f21d77180c752b3", null ],
-    [ "TEST_F", "d7/d40/a00236.html#a8cddad3956dbe3afd8a23e969ba46d05", null ],
-    [ "TEST_F", "d7/d40/a00236.html#a89db4a2cf2935011d4e98ff3385c25d8", null ],
-    [ "TEST_F", "d7/d40/a00236.html#ab8fbc8d09d454845b486266a32ec0055", null ],
-    [ "TEST_F", "d7/d40/a00236.html#a8ae02922feb6d525efc5203b349d36d8", null ],
-    [ "TEST_F", "d7/d40/a00236.html#ac539918ba1c029cc1ea195c532da00ad", null ],
-    [ "TEST_F", "d7/d40/a00236.html#afdc5df5f8196781ca55254eda1bd09d0", null ],
-    [ "TEST_F", "d7/d40/a00236.html#a03704468e16a20474afaecd9dea9019f", null ],
-    [ "TEST_F", "d7/d40/a00236.html#a1d7c412fdf87bebbdfa8133166237d6c", null ]
+    [ "MMAP::MapTiles", "d9/d9c/a30505.html", "d9/d9c/a30505" ],
+    [ "MMAP::Tile", "d0/d5a/a30509.html", "d0/d5a/a30509" ],
+    [ "MMAP::TileInfo", "dd/dfb/a30513.html", "dd/dfb/a30513" ],
+    [ "MMAP::TileBuilder", "d4/de6/a30517.html", "d4/de6/a30517" ],
+    [ "MMAP::MapBuilder", "db/d29/a30521.html", "db/d29/a30521" ],
+    [ "TileList", "d7/d40/a00236.html#aa2aae6f254337f29866a5d240d5ec2b1", null ]
 ];

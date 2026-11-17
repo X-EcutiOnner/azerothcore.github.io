@@ -1,6 +1,6 @@
 var a23889 =
 [
-    [ "boss_porung", "db/dc8/a23889.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "db/dc8/a23889.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "db/dc8/a23889.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "HandleEffect", "db/dc8/a23889.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
+    [ "PrepareSpellScript", "db/dc8/a23889.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
+    [ "Register", "db/dc8/a23889.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
 ];

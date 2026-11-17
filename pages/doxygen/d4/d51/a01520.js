@@ -1,6 +1,5 @@
 var a01520 =
 [
-    [ "WorldPackets::Packet", "df/d0a/a11037.html", "df/d0a/a11037" ],
-    [ "WorldPackets::ServerPacket", "db/d3b/a11041.html", "db/d3b/a11041" ],
-    [ "WorldPackets::ClientPacket", "d4/dcb/a11045.html", "d4/dcb/a11045" ]
+    [ "SmartTrigger", "db/d96/a06725.html", "db/d96/a06725" ],
+    [ "AddSC_SmartScripts", "d4/d51/a01520.html#ab6012619ba76775b314475ec60f8c7d7", null ]
 ];

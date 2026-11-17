@@ -1,7 +1,10 @@
 var a02873 =
 [
-    [ "IsAcceptedClientBuild", "d7/d13/a02873.html#a50a906b5a3fdca3508aee0997881a717", null ],
-    [ "IsPostBCAcceptedClientBuild", "d7/d13/a02873.html#ad4f22daf9d88367d90d92416f470a28c", null ],
-    [ "IsPreBCAcceptedClientBuild", "d7/d13/a02873.html#a96896fc9dad2c304f681a24776f6726b", null ],
-    [ "MAX_PRE_BC_CLIENT_BUILD", "d7/d13/a02873.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
+    [ "OutdoorPvP_nagrand", "d9/d6f/a22777.html", "d9/d6f/a22777" ],
+    [ "outdoorpvp_na_halaa_creatures", "d1/dc4/a22781.html", "d1/dc4/a22781" ],
+    [ "AddSC_outdoorpvp_na", "d7/d13/a02873.html#a03015585e7619177355fefd05f85e1c7", null ],
+    [ "FlagPlayerPvP", "d7/d13/a02873.html#ab1d33448696056a0951a0c306a511f1e", null ],
+    [ "UpdateCreatureHalaa", "d7/d13/a02873.html#a37af66c813e135cc11bd1dc663b35697", null ],
+    [ "halaaNPCAlly", "d7/d13/a02873.html#a3428675268608e5372767fc629259d5c", null ],
+    [ "halaaNPCHorde", "d7/d13/a02873.html#a531a4e8a5291c048ad0f3b0fc64b29d9", null ]
 ];

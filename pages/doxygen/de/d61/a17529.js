@@ -1,6 +1,7 @@
 var a17529 =
 [
-    [ "boss_garfrostAI", "df/d30/a17533.html", "df/d30/a17533" ],
-    [ "boss_garfrost", "de/d61/a17529.html#ac116491cf252ee476cedee55ea292827", null ],
-    [ "GetAI", "de/d61/a17529.html#a8a67bb09249655a8706868bb26b5124d", null ]
+    [ "UtherBatteredHiltEvent", "de/d61/a17529.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "de/d61/a17529.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "de/d61/a17529.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "de/d61/a17529.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

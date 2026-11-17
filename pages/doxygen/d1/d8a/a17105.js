@@ -1,7 +1,6 @@
 var a17105 =
 [
-    [ "npc_toc_enh_shamanAI", "d1/d8a/a17105.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "d1/d8a/a17105.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "d1/d8a/a17105.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "d1/d8a/a17105.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "npc_toc_enh_shamanAI", "d7/dee/a17109.html", "d7/dee/a17109" ],
+    [ "npc_toc_enh_shaman", "d1/d8a/a17105.html#ac328b63a988d2cd8640237b250c338a8", null ],
+    [ "GetAI", "d1/d8a/a17105.html#a4501c9289a06750d8f153f89565b12f3", null ]
 ];

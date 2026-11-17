@@ -1,4 +1,4 @@
 var a01934 =
 [
-    [ "GridReference< OBJECT >", "d1/d24/a09633.html", "d1/d24/a09633" ]
+    [ "ScriptRegistry< GameObjectScript >", "de/da9/a01934.html#ae9014c60529a1387cccce404773fd736", null ]
 ];

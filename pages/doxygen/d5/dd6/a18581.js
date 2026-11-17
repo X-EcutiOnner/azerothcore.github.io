@@ -1,6 +1,7 @@
 var a18581 =
 [
-    [ "boss_sindragosaAI", "df/d77/a18585.html", "df/d77/a18585" ],
-    [ "boss_sindragosa", "d5/dd6/a18581.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "d5/dd6/a18581.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "IceTombSummonEvent", "d5/dd6/a18581.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "d5/dd6/a18581.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "d5/dd6/a18581.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "d5/dd6/a18581.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

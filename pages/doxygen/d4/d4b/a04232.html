@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Commands/cs_misc.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/zone_ironforge.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,197 +106,106 @@ $(document).ready(function(){initNavTree('d4/d4b/a04232.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">cs_misc.cpp File Reference</div></div>
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">zone_ironforge.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AccountMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ArenaTeamMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CharacterCache.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CommandScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameGraveyard.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObject.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridTerrainLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Group.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GuildMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">IPLocation.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceSaveMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFG.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFGMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Language.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MiscPackets.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MovementGenerator.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Pet.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">PoolMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">RBAC.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Realm.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellAuras.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TargetedMovementGenerator.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Tokenize.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WeatherMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d6a/a12649.html">misc_commandscript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d69/a14177.html">npc_king_magni_bronzebeard</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a4b1dfd5f3e79f13d25d2d89aa1469c3e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e">KingMagniBronzebeard</a> { <br />
+&#160;&#160;<a class="el" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa">SOUND_AGGRO</a> = 5896
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35">SPELL_AVATAR</a> = 19135
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa">SPELL_KNOCK_AWAY</a> = 20686
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2">SPELL_STORM_BOLT</a> = 20685
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea5e7515dea0183a414914625df021100e">SAY_BROKERING_OF_PEACE</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea3f56db670ce24d026768aafcea808670">QUEST_BROKERING_OF_PEACE</a> = 8484
+<br />
+ }</td></tr>
+<tr class="separator:a4b1dfd5f3e79f13d25d2d89aa1469c3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aaedbdfd3cae227b11684151f41e3b977"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d4b/a04232.html#aaedbdfd3cae227b11684151f41e3b977">GetLocalizeCreatureName</a> (<a class="el" href="../../da/d0f/a08505.html">Creature</a> *creature, <a class="el" href="../../d4/d45/a00791.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale)</td></tr>
-<tr class="separator:aaedbdfd3cae227b11684151f41e3b977"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac722d20c86b9502b7c4c8ae711cc3917"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d4b/a04232.html#ac722d20c86b9502b7c4c8ae711cc3917">AddSC_misc_commandscript</a> ()</td></tr>
-<tr class="separator:ac722d20c86b9502b7c4c8ae711cc3917"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a1706df7feb0ef4f693c388033ace5fb7"><td class="memItemLeft" align="right" valign="top">constexpr auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d4b/a04232.html#a1706df7feb0ef4f693c388033ace5fb7">SPELL_STUCK</a> = 7355</td></tr>
-<tr class="separator:a1706df7feb0ef4f693c388033ace5fb7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a181bdc61e4eb1d21db975ca0227cb086"><td class="memItemLeft" align="right" valign="top">constexpr auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d4b/a04232.html#a181bdc61e4eb1d21db975ca0227cb086">SPELL_FREEZE</a> = 9454</td></tr>
-<tr class="separator:a181bdc61e4eb1d21db975ca0227cb086"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2f983b337fe1f23e428542f1d26d0c2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d4b/a04232.html#aa2f983b337fe1f23e428542f1d26d0c2">AddSC_ironforge</a> ()</td></tr>
+<tr class="separator:aa2f983b337fe1f23e428542f1d26d0c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="ac722d20c86b9502b7c4c8ae711cc3917" name="ac722d20c86b9502b7c4c8ae711cc3917"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac722d20c86b9502b7c4c8ae711cc3917">&#9670;&#160;</a></span>AddSC_misc_commandscript()</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a4b1dfd5f3e79f13d25d2d89aa1469c3e" name="a4b1dfd5f3e79f13d25d2d89aa1469c3e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b1dfd5f3e79f13d25d2d89aa1469c3e">&#9670;&#160;</a></span>KingMagniBronzebeard</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_misc_commandscript </td>
+          <td class="memname">enum <a class="el" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e">KingMagniBronzebeard</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa" name="a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa"></a>SOUND_AGGRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35" name="a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35"></a>SPELL_AVATAR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa" name="a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa"></a>SPELL_KNOCK_AWAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2" name="a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2"></a>SPELL_STORM_BOLT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4b1dfd5f3e79f13d25d2d89aa1469c3ea5e7515dea0183a414914625df021100e" name="a4b1dfd5f3e79f13d25d2d89aa1469c3ea5e7515dea0183a414914625df021100e"></a>SAY_BROKERING_OF_PEACE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4b1dfd5f3e79f13d25d2d89aa1469c3ea3f56db670ce24d026768aafcea808670" name="a4b1dfd5f3e79f13d25d2d89aa1469c3ea3f56db670ce24d026768aafcea808670"></a>QUEST_BROKERING_OF_PEACE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
+<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa">SOUND_AGGRO</a>              = 5896,</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35">SPELL_AVATAR</a>             = 19135,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa">SPELL_KNOCK_AWAY</a>         = 20686,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2">SPELL_STORM_BOLT</a>         = 20685,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea5e7515dea0183a414914625df021100e">SAY_BROKERING_OF_PEACE</a>   = 1,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea3f56db670ce24d026768aafcea808670">QUEST_BROKERING_OF_PEACE</a> = 8484</div>
+<div class="line"><span class="lineno">   31</span>};</div>
+<div class="ttc" id="aa04232_html_a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35"><div class="ttname"><a href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35">SPELL_AVATAR</a></div><div class="ttdeci">@ SPELL_AVATAR</div><div class="ttdef"><b>Definition:</b> zone_ironforge.cpp:26</div></div>
+<div class="ttc" id="aa04232_html_a4b1dfd5f3e79f13d25d2d89aa1469c3ea3f56db670ce24d026768aafcea808670"><div class="ttname"><a href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea3f56db670ce24d026768aafcea808670">QUEST_BROKERING_OF_PEACE</a></div><div class="ttdeci">@ QUEST_BROKERING_OF_PEACE</div><div class="ttdef"><b>Definition:</b> zone_ironforge.cpp:30</div></div>
+<div class="ttc" id="aa04232_html_a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2"><div class="ttname"><a href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2">SPELL_STORM_BOLT</a></div><div class="ttdeci">@ SPELL_STORM_BOLT</div><div class="ttdef"><b>Definition:</b> zone_ironforge.cpp:28</div></div>
+<div class="ttc" id="aa04232_html_a4b1dfd5f3e79f13d25d2d89aa1469c3ea5e7515dea0183a414914625df021100e"><div class="ttname"><a href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea5e7515dea0183a414914625df021100e">SAY_BROKERING_OF_PEACE</a></div><div class="ttdeci">@ SAY_BROKERING_OF_PEACE</div><div class="ttdef"><b>Definition:</b> zone_ironforge.cpp:29</div></div>
+<div class="ttc" id="aa04232_html_a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa"><div class="ttname"><a href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa">SPELL_KNOCK_AWAY</a></div><div class="ttdeci">@ SPELL_KNOCK_AWAY</div><div class="ttdef"><b>Definition:</b> zone_ironforge.cpp:27</div></div>
+<div class="ttc" id="aa04232_html_a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa"><div class="ttname"><a href="../../d4/d4b/a04232.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa">SOUND_AGGRO</a></div><div class="ttdeci">@ SOUND_AGGRO</div><div class="ttdef"><b>Definition:</b> zone_ironforge.cpp:25</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="aa2f983b337fe1f23e428542f1d26d0c2" name="aa2f983b337fe1f23e428542f1d26d0c2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2f983b337fe1f23e428542f1d26d0c2">&#9670;&#160;</a></span>AddSC_ironforge()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_ironforge </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 3566</span>{</div>
-<div class="line"><span class="lineno"> 3567</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/d6a/a12649.html">misc_commandscript</a>();</div>
-<div class="line"><span class="lineno"> 3568</span>}</div>
-<div class="ttc" id="aa12649_html"><div class="ttname"><a href="../../db/d6a/a12649.html">misc_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_misc.cpp:91</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   80</span>{</div>
+<div class="line"><span class="lineno">   81</span>    <a class="code hl_define" href="../../dc/d31/a01892.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d9/d69/a14177.html">npc_king_magni_bronzebeard</a>);</div>
+<div class="line"><span class="lineno">   82</span>}</div>
+<div class="ttc" id="aa01892_html_a5e7352841895df7117e2830448eb533f"><div class="ttname"><a href="../../dc/d31/a01892.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a></div><div class="ttdeci">#define RegisterCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> CreatureScript.h:71</div></div>
+<div class="ttc" id="aa14177_html"><div class="ttname"><a href="../../d9/d69/a14177.html">npc_king_magni_bronzebeard</a></div><div class="ttdef"><b>Definition:</b> zone_ironforge.cpp:34</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00071">RegisterCreatureAI</a>.</p>
 
-</div>
-</div>
-<a id="aaedbdfd3cae227b11684151f41e3b977" name="aaedbdfd3cae227b11684151f41e3b977"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaedbdfd3cae227b11684151f41e3b977">&#9670;&#160;</a></span>GetLocalizeCreatureName()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string const GetLocalizeCreatureName </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d0f/a08505.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>creature</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d45/a00791.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td>
-          <td class="paramname"><em>locale</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   65</span>{</div>
-<div class="line"><span class="lineno">   66</span>    <span class="keyword">auto</span> creatureTemplate = <a class="code hl_define" href="../../dd/d08/a01682.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureTemplate(creature-&gt;<a class="code hl_function" href="../../d3/d53/a08893.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>());</div>
-<div class="line"><span class="lineno">   67</span>    <span class="keyword">auto</span> cretureLocale = <a class="code hl_define" href="../../dd/d08/a01682.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureLocale(creature-&gt;<a class="code hl_function" href="../../d3/d53/a08893.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>());</div>
-<div class="line"><span class="lineno">   68</span>    std::string name;</div>
-<div class="line"><span class="lineno">   69</span> </div>
-<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">if</span> (cretureLocale)</div>
-<div class="line"><span class="lineno">   71</span>    {</div>
-<div class="line"><span class="lineno">   72</span>        name = cretureLocale-&gt;Name[locale];</div>
-<div class="line"><span class="lineno">   73</span>    }</div>
-<div class="line"><span class="lineno">   74</span> </div>
-<div class="line"><span class="lineno">   75</span>    <span class="keywordflow">if</span> (name.empty() &amp;&amp; creatureTemplate)</div>
-<div class="line"><span class="lineno">   76</span>    {</div>
-<div class="line"><span class="lineno">   77</span>        name = creatureTemplate-&gt;Name;</div>
-<div class="line"><span class="lineno">   78</span>    }</div>
-<div class="line"><span class="lineno">   79</span> </div>
-<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">if</span> (name.empty())</div>
-<div class="line"><span class="lineno">   81</span>    {</div>
-<div class="line"><span class="lineno">   82</span>        name = <span class="stringliteral">&quot;Unknown creature&quot;</span>;</div>
-<div class="line"><span class="lineno">   83</span>    }</div>
-<div class="line"><span class="lineno">   84</span> </div>
-<div class="line"><span class="lineno">   85</span>    <span class="keywordflow">return</span> name;</div>
-<div class="line"><span class="lineno">   86</span>}</div>
-<div class="ttc" id="aa01682_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../dd/d08/a01682.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1731</div></div>
-<div class="ttc" id="aa08893_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d3/d53/a08893.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:123</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00123">Object::GetEntry()</a>, and <a class="el" href="../../#l01731">sObjectMgr</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l03304">misc_commandscript::HandleFreezeCommand()</a>, and <a class="el" href="../../#l03347">misc_commandscript::HandleUnFreezeCommand()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a181bdc61e4eb1d21db975ca0227cb086" name="a181bdc61e4eb1d21db975ca0227cb086"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a181bdc61e4eb1d21db975ca0227cb086">&#9670;&#160;</a></span>SPELL_FREEZE</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr auto SPELL_FREEZE = 9454</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l03304">misc_commandscript::HandleFreezeCommand()</a>, and <a class="el" href="../../#l03347">misc_commandscript::HandleUnFreezeCommand()</a>.</p>
-
-</div>
-</div>
-<a id="a1706df7feb0ef4f693c388033ace5fb7" name="a1706df7feb0ef4f693c388033ace5fb7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1706df7feb0ef4f693c388033ace5fb7">&#9670;&#160;</a></span>SPELL_STUCK</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr auto SPELL_STUCK = 7355</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../dd/dce/a05135.html#_todo000158">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01456">misc_commandscript::HandleUnstuckCommand()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00165">AddEasternKingdomsScripts()</a>.</p>
 
 </div>
 </div>
@@ -305,8 +214,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_2519615cc1c93425dacf3aa6e071da7e.html">Commands</a></li><li class="navelem"><a class="el" href="../../d4/d4b/a04232.html">cs_misc.cpp</a></li>
-    <li class="footer">Generated on Tue Nov 10 2026 02:54:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../d4/d4b/a04232.html">zone_ironforge.cpp</a></li>
+    <li class="footer">Generated on Tue Nov 17 2026 03:05:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

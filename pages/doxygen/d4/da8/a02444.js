@@ -1,5 +1,5 @@
 var a02444 =
 [
-    [ "GetLowLevelsMinPlayersOverride", "d4/da8/a02444.html#a37cb97319fde2ce5eaaef583591063a9", null ],
-    [ "GetMinPlayersPerTeam", "d4/da8/a02444.html#ab22bdb52b0357434faced9df19db9d81", null ]
+    [ "WorldPackets::Combat::SetSheathed", "d7/dfb/a11141.html", "d7/dfb/a11141" ],
+    [ "WorldPackets::Combat::SAttackStop", "d3/d6b/a11145.html", "d3/d6b/a11145" ]
 ];

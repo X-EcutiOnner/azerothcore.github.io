@@ -4,6 +4,7 @@ var a12613 =
     [ "GetBossName", "d5/d90/a12613.html#ad43fc6c424433ec6ad058b19bd081ff4", null ],
     [ "GetCommands", "d5/d90/a12613.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
     [ "GetEncounterNames", "d5/d90/a12613.html#ae1c2d4f20494465d73b2cc9e780d234d", null ],
+    [ "HandleInstanceBindCommand", "d5/d90/a12613.html#a381c767032c5006a68d64fc119f0aed1", null ],
     [ "HandleInstanceGetBossStateCommand", "d5/d90/a12613.html#a0530ca6481073d6bafd11596546140b0", null ],
     [ "HandleInstanceListBindsCommand", "d5/d90/a12613.html#abf42411f9c78ce59b21b34691e3d4233", null ],
     [ "HandleInstanceSaveDataCommand", "d5/d90/a12613.html#a4b494a8b1de470612436fbb9fa433416", null ],

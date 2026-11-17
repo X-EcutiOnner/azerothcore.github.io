@@ -1,9 +1,5 @@
 var a02402 =
 [
-    [ "PetSpell", "d2/d50/a09009.html", "d2/d50/a09009" ],
-    [ "Pet", "de/d68/a09013.html", "de/d68/a09013" ],
-    [ "AutoSpellList", "df/d79/a02402.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
-    [ "PetSpellMap", "df/d79/a02402.html#a5b33058abef8c309621a9029df331c0e", null ],
-    [ "HAPPINESS_LEVEL_SIZE", "df/d79/a02402.html#a892e58d225a828ccac38c7d241365e30", null ],
-    [ "PET_LOSE_HAPPINES_INTERVAL", "df/d79/a02402.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data", "df/d79/a02402.html#a650e9d2ed03f4896b697097e2116298e", null ],
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Key", "df/d79/a02402.html#aba4af9417ad91ebf078cf0ff83ecf503", null ]
 ];

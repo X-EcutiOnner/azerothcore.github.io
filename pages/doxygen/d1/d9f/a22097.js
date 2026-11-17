@@ -1,6 +1,7 @@
 var a22097 =
 [
-    [ "npc_mrfloppyAI", "d1/d2a/a22101.html", "d1/d2a/a22101" ],
-    [ "npc_mrfloppy", "d1/d9f/a22097.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d1/d9f/a22097.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "npc_emilyAI", "d1/d2a/a22101.html", "d1/d2a/a22101" ],
+    [ "npc_emily", "d1/d9f/a22097.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d1/d9f/a22097.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d1/d9f/a22097.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

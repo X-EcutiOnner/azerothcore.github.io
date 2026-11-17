@@ -1,6 +1,4 @@
 var a02183 =
 [
-    [ "AddItemsSetItem", "df/d14/a02183.html#a02944420353f8ba883b80737f8e63137", null ],
-    [ "ItemCanGoIntoBag", "df/d14/a02183.html#a0c91640134a5241ec34f91bdec13c8ec", null ],
-    [ "RemoveItemsSetItem", "df/d14/a02183.html#a402c3dd64769702b750f96adff4b3a14", null ]
+    [ "BuildRBInternalInfo", "df/d14/a02183.html#a8626d94b18828f52411b3abb03a1571d", null ]
 ];

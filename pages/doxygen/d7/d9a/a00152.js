@@ -1,10 +1,11 @@
 var a00152 =
 [
-    [ "ModuleLocaleTest", "d9/dec/a29765.html", "d9/dec/a29765" ],
-    [ "TEST", "d7/d9a/a00152.html#ab84daea2e2489feffd773e04830ed721", null ],
-    [ "TEST", "d7/d9a/a00152.html#ac0d2b2716d71746bd317543b7c1b1b8f", null ],
-    [ "TEST", "d7/d9a/a00152.html#afb235ece547fb39486f4e6c6cef644ad", null ],
-    [ "TEST", "d7/d9a/a00152.html#a176790cddaea8affc14159af420c0825", null ],
-    [ "TEST_F", "d7/d9a/a00152.html#a228f7e1a015577d44845825f7033d0b5", null ],
-    [ "LOCALE_MODULE_SLOT", "d7/d9a/a00152.html#aa4d57310cf34163f1eebaabba18ade43", null ]
+    [ "anonymous_namespace{AuraLoadedStateTest.cpp}::AuraLoadedStateTest", "d4/d55/a30145.html", "d4/d55/a30145" ],
+    [ "TEST_F", "d7/d9a/a00152.html#a3c2cf023118b4939342706355b5e3e23", null ],
+    [ "TEST_F", "d7/d9a/a00152.html#a895af5f48da5209f7d733deb9891ed14", null ],
+    [ "TEST_F", "d7/d9a/a00152.html#a548b1d31d026d08300cee3bdae2fd6d6", null ],
+    [ "AURA_DURATION", "d7/d9a/a00152.html#a3518f795a6c55dbdde7cc0ece4a705e1", null ],
+    [ "BASE_AMOUNT", "d7/d9a/a00152.html#ad5f15dfa412737c696115d53ae943a5e", null ],
+    [ "SAVED_AMOUNT", "d7/d9a/a00152.html#ae35607bfd8bc471969f34f8f743ff210", null ],
+    [ "TEST_AURA_SPELL_ID", "d7/d9a/a00152.html#a1372aab52ee88af350f43d4b126245d5", null ]
 ];

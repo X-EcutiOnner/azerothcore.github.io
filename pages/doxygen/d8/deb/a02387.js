@@ -1,5 +1,5 @@
 var a02387 =
 [
-    [ "Vehicle", "d0/db1/a09309.html", "d0/db1/a09309" ],
-    [ "VehicleDespawnEvent", "d6/dc2/a09313.html", "d6/dc2/a09313" ]
+    [ "WardenInitModuleRequest", "d8/d2c/a12441.html", "d8/d2c/a12441" ],
+    [ "WardenWin", "da/d16/a12445.html", "da/d16/a12445" ]
 ];

@@ -1,30 +1,18 @@
 var a02879 =
 [
-    [ "AUTH_LOGON_CHALLENGE_C", "de/d5c/a06085.html", "de/d5c/a06085" ],
-    [ "AUTH_LOGON_PROOF_C", "d5/d15/a06089.html", "d5/d15/a06089" ],
-    [ "AUTH_LOGON_PROOF_S", "da/d8b/a06093.html", "da/d8b/a06093" ],
-    [ "AUTH_LOGON_PROOF_S_OLD", "de/da7/a06097.html", "de/da7/a06097" ],
-    [ "AUTH_RECONNECT_PROOF_C", "df/d5e/a06101.html", "df/d5e/a06101" ],
-    [ "AUTH_LOGON_CHALLENGE_INITIAL_SIZE", "d9/d9a/a02879.html#a38c5f396c839f5f22ec0ec7a5b2a5019", null ],
-    [ "MAX_ACCEPTED_CHALLENGE_SIZE", "d9/d9a/a02879.html#a2507a44fb848704cf4f3624207c18ebe", null ],
-    [ "REALM_LIST_PACKET_SIZE", "d9/d9a/a02879.html#af848fed368789960f3d9e059f8002e11", null ],
-    [ "sAuthLogonChallenge_C", "d9/d9a/a02879.html#af2b75a713ab063d15c0f303555dab7c2", null ],
-    [ "sAuthLogonProof_C", "d9/d9a/a02879.html#ab50c6b56b4c56513ab11e4bee50a0116", null ],
-    [ "sAuthLogonProof_S", "d9/d9a/a02879.html#a1241a754e900fac64f49cadc4e806321", null ],
-    [ "sAuthLogonProof_S_Old", "d9/d9a/a02879.html#ad153c4ef5e20c186dfe08ed557a4100c", null ],
-    [ "sAuthReconnectProof_C", "d9/d9a/a02879.html#aef6ea8864e443cf0d192820bb670a8d8", null ],
-    [ "eAuthCmd", "d9/d9a/a02879.html#a345cff35e97e1d164879db077b96607b", [
-      [ "AUTH_LOGON_CHALLENGE", "d9/d9a/a02879.html#a345cff35e97e1d164879db077b96607ba62fe494e6ccbaae4d8869486af12ea48", null ],
-      [ "AUTH_LOGON_PROOF", "d9/d9a/a02879.html#a345cff35e97e1d164879db077b96607baec69892078638b4c3a04d6a717e3cb2e", null ],
-      [ "AUTH_RECONNECT_CHALLENGE", "d9/d9a/a02879.html#a345cff35e97e1d164879db077b96607bab5ca452edfc6d290784cefa1132ebfa4", null ],
-      [ "AUTH_RECONNECT_PROOF", "d9/d9a/a02879.html#a345cff35e97e1d164879db077b96607ba968b2c14a04df9db06c0fa6ca2c7c9d3", null ],
-      [ "REALM_LIST", "d9/d9a/a02879.html#a345cff35e97e1d164879db077b96607ba7de0619c3448ca95de937837fd5f27dc", null ],
-      [ "XFER_INITIATE", "d9/d9a/a02879.html#a345cff35e97e1d164879db077b96607ba0152ea9553a4a08a9568de879167adb5", null ],
-      [ "XFER_DATA", "d9/d9a/a02879.html#a345cff35e97e1d164879db077b96607bac4bf4cd27a0fa1424639c5d11cac02f7", null ],
-      [ "XFER_ACCEPT", "d9/d9a/a02879.html#a345cff35e97e1d164879db077b96607ba0faa0d818c7cac462c3b31df8adcbf01", null ],
-      [ "XFER_RESUME", "d9/d9a/a02879.html#a345cff35e97e1d164879db077b96607bae1d058bb15829274dff5133c8c041aa5", null ],
-      [ "XFER_CANCEL", "d9/d9a/a02879.html#a345cff35e97e1d164879db077b96607ba178f53b59478d4e635be98a41873c5e1", null ]
+    [ "OutdoorPvPSI", "d3/d0f/a22801.html", "d3/d0f/a22801" ],
+    [ "OutdoorPvPSISpells", "d9/d9a/a02879.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
+      [ "SI_SILITHYST_FLAG_GO_SPELL", "d9/d9a/a02879.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
+      [ "SI_SILITHYST_FLAG", "d9/d9a/a02879.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
+      [ "SI_TRACES_OF_SILITHYST", "d9/d9a/a02879.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
+      [ "SI_CENARION_FAVOR", "d9/d9a/a02879.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
     ] ],
-    [ "Handlers", "d9/d9a/a02879.html#a887a26fd84a0bf97f1016de6aeba4d4e", null ],
-    [ "VersionChallenge", "d9/d9a/a02879.html#a242dcc388ff0edb5d5eca57953e61317", null ]
+    [ "OutdoorPvPSIBuffZones", "d9/d9a/a02879.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
+    [ "OutdoorPvPSIBuffZonesNum", "d9/d9a/a02879.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
+    [ "SI_AREATRIGGER_A", "d9/d9a/a02879.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
+    [ "SI_AREATRIGGER_H", "d9/d9a/a02879.html#abb17804eb9913c298a5dae804e1c7206", null ],
+    [ "SI_MAX_RESOURCES", "d9/d9a/a02879.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
+    [ "SI_SILITHYST_MOUND", "d9/d9a/a02879.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
+    [ "SI_TURNIN_QUEST_CM_A", "d9/d9a/a02879.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
+    [ "SI_TURNIN_QUEST_CM_H", "d9/d9a/a02879.html#ad1787da9136bc956357571149e1f6b60", null ]
 ];

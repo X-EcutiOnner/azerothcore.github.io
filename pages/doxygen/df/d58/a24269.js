@@ -1,9 +1,11 @@
 var a24269 =
 [
-    [ "npc_ancestral_wolfAI", "df/d58/a24269.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "df/d58/a24269.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "df/d58/a24269.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "df/d58/a24269.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "WaypointReached", "df/d58/a24269.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "ryga", "df/d58/a24269.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "npc_aeranasAI", "df/d58/a24269.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "JustReachedHome", "df/d58/a24269.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
+    [ "Reset", "df/d58/a24269.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "df/d58/a24269.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "_defeated", "df/d58/a24269.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
+    [ "envelopingWinds_Timer", "df/d58/a24269.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "df/d58/a24269.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "df/d58/a24269.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

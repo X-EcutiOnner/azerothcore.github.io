@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Grids/Notifiers/GridNotifiers.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/BattlefieldScript.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,92 +105,84 @@ $(document).ready(function(){initNavTree('d6/d18/a01925.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">GridNotifiers.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">BattlefieldScript.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UpdateData.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a6dd107031f342074ca560b711fe188d7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a> (<a class="el" href="../../da/d0f/a08505.html">Creature</a> *c, <a class="el" href="../../da/dd9/a09273.html">Unit</a> *u)</td></tr>
-<tr class="separator:a6dd107031f342074ca560b711fe188d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d72/a10841.html">BattlefieldScript</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:ad9fb0d66e6cd28e54d79830f1d725089"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089">BattlefieldHook</a> { <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235">BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6">BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710">BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f">BATTLEFIELDHOOK_ON_WAR_END</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e">BATTLEFIELDHOOK_ON_PLAYER_KILL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac">BATTLEFIELDHOOK_END</a>
+<br />
+ }</td></tr>
+<tr class="separator:ad9fb0d66e6cd28e54d79830f1d725089"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a6dd107031f342074ca560b711fe188d7" name="a6dd107031f342074ca560b711fe188d7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6dd107031f342074ca560b711fe188d7">&#9670;&#160;</a></span>CreatureUnitRelocationWorker()</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="ad9fb0d66e6cd28e54d79830f1d725089" name="ad9fb0d66e6cd28e54d79830f1d725089"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9fb0d66e6cd28e54d79830f1d725089">&#9670;&#160;</a></span>BattlefieldHook</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void CreatureUnitRelocationWorker </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d0f/a08505.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>c</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/dd9/a09273.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>u</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">enum <a class="el" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089">BattlefieldHook</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  128</span>{</div>
-<div class="line"><span class="lineno">  129</span>    <span class="keywordflow">if</span> (!u-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || !c-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || c == u || u-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a85b547eedd208db5f9dddc5f75a1a211">IsInFlight</a>())</div>
-<div class="line"><span class="lineno">  130</span>    {</div>
-<div class="line"><span class="lineno">  131</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  132</span>    }</div>
-<div class="line"><span class="lineno">  133</span> </div>
-<div class="line"><span class="lineno">  134</span>    <span class="keywordflow">if</span> (!c-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../de/db2/a02246.html#ae51d2ecb71f7a5cb3882982a622c9544a6109dcad21a2eaf7e1d57bc2ad917558">UNIT_STATE_SIGHTLESS</a>))</div>
-<div class="line"><span class="lineno">  135</span>    {</div>
-<div class="line"><span class="lineno">  136</span>        <span class="keywordflow">if</span> (c-&gt;<a class="code hl_variable" href="../../da/dd9/a09273.html#ab395fef0b407c0af40ba6274c32730a6">IsAIEnabled</a> &amp;&amp; c-&gt;<a class="code hl_function" href="../../dc/d04/a08929.html#addeafb9ef860ca79c7a6570ae75a4bd0">CanSeeOrDetect</a>(u, <span class="keyword">false</span>, <span class="keyword">true</span>))</div>
-<div class="line"><span class="lineno">  137</span>        {</div>
-<div class="line"><span class="lineno">  138</span>            c-&gt;<a class="code hl_function" href="../../da/d0f/a08505.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d4/d5f/a06653.html#afd0302ecfe6e2381dc2bc5f89f2c2152">MoveInLineOfSight_Safe</a>(u);</div>
-<div class="line"><span class="lineno">  139</span>        }</div>
-<div class="line"><span class="lineno">  140</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../d3/d53/a08893.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>() &amp;&amp; u-&gt;<a class="code hl_function" href="../../da/dd9/a09273.html#a671aa59743c8e3919295551a5f113ce1">HasStealthAura</a>() &amp;&amp; c-&gt;<a class="code hl_variable" href="../../da/dd9/a09273.html#ab395fef0b407c0af40ba6274c32730a6">IsAIEnabled</a> &amp;&amp; c-&gt;<a class="code hl_function" href="../../dc/d04/a08929.html#addeafb9ef860ca79c7a6570ae75a4bd0">CanSeeOrDetect</a>(u, <span class="keyword">false</span>, <span class="keyword">true</span>, <span class="keyword">true</span>))</div>
-<div class="line"><span class="lineno">  141</span>        {</div>
-<div class="line"><span class="lineno">  142</span>            c-&gt;<a class="code hl_function" href="../../da/d0f/a08505.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d4/d5f/a06653.html#a3a8fee035f2cd3ed05f46f6ab042cd50">TriggerAlert</a>(u);</div>
-<div class="line"><span class="lineno">  143</span>        }</div>
-<div class="line"><span class="lineno">  144</span>    }</div>
-<div class="line"><span class="lineno">  145</span>}</div>
-<div class="ttc" id="aa02246_html_ae51d2ecb71f7a5cb3882982a622c9544a6109dcad21a2eaf7e1d57bc2ad917558"><div class="ttname"><a href="../../de/db2/a02246.html#ae51d2ecb71f7a5cb3882982a622c9544a6109dcad21a2eaf7e1d57bc2ad917558">UNIT_STATE_SIGHTLESS</a></div><div class="ttdeci">@ UNIT_STATE_SIGHTLESS</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:220</div></div>
-<div class="ttc" id="aa06653_html_a3a8fee035f2cd3ed05f46f6ab042cd50"><div class="ttname"><a href="../../d4/d5f/a06653.html#a3a8fee035f2cd3ed05f46f6ab042cd50">CreatureAI::TriggerAlert</a></div><div class="ttdeci">void TriggerAlert(Unit const *who) const</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:210</div></div>
-<div class="ttc" id="aa06653_html_afd0302ecfe6e2381dc2bc5f89f2c2152"><div class="ttname"><a href="../../d4/d5f/a06653.html#afd0302ecfe6e2381dc2bc5f89f2c2152">CreatureAI::MoveInLineOfSight_Safe</a></div><div class="ttdeci">void MoveInLineOfSight_Safe(Unit *who)</div><div class="ttdoc">== Reactions At =================================</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:169</div></div>
-<div class="ttc" id="aa08505_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../da/d0f/a08505.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition:</b> Creature.h:143</div></div>
-<div class="ttc" id="aa08893_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../d3/d53/a08893.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition:</b> Object.h:207</div></div>
-<div class="ttc" id="aa08929_html_addeafb9ef860ca79c7a6570ae75a4bd0"><div class="ttname"><a href="../../dc/d04/a08929.html#addeafb9ef860ca79c7a6570ae75a4bd0">WorldObject::CanSeeOrDetect</a></div><div class="ttdeci">bool CanSeeOrDetect(WorldObject const *obj, bool ignoreStealth=false, bool distanceCheck=false, bool checkAlert=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1815</div></div>
-<div class="ttc" id="aa09273_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../da/dd9/a09273.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1812</div></div>
-<div class="ttc" id="aa09273_html_a671aa59743c8e3919295551a5f113ce1"><div class="ttname"><a href="../../da/dd9/a09273.html#a671aa59743c8e3919295551a5f113ce1">Unit::HasStealthAura</a></div><div class="ttdeci">bool HasStealthAura() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1860</div></div>
-<div class="ttc" id="aa09273_html_a85b547eedd208db5f9dddc5f75a1a211"><div class="ttname"><a href="../../da/dd9/a09273.html#a85b547eedd208db5f9dddc5f75a1a211">Unit::IsInFlight</a></div><div class="ttdeci">bool IsInFlight() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1725</div></div>
-<div class="ttc" id="aa09273_html_ab395fef0b407c0af40ba6274c32730a6"><div class="ttname"><a href="../../da/dd9/a09273.html#ab395fef0b407c0af40ba6274c32730a6">Unit::IsAIEnabled</a></div><div class="ttdeci">bool IsAIEnabled</div><div class="ttdef"><b>Definition:</b> Unit.h:2118</div></div>
-<div class="ttc" id="aa09273_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../da/dd9/a09273.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:742</div></div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235" name="ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235"></a>BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007" name="ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007"></a>BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6" name="ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6"></a>BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab" name="ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab"></a>BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710" name="ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710"></a>BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f" name="ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f"></a>BATTLEFIELDHOOK_ON_WAR_END&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e" name="ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e"></a>BATTLEFIELDHOOK_ON_PLAYER_KILL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac" name="ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac"></a>BATTLEFIELDHOOK_END&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235">BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE</a>,          <span class="comment">// 0 - fires at start of HandlePlayerEnterZone, before team assignment</span></div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE</a>,          <span class="comment">// 1 - fires at end of HandlePlayerLeaveZone, after all cleanup</span></div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6">BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR</a>,            <span class="comment">// 2 - fires after player is added to the active war</span></div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR</a>,           <span class="comment">// 3 - fires after player is removed from the active war</span></div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710">BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR</a>,   <span class="comment">// 4 - fires in InvitePlayerToWar before InvitedPlayers insert</span></div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f">BATTLEFIELDHOOK_ON_WAR_END</a>,                    <span class="comment">// 5 - fires in EndBattle before OnBattleEnd(), while PlayersInWar is still populated</span></div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e">BATTLEFIELDHOOK_ON_PLAYER_KILL</a>,                <span class="comment">// 6 - fires in HandleKill for every player-kills-player event</span></div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac">BATTLEFIELDHOOK_END</a></div>
+<div class="line"><span class="lineno">   34</span>};</div>
+<div class="ttc" id="aa01925_html_ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007"><div class="ttname"><a href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:27</div></div>
+<div class="ttc" id="aa01925_html_ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235"><div class="ttname"><a href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235">BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:26</div></div>
+<div class="ttc" id="aa01925_html_ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac"><div class="ttname"><a href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac">BATTLEFIELDHOOK_END</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_END</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:33</div></div>
+<div class="ttc" id="aa01925_html_ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab"><div class="ttname"><a href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:29</div></div>
+<div class="ttc" id="aa01925_html_ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710"><div class="ttname"><a href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710">BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:30</div></div>
+<div class="ttc" id="aa01925_html_ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e"><div class="ttname"><a href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e">BATTLEFIELDHOOK_ON_PLAYER_KILL</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_KILL</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:32</div></div>
+<div class="ttc" id="aa01925_html_ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6"><div class="ttname"><a href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6">BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:28</div></div>
+<div class="ttc" id="aa01925_html_ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f"><div class="ttname"><a href="../../d6/d18/a01925.html#ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f">BATTLEFIELDHOOK_ON_WAR_END</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_WAR_END</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:31</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00143">Creature::AI()</a>, <a class="el" href="../../#l01815">WorldObject::CanSeeOrDetect()</a>, <a class="el" href="../../#l01860">Unit::HasStealthAura()</a>, <a class="el" href="../../#l00742">Unit::HasUnitState()</a>, <a class="el" href="../../#l02118">Unit::IsAIEnabled</a>, <a class="el" href="../../#l01812">Unit::IsAlive()</a>, <a class="el" href="../../#l01725">Unit::IsInFlight()</a>, <a class="el" href="../../#l00207">Object::IsPlayer()</a>, <a class="el" href="../../#l00169">CreatureAI::MoveInLineOfSight_Safe()</a>, <a class="el" href="../../#l00210">CreatureAI::TriggerAlert()</a>, and <a class="el" href="../../#l00220">UNIT_STATE_SIGHTLESS</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00173">Acore::AIRelocationNotifier::Visit()</a>, and <a class="el" href="../../#l00157">Acore::CreatureRelocationNotifier::Visit()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -198,8 +190,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_444e7ca7970920cb061ebbb02397ba46.html">Grids</a></li><li class="navelem"><a class="el" href="../../dir_286feac6c5a6e67bcd5741cf96c61741.html">Notifiers</a></li><li class="navelem"><a class="el" href="../../d6/d18/a01925.html">GridNotifiers.cpp</a></li>
-    <li class="footer">Generated on Tue Nov 10 2026 02:53:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d6/d18/a01925.html">BattlefieldScript.h</a></li>
+    <li class="footer">Generated on Tue Nov 17 2026 03:05:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

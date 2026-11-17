@@ -1,8 +1,8 @@
 var a21033 =
 [
-    [ "npc_life_spark", "d8/df6/a21033.html#a76bbbdc610dbc433007930c7a45d03be", null ],
-    [ "JustEngagedWith", "d8/df6/a21033.html#af4111bf747f0d5c510f72f32d42f90e3", null ],
-    [ "Reset", "d8/df6/a21033.html#a3c5b0ee2fac3bc444cc3c58e70284b72", null ],
-    [ "UpdateAI", "d8/df6/a21033.html#a3dffda7a220e41302b928f55995d4dce", null ],
-    [ "_scheduler", "d8/df6/a21033.html#a7e77d71508031a75655db8aaa34d0f9d", null ]
+    [ "npc_pummeller", "d8/df6/a21033.html#a0c67bf3781fde8d4580aad093bf87291", null ],
+    [ "Reset", "d8/df6/a21033.html#abdb3f0984c03780aee9dd55496fc7835", null ],
+    [ "UpdateAI", "d8/df6/a21033.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
+    [ "_instance", "d8/df6/a21033.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
+    [ "_scheduler", "d8/df6/a21033.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
 ];

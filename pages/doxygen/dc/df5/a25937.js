@@ -1,8 +1,8 @@
 var a25937 =
 [
-    [ "HandleFinish", "dc/df5/a25937.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "dc/df5/a25937.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "dc/df5/a25937.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "dc/df5/a25937.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "dc/df5/a25937.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "OnApply", "dc/df5/a25937.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
+    [ "OnRemove", "dc/df5/a25937.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
+    [ "PrepareAuraScript", "dc/df5/a25937.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
+    [ "Register", "dc/df5/a25937.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
+    [ "Validate", "dc/df5/a25937.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
 ];

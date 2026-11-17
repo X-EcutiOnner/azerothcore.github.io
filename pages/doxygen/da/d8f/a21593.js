@@ -1,8 +1,13 @@
 var a21593 =
 [
-    [ "npc_frozen_orbAI", "da/d8f/a21593.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "da/d8f/a21593.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "da/d8f/a21593.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "da/d8f/a21593.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "da/d8f/a21593.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "boss_toravonAI", "da/d8f/a21593.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "da/d8f/a21593.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "da/d8f/a21593.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "da/d8f/a21593.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "da/d8f/a21593.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "da/d8f/a21593.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "da/d8f/a21593.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "da/d8f/a21593.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "da/d8f/a21593.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "da/d8f/a21593.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

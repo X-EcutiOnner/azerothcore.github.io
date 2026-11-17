@@ -1,4 +1,5 @@
 var a01370 =
 [
-    [ "AchievementCriteriaScript", "df/d73/a10781.html", "df/d73/a10781" ]
+    [ "FleeingMovementGenerator< T >", "d7/db8/a10529.html", "d7/db8/a10529" ],
+    [ "TimedFleeingMovementGenerator", "d0/d23/a10533.html", "d0/d23/a10533" ]
 ];

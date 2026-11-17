@@ -1,6 +1,6 @@
 var a17269 =
 [
-    [ "boss_dredAI", "da/d3e/a17273.html", "da/d3e/a17273" ],
-    [ "boss_dred", "d4/dcb/a17269.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "d4/dcb/a17269.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "HandleScript", "d4/dcb/a17269.html#afbebe86c7ed34bd4e6b1761a3d30021c", null ],
+    [ "PrepareSpellScript", "d4/dcb/a17269.html#ab419af812bd83b4c2770c3d113cf99f1", null ],
+    [ "Register", "d4/dcb/a17269.html#a886af3d26e3c2586ddeaf8650ca5951f", null ]
 ];

@@ -1,4 +1,8 @@
 var a01910 =
 [
-    [ "GridCell< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "d7/d50/a09609.html", "d7/d50/a09609" ]
+    [ "MailScript", "d8/d94/a10929.html", "d8/d94/a10929" ],
+    [ "MailHook", "d4/dff/a01910.html#a7a2fb0cc0937712e8aff65574e1068d6", [
+      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "d4/dff/a01910.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
+      [ "MAILHOOK_END", "d4/dff/a01910.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
+    ] ]
 ];

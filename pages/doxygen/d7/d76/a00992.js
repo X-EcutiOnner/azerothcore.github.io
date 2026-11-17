@@ -1,11 +1,4 @@
 var a00992 =
 [
-    [ "CombatReference", "d2/d63/a08326.html", "d2/d63/a08326" ],
-    [ "PvPCombatReference", "db/d14/a08330.html", "db/d14/a08330" ],
-    [ "CombatManager", "dd/ddf/a08334.html", "dd/ddf/a08334" ],
-    [ "EvadeState", "d7/d76/a00992.html#a330a2d238c7c7b5390c40e53436d0d74", [
-      [ "EVADE_STATE_NONE", "d7/d76/a00992.html#a330a2d238c7c7b5390c40e53436d0d74a742a27c0e47bf6cbe51ea3d3485e1ee6", null ],
-      [ "EVADE_STATE_COMBAT", "d7/d76/a00992.html#a330a2d238c7c7b5390c40e53436d0d74ac6bc3b656f0875f408ad159de8e47dab", null ],
-      [ "EVADE_STATE_HOME", "d7/d76/a00992.html#a330a2d238c7c7b5390c40e53436d0d74a7179da8d8fc2a4fb8897c5febb10b6d8", null ]
-    ] ]
+    [ "minPctTeamGamesForMemberToGetReward", "d7/d76/a00992.html#a4d7ce2e01ab25ea6833099b2821b6b5b", null ]
 ];

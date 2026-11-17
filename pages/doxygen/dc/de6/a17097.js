@@ -1,7 +1,6 @@
 var a17097 =
 [
-    [ "npc_toc_rogueAI", "dc/de6/a17097.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "dc/de6/a17097.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "dc/de6/a17097.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "dc/de6/a17097.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "npc_toc_rogueAI", "d8/d43/a17101.html", "d8/d43/a17101" ],
+    [ "npc_toc_rogue", "dc/de6/a17097.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "dc/de6/a17097.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

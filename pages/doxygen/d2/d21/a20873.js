@@ -1,9 +1,9 @@
 var a20873 =
 [
-    [ "npc_expedition_trapper", "d2/d21/a20873.html#ac924a9b9e23624de1460b0cdfe8c8a1b", null ],
-    [ "DoAction", "d2/d21/a20873.html#a094ecbf1a719223d50c7d070989aa782", null ],
-    [ "MovementInform", "d2/d21/a20873.html#ae2a0c15b4a7d59f4222e818d0fcf303b", null ],
-    [ "SetData", "d2/d21/a20873.html#a11241b1513209a9964569ab29eb5dc64", null ],
-    [ "UpdateAI", "d2/d21/a20873.html#a16a39f855263ebde21ddb03d4fe60460", null ],
-    [ "_idx", "d2/d21/a20873.html#ae24ec016a0f29f7bcb41935e1991f9fa", null ]
+    [ "npc_expedition_commander", "d2/d21/a20873.html#a83604e0626881b572011ecbc6a848bfc", null ],
+    [ "DoAction", "d2/d21/a20873.html#a32dcbc62eeee1910f97c4112494044c9", null ],
+    [ "Reset", "d2/d21/a20873.html#a83400ea0d6743e67eb8c63f4897e1b7b", null ],
+    [ "sGossipSelect", "d2/d21/a20873.html#afa66b8ce3286684a11f5b411baf30108", null ],
+    [ "StopControllers", "d2/d21/a20873.html#a18dcae2bfc09ee64aef450dc5c844b45", null ],
+    [ "_stopCtrl", "d2/d21/a20873.html#a58f1cc8f6e9d8f442e0c869bdee2d6f2", null ]
 ];

@@ -1,6 +1,6 @@
 var a22345 =
 [
-    [ "npc_blessed_bannerAI", "d3/dce/a22349.html", "d3/dce/a22349" ],
-    [ "npc_blessed_banner", "dc/dc7/a22345.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "dc/dc7/a22345.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "npc_tournament_training_dummyAI", "d3/dce/a22349.html", "d3/dce/a22349" ],
+    [ "npc_tournament_training_dummy", "dc/dc7/a22345.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
+    [ "GetAI", "dc/dc7/a22345.html#a31257c155c3a49c69771156800cf6340", null ]
 ];

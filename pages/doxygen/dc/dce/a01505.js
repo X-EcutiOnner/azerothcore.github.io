@@ -1,19 +1,12 @@
 var a01505 =
 [
-    [ "AccountMgr", "db/d1a/a06397.html", "db/d1a/a06397" ],
-    [ "MAX_ACCOUNT_STR", "dc/dce/a01505.html#a134ebf22666a6525929447b2d869d400", null ],
-    [ "MAX_EMAIL_STR", "dc/dce/a01505.html#ad64d9bd18bac10ab1af09b042d734c64", null ],
-    [ "MAX_PASS_STR", "dc/dce/a01505.html#a45827712253b6d66092106cef5ae724b", null ],
-    [ "sAccountMgr", "dc/dce/a01505.html#aea3ae93168116461b6c0a7a984112175", null ],
-    [ "RBACDefaultPermissionsContainer", "dc/dce/a01505.html#ac0b6edf00d4a9c1e3c496e98fdf865aa", null ],
-    [ "RBACPermissionsContainer", "dc/dce/a01505.html#a1296774e1021cb68d7829832d153b2e3", null ],
-    [ "AccountOpResult", "dc/dce/a01505.html#a0161874ada0cecbbd1fd5d31da73703e", [
-      [ "AOR_OK", "dc/dce/a01505.html#a0161874ada0cecbbd1fd5d31da73703ea73449863bb0d97def55bd65307e97f18", null ],
-      [ "AOR_NAME_TOO_LONG", "dc/dce/a01505.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4", null ],
-      [ "AOR_PASS_TOO_LONG", "dc/dce/a01505.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c", null ],
-      [ "AOR_EMAIL_TOO_LONG", "dc/dce/a01505.html#a0161874ada0cecbbd1fd5d31da73703eaaf639a81cbf8cf6bd685e34d73e895a1", null ],
-      [ "AOR_NAME_ALREADY_EXIST", "dc/dce/a01505.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c", null ],
-      [ "AOR_NAME_NOT_EXIST", "dc/dce/a01505.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24", null ],
-      [ "AOR_DB_INTERNAL_ERROR", "dc/dce/a01505.html#a0161874ada0cecbbd1fd5d31da73703ea368516df3522ada12ce8a39c789a687d", null ]
-    ] ]
+    [ "AggressorAI", "d3/db7/a06549.html", "d3/db7/a06549" ],
+    [ "CombatAI", "d1/d86/a06553.html", "d1/d86/a06553" ],
+    [ "CasterAI", "db/d62/a06557.html", "db/d62/a06557" ],
+    [ "ArcherAI", "d9/de2/a06561.html", "d9/de2/a06561" ],
+    [ "TurretAI", "dc/dd3/a06565.html", "dc/dd3/a06565" ],
+    [ "VehicleAI", "d7/da1/a06569.html", "d7/da1/a06569" ],
+    [ "VEHICLE_CONDITION_CHECK_TIME", "dc/dce/a01505.html#a2842973ff947088648cd327dc9e1d379", null ],
+    [ "VEHICLE_DISMISS_TIME", "dc/dce/a01505.html#a9b232fec810abbe5eaf5536e608b6e38", null ],
+    [ "SpellVct", "dc/dce/a01505.html#aef8ccdd14344d9c395d613c21bafd91e", null ]
 ];

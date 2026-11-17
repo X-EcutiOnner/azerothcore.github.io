@@ -1,13 +1,6 @@
 var a30377 =
 [
-    [ "MPQArchive", "dc/dec/a30377.html#a01c755d82896f5eff33101151ee78fda", null ],
-    [ "~MPQArchive", "dc/dec/a30377.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "dc/dec/a30377.html#a01c755d82896f5eff33101151ee78fda", null ],
-    [ "~MPQArchive", "dc/dec/a30377.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "dc/dec/a30377.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "dc/dec/a30377.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "dc/dec/a30377.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "dc/dec/a30377.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "dc/dec/a30377.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "dc/dec/a30377.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "OffsetAttributes", "dc/dec/a30377.html#a072918c298b316823e784c2e5779be2a", null ],
+    [ "OffsetInstances", "dc/dec/a30377.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
+    [ "used", "dc/dec/a30377.html#a20a458e613639ea26255dd772824a642", null ]
 ];

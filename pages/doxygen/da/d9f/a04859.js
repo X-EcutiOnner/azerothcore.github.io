@@ -1,6 +1,11 @@
 var a04859 =
 [
-    [ "instance_culling_of_stratholme", "d1/d77/a15445.html", "d1/d77/a15445" ],
-    [ "instance_culling_of_stratholme::instance_culling_of_stratholme_InstanceMapScript", "d8/dd0/a15449.html", "d8/dd0/a15449" ],
-    [ "AddSC_instance_culling_of_stratholme", "da/d9f/a04859.html#adb1b78926a09436f6897c9050ef2d9ef", null ]
+    [ "npc_innkeeper", "da/d71/a28625.html", "da/d71/a28625" ],
+    [ "AddSC_npc_innkeeper", "da/d9f/a04859.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "GOSSIP_MENU", "da/d9f/a04859.html#a3115623eb3e0408aad7cd637686aaaee", null ],
+    [ "GOSSIP_MENU_EVENT", "da/d9f/a04859.html#a6bb09725b9e6b10b76686a9059038e6b", null ],
+    [ "HALLOWEEN_EVENTID", "da/d9f/a04859.html#a2e23760d3d379f3fa92c139f067b5984", null ],
+    [ "SPELL_TREAT", "da/d9f/a04859.html#a072a033da374692139d9d33e63be89ca", null ],
+    [ "SPELL_TRICK", "da/d9f/a04859.html#ad2b2ba30383cca3be221f38a809e2da1", null ],
+    [ "SPELL_TRICKED_OR_TREATED", "da/d9f/a04859.html#a022e344eaf73aa8ab6655d2c6aaac688", null ]
 ];

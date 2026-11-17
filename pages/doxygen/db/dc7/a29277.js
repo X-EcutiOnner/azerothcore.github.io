@@ -1,7 +1,8 @@
 var a29277 =
 [
-    [ "Class", "db/dc7/a29277.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
-    [ "Gender", "db/dc7/a29277.html#aba6251a7020c6e66b9fc7a21859df271", null ],
-    [ "ItemId", "db/dc7/a29277.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
-    [ "Race", "db/dc7/a29277.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
+    [ "gender", "db/dc7/a29277.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "db/dc7/a29277.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "db/dc7/a29277.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "db/dc7/a29277.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "db/dc7/a29277.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

@@ -1,5 +1,6 @@
 var a21089 =
 [
-    [ "achievement_nerf_engineering", "d5/d3b/a21089.html#ad8e1eadd635c7a5025e545053b52904f", null ],
-    [ "OnCheck", "d5/d3b/a21089.html#aefe01bfba3347be8a01bf5a398865cb6", null ]
+    [ "HandleScript", "d5/d3b/a21089.html#aade3cab1f80d1762bfad48407f4b91cc", null ],
+    [ "PrepareSpellScript", "d5/d3b/a21089.html#ab20e548d7c0a837ee4cb7198c09e53ee", null ],
+    [ "Register", "d5/d3b/a21089.html#a48a0a37b8e6f799ee9035bb766fd6db2", null ]
 ];

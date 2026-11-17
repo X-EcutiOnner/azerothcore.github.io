@@ -1,6 +1,7 @@
 var a20653 =
 [
-    [ "HandleAfterEffectApply", "dc/d3e/a20653.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "dc/d3e/a20653.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "dc/d3e/a20653.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "HandleEffectPeriodic", "dc/d3e/a20653.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "dc/d3e/a20653.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "dc/d3e/a20653.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "dc/d3e/a20653.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

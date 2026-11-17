@@ -1,5 +1,6 @@
 var a19809 =
 [
-    [ "npc_mr_bigglesworth", "da/dc5/a19809.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
-    [ "JustDied", "da/dc5/a19809.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
+    [ "DespawnTime", "da/dc5/a19809.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "da/dc5/a19809.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "da/dc5/a19809.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

@@ -1,5 +1,6 @@
 var a22369 =
 [
-    [ "chance", "de/d43/a22369.html#a91d99044ac67aa74f171591dfea83d10", null ],
-    [ "group", "de/d43/a22369.html#ab1dd4a592b1f77b0a2d04faca1861209", null ]
+    [ "PrepareSpellScript", "de/d43/a22369.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "de/d43/a22369.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "de/d43/a22369.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

@@ -1,10 +1,24 @@
 var a29893 =
 [
-    [ "TestMap", "d4/d53/a29893.html#aca5be96dac80e8b0cd031a689f6cad66", null ],
-    [ "~TestMap", "d4/d53/a29893.html#a7175511302d9c67cce7b870ec70551de", null ],
-    [ "EnsureDBC", "d4/d53/a29893.html#a2a117f615eafa6336e09defee91574b5", null ],
-    [ "SetIsDungeon", "d4/d53/a29893.html#afa3e639a3a6b54c4efa917008400c37b", null ],
-    [ "SetIsRaid", "d4/d53/a29893.html#ae577d4dc38ec92f11fab263d28455213", null ],
-    [ "SetMapType", "d4/d53/a29893.html#a19013737f70a4d2362f88651b4e1a4b4", null ],
-    [ "_fakeMapEntry", "d4/d53/a29893.html#afc183278ef7cd421df30ad878321f122", null ]
+    [ "SpellInfoBuilder", "d4/d53/a29893.html#a1af4c9aaf8b9707697c1e030beee389a", null ],
+    [ "Build", "d4/d53/a29893.html#ab8ba5082d8c0d5d98837e7df20229906", null ],
+    [ "BuildUnique", "d4/d53/a29893.html#a96bd1eea56970fdc051fe3c494ee6396", null ],
+    [ "WithAttributes", "d4/d53/a29893.html#ad08396120fbe9b27e7ae6e156b338e95", null ],
+    [ "WithAttributesEx", "d4/d53/a29893.html#ad72634aed9f5bc6b5b577159a88767db", null ],
+    [ "WithAttributesEx3", "d4/d53/a29893.html#ab92a2a4b9be30a760ce90467c7dfa234", null ],
+    [ "WithDmgClass", "d4/d53/a29893.html#aae876b0fda0da198b04bb43cf9b8851e", null ],
+    [ "WithEffect", "d4/d53/a29893.html#aec11a1d4ff5ce438e052d58bd6dbbd1f", null ],
+    [ "WithEffectBasePoints", "d4/d53/a29893.html#a5a480961571af48bd8cd13aefb58248f", null ],
+    [ "WithEffectDieSides", "d4/d53/a29893.html#adcf13d48e0289bce0a0de09c0ae5dbcc", null ],
+    [ "WithEffectImplicitTargets", "d4/d53/a29893.html#a0132018ec281ff3f911e3dbd7c7d005c", null ],
+    [ "WithEffectMiscValue", "d4/d53/a29893.html#ab79a3f46af60c196780e5bec6e3ece25", null ],
+    [ "WithEffectTriggerSpell", "d4/d53/a29893.html#ab7e6d316ff67f1610695b89723b7e364", null ],
+    [ "WithId", "d4/d53/a29893.html#a1f23f2372b8fd2e7ce8e6aad99868892", null ],
+    [ "WithProcChance", "d4/d53/a29893.html#a9a82d31ff56c42ad264d1daf97c1a445", null ],
+    [ "WithProcCharges", "d4/d53/a29893.html#a49152801fbf954772dfdf6c94cb91fb8", null ],
+    [ "WithProcFlags", "d4/d53/a29893.html#a76fd05f8130f02bba9b159e9e09c4f52", null ],
+    [ "WithSchoolMask", "d4/d53/a29893.html#adbc655e188cade9675943e2f57a4a242", null ],
+    [ "WithSpellFamilyFlags", "d4/d53/a29893.html#aa4f184402512fd50c6066910787c4595", null ],
+    [ "WithSpellFamilyName", "d4/d53/a29893.html#ae64bb11a8877c42ed63addc210fae8cc", null ],
+    [ "_entryHelper", "d4/d53/a29893.html#a764a57f15f5383d3555b7763c0dc718b", null ]
 ];

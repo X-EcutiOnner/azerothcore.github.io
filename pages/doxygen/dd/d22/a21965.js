@@ -1,6 +1,6 @@
 var a21965 =
 [
-    [ "npc_heated_battleAI", "db/d43/a21969.html", "db/d43/a21969" ],
-    [ "npc_heated_battle", "dd/d22/a21965.html#aceafde04a60940c1027a6e838ffdc137", null ],
-    [ "GetAI", "dd/d22/a21965.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
+    [ "CheckCast", "dd/d22/a21965.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "dd/d22/a21965.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "dd/d22/a21965.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

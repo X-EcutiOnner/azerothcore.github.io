@@ -1,17 +1,5 @@
 var a03335 =
 [
-    [ "npc_daphne_stilwell", "d7/db9/a14429.html", "d7/db9/a14429" ],
-    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "d2/db5/a14433.html", "d2/db5/a14433" ],
-    [ "DaphneStilwell", "d9/db1/a03335.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
-      [ "SAY_DS_START", "d9/db1/a03335.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
-      [ "SAY_DS_DOWN_1", "d9/db1/a03335.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
-      [ "SAY_DS_DOWN_2", "d9/db1/a03335.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
-      [ "SAY_DS_DOWN_3", "d9/db1/a03335.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
-      [ "SAY_DS_PROLOGUE", "d9/db1/a03335.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
-      [ "SPELL_SHOOT", "d9/db1/a03335.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "QUEST_TOME_VALOR", "d9/db1/a03335.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
-      [ "NPC_DEFIAS_RAIDER", "d9/db1/a03335.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
-      [ "EQUIP_ID_RIFLE", "d9/db1/a03335.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
-    ] ],
-    [ "AddSC_westfall", "d9/db1/a03335.html#a9c6e961944f462fc3c48a6400c76266c", null ]
+    [ "mail_commandscript", "d5/db4/a12641.html", "d5/db4/a12641" ],
+    [ "AddSC_mail_commandscript", "d9/db1/a03335.html#a60390ceaf08c6b305bdc77fd27243938", null ]
 ];

@@ -1,5 +1,5 @@
 var a02882 =
 [
-    [ "AuthSocketMgr", "da/d28/a06117.html", "da/d28/a06117" ],
-    [ "sAuthSocketMgr", "d4/d57/a02882.html#abd297ee25e8d77bf56f22d43561d9451", null ]
+    [ "OutdoorPvP_terokkar_forest", "df/da1/a22805.html", "df/da1/a22805" ],
+    [ "AddSC_outdoorpvp_tf", "d4/d57/a02882.html#a6df553c8dd6e9b81e83110e7beab3646", null ]
 ];

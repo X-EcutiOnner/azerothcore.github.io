@@ -1,6 +1,7 @@
 var a21985 =
 [
-    [ "npc_q24545_lich_kingAI", "d5/d54/a21989.html", "d5/d54/a21989" ],
-    [ "npc_q24545_lich_king", "dd/d80/a21985.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "dd/d80/a21985.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "HandleApplyEffect", "dd/d80/a21985.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "dd/d80/a21985.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "dd/d80/a21985.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "dd/d80/a21985.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

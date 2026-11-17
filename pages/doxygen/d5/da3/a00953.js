@@ -1,10 +1,9 @@
 var a00953 =
 [
-    [ "AutobroadcastMgr", "db/d7b/a07638.html", "db/d7b/a07638" ],
-    [ "sAutobroadcastMgr", "d5/da3/a00953.html#a34abff2dadcb74370b0749fe9fda3878", null ],
-    [ "AnnounceType", "d5/da3/a00953.html#a28a4ef2f64643c76d8be05bf9eafc731", [
-      [ "World", "d5/da3/a00953.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
-      [ "Notification", "d5/da3/a00953.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
-      [ "Both", "d5/da3/a00953.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
-    ] ]
+    [ "FlyByCameraCollection", "d5/da3/a00953.html#a058e5fb250bd785cecc9a6913132dfe4", null ],
+    [ "GetFlyByCameras", "d5/da3/a00953.html#af4a9ba9da1a2f4075cc36b95cce62f6f", null ],
+    [ "LoadM2Cameras", "d5/da3/a00953.html#a036ca5e535b8e25b87a67c20c2ad2d4c", null ],
+    [ "readCamera", "d5/da3/a00953.html#ad7c17022a3ffed42c9d4995f5f6bb7ac", null ],
+    [ "TranslateLocation", "d5/da3/a00953.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9", null ],
+    [ "sFlyByCameraStore", "d5/da3/a00953.html#a4acfeb7e23e1d3a74b66a1c54084e7bc", null ]
 ];

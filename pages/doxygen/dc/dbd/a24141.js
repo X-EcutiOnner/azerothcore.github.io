@@ -1,7 +1,6 @@
 var a24141 =
 [
-    [ "boss_gatewatcher_gyrokill", "dc/dbd/a24141.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "dc/dbd/a24141.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "dc/dbd/a24141.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "dc/dbd/a24141.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "instance_the_eye_InstanceMapScript", "d7/d3f/a24145.html", "d7/d3f/a24145" ],
+    [ "instance_the_eye", "dc/dbd/a24141.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "dc/dbd/a24141.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

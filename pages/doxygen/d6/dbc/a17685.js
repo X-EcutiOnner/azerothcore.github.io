@@ -1,5 +1,5 @@
 var a17685 =
 [
-    [ "entry", "d6/dbc/a17685.html#a44c7a625896d6fddc15da39988e0b042", null ],
-    [ "pathId", "d6/dbc/a17685.html#accd6af0ddfa248a972612d802a1e641e", null ]
+    [ "at_tyrannus_event_starter", "d6/dbc/a17685.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
+    [ "OnTrigger", "d6/dbc/a17685.html#adccf396220ef7de47e7afeca791de894", null ]
 ];

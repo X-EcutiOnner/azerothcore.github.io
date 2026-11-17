@@ -1,5 +1,5 @@
 var a20665 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "dd/d40/a20665.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "dd/d40/a20665.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "achievement_cheese_the_freeze", "dd/d40/a20665.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
+    [ "OnCheck", "dd/d40/a20665.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
 ];

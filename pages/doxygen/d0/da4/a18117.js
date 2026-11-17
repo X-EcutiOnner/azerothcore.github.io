@@ -1,6 +1,6 @@
 var a18117 =
 [
-    [ "npc_igb_ship_crewAI", "d3/dbd/a18121.html", "d3/dbd/a18121" ],
-    [ "npc_igb_ship_crew", "d0/da4/a18117.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "d0/da4/a18117.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "npc_zafod_boomboxAI", "d3/dbd/a18121.html", "d3/dbd/a18121" ],
+    [ "npc_zafod_boombox", "d0/da4/a18117.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d0/da4/a18117.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

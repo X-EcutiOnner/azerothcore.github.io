@@ -1,9 +1,5 @@
 var a22677 =
 [
-    [ "npc_finklesteinAI", "d5/dac/a22681.html", "d5/dac/a22681" ],
-    [ "npc_finklestein", "d4/df5/a22677.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "d4/df5/a22677.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "d4/df5/a22677.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "d4/df5/a22677.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "d4/df5/a22677.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "d4/df5/a22677.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "d4/df5/a22677.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

@@ -1,7 +1,6 @@
 var a21569 =
 [
-    [ "HandleDummy", "d5/d66/a21569.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "d5/d66/a21569.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "d5/d66/a21569.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "d5/d66/a21569.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "boss_koralonAI", "df/df0/a21573.html", "df/df0/a21573" ],
+    [ "boss_koralon", "d5/d66/a21569.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "d5/d66/a21569.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

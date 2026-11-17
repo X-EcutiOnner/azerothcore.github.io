@@ -1,44 +1,39 @@
 var a03758 =
 [
-    [ "AzjolNerubScriptName", "da/d85/a03758.html#a49c3c3627ce229fce6b1f55755bcb7d7", null ],
-    [ "DataHeader", "da/d85/a03758.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAzjolNerubCreatureAI", "da/d85/a03758.html#a4a60f3abea9a1edadc00e60726067bba", null ],
-    [ "ANActions", "da/d85/a03758.html#a353c804af4bd1bd2a5d5193704607689", [
-      [ "ACTION_MINION_DIED", "da/d85/a03758.html#a353c804af4bd1bd2a5d5193704607689a185e4f622f3b411d7980209389e63777", null ]
+    [ "spell_winter_veil_mistletoe", "d5/d1e/a15217.html", "d5/d1e/a15217" ],
+    [ "spell_winter_wondervolt_trap", "d6/dd6/a15221.html", "d6/dd6/a15221" ],
+    [ "spell_winter_veil_racer_rocket_slam", "d2/d66/a15225.html", "d2/d66/a15225" ],
+    [ "spell_winter_veil_racer_slam_hit", "d0/dc5/a15229.html", "d0/dc5/a15229" ],
+    [ "spell_winter_veil_shoot_air_rifle", "d9/d28/a15233.html", "d9/d28/a15233" ],
+    [ "airRifle", "da/d85/a03758.html#a0a0aa9e1464024e9f2c7b6ec598e13ff", [
+      [ "SPELL_AIR_RIFLE_RIGHT_IN_THE_EYE", "da/d85/a03758.html#a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64", null ],
+      [ "SPELL_AIR_RIFLE_STARLED", "da/d85/a03758.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd", null ],
+      [ "SPELL_AIR_RIFLE_HIT", "da/d85/a03758.html#a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0", null ],
+      [ "SPELL_AIR_RIFLE_HIT_TRIGGER", "da/d85/a03758.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af", null ],
+      [ "SPELL_AIR_RIFLE_PELTED_DAMAGE", "da/d85/a03758.html#a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4", null ]
     ] ],
-    [ "ANData", "da/d85/a03758.html#a38e14ca59c29a20c7d83feecae87365e", [
-      [ "DATA_KRIKTHIR", "da/d85/a03758.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c", null ],
-      [ "DATA_HADRONOX", "da/d85/a03758.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8", null ],
-      [ "DATA_ANUBARAK", "da/d85/a03758.html#a38e14ca59c29a20c7d83feecae87365ea635a7e23dc02368d27e70d3dd833bdbf", null ],
-      [ "MAX_ENCOUNTERS", "da/d85/a03758.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ],
-      [ "DATA_GASHRA", "da/d85/a03758.html#a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f", null ],
-      [ "DATA_NARJIL", "da/d85/a03758.html#a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6", null ],
-      [ "DATA_SILTHIK", "da/d85/a03758.html#a38e14ca59c29a20c7d83feecae87365ea8cfb18f4044960fc20ceb21676d64eb2", null ]
+    [ "crashinTrashin", "da/d85/a03758.html#a91189806a3728bf253348c6acff4d44a", [
+      [ "SPELL_BLUE_CAR_VISUAL", "da/d85/a03758.html#a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303", null ],
+      [ "SPELL_RED_CAR_VISUAL", "da/d85/a03758.html#a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9", null ],
+      [ "NPC_RED_RACER", "da/d85/a03758.html#a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83", null ],
+      [ "NPC_BLUE_RACER", "da/d85/a03758.html#a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3", null ],
+      [ "SPELL_RACER_DEATH_VISUAL", "da/d85/a03758.html#a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e", null ],
+      [ "SPELL_RACER_CHARGE_TO_OBJECT", "da/d85/a03758.html#a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a", null ],
+      [ "SPELL_RACER_KILL_COUNTER", "da/d85/a03758.html#a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68", null ],
+      [ "SPELL_RACER_SLAM_HIT", "da/d85/a03758.html#a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b", null ],
+      [ "SPELL_RACER_FLAMES", "da/d85/a03758.html#a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410", null ],
+      [ "RACER_ACHI_CRITERIA", "da/d85/a03758.html#a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d", null ]
     ] ],
-    [ "ANIds", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eb", [
-      [ "NPC_WATCHER_NARJIL", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f", null ],
-      [ "NPC_WATCHER_GASHRA", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8", null ],
-      [ "NPC_WATCHER_SILTHIK", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08", null ],
-      [ "NPC_ANUBAR_SKIRMISHER", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080ebaab6881c6b204dd808545bca2050e3fcf", null ],
-      [ "NPC_ANUBAR_SHADOWCASTER", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080ebacc327c02c47a2a2ad6994c7c87132127", null ],
-      [ "NPC_ANUBAR_WARRIOR", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba0e94bdd3b8ef0aba807bba8e440a07ca", null ],
-      [ "NPC_SKITTERING_SWARMER", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429", null ],
-      [ "NPC_SKITTERING_INFECTIOR", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b", null ],
-      [ "NPC_KRIKTHIR_THE_GATEWATCHER", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],
-      [ "NPC_HADRONOX", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a", null ],
-      [ "NPC_ANUBARAK", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba9ccdc8bccffd48df50721fc98c1b6bc3", null ],
-      [ "NPC_WORLD_TRIGGER_LAOI", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba8ad05c18f75770b596b6a87987d4ecdd", null ],
-      [ "NPC_ANUB_AR_CHAMPION", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc", null ],
-      [ "NPC_ANUB_AR_NECROMANCER", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea", null ],
-      [ "NPC_ANUB_AR_CRYPTFIEND", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c", null ],
-      [ "NPC_ANUB_AR_CHAMPION_LOWER", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba3b8eaddabbf87a1060d0a78643954f41", null ],
-      [ "NPC_ANUB_AR_CRYPT_FIEND_LOWER", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba87021af661ad301b9b0a8e2a9f4c5b13", null ],
-      [ "NPC_ANUB_AR_NECROMANCER_LOWER", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba2a706dfefef7b3b194db9a989b8c6a2c", null ],
-      [ "GO_KRIKTHIR_DOORS", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b", null ],
-      [ "GO_ANUBARAK_DOORS1", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316", null ],
-      [ "GO_ANUBARAK_DOORS2", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc", null ],
-      [ "GO_ANUBARAK_DOORS3", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0", null ],
-      [ "SPELL_WEB_WRAP_TRIGGER", "da/d85/a03758.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b", null ]
+    [ "Mistletoe", "da/d85/a03758.html#a9ae560d3a366e6f163d4fbfd29d339ac", [
+      [ "SPELL_CREATE_MISTLETOE", "da/d85/a03758.html#a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc", null ],
+      [ "SPELL_CREATE_HOLLY", "da/d85/a03758.html#a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508", null ],
+      [ "SPELL_CREATE_SNOWFLAKES", "da/d85/a03758.html#a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a", null ]
     ] ],
-    [ "GetAzjolNerubAI", "da/d85/a03758.html#a19b3f42ba299e1f42de805f494cd5812", null ]
+    [ "winterWondervoltTrap", "da/d85/a03758.html#a09023d9a36f692674809d983e0b46bb5", [
+      [ "SPELL_WINTER_WONDERVOLT_GREEN_WOMEN", "da/d85/a03758.html#a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6", null ],
+      [ "SPELL_WINTER_WONDERVOLT_GREEN_MAN", "da/d85/a03758.html#a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db", null ],
+      [ "SPELL_WINTER_WONDERVOLT_RED_WOMEN", "da/d85/a03758.html#a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6", null ],
+      [ "SPELL_WINTER_WONDERVOLT_RED_MAN", "da/d85/a03758.html#a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0", null ]
+    ] ],
+    [ "AddSC_event_winter_veil_scripts", "da/d85/a03758.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e", null ]
 ];

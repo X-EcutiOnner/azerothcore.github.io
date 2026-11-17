@@ -1,6 +1,9 @@
 var a25029 =
 [
-    [ "PrepareAuraScript", "de/dcd/a25029.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
-    [ "Register", "de/dcd/a25029.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
-    [ "UpdateAmount", "de/dcd/a25029.html#a621e73a09438f3f9cbaa232125df3b87", null ]
+    [ "Absorb", "de/dcd/a25029.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
+    [ "CalculateAmount", "de/dcd/a25029.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
+    [ "Load", "de/dcd/a25029.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
+    [ "PrepareAuraScript", "de/dcd/a25029.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
+    [ "Register", "de/dcd/a25029.html#a47bd5ef93255a2d926874d6d70861374", null ],
+    [ "absorbPct", "de/dcd/a25029.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
 ];

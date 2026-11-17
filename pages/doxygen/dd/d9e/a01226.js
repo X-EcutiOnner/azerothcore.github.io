@@ -1,4 +1,4 @@
 var a01226 =
 [
-    [ "ScriptRegistry< BattlefieldScript >", "dd/d9e/a01226.html#a66e07787094ffe5d2156ad0768c6dd4e", null ]
+    [ "MAX_INBOX_CLIENT_CAPACITY", "dd/d9e/a01226.html#ae1d9c2394745301897af9c167e219ca8", null ]
 ];

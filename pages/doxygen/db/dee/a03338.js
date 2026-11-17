@@ -1,16 +1,6 @@
 var a03338 =
 [
-    [ "npc_corporal_keeshan", "d2/df0/a14205.html", "d2/df0/a14205" ],
-    [ "npc_corporal_keeshan::npc_corporal_keeshanAI", "de/dc4/a14209.html", "de/dc4/a14209" ],
-    [ "CorporalKeeshan", "db/dee/a03338.html#aeff5ef215a48fcd7bb6837e1d77e4b45", [
-      [ "QUEST_MISSING_IN_ACTION", "db/dee/a03338.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210", null ],
-      [ "SAY_CORPORAL_1", "db/dee/a03338.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364", null ],
-      [ "SAY_CORPORAL_2", "db/dee/a03338.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f", null ],
-      [ "SAY_CORPORAL_3", "db/dee/a03338.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445", null ],
-      [ "SAY_CORPORAL_4", "db/dee/a03338.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe", null ],
-      [ "SAY_CORPORAL_5", "db/dee/a03338.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf", null ],
-      [ "SPELL_MOCKING_BLOW", "db/dee/a03338.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e", null ],
-      [ "SPELL_SHIELD_BASH", "db/dee/a03338.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4", null ]
-    ] ],
-    [ "AddSC_redridge_mountains", "db/dee/a03338.html#a0e7af4a9a0f1dcec20ae3d284f9721c5", null ]
+    [ "character_commandscript", "dc/d1d/a12549.html", "dc/d1d/a12549" ],
+    [ "character_commandscript::DeletedInfo", "d7/df0/a12553.html", "d7/df0/a12553" ],
+    [ "AddSC_character_commandscript", "db/dee/a03338.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
 ];

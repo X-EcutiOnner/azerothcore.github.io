@@ -1,21 +1,38 @@
 var a02225 =
 [
-    [ "Trainer::Spell", "d2/d39/a08649.html", "d2/d39/a08649" ],
-    [ "Trainer::Trainer", "d1/d7f/a08653.html", "d1/d7f/a08653" ],
-    [ "FailReason", "d4/dc0/a02225.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
-      [ "Unavailable", "d4/dc0/a02225.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
-      [ "NotEnoughMoney", "d4/dc0/a02225.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
-      [ "NotEnoughSkill", "d4/dc0/a02225.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
-    ] ],
-    [ "SpellState", "d4/dc0/a02225.html#a34dc7b354e539f94e4c8a4cbd0711758", [
-      [ "Available", "d4/dc0/a02225.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
-      [ "Unavailable", "d4/dc0/a02225.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
-      [ "Known", "d4/dc0/a02225.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
-    ] ],
-    [ "Type", "d4/dc0/a02225.html#a636cc62a0635fc1566fb574ebe9941a9", [
-      [ "Class", "d4/dc0/a02225.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
-      [ "Mount", "d4/dc0/a02225.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
-      [ "Tradeskill", "d4/dc0/a02225.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
-      [ "Pet", "d4/dc0/a02225.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
-    ] ]
+    [ "Acore::Hyperlinks::AchievementLinkData", "d6/d6c/a08257.html", "d6/d6c/a08257" ],
+    [ "Acore::Hyperlinks::GlyphLinkData", "d0/da8/a08261.html", "d0/da8/a08261" ],
+    [ "Acore::Hyperlinks::ItemLinkData", "df/dab/a08265.html", "df/dab/a08265" ],
+    [ "Acore::Hyperlinks::QuestLinkData", "d7/d90/a08269.html", "d7/d90/a08269" ],
+    [ "Acore::Hyperlinks::TalentLinkData", "d3/dd7/a08273.html", "d3/dd7/a08273" ],
+    [ "Acore::Hyperlinks::TradeskillLinkData", "d2/d2d/a08277.html", "d2/d2d/a08277" ],
+    [ "Acore::Hyperlinks::FoundLinkData", "d0/d4d/a08281.html", "d0/d4d/a08281" ],
+    [ "Acore::Hyperlinks::LinkTags::base_tag", "de/db5/a08285.html", "de/db5/a08285" ],
+    [ "Acore::Hyperlinks::LinkTags::achievement", "dc/d1b/a08289.html", "dc/d1b/a08289" ],
+    [ "Acore::Hyperlinks::LinkTags::enchant", "d9/d95/a08293.html", "d9/d95/a08293" ],
+    [ "Acore::Hyperlinks::LinkTags::found", "d3/da9/a08297.html", "d3/da9/a08297" ],
+    [ "Acore::Hyperlinks::LinkTags::glyph", "d9/d45/a08301.html", "d9/d45/a08301" ],
+    [ "Acore::Hyperlinks::LinkTags::item", "d8/da8/a08305.html", "d8/da8/a08305" ],
+    [ "Acore::Hyperlinks::LinkTags::quest", "d9/dd3/a08309.html", "d9/dd3/a08309" ],
+    [ "Acore::Hyperlinks::LinkTags::spell", "dd/da2/a08313.html", "dd/da2/a08313" ],
+    [ "Acore::Hyperlinks::LinkTags::talent", "d8/d52/a08317.html", "d8/d52/a08317" ],
+    [ "Acore::Hyperlinks::LinkTags::trade", "d4/d15/a08321.html", "d4/d15/a08321" ],
+    [ "Acore::Hyperlinks::HyperlinkColor", "dc/df3/a08325.html", "dc/df3/a08325" ],
+    [ "Acore::Hyperlinks::HyperlinkInfo", "d3/dd0/a08329.html", "d3/dd0/a08329" ],
+    [ "make_base_tag", "d4/dc0/a02225.html#a73cc3b14b22adefd27d34c736cafa480", null ],
+    [ "CheckAllLinks", "d4/dc0/a02225.html#a02761d9aa335689ff1b8dc1155b2a3c6", null ],
+    [ "make_base_tag", "d4/dc0/a02225.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a", null ],
+    [ "make_base_tag", "d4/dc0/a02225.html#a0803de4bbc9edad4f5bb2afc3c242dca", null ],
+    [ "make_base_tag", "d4/dc0/a02225.html#aa8156f2996632fd42a2e39b974426995", null ],
+    [ "make_base_tag", "d4/dc0/a02225.html#a321da5d63921d41c561a1460929ac730", null ],
+    [ "make_base_tag", "d4/dc0/a02225.html#afc9dbd840048c0031231bcdb7b2fcf04", null ],
+    [ "make_base_tag", "d4/dc0/a02225.html#a7083d48423b83ff39095030678b29877", null ],
+    [ "make_base_tag", "d4/dc0/a02225.html#aae3a6cd0fbf426755d93a387882ff767", null ],
+    [ "make_base_tag", "d4/dc0/a02225.html#aa0ca4a111a856da9091a377934f8de93", null ],
+    [ "make_base_tag", "d4/dc0/a02225.html#a9990339040b491e108594df755f03a6c", null ],
+    [ "make_base_tag", "d4/dc0/a02225.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec", null ],
+    [ "make_base_tag", "d4/dc0/a02225.html#a32cfa3bc188d1b731f3e9e5dcc2de664", null ],
+    [ "make_base_tag", "d4/dc0/a02225.html#ae0c637d10c728f04dc2468c15c3f8dca", null ],
+    [ "make_base_tag", "d4/dc0/a02225.html#abe0a588f1c0e66d33c8bc7a7d0a04459", null ],
+    [ "ParseSingleHyperlink", "d4/dc0/a02225.html#a2c5596879f4531eeedbe15d1e4987918", null ]
 ];

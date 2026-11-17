@@ -1,8 +1,24 @@
 var a21021 =
 [
-    [ "npc_scrapbot", "dc/dd6/a21021.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
-    [ "Reset", "dc/dd6/a21021.html#a2dca509a6e2b46674165e5559717f69c", null ],
-    [ "UpdateAI", "dc/dd6/a21021.html#ade90c75baf598900adaa300cef28cb6a", null ],
-    [ "_instance", "dc/dd6/a21021.html#afb8296b4d9105ee99abc534656289ae2", null ],
-    [ "_scheduler", "dc/dd6/a21021.html#a4deb841588ea244e4290bb8ffb69b483", null ]
+    [ "boss_xt002", "dc/dd6/a21021.html#af0d0a5c5bf06431e1fea6e17eb8b2598", null ],
+    [ "ChangeNextExpose", "dc/dd6/a21021.html#a028ffc2154403f0e6569f3ffe4bc5312", null ],
+    [ "DisposeHeart", "dc/dd6/a21021.html#a44e48a0168213a05f44eef61706fb51d", null ],
+    [ "DoAction", "dc/dd6/a21021.html#a5a385912ba3cd39a0bc37139b691992a", null ],
+    [ "EnterEvadeMode", "dc/dd6/a21021.html#ab26314d28056446e206d3839a5badff7", null ],
+    [ "ExposeHeart", "dc/dd6/a21021.html#a6faa25629e12a242b38eec74e434ed16", null ],
+    [ "GetData", "dc/dd6/a21021.html#a7ae6062be8330b21296b05720fe7b99a", null ],
+    [ "Initialize", "dc/dd6/a21021.html#aa94cf49381e47338d1b2cfeebc2ec92c", null ],
+    [ "JustDied", "dc/dd6/a21021.html#a4afb96f905e61c8b35941a8481e19882", null ],
+    [ "JustEngagedWith", "dc/dd6/a21021.html#a97470dbcc43d0f98fda4fcb9a70bb296", null ],
+    [ "KilledUnit", "dc/dd6/a21021.html#add12c0faea7346cfa62d1f600b8a7068", null ],
+    [ "MovementInform", "dc/dd6/a21021.html#ad2ad9c50ebad8b23c08818cd7c7b88e1", null ],
+    [ "PassengerBoarded", "dc/dd6/a21021.html#a7c2c48a83f48107f2beee753f1fcc6b8", null ],
+    [ "RescheduleEvents", "dc/dd6/a21021.html#a3ff4223b4eecab9c8b193cd5f63d8f50", null ],
+    [ "Reset", "dc/dd6/a21021.html#a0d33da735deae0fb5a22c4f7d6b19fa2", null ],
+    [ "SetData", "dc/dd6/a21021.html#ac4ae43822c935c3ce1820bdc96d6ed2b", null ],
+    [ "UpdateAI", "dc/dd6/a21021.html#a326eb111c3d94e1bb57e9fe6e1f38c57", null ],
+    [ "_exposeHeartPercent", "dc/dd6/a21021.html#a1a24dd0088c00994d8f0d0eb748a37fa", null ],
+    [ "_gravityBombCasualty", "dc/dd6/a21021.html#a0d6ff56b5b3655fc0f8ca96a0e55efcc", null ],
+    [ "_hardMode", "dc/dd6/a21021.html#a2882a78918439bbc63902cab0179049c", null ],
+    [ "_healthRecovered", "dc/dd6/a21021.html#a756db24bed94e455ed0576c2b5261afd", null ]
 ];

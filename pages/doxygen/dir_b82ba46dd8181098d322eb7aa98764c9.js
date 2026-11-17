@@ -1,9 +1,9 @@
 var dir_b82ba46dd8181098d322eb7aa98764c9 =
 [
-    [ "boss_captain_skarloc.cpp", "de/df4/a04844.html", "de/df4/a04844" ],
-    [ "boss_epoch_hunter.cpp", "da/d67/a04838.html", "da/d67/a04838" ],
-    [ "boss_lieutenant_drake.cpp", "dd/dca/a04847.html", "dd/dca/a04847" ],
-    [ "instance_old_hillsbrad.cpp", "d6/ddb/a04853.html", "d6/ddb/a04853" ],
-    [ "old_hillsbrad.cpp", "d5/dab/a04850.html", "d5/dab/a04850" ],
-    [ "old_hillsbrad.h", "d4/d72/a04841.html", "d4/d72/a04841" ]
+    [ "boss_captain_skarloc.cpp", "de/d3a/a03200.html", "de/d3a/a03200" ],
+    [ "boss_epoch_hunter.cpp", "d1/d86/a03209.html", "d1/d86/a03209" ],
+    [ "boss_lieutenant_drake.cpp", "d5/d73/a03203.html", "d5/d73/a03203" ],
+    [ "instance_old_hillsbrad.cpp", "df/d1e/a03212.html", "df/d1e/a03212" ],
+    [ "old_hillsbrad.cpp", "d9/d4f/a03206.html", "d9/d4f/a03206" ],
+    [ "old_hillsbrad.h", "dd/d61/a03197.html", "dd/d61/a03197" ]
 ];

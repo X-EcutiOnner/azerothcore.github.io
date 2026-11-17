@@ -1,7 +1,11 @@
 var a00071 =
 [
-    [ "Model", "d7/d0b/a30541.html", "d7/d0b/a30541" ],
-    [ "Extract", "d0/d89/a00071.html#aaece844099afc9d83362feb37427d5ae", null ],
-    [ "ExtractSet", "d0/d89/a00071.html#afd641f15b5ca6e58b68f26ef17a02912", null ],
-    [ "fixCoordSystem", "d0/d89/a00071.html#a8d0afbab5641bb7d88196fbad79e4cf1", null ]
+    [ "SpellCritDamageBonusOrderTest", "d3/d04/a30181.html", null ],
+    [ "CorrectCritOrder", "d0/d89/a00071.html#ab55aeffce172b7e667fdcb86ba06d954", null ],
+    [ "OldWrongCritOrder", "d0/d89/a00071.html#ae0ad4b3cd3c2381976fd6106fc4f8088", null ],
+    [ "TEST_F", "d0/d89/a00071.html#aa932f572f1a8831ecf4bc5475b7598fb", null ],
+    [ "TEST_F", "d0/d89/a00071.html#a2f98b8f734392902e0cd2dc96a8ef637", null ],
+    [ "TEST_F", "d0/d89/a00071.html#ae30b40dccd8a24d78d006e8e9ac63f19", null ],
+    [ "TEST_F", "d0/d89/a00071.html#a4172aa23985d10af03e6a92c7fa9dd2e", null ],
+    [ "TEST_F", "d0/d89/a00071.html#ad8c6026ca0167ae177e227997c8e2388", null ]
 ];

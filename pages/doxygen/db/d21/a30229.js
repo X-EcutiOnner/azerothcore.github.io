@@ -1,5 +1,9 @@
 var a30229 =
 [
-    [ "SetUp", "db/d21/a30229.html#aa4192b0ae6f716449e20ead2b5a5a387", null ],
-    [ "_allEntries", "db/d21/a30229.html#a7c06feea09d0606a50198a307e43b989", null ]
+    [ "defaultHitMask", "db/d21/a30229.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
+    [ "defaultSpellPhaseMask", "db/d21/a30229.html#af927bd441959e8e122648de610398c65", null ],
+    [ "defaultSpellTypeMask", "db/d21/a30229.html#aa64e6ad192c41998b368b908c499574d", null ],
+    [ "name", "db/d21/a30229.html#a3916a9a0f1cb0b599b35619c1a89f6eb", null ],
+    [ "procFlag", "db/d21/a30229.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
+    [ "requiresSpellPhase", "db/d21/a30229.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
 ];

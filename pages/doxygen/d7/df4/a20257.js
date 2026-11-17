@@ -1,5 +1,7 @@
 var a20257 =
 [
-    [ "achievement_algalon_he_feeds_on_your_tears", "d7/df4/a20257.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
-    [ "OnCheck", "d7/df4/a20257.html#affea33614581545c65513bfe533d7246", null ]
+    [ "HandlePeriodic", "d7/df4/a20257.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
+    [ "PrepareAuraScript", "d7/df4/a20257.html#ad78b06733a8609dd39e885db2f23edba", null ],
+    [ "Register", "d7/df4/a20257.html#ac9ae9be546964752869163896c4045dd", null ],
+    [ "Validate", "d7/df4/a20257.html#afcca84d03b29ef7569c03f973a6c191b", null ]
 ];

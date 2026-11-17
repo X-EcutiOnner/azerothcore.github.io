@@ -1,4 +1,5 @@
 var a02729 =
 [
-    [ "MapInstanced", "d6/df0/a10393.html", "d6/df0/a10393" ]
+    [ "CreatureTextBuilder", "d5/d15/a12297.html", "d5/d15/a12297" ],
+    [ "PlayerTextBuilder", "d3/d99/a12301.html", "d3/d99/a12301" ]
 ];

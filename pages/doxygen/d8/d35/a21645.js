@@ -1,12 +1,8 @@
 var a21645 =
 [
-    [ "boss_xevozz", "d8/d35/a21645.html#aea402ffbe689ca65e29b30899862a8bc", null ],
-    [ "EnterEvadeMode", "d8/d35/a21645.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
-    [ "ExecuteEvent", "d8/d35/a21645.html#af5b37fc643f2b22468a38655fce63d25", null ],
-    [ "JustDied", "d8/d35/a21645.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
-    [ "JustEngagedWith", "d8/d35/a21645.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
-    [ "JustSummoned", "d8/d35/a21645.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
-    [ "KilledUnit", "d8/d35/a21645.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
-    [ "MoveInLineOfSight", "d8/d35/a21645.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
-    [ "SummonedCreatureDespawn", "d8/d35/a21645.html#a1493a5acdfcca7d01446564db622239e", null ]
+    [ "boss_moragg", "d8/d35/a21645.html#a42d2508369286e5e635d47cce0b939f4", null ],
+    [ "EnterEvadeMode", "d8/d35/a21645.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
+    [ "ExecuteEvent", "d8/d35/a21645.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
+    [ "JustEngagedWith", "d8/d35/a21645.html#a29da7214373c1919b65f3512655c8bc3", null ],
+    [ "MoveInLineOfSight", "d8/d35/a21645.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
 ];

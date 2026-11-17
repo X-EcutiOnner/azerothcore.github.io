@@ -1,7 +1,5 @@
 var a02099 =
 [
-    [ "GetExplicitDiscoverySpell", "d9/dff/a02099.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
-    [ "GetSkillDiscoverySpell", "d9/dff/a02099.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
-    [ "HasDiscoveredAllSpells", "d9/dff/a02099.html#abdf3c2fcf65212466dfb54053e35024c", null ],
-    [ "LoadSkillDiscoveryTable", "d9/dff/a02099.html#addd95f0a239a27ed32cd943aa1052019", null ]
+    [ "ScriptRegistry< AllItemScript >", "d9/dff/a02099.html#a0f69164743e657905c670df85e97a29c", null ],
+    [ "ScriptRegistry< ItemScript >", "d9/dff/a02099.html#a9f258d1e2f9fb6ce144923451b63f995", null ]
 ];

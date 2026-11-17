@@ -1,6 +1,6 @@
 var a18765 =
 [
-    [ "npc_tirion_fordringAI", "de/d78/a18769.html", "de/d78/a18769" ],
-    [ "npc_tirion_fordring_tft", "d7/d1e/a18765.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "d7/d1e/a18765.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "boss_the_lich_kingAI", "de/d78/a18769.html", "de/d78/a18769" ],
+    [ "boss_the_lich_king", "d7/d1e/a18765.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "d7/d1e/a18765.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

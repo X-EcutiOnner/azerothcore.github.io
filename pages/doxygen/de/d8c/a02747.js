@@ -1,6 +1,6 @@
 var a02747 =
 [
-    [ "Movement::FacingInfo", "d8/ddb/a10657.html", "d8/ddb/a10657" ],
-    [ "Movement::MoveSplineInitArgs", "de/db6/a10665.html", "de/db6/a10665" ],
-    [ "PointsArray", "de/d8c/a02747.html#a86528b2e04ddf38b80888e45d6b9c37d", null ]
+    [ "GetWeatherData", "de/d8c/a02747.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
+    [ "LoadWeatherData", "de/d8c/a02747.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
+    [ "_weatherData", "de/d8c/a02747.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
 ];

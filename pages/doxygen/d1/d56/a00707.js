@@ -1,6 +1,6 @@
 var a00707 =
 [
-    [ "GetRandomBytes", "d1/d56/a00707.html#ab09d7cc2f8e11fc5fe6b2323d57b7184", null ],
-    [ "GetRandomBytes", "d1/d56/a00707.html#a797cfc74306f60b5c63eecb37a2061d3", null ],
-    [ "GetRandomBytes", "d1/d56/a00707.html#a2ff283a7b883696205a91f122b194f6f", null ]
+    [ "SetupLibrariesForWindows", "d1/d56/a00707.html#ab801d0877d7ea0652bb6f94fb17842e4", null ],
+    [ "DefaultProvider", "d1/d56/a00707.html#ab217c6bb86b0f962ea820f3ffe079708", null ],
+    [ "LegacyProvider", "d1/d56/a00707.html#a81b4206923925a193dca5c3acd946bc2", null ]
 ];

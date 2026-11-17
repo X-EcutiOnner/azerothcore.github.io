@@ -1,9 +1,14 @@
 var a02828 =
 [
-    [ "PathMovementBase< T, P >", "df/d04/a10597.html", "df/d04/a10597" ],
-    [ "WaypointMovementGenerator< Creature >", "dc/d4a/a10605.html", "dc/d4a/a10605" ],
-    [ "FlightPathMovementGenerator", "d6/d4c/a10609.html", "d6/d4c/a10609" ],
-    [ "FlightPathMovementGenerator::TaxiNodeChangeInfo", "df/d4e/a10613.html", "df/d4e/a10613" ],
-    [ "FLIGHT_TRAVEL_UPDATE", "d2/d4c/a02828.html#af2d292bdefbb6db76ff3201ac0c0cdd6", null ],
-    [ "TIMEDIFF_NEXT_WP", "d2/d4c/a02828.html#afcff81f45a877feac68bf5bcae913560", null ]
+    [ "AccountInfo", "d2/d0c/a06105.html", "d2/d0c/a06105" ],
+    [ "AuthSession", "d9/d39/a06109.html", "d9/d39/a06109" ],
+    [ "AuthHandler", "d4/dc7/a06113.html", "d4/dc7/a06113" ],
+    [ "AuthStatus", "d2/d4c/a02828.html#a9bc15a6035dd7c4983d87a5ccb3d5834", [
+      [ "STATUS_CHALLENGE", "d2/d4c/a02828.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4", null ],
+      [ "STATUS_LOGON_PROOF", "d2/d4c/a02828.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16", null ],
+      [ "STATUS_RECONNECT_PROOF", "d2/d4c/a02828.html#a9bc15a6035dd7c4983d87a5ccb3d5834a2a06e7508d5944327eec6c08c11db734", null ],
+      [ "STATUS_AUTHED", "d2/d4c/a02828.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b", null ],
+      [ "STATUS_WAITING_FOR_REALM_LIST", "d2/d4c/a02828.html#a9bc15a6035dd7c4983d87a5ccb3d5834a570e0aef98212ddcd09f1ec9254ffdf0", null ],
+      [ "STATUS_CLOSED", "d2/d4c/a02828.html#a9bc15a6035dd7c4983d87a5ccb3d5834a78785eb1e6f5b92eaea5c78b3cc0dd94", null ]
+    ] ]
 ];

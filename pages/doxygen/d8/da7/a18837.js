@@ -1,6 +1,9 @@
 var a18837 =
 [
-    [ "npc_raging_spiritAI", "da/dae/a18841.html", "da/dae/a18841" ],
-    [ "npc_raging_spirit", "d8/da7/a18837.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "d8/da7/a18837.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "npc_icc_ice_sphereAI", "d8/da7/a18837.html#a685f45e5cd15b005646e596ff61088e8", null ],
+    [ "DoAction", "d8/da7/a18837.html#ac056ecdd93bc716964054f38ab81014e", null ],
+    [ "SelectNewTarget", "d8/da7/a18837.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
+    [ "UpdateAI", "d8/da7/a18837.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
+    [ "targetGUID", "d8/da7/a18837.html#a3e202f9bde2a202d329066f7aab8897c", null ],
+    [ "timer", "d8/da7/a18837.html#a42842e92926e18ef2589687d81a7d0d4", null ]
 ];

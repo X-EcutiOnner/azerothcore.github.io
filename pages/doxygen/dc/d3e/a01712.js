@@ -1,4 +1,6 @@
 var a01712 =
 [
-    [ "MAX_INBOX_CLIENT_CAPACITY", "dc/d3e/a01712.html#ae1d9c2394745301897af9c167e219ca8", null ]
+    [ "AddItemsSetItem", "dc/d3e/a01712.html#a02944420353f8ba883b80737f8e63137", null ],
+    [ "ItemCanGoIntoBag", "dc/d3e/a01712.html#a0c91640134a5241ec34f91bdec13c8ec", null ],
+    [ "RemoveItemsSetItem", "dc/d3e/a01712.html#a402c3dd64769702b750f96adff4b3a14", null ]
 ];

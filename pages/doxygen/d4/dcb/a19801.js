@@ -1,6 +1,8 @@
 var a19801 =
 [
-    [ "DespawnTime", "d4/dcb/a19801.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d4/dcb/a19801.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d4/dcb/a19801.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "npc_teslaAI", "d4/dcb/a19801.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "d4/dcb/a19801.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "d4/dcb/a19801.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "d4/dcb/a19801.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "d4/dcb/a19801.html#a962745569b07e368067ee483d2379840", null ]
 ];

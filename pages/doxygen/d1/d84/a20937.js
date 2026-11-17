@@ -1,5 +1,7 @@
 var a20937 =
 [
-    [ "achievement_quick_shave", "d1/d84/a20937.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "d1/d84/a20937.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "HandleFused", "d1/d84/a20937.html#ab5ea77be32486664ff6c5ff7dc01f7dd", null ],
+    [ "PrepareAuraScript", "d1/d84/a20937.html#a438c63656d2a976883fa13232cc5dc6e", null ],
+    [ "Register", "d1/d84/a20937.html#a17300c74645f9298d8422535a61fe077", null ],
+    [ "Validate", "d1/d84/a20937.html#a55ca732a3d0e3a69f055fd915037a5f0", null ]
 ];

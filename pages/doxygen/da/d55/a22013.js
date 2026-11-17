@@ -1,6 +1,6 @@
 var a22013 =
 [
-    [ "GhoulTargetCheck", "da/d55/a22013.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "da/d55/a22013.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "da/d55/a22013.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_q24545_wretched_ghoulAI", "d8/d85/a22017.html", "d8/d85/a22017" ],
+    [ "npc_q24545_wretched_ghoul", "da/d55/a22013.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "da/d55/a22013.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

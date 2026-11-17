@@ -1,6 +1,10 @@
 var a22497 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d7/d85/a22501.html", "d7/d85/a22501" ],
-    [ "npc_brunnhildar_prisoner", "db/d39/a22497.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
-    [ "GetAI", "db/d39/a22497.html#aa2a1787849c74a5163a39137c9d03d57", null ]
+    [ "npc_time_lost_proto_drakeAI", "db/d39/a22497.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "ArmHiddenState", "db/d39/a22497.html#ac397eb8580e523214dec0cf9b15b18f5", null ],
+    [ "DoAction", "db/d39/a22497.html#a0357600a1ed7bc17cd5dfdf822c5296b", null ],
+    [ "JustEngagedWith", "db/d39/a22497.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "JustRespawned", "db/d39/a22497.html#ac59dcf8cd9c19f2bf4a1bdba6f21b9d1", null ],
+    [ "Reset", "db/d39/a22497.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "db/d39/a22497.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

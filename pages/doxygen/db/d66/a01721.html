@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Handlers/ArenaTeamHandler.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Item/ItemRecovery.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -104,28 +104,114 @@ $(document).ready(function(){initNavTree('db/d66/a01721.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">ArenaTeamHandler.cpp File Reference</div></div>
+  <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">ItemRecovery.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ArenaTeam.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ArenaTeamMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SocialMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">DatabaseEnvFwd.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &lt;optional&gt;</code><br />
+<code>#include &lt;string&gt;</code><br />
+<code>#include &lt;utility&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df1/a08857.html">RecoveryItem</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d9/dff/a05196"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html">ItemRecovery</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a21a23fdc5e56f331543f56934db53954"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d66/a01721.html#a21a23fdc5e56f331543f56934db53954">RecoveryItemLoot</a> = std::vector&lt; std::pair&lt; <a class="el" href="../../da/dee/a00383.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../da/dee/a00383.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; &gt;</td></tr>
+<tr class="separator:a21a23fdc5e56f331543f56934db53954"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a76cb790aeee9a1dba27c88d560467193"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d66/a01721.html#a76cb790aeee9a1dba27c88d560467193">RecoveryItemSource</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../db/d66/a01721.html#a76cb790aeee9a1dba27c88d560467193a33c0bf11925bc8065b2c26f3f591c274">RECOVERY_ITEM_SOURCE_DESTROYED</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../db/d66/a01721.html#a76cb790aeee9a1dba27c88d560467193aa69ef057fb18a3ac705c84820c2a20db">RECOVERY_ITEM_SOURCE_VENDORED</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../db/d66/a01721.html#a76cb790aeee9a1dba27c88d560467193a1c67bff53e5b9ff59c5f4734b028dc67">RECOVERY_ITEM_SOURCE_DISENCHANTED</a> = 2
+<br />
+ }</td></tr>
+<tr class="separator:a76cb790aeee9a1dba27c88d560467193"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:aba8bb85058eb9806188799f6284fb744"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#aba8bb85058eb9806188799f6284fb744">ItemRecovery::Save</a> (<a class="el" href="../../d3/d58/a08849.html">Item</a> const *item, <a class="el" href="../../da/dee/a00383.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count, <a class="el" href="../../db/d66/a01721.html#a76cb790aeee9a1dba27c88d560467193">RecoveryItemSource</a> source, <a class="el" href="../../da/dee/a00383.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> money=0, <a class="el" href="../../db/d66/a01721.html#a21a23fdc5e56f331543f56934db53954">RecoveryItemLoot</a> const &amp;loot={ })</td></tr>
+<tr class="separator:aba8bb85058eb9806188799f6284fb744"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a074ad35364fee8062b2943d1fb893902"><td class="memItemLeft" align="right" valign="top">std::optional&lt; <a class="el" href="../../d1/df1/a08857.html">RecoveryItem</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a074ad35364fee8062b2943d1fb893902">ItemRecovery::Load</a> (<a class="el" href="../../da/dee/a00383.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> recoveryId)</td></tr>
+<tr class="separator:a074ad35364fee8062b2943d1fb893902"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad50212d6e3a6385c53a1196557dcd612"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#ad50212d6e3a6385c53a1196557dcd612">ItemRecovery::Restore</a> (<a class="el" href="../../d1/df1/a08857.html">RecoveryItem</a> const &amp;recovery, <a class="el" href="../../d1/d04/a09145.html">Player</a> *owner)</td></tr>
+<tr class="separator:ad50212d6e3a6385c53a1196557dcd612"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ec915cbfd5641b0abe8beb905afbc35"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a2ec915cbfd5641b0abe8beb905afbc35">ItemRecovery::DeleteFromDB</a> (<a class="el" href="../../da/da3/a04985.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a> trans, <a class="el" href="../../da/dee/a00383.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> recoveryId)</td></tr>
+<tr class="separator:a2ec915cbfd5641b0abe8beb905afbc35"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a818be554293b59360181fd08ab81665c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a818be554293b59360181fd08ab81665c">ItemRecovery::IsInBuyback</a> (<a class="el" href="../../d1/d04/a09145.html">Player</a> *player, <a class="el" href="../../d1/df1/a08857.html">RecoveryItem</a> const &amp;recovery)</td></tr>
+<tr class="separator:a818be554293b59360181fd08ab81665c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a21a23fdc5e56f331543f56934db53954" name="a21a23fdc5e56f331543f56934db53954"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a21a23fdc5e56f331543f56934db53954">&#9670;&#160;</a></span>RecoveryItemLoot</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../db/d66/a01721.html#a21a23fdc5e56f331543f56934db53954">RecoveryItemLoot</a> =  std::vector&lt;std::pair&lt;<a class="el" href="../../da/dee/a00383.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> , <a class="el" href="../../da/dee/a00383.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; &gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a76cb790aeee9a1dba27c88d560467193" name="a76cb790aeee9a1dba27c88d560467193"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a76cb790aeee9a1dba27c88d560467193">&#9670;&#160;</a></span>RecoveryItemSource</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../db/d66/a01721.html#a76cb790aeee9a1dba27c88d560467193">RecoveryItemSource</a> : <a class="el" href="../../da/dee/a00383.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a76cb790aeee9a1dba27c88d560467193a33c0bf11925bc8065b2c26f3f591c274" name="a76cb790aeee9a1dba27c88d560467193a33c0bf11925bc8065b2c26f3f591c274"></a>RECOVERY_ITEM_SOURCE_DESTROYED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a76cb790aeee9a1dba27c88d560467193aa69ef057fb18a3ac705c84820c2a20db" name="a76cb790aeee9a1dba27c88d560467193aa69ef057fb18a3ac705c84820c2a20db"></a>RECOVERY_ITEM_SOURCE_VENDORED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a76cb790aeee9a1dba27c88d560467193a1c67bff53e5b9ff59c5f4734b028dc67" name="a76cb790aeee9a1dba27c88d560467193a1c67bff53e5b9ff59c5f4734b028dc67"></a>RECOVERY_ITEM_SOURCE_DISENCHANTED&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../db/d66/a01721.html#a76cb790aeee9a1dba27c88d560467193a33c0bf11925bc8065b2c26f3f591c274">RECOVERY_ITEM_SOURCE_DESTROYED</a>    = 0,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../db/d66/a01721.html#a76cb790aeee9a1dba27c88d560467193aa69ef057fb18a3ac705c84820c2a20db">RECOVERY_ITEM_SOURCE_VENDORED</a>     = 1,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../db/d66/a01721.html#a76cb790aeee9a1dba27c88d560467193a1c67bff53e5b9ff59c5f4734b028dc67">RECOVERY_ITEM_SOURCE_DISENCHANTED</a> = 2</div>
+<div class="line"><span class="lineno">   36</span>};</div>
+<div class="ttc" id="aa01721_html_a76cb790aeee9a1dba27c88d560467193a1c67bff53e5b9ff59c5f4734b028dc67"><div class="ttname"><a href="../../db/d66/a01721.html#a76cb790aeee9a1dba27c88d560467193a1c67bff53e5b9ff59c5f4734b028dc67">RECOVERY_ITEM_SOURCE_DISENCHANTED</a></div><div class="ttdeci">@ RECOVERY_ITEM_SOURCE_DISENCHANTED</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:35</div></div>
+<div class="ttc" id="aa01721_html_a76cb790aeee9a1dba27c88d560467193a33c0bf11925bc8065b2c26f3f591c274"><div class="ttname"><a href="../../db/d66/a01721.html#a76cb790aeee9a1dba27c88d560467193a33c0bf11925bc8065b2c26f3f591c274">RECOVERY_ITEM_SOURCE_DESTROYED</a></div><div class="ttdeci">@ RECOVERY_ITEM_SOURCE_DESTROYED</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:33</div></div>
+<div class="ttc" id="aa01721_html_a76cb790aeee9a1dba27c88d560467193aa69ef057fb18a3ac705c84820c2a20db"><div class="ttname"><a href="../../db/d66/a01721.html#a76cb790aeee9a1dba27c88d560467193aa69ef057fb18a3ac705c84820c2a20db">RECOVERY_ITEM_SOURCE_VENDORED</a></div><div class="ttdeci">@ RECOVERY_ITEM_SOURCE_VENDORED</div><div class="ttdef"><b>Definition:</b> ItemRecovery.h:34</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_c6aa1690377d4e56e32ba0c89772ac1d.html">Handlers</a></li><li class="navelem"><a class="el" href="../../db/d66/a01721.html">ArenaTeamHandler.cpp</a></li>
-    <li class="footer">Generated on Tue Nov 10 2026 02:53:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_4b91de77c0d3c1b17ed3a22a8949a24f.html">Item</a></li><li class="navelem"><a class="el" href="../../db/d66/a01721.html">ItemRecovery.h</a></li>
+    <li class="footer">Generated on Tue Nov 17 2026 03:05:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

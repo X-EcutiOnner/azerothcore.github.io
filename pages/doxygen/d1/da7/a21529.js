@@ -1,8 +1,6 @@
 var a21529 =
 [
-    [ "CheckProc", "d1/da7/a21529.html#ac955cc78dd3206816906dd06b3e006f6", null ],
-    [ "HandleProc", "d1/da7/a21529.html#a966d23cc5714fe35d80b2964dddda536", null ],
-    [ "PrepareAuraScript", "d1/da7/a21529.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
-    [ "Register", "d1/da7/a21529.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
-    [ "Validate", "d1/da7/a21529.html#a5d8e764dafd26548af8588593bf27990", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "d0/d13/a21533.html", "d0/d13/a21533" ],
+    [ "instance_utgarde_pinnacle", "d1/da7/a21529.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "d1/da7/a21529.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

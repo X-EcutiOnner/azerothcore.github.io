@@ -1,30 +1,5 @@
 var a20761 =
 [
-    [ "boss_mimiron", "db/d22/a20761.html#acb08d1e24173014a7c443dc2eaea76ce", null ],
-    [ "AttackStart", "db/d22/a20761.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
-    [ "CloseDoorAndButton", "db/d22/a20761.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
-    [ "EnterEvadeMode", "db/d22/a20761.html#a9f39f9afa3f561115c4f7e630364f566", null ],
-    [ "GetActiveFlameCount", "db/d22/a20761.html#a94aed57a03e4710e76338a1f7e20ea55", null ],
-    [ "GetData", "db/d22/a20761.html#ab3aa6e8702c74ee27fa776c0a9bef77d", null ],
-    [ "JustEngagedWith", "db/d22/a20761.html#ab9ce3920c2a06deb31bcf25f1b2947a8", null ],
-    [ "JustReachedHome", "db/d22/a20761.html#a9e84d80c2e194c6d51b9d67d0c72db19", null ],
-    [ "MoveInLineOfSight", "db/d22/a20761.html#a0b1497cf1fc3cca2db670b74eb4745ee", null ],
-    [ "RegisterFlame", "db/d22/a20761.html#a879e2e2e8bd5662ec56ae68c9081e813", null ],
-    [ "Reset", "db/d22/a20761.html#aec9cce9e0fcab78cfcf37e605cc6c08a", null ],
-    [ "ResetGameObjects", "db/d22/a20761.html#ac3a10be85349fc62ef14ecd937159e61", null ],
-    [ "SetData", "db/d22/a20761.html#aa9578fe08ab058a64e67935d262224ac", null ],
-    [ "SpellHit", "db/d22/a20761.html#af4e88527fb72bcbc1dc0a57b6007a461", null ],
-    [ "UnregisterFlame", "db/d22/a20761.html#a7605afe4b8a08512a7ea7b716e26ca25", null ],
-    [ "UpdateAI", "db/d22/a20761.html#adea87e321b4c401109ab4c37e314aca2", null ],
-    [ "_achievBombBot", "db/d22/a20761.html#a916517ab6ec6b4bfe0bcbb445312a9a0", null ],
-    [ "_achievProximityMine", "db/d22/a20761.html#a1fe4524d60414c100e0489bb77396033", null ],
-    [ "_achievRocketStrike", "db/d22/a20761.html#a406cf4b6b01e1fbd6e995173c5cade4a", null ],
-    [ "_activeFlames", "db/d22/a20761.html#a92c7250287a9ba8d65cde3873189ff8d", null ],
-    [ "_allowedFlameSpreadTime", "db/d22/a20761.html#a34e2409dc2384851746d04301b926fdb", null ],
-    [ "_berserk", "db/d22/a20761.html#af85af0d10226de45a42a9d3317244e7a", null ],
-    [ "_changeAllowedFlameSpreadTime", "db/d22/a20761.html#a7d56123e4cc29207b53c0673084ee79e", null ],
-    [ "_hardmode", "db/d22/a20761.html#af4b21f8bb94becdd9082e39d81003a2b", null ],
-    [ "_isEvading", "db/d22/a20761.html#aa46c9828cdd36bb353ae75bea6d205b3", null ],
-    [ "_minutesTalkNum", "db/d22/a20761.html#a4dbed164732f74205cd248afbb2fb46e", null ],
-    [ "_outOfCombatTimer", "db/d22/a20761.html#a73c2e0d120706ec09638bbc20bda81b6", null ]
+    [ "achievement_kologarn_rubble_and_roll", "db/d22/a20761.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
+    [ "OnCheck", "db/d22/a20761.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
 ];

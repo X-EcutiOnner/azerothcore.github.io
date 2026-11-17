@@ -1,21 +1,21 @@
 var a01034 =
 [
-    [ "lfg::LfgQueueData", "d2/d55/a08481.html", "d2/d55/a08481" ],
-    [ "lfg::LfgWaitTime", "da/de9/a08485.html", "da/de9/a08485" ],
-    [ "lfg::LFGQueue", "d7/d3c/a08489.html", "d7/d3c/a08489" ],
-    [ "LfgCompatibleContainer", "de/d91/a01034.html#a96438cca4cead6c1fc5d31ef643129e9", null ],
-    [ "LfgQueueDataContainer", "de/d91/a01034.html#aa2afec59ce753c11c3d8fddf4fb33991", null ],
-    [ "LfgWaitTimesContainer", "de/d91/a01034.html#a58714a43cbdc03f4008681528fb20447", null ],
-    [ "LfgCompatibility", "de/d91/a01034.html#a33c5b3513de4cd3c5a525f31008618b6", [
-      [ "LFG_COMPATIBILITY_PENDING", "de/d91/a01034.html#a33c5b3513de4cd3c5a525f31008618b6a9bd6f6c66c07537c541c6cf47da9311a", null ],
-      [ "LFG_INCOMPATIBLES_WRONG_GROUP_SIZE", "de/d91/a01034.html#a33c5b3513de4cd3c5a525f31008618b6ab6f6918e09882dce7eb53394dc960123", null ],
-      [ "LFG_INCOMPATIBLES_TOO_MUCH_PLAYERS", "de/d91/a01034.html#a33c5b3513de4cd3c5a525f31008618b6aab66f0e7b36ded30473ed953e96346a1", null ],
-      [ "LFG_INCOMPATIBLES_MULTIPLE_LFG_GROUPS", "de/d91/a01034.html#a33c5b3513de4cd3c5a525f31008618b6a5c52733040385425e0b4fafbbe962c57", null ],
-      [ "LFG_INCOMPATIBLES_HAS_IGNORES", "de/d91/a01034.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b", null ],
-      [ "LFG_INCOMPATIBLES_NO_ROLES", "de/d91/a01034.html#a33c5b3513de4cd3c5a525f31008618b6ad009d10da76a97578ce600e26e253a63", null ],
-      [ "LFG_INCOMPATIBLES_NO_DUNGEONS", "de/d91/a01034.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33", null ],
-      [ "LFG_INCOMPATIBLES_REJECTED_BY_SCRIPT", "de/d91/a01034.html#a33c5b3513de4cd3c5a525f31008618b6ad9a68f4c00296cf1819fa4a4cd29a1f3", null ],
-      [ "LFG_COMPATIBLES_WITH_LESS_PLAYERS", "de/d91/a01034.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e", null ],
-      [ "LFG_COMPATIBLES_MATCH", "de/d91/a01034.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0", null ]
+    [ "BattlegroundBE", "d2/d15/a07873.html", "d2/d15/a07873" ],
+    [ "BattlegroundBEGameObjects", "de/d91/a01034.html#a1b0280d2208da5214e6132c85687575e", [
+      [ "BG_BE_OBJECT_TYPE_DOOR_1", "de/d91/a01034.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc", null ],
+      [ "BG_BE_OBJECT_TYPE_DOOR_2", "de/d91/a01034.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285", null ],
+      [ "BG_BE_OBJECT_TYPE_DOOR_3", "de/d91/a01034.html#a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83", null ],
+      [ "BG_BE_OBJECT_TYPE_DOOR_4", "de/d91/a01034.html#a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6", null ],
+      [ "BG_BE_OBJECT_TYPE_BUFF_1", "de/d91/a01034.html#a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10", null ],
+      [ "BG_BE_OBJECT_TYPE_BUFF_2", "de/d91/a01034.html#a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab", null ]
+    ] ],
+    [ "BattlegroundBEObjectTypes", "de/d91/a01034.html#ac30a97954fa7cc5e46429c1b15e02aa6", [
+      [ "BG_BE_OBJECT_DOOR_1", "de/d91/a01034.html#ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17", null ],
+      [ "BG_BE_OBJECT_DOOR_2", "de/d91/a01034.html#ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e", null ],
+      [ "BG_BE_OBJECT_DOOR_3", "de/d91/a01034.html#ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb", null ],
+      [ "BG_BE_OBJECT_DOOR_4", "de/d91/a01034.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5", null ],
+      [ "BG_BE_OBJECT_BUFF_1", "de/d91/a01034.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176", null ],
+      [ "BG_BE_OBJECT_BUFF_2", "de/d91/a01034.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb", null ],
+      [ "BG_BE_OBJECT_MAX", "de/d91/a01034.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f", null ]
     ] ]
 ];

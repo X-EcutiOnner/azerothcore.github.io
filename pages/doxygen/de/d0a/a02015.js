@@ -1,96 +1,28 @@
 var a02015 =
 [
-    [ "CalendarInvite", "df/d36/a07977.html", "df/d36/a07977" ],
-    [ "CalendarEvent", "d8/d52/a07981.html", "d8/d52/a07981" ],
-    [ "CalendarMgr", "d5/deb/a07985.html", "d5/deb/a07985" ],
-    [ "sCalendarMgr", "de/d0a/a02015.html#a19ac4cd787f75380716d027d20c06b7a", null ],
-    [ "CalendarEventInviteStore", "de/d0a/a02015.html#af35b9a127e069a3aed4acad11a7cc5a6", null ],
-    [ "CalendarEventStore", "de/d0a/a02015.html#aea0466a27af69ea188d66b721b49a3d6", null ],
-    [ "CalendarInviteStore", "de/d0a/a02015.html#a6fe31a855a3ec48abb6eccd7296351ee", null ],
-    [ "CalendarError", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5", [
-      [ "CALENDAR_OK", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac62ddd961bf35a19647e4cd6b9a7e6cd", null ],
-      [ "CALENDAR_ERROR_GUILD_EVENTS_EXCEEDED", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a7516b93b285d93c30df815a153d24167", null ],
-      [ "CALENDAR_ERROR_EVENTS_EXCEEDED", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a4ba9fa39d98f1bf085af3de98cca9dca", null ],
-      [ "CALENDAR_ERROR_SELF_INVITES_EXCEEDED", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a320b0a93d9cba18e879cd1bea5f96fbf", null ],
-      [ "CALENDAR_ERROR_OTHER_INVITES_EXCEEDED", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a2f54e4a55eac48953a9cafc4614c4fb4", null ],
-      [ "CALENDAR_ERROR_PERMISSIONS", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a48674cf3f296507a9923feccf39b1afa", null ],
-      [ "CALENDAR_ERROR_EVENT_INVALID", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5ae3d987dfddd3797dc8888252cf89fc36", null ],
-      [ "CALENDAR_ERROR_NOT_INVITED", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a1560dd9567ff6c5755b3aa62d3979fd8", null ],
-      [ "CALENDAR_ERROR_INTERNAL", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a000f01ad03bfb2f45c6b8e07af9dd825", null ],
-      [ "CALENDAR_ERROR_GUILD_PLAYER_NOT_IN_GUILD", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5af2be40799e55127c125ce2d143ec1ff6", null ],
-      [ "CALENDAR_ERROR_ALREADY_INVITED_TO_EVENT_S", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a8f5b36d4edb8a21f05dd2e4fac327301", null ],
-      [ "CALENDAR_ERROR_PLAYER_NOT_FOUND", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac3e9334e8cbc95e43e53ff88b1afd20d", null ],
-      [ "CALENDAR_ERROR_NOT_ALLIED", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a443a38772984e225a6590867ee37f276", null ],
-      [ "CALENDAR_ERROR_IGNORING_YOU_S", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac12d9c0f2ef9c311d4e6de7f6388841c", null ],
-      [ "CALENDAR_ERROR_INVITES_EXCEEDED", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a93ab32bcbba393e663a662113184d128", null ],
-      [ "CALENDAR_ERROR_INVALID_DATE", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a643cb78069bcd2732f7aa59b4ddf4e5e", null ],
-      [ "CALENDAR_ERROR_INVALID_TIME", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5aab8bb0ad9960b4faecc59a4cc60a6582", null ],
-      [ "CALENDAR_ERROR_NEEDS_TITLE", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a65a54f787853a10d0ae3748aaa5777fd", null ],
-      [ "CALENDAR_ERROR_EVENT_PASSED", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0f04b6feb420a3e25db30a97a92a7203", null ],
-      [ "CALENDAR_ERROR_EVENT_LOCKED", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a1c9e2cc87b2d09d205062f1309aa2a40", null ],
-      [ "CALENDAR_ERROR_DELETE_CREATOR_FAILED", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a6c5119088956e0bd9aee2d6874547522", null ],
-      [ "CALENDAR_ERROR_SYSTEM_DISABLED", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0dc2264473d089c2a2dc2ae72c55bb8e", null ],
-      [ "CALENDAR_ERROR_RESTRICTED_ACCOUNT", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5abb0e98a0d33e09bd1b047bff343c74a1", null ],
-      [ "CALENDAR_ERROR_ARENA_EVENTS_EXCEEDED", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a2a84b6823769761020b9b7fd6c22b3c4", null ],
-      [ "CALENDAR_ERROR_RESTRICTED_LEVEL", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a6c4475d051a74a6768efa1781caa1bd8", null ],
-      [ "CALENDAR_ERROR_USER_SQUELCHED", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac2cf0dee47c60fff68e4d0377b1920ae", null ],
-      [ "CALENDAR_ERROR_NO_INVITE", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0aa1c82beb1173e79c4195a69dbe57d3", null ],
-      [ "CALENDAR_ERROR_EVENT_WRONG_SERVER", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5ab44e9487ece19ecfc94b4edb564b134f", null ],
-      [ "CALENDAR_ERROR_INVITE_WRONG_SERVER", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a87fd3457b7f5866136a1872a64e0ebf9", null ],
-      [ "CALENDAR_ERROR_NO_GUILD_INVITES", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a583b338a1e449c4556cf59bde571b520", null ],
-      [ "CALENDAR_ERROR_INVALID_SIGNUP", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a02351c5872a342c5a0b8b0b498c83cc2", null ],
-      [ "CALENDAR_ERROR_NO_MODERATOR", "de/d0a/a02015.html#a2812c2f5fdbdaf8b594ea7001772a9c5a77f3aae4f5f09a6d58d64897209d67dd", null ]
-    ] ],
-    [ "CalendarEventType", "de/d0a/a02015.html#aabfde90a2fd31d4aa93fac9f496c12fc", [
-      [ "CALENDAR_TYPE_RAID", "de/d0a/a02015.html#aabfde90a2fd31d4aa93fac9f496c12fca48aa5b1bedf68195cdd22beef9b70890", null ],
-      [ "CALENDAR_TYPE_DUNGEON", "de/d0a/a02015.html#aabfde90a2fd31d4aa93fac9f496c12fca8437c91cd27563e4e360e6c7121634c1", null ],
-      [ "CALENDAR_TYPE_PVP", "de/d0a/a02015.html#aabfde90a2fd31d4aa93fac9f496c12fca70d5fb1e15351b8947fc6d67ffe3787e", null ],
-      [ "CALENDAR_TYPE_MEETING", "de/d0a/a02015.html#aabfde90a2fd31d4aa93fac9f496c12fca494b5ff6684446c72830fe7b4f5c6c3f", null ],
-      [ "CALENDAR_TYPE_OTHER", "de/d0a/a02015.html#aabfde90a2fd31d4aa93fac9f496c12fca01ce2bdc9dc2ced0772ef714f873f397", null ]
-    ] ],
-    [ "CalendarFlags", "de/d0a/a02015.html#a5fcf8a7cda848f4b07b3bfc52392bc1c", [
-      [ "CALENDAR_FLAG_ALL_ALLOWED", "de/d0a/a02015.html#a5fcf8a7cda848f4b07b3bfc52392bc1caaec6bae0b6425676a85d9ba85b0c52ce", null ],
-      [ "CALENDAR_FLAG_INVITES_LOCKED", "de/d0a/a02015.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca11c0822a05ad167436a105ad7d18675e", null ],
-      [ "CALENDAR_FLAG_WITHOUT_INVITES", "de/d0a/a02015.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca0c29c90b66a143ba0c0edfeb9b92d76a", null ],
-      [ "CALENDAR_FLAG_GUILD_EVENT", "de/d0a/a02015.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca2846a8e774488e28e699cf1230dc3bab", null ]
-    ] ],
-    [ "CalendarInviteStatus", "de/d0a/a02015.html#abdb1aa687194b3d8b2fc19da7b3334b4", [
-      [ "CALENDAR_STATUS_INVITED", "de/d0a/a02015.html#abdb1aa687194b3d8b2fc19da7b3334b4a2a057d25b8c726dc09413d9bb9c8be92", null ],
-      [ "CALENDAR_STATUS_ACCEPTED", "de/d0a/a02015.html#abdb1aa687194b3d8b2fc19da7b3334b4a2ca72ac10e931968fd01373d73b73525", null ],
-      [ "CALENDAR_STATUS_DECLINED", "de/d0a/a02015.html#abdb1aa687194b3d8b2fc19da7b3334b4aa808b39d9c2805547d936762675ef4f6", null ],
-      [ "CALENDAR_STATUS_CONFIRMED", "de/d0a/a02015.html#abdb1aa687194b3d8b2fc19da7b3334b4ae7cfe308334841fc33daefeee33cb1bc", null ],
-      [ "CALENDAR_STATUS_OUT", "de/d0a/a02015.html#abdb1aa687194b3d8b2fc19da7b3334b4af8c5abe28506f07366c085908dfca1bb", null ],
-      [ "CALENDAR_STATUS_STANDBY", "de/d0a/a02015.html#abdb1aa687194b3d8b2fc19da7b3334b4a2177c40fa4e5c9e8f361a01fa10c4aad", null ],
-      [ "CALENDAR_STATUS_SIGNED_UP", "de/d0a/a02015.html#abdb1aa687194b3d8b2fc19da7b3334b4a4268e3a8406a494637e317560ab27d28", null ],
-      [ "CALENDAR_STATUS_NOT_SIGNED_UP", "de/d0a/a02015.html#abdb1aa687194b3d8b2fc19da7b3334b4a0f7719df2703c427637085ef82ec420d", null ],
-      [ "CALENDAR_STATUS_TENTATIVE", "de/d0a/a02015.html#abdb1aa687194b3d8b2fc19da7b3334b4a0f3f83d68d216ff326f5880ae5570be3", null ],
-      [ "CALENDAR_STATUS_REMOVED", "de/d0a/a02015.html#abdb1aa687194b3d8b2fc19da7b3334b4a95cc3d298d4cd178c93c42ead591604d", null ]
-    ] ],
-    [ "CalendarLimits", "de/d0a/a02015.html#adf6bf00c462990adc2b57c02f9db8c32", [
-      [ "CALENDAR_MAX_EVENTS", "de/d0a/a02015.html#adf6bf00c462990adc2b57c02f9db8c32a49230604bd7fd600f1852ba9dd754076", null ],
-      [ "CALENDAR_MAX_GUILD_EVENTS", "de/d0a/a02015.html#adf6bf00c462990adc2b57c02f9db8c32abec07e16ff5421a7ae42dc4b182958a2", null ],
-      [ "CALENDAR_MAX_INVITES", "de/d0a/a02015.html#adf6bf00c462990adc2b57c02f9db8c32aa5c5d3a6c0bb88385109aa937a047e95", null ],
-      [ "CALENDAR_CREATE_EVENT_COOLDOWN", "de/d0a/a02015.html#adf6bf00c462990adc2b57c02f9db8c32ae4904590b247a266816d8e71ad231b9f", null ],
-      [ "CALENDAR_OLD_EVENTS_DELETION_TIME", "de/d0a/a02015.html#adf6bf00c462990adc2b57c02f9db8c32a1abad081cf58bddddf2065698274bd48", null ]
-    ] ],
-    [ "CalendarMailAnswers", "de/d0a/a02015.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7", [
-      [ "CALENDAR_EVENT_REMOVED_MAIL_SUBJECT", "de/d0a/a02015.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7ab011dccd3e2a3f82731887cb184dacaf", null ],
-      [ "CALENDAR_INVITE_REMOVED_MAIL_SUBJECT", "de/d0a/a02015.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7aeaf378ba4739bc58c1b530fd39368090", null ]
-    ] ],
-    [ "CalendarModerationRank", "de/d0a/a02015.html#a5113854272ddc0db2f1b16775df15bb4", [
-      [ "CALENDAR_RANK_PLAYER", "de/d0a/a02015.html#a5113854272ddc0db2f1b16775df15bb4a9b29fdfc41a609791c42bfd6c0947b0b", null ],
-      [ "CALENDAR_RANK_MODERATOR", "de/d0a/a02015.html#a5113854272ddc0db2f1b16775df15bb4aaeb7962a8bc581af4775ec833986aa0f", null ],
-      [ "CALENDAR_RANK_OWNER", "de/d0a/a02015.html#a5113854272ddc0db2f1b16775df15bb4ae34f35ee3aea898e6537bf5ee896a74a", null ]
-    ] ],
-    [ "CalendarRepeatType", "de/d0a/a02015.html#a478517ab54461ea9b0618c173c75b792", [
-      [ "CALENDAR_REPEAT_NEVER", "de/d0a/a02015.html#a478517ab54461ea9b0618c173c75b792a29ee895d3464b3defda12c78534447fc", null ],
-      [ "CALENDAR_REPEAT_WEEKLY", "de/d0a/a02015.html#a478517ab54461ea9b0618c173c75b792a0d82835a30b2d52a0f7cafe196d80faf", null ],
-      [ "CALENDAR_REPEAT_BIWEEKLY", "de/d0a/a02015.html#a478517ab54461ea9b0618c173c75b792a087f583b5cc1ec6549a15960dd1954d9", null ],
-      [ "CALENDAR_REPEAT_MONTHLY", "de/d0a/a02015.html#a478517ab54461ea9b0618c173c75b792aa432def8a9d2b77823bd1d81b44bc731", null ]
-    ] ],
-    [ "CalendarSendEventType", "de/d0a/a02015.html#a710dc9e6940cf3a1c975690a82bbcc5d", [
-      [ "CALENDAR_SENDTYPE_GET", "de/d0a/a02015.html#a710dc9e6940cf3a1c975690a82bbcc5da8c75918def25fecebd41052d301ebd89", null ],
-      [ "CALENDAR_SENDTYPE_ADD", "de/d0a/a02015.html#a710dc9e6940cf3a1c975690a82bbcc5daddb4d28bc665b21ce707863e8f73d5c6", null ],
-      [ "CALENDAR_SENDTYPE_COPY", "de/d0a/a02015.html#a710dc9e6940cf3a1c975690a82bbcc5da9cac46904887119d94630a5554b9cb5c", null ]
+    [ "AllBattlegroundScript", "d8/dce/a10793.html", "d8/dce/a10793" ],
+    [ "BGScript", "de/d0a/a02015.html#ae9cb670a445a9cb3089a66cdcc822d0e", null ],
+    [ "AllBattlegroundHook", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11f", [
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_ADD_GROUP", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f", null ],
+      [ "ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7", null ],
+      [ "ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323", null ],
+      [ "ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_SETUP", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a", null ],
+      [ "ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a", null ],
+      [ "ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb", null ],
+      [ "ALLBATTLEGROUNDHOOK_END", "de/d0a/a02015.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af", null ]
     ] ]
 ];

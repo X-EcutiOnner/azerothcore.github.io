@@ -1,7 +1,8 @@
 var a27025 =
 [
-    [ "HandleProc", "da/dd0/a27025.html#a9601839ce1fff4e1be66f435a78693ac", null ],
-    [ "PrepareAuraScript", "da/dd0/a27025.html#ae7b3804ed0fe40c85d245e2762fd8181", null ],
-    [ "Register", "da/dd0/a27025.html#a588226cc60a7ff0f8a05e8ec34c855e5", null ],
-    [ "Validate", "da/dd0/a27025.html#aea68ea2da0853d72d94a19b98db9375f", null ]
+    [ "CheckProc", "da/dd0/a27025.html#af8998dee977a1ac3ab16077558b8bc1d", null ],
+    [ "HandleProc", "da/dd0/a27025.html#abd8ff13c602931f0601f3440b13fd87b", null ],
+    [ "PrepareAuraScript", "da/dd0/a27025.html#ae2be03a9b723caaee90fc497da4b0069", null ],
+    [ "Register", "da/dd0/a27025.html#a1a98679fdf2d18df0101c3d56308be7b", null ],
+    [ "Validate", "da/dd0/a27025.html#afb9d057bd6b06804ec42b0ff723fd022", null ]
 ];

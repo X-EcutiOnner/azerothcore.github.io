@@ -1,6 +1,7 @@
 var a22437 =
 [
-    [ "npc_jungle_punch_targetAI", "d6/d63/a22441.html", "d6/d63/a22441" ],
-    [ "npc_jungle_punch_target", "d6/d82/a22437.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "d6/d82/a22437.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "npc_engineer_heliceAI", "d6/d63/a22441.html", "d6/d63/a22441" ],
+    [ "npc_engineer_helice", "d6/d82/a22437.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
+    [ "GetAI", "d6/d82/a22437.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
+    [ "OnQuestAccept", "d6/d82/a22437.html#abd345111463ce2ac635ad7fc6f891fb7", null ]
 ];

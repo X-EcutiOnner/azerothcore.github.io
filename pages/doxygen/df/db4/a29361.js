@@ -1,8 +1,7 @@
 var a29361 =
 [
-    [ "EmotesTextId", "df/db4/a29361.html#a8a45e92993f75f5d3b8e8fb045a294da", null ],
-    [ "Id", "df/db4/a29361.html#a60760a3e9768f1b189a4373ffe0b9bca", null ],
-    [ "RaceId", "df/db4/a29361.html#a8427fb95e778194124143d276b527213", null ],
-    [ "SexId", "df/db4/a29361.html#a818eae8ffc756fc359a822de63d21976", null ],
-    [ "SoundId", "df/db4/a29361.html#a17a267412c8a1527370b1e67ea5b6211", null ]
+    [ "EmoteType", "df/db4/a29361.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "df/db4/a29361.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "df/db4/a29361.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "df/db4/a29361.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

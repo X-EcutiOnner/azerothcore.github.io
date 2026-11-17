@@ -1,11 +1,9 @@
 var a20981 =
 [
-    [ "boss_thorim_ancient_rune_giant", "dd/d0b/a20981.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
-    [ "DoAction", "dd/d0b/a20981.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
-    [ "JustDied", "dd/d0b/a20981.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
-    [ "JustEngagedWith", "dd/d0b/a20981.html#a98fa309963245a0c57676ff019085fac", null ],
-    [ "Reset", "dd/d0b/a20981.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
-    [ "UpdateAI", "dd/d0b/a20981.html#a903d7448d9441866475d77fce8ca6d37", null ],
-    [ "_isInCombat", "dd/d0b/a20981.html#a148ff1fa8010466de069032f660cd08e", null ],
-    [ "events", "dd/d0b/a20981.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
+    [ "boss_thorim_gauntlet_npcs", "dd/d0b/a20981.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
+    [ "JustEngagedWith", "dd/d0b/a20981.html#af10a444bada5743c837a9979726c79c9", null ],
+    [ "Reset", "dd/d0b/a20981.html#a22fcffcc05f155524cadade389ec3607", null ],
+    [ "UpdateAI", "dd/d0b/a20981.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
+    [ "_isCaster", "dd/d0b/a20981.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
+    [ "events", "dd/d0b/a20981.html#aec35e2b91841c386f083681673e15598", null ]
 ];

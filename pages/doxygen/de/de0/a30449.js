@@ -1,8 +1,6 @@
 var a30449 =
 [
-    [ "TileInfo", "de/de0/a30449.html#af1a25ded4212f141ab4f32db95709210", null ],
-    [ "m_mapId", "de/de0/a30449.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
-    [ "m_navMeshParams", "de/de0/a30449.html#a9d7c909370359edafa8a9b6a91cef354", null ],
-    [ "m_tileX", "de/de0/a30449.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
-    [ "m_tileY", "de/de0/a30449.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
+    [ "id", "de/de0/a30449.html#a5acc1b246a76073e1c97513251a4143d", null ],
+    [ "id", "de/de0/a30449.html#aaf844f570afdf7439ae7fbe0bbdc39e7", null ],
+    [ "name", "de/de0/a30449.html#ae5d1244981224aed1b7477caedd70175", null ]
 ];

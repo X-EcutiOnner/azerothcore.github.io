@@ -1,6 +1,6 @@
 var a18693 =
 [
-    [ "OrderWhelpTargetSelector", "d2/d58/a18693.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
-    [ "operator()", "d2/d58/a18693.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
-    [ "_owner", "d2/d58/a18693.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
+    [ "npc_sindragosa_trashAI", "db/d66/a18697.html", "db/d66/a18697" ],
+    [ "npc_sindragosa_trash", "d2/d58/a18693.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "d2/d58/a18693.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

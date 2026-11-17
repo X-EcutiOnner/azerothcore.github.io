@@ -1,10 +1,11 @@
 var a00875 =
 [
-    [ "ByteBufferException", "da/d55/a29709.html", "da/d55/a29709" ],
-    [ "ByteBufferPositionException", "db/d0f/a29713.html", "db/d0f/a29713" ],
-    [ "ByteBufferSourceException", "d2/d9c/a29717.html", "d2/d9c/a29717" ],
-    [ "ByteBufferInvalidValueException", "d7/dff/a29721.html", "d7/dff/a29721" ],
-    [ "ByteBuffer", "da/da6/a29725.html", "da/da6/a29725" ],
-    [ "ByteBuffer::read< std::string >", "d1/d93/a00875.html#a31d035bbbf2d8edc4942e9f676b32878", null ],
-    [ "ByteBuffer::read_skip< std::string >", "d1/d93/a00875.html#a3550abfaebcca85d45dd39281be0101d", null ]
+    [ "SpellEvent", "d0/d39/a11969.html", "d0/d39/a11969" ],
+    [ "DEBUG_TRAJ", "d1/d93/a00875.html#ac27bc73435b380df600d6da0b753a144", null ],
+    [ "GCDLimits", "d1/d93/a00875.html#aea36520bcbaa2ebe9c062b9c5d9df777", [
+      [ "MIN_GCD", "d1/d93/a00875.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f", null ],
+      [ "MAX_GCD", "d1/d93/a00875.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c", null ]
+    ] ],
+    [ "tangent", "d1/d93/a00875.html#a885f76b28cf9930383ddf099d75ccef1", null ],
+    [ "SpellEffects", "d1/d93/a00875.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
 ];

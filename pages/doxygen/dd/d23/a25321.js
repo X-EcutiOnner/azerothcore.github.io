@@ -1,6 +1,6 @@
 var a25321 =
 [
-    [ "ModDest", "dd/d23/a25321.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "dd/d23/a25321.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "dd/d23/a25321.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "CheckProc", "dd/d23/a25321.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
+    [ "PrepareAuraScript", "dd/d23/a25321.html#a861caa47c502c42fa84d9f9de74df024", null ],
+    [ "Register", "dd/d23/a25321.html#ab4275de186b6841a1f424863cb6c128c", null ]
 ];

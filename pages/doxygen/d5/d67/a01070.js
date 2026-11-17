@@ -1,10 +1,6 @@
 var a01070 =
 [
-    [ "CALL_ENABLED_BOOLEAN_HOOKS", "d5/d67/a01070.html#a6ed5893c246e1f2c46b3d33ef8729a64", null ],
-    [ "CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE", "d5/d67/a01070.html#a370083225ad9db5b05a730ce4fb26d2f", null ],
-    [ "CALL_ENABLED_HOOKS", "d5/d67/a01070.html#a9662d12a9f13490594165729108aa0b1", null ],
-    [ "ExecuteScript", "d5/d67/a01070.html#a80951f767a7c77417a671490893db073", null ],
-    [ "GetReturnAIScript", "d5/d67/a01070.html#aceff01aa3f5ab68a0253704ef30041df", null ],
-    [ "IsValidBoolScript", "d5/d67/a01070.html#a9dedac0cb410c9d87f0470ffd0eb6c66", null ],
-    [ "ReturnValidBool", "d5/d67/a01070.html#a670fda94f7e41c38816a1e12f9efec7c", null ]
+    [ "BG_SA_BOAT_START", "d5/d67/a01070.html#a2ec6635cf59771fcfd56b16cd670eebc", null ],
+    [ "BG_SA_ROUNDLENGTH", "d5/d67/a01070.html#a1197e8f288608511601a41e8e8ea80ce", null ],
+    [ "BG_SA_WARMUPLENGTH", "d5/d67/a01070.html#a7447506b77b9babea7568349335ea705", null ]
 ];

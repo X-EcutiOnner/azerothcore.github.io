@@ -1,17 +1,17 @@
 var searchData=
 [
-  ['jainamisc_0',['JainaMisc',['../d5/dd8/a03083.html#a3340f88cbee80feb625844ccdee7eb8a',1,'zone_undercity.cpp']]],
-  ['jaraxxusevents_1',['JaraxxusEvents',['../d0/d69/a03725.html#a8720becd3353ce4c1eaf4b10f65c3bf3',1,'boss_lord_jaraxxus.cpp']]],
-  ['jaraxxusnpcs_2',['JaraxxusNPCs',['../d0/d69/a03725.html#afe0d2ebcbbcebeb9d5c667bf982efe32',1,'boss_lord_jaraxxus.cpp']]],
-  ['jaraxxusspells_3',['JaraxxusSpells',['../d0/d69/a03725.html#a0bdea2820b7a1fb8a7c14d71a00e6469',1,'boss_lord_jaraxxus.cpp']]],
-  ['jaraxxustexts_4',['JaraxxusTexts',['../d0/d69/a03725.html#a0de5ed4733cf2c29f4248c9eddb9360e',1,'boss_lord_jaraxxus.cpp']]],
-  ['jenny_5',['Jenny',['../de/dce/a03932.html#a24840ea4f38b25e4319b540f94a753ea',1,'zone_borean_tundra.cpp']]],
-  ['jormungarevents_6',['JormungarEvents',['../db/db0/a03722.html#a20526ec3ab955a91bc3f1e4bff419914',1,'boss_northrend_beasts.cpp']]],
-  ['jormungarnpcs_7',['JormungarNPCs',['../db/db0/a03722.html#adf118786f59959ccfad83692c0dc7121',1,'boss_northrend_beasts.cpp']]],
-  ['jormungarpoints_8',['JormungarPoints',['../db/db0/a03722.html#aff63f81b9a0be5841dca7b09cd837c3c',1,'boss_northrend_beasts.cpp']]],
-  ['jormungarspells_9',['JormungarSpells',['../db/db0/a03722.html#a620a8fb8fa311862ccfd957ff8fce045',1,'boss_northrend_beasts.cpp']]],
-  ['jotunheimcage_10',['JotunheimCage',['../da/d7c/a05021.html#a0ff7af590f3037be7611d256e9099e7b',1,'go_scripts.cpp']]],
-  ['jubling_11',['Jubling',['../d7/d18/a05108.html#a8d7c1dd4784fc46db8aaf9834abb8a78',1,'spell_generic.cpp']]],
-  ['julianneromulo_12',['JulianneRomulo',['../db/d5f/a03239.html#a47f6a3f6e2be02297f20c1a7f3875954',1,'bosses_opera.cpp']]],
-  ['junglepunch_13',['JunglePunch',['../db/d64/a04082.html#a53ad00f06e31972f3b2874e94efd3466',1,'zone_sholazar_basin.cpp']]]
+  ['jainamisc_0',['JainaMisc',['../de/de6/a03848.html#a3340f88cbee80feb625844ccdee7eb8a',1,'zone_undercity.cpp']]],
+  ['jaraxxusevents_1',['JaraxxusEvents',['../d7/d23/a04538.html#a8720becd3353ce4c1eaf4b10f65c3bf3',1,'boss_lord_jaraxxus.cpp']]],
+  ['jaraxxusnpcs_2',['JaraxxusNPCs',['../d7/d23/a04538.html#afe0d2ebcbbcebeb9d5c667bf982efe32',1,'boss_lord_jaraxxus.cpp']]],
+  ['jaraxxusspells_3',['JaraxxusSpells',['../d7/d23/a04538.html#a0bdea2820b7a1fb8a7c14d71a00e6469',1,'boss_lord_jaraxxus.cpp']]],
+  ['jaraxxustexts_4',['JaraxxusTexts',['../d7/d23/a04538.html#a0de5ed4733cf2c29f4248c9eddb9360e',1,'boss_lord_jaraxxus.cpp']]],
+  ['jenny_5',['Jenny',['../dc/d39/a04529.html#a24840ea4f38b25e4319b540f94a753ea',1,'zone_borean_tundra.cpp']]],
+  ['jormungarevents_6',['JormungarEvents',['../d2/df8/a04550.html#a20526ec3ab955a91bc3f1e4bff419914',1,'boss_northrend_beasts.cpp']]],
+  ['jormungarnpcs_7',['JormungarNPCs',['../d2/df8/a04550.html#adf118786f59959ccfad83692c0dc7121',1,'boss_northrend_beasts.cpp']]],
+  ['jormungarpoints_8',['JormungarPoints',['../d2/df8/a04550.html#aff63f81b9a0be5841dca7b09cd837c3c',1,'boss_northrend_beasts.cpp']]],
+  ['jormungarspells_9',['JormungarSpells',['../d2/df8/a04550.html#a620a8fb8fa311862ccfd957ff8fce045',1,'boss_northrend_beasts.cpp']]],
+  ['jotunheimcage_10',['JotunheimCage',['../da/dbb/a04871.html#a0ff7af590f3037be7611d256e9099e7b',1,'go_scripts.cpp']]],
+  ['jubling_11',['Jubling',['../d3/d5d/a02900.html#a8d7c1dd4784fc46db8aaf9834abb8a78',1,'spell_generic.cpp']]],
+  ['julianneromulo_12',['JulianneRomulo',['../d8/d46/a03881.html#a47f6a3f6e2be02297f20c1a7f3875954',1,'bosses_opera.cpp']]],
+  ['junglepunch_13',['JunglePunch',['../d9/d57/a04295.html#a53ad00f06e31972f3b2874e94efd3466',1,'zone_sholazar_basin.cpp']]]
 ];

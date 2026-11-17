@@ -1,6 +1,5 @@
 var a17417 =
 [
-    [ "entry", "da/dc5/a17417.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "da/dc5/a17417.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "da/dc5/a17417.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "npc_fos_leader_secondAI", "da/dc5/a17417.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "da/dc5/a17417.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

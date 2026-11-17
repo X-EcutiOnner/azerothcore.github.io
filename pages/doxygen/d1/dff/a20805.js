@@ -1,6 +1,7 @@
 var a20805 =
 [
-    [ "ModDest", "d1/dff/a20805.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
-    [ "PrepareSpellScript", "d1/dff/a20805.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
-    [ "Register", "d1/dff/a20805.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
+    [ "PrepareSpellScript", "d1/dff/a20805.html#afae92a0d4e41fc2fd00b1fd0b6b11a22", null ],
+    [ "PreventSummon", "d1/dff/a20805.html#a57fcc7a0e078c344e50863ba1951f244", null ],
+    [ "Register", "d1/dff/a20805.html#a3813bf7e198f5f3c146b4639fa83a067", null ],
+    [ "SetDest", "d1/dff/a20805.html#a4d49ebdf1dab3b4952e4f4c7c50ca16b", null ]
 ];

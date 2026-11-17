@@ -1,6 +1,7 @@
 var a18621 =
 [
-    [ "HandleSpecial", "d1/d96/a18621.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "d1/d96/a18621.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "d1/d96/a18621.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "OnRemove", "d1/d96/a18621.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "d1/d96/a18621.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "d1/d96/a18621.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "d1/d96/a18621.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

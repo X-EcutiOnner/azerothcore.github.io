@@ -1,7 +1,8 @@
 var a23049 =
 [
-    [ "OnPeriodic", "dc/d5d/a23049.html#a165d47b116b0a53e37b05f664960e6ec", null ],
-    [ "PrepareAuraScript", "dc/d5d/a23049.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
-    [ "Register", "dc/d5d/a23049.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
-    [ "Validate", "dc/d5d/a23049.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
+    [ "FilterTargets", "dc/d5d/a23049.html#a4d4ebe332e9b9f9592e34327b6b62385", null ],
+    [ "HandleDummy", "dc/d5d/a23049.html#af349d524bb8e66455b842c7557750ba8", null ],
+    [ "PrepareSpellScript", "dc/d5d/a23049.html#ac9da1a6dc020533a867a03f99dc0bb4c", null ],
+    [ "Register", "dc/d5d/a23049.html#afd0c00470206a86ee42f85c8fa2ecf7b", null ],
+    [ "Validate", "dc/d5d/a23049.html#a67b02473ac0c7c014fc489b531eb3e1c", null ]
 ];

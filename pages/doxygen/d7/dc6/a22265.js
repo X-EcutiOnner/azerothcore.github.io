@@ -1,8 +1,16 @@
 var a22265 =
 [
-    [ "npc_llod_genericAI", "d7/dc6/a22265.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d7/dc6/a22265.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d7/dc6/a22265.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d7/dc6/a22265.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d7/dc6/a22265.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "npc_battle_at_valhalasAI", "d7/dc6/a22265.html#a2118bb3a502d2082297631e3dab298da", null ],
+    [ "EndBattle", "d7/dc6/a22265.html#afe408345e99bfc27e3abf3335c72de5d", null ],
+    [ "JustReachedHome", "d7/dc6/a22265.html#ac8f8ed2571587e8af65f92d0271d786c", null ],
+    [ "JustSummoned", "d7/dc6/a22265.html#ac2c766dd298bf074f20968006a361036", null ],
+    [ "PrepareSummons", "d7/dc6/a22265.html#a80e97ceef22290d241fa3f5894331c08", null ],
+    [ "Reset", "d7/dc6/a22265.html#a303f268cbcc0e2c731c505c721c55da6", null ],
+    [ "ResetData", "d7/dc6/a22265.html#a3bc670704f0e235ae4022ba796a333b9", null ],
+    [ "StartBattle", "d7/dc6/a22265.html#a01dff1aba876527951d3c83ae8b240ff", null ],
+    [ "UpdateAI", "d7/dc6/a22265.html#a3294ef4eb601df5156db0ba416d3aabe", null ],
+    [ "currentQuest", "d7/dc6/a22265.html#a7c8a2c0710f68d617bd7edd71632c744", null ],
+    [ "events", "d7/dc6/a22265.html#a74ac913100bb6ecd904f0b2f0e590271", null ],
+    [ "playerGUID", "d7/dc6/a22265.html#aac5d72cbc9f07d43dc6d9b722d0626b8", null ],
+    [ "summons", "d7/dc6/a22265.html#a3e894857fd5e3f4ccc5fc40c47a8cabe", null ]
 ];

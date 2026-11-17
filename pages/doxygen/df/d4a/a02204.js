@@ -1,4 +1,6 @@
 var a02204 =
 [
-    [ "CREATURE_MOVEMENT_FLAGS_REFRESH_DIST_SQ", "df/d4a/a02204.html#adba829875dd489aa94fdbe9ebcfe7e84", null ]
+    [ "ChatHandler", "dd/d9e/a08013.html", "dd/d9e/a08013" ],
+    [ "CliHandler", "d2/d77/a08017.html", "d2/d77/a08017" ],
+    [ "AddonChannelCommandHandler", "da/d5d/a08021.html", "da/d5d/a08021" ]
 ];

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['halaanpcs_0',['HalaaNPCS',['../dd/d03/a05045.html#a3951c5b11bab0eeb9b06c1e19b25c036',1,'OutdoorPvPNA.h']]],
+  ['halaanpcs_0',['HalaaNPCS',['../d5/d4c/a02846.html#a3951c5b11bab0eeb9b06c1e19b25c036',1,'OutdoorPvPNA.h']]],
   ['halfnamecontainer_1',['HalfNameContainer',['../dc/d6c/a09577.html#acfebbe09d0872586d16b556a7fe71c11',1,'ObjectMgr']]],
   ['halfnamecontainerlocale_2',['HalfNameContainerLocale',['../dc/d6c/a09577.html#a2ef076531d51c13cbc7a5d827d7680e4',1,'ObjectMgr']]],
   ['hashcreator_3',['HashCreator',['../df/d1e/a05593.html#a03a4f6e31f0cb838b857997a0272f90b',1,'Acore::Impl::GenericHashImpl']]],
@@ -12,5 +12,5 @@ var searchData=
   ['hmac_5fsha256_9',['HMAC_SHA256',['../d7/d13/a05156.html#a80d906d20826d6c963f50eba5f7c4c2a',1,'Acore::Crypto']]],
   ['holestype_10',['HolesType',['../d0/d46/a09681.html#a72531c15631ba45fe0c0ed962557e993',1,'LoadedHoleData']]],
   ['holidaymainstagemap_11',['HolidayMainStageMap',['../de/d4d/a09361.html#abc306f7fda5fb8447e4f78fc1da42d37',1,'GameEventMgr']]],
-  ['hours_12',['Hours',['../d9/dd1/a00398.html#aa0f87984d2b3835a61dffc22ae8bf083',1,'Duration.h']]]
+  ['hours_12',['Hours',['../d4/d14/a00608.html#aa0f87984d2b3835a61dffc22ae8bf083',1,'Duration.h']]]
 ];

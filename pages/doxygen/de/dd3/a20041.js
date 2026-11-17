@@ -1,6 +1,6 @@
 var a20041 =
 [
-    [ "PrepareSpellScript", "de/dd3/a20041.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "de/dd3/a20041.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "de/dd3/a20041.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "HandleDamageCalc", "de/dd3/a20041.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
+    [ "PrepareSpellScript", "de/dd3/a20041.html#a754da297cd5801616e24bf2d802d0b38", null ],
+    [ "Register", "de/dd3/a20041.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
 ];

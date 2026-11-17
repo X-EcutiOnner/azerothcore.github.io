@@ -1,6 +1,6 @@
 var a18953 =
 [
-    [ "HandleScript", "da/d33/a18953.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
-    [ "PrepareSpellScript", "da/d33/a18953.html#a2c6acef52962f606130d643cbd93104b", null ],
-    [ "Register", "da/d33/a18953.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
+    [ "npc_icc_lk_checktargetAI", "d4/d36/a18957.html", "d4/d36/a18957" ],
+    [ "npc_icc_lk_checktarget", "da/d33/a18953.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "da/d33/a18953.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

@@ -1,8 +1,8 @@
 var a27953 =
 [
-    [ "HandleDummyTick", "db/d89/a27953.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "db/d89/a27953.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "db/d89/a27953.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "db/d89/a27953.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "db/d89/a27953.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "CheckProc", "db/d89/a27953.html#afcda3b112699e108e2db6270836fce1b", null ],
+    [ "OnProc", "db/d89/a27953.html#ab953f817368120933828d6b3e5e200c0", null ],
+    [ "PrepareAuraScript", "db/d89/a27953.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
+    [ "Register", "db/d89/a27953.html#abfdd5179215432a3e89ea7b498d49867", null ],
+    [ "Validate", "db/d89/a27953.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
 ];

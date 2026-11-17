@@ -1,5 +1,6 @@
 var a21437 =
 [
-    [ "go_palehoof_sphere", "d4/d45/a21437.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "d4/d45/a21437.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "npc_frenzied_worgenAI", "d8/dd8/a21441.html", "d8/dd8/a21441" ],
+    [ "npc_frenzied_worgen", "d4/d45/a21437.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
+    [ "GetAI", "d4/d45/a21437.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
 ];

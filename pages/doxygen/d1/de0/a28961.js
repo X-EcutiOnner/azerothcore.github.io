@@ -1,6 +1,5 @@
 var a28961 =
 [
-    [ "X", "d1/de0/a28961.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "d1/de0/a28961.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "d1/de0/a28961.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "npc_bombardier_petrov", "d1/de0/a28961.html#ac0314c37918381ed6242fcfa4790461a", null ],
+    [ "OnGossipHello", "d1/de0/a28961.html#ab67c12cf53bc5bec85a0707ce35ce888", null ]
 ];

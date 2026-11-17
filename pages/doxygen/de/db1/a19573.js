@@ -1,6 +1,6 @@
 var a19573 =
 [
-    [ "boss_four_horsemenAI", "dc/d30/a19577.html", "dc/d30/a19577" ],
-    [ "boss_four_horsemen", "de/db1/a19573.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
-    [ "GetAI", "de/db1/a19573.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
+    [ "boss_faerlinaAI", "dc/d30/a19577.html", "dc/d30/a19577" ],
+    [ "boss_faerlina", "de/db1/a19573.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
+    [ "GetAI", "de/db1/a19573.html#aed8214323ff5b792d9bd6aae478e7848", null ]
 ];

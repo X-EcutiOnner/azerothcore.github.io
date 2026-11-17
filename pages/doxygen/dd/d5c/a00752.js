@@ -1,5 +1,6 @@
 var a00752 =
 [
-    [ "modify_commandscript", "d7/de8/a12642.html", "d7/de8/a12642" ],
-    [ "AddSC_modify_commandscript", "dd/d5c/a00752.html#a9cbb6ad3c630cbeb9ba39b4552f72e87", null ]
+    [ "Acore::Impl::GenericHMAC< HashCreator, DigestLength >", "de/dc2/a05601.html", "de/dc2/a05601" ],
+    [ "HMAC_SHA1", "dd/d5c/a00752.html#a5186a2a02e2301ec3ea7b37d8b41097f", null ],
+    [ "HMAC_SHA256", "dd/d5c/a00752.html#a80d906d20826d6c963f50eba5f7c4c2a", null ]
 ];

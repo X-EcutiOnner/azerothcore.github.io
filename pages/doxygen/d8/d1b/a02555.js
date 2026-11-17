@@ -1,5 +1,6 @@
 var a02555 =
 [
-    [ "GetAISpellInfo", "d8/d1b/a02555.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
-    [ "IsValidCombatTarget", "d8/d1b/a02555.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
+    [ "LogHeader", "da/d36/a11821.html", "da/d36/a11821" ],
+    [ "PacketHeader", "d2/d61/a11825.html", "d2/d61/a11825" ],
+    [ "PacketHeader::OptionalData", "d3/d1a/a11829.html", "d3/d1a/a11829" ]
 ];

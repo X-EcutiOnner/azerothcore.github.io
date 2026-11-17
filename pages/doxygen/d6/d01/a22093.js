@@ -1,11 +1,7 @@
 var a22093 =
 [
-    [ "npc_emilyAI", "d6/d01/a22093.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "d6/d01/a22093.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "d6/d01/a22093.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "d6/d01/a22093.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "d6/d01/a22093.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "WaypointReached", "d6/d01/a22093.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_mrfloppyGUID", "d6/d01/a22093.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "d6/d01/a22093.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "HandlePeriodic", "d6/d01/a22093.html#a39e103c4bd60ce54eb7ecbdb37013e04", null ],
+    [ "PrepareAuraScript", "d6/d01/a22093.html#ac198489764c878822e38a1ea225ab287", null ],
+    [ "Register", "d6/d01/a22093.html#a66933e6f4b5689b0b05de63aa7402354", null ],
+    [ "Validate", "d6/d01/a22093.html#a0db3843573837c53aeeaca69a6019d06", null ]
 ];

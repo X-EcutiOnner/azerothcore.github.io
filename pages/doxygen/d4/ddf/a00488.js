@@ -1,12 +1,9 @@
 var a00488 =
 [
-    [ "AC_COMPILER_BORLAND", "d4/ddf/a00488.html#ad92d7f8e69537bfc6f28bfce27856c1f", null ],
-    [ "AC_COMPILER_GNU", "d4/ddf/a00488.html#a8ffa78a105635ede693224673028c4ed", null ],
-    [ "AC_COMPILER_INTEL", "d4/ddf/a00488.html#a60132e229252e2d0020a2ba6fd0309c3", null ],
-    [ "AC_COMPILER_MICROSOFT", "d4/ddf/a00488.html#ac8ee3c2752751f98265e16c95cbaea47", null ],
-    [ "AC_PLATFORM", "d4/ddf/a00488.html#a490dd7a4e0c23e207dd9285027ae8b33", null ],
-    [ "AC_PLATFORM_APPLE", "d4/ddf/a00488.html#a4f72821a90afaf788ba291d1f6fb11b8", null ],
-    [ "AC_PLATFORM_INTEL", "d4/ddf/a00488.html#a2d79201ecf9fb7b1f6d0c131f9b7b8ba", null ],
-    [ "AC_PLATFORM_UNIX", "d4/ddf/a00488.html#a96b4a3022030f69221679448f34f1972", null ],
-    [ "AC_PLATFORM_WINDOWS", "d4/ddf/a00488.html#a15c00b0ab8f2f092270745de87d6bd8f", null ]
+    [ "BoundsTrait< VMAP::ModelSpawn * >", "d8/d5e/a05429.html", "d8/d5e/a05429" ],
+    [ "VMAP::WMOLiquidHeader", "d6/deb/a05433.html", "d6/deb/a05433" ],
+    [ "CMP_OR_RETURN", "d4/ddf/a00488.html#abb356574335eee18efd5e1f4ed707637", null ],
+    [ "READ_OR_RETURN", "d4/ddf/a00488.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d", null ],
+    [ "READ_OR_RETURN_WITH_DELETE", "d4/ddf/a00488.html#aaf506ecfd782214a75bd609db9bef004", null ],
+    [ "readChunk", "d4/ddf/a00488.html#aa923966c6cf6ce644b8335506d5f1fce", null ]
 ];

@@ -1,7 +1,6 @@
 var a21457 =
 [
-    [ "FilterTargets", "d4/d64/a21457.html#aacfc70299b20cfef5b2feac954779f1c", null ],
-    [ "HandleDamageCalc", "d4/d64/a21457.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
-    [ "PrepareSpellScript", "d4/d64/a21457.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
-    [ "Register", "d4/d64/a21457.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
+    [ "boss_skadi_graufAI", "d3/dc6/a21461.html", "d3/dc6/a21461" ],
+    [ "boss_skadi_grauf", "d4/d64/a21457.html#a571db2d2ae21f38b7051319da0f042f6", null ],
+    [ "GetAI", "d4/d64/a21457.html#ab464e605bf001eee5517ad805066af57", null ]
 ];

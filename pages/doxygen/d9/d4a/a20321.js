@@ -1,6 +1,8 @@
 var a20321 =
 [
-    [ "FilterTargets", "d9/d4a/a20321.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "d9/d4a/a20321.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "d9/d4a/a20321.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "CatsTargetSelector", "d9/d4a/a20321.html#a48068e5fb4d835303d1d0fbbc4a7e66e", null ],
+    [ "operator()", "d9/d4a/a20321.html#a86e65be219bb8f1fdbebba21ba16884a", null ],
+    [ "_maxDist", "d9/d4a/a20321.html#a569a1fc697a16c55ef0d087993461a01", null ],
+    [ "_me", "d9/d4a/a20321.html#a510937836db06bf70f2bd3737efa4369", null ],
+    [ "_minDist", "d9/d4a/a20321.html#a28f5ca413d51073294888cfc97c21b04", null ]
 ];

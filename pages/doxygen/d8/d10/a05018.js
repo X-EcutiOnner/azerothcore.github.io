@@ -1,11 +1,19 @@
 var a05018 =
 [
-    [ "npc_innkeeper", "db/da2/a28617.html", "db/da2/a28617" ],
-    [ "AddSC_npc_innkeeper", "d8/d10/a05018.html#a3ffce1ea6cca981888af85ba67364df9", null ],
-    [ "GOSSIP_MENU", "d8/d10/a05018.html#a3115623eb3e0408aad7cd637686aaaee", null ],
-    [ "GOSSIP_MENU_EVENT", "d8/d10/a05018.html#a6bb09725b9e6b10b76686a9059038e6b", null ],
-    [ "HALLOWEEN_EVENTID", "d8/d10/a05018.html#a2e23760d3d379f3fa92c139f067b5984", null ],
-    [ "SPELL_TREAT", "d8/d10/a05018.html#a072a033da374692139d9d33e63be89ca", null ],
-    [ "SPELL_TRICK", "d8/d10/a05018.html#ad2b2ba30383cca3be221f38a809e2da1", null ],
-    [ "SPELL_TRICKED_OR_TREATED", "d8/d10/a05018.html#a022e344eaf73aa8ab6655d2c6aaac688", null ]
+    [ "QueryResultFieldMetadata", "da/dba/a06169.html", "da/dba/a06169" ],
+    [ "Field", "df/da5/a06173.html", "df/da5/a06173" ],
+    [ "Binary", "d8/d10/a05018.html#a45c2b15f675e85c1f4462be09f27c59e", null ],
+    [ "is_chrono_v", "d8/d10/a05018.html#aa6a7b1e80be2ae7ec2efb76185ee7b44", null ],
+    [ "DatabaseFieldTypes", "d8/d10/a05018.html#a52858f4c2cc23ac9372ab466fb82c091", [
+      [ "Null", "d8/d10/a05018.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94", null ],
+      [ "Int8", "d8/d10/a05018.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539", null ],
+      [ "Int16", "d8/d10/a05018.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208", null ],
+      [ "Int32", "d8/d10/a05018.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31", null ],
+      [ "Int64", "d8/d10/a05018.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487", null ],
+      [ "Float", "d8/d10/a05018.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b", null ],
+      [ "Double", "d8/d10/a05018.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b", null ],
+      [ "Decimal", "d8/d10/a05018.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3", null ],
+      [ "Date", "d8/d10/a05018.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41", null ],
+      [ "Binary", "d8/d10/a05018.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd", null ]
+    ] ]
 ];

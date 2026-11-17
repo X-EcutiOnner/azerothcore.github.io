@@ -1,6 +1,6 @@
 var a21873 =
 [
-    [ "npc_mageguard_dalaranAI", "de/d88/a21877.html", "de/d88/a21877" ],
-    [ "npc_mageguard_dalaran", "d5/da6/a21873.html#a0cec4f232b665325c421cecb5839885f", null ],
-    [ "GetAI", "d5/da6/a21873.html#a10cbddceb53a2d432da2224128c59b28", null ]
+    [ "npc_archmage_landalockAI", "de/d88/a21877.html", "de/d88/a21877" ],
+    [ "npc_archmage_landalock", "d5/da6/a21873.html#ac7379ff07740123312af66ead64df4c6", null ],
+    [ "GetAI", "d5/da6/a21873.html#a92cfa8c2660413681297bfe12815c938", null ]
 ];

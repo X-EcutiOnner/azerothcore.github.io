@@ -1,17 +1,23 @@
 var a02483 =
 [
-    [ "Arena", "d6/d11/a07683.html", "d6/d11/a07683" ],
-    [ "ArenaBroadcastTexts", "d3/de3/a02483.html#a407f2036481e3d9e2def3daa50546c71", [
-      [ "ARENA_TEXT_START_ONE_MINUTE", "d3/de3/a02483.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
-      [ "ARENA_TEXT_START_THIRTY_SECONDS", "d3/de3/a02483.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
-      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "d3/de3/a02483.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
-      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "d3/de3/a02483.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
-    ] ],
-    [ "ArenaSpellIds", "d3/de3/a02483.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
-      [ "SPELL_ALLIANCE_GOLD_FLAG", "d3/de3/a02483.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
-      [ "SPELL_ALLIANCE_GREEN_FLAG", "d3/de3/a02483.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
-      [ "SPELL_HORDE_GOLD_FLAG", "d3/de3/a02483.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
-      [ "SPELL_HORDE_GREEN_FLAG", "d3/de3/a02483.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
-      [ "SPELL_LAST_MAN_STANDING", "d3/de3/a02483.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
-    ] ]
+    [ "WorldPackets::Item::SplitItem", "d6/d5e/a11405.html", "d6/d5e/a11405" ],
+    [ "WorldPackets::Item::SwapInventoryItem", "d0/da2/a11409.html", "d0/da2/a11409" ],
+    [ "WorldPackets::Item::AutoEquipItemSlot", "d2/d2d/a11413.html", "d2/d2d/a11413" ],
+    [ "WorldPackets::Item::SwapItem", "d6/d2e/a11417.html", "d6/d2e/a11417" ],
+    [ "WorldPackets::Item::AutoEquipItem", "d7/d62/a11421.html", "d7/d62/a11421" ],
+    [ "WorldPackets::Item::DestroyItem", "dd/d54/a11425.html", "dd/d54/a11425" ],
+    [ "WorldPackets::Item::ReadItem", "dc/d35/a11429.html", "dc/d35/a11429" ],
+    [ "WorldPackets::Item::SellItem", "d5/d8a/a11433.html", "d5/d8a/a11433" ],
+    [ "WorldPackets::Item::BuybackItem", "d8/dad/a11437.html", "d8/dad/a11437" ],
+    [ "WorldPackets::Item::BuyItemInSlot", "dd/d72/a11441.html", "dd/d72/a11441" ],
+    [ "WorldPackets::Item::BuyItem", "d0/d81/a11445.html", "d0/d81/a11445" ],
+    [ "WorldPackets::Item::ListInventory", "d5/d33/a11449.html", "d5/d33/a11449" ],
+    [ "WorldPackets::Item::AutoStoreBagItem", "d5/d88/a11453.html", "d5/d88/a11453" ],
+    [ "WorldPackets::Item::EnchantmentLog", "d8/d5d/a11457.html", "d8/d5d/a11457" ],
+    [ "WorldPackets::Item::ItemEnchantTimeUpdate", "d1/d62/a11461.html", "d1/d62/a11461" ],
+    [ "WorldPackets::Item::WrapItem", "d9/d1c/a11465.html", "d9/d1c/a11465" ],
+    [ "WorldPackets::Item::SocketGems", "d1/ddf/a11469.html", "d1/ddf/a11469" ],
+    [ "WorldPackets::Item::CancelTempEnchantment", "db/d04/a11473.html", "db/d04/a11473" ],
+    [ "WorldPackets::Item::ItemRefundInfo", "dd/d5a/a11477.html", "dd/d5a/a11477" ],
+    [ "WorldPackets::Item::ItemRefund", "db/d9c/a11481.html", "db/d9c/a11481" ]
 ];

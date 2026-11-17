@@ -1,4 +1,10 @@
 var a02681 =
 [
-    [ "ZoneScript", "d1/d9e/a10442.html", "d1/d9e/a10442" ]
+    [ "AutobroadcastMgr", "d9/d97/a07649.html", "d9/d97/a07649" ],
+    [ "sAutobroadcastMgr", "d4/d9d/a02681.html#a34abff2dadcb74370b0749fe9fda3878", null ],
+    [ "AnnounceType", "d4/d9d/a02681.html#a28a4ef2f64643c76d8be05bf9eafc731", [
+      [ "World", "d4/d9d/a02681.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
+      [ "Notification", "d4/d9d/a02681.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
+      [ "Both", "d4/d9d/a02681.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
+    ] ]
 ];

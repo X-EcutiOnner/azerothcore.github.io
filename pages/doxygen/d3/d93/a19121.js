@@ -1,7 +1,7 @@
 var a19121 =
 [
-    [ "FrostwingVrykulSearcher", "d3/d93/a19121.html#a10aa54184b42a0538dc4f325204399e9", null ],
-    [ "operator()", "d3/d93/a19121.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
-    [ "_range", "d3/d93/a19121.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
-    [ "_source", "d3/d93/a19121.html#af5d3c93f41698e71c867336d0453d40a", null ]
+    [ "OnApply", "d3/d93/a19121.html#ac35f5d98980f54470a75a72b3578681f", null ],
+    [ "OnRemove", "d3/d93/a19121.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
+    [ "PrepareAuraScript", "d3/d93/a19121.html#a83c90d16fa151026a1e02927e31922ee", null ],
+    [ "Register", "d3/d93/a19121.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
 ];

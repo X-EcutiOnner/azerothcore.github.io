@@ -1,7 +1,6 @@
 var a26041 =
 [
-    [ "CheckProc", "dd/d6e/a26041.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
-    [ "HandleProc", "dd/d6e/a26041.html#a5cf9cea911ead2f261522e55e94c745a", null ],
-    [ "PrepareAuraScript", "dd/d6e/a26041.html#a3f2b20607f90ad641769eb284ddfab85", null ],
-    [ "Register", "dd/d6e/a26041.html#a55557026689613e91aeabce1af442237", null ]
+    [ "HandleDummyTick", "dd/d6e/a26041.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "dd/d6e/a26041.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "dd/d6e/a26041.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

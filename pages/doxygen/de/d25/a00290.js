@@ -1,12 +1,11 @@
 var a00290 =
 [
-    [ "BinarySpellDetectionTest", "d6/d75/a30141.html", "d6/d75/a30141" ],
-    [ "ShouldMarkBinary", "de/d25/a00290.html#ab2154405a408271aa60863454b0303fe", null ],
-    [ "TEST_F", "de/d25/a00290.html#ae8ecca79d16f8a89b183cf4611dad5d0", null ],
-    [ "TEST_F", "de/d25/a00290.html#afb1918ddefeb036bd6be1fbde953b78b", null ],
-    [ "TEST_F", "de/d25/a00290.html#a1dc398eff0ed30b3e1997c3b27980bed", null ],
-    [ "TEST_F", "de/d25/a00290.html#ad56defbc63a988ba5126194ff9cea5ec", null ],
-    [ "TEST_F", "de/d25/a00290.html#a54fa8a3ce4060060ece3f2a2d9e852e7", null ],
-    [ "TEST_F", "de/d25/a00290.html#aa1b8d26dc43fa9eaf1d827a0c4308dd1", null ],
-    [ "TEST_F", "de/d25/a00290.html#a4e6cbd19c7f85354ce9a5f5a9a1bafe6", null ]
+    [ "ADT::MDDF", "d3/de1/a30533.html", "d3/de1/a30533" ],
+    [ "ADT::MODF", "d8/d42/a30537.html", "d8/d42/a30537" ],
+    [ "ADTFile", "d7/d0b/a30541.html", "d7/d0b/a30541" ],
+    [ "fixname2", "de/d25/a00290.html#ac0029be4572a61d00eb1435db5526a74", null ],
+    [ "fixnamen", "de/d25/a00290.html#abdc56edc46e0804c456749761cff8daf", null ],
+    [ "GetExtension", "de/d25/a00290.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
+    [ "GetPlainName", "de/d25/a00290.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
+    [ "GetPlainName", "de/d25/a00290.html#a939d4568b4058bf826a517f55cb963af", null ]
 ];

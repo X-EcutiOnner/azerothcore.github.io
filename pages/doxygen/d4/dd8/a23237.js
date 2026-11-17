@@ -1,5 +1,6 @@
 var a23237 =
 [
-    [ "npc_vengeful_spirit", "d4/dd8/a23237.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
-    [ "OnCharmed", "d4/dd8/a23237.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
+    [ "ShadowOfDeathSelector", "d4/dd8/a23237.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d4/dd8/a23237.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d4/dd8/a23237.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

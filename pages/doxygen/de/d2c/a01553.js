@@ -1,4 +1,4 @@
 var a01553 =
 [
-    [ "WorldPackets::CombatLog::EnvironmentalDamageLog", "d3/d4e/a11137.html", "d3/d4e/a11137" ]
+    [ "Initialize", "de/d2c/a01553.html#a9ddfbc9345acf19d3b4bcb7ce7804c94", null ]
 ];

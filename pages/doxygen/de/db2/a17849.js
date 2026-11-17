@@ -1,13 +1,14 @@
 var a17849 =
 [
-    [ "npc_kinetic_bombAI", "de/db2/a17849.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
-    [ "DoAction", "de/db2/a17849.html#a52e913b244e58f99745926d021dc0d95", null ],
-    [ "IsSummonedBy", "de/db2/a17849.html#a03dc3870b23105bb1d0d207adefe2541", null ],
-    [ "Reset", "de/db2/a17849.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
-    [ "UpdateAI", "de/db2/a17849.html#a1ce9bf99879796652878990a773e6a2c", null ],
-    [ "_events", "de/db2/a17849.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
-    [ "_groundZ", "de/db2/a17849.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
-    [ "_x", "de/db2/a17849.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
-    [ "_y", "de/db2/a17849.html#a5d9f4039c87e1e57234af51cd4617022", null ],
-    [ "exploded", "de/db2/a17849.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
+    [ "npc_ball_of_flameAI", "de/db2/a17849.html#a90314990bc6404bf2a4005bb94213926", null ],
+    [ "AttackStart", "de/db2/a17849.html#a34d51c96005f620c0010948acb6c89ec", null ],
+    [ "DamageDealt", "de/db2/a17849.html#ac2d36bc12bb86c329721a2af224d037f", null ],
+    [ "DoAction", "de/db2/a17849.html#ac589db56562987de5bbed27a2bead49f", null ],
+    [ "MoveInLineOfSight", "de/db2/a17849.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
+    [ "MovementInform", "de/db2/a17849.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
+    [ "SetGUID", "de/db2/a17849.html#ab82ac6ffc7f946428c26f5bd6585f95c", null ],
+    [ "_chaseGUID", "de/db2/a17849.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
+    [ "_exploded", "de/db2/a17849.html#a724de41f7b14755d704d5de335da380b", null ],
+    [ "_instance", "de/db2/a17849.html#af5d8717572176409eca01ae214910c7f", null ],
+    [ "_started", "de/db2/a17849.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
 ];

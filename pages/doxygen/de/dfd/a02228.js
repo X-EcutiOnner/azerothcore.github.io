@@ -1,21 +1,17 @@
 var a02228 =
 [
-    [ "FormationInfo", "db/d69/a08585.html", "db/d69/a08585" ],
-    [ "FormationMgr", "df/dfe/a08589.html", "df/dfe/a08589" ],
-    [ "CreatureGroup", "d0/d09/a08593.html", "d0/d09/a08593" ],
-    [ "sFormationMgr", "de/dfd/a02228.html#ae80a51404625cee821a8727ed7369352", null ],
-    [ "CreatureGroupInfoType", "de/dfd/a02228.html#a2c3447bf21f430bff136da6811d93a61", null ],
-    [ "CreatureGroupMembersType", "de/dfd/a02228.html#aca5ad8458d4d9e1da2c64850841b3a4a", null ],
-    [ "GroupAIFlags", "de/dfd/a02228.html#a3754da8cc6b209da0180cd76de20869c", [
-      [ "GROUP_AI_FLAG_MEMBER_ASSIST_LEADER", "de/dfd/a02228.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2", null ],
-      [ "GROUP_AI_FLAG_LEADER_ASSIST_MEMBER", "de/dfd/a02228.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e", null ],
-      [ "GROUP_AI_FLAG_EVADE_TOGETHER", "de/dfd/a02228.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a", null ],
-      [ "GROUP_AI_FLAG_RESPAWN_ON_EVADE", "de/dfd/a02228.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6", null ],
-      [ "GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE", "de/dfd/a02228.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043", null ],
-      [ "GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE", "de/dfd/a02228.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e", null ],
-      [ "GROUP_AI_FLAG_FOLLOW_LEADER", "de/dfd/a02228.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87", null ],
-      [ "GROUP_AI_FLAG_ASSIST_MASK", "de/dfd/a02228.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c", null ],
-      [ "GROUP_AI_FLAG_EVADE_MASK", "de/dfd/a02228.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd", null ],
-      [ "GROUP_AI_FLAG_SUPPORTED", "de/dfd/a02228.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60", null ]
-    ] ]
+    [ "GuidLinkType", "de/dfd/a02228.html#a7c58fae67eb0c9a1b6f18b403121b2f5", [
+      [ "SPELL_LINK_PLAYER", "de/dfd/a02228.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028", null ],
+      [ "SPELL_LINK_CREATURE", "de/dfd/a02228.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8", null ],
+      [ "SPELL_LINK_GAMEOBJECT", "de/dfd/a02228.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7", null ]
+    ] ],
+    [ "SpellLinkType", "de/dfd/a02228.html#a39157073e48b2e925e7227a28d1f09f9", [
+      [ "SPELL_LINK_SPELL", "de/dfd/a02228.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd", null ],
+      [ "SPELL_LINK_TALENT", "de/dfd/a02228.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56", null ],
+      [ "SPELL_LINK_ENCHANT", "de/dfd/a02228.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654", null ],
+      [ "SPELL_LINK_TRADE", "de/dfd/a02228.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919", null ],
+      [ "SPELL_LINK_GLYPH", "de/dfd/a02228.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e", null ]
+    ] ],
+    [ "guidKeys", "de/dfd/a02228.html#ae39447b85bcee503ddb354d2950d638a", null ],
+    [ "spellKeys", "de/dfd/a02228.html#a493fba30c4b66be28baeb971844ea593", null ]
 ];

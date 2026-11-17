@@ -1,5 +1,5 @@
 var a02429 =
 [
-    [ "Acore::BattlegroundChatBuilder", "d4/d1e/a07774.html", "d4/d1e/a07774" ],
-    [ "Acore::Battleground2ChatBuilder", "df/d49/a07778.html", "df/d49/a07778" ]
+    [ "operator<<", "dc/d09/a02429.html#ae8a45300d819957eb5ed8c659180c750", null ],
+    [ "operator<<", "dc/d09/a02429.html#abd3549ec2eebc439058205da8ae53eb3", null ]
 ];

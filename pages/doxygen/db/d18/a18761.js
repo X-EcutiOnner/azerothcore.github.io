@@ -1,27 +1,8 @@
 var a18761 =
 [
-    [ "boss_the_lich_kingAI", "db/d18/a18761.html#ab8b78326fe92f51a9fe21943a3bb980c", null ],
-    [ "CanAIAttack", "db/d18/a18761.html#ae4ebbccc403bcc3621437a36f8678b93", null ],
-    [ "DamageTaken", "db/d18/a18761.html#a787f4d84930767b71b4af9e5092734c4", null ],
-    [ "DoAction", "db/d18/a18761.html#a179ff0d1381abc320efc88a4da0e1c2a", null ],
-    [ "EnterEvadeMode", "db/d18/a18761.html#a1d71569f5da22dd4046a76525bff6452", null ],
-    [ "GetData", "db/d18/a18761.html#a5b289363b4ac0b2be62a8df7deae8ed7", null ],
-    [ "JustDied", "db/d18/a18761.html#a80cfbecffa68f9fc42028ebdac0975c4", null ],
-    [ "JustEngagedWith", "db/d18/a18761.html#a401e1c529438c1ce08943ba2da8f1347", null ],
-    [ "JustSummoned", "db/d18/a18761.html#a0e1ab5732b70522e47036f067866eef3", null ],
-    [ "KilledUnit", "db/d18/a18761.html#acb8e6c03bbace5d66166c98c13a98290", null ],
-    [ "MovementInform", "db/d18/a18761.html#a4d66d60d0e129b3a873d0c91c03e02f4", null ],
-    [ "Reset", "db/d18/a18761.html#ad6653183f1dda6bfe3659a94993772ab", null ],
-    [ "SetData", "db/d18/a18761.html#a13f8561d1d131b7e57904678a64ae1de", null ],
-    [ "SpellHit", "db/d18/a18761.html#ac756adaba702219440fee3bfc2548f3c", null ],
-    [ "SpellHitTarget", "db/d18/a18761.html#a43ba267fd91585541e69e3911c0291d7", null ],
-    [ "SummonedCreatureDies", "db/d18/a18761.html#af81105d937124f49bd722ca787d31d58", null ],
-    [ "UpdateAI", "db/d18/a18761.html#a06c2609a2cff0d6b684dc197e6a29e9b", null ],
-    [ "_bFordringMustFallYell", "db/d18/a18761.html#a0e932a7e98d4e5d5fce8c35926acc185", null ],
-    [ "_bFrostmournePhase", "db/d18/a18761.html#af867d86aa20366bfbbfaf8083fe35271", null ],
-    [ "_lastTalkTimeBuff", "db/d18/a18761.html#af948b1ee8415f61e3d4fb8841c1ff9e3", null ],
-    [ "_necroticPlagueStack", "db/d18/a18761.html#ad8a8a978402cc32046b67a42621d8d42", null ],
-    [ "_phase", "db/d18/a18761.html#ae069cec361b187a657a707d6613f32b7", null ],
-    [ "_positionCheckTimer", "db/d18/a18761.html#a94896994f59ab4c38479a5c97742128a", null ],
-    [ "_vileSpiritExplosions", "db/d18/a18761.html#a94f291e9cf428fe2912c666fa49360d8", null ]
+    [ "HeightDifferenceCheck", "db/d18/a18761.html#aa8b61811e435cce456e5cb1d798be66e", null ],
+    [ "operator()", "db/d18/a18761.html#a1db203642683f85176f2a35eb3d10c34", null ],
+    [ "_baseObject", "db/d18/a18761.html#a7c274be02ca58429dffaee2ea34153c6", null ],
+    [ "_difference", "db/d18/a18761.html#af95e2bf67c8316dda982896978c45a68", null ],
+    [ "_reverse", "db/d18/a18761.html#a89074844d5fd8b02ed99c09ac4cc5b85", null ]
 ];

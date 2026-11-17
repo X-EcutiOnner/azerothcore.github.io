@@ -1,6 +1,7 @@
 var a23017 =
 [
-    [ "FilterTargets", "df/ddd/a23017.html#a91b9fdebdffcae06da1882d7d46f5460", null ],
-    [ "PrepareSpellScript", "df/ddd/a23017.html#ae8f3906007580963bda33cd0e420299b", null ],
-    [ "Register", "df/ddd/a23017.html#a5e191d4fca7cc95ddec8730cc3fd8ffe", null ]
+    [ "HandleDummy", "df/ddd/a23017.html#af5ac581f7d471300fba2c23548037eea", null ],
+    [ "PrepareSpellScript", "df/ddd/a23017.html#adda61c05b544b52d98af5b7a76d4f808", null ],
+    [ "Register", "df/ddd/a23017.html#a270a64dffdce230d97515f116ec49706", null ],
+    [ "Validate", "df/ddd/a23017.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
 ];

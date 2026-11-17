@@ -1,5 +1,7 @@
 var a22757 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "d6/dd4/a22757.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
-    [ "GetOutdoorPvP", "d6/dd4/a22757.html#aee93a8191457d7a264053809a5c082e8", null ]
+    [ "OutdoorPvPGH", "d6/dd4/a22757.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "HandleKill", "d6/dd4/a22757.html#a78cf572faf727c302f9be496d91004e0", null ],
+    [ "SendRemoveWorldStates", "d6/dd4/a22757.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "d6/dd4/a22757.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

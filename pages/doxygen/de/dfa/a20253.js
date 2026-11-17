@@ -1,6 +1,9 @@
 var a20253 =
 [
-    [ "PrepareSpellScript", "de/dfa/a20253.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "de/dfa/a20253.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "de/dfa/a20253.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "CheckTargets", "de/dfa/a20253.html#a9340c167ef70508635092e273c23dcde", null ],
+    [ "CountTargets", "de/dfa/a20253.html#a996db37b678143fbc0a392032d29fff5", null ],
+    [ "Load", "de/dfa/a20253.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
+    [ "PrepareSpellScript", "de/dfa/a20253.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
+    [ "Register", "de/dfa/a20253.html#aed312a4408134589fd02bbcb844fd1b7", null ],
+    [ "_targetCount", "de/dfa/a20253.html#ac780614674e748274081f9f99a5165fe", null ]
 ];

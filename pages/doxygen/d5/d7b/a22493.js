@@ -1,7 +1,6 @@
 var a22493 =
 [
-    [ "HandleDummy", "d5/d7b/a22493.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "d5/d7b/a22493.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "d5/d7b/a22493.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "d5/d7b/a22493.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_time_lost_proto_drakeAI", "db/d39/a22497.html", "db/d39/a22497" ],
+    [ "npc_time_lost_proto_drake", "d5/d7b/a22493.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "d5/d7b/a22493.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

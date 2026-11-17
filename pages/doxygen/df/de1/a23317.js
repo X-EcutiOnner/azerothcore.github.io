@@ -1,6 +1,7 @@
 var a23317 =
 [
-    [ "HandleScriptEffect", "df/de1/a23317.html#a2b46490b70bf93effb7379686e648618", null ],
-    [ "PrepareSpellScript", "df/de1/a23317.html#a5030d071372ef12663f6a75be637476e", null ],
-    [ "Register", "df/de1/a23317.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
+    [ "PrepareAuraScript", "df/de1/a23317.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
+    [ "Register", "df/de1/a23317.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
+    [ "Update", "df/de1/a23317.html#a3f98767367564734c9877d1870aac31b", null ],
+    [ "Validate", "df/de1/a23317.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
 ];

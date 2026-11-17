@@ -1,11 +1,8 @@
 var a01958 =
 [
-    [ "BaseGain", "d3/d67/a01958.html#ada8e56c81ab672d85f2ff274d109e477", null ],
-    [ "Gain", "d3/d67/a01958.html#ab923dd9a0df7d75127965b40539d4a10", null ],
-    [ "GetColorCode", "d3/d67/a01958.html#a812c722ab7eb34807d8cad9659d34245", null ],
-    [ "GetGrayLevel", "d3/d67/a01958.html#a9c310a4423fd5ada14fac549e4b1a6fd", null ],
-    [ "GetZeroDifference", "d3/d67/a01958.html#a4152e9ef9972f6a20cbc990dce953c36", null ],
-    [ "hk_honor_at_level", "d3/d67/a01958.html#ad25519337dcc6370a39a072c53386f55", null ],
-    [ "hk_honor_at_level_f", "d3/d67/a01958.html#a218866625f1b3b8224fb44f5a0c8b416", null ],
-    [ "xp_in_group_rate", "d3/d67/a01958.html#a304088bebc0743c764589112d2ba3b7f", null ]
+    [ "GameObjectScript", "d8/dac/a10889.html", "d8/dac/a10889" ],
+    [ "GenericGameObjectScript< AI >", "d9/d9b/a10893.html", "d9/d9b/a10893" ],
+    [ "FactoryGameObjectScript< AI, AIFactory >", "d0/de7/a10897.html", "d0/de7/a10897" ],
+    [ "RegisterGameObjectAI", "d3/d67/a01958.html#a87397a2ba2a1acd88f62793eae9aa30e", null ],
+    [ "RegisterGameObjectAIWithFactory", "d3/d67/a01958.html#a1614f98721d8a94351c4be15a72e499f", null ]
 ];

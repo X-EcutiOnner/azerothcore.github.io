@@ -1,7 +1,7 @@
 var a27029 =
 [
-    [ "OnProc", "db/d2a/a27029.html#a0a85e641521f1e9b7fd074f7edde97ac", null ],
-    [ "PrepareAuraScript", "db/d2a/a27029.html#a4ff27309c8848a6155ad28809ace5cba", null ],
-    [ "Register", "db/d2a/a27029.html#a20b6a18ce3fac99689b958b384da7836", null ],
-    [ "Validate", "db/d2a/a27029.html#ac4275cca4f974a5a131e4dc1be8eed23", null ]
+    [ "HandleProc", "db/d2a/a27029.html#ac85ee0780894f16c8760ede0fa555bd8", null ],
+    [ "PrepareAuraScript", "db/d2a/a27029.html#a6583928e441d418130df561962518deb", null ],
+    [ "Register", "db/d2a/a27029.html#a9548fa0c523182c58e0dcc76b2db7f69", null ],
+    [ "Validate", "db/d2a/a27029.html#a652e134d79d4e4a229b723c8d388cf5d", null ]
 ];

@@ -1,7 +1,5 @@
 var a20581 =
 [
-    [ "npc_ulduar_icicle", "de/d1a/a20581.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
-    [ "UpdateAI", "de/d1a/a20581.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
-    [ "timer1", "de/d1a/a20581.html#ae277d302131abd17cef018872b12da06", null ],
-    [ "timer2", "de/d1a/a20581.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
+    [ "id", "de/d1a/a20581.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "pos", "de/d1a/a20581.html#aeca90e17f8b6f5b40f0f703ef9fe2b73", null ]
 ];

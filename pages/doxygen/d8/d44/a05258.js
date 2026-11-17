@@ -1,8 +1,8 @@
 var a05258 =
 [
-    [ "EffectApplyResult", "d8/d3e/a30185.html", "d8/d3e/a30185" ],
-    [ "EffectDesc", "dc/d6a/a30177.html", "dc/d6a/a30177" ],
-    [ "SpellDesc", "d3/d04/a30181.html", "d3/d04/a30181" ],
+    [ "EffectApplyResult", "d3/db4/a30193.html", "d3/db4/a30193" ],
+    [ "EffectDesc", "d8/d3e/a30185.html", "d8/d3e/a30185" ],
+    [ "SpellDesc", "d6/d28/a30189.html", "d6/d28/a30189" ],
     [ "AuraType", "d8/d44/a05258.html#ab3c8788e4514711f326743e17cf18f33", [
       [ "AURA_NONE", "d8/d44/a05258.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c", null ],
       [ "AURA_MOD_DECREASE_SPEED", "d8/d44/a05258.html#ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48", null ],

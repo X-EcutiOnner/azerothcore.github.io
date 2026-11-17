@@ -1,6 +1,8 @@
 var a21641 =
 [
-    [ "HandleEffectPeriodic", "d7/d0f/a21641.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "d7/d0f/a21641.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "d7/d0f/a21641.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "boss_lavanthor", "d7/d0f/a21641.html#ad264818ef0f539c48160de9dbebeac7f", null ],
+    [ "EnterEvadeMode", "d7/d0f/a21641.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
+    [ "ExecuteEvent", "d7/d0f/a21641.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
+    [ "JustEngagedWith", "d7/d0f/a21641.html#a4bc5fa66192daab98027539efda37bdc", null ],
+    [ "MoveInLineOfSight", "d7/d0f/a21641.html#a6f68cd280561b428400a08a155f83ccb", null ]
 ];

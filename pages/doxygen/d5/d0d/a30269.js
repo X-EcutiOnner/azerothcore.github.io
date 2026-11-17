@@ -1,5 +1,7 @@
 var a30269 =
 [
-    [ "CalculateSpellTypeMask", "d5/d0d/a30269.html#ad4f136e69c7553ac32b1de047bf73c59", null ],
-    [ "SetUp", "d5/d0d/a30269.html#a57be47f0c3962451b527ffe247dee814", null ]
+    [ "SetUp", "d5/d0d/a30269.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
+    [ "DAGGER_SPEED", "d5/d0d/a30269.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
+    [ "SWORD_SPEED", "d5/d0d/a30269.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
+    [ "TWO_HANDED_SPEED", "d5/d0d/a30269.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
 ];

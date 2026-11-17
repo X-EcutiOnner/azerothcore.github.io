@@ -1,5 +1,4 @@
 var a02039 =
 [
-    [ "CreatureTextBuilder", "d5/d15/a12297.html", "d5/d15/a12297" ],
-    [ "PlayerTextBuilder", "d3/d99/a12301.html", "d3/d99/a12301" ]
+    [ "ScriptRegistry< AllSpellScript >", "d4/d9b/a02039.html#a6fb50c7d667ae3d14a6d307b0862e957", null ]
 ];

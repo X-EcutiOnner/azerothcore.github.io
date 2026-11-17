@@ -1,8 +1,12 @@
 var a17341 =
 [
-    [ "HandleRemove", "d0/df1/a17341.html#a362b16f69a19adae6b673bd9ead55a83", null ],
-    [ "PeriodicTick", "d0/df1/a17341.html#aa432052d61dc48066433b41b84ffbe5f", null ],
-    [ "PrepareAuraScript", "d0/df1/a17341.html#a3ffbd618820adf77b2c64a29816f5204", null ],
-    [ "Register", "d0/df1/a17341.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
-    [ "Validate", "d0/df1/a17341.html#abed6574398a7d005e95feba6b54243a1", null ]
+    [ "boss_trollgoreAI", "d0/df1/a17341.html#a958deb54a8460cc2dc61958bd9acb338", null ],
+    [ "CheckInRoom", "d0/df1/a17341.html#a6428a1c4fc7d3da4e016ed17ea3684df", null ],
+    [ "JustDied", "d0/df1/a17341.html#a32a309084b6b7c4b4e5db10d9c8a95bd", null ],
+    [ "JustEngagedWith", "d0/df1/a17341.html#a25414dc1b13aa1372e397c5cb11afdaa", null ],
+    [ "JustSummoned", "d0/df1/a17341.html#abd2199877e0e1465a7e5783b80ad2a44", null ],
+    [ "KilledUnit", "d0/df1/a17341.html#aa65d03d8879c6177753b8316c1343ad4", null ],
+    [ "Reset", "d0/df1/a17341.html#a4fe22aebe6e814196ac1914d158a62de", null ],
+    [ "UpdateAI", "d0/df1/a17341.html#a3fa3247442edb81136647f7fdf5834cf", null ],
+    [ "events2", "d0/df1/a17341.html#a94e8c9616ac332f33f2b976c074092af", null ]
 ];

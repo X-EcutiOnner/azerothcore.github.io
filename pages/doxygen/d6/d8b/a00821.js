@@ -1,6 +1,12 @@
 var a00821 =
 [
-    [ "IpLocationRecord", "d3/d16/a05746.html", "d3/d16/a05746" ],
-    [ "IpLocationStore", "d7/d55/a05750.html", "d7/d55/a05750" ],
-    [ "sIPLocation", "d6/d8b/a00821.html#a85e62bd98f395189fea9c9514d44fc31", null ]
+    [ "CSymbolInfoPackage", "db/d36/a05621.html", "db/d36/a05621" ],
+    [ "_NO_CVCONST_H", "d6/d8b/a00821.html#af8660cbefcf140a8992e862e401bc473", null ],
+    [ "CrashFolder", "d6/d8b/a00821.html#a55b3d8676a4478f058eeb12d4e8b35b2", null ],
+    [ "EXCEPTION", "d6/d8b/a00821.html#a04a8ef8e5d1a39a04fed031f53ffa2db", null ],
+    [ "WIN32_LEAN_AND_MEAN", "d6/d8b/a00821.html#ac7bef5d85e3dcd73eef56ad39ffc84a9", null ],
+    [ "ErrorMessage", "d6/d8b/a00821.html#a75b4eb6a99991d301f7d44683ce13c9e", null ],
+    [ "ToTchar", "d6/d8b/a00821.html#a9f2ce59205c508258855d0568854e367", null ],
+    [ "ToTchar", "d6/d8b/a00821.html#a74d70382aec7501d6df3dcb969b85902", null ],
+    [ "g_WheatyExceptionReport", "d6/d8b/a00821.html#a9fff8ce906026fe3179e50e97182d90d", null ]
 ];

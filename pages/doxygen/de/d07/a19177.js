@@ -1,6 +1,17 @@
 var a19177 =
 [
-    [ "npc_captain_arnathAI", "d8/d3f/a19181.html", "d8/d3f/a19181" ],
-    [ "npc_captain_arnath", "de/d07/a19177.html#ab96afce64a7714ea84bab932f80c9302", null ],
-    [ "GetAI", "de/d07/a19177.html#a302ec007389e677011334d78f410207b", null ]
+    [ "boss_sister_svalnaAI", "de/d07/a19177.html#a8ffe7c40e6de53455caa86e1487c1234", null ],
+    [ "DoAction", "de/d07/a19177.html#a43c5be9641399b1fec35ef9b34d4fa7b", null ],
+    [ "InitializeAI", "de/d07/a19177.html#a6b709adc055b4be2824319d9ee881993", null ],
+    [ "JustDied", "de/d07/a19177.html#ab397adda97c8b21e9a53edccdadb8760", null ],
+    [ "JustEngagedWith", "de/d07/a19177.html#af930733e0f143c7fd0f214043b7fa9ef", null ],
+    [ "JustExitedCombat", "de/d07/a19177.html#a0555e77ec8a37965ff32d5b4e58ab12b", null ],
+    [ "JustReachedHome", "de/d07/a19177.html#a48aa3470b84686a6277616ed1b2d8364", null ],
+    [ "KilledUnit", "de/d07/a19177.html#a95c259d62cd4aab4a0b8a38ba98feb7a", null ],
+    [ "MovementInform", "de/d07/a19177.html#a4f1da0ead975b554704f4a068b1edb1d", null ],
+    [ "Reset", "de/d07/a19177.html#a4ba1ac914a7ae5c3b229d648b8fac9ee", null ],
+    [ "SpellHit", "de/d07/a19177.html#a9b5533f2f3a985f42bac098cc08e4cd1", null ],
+    [ "SpellHitTarget", "de/d07/a19177.html#a5236b715548c9c1b310a3227f8bf2bc8", null ],
+    [ "UpdateAI", "de/d07/a19177.html#a87e4f558db85e2c1ec192d35bde1eb8a", null ],
+    [ "_isEventInProgress", "de/d07/a19177.html#a0da237e729301c8db3ceccea2b0988b1", null ]
 ];

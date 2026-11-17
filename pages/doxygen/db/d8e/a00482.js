@@ -1,19 +1,21 @@
 var a00482 =
 [
-    [ "boss_mekgineer_steamrigger", "dc/d59/a23594.html", "dc/d59/a23594" ],
-    [ "MekgineerSteamrigger", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dd", [
-      [ "SAY_MECHANICS", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba", null ],
-      [ "SAY_AGGRO", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_SLAY", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda9e64f6e600dd42567d18006912811f75", null ],
-      [ "SAY_DEATH", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e", null ],
-      [ "SPELL_SUPER_SHRINK_RAY", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd", null ],
-      [ "SPELL_SAW_BLADE", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4ddabe5ec412b26a2ffb5cd6071f90620e58", null ],
-      [ "SPELL_ELECTRIFIED_NET", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda8af7ec94d6adf009820da95c833d041a", null ],
-      [ "SPELL_ENRAGE", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "SPELL_SUMMON_MECHANICS_1", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda48f35e8fc2aae6e24c0616e4c1b13d01", null ],
-      [ "SPELL_SUMMON_MECHANICS_2", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1", null ],
-      [ "SPELL_SUMMON_MECHANICS_3", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda5059715773c9ffed1b3ef2ff2c8f289c", null ],
-      [ "NPC_STREAMRIGGER_MECHANIC", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda6eb80a7e6891ababaf4ac14b1d9f890e", null ]
-    ] ],
-    [ "AddSC_boss_mekgineer_steamrigger", "db/d8e/a00482.html#a9aa3518f4196a7c844ab6ffafbc91068", null ]
+    [ "MmapTileRecastConfig", "d8/d87/a05397.html", "d8/d87/a05397" ],
+    [ "MmapTileHeader", "d1/d0a/a05401.html", "d1/d0a/a05401" ],
+    [ "MAX_NUMBER_OF_CELLS", "db/d8e/a00482.html#a2c6994ea025f427f1485c1c7aaee01fe", null ],
+    [ "MAX_NUMBER_OF_GRIDS", "db/d8e/a00482.html#a857252154f120575d940ffbdf63bace6", null ],
+    [ "MMAP_MAGIC", "db/d8e/a00482.html#af7a9a5e840ab3ad1c160e832500016d1", null ],
+    [ "MMAP_VERSION", "db/d8e/a00482.html#aea71555fdd0af33ccc21c76c67574421", null ],
+    [ "SIZE_OF_GRIDS", "db/d8e/a00482.html#a55c9adba46c0c14cd4ac80ab51228816", null ],
+    [ "NavTerrain", "db/d8e/a00482.html#a8a4d0b36dd46d60b691b894fb8c1c5db", [
+      [ "NAV_EMPTY", "db/d8e/a00482.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5", null ],
+      [ "NAV_GROUND", "db/d8e/a00482.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98", null ],
+      [ "NAV_MAGMA", "db/d8e/a00482.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670", null ],
+      [ "NAV_SLIME", "db/d8e/a00482.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75", null ],
+      [ "NAV_WATER", "db/d8e/a00482.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1", null ],
+      [ "NAV_UNUSED1", "db/d8e/a00482.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03", null ],
+      [ "NAV_UNUSED2", "db/d8e/a00482.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb", null ],
+      [ "NAV_UNUSED3", "db/d8e/a00482.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530", null ],
+      [ "NAV_UNUSED4", "db/d8e/a00482.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56", null ]
+    ] ]
 ];

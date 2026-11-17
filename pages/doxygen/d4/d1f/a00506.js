@@ -1,8 +1,7 @@
 var a00506 =
 [
-    [ "ModelIgnoreFlags", "d4/d1f/a00506.html#a6996c44f3ac72cd9dc04515186d2da28", [
-      [ "Nothing", "d4/d1f/a00506.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
-      [ "M2", "d4/d1f/a00506.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
-    ] ],
-    [ "operator&", "d4/d1f/a00506.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
+    [ "Acore::Impl::MPSCQueueNonIntrusive< T >", "d0/d64/a05817.html", "d0/d64/a05817" ],
+    [ "Acore::Impl::MPSCQueueNonIntrusive< T >::Node", "d5/d9e/a05821.html", "d5/d9e/a05821" ],
+    [ "Acore::Impl::MPSCQueueIntrusive< T, IntrusiveLink >", "d9/d93/a05825.html", "d9/d93/a05825" ],
+    [ "MPSCQueue", "d4/d1f/a00506.html#a6443361dced56bb64db991f954b2df47", null ]
 ];

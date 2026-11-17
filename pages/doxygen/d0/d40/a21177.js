@@ -1,7 +1,11 @@
 var a21177 =
 [
-    [ "OnRemove", "d0/d40/a21177.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "d0/d40/a21177.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "d0/d40/a21177.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "d0/d40/a21177.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_yoggsaron_neltharion", "d0/d40/a21177.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
+    [ "NextStep", "d0/d40/a21177.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
+    [ "Reset", "d0/d40/a21177.html#ab26d57690c1d2477678dc9759aefeab2", null ],
+    [ "Say", "d0/d40/a21177.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
+    [ "UpdateAI", "d0/d40/a21177.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
+    [ "_checkTimer", "d0/d40/a21177.html#a2adcf3f46d4003ae2044eda474e51983", null ],
+    [ "_running", "d0/d40/a21177.html#acd807afae6aa88c2e385765231a56a86", null ],
+    [ "_step", "d0/d40/a21177.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
 ];

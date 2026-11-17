@@ -1,10 +1,4 @@
 var a01967 =
 [
-    [ "DaysInMonth", "de/d46/a01967.html#abff9a870b94032b446650ea043e9983b", null ],
-    [ "IsLeapYear", "de/d46/a01967.html#a1cf1f3ca105c1ba63d7f783db70d91ae", null ],
-    [ "NormalizeDate", "de/d46/a01967.html#a867322206e11e2197b7815e7584eeaba", null ],
-    [ "sind", "de/d46/a01967.html#a6dd118cfa29609d98e0207909b863c88", null ],
-    [ "DEG_TO_RAD", "de/d46/a01967.html#a410b5189721a469108e809fbf4f6e601", null ],
-    [ "HolidayRules", "de/d46/a01967.html#a629dd822786c11d06b417c4326ae30fe", null ],
-    [ "PI", "de/d46/a01967.html#a299aabc5fc8285cbf99025330a3d0d0d", null ]
+    [ "ScriptRegistry< BattlefieldScript >", "de/d46/a01967.html#a66e07787094ffe5d2156ad0768c6dd4e", null ]
 ];

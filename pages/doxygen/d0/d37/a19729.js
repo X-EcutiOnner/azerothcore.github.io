@@ -1,6 +1,6 @@
 var a19729 =
 [
-    [ "boss_patchwerkAI", "d8/de4/a19733.html", "d8/de4/a19733" ],
-    [ "boss_patchwerk", "d0/d37/a19729.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
-    [ "GetAI", "d0/d37/a19729.html#a03f2dec61192405760958e26d998d67e", null ]
+    [ "boss_nothAI", "d8/de4/a19733.html", "d8/de4/a19733" ],
+    [ "boss_noth", "d0/d37/a19729.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "d0/d37/a19729.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

@@ -1,33 +1,22 @@
 var a01826 =
 [
-    [ "WardenModuleUse", "db/da1/a12374.html", "db/da1/a12374" ],
-    [ "WardenModuleTransfer", "dd/d40/a12378.html", "dd/d40/a12378" ],
-    [ "WardenHashRequest", "dc/dc1/a12382.html", "dc/dc1/a12382" ],
-    [ "ClientWardenModule", "d3/de1/a12386.html", "d3/de1/a12386" ],
-    [ "Warden", "d1/d54/a12390.html", "d1/d54/a12390" ],
-    [ "WardenCheckType", "d2/d45/a01826.html#a7598131f87414a66259189a0518ca6f2", [
-      [ "MEM_CHECK", "d2/d45/a01826.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074", null ],
-      [ "PAGE_CHECK_A", "d2/d45/a01826.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f", null ],
-      [ "PAGE_CHECK_B", "d2/d45/a01826.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87", null ],
-      [ "MPQ_CHECK", "d2/d45/a01826.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b", null ],
-      [ "LUA_EVAL_CHECK", "d2/d45/a01826.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada", null ],
-      [ "DRIVER_CHECK", "d2/d45/a01826.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93", null ],
-      [ "TIMING_CHECK", "d2/d45/a01826.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018", null ],
-      [ "PROC_CHECK", "d2/d45/a01826.html#a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d", null ],
-      [ "MODULE_CHECK", "d2/d45/a01826.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77", null ]
-    ] ],
-    [ "WardenOpcodes", "d2/d45/a01826.html#a8d0de714c4a4cf7a125c6187a7d19e51", [
-      [ "WARDEN_CMSG_MODULE_MISSING", "d2/d45/a01826.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4", null ],
-      [ "WARDEN_CMSG_MODULE_OK", "d2/d45/a01826.html#a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c", null ],
-      [ "WARDEN_CMSG_CHEAT_CHECKS_RESULT", "d2/d45/a01826.html#a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5", null ],
-      [ "WARDEN_CMSG_MEM_CHECKS_RESULT", "d2/d45/a01826.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f", null ],
-      [ "WARDEN_CMSG_HASH_RESULT", "d2/d45/a01826.html#a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed", null ],
-      [ "WARDEN_CMSG_MODULE_FAILED", "d2/d45/a01826.html#a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc", null ],
-      [ "WARDEN_SMSG_MODULE_USE", "d2/d45/a01826.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30", null ],
-      [ "WARDEN_SMSG_MODULE_CACHE", "d2/d45/a01826.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11", null ],
-      [ "WARDEN_SMSG_CHEAT_CHECKS_REQUEST", "d2/d45/a01826.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709", null ],
-      [ "WARDEN_SMSG_MODULE_INITIALIZE", "d2/d45/a01826.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8", null ],
-      [ "WARDEN_SMSG_MEM_CHECKS_REQUEST", "d2/d45/a01826.html#a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82", null ],
-      [ "WARDEN_SMSG_HASH_REQUEST", "d2/d45/a01826.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451", null ]
+    [ "ScriptPointMove", "d3/d39/a11029.html", "d3/d39/a11029" ],
+    [ "SystemMgr", "dc/dd8/a11033.html", "dc/dd8/a11033" ],
+    [ "sScriptSystemMgr", "d2/d45/a01826.html#a95cfdf568913b08b669f19b401f888a7", null ],
+    [ "TEXT_SOURCE_RANGE", "d2/d45/a01826.html#a55d384db121a9bd513042ebdeb40e602", null ],
+    [ "ScriptPointVector", "d2/d45/a01826.html#aab50bb2bd1f4c2c015d1ed573408733a", null ],
+    [ "eEscortFaction", "d2/d45/a01826.html#a3c2424ea523bc5d5e44a7fa49a67f476", [
+      [ "FACTION_ESCORT_A_NEUTRAL_PASSIVE", "d2/d45/a01826.html#a3c2424ea523bc5d5e44a7fa49a67f476ae8f5cc64dc2681d7820b83cf2706b6d9", null ],
+      [ "FACTION_ESCORT_H_NEUTRAL_PASSIVE", "d2/d45/a01826.html#a3c2424ea523bc5d5e44a7fa49a67f476a76f714900c0c47ea2066410f61de6bea", null ],
+      [ "FACTION_ESCORT_N_NEUTRAL_PASSIVE", "d2/d45/a01826.html#a3c2424ea523bc5d5e44a7fa49a67f476a19efd80bb177a094d312d3ad2c957e54", null ],
+      [ "FACTION_ESCORT_A_NEUTRAL_ACTIVE", "d2/d45/a01826.html#a3c2424ea523bc5d5e44a7fa49a67f476a38e0e3e6e5620e31120d084e73b63cf1", null ],
+      [ "FACTION_ESCORT_H_NEUTRAL_ACTIVE", "d2/d45/a01826.html#a3c2424ea523bc5d5e44a7fa49a67f476aa2786ec02fa5514ae8d0091a51d8dd04", null ],
+      [ "FACTION_ESCORT_N_NEUTRAL_ACTIVE", "d2/d45/a01826.html#a3c2424ea523bc5d5e44a7fa49a67f476aed8fe9002c1d3c315038f7df31c6f7ae", null ],
+      [ "FACTION_ESCORT_N_FRIEND_PASSIVE", "d2/d45/a01826.html#a3c2424ea523bc5d5e44a7fa49a67f476aac0cf8b8049ca4f1750637f7eaa1d96b", null ],
+      [ "FACTION_ESCORT_N_FRIEND_ACTIVE", "d2/d45/a01826.html#a3c2424ea523bc5d5e44a7fa49a67f476af9b814fa1617dc2a10a9764234998470", null ],
+      [ "FACTION_ESCORT_A_PASSIVE", "d2/d45/a01826.html#a3c2424ea523bc5d5e44a7fa49a67f476a569c2ddb2269af72a41a1a3cd525b013", null ],
+      [ "FACTION_ESCORT_H_PASSIVE", "d2/d45/a01826.html#a3c2424ea523bc5d5e44a7fa49a67f476ad766637f2bae4d1bbb75b2ac4ffd7e73", null ],
+      [ "FACTION_ESCORT_N_ACTIVE", "d2/d45/a01826.html#a3c2424ea523bc5d5e44a7fa49a67f476a088789de59f359faa6e7270fbc3282cb", null ],
+      [ "FACTION_ESCORT_H_ACTIVE", "d2/d45/a01826.html#a3c2424ea523bc5d5e44a7fa49a67f476aa84d311b43a21c70f8891649f42f48cb", null ]
     ] ]
 ];

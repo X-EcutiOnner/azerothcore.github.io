@@ -1,6 +1,6 @@
 var a20181 =
 [
-    [ "HandleApplyTouch", "d4/d90/a20181.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "d4/d90/a20181.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "d4/d90/a20181.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "HandleScript", "d4/d90/a20181.html#a992dbad02eab01824d870bdd3fca93d0", null ],
+    [ "PrepareSpellScript", "d4/d90/a20181.html#a0e6b4d1f59896a255929556baa943bdb", null ],
+    [ "Register", "d4/d90/a20181.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
 ];

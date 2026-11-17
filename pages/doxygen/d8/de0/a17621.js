@@ -1,6 +1,6 @@
 var a17621 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d0/ded/a17625.html", "d0/ded/a17625" ],
-    [ "npc_pos_collapsing_icicle", "d8/de0/a17621.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "d8/de0/a17621.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "npc_pos_icicle_triggerAI", "d0/ded/a17625.html", "d0/ded/a17625" ],
+    [ "npc_pos_icicle_trigger", "d8/de0/a17621.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
+    [ "GetAI", "d8/de0/a17621.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
 ];

@@ -1,16 +1,19 @@
 var a00458 =
 [
-    [ "RandomEngine", "da/dca/a05933.html", "da/dca/a05933" ],
-    [ "frand", "da/d65/a00458.html#aa28484fcb823a22578601847e4b0ddb4", null ],
-    [ "irand", "da/d65/a00458.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
-    [ "rand32", "da/d65/a00458.html#ab91ed86274e1e52eb314784862b61696", null ],
-    [ "rand_chance", "da/d65/a00458.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
-    [ "rand_norm", "da/d65/a00458.html#ad552d8147f66d6ec0cd44271e8799599", null ],
-    [ "randtime", "da/d65/a00458.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
-    [ "randtime", "da/d65/a00458.html#ad7a1463dbba108f4bfc0d800fa6f99c1", null ],
-    [ "roll_chance_f", "da/d65/a00458.html#a4b15099bc81731469c5078a778673c94", null ],
-    [ "roll_chance_i", "da/d65/a00458.html#a50320d4edff86db31b25138ae72161ad", null ],
-    [ "urand", "da/d65/a00458.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
-    [ "urandms", "da/d65/a00458.html#a1a4ee564518371004a4d34135600bfa0", null ],
-    [ "urandweighted", "da/d65/a00458.html#a673de62907a2657190e58678691d3b36", null ]
+    [ "VMAP::AreaAndLiquidData", "df/d8b/a05357.html", "df/d8b/a05357" ],
+    [ "VMAP::AreaAndLiquidData::AreaInfo", "d9/d1e/a05361.html", "d9/d1e/a05361" ],
+    [ "VMAP::AreaAndLiquidData::LiquidInfo", "d2/d8f/a05365.html", "d2/d8f/a05365" ],
+    [ "VMAP::IVMapMgr", "d0/deb/a05369.html", "d0/deb/a05369" ],
+    [ "VMAP_INVALID_HEIGHT", "da/d65/a00458.html#aa3e862468079e7d1ca850fab429fb316", null ],
+    [ "VMAP_INVALID_HEIGHT_VALUE", "da/d65/a00458.html#a6d0d846568e1fbb60e05aacfa9c1c73c", null ],
+    [ "LoadResult", "da/d65/a00458.html#a3ca4e45c9be5012fb1af06ea12b759c2", [
+      [ "Success", "da/d65/a00458.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38", null ],
+      [ "FileNotFound", "da/d65/a00458.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2", null ],
+      [ "VersionMismatch", "da/d65/a00458.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31", null ]
+    ] ],
+    [ "VMAP_LOAD_RESULT", "da/d65/a00458.html#a70f18a0d29fcdc21e145ab8306987b18", [
+      [ "VMAP_LOAD_RESULT_ERROR", "da/d65/a00458.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663", null ],
+      [ "VMAP_LOAD_RESULT_OK", "da/d65/a00458.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b", null ],
+      [ "VMAP_LOAD_RESULT_IGNORED", "da/d65/a00458.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165", null ]
+    ] ]
 ];

@@ -1,8 +1,8 @@
 var a17145 =
 [
-    [ "npc_mistress_of_pain", "db/d51/a17145.html#a3311d05b0b692e4d70de95ded21df23a", null ],
-    [ "EnterEvadeMode", "db/d51/a17145.html#a7d2e4cb30dbcf4993dbffd9bdd7b2db3", null ],
-    [ "JustDied", "db/d51/a17145.html#aa34fc8f7625f31fc872edd15d3c48686", null ],
-    [ "Reset", "db/d51/a17145.html#a0205ff2af278a7d6e44f0bfc179b022e", null ],
-    [ "UpdateAI", "db/d51/a17145.html#a5a6edfb39ee3fb710cd42311dc10b034", null ]
+    [ "npc_fel_infernal", "db/d51/a17145.html#a4d8f956193efd148948b48892fb47240", null ],
+    [ "EnterEvadeMode", "db/d51/a17145.html#a3a8ed8a9636f1002de3ef896575e033d", null ],
+    [ "JustDied", "db/d51/a17145.html#ac4dbf210111940e8e88b4112252d1a61", null ],
+    [ "Reset", "db/d51/a17145.html#a5618a5a696352d802bc1ec200768bd4f", null ],
+    [ "UpdateAI", "db/d51/a17145.html#a06f75ff314cd55b307f5c00a6254b409", null ]
 ];

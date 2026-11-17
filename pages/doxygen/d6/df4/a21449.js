@@ -1,6 +1,6 @@
 var a21449 =
 [
-    [ "boss_skadi_graufAI", "d4/d36/a21453.html", "d4/d36/a21453" ],
-    [ "boss_skadi_grauf", "d6/df4/a21449.html#a571db2d2ae21f38b7051319da0f042f6", null ],
-    [ "GetAI", "d6/df4/a21449.html#ab464e605bf001eee5517ad805066af57", null ]
+    [ "boss_skadiAI", "d4/d36/a21453.html", "d4/d36/a21453" ],
+    [ "boss_skadi", "d6/df4/a21449.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "d6/df4/a21449.html#ac2986670096fdd69a2e584bb9fcc1bbb", null ]
 ];

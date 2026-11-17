@@ -1,7 +1,7 @@
 var a20797 =
 [
-    [ "PrepareSpellScript", "d3/de8/a20797.html#afae92a0d4e41fc2fd00b1fd0b6b11a22", null ],
-    [ "PreventSummon", "d3/de8/a20797.html#a57fcc7a0e078c344e50863ba1951f244", null ],
-    [ "Register", "d3/de8/a20797.html#a3813bf7e198f5f3c146b4639fa83a067", null ],
-    [ "SetDest", "d3/de8/a20797.html#a4d49ebdf1dab3b4952e4f4c7c50ca16b", null ]
+    [ "FilterTargets", "d3/de8/a20797.html#a4ea7a7ee257a74c7ae1da47b9a75f852", null ],
+    [ "HandleScript", "d3/de8/a20797.html#a3b5fa94cdc2da133ae0cfaab9f949a57", null ],
+    [ "PrepareSpellScript", "d3/de8/a20797.html#a9e29a54a0c4bbc32b5d9fffe6d34a41d", null ],
+    [ "Register", "d3/de8/a20797.html#a53f90eb4dc7cdeab5bee4ab1a21691ac", null ]
 ];

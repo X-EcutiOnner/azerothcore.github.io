@@ -1,15 +1,6 @@
 var a21665 =
 [
-    [ "npc_vh_teleportation_portal", "da/d83/a21665.html#ae4ed2aebf39ab2593c07ba3098341c91", null ],
-    [ "JustDied", "da/d83/a21665.html#af86eefc8c9e4187e52c4dd88c41cbc38", null ],
-    [ "JustSummoned", "da/d83/a21665.html#ad3606d29d814232a492e9e3e85048bd7", null ],
-    [ "SummonedMobDied", "da/d83/a21665.html#aa58672b2022e44b90adc8bf331ee84fc", null ],
-    [ "UpdateAI", "da/d83/a21665.html#a3bb6021855bed917fdd2ef47f8ddca29", null ],
-    [ "_addValue", "da/d83/a21665.html#ad71dd5636c683cfac15423375c0dcc6d", null ],
-    [ "_events", "da/d83/a21665.html#a1eb415b24f794c8cbb0d01084eb09669", null ],
-    [ "_instance", "da/d83/a21665.html#acf09515827ae926fe83ffc87a7e35ac5", null ],
-    [ "_isKeeperOrGuardian", "da/d83/a21665.html#a7483553634133f980929aaeef39bd6a6", null ],
-    [ "_listOfMobs", "da/d83/a21665.html#a8856350d299bfb25a4e77bb8753afa14", null ],
-    [ "_spawned", "da/d83/a21665.html#ac89ccf4030e5dffe15d0b24b991176de", null ],
-    [ "_wave", "da/d83/a21665.html#a0d82b870a2f6bc0de62502f02fd8c1b4", null ]
+    [ "instance_violet_hold_InstanceMapScript", "d5/df7/a21669.html", "d5/df7/a21669" ],
+    [ "instance_violet_hold", "da/d83/a21665.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "da/d83/a21665.html#ab459840bcb0c8bcc58d20e658be0f63a", null ]
 ];

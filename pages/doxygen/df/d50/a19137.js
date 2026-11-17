@@ -1,13 +1,6 @@
 var a19137 =
 [
-    [ "npc_highlord_tirion_fordringAI", "df/d50/a19137.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "df/d50/a19137.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "df/d50/a19137.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "df/d50/a19137.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "df/d50/a19137.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "df/d50/a19137.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "df/d50/a19137.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "df/d50/a19137.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "df/d50/a19137.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "df/d50/a19137.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "CaptainSurviveTalk", "df/d50/a19137.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "df/d50/a19137.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "df/d50/a19137.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

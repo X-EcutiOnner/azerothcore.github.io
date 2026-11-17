@@ -1273,6 +1273,7 @@ var a09145 =
     [ "m_itemUpdateQueueBlocked", "d1/d04/a09145.html#afd3c3bdbe402e5163be3ab341da3229e", null ],
     [ "m_Last_tick", "d1/d04/a09145.html#af5d3e73781ab302069ef4946a692cdef", null ],
     [ "m_lastDailyQuestTime", "d1/d04/a09145.html#aac160a6a684f2d5549d2033aff5ffefc", null ],
+    [ "m_lastFallFromClient", "d1/d04/a09145.html#a5bcc13cf8a78b8482515eacf8964f26e", null ],
     [ "m_lastFallTime", "d1/d04/a09145.html#a20424a3f88f6a72bfc1fdfcc1a37ce0b", null ],
     [ "m_lastFallZ", "d1/d04/a09145.html#ab3f5c20476d2ec679e5d154f24dc4b92", null ],
     [ "m_lastHonorUpdateTime", "d1/d04/a09145.html#a3162271f7d4232fa106fc673164e4b53", null ],

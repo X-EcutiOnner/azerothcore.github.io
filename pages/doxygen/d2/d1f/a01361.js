@@ -1,14 +1,10 @@
 var a01361 =
 [
-    [ "BattlefieldScript", "de/d72/a10841.html", "de/d72/a10841" ],
-    [ "BattlefieldHook", "d2/d1f/a01361.html#ad9fb0d66e6cd28e54d79830f1d725089", [
-      [ "BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE", "d2/d1f/a01361.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235", null ],
-      [ "BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE", "d2/d1f/a01361.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007", null ],
-      [ "BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR", "d2/d1f/a01361.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6", null ],
-      [ "BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR", "d2/d1f/a01361.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab", null ],
-      [ "BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR", "d2/d1f/a01361.html#ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710", null ],
-      [ "BATTLEFIELDHOOK_ON_WAR_END", "d2/d1f/a01361.html#ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f", null ],
-      [ "BATTLEFIELDHOOK_ON_PLAYER_KILL", "d2/d1f/a01361.html#ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e", null ],
-      [ "BATTLEFIELDHOOK_END", "d2/d1f/a01361.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac", null ]
-    ] ]
+    [ "MovementGenerator", "db/d43/a10505.html", "db/d43/a10505" ],
+    [ "MovementGeneratorMedium< T, D >", "d6/d1c/a10509.html", "d6/d1c/a10509" ],
+    [ "MovementGeneratorFactory< Movement >", "df/d4d/a10513.html", "df/d4d/a10513" ],
+    [ "IdleMovementFactory", "d9/d8e/a10517.html", "d9/d8e/a10517" ],
+    [ "sMovementGeneratorRegistry", "d2/d1f/a01361.html#aa270c1b96e4671274975a07340ba687a", null ],
+    [ "MovementGeneratorCreator", "d2/d1f/a01361.html#ae7a6c44762ef974149bfb8d00247a013", null ],
+    [ "MovementGeneratorRegistry", "d2/d1f/a01361.html#ae78e82cd7b1aea7744a0dbb2e65f8e79", null ]
 ];

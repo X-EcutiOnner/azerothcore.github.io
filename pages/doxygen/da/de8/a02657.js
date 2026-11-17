@@ -1,8 +1,7 @@
 var a02657 =
 [
-    [ "ePoints", "da/de8/a02657.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "da/de8/a02657.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "da/de8/a02657.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "df/de4/a02651.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
-    ] ]
+    [ "StaticVMapCollisionData", "da/dc0/a10377.html", "da/dc0/a10377" ],
+    [ "DynamicVMapCollisionData", "d6/d1e/a10381.html", "d6/d1e/a10381" ],
+    [ "MMapData", "df/d90/a10385.html", "df/d90/a10385" ],
+    [ "MapCollisionData", "da/de8/a10389.html", "da/de8/a10389" ]
 ];

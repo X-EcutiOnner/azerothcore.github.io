@@ -1,6 +1,7 @@
 var a24365 =
 [
-    [ "CheckCast", "dd/dd7/a24365.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "dd/dd7/a24365.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "dd/dd7/a24365.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "npc_maxx_a_million_escortAI", "df/d68/a24369.html", "df/d68/a24369" ],
+    [ "npc_maxx_a_million_escort", "dd/dd7/a24365.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "dd/dd7/a24365.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "dd/dd7/a24365.html#aa9a3c655ed09b1264afd8e9ca6965bf5", null ]
 ];

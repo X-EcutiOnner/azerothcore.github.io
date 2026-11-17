@@ -1,6 +1,8 @@
 var a21709 =
 [
-    [ "HandleEffectPeriodic", "de/d01/a21709.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "de/d01/a21709.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "de/d01/a21709.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_azure_sorceror", "de/d01/a21709.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
+    [ "Reset", "de/d01/a21709.html#af4bc0ff9b938302c399bff528dd06769", null ],
+    [ "UpdateAI", "de/d01/a21709.html#a36675e89aab24a92589a33f88fbec2bd", null ],
+    [ "_arcaneStreamOnCooldown", "de/d01/a21709.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
+    [ "_events", "de/d01/a21709.html#a3bd018057b31c90afd19ac6943d44591", null ]
 ];

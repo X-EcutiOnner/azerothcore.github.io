@@ -1,18 +1,13 @@
 var a00227 =
 [
-    [ "CascadeProcSuppressionTest", "db/dc1/a30149.html", "db/dc1/a30149" ],
-    [ "RealSpellTestCase", "d3/d6d/a30153.html", "d3/d6d/a30153" ],
-    [ "CascadeProcRealSpellTest", "d2/d84/a30157.html", null ],
-    [ "INSTANTIATE_TEST_SUITE_P", "d9/d01/a00227.html#a567300126c458aa8f2a67a6b61cfe64b", null ],
-    [ "TEST_F", "d9/d01/a00227.html#a0fa51afabb656e204b564ca6fb0edc9c", null ],
-    [ "TEST_F", "d9/d01/a00227.html#a111eadd5b4ba536e22a70ee1ac1a8010", null ],
-    [ "TEST_F", "d9/d01/a00227.html#af2c476b9074527e551bb3e269ab0e14a", null ],
-    [ "TEST_F", "d9/d01/a00227.html#a693bf0209a8095129fc2244a0684ad9f", null ],
-    [ "TEST_F", "d9/d01/a00227.html#aa63b24064ef385ae513247b6228bc97d", null ],
-    [ "TEST_F", "d9/d01/a00227.html#a1d712040cde4f4fc1498c86d1a8c1a2c", null ],
-    [ "TEST_F", "d9/d01/a00227.html#ab78bd7e3715bc34e2a980043d6ac2cae", null ],
-    [ "TEST_F", "d9/d01/a00227.html#ae7f0c3a70baa5f99f17ebd2079eec6d6", null ],
-    [ "TEST_F", "d9/d01/a00227.html#acdeb87fc2a70920a25f69077f5b9f3bc", null ],
-    [ "TEST_F", "d9/d01/a00227.html#a16cd6603e2c42c8fb68258736fe6daf1", null ],
-    [ "TEST_P", "d9/d01/a00227.html#af27813ec1b49f5d720e19dabde2474bf", null ]
+    [ "GameObjectSummonGroupTest", "d5/dd9/a30121.html", "d5/dd9/a30121" ],
+    [ "TEST_F", "d9/d01/a00227.html#a853ab9b01e00d9b9106d0802d3ce5c3f", null ],
+    [ "TEST_F", "d9/d01/a00227.html#aae7159cdf8db068232caa791b826eb7a", null ],
+    [ "TEST_F", "d9/d01/a00227.html#ab7d11f87ee9e631646024c59d17e4476", null ],
+    [ "TEST_F", "d9/d01/a00227.html#a67cd5610a4da8f7101009bd9c59bc82e", null ],
+    [ "TEST_F", "d9/d01/a00227.html#acfeec4740011bc0a61ca33d9e41a00d6", null ],
+    [ "TEST_F", "d9/d01/a00227.html#a23d5442e6e9d8a8eb8b81d8c594dcb44", null ],
+    [ "TEST_F", "d9/d01/a00227.html#a6b4d8d5065242a959f3b761c930eb11f", null ],
+    [ "TEST_F", "d9/d01/a00227.html#a0e990a163a2003f6224aa808aeb46965", null ],
+    [ "TEST_F", "d9/d01/a00227.html#a54823c95da2a0c478c7fc82bafb5075e", null ]
 ];

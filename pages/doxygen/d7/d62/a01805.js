@@ -1,4 +1,5 @@
 var a01805 =
 [
-    [ "AH_MINIMUM_DEPOSIT", "d7/d62/a01805.html#ae6debe42dd0e5674dcf1b874cebafe98", null ]
+    [ "_ModifyUInt32", "d7/d62/a01805.html#ab53d40bc3b1cf5c14440f3e212aa4f08", null ],
+    [ "m_diminishing_k", "d7/d62/a01805.html#a826ceb2644eb2661137e2983dd779164", null ]
 ];

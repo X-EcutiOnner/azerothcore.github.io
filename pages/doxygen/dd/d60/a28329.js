@@ -1,9 +1,11 @@
 var a28329 =
 [
-    [ "boss_ysondreAI", "dd/d60/a28329.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
-    [ "DamageTaken", "dd/d60/a28329.html#a99ee250e776001bb142815fc711ae75d", null ],
-    [ "ExecuteEvent", "dd/d60/a28329.html#a88e3caa536a71730c757590be1bd3de1", null ],
-    [ "JustEngagedWith", "dd/d60/a28329.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
-    [ "Reset", "dd/d60/a28329.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
-    [ "_stage", "dd/d60/a28329.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
+    [ "npc_dream_fogAI", "dd/d60/a28329.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
+    [ "GetRandomUnitFromDragonThreatList", "dd/d60/a28329.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
+    [ "Reset", "dd/d60/a28329.html#a595eeeae54d4bf323287fc408f706ac6", null ],
+    [ "ScheduleEvents", "dd/d60/a28329.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
+    [ "SetGUID", "dd/d60/a28329.html#a3666423921a5405ea220ba098f3f91fe", null ],
+    [ "UpdateAI", "dd/d60/a28329.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
+    [ "_dragonGUID", "dd/d60/a28329.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
+    [ "_targetGUID", "dd/d60/a28329.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
 ];

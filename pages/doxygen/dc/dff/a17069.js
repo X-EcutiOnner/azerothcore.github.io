@@ -1,6 +1,8 @@
 var a17069 =
 [
-    [ "npc_toc_boomkinAI", "d1/de2/a17073.html", "d1/de2/a17073" ],
-    [ "npc_toc_boomkin", "dc/dff/a17069.html#a17274ff748cd364592a551ad2c547eac", null ],
-    [ "GetAI", "dc/dff/a17069.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
+    [ "npc_toc_hunterAI", "dc/dff/a17069.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "dc/dff/a17069.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "dc/dff/a17069.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "dc/dff/a17069.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "dc/dff/a17069.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

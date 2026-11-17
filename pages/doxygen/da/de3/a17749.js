@@ -1,6 +1,7 @@
 var a17749 =
 [
-    [ "boss_moorabiAI", "db/d25/a17753.html", "db/d25/a17753" ],
-    [ "boss_moorabi", "da/de3/a17749.html#a94e14b2a9b06143985f785e781d1c302", null ],
-    [ "GetAI", "da/de3/a17749.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
+    [ "HandleScriptEffect", "da/de3/a17749.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
+    [ "PrepareSpellScript", "da/de3/a17749.html#aac410690d906867216b40a49d8f15318", null ],
+    [ "Register", "da/de3/a17749.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
+    [ "Validate", "da/de3/a17749.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
 ];

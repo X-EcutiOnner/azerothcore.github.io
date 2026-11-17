@@ -1,7 +1,10 @@
 var a01379 =
 [
-    [ "anonymous_namespace{ScriptMgr.cpp}::ScriptTypeInfo< Script, EnabledHookCountValue, PromotedAfterDbLoadValue, LegacyDbValidationValue >", "d2/dc7/a10990.html", "d2/dc7/a10990" ],
-    [ "TSpellSummary", "dd/ddf/a06670.html", "dd/ddf/a06670" ],
-    [ "ScriptRegistryTypes", "d0/d9b/a01379.html#a0e91545a04304e85e47b9e1697318ecb", null ],
-    [ "SpellSummary", "d0/d9b/a01379.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
+    [ "GetChaseRange", "d0/d9b/a01379.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
+    [ "GetTargetSpeedInMotion", "d0/d9b/a01379.html#a56719695683e0a1fbeaeb49d31f62d74", null ],
+    [ "GetVelocity", "d0/d9b/a01379.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
+    [ "IsMutualChase", "d0/d9b/a01379.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
+    [ "IsValidPredictedPosition", "d0/d9b/a01379.html#a27995927630ed43ca4a79dff89cfb99c", null ],
+    [ "PredictPosition", "d0/d9b/a01379.html#ada5b031ff95410ba84fd734c95c68099", null ],
+    [ "FOLLOW_CATCHUP_MAX_MULTIPLIER", "d0/d9b/a01379.html#ade9b07d0443f1dea9260aaecaebcc638", null ]
 ];

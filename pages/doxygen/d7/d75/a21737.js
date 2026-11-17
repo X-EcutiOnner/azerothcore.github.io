@@ -1,5 +1,6 @@
 var a21737 =
 [
-    [ "npc_nerubar_victim", "d7/d75/a21737.html#a218a0091d3dd5c237f49f7b2797c54d7", null ],
-    [ "JustDied", "d7/d75/a21737.html#a969b3f15d0017978e77d34131815c7e4", null ]
+    [ "npc_khunok_the_behemothAI", "db/da5/a21741.html", "db/da5/a21741" ],
+    [ "npc_khunok_the_behemoth", "d7/d75/a21737.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "d7/d75/a21737.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

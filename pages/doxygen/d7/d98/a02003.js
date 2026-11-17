@@ -1,6 +1,12 @@
 var a02003 =
 [
-    [ "Acore::WorldWorldTextBuilder", "d6/db3/a12473.html", "d6/db3/a12473" ],
-    [ "getWorldInstance", "d3/dc0/a05140.html#ga6bf640d0ef6703c32d9fa1618826319b", null ],
-    [ "realm", "d3/dc0/a05140.html#gab842e78f86995775c494437356620779", null ]
+    [ "ArenaTeamScript", "d4/d71/a10833.html", "d4/d71/a10833" ],
+    [ "ArenaTeamHook", "d7/d98/a02003.html#adfb7077026efd17516d6b85637c2b218", [
+      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d7/d98/a02003.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
+      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d7/d98/a02003.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
+      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d7/d98/a02003.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
+      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d7/d98/a02003.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
+      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d7/d98/a02003.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
+      [ "ARENATEAMHOOK_END", "d7/d98/a02003.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
+    ] ]
 ];

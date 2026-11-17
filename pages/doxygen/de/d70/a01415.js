@@ -1,7 +1,9 @@
 var a01415 =
 [
-    [ "Acore::Impl::ChatCommands::FilteredCommandListIterator", "df/d1c/a08025.html", "df/d1c/a08025" ],
-    [ "ChatSubCommandMap", "de/d70/a01415.html#a306b7e46fd4791f088a8919720238f3d", null ],
-    [ "LogCommandUsage", "de/d70/a01415.html#a8dc2bbcf5b90559262a46829632f332e", null ],
-    [ "COMMAND_MAP", "de/d70/a01415.html#a569e79432c3876f4ac0b961e8a783003", null ]
+    [ "PathMovementBase< T, P >", "df/d04/a10597.html", "df/d04/a10597" ],
+    [ "WaypointMovementGenerator< Creature >", "dc/d4a/a10605.html", "dc/d4a/a10605" ],
+    [ "FlightPathMovementGenerator", "d6/d4c/a10609.html", "d6/d4c/a10609" ],
+    [ "FlightPathMovementGenerator::TaxiNodeChangeInfo", "df/d4e/a10613.html", "df/d4e/a10613" ],
+    [ "FLIGHT_TRAVEL_UPDATE", "de/d70/a01415.html#af2d292bdefbb6db76ff3201ac0c0cdd6", null ],
+    [ "TIMEDIFF_NEXT_WP", "de/d70/a01415.html#afcff81f45a877feac68bf5bcae913560", null ]
 ];

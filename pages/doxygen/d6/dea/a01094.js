@@ -1,4 +1,22 @@
 var a01094 =
 [
-    [ "ScriptRegistry< WorldMapScript >", "d6/dea/a01094.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
+    [ "ServerMailCondition", "d0/d60/a10285.html", "d0/d60/a10285" ],
+    [ "ServerMailItems", "d7/d0e/a10289.html", "d7/d0e/a10289" ],
+    [ "ServerMail", "d6/df6/a10293.html", "d6/df6/a10293" ],
+    [ "ServerMailMgr", "d8/d52/a10297.html", "d8/d52/a10297" ],
+    [ "sServerMailMgr", "d6/dea/a01094.html#a6423d219eaead162b40b6021eadca0c4", null ],
+    [ "ServerMailContainer", "d6/dea/a01094.html#a9c10c94a0a8508b3af2e92d3455d063b", null ],
+    [ "ServerMailConditionType", "d6/dea/a01094.html#ab25c41bc314095f74fe678a33e086a2b", [
+      [ "Invalid", "d6/dea/a01094.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b", null ],
+      [ "Level", "d6/dea/a01094.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153", null ],
+      [ "PlayTime", "d6/dea/a01094.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3", null ],
+      [ "Quest", "d6/dea/a01094.html#ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d", null ],
+      [ "Achievement", "d6/dea/a01094.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e", null ],
+      [ "Reputation", "d6/dea/a01094.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092", null ],
+      [ "Faction", "d6/dea/a01094.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201", null ],
+      [ "Race", "d6/dea/a01094.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879", null ],
+      [ "Class", "d6/dea/a01094.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "AccountFlags", "d6/dea/a01094.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225", null ]
+    ] ],
+    [ "ServerMailConditionTypePairs", "d6/dea/a01094.html#af981b509cb816fa6720cf16cceaa9081", null ]
 ];

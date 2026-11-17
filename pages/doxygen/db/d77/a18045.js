@@ -1,7 +1,8 @@
 var a18045 =
 [
-    [ "HandleScript", "db/d77/a18045.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "db/d77/a18045.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "db/d77/a18045.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "db/d77/a18045.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "HandleHit", "db/d77/a18045.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
+    [ "HandleScript", "db/d77/a18045.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
+    [ "Load", "db/d77/a18045.html#ab1d81386ae3ccd332c01864d7f456017", null ],
+    [ "PrepareSpellScript", "db/d77/a18045.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
+    [ "Register", "db/d77/a18045.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
 ];

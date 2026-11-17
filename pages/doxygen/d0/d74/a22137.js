@@ -1,6 +1,6 @@
 var a22137 =
 [
-    [ "npc_lake_frogAI", "d7/df6/a22141.html", "d7/df6/a22141" ],
-    [ "npc_lake_frog", "d0/d74/a22137.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
-    [ "GetAI", "d0/d74/a22137.html#a9730da684a81fced304f10b2806c10e5", null ]
+    [ "npc_venture_co_stragglerAI", "d7/df6/a22141.html", "d7/df6/a22141" ],
+    [ "npc_venture_co_straggler", "d0/d74/a22137.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "d0/d74/a22137.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

@@ -1,6 +1,6 @@
 var a18865 =
 [
-    [ "ModDestHeight", "d3/d8c/a18865.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "d3/d8c/a18865.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "d3/d8c/a18865.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "npc_valkyr_shadowguardAI", "d9/d29/a18869.html", "d9/d29/a18869" ],
+    [ "npc_valkyr_shadowguard", "d3/d8c/a18865.html#a8ee90e21499eebf240c57419454c3829", null ],
+    [ "GetAI", "d3/d8c/a18865.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
 ];

@@ -1,4 +1,11 @@
 var a01187 =
 [
-    [ "ScriptRegistry< ModuleScript >", "dc/d70/a01187.html#a7749cbcc2b6820dc30c515ebb6cefe36", null ]
+    [ "SkillDiscoveryEntry", "de/da2/a11929.html", "de/da2/a11929" ],
+    [ "SkillDiscoveryList", "dc/d70/a01187.html#a0c80a6b86b3b7bd5e9c238efa802919b", null ],
+    [ "SkillDiscoveryMap", "dc/d70/a01187.html#ab7ec6a8662e4edd3167deb3c917d2eab", null ],
+    [ "GetExplicitDiscoverySpell", "dc/d70/a01187.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
+    [ "GetSkillDiscoverySpell", "dc/d70/a01187.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
+    [ "HasDiscoveredAllSpells", "dc/d70/a01187.html#abdf3c2fcf65212466dfb54053e35024c", null ],
+    [ "LoadSkillDiscoveryTable", "dc/d70/a01187.html#addd95f0a239a27ed32cd943aa1052019", null ],
+    [ "SkillDiscoveryStore", "dc/d70/a01187.html#a1d624484e07efeeabc8a73a10c75ca4d", null ]
 ];

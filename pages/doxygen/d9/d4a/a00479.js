@@ -1,14 +1,7 @@
 var a00479 =
 [
-    [ "go_main_chambers_access_panel", "d9/ddd/a23606.html", "d9/ddd/a23606" ],
-    [ "instance_steam_vault", "df/d43/a23610.html", "df/d43/a23610" ],
-    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "d9/df4/a23614.html", "d9/df4/a23614" ],
-    [ "MainChambersAccessPanelSays", "d9/d4a/a00479.html#aa8d293574a308aad41f620556eb63b6a", [
-      [ "SAY_FAINT_ECHO", "d9/d4a/a00479.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
-      [ "SAY_LOUD_RUMBLE", "d9/d4a/a00479.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
-    ] ],
-    [ "AddSC_instance_steam_vault", "d9/d4a/a00479.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
-    [ "creatureData", "d9/d4a/a00479.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "minionData", "d9/d4a/a00479.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "objectData", "d9/d4a/a00479.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
+    [ "VMAP::GroupLocationInfo", "dc/d67/a05413.html", "dc/d67/a05413" ],
+    [ "VMAP::LocationInfo", "d6/dd2/a05417.html", "d6/dd2/a05417" ],
+    [ "VMAP::StaticMapTree", "d2/d1d/a05421.html", "d2/d1d/a05421" ],
+    [ "VMAP::AreaInfo", "d7/dde/a05425.html", "d7/dde/a05425" ]
 ];

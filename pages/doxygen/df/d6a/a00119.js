@@ -1,15 +1,18 @@
 var a00119 =
 [
-    [ "ProcChanceTestHelper", "d5/da8/a29825.html", "d5/da8/a29825" ],
-    [ "ProcChanceTestHelper::TriggeredSpellConfig", "de/d42/a29829.html", "de/d42/a29829" ],
-    [ "ProcChanceTestHelper::ExtraAttackProcConfig", "d8/dd2/a29833.html", "d8/dd2/a29833" ],
-    [ "ProcChanceTestHelper::PPMModifierConfig", "de/d88/a29837.html", "de/d88/a29837" ],
-    [ "ProcChanceTestHelper::EquipmentConfig", "dc/d69/a29841.html", "dc/d69/a29841" ],
-    [ "ProcChanceTestHelper::CascadeProcConfig", "db/dc1/a29845.html", "db/dc1/a29845" ],
-    [ "ProcChanceTestHelper::TakenAutoTriggerConfig", "d9/dc1/a29849.html", "d9/dc1/a29849" ],
-    [ "ProcChanceTestHelper::ConditionsConfig", "db/de6/a29853.html", "db/de6/a29853" ],
-    [ "ProcTestScenario", "d6/d4e/a29857.html", "d6/d4e/a29857" ],
-    [ "ProcChainGuardSimulator", "d7/d1b/a29861.html", "d7/d1b/a29861" ],
-    [ "ProcChainGuardSimulator::AuraConfig", "d6/d12/a29865.html", "d6/d12/a29865" ],
-    [ "ProcChainGuardSimulator::ProcRecord", "dc/dc0/a29869.html", "dc/dc0/a29869" ]
+    [ "CascadeProcSuppressionTest", "d2/d84/a30157.html", "d2/d84/a30157" ],
+    [ "RealSpellTestCase", "df/dfa/a30161.html", "df/dfa/a30161" ],
+    [ "CascadeProcRealSpellTest", "dc/d99/a30165.html", null ],
+    [ "INSTANTIATE_TEST_SUITE_P", "df/d6a/a00119.html#a567300126c458aa8f2a67a6b61cfe64b", null ],
+    [ "TEST_F", "df/d6a/a00119.html#a0fa51afabb656e204b564ca6fb0edc9c", null ],
+    [ "TEST_F", "df/d6a/a00119.html#a111eadd5b4ba536e22a70ee1ac1a8010", null ],
+    [ "TEST_F", "df/d6a/a00119.html#af2c476b9074527e551bb3e269ab0e14a", null ],
+    [ "TEST_F", "df/d6a/a00119.html#a693bf0209a8095129fc2244a0684ad9f", null ],
+    [ "TEST_F", "df/d6a/a00119.html#aa63b24064ef385ae513247b6228bc97d", null ],
+    [ "TEST_F", "df/d6a/a00119.html#a1d712040cde4f4fc1498c86d1a8c1a2c", null ],
+    [ "TEST_F", "df/d6a/a00119.html#ab78bd7e3715bc34e2a980043d6ac2cae", null ],
+    [ "TEST_F", "df/d6a/a00119.html#ae7f0c3a70baa5f99f17ebd2079eec6d6", null ],
+    [ "TEST_F", "df/d6a/a00119.html#acdeb87fc2a70920a25f69077f5b9f3bc", null ],
+    [ "TEST_F", "df/d6a/a00119.html#a16cd6603e2c42c8fb68258736fe6daf1", null ],
+    [ "TEST_P", "df/d6a/a00119.html#af27813ec1b49f5d720e19dabde2474bf", null ]
 ];

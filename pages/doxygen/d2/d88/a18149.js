@@ -1,6 +1,6 @@
 var a18149 =
 [
-    [ "npc_gunship_mageAI", "d4/d69/a18153.html", "d4/d69/a18153" ],
-    [ "npc_gunship_mage", "d2/d88/a18149.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
-    [ "GetAI", "d2/d88/a18149.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
+    [ "npc_gunship_boarding_add_realAI", "d4/d69/a18153.html", "d4/d69/a18153" ],
+    [ "npc_gunship_boarding_add", "d2/d88/a18149.html#aa80871f80bae7186d3665f73d757e108", null ],
+    [ "GetAI", "d2/d88/a18149.html#ad7e173bffccca6d852ba545427235447", null ]
 ];

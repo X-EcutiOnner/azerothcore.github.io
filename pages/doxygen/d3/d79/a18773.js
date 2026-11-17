@@ -1,8 +1,6 @@
 var a18773 =
 [
-    [ "FilterTargets", "d3/d79/a18773.html#a242fa53c2da9ac557623281bccf2af92", null ],
-    [ "HandleSendEvent", "d3/d79/a18773.html#a6120e057e2ee39d34eaeab79782add8d", null ],
-    [ "Load", "d3/d79/a18773.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
-    [ "PrepareSpellScript", "d3/d79/a18773.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
-    [ "Register", "d3/d79/a18773.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
+    [ "npc_tirion_fordringAI", "d0/d99/a18777.html", "d0/d99/a18777" ],
+    [ "npc_tirion_fordring_tft", "d3/d79/a18773.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "d3/d79/a18773.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

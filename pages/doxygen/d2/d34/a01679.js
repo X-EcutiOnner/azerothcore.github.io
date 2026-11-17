@@ -1,9 +1,16 @@
 var a01679 =
 [
-    [ "MapType", "d2/d34/a01679.html#a2a540ae6cb73c9914f0253464b155227", null ],
-    [ "Find", "d2/d34/a01679.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
-    [ "Insert", "d2/d34/a01679.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
-    [ "Remove", "d2/d34/a01679.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
-    [ "RemoveByName", "d2/d34/a01679.html#a9c5298580060e7a6078ffb5f4008c549", null ],
-    [ "PlayerNameMap", "d2/d34/a01679.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
+    [ "GameObjectTemplate", "d9/d80/a08697.html", "d9/d80/a08697" ],
+    [ "GameObjectTemplateAddon", "d6/db6/a08821.html", "d6/db6/a08821" ],
+    [ "GameObjectLocale", "d7/df0/a08825.html", "d7/df0/a08825" ],
+    [ "QuaternionData", "d0/d6b/a08829.html", "d0/d6b/a08829" ],
+    [ "GameObjectAddon", "db/d9b/a08833.html", "db/d9b/a08833" ],
+    [ "GameObjectData", "d4/dd7/a08837.html", "d4/dd7/a08837" ],
+    [ "MAX_GAMEOBJECT_QUEST_ITEMS", "d2/d34/a01679.html#a7698721f2eb4f87abac1a64a64ecf676", null ],
+    [ "MAX_GO_STATE", "d2/d34/a01679.html#ac148792c2982ecdddc593bf3871aa520", null ],
+    [ "GOState", "d2/d34/a01679.html#ac17cd142af80da019367bb796b15e5ab", [
+      [ "GO_STATE_ACTIVE", "d2/d34/a01679.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e", null ],
+      [ "GO_STATE_READY", "d2/d34/a01679.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650", null ],
+      [ "GO_STATE_ACTIVE_ALTERNATIVE", "d2/d34/a01679.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e", null ]
+    ] ]
 ];

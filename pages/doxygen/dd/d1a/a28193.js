@@ -1,7 +1,7 @@
 var a28193 =
 [
-    [ "HandleDummy", "dd/d1a/a28193.html#a120ae48454922c30b0df0a1caf464216", null ],
-    [ "PrepareSpellScript", "dd/d1a/a28193.html#ad8cde850116b8d4beef798724c6e4283", null ],
-    [ "Register", "dd/d1a/a28193.html#a516709e073a7cc84ada03058195da728", null ],
-    [ "Validate", "dd/d1a/a28193.html#ad647af566f06c7e76ef573f670d514ca", null ]
+    [ "HandleProc", "dd/d1a/a28193.html#ae41ac4278c643bcd14ff4ab0ecc6dc46", null ],
+    [ "PrepareAuraScript", "dd/d1a/a28193.html#abdb4073728e7e637a8538a238eda2f6d", null ],
+    [ "Register", "dd/d1a/a28193.html#a052f2a48c2b30b5e83c95eb4aada0899", null ],
+    [ "Validate", "dd/d1a/a28193.html#a04085f70b61ea7ff2073a1cd777eca1b", null ]
 ];

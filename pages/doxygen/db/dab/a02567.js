@@ -1,17 +1,12 @@
 var a02567 =
 [
-    [ "SmartAI", "d6/d8a/a06729.html", "d6/d8a/a06729" ],
-    [ "SmartGameObjectAI", "d9/d82/a06733.html", "d9/d82/a06733" ],
-    [ "DISTANCING_CONSTANT", "db/dab/a02567.html#a9a381b0c4b9dc5403d4a93b3afb19dff", null ],
-    [ "SmartEscortState", "db/dab/a02567.html#a0911043eb49fd7958a828a60e0537d54", [
-      [ "SMART_ESCORT_NONE", "db/dab/a02567.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
-      [ "SMART_ESCORT_ESCORTING", "db/dab/a02567.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],
-      [ "SMART_ESCORT_RETURNING", "db/dab/a02567.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8", null ],
-      [ "SMART_ESCORT_PAUSED", "db/dab/a02567.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7", null ]
-    ] ],
-    [ "SmartEscortVars", "db/dab/a02567.html#a598eb331d977fa893d589fe3e6cebfbf", [
-      [ "SMART_ESCORT_MAX_PLAYER_DIST", "db/dab/a02567.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba", null ],
-      [ "SMART_MAX_AID_DIST", "db/dab/a02567.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f", null ]
-    ] ],
-    [ "AddSC_SmartScripts", "db/dab/a02567.html#ab6012619ba76775b314475ec60f8c7d7", null ]
+    [ "AddonInfo", "db/d66/a06537.html", "db/d66/a06537" ],
+    [ "SavedAddon", "d1/dbd/a06541.html", "d1/dbd/a06541" ],
+    [ "BannedAddon", "d4/d01/a06545.html", "d4/d01/a06545" ],
+    [ "STANDARD_ADDON_CRC", "db/dab/a02567.html#a084249e215f787f3163d5d06ad2d256f", null ],
+    [ "BannedAddonList", "db/dab/a02567.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
+    [ "GetAddonInfo", "db/dab/a02567.html#a6edf9a462d4afcaff40e69da1e75cca5", null ],
+    [ "GetBannedAddons", "db/dab/a02567.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "db/dab/a02567.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "db/dab/a02567.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
 ];

@@ -1,10 +1,7 @@
 var a21749 =
 [
-    [ "npc_lurgglbrAI", "d0/da2/a21749.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "d0/da2/a21749.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "d0/da2/a21749.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "d0/da2/a21749.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "WaypointReached", "d0/da2/a21749.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "IntroPhase", "d0/da2/a21749.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "d0/da2/a21749.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "HandleScriptEffect", "d0/da2/a21749.html#a0c6b2f8713f59b3048224f0cb7786913", null ],
+    [ "PrepareSpellScript", "d0/da2/a21749.html#adf4c5fb99c1ea11c984bffd9b54ee7ce", null ],
+    [ "Register", "d0/da2/a21749.html#acef977e377c9d6e638056223256da4ef", null ],
+    [ "Validate", "d0/da2/a21749.html#aaecfe98d6c72c2675bf83d586588dbc0", null ]
 ];

@@ -1,5 +1,6 @@
 var a26105 =
 [
-    [ "PrepareSpellScript", "d8/d64/a26105.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
-    [ "Register", "d8/d64/a26105.html#af8f8b5901a068bef3e2663809180b3e2", null ]
+    [ "HandleActivateObject", "d8/d64/a26105.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
+    [ "PrepareSpellScript", "d8/d64/a26105.html#a684079434128bacd3d8b8b71c14dc56a", null ],
+    [ "Register", "d8/d64/a26105.html#a266301f59c809c03d0ccfc48a2ace302", null ]
 ];

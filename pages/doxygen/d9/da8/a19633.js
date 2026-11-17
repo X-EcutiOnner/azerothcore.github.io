@@ -1,11 +1,7 @@
 var a19633 =
 [
-    [ "boss_grobbulusAI", "d9/da8/a19633.html#ad9e7cd519e30eded06f76bcc69189117", null ],
-    [ "JustEngagedWith", "d9/da8/a19633.html#a4c74d53fe029d02df9652dbb87a09242", null ],
-    [ "JustSummoned", "d9/da8/a19633.html#af266d40889fbecd50a118a579b711757", null ],
-    [ "KilledUnit", "d9/da8/a19633.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
-    [ "PullChamberAdds", "d9/da8/a19633.html#a0d68b84c035bb8b4b16075116a6d7992", null ],
-    [ "Reset", "d9/da8/a19633.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
-    [ "UpdateAI", "d9/da8/a19633.html#aafd79debbe76b02a1478c03daf235b05", null ],
-    [ "dropSludgeTimer", "d9/da8/a19633.html#a5fdcf157f498b8e47d6380b03fe819d6", null ]
+    [ "FilterTargets", "d9/da8/a19633.html#a56ff062a6014099623466145a66284cc", null ],
+    [ "PrepareSpellScript", "d9/da8/a19633.html#aa14623bb948ff457e52979facf74ffab", null ],
+    [ "Register", "d9/da8/a19633.html#a9494bea35088161c9a520395d714fde1", null ],
+    [ "Validate", "d9/da8/a19633.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
 ];

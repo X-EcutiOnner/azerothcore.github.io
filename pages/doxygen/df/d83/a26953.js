@@ -1,11 +1,9 @@
 var a26953 =
 [
-    [ "CheckCast", "df/d83/a26953.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
-    [ "HandleMaxHealthHeal", "df/d83/a26953.html#a019833641487ac07cb2c8740d5686a41", null ],
-    [ "HandleScript", "df/d83/a26953.html#a35b9d69b8147ef06527b8533ef376e72", null ],
-    [ "Load", "df/d83/a26953.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
-    [ "PrepareSpellScript", "df/d83/a26953.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
-    [ "Register", "df/d83/a26953.html#afd716f555ac73287bd268c6124b15b1c", null ],
-    [ "Validate", "df/d83/a26953.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
-    [ "_manaAmount", "df/d83/a26953.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
+    [ "spell_pal_judgement", "df/d83/a26953.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "df/d83/a26953.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "df/d83/a26953.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "df/d83/a26953.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "Validate", "df/d83/a26953.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "df/d83/a26953.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

@@ -1,7 +1,11 @@
 var a02282 =
 [
-    [ "operator<<", "d5/d49/a02282.html#a71323635f122d24189054da615cb39e1", null ],
-    [ "operator<<", "d5/d49/a02282.html#ab63323f8a9ade40ddd90338538b5c9b5", null ],
-    [ "operator>>", "d5/d49/a02282.html#a72e22c3226b5f361848aef2c75a6d3fb", null ],
-    [ "operator>>", "d5/d49/a02282.html#af223d782e9dcf0f80ed4009360aa0d80", null ]
+    [ "BaseGain", "d5/d49/a02282.html#ada8e56c81ab672d85f2ff274d109e477", null ],
+    [ "Gain", "d5/d49/a02282.html#ab923dd9a0df7d75127965b40539d4a10", null ],
+    [ "GetColorCode", "d5/d49/a02282.html#a812c722ab7eb34807d8cad9659d34245", null ],
+    [ "GetGrayLevel", "d5/d49/a02282.html#a9c310a4423fd5ada14fac549e4b1a6fd", null ],
+    [ "GetZeroDifference", "d5/d49/a02282.html#a4152e9ef9972f6a20cbc990dce953c36", null ],
+    [ "hk_honor_at_level", "d5/d49/a02282.html#ad25519337dcc6370a39a072c53386f55", null ],
+    [ "hk_honor_at_level_f", "d5/d49/a02282.html#a218866625f1b3b8224fb44f5a0c8b416", null ],
+    [ "xp_in_group_rate", "d5/d49/a02282.html#a304088bebc0743c764589112d2ba3b7f", null ]
 ];

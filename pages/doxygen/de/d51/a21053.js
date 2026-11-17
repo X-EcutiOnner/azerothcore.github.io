@@ -1,6 +1,7 @@
 var a21053 =
 [
-    [ "HandleScript", "de/d51/a21053.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "de/d51/a21053.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "de/d51/a21053.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "OnRemove", "de/d51/a21053.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
+    [ "PrepareAuraScript", "de/d51/a21053.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
+    [ "Register", "de/d51/a21053.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "Validate", "de/d51/a21053.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
 ];

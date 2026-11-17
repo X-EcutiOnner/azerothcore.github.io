@@ -1,5 +1,6 @@
 var a19489 =
 [
-    [ "creatureEntry", "df/d5f/a19489.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "df/d5f/a19489.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "icecrown_citadel_teleport", "df/d5f/a19489.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "df/d5f/a19489.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "df/d5f/a19489.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

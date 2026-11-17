@@ -1,5 +1,6 @@
 var a18497 =
 [
-    [ "RotfaceHeightCheck", "db/d53/a18497.html#aabdeaee465989c339fc7a3f186e20498", null ],
-    [ "operator()", "db/d53/a18497.html#a585743e0e76c64a5caa37acab46d04d5", null ]
+    [ "ExtraEffect", "db/d53/a18497.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "db/d53/a18497.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "db/d53/a18497.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

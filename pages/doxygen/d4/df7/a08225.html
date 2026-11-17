@@ -154,9 +154,9 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  194</span>    {</div>
-<div class="line"><span class="lineno">  195</span>        <span class="keywordflow">return</span> c == <a class="code hl_variable" href="../../d5/d69/a00878.html#a683db3fe009c60f8cedefbea5f00f58f">ItemQualityColors</a>[data.Item-&gt;Quality];</div>
+<div class="line"><span class="lineno">  195</span>        <span class="keywordflow">return</span> c == <a class="code hl_variable" href="../../d3/d8f/a05099.html#a683db3fe009c60f8cedefbea5f00f58f">ItemQualityColors</a>[data.Item-&gt;Quality];</div>
 <div class="line"><span class="lineno">  196</span>    }</div>
-<div class="ttc" id="aa00878_html_a683db3fe009c60f8cedefbea5f00f58f"><div class="ttname"><a href="../../d5/d69/a00878.html#a683db3fe009c60f8cedefbea5f00f58f">ItemQualityColors</a></div><div class="ttdeci">const uint32 ItemQualityColors[MAX_ITEM_QUALITY]</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:341</div></div>
+<div class="ttc" id="aa05099_html_a683db3fe009c60f8cedefbea5f00f58f"><div class="ttname"><a href="../../d3/d8f/a05099.html#a683db3fe009c60f8cedefbea5f00f58f">ItemQualityColors</a></div><div class="ttdeci">const uint32 ItemQualityColors[MAX_ITEM_QUALITY]</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:341</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00058">Acore::Hyperlinks::ItemLinkData::Item</a>, <a class="el" href="../../#l00341">ItemQualityColors</a>, and <a class="el" href="../../#l00626">ItemTemplate::Quality</a>.</p>
 
@@ -196,7 +196,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  148</span>    {</div>
-<div class="line"><span class="lineno">  149</span>        <a class="code hl_struct" href="../../df/d37/a08881.html">ItemLocale</a> <span class="keyword">const</span>* locale = <a class="code hl_define" href="../../dd/d08/a01682.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetItemLocale(data.Item-&gt;ItemId);</div>
+<div class="line"><span class="lineno">  149</span>        <a class="code hl_struct" href="../../df/d37/a08881.html">ItemLocale</a> <span class="keyword">const</span>* locale = <a class="code hl_define" href="../../d2/dca/a02606.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetItemLocale(data.Item-&gt;ItemId);</div>
 <div class="line"><span class="lineno">  150</span> </div>
 <div class="line"><span class="lineno">  151</span>        std::array&lt;char const*, 16&gt; <span class="keyword">const</span>* randomSuffixes = <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">  152</span> </div>
@@ -208,12 +208,12 @@ Static Public Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  158</span>        <span class="keywordflow">if</span> (data.IsBuggedInspectLink) <span class="comment">/* DBC lookup will have failed on the client, so the link should&#39;ve arrived without suffix */</span></div>
 <div class="line"><span class="lineno">  159</span>            randomSuffixes = <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">  160</span> </div>
-<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d4/d45/a00791.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
+<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/dee/a00383.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d9/de6/a00404.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
 <div class="line"><span class="lineno">  162</span>        {</div>
-<div class="line"><span class="lineno">  163</span>            <span class="keywordflow">if</span> (!locale &amp;&amp; i != <a class="code hl_define" href="../../d4/d45/a00791.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>)</div>
+<div class="line"><span class="lineno">  163</span>            <span class="keywordflow">if</span> (!locale &amp;&amp; i != <a class="code hl_define" href="../../d9/de6/a00404.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>)</div>
 <div class="line"><span class="lineno">  164</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  165</span> </div>
-<div class="line"><span class="lineno">  166</span>            std::string_view name = (i == <a class="code hl_define" href="../../d4/d45/a00791.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>) ? data.Item-&gt;Name1 : <a class="code hl_function" href="../../dc/d6c/a09577.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a>(locale-&gt;<a class="code hl_variable" href="../../df/d37/a08881.html#a787ca2c05ddac7ee5c3a5c28a02b8494">Name</a>, i);</div>
+<div class="line"><span class="lineno">  166</span>            std::string_view name = (i == <a class="code hl_define" href="../../d9/de6/a00404.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>) ? data.Item-&gt;Name1 : <a class="code hl_function" href="../../dc/d6c/a09577.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a>(locale-&gt;<a class="code hl_variable" href="../../df/d37/a08881.html#a787ca2c05ddac7ee5c3a5c28a02b8494">Name</a>, i);</div>
 <div class="line"><span class="lineno">  167</span>            <span class="keywordflow">if</span> (name.empty())</div>
 <div class="line"><span class="lineno">  168</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  169</span> </div>
@@ -221,9 +221,9 @@ Static Public Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  171</span>            {</div>
 <div class="line"><span class="lineno">  172</span>                <span class="comment">// A locale registered by a module may have no DBC strings, the client appends the suffix of its own</span></div>
 <div class="line"><span class="lineno">  173</span>                <span class="comment">// DBC locale to the translated name</span></div>
-<div class="line"><span class="lineno">  174</span>                <a class="code hl_typedef" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> first = (i &lt;= <a class="code hl_enumvalue" href="../../d4/d45/a00791.html#a54c9b637be7283ba1a04fb5215594332a8fe79e0066f95ece0bb1769c01ea38d9">LOCALE_ruRU</a>) ? i : 0;</div>
-<div class="line"><span class="lineno">  175</span>                <a class="code hl_typedef" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> last = (i &lt;= <a class="code hl_enumvalue" href="../../d4/d45/a00791.html#a54c9b637be7283ba1a04fb5215594332a8fe79e0066f95ece0bb1769c01ea38d9">LOCALE_ruRU</a>) ? i : <a class="code hl_enumvalue" href="../../d4/d45/a00791.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a> - 1;</div>
-<div class="line"><span class="lineno">  176</span>                <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> dbcLocale = first; dbcLocale &lt;= last; ++dbcLocale)</div>
+<div class="line"><span class="lineno">  174</span>                <a class="code hl_typedef" href="../../da/dee/a00383.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> first = (i &lt;= <a class="code hl_enumvalue" href="../../d9/de6/a00404.html#a54c9b637be7283ba1a04fb5215594332a8fe79e0066f95ece0bb1769c01ea38d9">LOCALE_ruRU</a>) ? i : 0;</div>
+<div class="line"><span class="lineno">  175</span>                <a class="code hl_typedef" href="../../da/dee/a00383.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> last = (i &lt;= <a class="code hl_enumvalue" href="../../d9/de6/a00404.html#a54c9b637be7283ba1a04fb5215594332a8fe79e0066f95ece0bb1769c01ea38d9">LOCALE_ruRU</a>) ? i : <a class="code hl_enumvalue" href="../../d9/de6/a00404.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a> - 1;</div>
+<div class="line"><span class="lineno">  176</span>                <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/dee/a00383.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> dbcLocale = first; dbcLocale &lt;= last; ++dbcLocale)</div>
 <div class="line"><span class="lineno">  177</span>                {</div>
 <div class="line"><span class="lineno">  178</span>                    std::string_view randomSuffix((*randomSuffixes)[dbcLocale]);</div>
 <div class="line"><span class="lineno">  179</span>                    <span class="keywordflow">if</span> ((!randomSuffix.empty()) &amp;&amp;</div>
@@ -239,11 +239,11 @@ Static Public Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  189</span>        }</div>
 <div class="line"><span class="lineno">  190</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  191</span>    }</div>
-<div class="ttc" id="aa00791_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../d4/d45/a00791.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:137</div></div>
-<div class="ttc" id="aa00791_html_a54c9b637be7283ba1a04fb5215594332a8fe79e0066f95ece0bb1769c01ea38d9"><div class="ttname"><a href="../../d4/d45/a00791.html#a54c9b637be7283ba1a04fb5215594332a8fe79e0066f95ece0bb1769c01ea38d9">LOCALE_ruRU</a></div><div class="ttdeci">@ LOCALE_ruRU</div><div class="ttdef"><b>Definition:</b> Common.h:134</div></div>
-<div class="ttc" id="aa00791_html_a900ed91bceba26c1e05048bd3a9ec4fd"><div class="ttname"><a href="../../d4/d45/a00791.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a></div><div class="ttdeci">#define DEFAULT_LOCALE</div><div class="ttdef"><b>Definition:</b> Common.h:140</div></div>
-<div class="ttc" id="aa00815_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d8/d2d/a00815.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa01682_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../dd/d08/a01682.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1731</div></div>
+<div class="ttc" id="aa00383_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/dee/a00383.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa00404_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../d9/de6/a00404.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:137</div></div>
+<div class="ttc" id="aa00404_html_a54c9b637be7283ba1a04fb5215594332a8fe79e0066f95ece0bb1769c01ea38d9"><div class="ttname"><a href="../../d9/de6/a00404.html#a54c9b637be7283ba1a04fb5215594332a8fe79e0066f95ece0bb1769c01ea38d9">LOCALE_ruRU</a></div><div class="ttdeci">@ LOCALE_ruRU</div><div class="ttdef"><b>Definition:</b> Common.h:134</div></div>
+<div class="ttc" id="aa00404_html_a900ed91bceba26c1e05048bd3a9ec4fd"><div class="ttname"><a href="../../d9/de6/a00404.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a></div><div class="ttdeci">#define DEFAULT_LOCALE</div><div class="ttdef"><b>Definition:</b> Common.h:140</div></div>
+<div class="ttc" id="aa02606_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../d2/dca/a02606.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1731</div></div>
 <div class="ttc" id="aa08881_html"><div class="ttname"><a href="../../df/d37/a08881.html">ItemLocale</a></div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:836</div></div>
 <div class="ttc" id="aa08881_html_a787ca2c05ddac7ee5c3a5c28a02b8494"><div class="ttname"><a href="../../df/d37/a08881.html#a787ca2c05ddac7ee5c3a5c28a02b8494">ItemLocale::Name</a></div><div class="ttdeci">std::vector&lt; std::string &gt; Name</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:837</div></div>
 <div class="ttc" id="aa09577_html_afaf0c44e499261c10276edc4c3cb15a0"><div class="ttname"><a href="../../dc/d6c/a09577.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a></div><div class="ttdeci">static std::string_view GetLocaleString(std::vector&lt; std::string &gt; const &amp;data, std::size_t locale)</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1491</div></div>
@@ -258,7 +258,7 @@ Static Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/df7/a08225.html">LinkValidator&lt; LinkTags::item &gt;</a></li>
-    <li class="footer">Generated on Tue Nov 10 2026 02:55:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Nov 17 2026 03:06:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

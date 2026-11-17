@@ -1,7 +1,13 @@
 var a02864 =
 [
-    [ "IsAcceptedClientBuild", "da/d47/a02864.html#a50a906b5a3fdca3508aee0997881a717", null ],
-    [ "IsPostBCAcceptedClientBuild", "da/d47/a02864.html#ad4f22daf9d88367d90d92416f470a28c", null ],
-    [ "IsPreBCAcceptedClientBuild", "da/d47/a02864.html#a96896fc9dad2c304f681a24776f6726b", null ],
-    [ "MAX_PRE_BC_CLIENT_BUILD", "da/d47/a02864.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
+    [ "OutdoorPvPGH", "d6/dd4/a22757.html", "d6/dd4/a22757" ],
+    [ "OPvPCapturePointGH", "da/d70/a22761.html", "da/d70/a22761" ],
+    [ "OutdoorPvPGHenum", "da/d47/a02864.html#a68fd4e51a6ab53a5f6bc93fe7800623b", [
+      [ "GH_ALLIANCE_DEFENSE_EVENT", "da/d47/a02864.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3", null ],
+      [ "GH_HORDE_DEFENSE_EVENT", "da/d47/a02864.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10", null ],
+      [ "GH_ZONE", "da/d47/a02864.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f", null ],
+      [ "GH_QUEST_KEEP_EM_ON_THEIR_HEELS", "da/d47/a02864.html#a68fd4e51a6ab53a5f6bc93fe7800623ba093fd7e4f043a87bac91a6d698f44b58", null ],
+      [ "GH_QUEST_KICK_EM_WHILE_THEYRE_DOWN", "da/d47/a02864.html#a68fd4e51a6ab53a5f6bc93fe7800623bab570a16e35f63643cd666e8e9c67dce6", null ],
+      [ "GH_CREATURE_QUEST_BUNNY", "da/d47/a02864.html#a68fd4e51a6ab53a5f6bc93fe7800623ba611910e455b02d10a37996956708a414", null ]
+    ] ]
 ];

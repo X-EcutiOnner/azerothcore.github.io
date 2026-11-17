@@ -1,10 +1,6 @@
 var a21381 =
 [
-    [ "npc_dragonflayer_forge_master", "df/d41/a21381.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "df/d41/a21381.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "df/d41/a21381.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "df/d41/a21381.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "df/d41/a21381.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "df/d41/a21381.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "df/d41/a21381.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "df/da5/a21385.html", "df/da5/a21385" ],
+    [ "instance_utgarde_keep", "df/d41/a21381.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "df/d41/a21381.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

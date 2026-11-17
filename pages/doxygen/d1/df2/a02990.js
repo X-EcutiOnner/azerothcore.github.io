@@ -1,12 +1,13 @@
 var a02990 =
 [
-    [ "Elapsed", "d1/df2/a02990.html#af9a7dcb5dfa331445f56900767b13e8b", null ],
-    [ "GetGameTime", "d1/df2/a02990.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
-    [ "GetGameTimeMS", "d1/df2/a02990.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
-    [ "GetStartTime", "d1/df2/a02990.html#a872d34d3f9d420cfc749073c809931f9", null ],
-    [ "GetSystemTime", "d1/df2/a02990.html#a443eccf314fe436192278d425d6d8220", null ],
-    [ "GetUptime", "d1/df2/a02990.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
-    [ "HasElapsed", "d1/df2/a02990.html#a6acb8998bc9dae720531cb39082262f2", null ],
-    [ "Now", "d1/df2/a02990.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
-    [ "UpdateGameTimers", "d1/df2/a02990.html#a45712735241c9563a12fc3da54fb144d", null ]
+    [ "spell_ooze_zap", "d2/ddb/a16117.html", "d2/ddb/a16117" ],
+    [ "spell_ooze_zap_channel_end", "de/de6/a16121.html", "de/de6/a16121" ],
+    [ "spell_energize_aoe", "d5/d59/a16125.html", "d5/d59/a16125" ],
+    [ "SpellScripts", "d1/df2/a02990.html#a7da1350130e8c0e2dbb048bb6d532048", [
+      [ "SPELL_OOZE_ZAP", "d1/df2/a02990.html#a7da1350130e8c0e2dbb048bb6d532048a1b2971d13842ea79dee4215970f1b0f8", null ],
+      [ "SPELL_OOZE_ZAP_CHANNEL_END", "d1/df2/a02990.html#a7da1350130e8c0e2dbb048bb6d532048a02f7e373b9176afcf3033085c6cc4a1d", null ],
+      [ "SPELL_OOZE_CHANNEL_CREDIT", "d1/df2/a02990.html#a7da1350130e8c0e2dbb048bb6d532048a5e8e7d71235ca347c586316d35c81f2b", null ],
+      [ "SPELL_ENERGIZED", "d1/df2/a02990.html#a7da1350130e8c0e2dbb048bb6d532048a37a0a6328b9098980d1ec0596ddebbca", null ]
+    ] ],
+    [ "AddSC_dustwallow_marsh", "d1/df2/a02990.html#a90fa5d1f62873c538b717bfbfb93251b", null ]
 ];

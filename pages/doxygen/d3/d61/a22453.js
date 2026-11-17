@@ -1,7 +1,8 @@
 var a22453 =
 [
-    [ "HandleSendEvent", "d3/d61/a22453.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "d3/d61/a22453.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "d3/d61/a22453.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "d3/d61/a22453.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "npc_adventurous_dwarfAI", "d7/d17/a22457.html", "d7/d17/a22457" ],
+    [ "npc_adventurous_dwarf", "d3/d61/a22453.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "d3/d61/a22453.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "d3/d61/a22453.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "d3/d61/a22453.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

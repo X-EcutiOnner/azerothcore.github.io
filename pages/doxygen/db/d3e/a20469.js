@@ -1,5 +1,5 @@
 var a20469 =
 [
-    [ "achievement_flame_leviathan_unbroken", "db/d3e/a20469.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "db/d3e/a20469.html#a4c2053f2e6d384f6d9cd7005a2a48121", null ]
+    [ "achievement_flame_leviathan_shutout", "db/d3e/a20469.html#a555e0d206b7f730665d301c7e03b23e6", null ],
+    [ "OnCheck", "db/d3e/a20469.html#af548232f563fd387bc8ee25b696a2f99", null ]
 ];

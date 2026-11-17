@@ -1,5 +1,5 @@
 var a28949 =
 [
-    [ "npc_harrowmeiser", "db/d3b/a28949.html#a30a44ae739447e14ded0c0af6c73e76e", null ],
-    [ "OnGossipHello", "db/d3b/a28949.html#a3d4b6bc9a85315b0f31347068b3c5317", null ]
+    [ "go_transport_the_purple_princess", "db/d3b/a28949.html#ab0c79197964857d578036693a2c18e8a", null ],
+    [ "EventInform", "db/d3b/a28949.html#ac5b73f1bea180797169138f8e9228783", null ]
 ];

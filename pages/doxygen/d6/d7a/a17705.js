@@ -1,10 +1,14 @@
 var a17705 =
 [
-    [ "boss_drakkari_elementalAI", "d6/d7a/a17705.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
-    [ "DoAction", "d6/d7a/a17705.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
-    [ "JustDied", "d6/d7a/a17705.html#aec2878e51a12749914e3a30c0ddea900", null ],
-    [ "JustEngagedWith", "d6/d7a/a17705.html#a75cbf6a164ab4337f86b600541c563f2", null ],
-    [ "Reset", "d6/d7a/a17705.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
-    [ "UpdateAI", "d6/d7a/a17705.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
-    [ "events", "d6/d7a/a17705.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
+    [ "boss_drakkari_colossusAI", "d6/d7a/a17705.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
+    [ "DoAction", "d6/d7a/a17705.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
+    [ "JustReachedHome", "d6/d7a/a17705.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
+    [ "JustSummoned", "d6/d7a/a17705.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
+    [ "MoveInLineOfSight", "d6/d7a/a17705.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
+    [ "Reset", "d6/d7a/a17705.html#a5e9c6da15df58a206533a7c718056c3e", null ],
+    [ "ScheduleTasks", "d6/d7a/a17705.html#afefbba70f93142110dcf9d7940d91d2c", null ],
+    [ "SummonedCreatureDespawn", "d6/d7a/a17705.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
+    [ "SummonedCreatureDies", "d6/d7a/a17705.html#a59f9efbc2964eec057606d69458b4402", null ],
+    [ "UpdateAI", "d6/d7a/a17705.html#afc816b7d1c2705675560ddd13ecce22d", null ],
+    [ "_secondEmerge", "d6/d7a/a17705.html#a2e97f8f1f5c53efba04afc213f410870", null ]
 ];

@@ -1,10 +1,6 @@
 var a00908 =
 [
-    [ "SecretMgr", "db/d40/a29749.html", "db/d40/a29749" ],
-    [ "SecretMgr::Secret", "dd/dc3/a29753.html", "dd/dc3/a29753" ],
-    [ "sSecretMgr", "d0/d85/a00908.html#a5104e1ebeb8cbf71ec16e9492a3ad622", null ],
-    [ "Secrets", "d0/d85/a00908.html#ab54b0ec728a299f0ff9e8a7796297a01", [
-      [ "SECRET_TOTP_MASTER_KEY", "d0/d85/a00908.html#ab54b0ec728a299f0ff9e8a7796297a01a414121b0e05fa3a392ffe0da5afe0fe9", null ],
-      [ "NUM_SECRETS", "d0/d85/a00908.html#ab54b0ec728a299f0ff9e8a7796297a01a087643d0aa89a708bad0f254697489c6", null ]
-    ] ]
+    [ "GetDominantOtherSameSpellApp", "d0/d85/a00908.html#a35cf5d451332db8c1e4a11f23b11d0ec", null ],
+    [ "IsPaladinAuraDominant", "d0/d85/a00908.html#a2c54ebda028a15512cff94e01f9f92d8", null ],
+    [ "UPDATE_TARGET_MAP_INTERVAL", "d0/d85/a00908.html#a49c1eff45f8eb67e523f8593923a5df0", null ]
 ];

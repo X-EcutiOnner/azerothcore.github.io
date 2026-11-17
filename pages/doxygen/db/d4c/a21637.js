@@ -1,8 +1,12 @@
 var a21637 =
 [
-    [ "boss_moragg", "db/d4c/a21637.html#a42d2508369286e5e635d47cce0b939f4", null ],
-    [ "EnterEvadeMode", "db/d4c/a21637.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
-    [ "ExecuteEvent", "db/d4c/a21637.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
-    [ "JustEngagedWith", "db/d4c/a21637.html#a29da7214373c1919b65f3512655c8bc3", null ],
-    [ "MoveInLineOfSight", "db/d4c/a21637.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
+    [ "npc_ichor_globule", "db/d4c/a21637.html#a59443a6748d81ef27a030f8656697fc1", null ],
+    [ "AttackStart", "db/d4c/a21637.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
+    [ "JustDied", "db/d4c/a21637.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
+    [ "MoveInLineOfSight", "db/d4c/a21637.html#af14fada689a1a6a780ae44865d16e465", null ],
+    [ "Reset", "db/d4c/a21637.html#a78030360fcd39754744384cdba17fd9e", null ],
+    [ "SpellHit", "db/d4c/a21637.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
+    [ "UpdateAI", "db/d4c/a21637.html#acccc54db59a18e78330011465e109439", null ],
+    [ "_events", "db/d4c/a21637.html#a221c58177666ea1eb4a6b831916297eb", null ],
+    [ "_instance", "db/d4c/a21637.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
 ];

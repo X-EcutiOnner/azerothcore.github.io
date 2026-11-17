@@ -1,6 +1,6 @@
 var a20537 =
 [
-    [ "npc_ulduar_saronite_vapors", "db/ddb/a20537.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
-    [ "JustDied", "db/ddb/a20537.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "_instance", "db/ddb/a20537.html#ad304110ff1bfc33066cd17f04cf40181", null ]
+    [ "FilterTargets", "db/ddb/a20537.html#a977f0687005cdbd585be0704e5ce20d8", null ],
+    [ "PrepareSpellScript", "db/ddb/a20537.html#a96f279fbc08f23f0b7e7f807dc0ddd7a", null ],
+    [ "Register", "db/ddb/a20537.html#a1038ca2384a31671dab1d72e1232cfe1", null ]
 ];

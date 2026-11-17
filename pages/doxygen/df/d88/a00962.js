@@ -1,4 +1,11 @@
 var a00962 =
 [
-    [ "GetAge", "df/d88/a00962.html#a347e0449afd73dbcc6c084dbe72af6c8", null ]
+    [ "AddTime", "df/d88/a00962.html#aae074176c44fa3d99280320c869fde46", null ],
+    [ "AddTime", "df/d88/a00962.html#a430fcc06d66963c8dbbd1c988923511e", null ],
+    [ "GetTime", "df/d88/a00962.html#ae44f550ac340528abe454269c2273d73", null ],
+    [ "GetTime", "df/d88/a00962.html#a0bc4b2da3db35b3fbcd4dbe01181f05f", null ],
+    [ "IsCorrectDelay", "df/d88/a00962.html#a18121c73cd31656af9ee5e5da754e4bd", null ],
+    [ "IsCorrectDelay", "df/d88/a00962.html#ab753898b2bbc94059274e9a9483b0e70", null ],
+    [ "_brackets", "df/d88/a00962.html#a57b562a95d0fb9c2ee34520175d63a92", null ],
+    [ "_players", "df/d88/a00962.html#af8ad5db2c36ddfbca0b6b18e3478c2c5", null ]
 ];

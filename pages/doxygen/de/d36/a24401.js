@@ -1,6 +1,6 @@
 var a24401 =
 [
-    [ "npc_mature_netherwing_drakeAI", "db/da5/a24405.html", "db/da5/a24405" ],
-    [ "npc_mature_netherwing_drake", "de/d36/a24401.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "de/d36/a24401.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "npc_infernal_attackerAI", "db/da5/a24405.html", "db/da5/a24405" ],
+    [ "npc_infernal_attacker", "de/d36/a24401.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "de/d36/a24401.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

@@ -11,7 +11,6 @@ var a16969 =
     [ "MoveInLineOfSight", "de/d10/a16969.html#a5ec1c1076896a65c0e52f99c58707aef", null ],
     [ "Reset", "de/d10/a16969.html#ab40eab8c8e41901a5490cb7ea08ae63a", null ],
     [ "UpdateAI", "de/d10/a16969.html#ac98f42c87d04285ed277e24dbccf2617", null ],
-    [ "_burrowGUIDs", "de/d10/a16969.html#a1932c9ad6d3c74f7fe27c149d0384197", null ],
     [ "_intro", "de/d10/a16969.html#a304d00137aa44656d50d24e931eb4ade", null ],
     [ "_phase3", "de/d10/a16969.html#a014317120b88b835188a25434a312a83", null ],
     [ "_sphereGUIDs", "de/d10/a16969.html#af1a70f4096d1922928f12a72153bd87d", null ]

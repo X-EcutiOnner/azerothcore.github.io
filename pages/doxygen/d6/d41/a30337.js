@@ -1,8 +1,5 @@
 var a30337 =
 [
-    [ "ADT_file", "d6/d41/a30337.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
-    [ "~ADT_file", "d6/d41/a30337.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
-    [ "free", "d6/d41/a30337.html#a8fc207b8cc83596577166a0008965dc6", null ],
-    [ "prepareLoadedData", "d6/d41/a30337.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
-    [ "a_grid", "d6/d41/a30337.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
+    [ "height", "d6/d41/a30337.html#a9ee8f132a89d37d9b202c7f49d2c3a49", null ],
+    [ "light", "d6/d41/a30337.html#a53c2edf09fb56334d1c3621d3630de5d", null ]
 ];

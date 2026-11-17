@@ -1,8 +1,5 @@
 var a02300 =
 [
-    [ "GUID_TRAIT_INSTANTIATE_GUID", "d1/d47/a02300.html#a62c17cbc4f3da3f26f9c1ae3ba2c4953", null ],
-    [ "operator<<", "d1/d47/a02300.html#a039758f4b57c94c411a4c3882334ada8", null ],
-    [ "operator<<", "d1/d47/a02300.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
-    [ "operator>>", "d1/d47/a02300.html#a30aef535f2839648f0ae4648c746d3e2", null ],
-    [ "operator>>", "d1/d47/a02300.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
+    [ "GroupMgr", "db/d97/a10045.html", "db/d97/a10045" ],
+    [ "sGroupMgr", "d1/d47/a02300.html#a9b001b22670103435cf11551af9fa71e", null ]
 ];

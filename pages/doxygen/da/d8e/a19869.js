@@ -1,7 +1,7 @@
 var a19869 =
 [
-    [ "FilterTargets", "da/d8e/a19869.html#a6beccd163ab8442a1ed39c553716cb73", null ],
-    [ "Load", "da/d8e/a19869.html#a5df67c2dbd14a75435f68939240daae6", null ],
-    [ "PrepareSpellScript", "da/d8e/a19869.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
-    [ "Register", "da/d8e/a19869.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
+    [ "FilterTargets", "da/d8e/a19869.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "da/d8e/a19869.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "da/d8e/a19869.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "da/d8e/a19869.html#a5fcc9cc654d6495f535600a6eef4c968", null ]
 ];

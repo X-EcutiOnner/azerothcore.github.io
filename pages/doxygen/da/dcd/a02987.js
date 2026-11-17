@@ -1,8 +1,12 @@
 var a02987 =
 [
-    [ "GetDefaultDatabaseInfo", "da/dcd/a02987.html#a5560c170776773a1a20d93060003e89d", null ],
-    [ "CHARACTER_DATABASE_INFO_DEFAULT", "da/dcd/a02987.html#a6854faf653c8b94d9e1b611db3269d1a", null ],
-    [ "EMPTY_DATABASE_INFO", "da/dcd/a02987.html#aa2920a017ca93e102f17b0ca20885c5b", null ],
-    [ "LOGIN_DATABASE_INFO_DEFAULT", "da/dcd/a02987.html#aa5457f479ebc812232cc3f0d67fabde1", null ],
-    [ "WORLD_DATABASE_INFO_DEFAULT", "da/dcd/a02987.html#ad2151db3d84513bc271cf642ad76bb80", null ]
+    [ "npc_webbed_creature", "d9/d64/a16021.html", "d9/d64/a16021" ],
+    [ "npc_webbed_creature::npc_webbed_creatureAI", "df/d86/a16025.html", "df/d86/a16025" ],
+    [ "WebbedCreature", "da/dcd/a02987.html#aa14073eff8de36ab4c416f5ae7bd8cd0", [
+      [ "SPELL_FREE_WEBBED_CREATURE_HOSTILE_START", "da/dcd/a02987.html#aa14073eff8de36ab4c416f5ae7bd8cd0a805bd712057d54d1e7aa0df25591e614", null ],
+      [ "SPELL_FREE_WEBBED_CREATURE_HOSTILE_END", "da/dcd/a02987.html#aa14073eff8de36ab4c416f5ae7bd8cd0a8c879cd674ceba49c398aa160ab6432e", null ],
+      [ "SPELL_FREE_WEBBED_CREATURE_RESEARCHER", "da/dcd/a02987.html#aa14073eff8de36ab4c416f5ae7bd8cd0ab537460526db8a8c87c52ee41e0e20c4", null ],
+      [ "NPC_EXPEDITION_RESEARCHER", "da/dcd/a02987.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3", null ]
+    ] ],
+    [ "AddSC_bloodmyst_isle", "da/dcd/a02987.html#a6b9832f4bb6cfefde5bab6937fd46fae", null ]
 ];

@@ -1,6 +1,9 @@
 var a20841 =
 [
-    [ "HandlePeriodic", "d9/d50/a20841.html#ab3f6a58bcea3fc75ccbac99cd911e7f8", null ],
-    [ "PrepareAuraScript", "d9/d50/a20841.html#a09d6fccb19df088780c5baa0ef656da7", null ],
-    [ "Register", "d9/d50/a20841.html#abbf60dac3d36d0833e6509aac83f2b49", null ]
+    [ "npc_ulduar_emergency_fire_bot", "d9/d50/a20841.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
+    [ "AttackStart", "d9/d50/a20841.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
+    [ "MoveInLineOfSight", "d9/d50/a20841.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
+    [ "MovementInform", "d9/d50/a20841.html#a6f7306e3da54511ddbef772044f76950", null ],
+    [ "UpdateAI", "d9/d50/a20841.html#a653df31873aca5acb86020cc1e14f4a0", null ],
+    [ "_events", "d9/d50/a20841.html#a99f051bd7a1136375103005f0615c4f2", null ]
 ];

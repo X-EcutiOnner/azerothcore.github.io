@@ -1,6 +1,6 @@
 var a22337 =
 [
-    [ "npc_tournament_training_dummyAI", "d5/d01/a22341.html", "d5/d01/a22341" ],
-    [ "npc_tournament_training_dummy", "d0/d75/a22337.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
-    [ "GetAI", "d0/d75/a22337.html#a31257c155c3a49c69771156800cf6340", null ]
+    [ "npc_guardian_pavilionAI", "d5/d01/a22341.html", "d5/d01/a22341" ],
+    [ "npc_guardian_pavilion", "d0/d75/a22337.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d0/d75/a22337.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

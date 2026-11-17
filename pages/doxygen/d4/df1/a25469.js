@@ -1,6 +1,8 @@
 var a25469 =
 [
-    [ "CalculateAmount", "d4/df1/a25469.html#a66b009487462241e573ea23f081a140a", null ],
-    [ "PrepareAuraScript", "d4/df1/a25469.html#a0eee16c77a3c3cea882b67c78826a140", null ],
-    [ "Register", "d4/df1/a25469.html#afeafc6922b0a0389fec969e3c7191dda", null ]
+    [ "AchievementCredit", "d4/df1/a25469.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "d4/df1/a25469.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "d4/df1/a25469.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "d4/df1/a25469.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "d4/df1/a25469.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

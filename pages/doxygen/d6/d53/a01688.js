@@ -1,17 +1,21 @@
 var a01688 =
 [
-    [ "Petition", "d0/d90/a10698.html", "d0/d90/a10698" ],
-    [ "Signatures", "d3/d32/a10702.html", "d3/d32/a10702" ],
-    [ "PetitionMgr", "d2/da2/a10706.html", "d2/da2/a10706" ],
-    [ "CHARTER_DISPLAY_ID", "d6/d53/a01688.html#a33856c1d078b61fa0516a63176297c49", null ],
-    [ "sPetitionMgr", "d6/d53/a01688.html#a2910b9c8b8c58925b562acf66b3e46d2", null ],
-    [ "PetitionContainer", "d6/d53/a01688.html#a223a8d1b8f865a0d4e8f100758e36bce", null ],
-    [ "SignatureContainer", "d6/d53/a01688.html#a541d3cf929662ff3a4ab97f63d54b16f", null ],
-    [ "SignatureMap", "d6/d53/a01688.html#a52c6b38c9d018efa6f8a95153a0eb2b5", null ],
-    [ "CharterItemIDs", "d6/d53/a01688.html#acec0915ab4c4246cd1eda0ddd63d47bb", [
-      [ "GUILD_CHARTER", "d6/d53/a01688.html#acec0915ab4c4246cd1eda0ddd63d47bba2e6b069055001141f4bee95616a7720d", null ],
-      [ "ARENA_TEAM_CHARTER_2v2", "d6/d53/a01688.html#acec0915ab4c4246cd1eda0ddd63d47bba2f39a42139b3361ca2547f4c3c517e27", null ],
-      [ "ARENA_TEAM_CHARTER_3v3", "d6/d53/a01688.html#acec0915ab4c4246cd1eda0ddd63d47bbac155da3886ba50a00694a0b600855470", null ],
-      [ "ARENA_TEAM_CHARTER_5v5", "d6/d53/a01688.html#acec0915ab4c4246cd1eda0ddd63d47bba3d4ede0990919580bc749e110995dc37", null ]
+    [ "Totem", "d5/d25/a09185.html", "d5/d25/a09185" ],
+    [ "EARTHBIND_TOTEM_ENTRY", "d6/d53/a01688.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
+    [ "SENTRY_TOTEM_ENTRY", "d6/d53/a01688.html#a2bd46e1df17fdee45cd35896306092fb", null ],
+    [ "TotemImmunitySpells", "d6/d53/a01688.html#a526213bf692d4f8d189a61617f4a59c9", [
+      [ "SPELL_CYCLONE", "d6/d53/a01688.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
+      [ "SPELL_STONECLAW", "d6/d53/a01688.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
+      [ "SPELL_BIND_SIGHT", "d6/d53/a01688.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
+      [ "SPELL_INTERVENE", "d6/d53/a01688.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
+    ] ],
+    [ "TotemSpellIds", "d6/d53/a01688.html#a7092ec93c941969cd2cdd2291c6de0be", [
+      [ "SentryTotemSpell", "d6/d53/a01688.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
+      [ "FireTotemSpell", "d6/d53/a01688.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
+    ] ],
+    [ "TotemType", "d6/d53/a01688.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
+      [ "TOTEM_PASSIVE", "d6/d53/a01688.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
+      [ "TOTEM_ACTIVE", "d6/d53/a01688.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
+      [ "TOTEM_STATUE", "d6/d53/a01688.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
     ] ]
 ];

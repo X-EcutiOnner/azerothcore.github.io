@@ -1,6 +1,6 @@
 var a20529 =
 [
-    [ "FilterTargets", "d7/de1/a20529.html#a977f0687005cdbd585be0704e5ce20d8", null ],
-    [ "PrepareSpellScript", "d7/de1/a20529.html#a96f279fbc08f23f0b7e7f807dc0ddd7a", null ],
-    [ "Register", "d7/de1/a20529.html#a1038ca2384a31671dab1d72e1232cfe1", null ]
+    [ "HandleSurge", "d7/de1/a20529.html#a669a46f3583518664462b4ee915be2da", null ],
+    [ "PrepareSpellScript", "d7/de1/a20529.html#adead1c7e506e9dc8d6b9cc04f2331a58", null ],
+    [ "Register", "d7/de1/a20529.html#a7f29f72897e2e175044a49b05d2994d7", null ]
 ];

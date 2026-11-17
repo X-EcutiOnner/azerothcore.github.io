@@ -1,7 +1,19 @@
 var a02756 =
 [
-    [ "C_Evaluate", "dc/d80/a02756.html#aabdff88ae3660ba0f16a47216606d328", null ],
-    [ "C_Evaluate_Derivative", "dc/d80/a02756.html#a2ea2e41d8317c9c7693113ec6b472429", null ],
-    [ "s_Bezier3Coeffs", "dc/d80/a02756.html#a508e01047096fea2dbd9e0fedf6d75cb", null ],
-    [ "s_catmullRomCoeffs", "dc/d80/a02756.html#aff10e913762216c0735a8a3530ee25d2", null ]
+    [ "CliCommandHolder", "db/d1c/a12461.html", "db/d1c/a12461" ],
+    [ "PreviousSessionInfo", "d2/dd1/a12465.html", "d2/dd1/a12465" ],
+    [ "IWorld", "d7/dfd/a12469.html", "d7/dfd/a12469" ],
+    [ "ServerMessageType", "dc/d80/a02756.html#a08e6f7cfaf7929274a1908b0e95c798f", [
+      [ "SERVER_MSG_SHUTDOWN_TIME", "dc/d80/a02756.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c", null ],
+      [ "SERVER_MSG_RESTART_TIME", "dc/d80/a02756.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68", null ],
+      [ "SERVER_MSG_STRING", "dc/d80/a02756.html#a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517", null ],
+      [ "SERVER_MSG_SHUTDOWN_CANCELLED", "dc/d80/a02756.html#a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b", null ],
+      [ "SERVER_MSG_RESTART_CANCELLED", "dc/d80/a02756.html#a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131", null ]
+    ] ],
+    [ "SessionShutdownType", "dc/d80/a02756.html#aae5e1957bfba3d8ce7d80428b4f9d59a", [
+      [ "SHUTDOWN_TYPE_UNKNOWN", "dc/d80/a02756.html#aae5e1957bfba3d8ce7d80428b4f9d59aa6906496fb4f1c7a108e39d0369a13130", null ],
+      [ "SHUTDOWN_TYPE_SHUTDOWN", "dc/d80/a02756.html#aae5e1957bfba3d8ce7d80428b4f9d59aa6551b367fb6b7bef332e19bc951b8136", null ],
+      [ "SHUTDOWN_TYPE_RESTART", "dc/d80/a02756.html#aae5e1957bfba3d8ce7d80428b4f9d59aa11832999a9425e7c6236d254326e23e3", null ],
+      [ "SHUTDOWN_TYPE_ERROR", "dc/d80/a02756.html#aae5e1957bfba3d8ce7d80428b4f9d59aa09750d7988ff80c0f57faa99d72c70a7", null ]
+    ] ]
 ];

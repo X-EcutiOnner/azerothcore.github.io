@@ -1,14 +1,7 @@
 var a01334 =
 [
-    [ "DatabaseScript", "d9/d31/a10873.html", "d9/d31/a10873" ],
-    [ "DatabaseHook", "d4/dd1/a01334.html#a5f7dd71299279ad5a845d4d4030e707e", [
-      [ "DATABASEHOOK_ON_AFTER_DATABASES_LOADED", "d4/dd1/a01334.html#a5f7dd71299279ad5a845d4d4030e707ea669793dd5bb736daf7bf4e7a57422171", null ],
-      [ "DATABASEHOOK_ON_AFTER_DATABASE_LOAD_CREATURETEMPLATES", "d4/dd1/a01334.html#a5f7dd71299279ad5a845d4d4030e707ea5da0ac4b05308347ca9a69286153d974", null ],
-      [ "DATABASEHOOK_ON_MODULE_DATABASES_LOADING", "d4/dd1/a01334.html#a5f7dd71299279ad5a845d4d4030e707ea3e4b4c302d32dd5148107942c6786405", null ],
-      [ "DATABASEHOOK_ON_MODULE_DATABASES_KEEPALIVE", "d4/dd1/a01334.html#a5f7dd71299279ad5a845d4d4030e707eac7d7207b9239e153df824bc6dd58d816", null ],
-      [ "DATABASEHOOK_ON_MODULE_DATABASES_CLOSING", "d4/dd1/a01334.html#a5f7dd71299279ad5a845d4d4030e707ea642bce2e95802e8d078b36b5595e9be6", null ],
-      [ "DATABASEHOOK_ON_DATABASE_WARN_ABOUT_SYNC_QUERIES", "d4/dd1/a01334.html#a5f7dd71299279ad5a845d4d4030e707eaba48d9e2b4a034a812a90cc0daa438df", null ],
-      [ "DATABASEHOOK_ON_DATABASE_GET_DB_REVISION", "d4/dd1/a01334.html#a5f7dd71299279ad5a845d4d4030e707eaf7b857fe3022dde98e883ae35cfea79a", null ],
-      [ "DATABASEHOOK_END", "d4/dd1/a01334.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04", null ]
-    ] ]
+    [ "Movement::FallInitializer", "d9/d0f/a10625.html", "d9/d0f/a10625" ],
+    [ "Movement::CommonInitializer", "df/df4/a10629.html", "df/df4/a10629" ],
+    [ "CHECK", "d4/dd1/a01334.html#a4005b3acaa5011bfc2cc027562c04dfb", null ],
+    [ "computeDuration", "d4/dd1/a01334.html#a0f9e26b66bd86bb9701c366e4f9529c3", null ]
 ];

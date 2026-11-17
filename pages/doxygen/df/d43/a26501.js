@@ -1,7 +1,7 @@
 var a26501 =
 [
-    [ "HandleDummy", "df/d43/a26501.html#a4dde221fa768ef5c6b99c981969f35fe", null ],
-    [ "PrepareSpellScript", "df/d43/a26501.html#a85333c5f493b70037bcc1a1d42e97e9c", null ],
-    [ "Register", "df/d43/a26501.html#acfafbf43e12f72131e58434051dcc510", null ],
-    [ "Validate", "df/d43/a26501.html#a73458b57dc107b3215cf5d44567d330f", null ]
+    [ "HandleProc", "df/d43/a26501.html#a0a0dad1c639499963a61d18fe78af1c1", null ],
+    [ "PrepareAuraScript", "df/d43/a26501.html#aa5e12d556fef142f96c8f03dda4a4c80", null ],
+    [ "Register", "df/d43/a26501.html#ac8790ac907c6aa798575e2460c272f17", null ],
+    [ "Validate", "df/d43/a26501.html#a4020daf9d601eb53fe84f9cdbcf96626", null ]
 ];

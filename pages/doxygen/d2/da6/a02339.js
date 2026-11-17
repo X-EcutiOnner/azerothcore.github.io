@@ -1,7 +1,10 @@
 var a02339 =
 [
-    [ "LoadPlayerSettings", "d2/da6/a02339.html#a070b072e62079e512137662a87d710f6", null ],
-    [ "ParseSettingsData", "d2/da6/a02339.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
-    [ "SerializeSettingsData", "d2/da6/a02339.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
-    [ "UpdateSetting", "d2/da6/a02339.html#ab725e991f09f03e0413ffe44fa807ead", null ]
+    [ "DaysInMonth", "d2/da6/a02339.html#abff9a870b94032b446650ea043e9983b", null ],
+    [ "IsLeapYear", "d2/da6/a02339.html#a1cf1f3ca105c1ba63d7f783db70d91ae", null ],
+    [ "NormalizeDate", "d2/da6/a02339.html#a867322206e11e2197b7815e7584eeaba", null ],
+    [ "sind", "d2/da6/a02339.html#a6dd118cfa29609d98e0207909b863c88", null ],
+    [ "DEG_TO_RAD", "d2/da6/a02339.html#a410b5189721a469108e809fbf4f6e601", null ],
+    [ "HolidayRules", "d2/da6/a02339.html#a629dd822786c11d06b417c4326ae30fe", null ],
+    [ "PI", "d2/da6/a02339.html#a299aabc5fc8285cbf99025330a3d0d0d", null ]
 ];

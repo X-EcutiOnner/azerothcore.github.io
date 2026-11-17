@@ -1,15 +1,7 @@
 var a21705 =
 [
-    [ "npc_azure_saboteur", "db/d06/a21705.html#a051e99f11de367f810d9404a723173fd", null ],
-    [ "FinishPointReached", "db/d06/a21705.html#a451777273b76e4651b1f4309e8477c9f", null ],
-    [ "InitializeAI", "db/d06/a21705.html#acf28368986b940b571f493bd663e8e09", null ],
-    [ "MoveInLineOfSight", "db/d06/a21705.html#a1a65d5100befd33a104a13eef0800ae7", null ],
-    [ "UpdateAI", "db/d06/a21705.html#af5cf21e08a62b09793e99a92df1ef1b7", null ],
-    [ "WaypointReached", "db/d06/a21705.html#a7c6f44f0dcdb0d5abc18e304383d3b96", null ],
-    [ "WaypointReached", "db/d06/a21705.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_boss", "db/d06/a21705.html#ab23d685ca979bba79a3d9a14117350f8", null ],
-    [ "_count", "db/d06/a21705.html#aa431780ab6b90976494058a602377825", null ],
-    [ "_events", "db/d06/a21705.html#a7ee513b49f09971f5fea099e8c9b7bc7", null ],
-    [ "_instance", "db/d06/a21705.html#ab220c76d2fd72df36b5b92ee897d9d14", null ],
-    [ "_isOpening", "db/d06/a21705.html#a59ecc6687f1d5d948c6988d14f577ffd", null ]
+    [ "npc_azure_captain", "db/d06/a21705.html#abbdba89267506b8dd1e93ea0e059979c", null ],
+    [ "Reset", "db/d06/a21705.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
+    [ "UpdateAI", "db/d06/a21705.html#a9aacf1533414ade27973ddcc46434978", null ],
+    [ "_events", "db/d06/a21705.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
 ];

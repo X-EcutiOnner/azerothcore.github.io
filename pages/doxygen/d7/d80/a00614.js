@@ -1,12 +1,16 @@
 var a00614 =
 [
-    [ "CSymbolInfoPackage", "db/d36/a05621.html", "db/d36/a05621" ],
-    [ "_NO_CVCONST_H", "d7/d80/a00614.html#af8660cbefcf140a8992e862e401bc473", null ],
-    [ "CrashFolder", "d7/d80/a00614.html#a55b3d8676a4478f058eeb12d4e8b35b2", null ],
-    [ "EXCEPTION", "d7/d80/a00614.html#a04a8ef8e5d1a39a04fed031f53ffa2db", null ],
-    [ "WIN32_LEAN_AND_MEAN", "d7/d80/a00614.html#ac7bef5d85e3dcd73eef56ad39ffc84a9", null ],
-    [ "ErrorMessage", "d7/d80/a00614.html#a75b4eb6a99991d301f7d44683ce13c9e", null ],
-    [ "ToTchar", "d7/d80/a00614.html#a9f2ce59205c508258855d0568854e367", null ],
-    [ "ToTchar", "d7/d80/a00614.html#a74d70382aec7501d6df3dcb969b85902", null ],
-    [ "g_WheatyExceptionReport", "d7/d80/a00614.html#a9fff8ce906026fe3179e50e97182d90d", null ]
+    [ "RandomEngine", "da/dca/a05933.html", "da/dca/a05933" ],
+    [ "frand", "d7/d80/a00614.html#aa28484fcb823a22578601847e4b0ddb4", null ],
+    [ "irand", "d7/d80/a00614.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
+    [ "rand32", "d7/d80/a00614.html#ab91ed86274e1e52eb314784862b61696", null ],
+    [ "rand_chance", "d7/d80/a00614.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
+    [ "rand_norm", "d7/d80/a00614.html#ad552d8147f66d6ec0cd44271e8799599", null ],
+    [ "randtime", "d7/d80/a00614.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
+    [ "randtime", "d7/d80/a00614.html#ad7a1463dbba108f4bfc0d800fa6f99c1", null ],
+    [ "roll_chance_f", "d7/d80/a00614.html#a4b15099bc81731469c5078a778673c94", null ],
+    [ "roll_chance_i", "d7/d80/a00614.html#a50320d4edff86db31b25138ae72161ad", null ],
+    [ "urand", "d7/d80/a00614.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
+    [ "urandms", "d7/d80/a00614.html#a1a4ee564518371004a4d34135600bfa0", null ],
+    [ "urandweighted", "d7/d80/a00614.html#a673de62907a2657190e58678691d3b36", null ]
 ];

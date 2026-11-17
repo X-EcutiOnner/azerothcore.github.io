@@ -1,20 +1,14 @@
 var a00320 =
 [
-    [ "FakeAura", "d2/d81/a30077.html", "d2/d81/a30077" ],
-    [ "AuraMap", "dd/de2/a00320.html#a73555934eb70bd47712b17961d4b9dcb", null ],
-    [ "TEST", "dd/de2/a00320.html#a6f3a168c62225238ed8035c9b4f0f6fe", null ],
-    [ "TEST", "dd/de2/a00320.html#aceb73ef67334ec5f2c9cd1a8aa7bdda7", null ],
-    [ "TEST", "dd/de2/a00320.html#aff1194c7b9230434ca458f33bab9d293", null ],
-    [ "TEST", "dd/de2/a00320.html#ae700483a709735b15a0745f2dd8b0902", null ],
-    [ "TEST", "dd/de2/a00320.html#a63273c645d8dafd52aa8c6ef62136b56", null ],
-    [ "TEST", "dd/de2/a00320.html#aa2c0e9a9fa7b5b1f66bb71bc1b231130", null ],
-    [ "TEST", "dd/de2/a00320.html#a7c3253e83290d47148f3cd56ff0cd49a", null ],
-    [ "TEST", "dd/de2/a00320.html#a2ab2dcd69266567b9687bf967a256c4f", null ],
-    [ "TEST", "dd/de2/a00320.html#aa08c3c66e68eca77c0b90a7bc865ef4e", null ],
-    [ "TEST", "dd/de2/a00320.html#ab990e3e55613e3163cb61f4c84dac583", null ],
-    [ "TEST", "dd/de2/a00320.html#a462c439ae586e17a0f6faa911bdf05cc", null ],
-    [ "TEST", "dd/de2/a00320.html#a8e42d098fd67bc0c558126a0d1334c66", null ],
-    [ "TEST", "dd/de2/a00320.html#a18d7003dc969cf032e00f49b012fa303", null ],
-    [ "TEST", "dd/de2/a00320.html#a545c762236024232cb91afe6958adf38", null ],
-    [ "TEST", "dd/de2/a00320.html#a511d586a9f8ae8e0ba80b7a714c55164", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "dd/de2/a00320.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "isHole", "dd/de2/a00320.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
+    [ "holetab_h", "dd/de2/a00320.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
+    [ "holetab_v", "dd/de2/a00320.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
+    [ "MCINMagic", "dd/de2/a00320.html#a6f946547b65d321100fd6efa2966180c", null ],
+    [ "MCLQMagic", "dd/de2/a00320.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
+    [ "MCNKMagic", "dd/de2/a00320.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
+    [ "MCVTMagic", "dd/de2/a00320.html#a32010e610a970d3891ae5effca03de37", null ],
+    [ "MFBOMagic", "dd/de2/a00320.html#a329d005a0989137286469e197dc0c812", null ],
+    [ "MH2OMagic", "dd/de2/a00320.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
+    [ "MHDRMagic", "dd/de2/a00320.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
 ];

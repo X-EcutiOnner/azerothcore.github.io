@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Player/TradeData.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Events/GameEventMgr.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,62 +106,121 @@ $(document).ready(function(){initNavTree('d7/d54/a02342.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">TradeData.h File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">GameEventMgr.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DisableMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">HolidayDateCalculator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Language.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">PoolMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">UnitAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldState.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldStatePackets.h</a>&quot;</code><br />
+<code>#include &lt;chrono&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a09181.html">TradeData</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a09337.html">GameEventAIHookWorker</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:ad8fd978c4198825d89a1f02643d20c62"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a> { <br />
-&#160;&#160;<a class="el" href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488">TRADE_SLOT_COUNT</a> = 7
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79">TRADE_SLOT_TRADED_COUNT</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f">TRADE_SLOT_NONTRADED</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4">TRADE_SLOT_INVALID</a> = -1
-<br />
- }</td></tr>
-<tr class="separator:ad8fd978c4198825d89a1f02643d20c62"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a429db26781d2673aa2f031fc1327ffaf"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d54/a02342.html#a429db26781d2673aa2f031fc1327ffaf">IsHolidayActive</a> (<a class="el" href="../../d3/d8f/a05099.html#ad279224fea61f9754572051fc5ff1fab">HolidayIds</a> id)</td></tr>
+<tr class="separator:a429db26781d2673aa2f031fc1327ffaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad54f33b2e05154d9c2a384ff579b9208"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d54/a02342.html#ad54f33b2e05154d9c2a384ff579b9208">IsEventActive</a> (<a class="el" href="../../da/dee/a00383.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> eventId)</td></tr>
+<tr class="separator:ad54f33b2e05154d9c2a384ff579b9208"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="ad8fd978c4198825d89a1f02643d20c62" name="ad8fd978c4198825d89a1f02643d20c62"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad8fd978c4198825d89a1f02643d20c62">&#9670;&#160;</a></span>TradeSlots</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="ad54f33b2e05154d9c2a384ff579b9208" name="ad54f33b2e05154d9c2a384ff579b9208"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad54f33b2e05154d9c2a384ff579b9208">&#9670;&#160;</a></span>IsEventActive()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a></td>
+          <td class="memname">bool IsEventActive </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/dee/a00383.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>eventId</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488" name="ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488"></a>TRADE_SLOT_COUNT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79" name="ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79"></a>TRADE_SLOT_TRADED_COUNT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f" name="ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f"></a>TRADE_SLOT_NONTRADED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4" name="ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4"></a>TRADE_SLOT_INVALID&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488">TRADE_SLOT_COUNT</a>            = 7,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79">TRADE_SLOT_TRADED_COUNT</a>     = 6,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f">TRADE_SLOT_NONTRADED</a>        = 6,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4">TRADE_SLOT_INVALID</a>          = -1,</div>
-<div class="line"><span class="lineno">   33</span>};</div>
-<div class="ttc" id="aa02342_html_ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488"><div class="ttname"><a href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488">TRADE_SLOT_COUNT</a></div><div class="ttdeci">@ TRADE_SLOT_COUNT</div><div class="ttdef"><b>Definition:</b> TradeData.h:29</div></div>
-<div class="ttc" id="aa02342_html_ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79"><div class="ttname"><a href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79">TRADE_SLOT_TRADED_COUNT</a></div><div class="ttdeci">@ TRADE_SLOT_TRADED_COUNT</div><div class="ttdef"><b>Definition:</b> TradeData.h:30</div></div>
-<div class="ttc" id="aa02342_html_ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4"><div class="ttname"><a href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4">TRADE_SLOT_INVALID</a></div><div class="ttdeci">@ TRADE_SLOT_INVALID</div><div class="ttdef"><b>Definition:</b> TradeData.h:32</div></div>
-<div class="ttc" id="aa02342_html_ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f"><div class="ttname"><a href="../../d7/d54/a02342.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f">TRADE_SLOT_NONTRADED</a></div><div class="ttdeci">@ TRADE_SLOT_NONTRADED</div><div class="ttdef"><b>Definition:</b> TradeData.h:31</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2077</span>{</div>
+<div class="line"><span class="lineno"> 2078</span>    <a class="code hl_typedef" href="../../de/d4d/a09361.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a> <span class="keyword">const</span>&amp; ae = <a class="code hl_define" href="../../d3/d9c/a02336.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetActiveEventList();</div>
+<div class="line"><span class="lineno"> 2079</span>    <span class="keywordflow">return</span> ae.find(eventId) != ae.end();</div>
+<div class="line"><span class="lineno"> 2080</span>}</div>
+<div class="ttc" id="aa02336_html_a3c1c916d94272dfe845b9cc5e8fc292a"><div class="ttname"><a href="../../d3/d9c/a02336.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a></div><div class="ttdeci">#define sGameEventMgr</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:204</div></div>
+<div class="ttc" id="aa09361_html_a9d1e67f8edbe01fedd10c5fb0aeac2cf"><div class="ttname"><a href="../../de/d4d/a09361.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a></div><div class="ttdeci">std::set&lt; uint16 &gt; ActiveEvents</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:106</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00204">sGameEventMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l16346">Player::_LoadBrewOfTheMonth()</a>, <a class="el" href="../../#l00820">Battleground::EndBattleground()</a>, <a class="el" href="../../#l00240">GameEventMgr::LoadEventVendors()</a>, <a class="el" href="../../#l00036">npc_innkeeper::OnGossipHello()</a>, and <a class="el" href="../../#l00063">npc_innkeeper::OnGossipSelect()</a>.</p>
+
+</div>
+</div>
+<a id="a429db26781d2673aa2f031fc1327ffaf" name="a429db26781d2673aa2f031fc1327ffaf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a429db26781d2673aa2f031fc1327ffaf">&#9670;&#160;</a></span>IsHolidayActive()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool IsHolidayActive </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d8f/a05099.html#ad279224fea61f9754572051fc5ff1fab">HolidayIds</a>&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 2055</span>{</div>
+<div class="line"><span class="lineno"> 2056</span>    <span class="keywordflow">if</span> (<span class="keywordtype">id</span> == <a class="code hl_enumvalue" href="../../d3/d8f/a05099.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a>)</div>
+<div class="line"><span class="lineno"> 2057</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2058</span> </div>
+<div class="line"><span class="lineno"> 2059</span>    <a class="code hl_typedef" href="../../de/d4d/a09361.html#a2d313485105c8ef04b27833f312a2601">GameEventMgr::GameEventDataMap</a> <span class="keyword">const</span>&amp; <a class="code hl_enumeration" href="../../dc/d0a/a03125.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a> = <a class="code hl_define" href="../../d3/d9c/a02336.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetEventMap();</div>
+<div class="line"><span class="lineno"> 2060</span>    <a class="code hl_typedef" href="../../de/d4d/a09361.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a> <span class="keyword">const</span>&amp; ae = <a class="code hl_define" href="../../d3/d9c/a02336.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetActiveEventList();</div>
+<div class="line"><span class="lineno"> 2061</span> </div>
+<div class="line"><span class="lineno"> 2062</span>    <span class="comment">// Brewfest and the Darkmoon Faire have a building stage running days ahead of the event itself,</span></div>
+<div class="line"><span class="lineno"> 2063</span>    <span class="comment">// only their last stage means the holiday is on</span></div>
+<div class="line"><span class="lineno"> 2064</span>    <a class="code hl_typedef" href="../../da/dee/a00383.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> mainStage = <a class="code hl_define" href="../../d3/d9c/a02336.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetHolidayMainStage(<span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno"> 2065</span> </div>
+<div class="line"><span class="lineno"> 2066</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/dee/a00383.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> eventId : ae)</div>
+<div class="line"><span class="lineno"> 2067</span>    {</div>
+<div class="line"><span class="lineno"> 2068</span>        <a class="code hl_struct" href="../../dd/ded/a09349.html">GameEventData</a> <span class="keyword">const</span>&amp; <span class="keyword">event</span> = <a class="code hl_enumeration" href="../../dc/d0a/a03125.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>[eventId];</div>
+<div class="line"><span class="lineno"> 2069</span>        <span class="keywordflow">if</span> (event.HolidayId == <span class="keywordtype">id</span> &amp;&amp; event.HolidayStage == mainStage)</div>
+<div class="line"><span class="lineno"> 2070</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2071</span>    }</div>
+<div class="line"><span class="lineno"> 2072</span> </div>
+<div class="line"><span class="lineno"> 2073</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2074</span>}</div>
+<div class="ttc" id="aa00383_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/dee/a00383.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa00383_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../da/dee/a00383.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
+<div class="ttc" id="aa03125_html_ad29858f6d8ab73f2970f41cb21a76b84"><div class="ttname"><a href="../../dc/d0a/a03125.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a></div><div class="ttdeci">events</div><div class="ttdef"><b>Definition:</b> boss_sartura.cpp:43</div></div>
+<div class="ttc" id="aa05099_html_ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7"><div class="ttname"><a href="../../d3/d8f/a05099.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a></div><div class="ttdeci">@ HOLIDAY_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:2975</div></div>
+<div class="ttc" id="aa09349_html"><div class="ttname"><a href="../../dd/ded/a09349.html">GameEventData</a></div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:57</div></div>
+<div class="ttc" id="aa09361_html_a2d313485105c8ef04b27833f312a2601"><div class="ttname"><a href="../../de/d4d/a09361.html#a2d313485105c8ef04b27833f312a2601">GameEventMgr::GameEventDataMap</a></div><div class="ttdeci">std::vector&lt; GameEventData &gt; GameEventDataMap</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02975">HOLIDAY_NONE</a>, and <a class="el" href="../../#l00204">sGameEventMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02353">Player::CanUseItem()</a>, <a class="el" href="../../#l00909">BattlegroundMgr::IsBGWeekend()</a>, <a class="el" href="../../#l02901">lfg::LFGMgr::IsSeasonActive()</a>, <a class="el" href="../../#l00304">AchievementCriteriaData::Meets()</a>, <a class="el" href="../../#l00180">npc_midsummer_bonfire::npc_midsummer_bonfire()</a>, <a class="el" href="../../#l00445">spell_bonfires_blessing::OnApply()</a>, <a class="el" href="../../#l00157">MidsummerPlayerScript::OnPlayerUpdateZone()</a>, <a class="el" href="../../#l01242">BattlegroundAV::SetupBattleground()</a>, <a class="el" href="../../#l00517">go_brewfest_music::go_brewfest_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00664">go_pirate_day_music::go_pirate_day_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00719">go_darkmoon_faire_music::go_darkmoon_faire_musicAI::UpdateAI()</a>, and <a class="el" href="../../#l00774">go_midsummer_music::go_midsummer_musicAI::UpdateAI()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -169,8 +228,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_47dd4bd942ccc740eef16326f5a4c0e4.html">Player</a></li><li class="navelem"><a class="el" href="../../d7/d54/a02342.html">TradeData.h</a></li>
-    <li class="footer">Generated on Tue Nov 10 2026 02:53:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_be7ddcf5a4570b7daa864eaef60ffbc7.html">Events</a></li><li class="navelem"><a class="el" href="../../d7/d54/a02342.html">GameEventMgr.cpp</a></li>
+    <li class="footer">Generated on Tue Nov 17 2026 03:05:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

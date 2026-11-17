@@ -1,6 +1,6 @@
 var a18313 =
 [
-    [ "HandlePeriodicTick", "d8/d7f/a18313.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "d8/d7f/a18313.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "d8/d7f/a18313.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "npc_darnavanAI", "d0/d3e/a18317.html", "d0/d3e/a18317" ],
+    [ "npc_darnavan", "d8/d7f/a18313.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "d8/d7f/a18313.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

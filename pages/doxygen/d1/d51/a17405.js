@@ -1,6 +1,8 @@
 var a17405 =
 [
-    [ "npc_fos_leader_secondAI", "d2/de3/a17409.html", "d2/de3/a17409" ],
-    [ "npc_fos_leader_second", "d1/d51/a17405.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
-    [ "GetAI", "d1/d51/a17405.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
+    [ "npc_fos_leaderAI", "d2/de3/a17409.html", "d2/de3/a17409" ],
+    [ "npc_fos_leader", "d1/d51/a17405.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "d1/d51/a17405.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "d1/d51/a17405.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "d1/d51/a17405.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

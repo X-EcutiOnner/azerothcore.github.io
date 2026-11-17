@@ -1,12 +1,19 @@
 var a19613 =
 [
-    [ "npc_boss_gothik_minionAI", "d6/d76/a19613.html#aa719d87c65294fc483b424b125619a10", null ],
-    [ "IsOnSameSide", "d6/d76/a19613.html#a7d305be5e3d66c1317fa91e588223da0", null ],
-    [ "JustDied", "d6/d76/a19613.html#a752b6eab9cf1b016962c6f535586b59d", null ],
-    [ "JustEngagedWith", "d6/d76/a19613.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
-    [ "KilledUnit", "d6/d76/a19613.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
-    [ "Reset", "d6/d76/a19613.html#a309401236c254cd850759a0cbb4004e0", null ],
-    [ "UpdateAI", "d6/d76/a19613.html#a43744e96be00d8bc0afc34a570e79947", null ],
-    [ "events", "d6/d76/a19613.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
-    [ "livingSide", "d6/d76/a19613.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
+    [ "boss_gothikAI", "d6/d76/a19613.html#a18ae481969ed0885122058b0ebf98cc8", null ],
+    [ "CheckGroupSplitted", "d6/d76/a19613.html#a1efec7ad0793812f83e808b961059875", null ],
+    [ "DamageTaken", "d6/d76/a19613.html#a40e40340002d05d97aa944c14af4030c", null ],
+    [ "IsInRoom", "d6/d76/a19613.html#a73b20994a1949731b83a3a28b70ad9d1", null ],
+    [ "JustDied", "d6/d76/a19613.html#a9c4e6647c05785664cd23fce73d8ca87", null ],
+    [ "JustEngagedWith", "d6/d76/a19613.html#aa2e622be4faa605aa7b13af333bd1a91", null ],
+    [ "JustSummoned", "d6/d76/a19613.html#a9bbe9412721e4173ef37a1dbd494c262", null ],
+    [ "KilledUnit", "d6/d76/a19613.html#adde94c95fcfe2cacee16b06f73528651", null ],
+    [ "OpenGate", "d6/d76/a19613.html#a6c2f0b49dec037f300206341bbb0f0a0", null ],
+    [ "Reset", "d6/d76/a19613.html#a31f3993b01755f45f3fe997d599a52d4", null ],
+    [ "SummonHelpers", "d6/d76/a19613.html#aaa751f216763deba29fde2d0aba09567", null ],
+    [ "UpdateAI", "d6/d76/a19613.html#ada9b63a61fc4c8abb60fdff30fb9487d", null ],
+    [ "gateOpened", "d6/d76/a19613.html#ad2de325f3fde87679503664de81a911e", null ],
+    [ "lastTeleportDead", "d6/d76/a19613.html#aaec3668a6ff72ccee46148b2d9b4e3ad", null ],
+    [ "secondPhase", "d6/d76/a19613.html#a1e4526d104670d4899ef6dd5760c2437", null ],
+    [ "waveCount", "d6/d76/a19613.html#a4ed9dfac7e4d22fcb1f8396ca1318073", null ]
 ];

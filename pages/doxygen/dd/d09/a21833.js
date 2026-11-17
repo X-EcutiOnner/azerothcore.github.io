@@ -1,8 +1,7 @@
 var a21833 =
 [
-    [ "npc_dusk", "dd/d09/a21833.html#ab142eb266e64af625a8a38d3234ded72", null ],
-    [ "MovementInform", "dd/d09/a21833.html#a49cade56e631668c946edb6753172c87", null ],
-    [ "PassengerBoarded", "dd/d09/a21833.html#aaff19f52995db17f4dab953e2e928c68", null ],
-    [ "WaypointReached", "dd/d09/a21833.html#ac8f70426313aa6834285905e94f1d0d9", null ],
-    [ "_ejected", "dd/d09/a21833.html#a4f749f98c178a32b211bbd38b9447607", null ]
+    [ "HandleScriptEffect", "dd/d09/a21833.html#adc89459d7b6c073b8a60e08a9e3281cf", null ],
+    [ "PrepareSpellScript", "dd/d09/a21833.html#a8f15bf27d9e54c1ee6c84f99f1f83d48", null ],
+    [ "Register", "dd/d09/a21833.html#a86ef787e1db46e578a10ca25ac84ba87", null ],
+    [ "Validate", "dd/d09/a21833.html#abeb8baf7dabf2d3acea4df79535770d2", null ]
 ];

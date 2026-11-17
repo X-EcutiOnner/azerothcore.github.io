@@ -1,7 +1,8 @@
 var a02489 =
 [
-    [ "BG_RV_CLOSE_FIRE_TIMER", "da/dbe/a02489.html#adea63e30cefe486dd1cbeb0353fdaeb2", null ],
-    [ "BG_RV_FIRE_TO_PILLAR_TIMER", "da/dbe/a02489.html#a20f119684cfae65594c4cb1fc59e60c1", null ],
-    [ "BG_RV_FIRST_TIMER", "da/dbe/a02489.html#abb49be7549db0a88e8b5fcd470741084", null ],
-    [ "BG_RV_PILLAR_SWITCH_TIMER", "da/dbe/a02489.html#a6ecc5972946e4de12babadf07ce85e2f", null ]
+    [ "WorldPackets::Query::NameQuery", "d1/d96/a11681.html", "d1/d96/a11681" ],
+    [ "WorldPackets::Query::NameQueryResponse", "d8/d1e/a11685.html", "d8/d1e/a11685" ],
+    [ "WorldPackets::Query::TimeQuery", "d0/dac/a11689.html", "d0/dac/a11689" ],
+    [ "WorldPackets::Query::TimeQueryResponse", "d5/dcf/a11693.html", "d5/dcf/a11693" ],
+    [ "WorldPackets::Query::CorpseMapPositionQuery", "d3/db2/a11697.html", "d3/db2/a11697" ]
 ];

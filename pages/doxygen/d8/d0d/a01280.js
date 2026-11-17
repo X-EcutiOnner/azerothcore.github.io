@@ -1,4 +1,6 @@
 var a01280 =
 [
-    [ "ScriptRegistry< WeatherScript >", "d8/d0d/a01280.html#aa691cee39a36861af34c3315e7aa582b", null ]
+    [ "clearAcceptTradeMode", "d8/d0d/a01280.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
+    [ "clearAcceptTradeMode", "d8/d0d/a01280.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
+    [ "setAcceptTradeMode", "d8/d0d/a01280.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
 ];

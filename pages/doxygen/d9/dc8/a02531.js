@@ -1,21 +1,55 @@
 var a02531 =
 [
-    [ "BattlegroundNA", "d0/d92/a07918.html", "d0/d92/a07918" ],
-    [ "BattlegroundNAGameObjects", "d9/dc8/a02531.html#add49f720fa08ffa96e26473cae2b61a9", [
-      [ "BG_NA_OBJECT_TYPE_DOOR_1", "d9/dc8/a02531.html#add49f720fa08ffa96e26473cae2b61a9a1316dbe197353489e03213d3277f32ff", null ],
-      [ "BG_NA_OBJECT_TYPE_DOOR_2", "d9/dc8/a02531.html#add49f720fa08ffa96e26473cae2b61a9a20f05476fbcb6371766b7ae3ed489890", null ],
-      [ "BG_NA_OBJECT_TYPE_DOOR_3", "d9/dc8/a02531.html#add49f720fa08ffa96e26473cae2b61a9ae0d1716599d048803d55154e63f7a3a5", null ],
-      [ "BG_NA_OBJECT_TYPE_DOOR_4", "d9/dc8/a02531.html#add49f720fa08ffa96e26473cae2b61a9af563fe3ddbb78a9d4d6f2a22479077db", null ],
-      [ "BG_NA_OBJECT_TYPE_BUFF_1", "d9/dc8/a02531.html#add49f720fa08ffa96e26473cae2b61a9aba131a1275e72b2445749ef2c5689f96", null ],
-      [ "BG_NA_OBJECT_TYPE_BUFF_2", "d9/dc8/a02531.html#add49f720fa08ffa96e26473cae2b61a9a7c0aab8f173d7f00439a05931bd2925c", null ]
+    [ "WorldSession::DosProtection", "d4/dc5/a11893.html", "d4/dc5/a11893" ],
+    [ "GLOBAL_CACHE_MASK", "db/d6b/a05139.html#gabaf56bd86a496e0886a553118d6ffb08", null ],
+    [ "NUM_ACCOUNT_DATA_TYPES", "db/d6b/a05139.html#gafb353aeb5e84007c9b55aa50ba6e3ddc", null ],
+    [ "PER_CHARACTER_CACHE_MASK", "db/d6b/a05139.html#ga38a03c6cd9103a9891842f233758fbe7", null ],
+    [ "AccountDataType", "db/d6b/a05139.html#gadab21b8c7fecf26675a55eea7811812d", [
+      [ "GLOBAL_CONFIG_CACHE", "db/d6b/a05139.html#ggadab21b8c7fecf26675a55eea7811812daada79ad8567ef8c1839bb4aa1388f59c", null ],
+      [ "PER_CHARACTER_CONFIG_CACHE", "db/d6b/a05139.html#ggadab21b8c7fecf26675a55eea7811812da3199deafd9678b717f9357659ed271b0", null ],
+      [ "GLOBAL_BINDINGS_CACHE", "db/d6b/a05139.html#ggadab21b8c7fecf26675a55eea7811812da580bf2ae915070c0cb1dfa2a2c470936", null ],
+      [ "PER_CHARACTER_BINDINGS_CACHE", "db/d6b/a05139.html#ggadab21b8c7fecf26675a55eea7811812daaa2164f22e7a6cd3e9211bdd39c1c4e6", null ],
+      [ "GLOBAL_MACROS_CACHE", "db/d6b/a05139.html#ggadab21b8c7fecf26675a55eea7811812da2bffb16258c4258924334e7231928217", null ],
+      [ "PER_CHARACTER_MACROS_CACHE", "db/d6b/a05139.html#ggadab21b8c7fecf26675a55eea7811812da0d53cc3dcb154b042fe7a1b81404752c", null ],
+      [ "PER_CHARACTER_LAYOUT_CACHE", "db/d6b/a05139.html#ggadab21b8c7fecf26675a55eea7811812da8db107b5c382a0630b177b9f521dd87c", null ],
+      [ "PER_CHARACTER_CHAT_CACHE", "db/d6b/a05139.html#ggadab21b8c7fecf26675a55eea7811812da5dbeffe8a7f8c60877f3f41a4e813327", null ]
     ] ],
-    [ "BattlegroundNAObjectTypes", "d9/dc8/a02531.html#aa6ddc80a19a5d68782bca5f23b651ffc", [
-      [ "BG_NA_OBJECT_DOOR_1", "d9/dc8/a02531.html#aa6ddc80a19a5d68782bca5f23b651ffca51bc6ecc32ca4cab5dfc799e14edfdc9", null ],
-      [ "BG_NA_OBJECT_DOOR_2", "d9/dc8/a02531.html#aa6ddc80a19a5d68782bca5f23b651ffcaa22fe8f33675b8eac05c69224d71fc5f", null ],
-      [ "BG_NA_OBJECT_DOOR_3", "d9/dc8/a02531.html#aa6ddc80a19a5d68782bca5f23b651ffcac72fe751e3b1f451e48ee8ac82c78370", null ],
-      [ "BG_NA_OBJECT_DOOR_4", "d9/dc8/a02531.html#aa6ddc80a19a5d68782bca5f23b651ffca5690093aa04635e30731d6b165331299", null ],
-      [ "BG_NA_OBJECT_BUFF_1", "d9/dc8/a02531.html#aa6ddc80a19a5d68782bca5f23b651ffcac1c0e18a004c1daaae690b77cb61e340", null ],
-      [ "BG_NA_OBJECT_BUFF_2", "d9/dc8/a02531.html#aa6ddc80a19a5d68782bca5f23b651ffca87f6c8115cba6b3e3c8f30d7845108de", null ],
-      [ "BG_NA_OBJECT_MAX", "d9/dc8/a02531.html#aa6ddc80a19a5d68782bca5f23b651ffca68f38c2d23db000bca22be2fb9cc9f8b", null ]
-    ] ]
+    [ "BFLeaveReason", "db/d6b/a05139.html#gae00b3f15198199be79029b7f245cba4e", [
+      [ "BF_LEAVE_REASON_CLOSE", "db/d6b/a05139.html#ggae00b3f15198199be79029b7f245cba4eaa804834f71e74d728992a144bc3a4bf7", null ],
+      [ "BF_LEAVE_REASON_EXITED", "db/d6b/a05139.html#ggae00b3f15198199be79029b7f245cba4eac58152c3c20952288b738bbcd94b6e04", null ],
+      [ "BF_LEAVE_REASON_LOW_LEVEL", "db/d6b/a05139.html#ggae00b3f15198199be79029b7f245cba4ea409833e268b63d87c8329740d22f8d6d", null ]
+    ] ],
+    [ "CharterTypes", "db/d6b/a05139.html#gae6a6780680157e01b09a257d84b150c7", [
+      [ "GUILD_CHARTER_TYPE", "db/d6b/a05139.html#ggae6a6780680157e01b09a257d84b150c7abc99a46e1b6360a30376c4500292e27c", null ],
+      [ "ARENA_TEAM_CHARTER_2v2_TYPE", "db/d6b/a05139.html#ggae6a6780680157e01b09a257d84b150c7a917d335b0e9d21fec525d5daed0c1356", null ],
+      [ "ARENA_TEAM_CHARTER_3v3_TYPE", "db/d6b/a05139.html#ggae6a6780680157e01b09a257d84b150c7aed12afbbdd721e734868da792db28482", null ],
+      [ "ARENA_TEAM_CHARTER_5v5_TYPE", "db/d6b/a05139.html#ggae6a6780680157e01b09a257d84b150c7afa2e8ef459ee0af6eea7b2be7ce30841", null ]
+    ] ],
+    [ "ChatRestrictionType", "db/d6b/a05139.html#ga54cc6595f95ac4f430e8540afc94f13d", [
+      [ "ERR_CHAT_RESTRICTED", "db/d6b/a05139.html#gga54cc6595f95ac4f430e8540afc94f13da86e568474f13bb72e15b8e92a270b1c9", null ],
+      [ "ERR_CHAT_THROTTLED", "db/d6b/a05139.html#gga54cc6595f95ac4f430e8540afc94f13da34a062f33bdc742a4c6be1f28ef613e7", null ],
+      [ "ERR_USER_SQUELCHED", "db/d6b/a05139.html#gga54cc6595f95ac4f430e8540afc94f13da9bbb4686187f6e5c88606f90f22b18c8", null ],
+      [ "ERR_YELL_RESTRICTED", "db/d6b/a05139.html#gga54cc6595f95ac4f430e8540afc94f13da584e0c0e91185b9f8d415b89e5cbacd7", null ]
+    ] ],
+    [ "DeclinedNameResult", "db/d6b/a05139.html#ga98490641bb011ba9187ee1ed5c94b406", [
+      [ "DECLINED_NAMES_RESULT_SUCCESS", "db/d6b/a05139.html#gga98490641bb011ba9187ee1ed5c94b406add610d06699db29b6f69db8b69d87267", null ],
+      [ "DECLINED_NAMES_RESULT_ERROR", "db/d6b/a05139.html#gga98490641bb011ba9187ee1ed5c94b406ae7ea9b45868387cbcd0f7aff13476683", null ]
+    ] ],
+    [ "PartyOperation", "db/d6b/a05139.html#gaa4a0361b2172789575d5eac42ecb612a", [
+      [ "PARTY_OP_INVITE", "db/d6b/a05139.html#ggaa4a0361b2172789575d5eac42ecb612aa8b30d82ca0b8d909d0445472f4003036", null ],
+      [ "PARTY_OP_UNINVITE", "db/d6b/a05139.html#ggaa4a0361b2172789575d5eac42ecb612aaea450b61d9aa99430d227f2bc20ba66e", null ],
+      [ "PARTY_OP_LEAVE", "db/d6b/a05139.html#ggaa4a0361b2172789575d5eac42ecb612aaf8c14598abfe7de9431f923cce924457", null ],
+      [ "PARTY_OP_SWAP", "db/d6b/a05139.html#ggaa4a0361b2172789575d5eac42ecb612aac2c1d8e8f575d57bed2ae682d80c1a14", null ]
+    ] ],
+    [ "PlayTimeFlag", "db/d6b/a05139.html#gab0f782c25a543ef68ccbf19bcf280d29", [
+      [ "PTF_APPROACHING_PARTIAL_PLAY_TIME", "db/d6b/a05139.html#ggab0f782c25a543ef68ccbf19bcf280d29afd6689f2acd9a847caf26b96c4d3e13e", null ],
+      [ "PTF_APPROACHING_NO_PLAY_TIME", "db/d6b/a05139.html#ggab0f782c25a543ef68ccbf19bcf280d29a50659081fefa503f91ce881b46598b59", null ],
+      [ "PTF_UNK_1", "db/d6b/a05139.html#ggab0f782c25a543ef68ccbf19bcf280d29a67efe9768ed897824b189876a39cdf40", null ],
+      [ "PTF_UNK_2", "db/d6b/a05139.html#ggab0f782c25a543ef68ccbf19bcf280d29a5ea9700b06131482b2364468e8d031d7", null ],
+      [ "PTF_UNHEALTHY_TIME", "db/d6b/a05139.html#ggab0f782c25a543ef68ccbf19bcf280d29a7634120a596bc4d65246fb26c6356bdb", null ]
+    ] ],
+    [ "PLAY_TIME_LIMIT_APPROACHING_FULL", "db/d6b/a05139.html#ga99d2b892339f367e4992d8c083c707d6", null ],
+    [ "PLAY_TIME_LIMIT_APPROACHING_PARTIAL", "db/d6b/a05139.html#ga334dbe31e9d355426b23715e36bfbfa8", null ],
+    [ "PLAY_TIME_LIMIT_FULL", "db/d6b/a05139.html#ga977e6e9ea35bcce39c27928e801d2c66", null ],
+    [ "PLAY_TIME_LIMIT_PARTIAL", "db/d6b/a05139.html#ga571b1b33a44fba02cb1da26849294a9d", null ]
 ];

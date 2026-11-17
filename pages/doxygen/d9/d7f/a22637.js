@@ -1,7 +1,6 @@
 var a22637 =
 [
-    [ "HandleScript", "d9/d7f/a22637.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d9/d7f/a22637.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d9/d7f/a22637.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d9/d7f/a22637.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "go_wg_vehicle_teleporterAI", "d2/dec/a22641.html", "d2/dec/a22641" ],
+    [ "go_wg_vehicle_teleporter", "d9/d7f/a22637.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "d9/d7f/a22637.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

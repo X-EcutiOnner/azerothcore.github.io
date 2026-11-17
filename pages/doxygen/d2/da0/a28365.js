@@ -1,7 +1,6 @@
 var a28365 =
 [
-    [ "FilterTargets", "d2/da0/a28365.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d2/da0/a28365.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d2/da0/a28365.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d2/da0/a28365.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "boss_taerarAI", "d3/d56/a28369.html", "d3/d56/a28369" ],
+    [ "boss_taerar", "d2/da0/a28365.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d2/da0/a28365.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

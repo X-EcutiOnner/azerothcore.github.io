@@ -1,20 +1,19 @@
 var a02084 =
 [
-    [ "WEATHER_SEASONS", "d3/dc0/a05140.html#ga5ee30d2da0d958800dd3ad582c49d487", null ],
-    [ "WeatherState", "d3/dc0/a05140.html#ga32b7b9e733438755c99c2abd6cb8c94d", [
-      [ "WEATHER_STATE_FINE", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94da5d4c47a117d36afee4195bd260951366", null ],
-      [ "WEATHER_STATE_FOG", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94daf088b1890d40b05c4022d90d931e8717", null ],
-      [ "WEATHER_STATE_LIGHT_RAIN", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94dafe59189ae98629ed11fbd343da10e97d", null ],
-      [ "WEATHER_STATE_MEDIUM_RAIN", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94da33ce6050f5c9a8dbbfc2556756f960c3", null ],
-      [ "WEATHER_STATE_HEAVY_RAIN", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94da13bf6f46f69defe7fbea2c659e6d3873", null ],
-      [ "WEATHER_STATE_LIGHT_SNOW", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94da8a760bcf8d764d8749a800905111ab05", null ],
-      [ "WEATHER_STATE_MEDIUM_SNOW", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94da2a382668c4c73bc864079b0cf1602da6", null ],
-      [ "WEATHER_STATE_HEAVY_SNOW", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94daaad9131eee7d0dce651a4142705871a3", null ],
-      [ "WEATHER_STATE_LIGHT_SANDSTORM", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94dabe53f9722c1f5ee37a0ce46a356402eb", null ],
-      [ "WEATHER_STATE_MEDIUM_SANDSTORM", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94da35248c6d29502ee854f2a9c92a1c9204", null ],
-      [ "WEATHER_STATE_HEAVY_SANDSTORM", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94da185c2513fb0f271a64db1feb5691def0", null ],
-      [ "WEATHER_STATE_THUNDERS", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94da0a333865e8ae65ce8f5bb03f905dee29", null ],
-      [ "WEATHER_STATE_BLACKRAIN", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94daa69a93da31c84906e5b64469cda9f27f", null ],
-      [ "WEATHER_STATE_BLACKSNOW", "d3/dc0/a05140.html#gga32b7b9e733438755c99c2abd6cb8c94da3aea8b6958d36e83f025fc7a489d1357", null ]
+    [ "GuildScript", "d9/da7/a10909.html", "d9/da7/a10909" ],
+    [ "GuildHook", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507e", [
+      [ "GUILDHOOK_ON_ADD_MEMBER", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d", null ],
+      [ "GUILDHOOK_ON_REMOVE_MEMBER", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51", null ],
+      [ "GUILDHOOK_ON_MOTD_CHANGED", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5", null ],
+      [ "GUILDHOOK_ON_INFO_CHANGED", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f", null ],
+      [ "GUILDHOOK_ON_CREATE", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e", null ],
+      [ "GUILDHOOK_ON_DISBAND", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58", null ],
+      [ "GUILDHOOK_ON_MEMBER_WITDRAW_MONEY", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b", null ],
+      [ "GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc", null ],
+      [ "GUILDHOOK_ON_ITEM_MOVE", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8", null ],
+      [ "GUILDHOOK_ON_EVENT", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7", null ],
+      [ "GUILDHOOK_ON_BANK_EVENT", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9", null ],
+      [ "GUILDHOOK_CAN_GUILD_SEND_BANK_LIST", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b", null ],
+      [ "GUILDHOOK_END", "da/dbe/a02084.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb", null ]
     ] ]
 ];

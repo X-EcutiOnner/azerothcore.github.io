@@ -1,5 +1,5 @@
 var a01787 =
 [
-    [ "AddonHandler", "de/de5/a10113.html", "de/de5/a10113" ],
-    [ "sAddOnHandler", "de/dc3/a01787.html#a53c18d341aaa47d117be75333e4ab43d", null ]
+    [ "Vehicle", "d0/db1/a09309.html", "d0/db1/a09309" ],
+    [ "VehicleDespawnEvent", "d6/dc2/a09313.html", "d6/dc2/a09313" ]
 ];

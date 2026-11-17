@@ -1,6 +1,6 @@
 var a22329 =
 [
-    [ "npc_guardian_pavilionAI", "d4/db8/a22333.html", "d4/db8/a22333" ],
-    [ "npc_guardian_pavilion", "dc/d02/a22329.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "dc/d02/a22329.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "ChangeSummonPos", "dc/d02/a22329.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "dc/d02/a22329.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "dc/d02/a22329.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

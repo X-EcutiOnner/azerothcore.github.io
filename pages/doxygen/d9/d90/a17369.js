@@ -1,8 +1,7 @@
 var a17369 =
 [
-    [ "npc_fos_corrupted_soul_fragment", "d9/d90/a17369.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
-    [ "Reset", "d9/d90/a17369.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
-    [ "UpdateAI", "d9/d90/a17369.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
-    [ "Instance", "d9/d90/a17369.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
-    [ "Timer", "d9/d90/a17369.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
+    [ "HandleScriptEffect", "d9/d90/a17369.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "d9/d90/a17369.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "d9/d90/a17369.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "d9/d90/a17369.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

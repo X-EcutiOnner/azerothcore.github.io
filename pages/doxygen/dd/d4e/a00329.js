@@ -1,9 +1,6 @@
 var a00329 =
 [
-    [ "ArenaTeamTest", "db/df0/a30037.html", "db/df0/a30037" ],
-    [ "ArenaTeamFilterTest", "d3/d8f/a30041.html", "d3/d8f/a30041" ],
-    [ "ArenaTeamWithType", "dd/d4e/a00329.html#a9ce4d88bf97ee463db69de183769f18e", null ],
-    [ "TEST_F", "dd/d4e/a00329.html#a37c0d226ff50c702fc70274ea77f1f09", null ],
-    [ "TEST_F", "dd/d4e/a00329.html#a0f9cf98a51ec8c4db75724bf81ef8c7c", null ],
-    [ "TEST_F", "dd/d4e/a00329.html#a03a46ff29d075ef3207bb12d9a539b5b", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "dd/d4e/a00329.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MAINMagic", "dd/d4e/a00329.html#a026039bd50ec58444fa975da328951ec", null ],
+    [ "MPHDMagic", "dd/d4e/a00329.html#aac8041bc8ca704e28f2b3054649b3752", null ]
 ];

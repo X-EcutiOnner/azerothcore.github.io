@@ -1,9 +1,10 @@
 var a00422 =
 [
-    [ "localtime_r", "db/d43/a00422.html#a17fdb8f2104b98bad5d9fb343d0a043a", null ],
-    [ "DAYS", "db/d43/a00422.html#ac9bde42940b2570f3865385200b56af8", null ],
-    [ "HOURS", "db/d43/a00422.html#a18161a3aeba136aeffb54a07f08f08f6", null ],
-    [ "MILLISECONDS", "db/d43/a00422.html#a2624e61008f0e89d91c7c55161f9bcd8", null ],
-    [ "MINUTES", "db/d43/a00422.html#abbd89694b6a3e24a701ce6971b2cd37d", null ],
-    [ "SECONDS", "db/d43/a00422.html#a5fb1c8d14d370751c6202fc87b27bf96", null ]
+    [ "BoundsTrait< VMAP::GroupModel >", "d4/d8b/a05477.html", "d4/d8b/a05477" ],
+    [ "VMAP::TriBoundFunc", "de/d74/a05481.html", "de/d74/a05481" ],
+    [ "VMAP::GModelRayCallback", "de/dc0/a05485.html", "de/dc0/a05485" ],
+    [ "VMAP::WModelRayCallBack", "dd/dbd/a05489.html", "dd/dbd/a05489" ],
+    [ "VMAP::WModelAreaCallback", "d2/da0/a05493.html", "d2/da0/a05493" ],
+    [ "IntersectTriangle", "db/d43/a00422.html#a1dfba6966e499a368a393b5b52e5c6f8", null ],
+    [ "IsInsideOrAboveBound", "db/d43/a00422.html#af71b89398ed4323940f67baaf58f2cd7", null ]
 ];

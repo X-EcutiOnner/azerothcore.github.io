@@ -1,4 +1,5 @@
 var a00677 =
 [
-    [ "SessionKeyGenerator< Hash >", "d3/ddd/a05594.html", "d3/ddd/a05594" ]
+    [ "EventMap", "d9/d61/a05905.html", "d9/d61/a05905" ],
+    [ "EventMap::Event", "d7/d14/a05909.html", "d7/d14/a05909" ]
 ];

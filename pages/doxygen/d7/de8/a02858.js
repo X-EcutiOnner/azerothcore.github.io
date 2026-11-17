@@ -1,6 +1,5 @@
 var a02858 =
 [
-    [ "GetWeatherData", "d7/de8/a02858.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
-    [ "LoadWeatherData", "d7/de8/a02858.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
-    [ "_weatherData", "d7/de8/a02858.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "dd/d4b/a22729.html", "dd/d4b/a22729" ],
+    [ "AddSC_outdoorpvp_ep", "d7/de8/a02858.html#ac97adfc1efbcf82840cffa915a55fecb", null ]
 ];

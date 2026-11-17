@@ -1,6 +1,6 @@
 var a19961 =
 [
-    [ "boss_eregosAI", "d6/dcb/a19965.html", "d6/dcb/a19965" ],
-    [ "boss_eregos", "d1/df2/a19961.html#a105820f29aa1391d77a56e024c4b5637", null ],
-    [ "GetAI", "d1/df2/a19961.html#aee43f0dfee70ab9618c560a27504cb02", null ]
+    [ "npc_oculus_unstable_sphereAI", "d6/dcb/a19965.html", "d6/dcb/a19965" ],
+    [ "npc_oculus_unstable_sphere", "d1/df2/a19961.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
+    [ "GetAI", "d1/df2/a19961.html#adda2a9e7eab03444742e85729673ab2f", null ]
 ];

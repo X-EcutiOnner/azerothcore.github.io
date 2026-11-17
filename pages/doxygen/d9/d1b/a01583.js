@@ -1,20 +1,15 @@
 var a01583 =
 [
-    [ "WorldPackets::Quest::QuestLogFull", "d6/d74/a11701.html", "d6/d74/a11701" ],
-    [ "WorldPackets::Quest::QuestUpdateComplete", "d4/da8/a11705.html", "d4/da8/a11705" ],
-    [ "WorldPackets::Quest::QuestGiverQuestComplete", "d1/dec/a11709.html", "d1/dec/a11709" ],
-    [ "WorldPackets::Quest::QuestGiverQuestFailed", "d7/d64/a11713.html", "d7/d64/a11713" ],
-    [ "WorldPackets::Quest::QuestUpdateFailedTimer", "d7/d93/a11717.html", "d7/d93/a11717" ],
-    [ "WorldPackets::Quest::QuestGiverQuestInvalid", "da/dae/a11721.html", "da/dae/a11721" ],
-    [ "WorldPackets::Quest::QuestConfirmAccept", "d9/dad/a11725.html", "d9/dad/a11725" ],
-    [ "WorldPackets::Quest::QuestPushResult", "d5/df9/a11729.html", "d5/df9/a11729" ],
-    [ "WorldPackets::Quest::QuestUpdateAddItem", "dc/df8/a11733.html", "dc/df8/a11733" ],
-    [ "WorldPackets::Quest::QuestUpdateAddKill", "dc/db6/a11737.html", "dc/db6/a11737" ],
-    [ "WorldPackets::Quest::QuestUpdateAddPvPKill", "db/d0c/a11741.html", "db/d0c/a11741" ],
-    [ "WorldPackets::Quest::QuestPushResultClient", "d7/d23/a11745.html", "d7/d23/a11745" ],
-    [ "WorldPackets::Quest::QuestGiverQuestAutoLaunch", "de/dd4/a11749.html", "de/dd4/a11749" ],
-    [ "WorldPackets::Quest::QuestLogSwapQuest", "d9/dbb/a11753.html", "d9/dbb/a11753" ],
-    [ "WorldPackets::Quest::QuestLogRemoveQuest", "dd/d6a/a11757.html", "dd/d6a/a11757" ],
-    [ "WorldPackets::Quest::QuestConfirmAcceptClient", "d3/d95/a11761.html", "d3/d95/a11761" ],
-    [ "WorldPackets::Quest::PushQuestToParty", "de/d23/a11765.html", "de/d23/a11765" ]
+    [ "BeforeVisibilityDestroy", "d9/d1b/a01583.html#a8172910e1dfdc7b56ca3931dd2fab1fb", null ],
+    [ "BeforeVisibilityDestroy< Creature >", "d9/d1b/a01583.html#a62188ab6a72d08b62bf37442dbbfdaa6", null ],
+    [ "CraftSkillGainChance", "d9/d1b/a01583.html#a134a6c7afbcd70ce083895705f755d2d", null ],
+    [ "getProbabilityOfLevelUp", "d9/d1b/a01583.html#aa890f698ac89e4049e1107c05d065495", null ],
+    [ "SkillGainChance", "d9/d1b/a01583.html#a66adde9ba6a85d585f6e6e8355499aa6", null ],
+    [ "UpdateVisibilityOf_helper", "d9/d1b/a01583.html#a74b7f95092456b1438f82ae741c77e3b", null ],
+    [ "UpdateVisibilityOf_helper", "d9/d1b/a01583.html#ac66d5bddb2e8a54da47fa75b3fedc154", null ],
+    [ "UpdateVisibilityOf_helper", "d9/d1b/a01583.html#a9ad7cb34613338094db01b886d54cf25", null ],
+    [ "UpdateVisibilityOf_helper", "d9/d1b/a01583.html#a6b71c41b4869661630086bd26c35b630", null ],
+    [ "bonusSkillLevels", "d9/d1b/a01583.html#a72b3624ee55553e28f82ef06d7c74c6a", null ],
+    [ "bonusSkillLevelsSize", "d9/d1b/a01583.html#ad103e97f7db0cfd188ab64f5748c7464", null ],
+    [ "ZONE_UPDATE_INTERVAL", "d9/d1b/a01583.html#afabbcd46bf6f03c5dca10b117810b710", null ]
 ];

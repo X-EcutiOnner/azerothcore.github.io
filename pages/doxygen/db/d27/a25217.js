@@ -1,6 +1,6 @@
 var a25217 =
 [
-    [ "CheckProc", "db/d27/a25217.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
-    [ "PrepareAuraScript", "db/d27/a25217.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
-    [ "Register", "db/d27/a25217.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
+    [ "CalculateAmount", "db/d27/a25217.html#af913c896771e238ef62898f67af61cc4", null ],
+    [ "PrepareAuraScript", "db/d27/a25217.html#a4be139ae22c20468be1930195097d98a", null ],
+    [ "Register", "db/d27/a25217.html#a90d6446ed05f9dfedb43d689e8de0614", null ]
 ];

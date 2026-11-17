@@ -1,4 +1,4 @@
 var a00395 =
 [
-    [ "CircularBuffer< T >", "d9/d28/a05881.html", "d9/d28/a05881" ]
+    [ "ConfigValueCache< ConfigEnum >", "d9/ddf/a05557.html", "d9/ddf/a05557" ]
 ];

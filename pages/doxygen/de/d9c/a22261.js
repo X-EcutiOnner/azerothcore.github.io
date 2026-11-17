@@ -1,6 +1,7 @@
 var a22261 =
 [
-    [ "npc_llod_genericAI", "d7/dc6/a22265.html", "d7/dc6/a22265" ],
-    [ "npc_llod_generic", "de/d9c/a22261.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "de/d9c/a22261.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "npc_battle_at_valhalasAI", "d7/dc6/a22265.html", "d7/dc6/a22265" ],
+    [ "npc_battle_at_valhalas", "de/d9c/a22261.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "de/d9c/a22261.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "de/d9c/a22261.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

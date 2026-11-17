@@ -1,7 +1,10 @@
 var a20493 =
 [
-    [ "boss_freya_lifebinder", "d5/d2d/a20493.html#a1784d6e975192a7442cabb14f688737d", null ],
-    [ "Reset", "d5/d2d/a20493.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
-    [ "UpdateAI", "d5/d2d/a20493.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
-    [ "_scheduler", "d5/d2d/a20493.html#a5c19f04cec9cd899feee7ce2878563cf", null ]
+    [ "boss_freya_elder_ironbranch", "d5/d2d/a20493.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
+    [ "JustDied", "d5/d2d/a20493.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
+    [ "JustEngagedWith", "d5/d2d/a20493.html#a34d87135b8dac114a8783941dba69559", null ],
+    [ "KilledUnit", "d5/d2d/a20493.html#a20b5a622ac233d1280169f54942c894f", null ],
+    [ "Reset", "d5/d2d/a20493.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
+    [ "UpdateAI", "d5/d2d/a20493.html#a00dade8af24a2240187fb4e52138c0d1", null ],
+    [ "events", "d5/d2d/a20493.html#a8693a800da6890004f3ae82fd9898480", null ]
 ];

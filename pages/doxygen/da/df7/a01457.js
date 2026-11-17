@@ -1,7 +1,12 @@
 var a01457 =
 [
-    [ "EMBLEM_PRICE", "da/df7/a01457.html#a6e37f394008ea3eb20a46c84e03512a5", null ],
-    [ "MAX_GUILD_BANK_TAB_TEXT_LEN", "da/df7/a01457.html#a458eaf87a56d0ac3d92187c55b14f437", null ],
-    [ "_GetGuildBankTabPrice", "da/df7/a01457.html#a039068bd46d84b88b1a6a2fa0ae07b80", null ],
-    [ "_GetGuildEventString", "da/df7/a01457.html#a8e9e4c2d24b387f386cf2d9c02996b59", null ]
+    [ "Escort_Waypoint", "d9/d73/a06713.html", "d9/d73/a06713" ],
+    [ "npc_escortAI", "d6/d4e/a06717.html", "d6/d4e/a06717" ],
+    [ "DEFAULT_MAX_PLAYER_DISTANCE", "da/df7/a01457.html#ad23dc39ce2da634e67360fab90e3b9e2", null ],
+    [ "eEscortState", "da/df7/a01457.html#af40ca4990501264cb0359ab6d93fb08a", [
+      [ "STATE_ESCORT_NONE", "da/df7/a01457.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5", null ],
+      [ "STATE_ESCORT_ESCORTING", "da/df7/a01457.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92", null ],
+      [ "STATE_ESCORT_RETURNING", "da/df7/a01457.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48", null ],
+      [ "STATE_ESCORT_PAUSED", "da/df7/a01457.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6", null ]
+    ] ]
 ];

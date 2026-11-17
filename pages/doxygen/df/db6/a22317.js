@@ -1,10 +1,6 @@
 var a22317 =
 [
-    [ "npc_infra_green_bomber_genericAI", "df/db6/a22317.html#aed712ea3625971e059e2ecd158227287", null ],
-    [ "DamageTaken", "df/db6/a22317.html#a8f860368df96e430b441c8316db99c93", null ],
-    [ "GetSummoner", "df/db6/a22317.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
-    [ "IsSummonedBy", "df/db6/a22317.html#a79676717b7c6219ea74ebe5a580eab28", null ],
-    [ "SpreadFire", "df/db6/a22317.html#a5727c839b7dd02ea64eccce3606688d1", null ],
-    [ "UpdateAI", "df/db6/a22317.html#a252875777655e963965676a24c15e766", null ],
-    [ "events", "df/db6/a22317.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
+    [ "HandleDummy", "df/db6/a22317.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "df/db6/a22317.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "df/db6/a22317.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

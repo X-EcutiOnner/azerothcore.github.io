@@ -1,48 +1,37 @@
 var a01811 =
 [
-    [ "AuctionEntry", "d8/d58/a07561.html", "d8/d58/a07561" ],
-    [ "AuctionHouseObject", "df/df4/a07565.html", "df/df4/a07565" ],
-    [ "AuctionHouseMgr", "db/dc8/a07569.html", "db/dc8/a07569" ],
-    [ "AUCTION_SEARCH_DELAY", "d2/d31/a01811.html#a2f8bc5839b2833512daadb09efb7794d", null ],
-    [ "MAX_AUCTION_HOUSE_FACTIONS", "d2/d31/a01811.html#a948e0dd86eca242e8907f45c5f16edac", null ],
-    [ "MAX_AUCTION_ITEMS", "d2/d31/a01811.html#aa87bb3f5c1101ca4c260c6bb743a846e", null ],
-    [ "MAX_AUCTIONS_PER_PAGE", "d2/d31/a01811.html#aa815dc22ea52ecef37fa9285358247c9", null ],
-    [ "MAX_GETALL_RETURN", "d2/d31/a01811.html#aa7ea0efcb608c872aa3375218f3bf857", null ],
-    [ "MIN_AUCTION_TIME", "d2/d31/a01811.html#a65e0ff6290b1d068de3d9be0aa323d27", null ],
-    [ "sAuctionMgr", "d2/d31/a01811.html#ac3e168154709326e99ab24a7d1395906", null ],
-    [ "AuctionAction", "d2/d31/a01811.html#a6f0f1b824cc940197c2bc0cd6cb1dd18", [
-      [ "AUCTION_SELL_ITEM", "d2/d31/a01811.html#a6f0f1b824cc940197c2bc0cd6cb1dd18a47c59e2fd5e2b2cdafa124fee3f94796", null ],
-      [ "AUCTION_CANCEL", "d2/d31/a01811.html#a6f0f1b824cc940197c2bc0cd6cb1dd18ab9f7fb48c99015aed9fd3a2a0a57c72e", null ],
-      [ "AUCTION_PLACE_BID", "d2/d31/a01811.html#a6f0f1b824cc940197c2bc0cd6cb1dd18ab934fb55a314a6d1332d37e5fde04a80", null ]
+    [ "GlobalCooldown", "d5/d4f/a09201.html", "d5/d4f/a09201" ],
+    [ "GlobalCooldownMgr", "dc/d08/a09205.html", "dc/d08/a09205" ],
+    [ "UnitActionBarEntry", "dd/da6/a09209.html", "dd/da6/a09209" ],
+    [ "CharmInfo", "dd/dbc/a09213.html", "dd/dbc/a09213" ],
+    [ "MAKE_UNIT_ACTION_BUTTON", "d2/d31/a01811.html#aa4580ef0cb84c2cc5983e75cb92e3ed1", null ],
+    [ "MAX_SPELL_CHARM", "d2/d31/a01811.html#a05307279d313f131c83ace9bf30d5722", null ],
+    [ "MAX_SPELL_CONTROL_BAR", "d2/d31/a01811.html#af3f4a89bfde2856dbf998cc7d89f8c51", null ],
+    [ "MAX_SPELL_POSSESS", "d2/d31/a01811.html#a19b65e7e2b9f40fcfa66e74212d561c9", null ],
+    [ "MAX_SPELL_VEHICLE", "d2/d31/a01811.html#a6b632c5f71fb4538f4477a66a9ac63f4", null ],
+    [ "MAX_UNIT_ACTION_BAR_INDEX", "d2/d31/a01811.html#a155b8633f243004497699c184b903901", null ],
+    [ "UNIT_ACTION_BUTTON_ACTION", "d2/d31/a01811.html#a374f41406d42023d52c29bb269ccb2b3", null ],
+    [ "UNIT_ACTION_BUTTON_TYPE", "d2/d31/a01811.html#ab00914d5fa4caf6cad7209786ffaf17c", null ],
+    [ "CharmSpellInfo", "d2/d31/a01811.html#a127d601b79cebafada7224b7b4e0c4a2", null ],
+    [ "GlobalCooldownList", "d2/d31/a01811.html#a2f37b877a5fc8dc31f4543660a5b1af9", null ],
+    [ "ActionBarIndex", "d2/d31/a01811.html#a5656c6dd354cdc76da16094dd6f96724", [
+      [ "ACTION_BAR_INDEX_START", "d2/d31/a01811.html#a5656c6dd354cdc76da16094dd6f96724ac963f447654b9785c3236c79ea310b09", null ],
+      [ "ACTION_BAR_INDEX_PET_SPELL_START", "d2/d31/a01811.html#a5656c6dd354cdc76da16094dd6f96724a1b9025dc7f8331f6ca9fd0cfce1b0ae9", null ],
+      [ "ACTION_BAR_INDEX_PET_SPELL_END", "d2/d31/a01811.html#a5656c6dd354cdc76da16094dd6f96724a56eab700626db82e8012fc8daac5cee9", null ],
+      [ "ACTION_BAR_INDEX_END", "d2/d31/a01811.html#a5656c6dd354cdc76da16094dd6f96724a64eaabebc81e8d02513089d4d5591264", null ]
     ] ],
-    [ "AuctionError", "d2/d31/a01811.html#acd1082bcecaa4487e9f32ad1d4cd5225", [
-      [ "ERR_AUCTION_OK", "d2/d31/a01811.html#acd1082bcecaa4487e9f32ad1d4cd5225a3b16c2583b0b0097a95bc23126567b34", null ],
-      [ "ERR_AUCTION_INVENTORY", "d2/d31/a01811.html#acd1082bcecaa4487e9f32ad1d4cd5225a4db8ce7711bbc2b9a30b6c93f63a7f98", null ],
-      [ "ERR_AUCTION_DATABASE_ERROR", "d2/d31/a01811.html#acd1082bcecaa4487e9f32ad1d4cd5225ad9a6332f7dcf4f37c65a07880df64a8d", null ],
-      [ "ERR_AUCTION_NOT_ENOUGHT_MONEY", "d2/d31/a01811.html#acd1082bcecaa4487e9f32ad1d4cd5225a2e3c0e26a932a0d123c74cd6c025c189", null ],
-      [ "ERR_AUCTION_ITEM_NOT_FOUND", "d2/d31/a01811.html#acd1082bcecaa4487e9f32ad1d4cd5225aa75b2e1b0476195aeb1fe923d483a063", null ],
-      [ "ERR_AUCTION_HIGHER_BID", "d2/d31/a01811.html#acd1082bcecaa4487e9f32ad1d4cd5225a8b1421e42296f2d0141c2e2c8dfe5bac", null ],
-      [ "ERR_AUCTION_BID_INCREMENT", "d2/d31/a01811.html#acd1082bcecaa4487e9f32ad1d4cd5225ad31b9ca1c2b4338c2cc19ea57e81bf74", null ],
-      [ "ERR_AUCTION_BID_OWN", "d2/d31/a01811.html#acd1082bcecaa4487e9f32ad1d4cd5225a98a5a65a2cd34419689fe5d6154bf4e9", null ],
-      [ "ERR_AUCTION_RESTRICTED_ACCOUNT", "d2/d31/a01811.html#acd1082bcecaa4487e9f32ad1d4cd5225a5d35d3c3de8c5c8418934d758db2dc35", null ]
+    [ "ActiveStates", "d2/d31/a01811.html#aaec28a439b9086a5fd69bd5358bb46da", [
+      [ "ACT_PASSIVE", "d2/d31/a01811.html#aaec28a439b9086a5fd69bd5358bb46daad917b891f555940a135b2634d2e72b3b", null ],
+      [ "ACT_DISABLED", "d2/d31/a01811.html#aaec28a439b9086a5fd69bd5358bb46daadeaf81cdbd16fe7cfbb9afd2ae17cc17", null ],
+      [ "ACT_ENABLED", "d2/d31/a01811.html#aaec28a439b9086a5fd69bd5358bb46daa60dbce51e005270fd5bc183457883952", null ],
+      [ "ACT_COMMAND", "d2/d31/a01811.html#aaec28a439b9086a5fd69bd5358bb46daa33c1330b175929e3016c6bb437b60ae8", null ],
+      [ "ACT_REACTION", "d2/d31/a01811.html#aaec28a439b9086a5fd69bd5358bb46daa0435ad3a133e548a54374e9d90d39f0d", null ],
+      [ "ACT_DECIDE", "d2/d31/a01811.html#aaec28a439b9086a5fd69bd5358bb46daa24d8db1d523431e423ef8354296ed162", null ]
     ] ],
-    [ "AuctionHouseFaction", "d2/d31/a01811.html#af4f47e9bbd0faf17478c06dd0660bb84", [
-      [ "Alliance", "d2/d31/a01811.html#af4f47e9bbd0faf17478c06dd0660bb84a05bd29b524f0851d42e7902d6af59bf1", null ],
-      [ "Horde", "d2/d31/a01811.html#af4f47e9bbd0faf17478c06dd0660bb84a05d822a409e1a677e40ee5ac1db7a796", null ],
-      [ "Neutral", "d2/d31/a01811.html#af4f47e9bbd0faf17478c06dd0660bb84ae9bb5320b3890b6747c91b5a71ae5a01", null ]
-    ] ],
-    [ "AuctionHouseId", "d2/d31/a01811.html#a6e313ffb5943e7c756e65c142ad1a28d", [
-      [ "Alliance", "d2/d31/a01811.html#a6e313ffb5943e7c756e65c142ad1a28da05bd29b524f0851d42e7902d6af59bf1", null ],
-      [ "Horde", "d2/d31/a01811.html#a6e313ffb5943e7c756e65c142ad1a28da05d822a409e1a677e40ee5ac1db7a796", null ],
-      [ "Neutral", "d2/d31/a01811.html#a6e313ffb5943e7c756e65c142ad1a28dae9bb5320b3890b6747c91b5a71ae5a01", null ]
-    ] ],
-    [ "MailAuctionAnswers", "d2/d31/a01811.html#a098b883868639271d82defd50dad764e", [
-      [ "AUCTION_OUTBIDDED", "d2/d31/a01811.html#a098b883868639271d82defd50dad764eafa59fd83ffed270500a83d207c19b3d0", null ],
-      [ "AUCTION_WON", "d2/d31/a01811.html#a098b883868639271d82defd50dad764eac51a47dbc7d47d70e051386979fa22c8", null ],
-      [ "AUCTION_SUCCESSFUL", "d2/d31/a01811.html#a098b883868639271d82defd50dad764eac212352bbd7fce3cb50b5673de71ae14", null ],
-      [ "AUCTION_EXPIRED", "d2/d31/a01811.html#a098b883868639271d82defd50dad764ea2ef6542e060c27e5364ddca4f77b5edc", null ],
-      [ "AUCTION_CANCELLED_TO_BIDDER", "d2/d31/a01811.html#a098b883868639271d82defd50dad764ea7a49299211b591c1b6b527754069a09c", null ],
-      [ "AUCTION_CANCELED", "d2/d31/a01811.html#a098b883868639271d82defd50dad764eaa56d99ef4cba6dc5afc2865810f0a4c6", null ],
-      [ "AUCTION_SALE_PENDING", "d2/d31/a01811.html#a098b883868639271d82defd50dad764ea9f1d5ad610d6e9d778e61d2f79643dd8", null ]
+    [ "CharmType", "d2/d31/a01811.html#a8a31720d588fad9fce4a74dabc39df8b", [
+      [ "CHARM_TYPE_CHARM", "d2/d31/a01811.html#a8a31720d588fad9fce4a74dabc39df8ba1a1eeed651d163cde9401370f9684249", null ],
+      [ "CHARM_TYPE_POSSESS", "d2/d31/a01811.html#a8a31720d588fad9fce4a74dabc39df8ba2a5727b1c99073b12be5d2e5413cc9eb", null ],
+      [ "CHARM_TYPE_VEHICLE", "d2/d31/a01811.html#a8a31720d588fad9fce4a74dabc39df8ba5db5c00596b83fd1ed870c3fea737fa6", null ],
+      [ "CHARM_TYPE_CONVERT", "d2/d31/a01811.html#a8a31720d588fad9fce4a74dabc39df8ba3086533ebf4fa00b6546f53176b512db", null ]
     ] ]
 ];

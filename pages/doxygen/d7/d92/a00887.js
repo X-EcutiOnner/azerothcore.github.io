@@ -1,25 +1,17 @@
 var a00887 =
 [
-    [ "Socket< T >", "d8/d5f/a29701.html", "d8/d5f/a29701" ],
-    [ "READ_BLOCK_SIZE", "d7/d92/a00887.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
-    [ "IoContextTcpSocket", "d7/d92/a00887.html#af72c5a224bc60d68d08afae3ba0cfb2f", null ],
-    [ "ProxyHeaderAddressFamilyAndProtocol", "d7/d92/a00887.html#a7ddce6d0420753babeb6258ada50eec1", [
-      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4", "d7/d92/a00887.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575", null ],
-      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6", "d7/d92/a00887.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699", null ]
-    ] ],
-    [ "ProxyHeaderReadingState", "d7/d92/a00887.html#aa514bb66fa404b5b180297bb005c3272", [
-      [ "PROXY_HEADER_READING_STATE_NOT_STARTED", "d7/d92/a00887.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c", null ],
-      [ "PROXY_HEADER_READING_STATE_STARTED", "d7/d92/a00887.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98", null ],
-      [ "PROXY_HEADER_READING_STATE_FINISHED", "d7/d92/a00887.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb", null ],
-      [ "PROXY_HEADER_READING_STATE_FAILED", "d7/d92/a00887.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f", null ]
-    ] ],
-    [ "SocketReadCallbackResult", "d7/d92/a00887.html#a28a77649fbf17e65bca542516efff3e3", [
-      [ "KeepReading", "d7/d92/a00887.html#a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5", null ],
-      [ "Stop", "d7/d92/a00887.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481", null ]
-    ] ],
-    [ "SocketState", "d7/d92/a00887.html#af8f6bcfe82815814726ab4f90ea013e7", [
-      [ "Open", "d7/d92/a00887.html#af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274", null ],
-      [ "Closing", "d7/d92/a00887.html#af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e", null ],
-      [ "Closed", "d7/d92/a00887.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e", null ]
-    ] ]
+    [ "DeleteSpellFromAllPlayers", "d7/d92/a00887.html#af0dec25ac7c118b67a71a0356eb37877", null ],
+    [ "GetDiminishingReturnsGroupForSpell", "d7/d92/a00887.html#a35697cceaf39daf069d06c53e8e3cdf7", null ],
+    [ "GetDiminishingReturnsGroupType", "d7/d92/a00887.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1", null ],
+    [ "GetDiminishingReturnsLimitDuration", "d7/d92/a00887.html#a2ba27d428865ac3f87bf6f6843271d3f", null ],
+    [ "GetDiminishingReturnsMaxLevel", "d7/d92/a00887.html#ad621262d491c800fb5ddd016250dd46f", null ],
+    [ "InitTriggerAuraData", "d7/d92/a00887.html#a70fb722e03fe637ce7c9979a00725a3c", null ],
+    [ "IsDiminishingReturnsGroupDurationLimited", "d7/d92/a00887.html#a423a80c889a3456a2b55e0e9c22ad060", null ],
+    [ "IsPartOfSkillLine", "d7/d92/a00887.html#a18102741b602d3b4473f75d4f619a09b", null ],
+    [ "IsPrimaryProfessionSkill", "d7/d92/a00887.html#a09c4e23bd85fab812b67beafbbf1b7b3", null ],
+    [ "LoadPetDefaultSpells_helper", "d7/d92/a00887.html#a26626d5f5404864fcd622872f5cd8af1", null ],
+    [ "isAlwaysTriggeredAura", "d7/d92/a00887.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
+    [ "isTriggerAura", "d7/d92/a00887.html#ad51bed43268eefcceebdda05d85c6a61", null ],
+    [ "procPrepared", "d7/d92/a00887.html#a11410c456e972de7cfb44bbe17709cc4", null ],
+    [ "spellTypeMask", "d7/d92/a00887.html#aacbfece2441a495ad1e709acd28bc9b7", null ]
 ];

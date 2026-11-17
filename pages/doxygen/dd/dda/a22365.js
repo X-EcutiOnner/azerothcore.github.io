@@ -1,6 +1,9 @@
 var a22365 =
 [
-    [ "height", "dd/dda/a22365.html#a04d0e5db8b26cdd262dee31edc22ee02", null ],
-    [ "id", "dd/dda/a22365.html#a28061150c9e37e156487087ba81354ef", null ],
-    [ "landing", "dd/dda/a22365.html#add4aa689be1a0ad7eaeacd09c73c8139", null ]
+    [ "npc_frostbrood_skytalonAI", "dd/dda/a22365.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "dd/dda/a22365.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "dd/dda/a22365.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "dd/dda/a22365.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "dd/dda/a22365.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "dd/dda/a22365.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

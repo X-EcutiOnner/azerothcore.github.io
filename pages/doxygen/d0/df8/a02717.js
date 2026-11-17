@@ -1,17 +1,26 @@
 var a02717 =
 [
-    [ "DeleteSpellFromAllPlayers", "d0/df8/a02717.html#af0dec25ac7c118b67a71a0356eb37877", null ],
-    [ "GetDiminishingReturnsGroupForSpell", "d0/df8/a02717.html#a35697cceaf39daf069d06c53e8e3cdf7", null ],
-    [ "GetDiminishingReturnsGroupType", "d0/df8/a02717.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1", null ],
-    [ "GetDiminishingReturnsLimitDuration", "d0/df8/a02717.html#a2ba27d428865ac3f87bf6f6843271d3f", null ],
-    [ "GetDiminishingReturnsMaxLevel", "d0/df8/a02717.html#ad621262d491c800fb5ddd016250dd46f", null ],
-    [ "InitTriggerAuraData", "d0/df8/a02717.html#a70fb722e03fe637ce7c9979a00725a3c", null ],
-    [ "IsDiminishingReturnsGroupDurationLimited", "d0/df8/a02717.html#a423a80c889a3456a2b55e0e9c22ad060", null ],
-    [ "IsPartOfSkillLine", "d0/df8/a02717.html#a18102741b602d3b4473f75d4f619a09b", null ],
-    [ "IsPrimaryProfessionSkill", "d0/df8/a02717.html#a09c4e23bd85fab812b67beafbbf1b7b3", null ],
-    [ "LoadPetDefaultSpells_helper", "d0/df8/a02717.html#a26626d5f5404864fcd622872f5cd8af1", null ],
-    [ "isAlwaysTriggeredAura", "d0/df8/a02717.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
-    [ "isTriggerAura", "d0/df8/a02717.html#ad51bed43268eefcceebdda05d85c6a61", null ],
-    [ "procPrepared", "d0/df8/a02717.html#a11410c456e972de7cfb44bbe17709cc4", null ],
-    [ "spellTypeMask", "d0/df8/a02717.html#aacbfece2441a495ad1e709acd28bc9b7", null ]
+    [ "PlayerDump", "d0/d45/a12369.html", "d0/d45/a12369" ],
+    [ "PlayerDumpWriter", "d5/d0c/a12373.html", "d5/d0c/a12373" ],
+    [ "PlayerDumpReader", "d1/da3/a12377.html", "d1/da3/a12377" ],
+    [ "DumpReturn", "d0/df8/a02717.html#a4471667403db9bc7532f371d28743866", [
+      [ "DUMP_SUCCESS", "d0/df8/a02717.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
+      [ "DUMP_FILE_OPEN_ERROR", "d0/df8/a02717.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
+      [ "DUMP_TOO_MANY_CHARS", "d0/df8/a02717.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
+      [ "DUMP_FILE_BROKEN", "d0/df8/a02717.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
+      [ "DUMP_CHARACTER_DELETED", "d0/df8/a02717.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ],
+      [ "DUMP_GUID_OVERFLOW", "d0/df8/a02717.html#a4471667403db9bc7532f371d28743866ad611e98ad0ae594831f17cbab86dcb6a", null ]
+    ] ],
+    [ "DumpTableType", "d0/df8/a02717.html#ad4739d865080bb5590831b606365e7ef", [
+      [ "DTT_CHARACTER", "d0/df8/a02717.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
+      [ "DTT_CHAR_TABLE", "d0/df8/a02717.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
+      [ "DTT_EQSET_TABLE", "d0/df8/a02717.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
+      [ "DTT_INVENTORY", "d0/df8/a02717.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
+      [ "DTT_MAIL", "d0/df8/a02717.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
+      [ "DTT_MAIL_ITEM", "d0/df8/a02717.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
+      [ "DTT_ITEM", "d0/df8/a02717.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
+      [ "DTT_ITEM_GIFT", "d0/df8/a02717.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
+      [ "DTT_PET", "d0/df8/a02717.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
+      [ "DTT_PET_TABLE", "d0/df8/a02717.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
+    ] ]
 ];

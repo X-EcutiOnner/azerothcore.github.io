@@ -1,14 +1,7 @@
 var a01190 =
 [
-    [ "ServerScript", "dc/d55/a10957.html", "dc/d55/a10957" ],
-    [ "ServerHook", "dc/d19/a01190.html#af8cee964a488266c6dec6c3b76b1a2d9", [
-      [ "SERVERHOOK_ON_NETWORK_START", "dc/d19/a01190.html#af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3", null ],
-      [ "SERVERHOOK_ON_NETWORK_STOP", "dc/d19/a01190.html#af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4", null ],
-      [ "SERVERHOOK_ON_SOCKET_OPEN", "dc/d19/a01190.html#af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd", null ],
-      [ "SERVERHOOK_ON_SOCKET_CLOSE", "dc/d19/a01190.html#af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d", null ],
-      [ "SERVERHOOK_CAN_PACKET_SEND", "dc/d19/a01190.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12", null ],
-      [ "SERVERHOOK_CAN_PACKET_RECEIVE", "dc/d19/a01190.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971", null ],
-      [ "SERVERHOOK_ON_PACKET_SENT", "dc/d19/a01190.html#af8cee964a488266c6dec6c3b76b1a2d9ad452528992b6907471f3b05d896e4c42", null ],
-      [ "SERVERHOOK_END", "dc/d19/a01190.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc", null ]
-    ] ]
+    [ "GetExplicitDiscoverySpell", "dc/d19/a01190.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
+    [ "GetSkillDiscoverySpell", "dc/d19/a01190.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
+    [ "HasDiscoveredAllSpells", "dc/d19/a01190.html#abdf3c2fcf65212466dfb54053e35024c", null ],
+    [ "LoadSkillDiscoveryTable", "dc/d19/a01190.html#addd95f0a239a27ed32cd943aa1052019", null ]
 ];

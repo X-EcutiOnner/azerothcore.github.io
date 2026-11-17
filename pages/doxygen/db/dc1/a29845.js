@@ -1,5 +1,7 @@
 var a29845 =
 [
-    [ "auraHasDisableProcAttr", "db/dc1/a29845.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
-    [ "triggeringSpellIsProcDisabled", "db/dc1/a29845.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
+    [ "flatModifier", "db/dc1/a29845.html#a781485dfaede63716eddba66971600e3", null ],
+    [ "hasSpellModOwner", "db/dc1/a29845.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
+    [ "hasSpellProto", "db/dc1/a29845.html#a96607da311b5774eeaa01674d32ab22e", null ],
+    [ "pctModifier", "db/dc1/a29845.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
 ];

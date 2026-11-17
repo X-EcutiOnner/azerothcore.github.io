@@ -1,7 +1,7 @@
 var a20497 =
 [
-    [ "boss_freya_healthy_spore", "df/d56/a20497.html#abc2492b9cf96cb00940b18fac549fb00", null ],
-    [ "Reset", "df/d56/a20497.html#abe3f794707aa722e73b1728700876083", null ],
-    [ "UpdateAI", "df/d56/a20497.html#ac8c952848687cd883aaefe466b799e3b", null ],
-    [ "_despawnTimer", "df/d56/a20497.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
+    [ "boss_freya_iron_root", "df/d56/a20497.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "df/d56/a20497.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ],
+    [ "OnDespawn", "df/d56/a20497.html#abd0258796a696e6665ecd51b27cc0b1e", null ],
+    [ "ReleaseRootedPlayer", "df/d56/a20497.html#a87fe9f9e32bcc44e8692fd317ab864db", null ]
 ];

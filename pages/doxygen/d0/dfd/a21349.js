@@ -1,7 +1,6 @@
 var a21349 =
 [
-    [ "npc_frost_tomb", "d0/dfd/a21349.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d0/dfd/a21349.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d0/dfd/a21349.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d0/dfd/a21349.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "CheckRequirement", "d0/dfd/a21349.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
+    [ "PrepareSpellScript", "d0/dfd/a21349.html#a06e1b98a589717bdef6444912a7ad602", null ],
+    [ "Register", "d0/dfd/a21349.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
 ];

@@ -1,20 +1,12 @@
 var a21117 =
 [
-    [ "boss_yoggsaron", "de/dce/a21117.html#a28abd29c2f570dd5f6f56289a6cc5e9e", null ],
-    [ "AttackStart", "de/dce/a21117.html#a8110dc78a8e60d25df6195107960365a", null ],
-    [ "DamageTaken", "de/dce/a21117.html#a7b8ec3010f0137d8330c7062ffd35e86", null ],
-    [ "DoAction", "de/dce/a21117.html#a647c5cf55081ec4d66ae75be5d471210", null ],
-    [ "GetData", "de/dce/a21117.html#a68bb5622ddd9bd74f2eaefce3a0ac54f", null ],
-    [ "JustDied", "de/dce/a21117.html#afa4914458cbcf03ae8e305b2d2c40131", null ],
-    [ "JustSummoned", "de/dce/a21117.html#af641e349634bc2977fd2fe7b7edad310", null ],
-    [ "SetData", "de/dce/a21117.html#a449d1e3b3e2bf883254b9714df4a3ac5", null ],
-    [ "SpellHit", "de/dce/a21117.html#ab477975d288844051b22991649bdedd4", null ],
-    [ "SummonImmortalGuardian", "de/dce/a21117.html#ad8ba569e58047dcfff8d764489f024ad", null ],
-    [ "UpdateAI", "de/dce/a21117.html#a395114524b73f0176aa9ed331cc0683f", null ],
-    [ "_defeated", "de/dce/a21117.html#a280278471444ecfaf6a24be36a097cbf", null ],
-    [ "_instance", "de/dce/a21117.html#aa9878513823c8f3f71a5dd5b80ae20f4", null ],
-    [ "_thirdPhase", "de/dce/a21117.html#a0d76e9ae977a2165d52413807897604e", null ],
-    [ "_usedInsane", "de/dce/a21117.html#a28191094a0252d5af48f5b046013eb3e", null ],
-    [ "events", "de/dce/a21117.html#ac27bba5841f4c50a01a8e2b434ee56cf", null ],
-    [ "summons", "de/dce/a21117.html#a0a11e2b828a90ca1ba72d7c19804e654", null ]
+    [ "boss_yoggsaron_cloud", "de/dce/a21117.html#a4efbeab85d5770784f1474176a23fd74", null ],
+    [ "DoAction", "de/dce/a21117.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
+    [ "JustSummoned", "de/dce/a21117.html#a2c321419548e8ce151d639c3fbd7b1b4", null ],
+    [ "MoveCircle", "de/dce/a21117.html#ae5b286e1fd294f8f8fafdf4589226bf6", null ],
+    [ "Reset", "de/dce/a21117.html#ad548ae65a05f600487a57899760ebab0", null ],
+    [ "UpdateAI", "de/dce/a21117.html#aa4b62a29fe7d62a2124d8cfaf9c612ec", null ],
+    [ "_checkTimer", "de/dce/a21117.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
+    [ "_isSummoning", "de/dce/a21117.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ],
+    [ "clockwise", "de/dce/a21117.html#ad57ebcd626b3333a5785caeb1dd43fd5", null ]
 ];

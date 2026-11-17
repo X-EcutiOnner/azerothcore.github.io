@@ -1,6 +1,6 @@
 var a28317 =
 [
-    [ "npc_dream_fogAI", "d3/dda/a28321.html", "d3/dda/a28321" ],
-    [ "npc_dream_fog", "d6/dd9/a28317.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d6/dd9/a28317.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d6/dd9/a28317.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d6/dd9/a28317.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d6/dd9/a28317.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

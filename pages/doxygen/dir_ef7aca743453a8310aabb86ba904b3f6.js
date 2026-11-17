@@ -1,15 +1,15 @@
 var dir_ef7aca743453a8310aabb86ba904b3f6 =
 [
     [ "Auras", "dir_8af33554ddafa3432455437cc558c9c8.html", "dir_8af33554ddafa3432455437cc558c9c8" ],
-    [ "Spell.cpp", "db/d26/a02129.html", "db/d26/a02129" ],
-    [ "Spell.h", "dc/d29/a02144.html", "dc/d29/a02144" ],
-    [ "SpellDefines.h", "d5/d88/a02141.html", "d5/d88/a02141" ],
-    [ "SpellEffects.cpp", "d4/d5d/a02150.html", "d4/d5d/a02150" ],
-    [ "SpellInfo.cpp", "df/daa/a02135.html", "df/daa/a02135" ],
-    [ "SpellInfo.h", "db/df6/a02138.html", "db/df6/a02138" ],
-    [ "SpellInfoCorrections.cpp", "da/da0/a02126.html", "da/da0/a02126" ],
-    [ "SpellMgr.cpp", "df/de9/a02153.html", "df/de9/a02153" ],
-    [ "SpellMgr.h", "dd/d07/a02132.html", "dd/d07/a02132" ],
-    [ "SpellScript.cpp", "d3/d28/a02147.html", null ],
-    [ "SpellScript.h", "d5/d63/a02123.html", "d5/d63/a02123" ]
+    [ "Spell.cpp", "d1/d93/a00875.html", "d1/d93/a00875" ],
+    [ "Spell.h", "d6/d82/a00920.html", "d6/d82/a00920" ],
+    [ "SpellDefines.h", "da/dd6/a00896.html", "da/dd6/a00896" ],
+    [ "SpellEffects.cpp", "d5/dd3/a00902.html", "d5/dd3/a00902" ],
+    [ "SpellInfo.cpp", "df/d41/a00881.html", "df/d41/a00881" ],
+    [ "SpellInfo.h", "d3/d8a/a00899.html", "d3/d8a/a00899" ],
+    [ "SpellInfoCorrections.cpp", "d5/d69/a00878.html", "d5/d69/a00878" ],
+    [ "SpellMgr.cpp", "d7/d92/a00887.html", "d7/d92/a00887" ],
+    [ "SpellMgr.h", "d7/d46/a00890.html", "d7/d46/a00890" ],
+    [ "SpellScript.cpp", "dd/d08/a00884.html", null ],
+    [ "SpellScript.h", "dc/d2c/a00893.html", "dc/d2c/a00893" ]
 ];

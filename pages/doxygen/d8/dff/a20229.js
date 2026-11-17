@@ -1,6 +1,8 @@
 var a20229 =
 [
-    [ "HandlePeriodic", "d8/dff/a20229.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d8/dff/a20229.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d8/dff/a20229.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "go_celestial_planetarium_accessAI", "d8/dff/a20229.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "d8/dff/a20229.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "d8/dff/a20229.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "d8/dff/a20229.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "d8/dff/a20229.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

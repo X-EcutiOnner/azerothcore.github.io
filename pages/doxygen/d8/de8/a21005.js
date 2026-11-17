@@ -1,5 +1,6 @@
 var a21005 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "d8/de8/a21005.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "d8/de8/a21005.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "PrepareSpellScript", "d8/de8/a21005.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
+    [ "Register", "d8/de8/a21005.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
+    [ "SelectPillar", "d8/de8/a21005.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
 ];

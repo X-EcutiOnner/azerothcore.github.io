@@ -1,16 +1,9 @@
 var a20369 =
 [
-    [ "npc_mimirons_inferno", "d0/db7/a20369.html#aedcded9302c0cb9e29475f471bd0612e", null ],
-    [ "AttackStart", "d0/db7/a20369.html#a43a03388c06ef38ab29a1b4d5bc701c6", null ],
-    [ "DoAction", "d0/db7/a20369.html#ade97188bb54f7b5a15a8a596355e4170", null ],
-    [ "JustSummoned", "d0/db7/a20369.html#a77ddb0fbd9f0c2334df122d91913300b", null ],
-    [ "MoveInLineOfSight", "d0/db7/a20369.html#acc2e756af50ebde8300c46ec6f369760", null ],
-    [ "Reset", "d0/db7/a20369.html#afbd0bcdbb24bf1dbdaacecf4b602922b", null ],
-    [ "SummonedCreatureDespawn", "d0/db7/a20369.html#a9b5176d6f1712d36283b0ebeeddee5b2", null ],
-    [ "UpdateAI", "d0/db7/a20369.html#afd800c3a1430fe19edf6fe21763b15d8", null ],
-    [ "WaypointReached", "d0/db7/a20369.html#a13cda9fcb49493477e4a4111d9858ec1", null ],
-    [ "WaypointReached", "d0/db7/a20369.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_recastTimer", "d0/db7/a20369.html#ac74ee90383d6ac140d6187c6115716ed", null ],
-    [ "_spellTimer", "d0/db7/a20369.html#a0683c956325801b63e7e31b8485f35bd", null ],
-    [ "summons", "d0/db7/a20369.html#a7a0be8291200404285277c3689c54106", null ]
+    [ "npc_freya_ward_summon", "d0/db7/a20369.html#ad88b954bbbb68988915ec165ccb0a3dd", null ],
+    [ "CanAIAttack", "d0/db7/a20369.html#a6b91ab899f11e3d6f9907b73476fa61f", null ],
+    [ "IsSummonedBy", "d0/db7/a20369.html#ab6c7cab698470dafd14a0ed2ddd94eca", null ],
+    [ "JustEngagedWith", "d0/db7/a20369.html#a52ca4242be249900f94d918dbc4df6c3", null ],
+    [ "Reset", "d0/db7/a20369.html#ae2e600ad8cae543bdb4b7f7b9c4c626a", null ],
+    [ "UpdateAI", "d0/db7/a20369.html#a175d2ca7a28ab998860fdce324c48c7e", null ]
 ];

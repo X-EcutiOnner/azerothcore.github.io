@@ -1,7 +1,11 @@
 var a20785 =
 [
-    [ "FilterTargets", "d3/dee/a20785.html#a16f739f70b052f71293846903aab8fdd", null ],
-    [ "HandleDummy", "d3/dee/a20785.html#a4290c0e73254fead6e0f1e4abf7d39f4", null ],
-    [ "PrepareSpellScript", "d3/dee/a20785.html#a430d44a79daa53fd492a0f9506bbbcc7", null ],
-    [ "Register", "d3/dee/a20785.html#af3a1324237de67b4fa507e626def7743", null ]
+    [ "npc_ulduar_proximity_mine", "d3/dee/a20785.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "d3/dee/a20785.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "d3/dee/a20785.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "d3/dee/a20785.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "d3/dee/a20785.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "d3/dee/a20785.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "d3/dee/a20785.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "d3/dee/a20785.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

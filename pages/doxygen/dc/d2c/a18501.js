@@ -1,6 +1,7 @@
 var a18501 =
 [
-    [ "boss_rotfaceAI", "d2/d5c/a18505.html", "d2/d5c/a18505" ],
-    [ "boss_rotface", "dc/d2c/a18501.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "dc/d2c/a18501.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "HandleProc", "dc/d2c/a18501.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
+    [ "PrepareAuraScript", "dc/d2c/a18501.html#a5eace3a973165eb82ae95b8052bb9476", null ],
+    [ "Register", "dc/d2c/a18501.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
+    [ "Validate", "dc/d2c/a18501.html#ad2a7488006b16840e02b450cc9150289", null ]
 ];

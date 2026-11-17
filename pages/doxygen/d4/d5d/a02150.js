@@ -1,5 +1,7 @@
 var a02150 =
 [
-    [ "DispelList", "d4/d5d/a02150.html#a711d5a2b2f8cbeb49153d9e33ea51bf1", null ],
-    [ "SpellEffects", "d4/d5d/a02150.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
+    [ "anonymous_namespace{ScriptMgr.cpp}::ScriptTypeInfo< Script, EnabledHookCountValue, PromotedAfterDbLoadValue, LegacyDbValidationValue >", "d8/d22/a11005.html", "d8/d22/a11005" ],
+    [ "TSpellSummary", "da/d97/a06681.html", "da/d97/a06681" ],
+    [ "ScriptRegistryTypes", "d4/d5d/a02150.html#a0e91545a04304e85e47b9e1697318ecb", null ],
+    [ "SpellSummary", "d4/d5d/a02150.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
 ];

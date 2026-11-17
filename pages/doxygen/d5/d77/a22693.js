@@ -1,6 +1,5 @@
 var a22693 =
 [
-    [ "npc_released_offspring_harkoaAI", "de/d36/a22697.html", "de/d36/a22697" ],
-    [ "npc_released_offspring_harkoa", "d5/d77/a22693.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "d5/d77/a22693.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "go_finklestein_cauldron", "d5/d77/a22693.html#a8aa352319c54526069588dacd75ab883", null ],
+    [ "OnGossipHello", "d5/d77/a22693.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
 ];

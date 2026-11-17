@@ -1,8 +1,6 @@
 var a20545 =
 [
-    [ "OnApply", "d9/d10/a20545.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
-    [ "OnRemove", "d9/d10/a20545.html#a4709f570f9014eb36bc8c65269470373", null ],
-    [ "PrepareAuraScript", "d9/d10/a20545.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
-    [ "Register", "d9/d10/a20545.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
-    [ "Validate", "d9/d10/a20545.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
+    [ "npc_ulduar_saronite_vapors", "d9/d10/a20545.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
+    [ "JustDied", "d9/d10/a20545.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
+    [ "_instance", "d9/d10/a20545.html#ad304110ff1bfc33066cd17f04cf40181", null ]
 ];

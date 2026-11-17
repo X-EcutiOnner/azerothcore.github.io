@@ -1,6 +1,6 @@
 var a22037 =
 [
-    [ "npc_spiritual_insightAI", "d5/d01/a22041.html", "d5/d01/a22041" ],
-    [ "npc_spiritual_insight", "de/d47/a22037.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "de/d47/a22037.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "npc_q24545_vegardAI", "d5/d01/a22041.html", "d5/d01/a22041" ],
+    [ "npc_q24545_vegard", "de/d47/a22037.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
+    [ "GetAI", "de/d47/a22037.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
 ];

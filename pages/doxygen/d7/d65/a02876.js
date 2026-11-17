@@ -1,14 +1,9 @@
 var a02876 =
 [
-    [ "AccountInfo", "d4/dc6/a06094.html", "d4/dc6/a06094" ],
-    [ "AuthSession", "d7/d79/a06098.html", "d7/d79/a06098" ],
-    [ "AuthHandler", "df/d5b/a06102.html", "df/d5b/a06102" ],
-    [ "AuthStatus", "d7/d65/a02876.html#a9bc15a6035dd7c4983d87a5ccb3d5834", [
-      [ "STATUS_CHALLENGE", "d7/d65/a02876.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4", null ],
-      [ "STATUS_LOGON_PROOF", "d7/d65/a02876.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16", null ],
-      [ "STATUS_RECONNECT_PROOF", "d7/d65/a02876.html#a9bc15a6035dd7c4983d87a5ccb3d5834a2a06e7508d5944327eec6c08c11db734", null ],
-      [ "STATUS_AUTHED", "d7/d65/a02876.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b", null ],
-      [ "STATUS_WAITING_FOR_REALM_LIST", "d7/d65/a02876.html#a9bc15a6035dd7c4983d87a5ccb3d5834a570e0aef98212ddcd09f1ec9254ffdf0", null ],
-      [ "STATUS_CLOSED", "d7/d65/a02876.html#a9bc15a6035dd7c4983d87a5ccb3d5834a78785eb1e6f5b92eaea5c78b3cc0dd94", null ]
-    ] ]
+    [ "OutdoorPvP_hellfire_peninsula", "df/d51/a22765.html", "df/d51/a22765" ],
+    [ "AddSC_outdoorpvp_hp", "d7/d65/a02876.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
+    [ "HP_LANG_CAPTURE_A", "d7/d65/a02876.html#a642fe1233b764402bae812604b684442", null ],
+    [ "HP_LANG_CAPTURE_H", "d7/d65/a02876.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
+    [ "HP_LANG_LOSE_A", "d7/d65/a02876.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
+    [ "HP_LANG_LOSE_H", "d7/d65/a02876.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
 ];

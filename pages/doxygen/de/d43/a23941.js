@@ -1,6 +1,6 @@
 var a23941 =
 [
-    [ "npc_warden_mellicharAI", "d7/d58/a23945.html", "d7/d58/a23945" ],
-    [ "npc_warden_mellichar", "de/d43/a23941.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "de/d43/a23941.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "npc_millhouse_manastormAI", "d7/d58/a23945.html", "d7/d58/a23945" ],
+    [ "npc_millhouse_manastorm", "de/d43/a23941.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "de/d43/a23941.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

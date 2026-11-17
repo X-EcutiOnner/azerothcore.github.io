@@ -1,6 +1,6 @@
 var a19661 =
 [
-    [ "boss_kelthuzadAI", "d2/d14/a19665.html", "d2/d14/a19665" ],
-    [ "boss_kelthuzad", "de/d5b/a19661.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
-    [ "GetAI", "de/d5b/a19661.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
+    [ "HandleHit", "de/d5b/a19661.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
+    [ "PrepareSpellScript", "de/d5b/a19661.html#a87b57541a36d711ecbca6f485915c9ab", null ],
+    [ "Register", "de/d5b/a19661.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
 ];

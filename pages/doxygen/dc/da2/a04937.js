@@ -1,6 +1,7 @@
 var a04937 =
 [
-    [ "fireworkShowGameobjectThunderBluff", "dc/da2/a04937.html#ab3cf2de65fa26d7c56cf3a4e0f4a56e1", null ],
-    [ "fireworkShowScheduleThunderBluff", "dc/da2/a04937.html#ac35fd5df42f24906b21b6887860b96a5", null ],
-    [ "fireworkShowThunderBluff", "dc/da2/a04937.html#ae9cf9fa234ec7db55622bede66c21f78", null ]
+    [ "GetCleanAliasName", "dc/da2/a04937.html#ae187308862c39923e2b843bc9d4c989c", null ],
+    [ "GetDefaultValue", "dc/da2/a04937.html#a2ea1ae2c2289bdc9068ec9c886d124c8", null ],
+    [ "IsCorrectAlias", "dc/da2/a04937.html#a56e834d391c0eb5187d3c7dd0dad88b7", null ],
+    [ "IsCorrectFieldType", "dc/da2/a04937.html#a61bef7957f008e8cd937746ba03feb73", null ]
 ];

@@ -1,6 +1,6 @@
 var a28765 =
 [
-    [ "npc_guardianAI", "d6/d72/a28769.html", "d6/d72/a28769" ],
-    [ "npc_guardian", "de/d9c/a28765.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "de/d9c/a28765.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "npc_garments_of_questsAI", "d6/d72/a28769.html", "d6/d72/a28769" ],
+    [ "npc_garments_of_quests", "de/d9c/a28765.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
+    [ "GetAI", "de/d9c/a28765.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
 ];

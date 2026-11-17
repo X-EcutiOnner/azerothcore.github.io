@@ -1,4 +1,4 @@
 var a02135 =
 [
-    [ "GetTargetFlagMask", "df/daa/a02135.html#adc898dfddc20010c41bb771b6d6f274e", null ]
+    [ "ScriptRegistry< AllBattlegroundScript >", "df/daa/a02135.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
 ];

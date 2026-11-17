@@ -1,10 +1,26 @@
 var a00383 =
 [
-    [ "Acore::has_type< T, std::tuple< Us... > >", "da/dbc/a06029.html", null ],
-    [ "Acore::is_tuple< typename >", "db/d16/a06033.html", null ],
-    [ "Acore::is_tuple< std::tuple< Ts... > >", "d0/d98/a06037.html", null ],
-    [ "new_from_tuple", "da/dee/a00383.html#aac12e702d41e9aa126f7d39f0f295252", null ],
-    [ "new_from_tuple", "da/dee/a00383.html#a028fc93107022ad23a763503c9b0bbdb", null ],
-    [ "has_type_v", "da/dee/a00383.html#aa4e7bc2a96e641dd1642a3c61cfc96b0", null ],
-    [ "is_tuple_v", "da/dee/a00383.html#a4104f84ad757b701a6ffbd51f5d10b9f", null ]
+    [ "AC_API_EXPORT", "da/dee/a00383.html#a2c5b5e664ed3daebece45d89595e3105", null ],
+    [ "AC_API_IMPORT", "da/dee/a00383.html#ae8a7a9ab4a727295d96a5645d592be1a", null ],
+    [ "AC_COMMON_API", "da/dee/a00383.html#aae2dc50bce825b002235487401b252e8", null ],
+    [ "AC_DATABASE_API", "da/dee/a00383.html#a4239bd747d930d5084e8f6e489980585", null ],
+    [ "AC_GAME_API", "da/dee/a00383.html#a00a04eccc2ca042486601576eccae409", null ],
+    [ "AC_SHARED_API", "da/dee/a00383.html#a0bf4fe16e9c0242e08723860b589d648", null ],
+    [ "ACORE_BIGENDIAN", "da/dee/a00383.html#a1ea3ec26cc8112e6b4750ed2e3099e23", null ],
+    [ "ACORE_ENDIAN", "da/dee/a00383.html#a31363a4567529bac0c62af57b8249f37", null ],
+    [ "ACORE_INLINE", "da/dee/a00383.html#ae4e9017a1f7c4a30d42240994c73707d", null ],
+    [ "ACORE_LITTLEENDIAN", "da/dee/a00383.html#aa52f254470010db28f546a042d5d2dd3", null ],
+    [ "ACORE_PATH_MAX", "da/dee/a00383.html#a0e8f3cfd1a18017c3996550aed13d45b", null ],
+    [ "ATTR_PRINTF", "da/dee/a00383.html#a9fb5e8106efcc99703798f63ee0ee655", null ],
+    [ "SI64LIT", "da/dee/a00383.html#a9fb461803e0a17b90422b7166f79bd87", null ],
+    [ "STRING_VIEW_FMT_ARG", "da/dee/a00383.html#a426f0c72f52eca709249d5962bf31b6d", null ],
+    [ "UI64LIT", "da/dee/a00383.html#abf772f43caa1c9ba44098b6bf2bf355c", null ],
+    [ "int16", "da/dee/a00383.html#aecf4e3680a32207d17f62a3426731878", null ],
+    [ "int32", "da/dee/a00383.html#a0bf9964a3ce962c07ad3d8b5432bbbcd", null ],
+    [ "int64", "da/dee/a00383.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1", null ],
+    [ "int8", "da/dee/a00383.html#a3bb8a71f4ae9af551f71e9eb2c9c3325", null ],
+    [ "uint16", "da/dee/a00383.html#ad9c79638db63f1dfe2b085743b5cbf7b", null ],
+    [ "uint32", "da/dee/a00383.html#a22f78cc9780bf32aff91ae17c3101c8d", null ],
+    [ "uint64", "da/dee/a00383.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b", null ],
+    [ "uint8", "da/dee/a00383.html#a15a8d014fadf85c99a2268d8cbd00767", null ]
 ];

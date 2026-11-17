@@ -1,33 +1,31 @@
 var a04673 =
 [
-    [ "npc_belnistrasz", "d1/db6/a15593.html", "d1/db6/a15593" ],
-    [ "npc_belnistrasz::npc_belnistraszAI", "de/d79/a15597.html", "de/d79/a15597" ],
-    [ "npc_idol_room_spawner", "d1/db0/a15601.html", "d1/db0/a15601" ],
-    [ "npc_idol_room_spawner::npc_idol_room_spawnerAI", "dc/df9/a15605.html", "dc/df9/a15605" ],
-    [ "Belnistrasz", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afba", [
-      [ "EVENT_CHANNEL", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa328cf2425c283ee53d5cb9d660a11034", null ],
-      [ "EVENT_IDOL_ROOM_SPAWNER", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa1a8dd12063e47b2533422a696ec5fe63", null ],
-      [ "EVENT_PROGRESS", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa9edbfcbbe26666eab8693f9b070f1635", null ],
-      [ "EVENT_COMPLETE", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa277c4ceb154c858f20df1a3b2b9f23c0", null ],
-      [ "EVENT_FIREBALL", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa2f41794aafc9d878c1d2e3aa735cbf44", null ],
-      [ "EVENT_FROST_NOVA", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaabdc6cc62f4c38145542e5be0485df2fc", null ],
-      [ "PATH_ESCORT", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaaad37e5267c61b3154576082cc5f0d943", null ],
-      [ "POINT_REACH_IDOL", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaac918f6177e0a19d346c351646dc8e53a", null ],
-      [ "QUEST_EXTINGUISHING_THE_IDOL", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaab86f59506288a17715a05dc6c3cc9c5e", null ],
-      [ "SAY_QUEST_ACCEPTED", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaaae4435ce02d8a471af2a02586524d6f5", null ],
-      [ "SAY_EVENT_START", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa5b99398ffec3de91807ff5682f0a7478", null ],
-      [ "SAY_EVENT_THREE_MIN_LEFT", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa1c27a8e990dc6e00c87e33609397f44a", null ],
-      [ "SAY_EVENT_TWO_MIN_LEFT", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa083570db82270d8a62a772524057254f", null ],
-      [ "SAY_EVENT_ONE_MIN_LEFT", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaab32dce7b44868931f08d3604a802dd44", null ],
-      [ "SAY_EVENT_END", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa5f86762aa27777e2322b2e11a3120364", null ],
-      [ "SAY_AGGRO", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_WATCH_OUT", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaaab3d1089e4f3d2693a0a9c5cdc810405", null ],
-      [ "SPELL_ARCANE_INTELLECT", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa7f0e5071bc08579a814ae1cb62cc37e4", null ],
-      [ "SPELL_FIREBALL", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa846055c995374082714483a6b39bc963", null ],
-      [ "SPELL_FROST_NOVA", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaab913503b67c5b8f901cfc4f207bcba03", null ],
-      [ "SPELL_IDOL_SHUTDOWN_VISUAL", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa947ac08dacf61227418026a59dcab75e", null ],
-      [ "SPELL_IDOM_ROOM_CAMERA_SHAKE", "da/d54/a04673.html#ab761030cc73179b77506cee80e54afbaa767a89efdf4df9a9978449bdddd9be52", null ]
+    [ "DataHeader", "da/d54/a04673.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "HallsOfLightningScriptName", "da/d54/a04673.html#aba51f7e18d1bf5bcc9ac3cce40574989", null ],
+    [ "RegisterHallOfLightningCreatureAI", "da/d54/a04673.html#abc0f895e75d83443d4864eac025f5ccf", null ],
+    [ "HoLActions", "da/d54/a04673.html#ab693e2b3138c7164f5ab5ce33d01188a", [
+      [ "ACTION_ACTIVATE_TITANIUM_VRYKUL", "da/d54/a04673.html#ab693e2b3138c7164f5ab5ce33d01188aac3701fc9a9f8c0aa21c4450036382641", null ]
     ] ],
-    [ "AddSC_razorfen_downs", "da/d54/a04673.html#aa1cc9839b8806bd940e01edfee8b8cee", null ],
-    [ "PosSummonSpawner", "da/d54/a04673.html#a72b7e5a7b680a19d8c3fe8378e61f1b9", null ]
+    [ "HoLBossIds", "da/d54/a04673.html#a2cb96c502604a51bf9b1878594078a89", [
+      [ "DATA_BJARNGRIM", "da/d54/a04673.html#a2cb96c502604a51bf9b1878594078a89a9300935bfd39c01dc4f31bad0ed4d1c3", null ],
+      [ "DATA_IONAR", "da/d54/a04673.html#a2cb96c502604a51bf9b1878594078a89a14265a28e2df32231fa3e8f37f443ba9", null ],
+      [ "DATA_LOKEN", "da/d54/a04673.html#a2cb96c502604a51bf9b1878594078a89ab31bcb90f6216ddfd2c6b88e6bddae90", null ],
+      [ "DATA_VOLKHAN", "da/d54/a04673.html#a2cb96c502604a51bf9b1878594078a89a36dd0ae00b02a743880c859c48ea17bd", null ],
+      [ "MAX_ENCOUNTERS", "da/d54/a04673.html#a2cb96c502604a51bf9b1878594078a89a9cfa5bdc17e1d5a590d300b530b36a25", null ]
+    ] ],
+    [ "HoLDataTypes", "da/d54/a04673.html#ab2c81b52518cf9b744e344bee6558c83", [
+      [ "DATA_LOKEN_THRONE", "da/d54/a04673.html#ab2c81b52518cf9b744e344bee6558c83a1a13537a7dab783ca08cdabaef4b698a", null ],
+      [ "DATA_BJARNGRIM_ACHIEVEMENT", "da/d54/a04673.html#ab2c81b52518cf9b744e344bee6558c83aa53ad80b7b459e535100197347853cd0", null ],
+      [ "DATA_VOLKHAN_ACHIEVEMENT", "da/d54/a04673.html#ab2c81b52518cf9b744e344bee6558c83a7e42579182aec175c25270808bec35b0", null ]
+    ] ],
+    [ "HoLGOs", "da/d54/a04673.html#a32c56077197ba30bb4a0f7c7ed0e30ba", [
+      [ "GO_VOLKHAN_DOOR", "da/d54/a04673.html#a32c56077197ba30bb4a0f7c7ed0e30baa43791493fa131c96383129d276d9ebfc", null ],
+      [ "GO_IONAR_DOOR", "da/d54/a04673.html#a32c56077197ba30bb4a0f7c7ed0e30baa98de6bec77b9ffcc83fbe12864534b5a", null ],
+      [ "GO_LOKEN_THRONE", "da/d54/a04673.html#a32c56077197ba30bb4a0f7c7ed0e30baa34f7d3fb54b571aef3f476e267de512a", null ]
+    ] ],
+    [ "HoLNPCs", "da/d54/a04673.html#a142cf2087e521648bd7ea9b7495afc85", [
+      [ "NPC_TITANIUM_THUNDERER", "da/d54/a04673.html#a142cf2087e521648bd7ea9b7495afc85ae1fe986c03c7e3ea9a413cf0831631a8", null ],
+      [ "NPC_TITANIUM_SIEGEBREAKER", "da/d54/a04673.html#a142cf2087e521648bd7ea9b7495afc85a5665655f9ffabdab88fc4a691a796023", null ]
+    ] ],
+    [ "GetHallsOfLightningAI", "da/d54/a04673.html#ae17388a1ba919f74b2068aafe1637537", null ]
 ];

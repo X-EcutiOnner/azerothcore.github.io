@@ -1,10 +1,7 @@
 var a23733 =
 [
-    [ "boss_high_king_maulgar", "df/d61/a23733.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
-    [ "DoAction", "df/d61/a23733.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
-    [ "JustDied", "df/d61/a23733.html#ad235febd755745313b72394c633c3723", null ],
-    [ "JustEngagedWith", "df/d61/a23733.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
-    [ "KilledUnit", "df/d61/a23733.html#a2059016597039929103c053d6524ebf7", null ],
-    [ "Reset", "df/d61/a23733.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
-    [ "UpdateAI", "df/d61/a23733.html#ae540909dbbb3cf93e37503cd755c3001", null ]
+    [ "HandleScriptEffect", "df/d61/a23733.html#a534bf39998813f06c48bc920e4666692", null ],
+    [ "PrepareSpellScript", "df/d61/a23733.html#a5892f20a0704596cb70a995a73846368", null ],
+    [ "Register", "df/d61/a23733.html#a1176b4e4ad488a3b6b38ff4b8c955d64", null ],
+    [ "Validate", "df/d61/a23733.html#af618314a13013eaf9f36b30047de0878", null ]
 ];

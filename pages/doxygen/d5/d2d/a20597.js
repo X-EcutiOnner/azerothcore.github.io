@@ -1,15 +1,5 @@
 var a20597 =
 [
-    [ "npc_ulduar_hodir_druid", "d5/d2d/a20597.html#aac822cf4203af0e0173004ccc33abc21", null ],
-    [ "AttackStart", "d5/d2d/a20597.html#a67884f16c32f849bc68d68256c19d21a", null ],
-    [ "CanAIAttack", "d5/d2d/a20597.html#a81b0f60596e63ec618a9a9e1d8bc6c9d", null ],
-    [ "DoAction", "d5/d2d/a20597.html#a54f6d2cccc7668f337c0617459db5522", null ],
-    [ "EnterEvadeMode", "d5/d2d/a20597.html#a22a10571e9cfe69200fd4a8fd383e500", null ],
-    [ "JustDied", "d5/d2d/a20597.html#a6cfefe7ccb156a658e8e2dad603b3fce", null ],
-    [ "MoveInLineOfSight", "d5/d2d/a20597.html#aa2e3e904c5f7fee4236a9395b95ef3e9", null ],
-    [ "ScheduleAbilities", "d5/d2d/a20597.html#ac8bee382634e20a49178be8b224eca2d", null ],
-    [ "SpellHit", "d5/d2d/a20597.html#a1053d484f30df43fba465981cd3cfa38", null ],
-    [ "UpdateAI", "d5/d2d/a20597.html#abcd580306a3abb5663bbac33f68115eb", null ],
-    [ "_instance", "d5/d2d/a20597.html#add7048881ec8b0dd2c09e34813c7c353", null ],
-    [ "events", "d5/d2d/a20597.html#a323184c52fcbc3e18eb74c96db716327", null ]
+    [ "npc_ulduar_toasty_fire", "d5/d2d/a20597.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
+    [ "DoAction", "d5/d2d/a20597.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ]
 ];

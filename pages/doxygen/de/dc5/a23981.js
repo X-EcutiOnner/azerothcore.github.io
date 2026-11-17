@@ -1,7 +1,10 @@
 var a23981 =
 [
-    [ "AfterApply", "de/dc5/a23981.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "de/dc5/a23981.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "de/dc5/a23981.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "de/dc5/a23981.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "instance_arcatraz_InstanceMapScript", "de/dc5/a23981.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "de/dc5/a23981.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "de/dc5/a23981.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "de/dc5/a23981.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "de/dc5/a23981.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "de/dc5/a23981.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "de/dc5/a23981.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

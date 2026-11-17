@@ -1,6 +1,7 @@
 var a02213 =
 [
-    [ "instance_razorfen_kraul", "d2/d38/a15594.html", "d2/d38/a15594" ],
-    [ "instance_razorfen_kraul::instance_razorfen_kraul_InstanceMapScript", "d1/dbe/a15598.html", "d1/dbe/a15598" ],
-    [ "AddSC_instance_razorfen_kraul", "de/d8e/a02213.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0", null ]
+    [ "ChannelMgr", "d5/d1a/a08001.html", "d5/d1a/a08001" ],
+    [ "AllianceChannelMgr", "d4/ddd/a08005.html", "d4/ddd/a08005" ],
+    [ "HordeChannelMgr", "d1/d26/a08009.html", "d1/d26/a08009" ],
+    [ "MAX_CHANNEL_PASS_STR", "de/d8e/a02213.html#a06f16ee81d2214d67575f108b76f6333", null ]
 ];

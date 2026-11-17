@@ -1,6 +1,7 @@
 var a27521 =
 [
-    [ "CheckProc", "d0/df6/a27521.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
-    [ "PrepareAuraScript", "d0/df6/a27521.html#af15109e926eb717c3f3cb2f7f617428c", null ],
-    [ "Register", "d0/df6/a27521.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
+    [ "HandleDummy", "d0/df6/a27521.html#a1822dd19814e2962100e08370cdef315", null ],
+    [ "PrepareSpellScript", "d0/df6/a27521.html#a20d36d5b99f260f1b8ab7a2b30d5acc3", null ],
+    [ "Register", "d0/df6/a27521.html#aebdfc2b11904d7b23ddd11280be134ef", null ],
+    [ "Validate", "d0/df6/a27521.html#a2e81f962a33569e35343688a760f04e2", null ]
 ];

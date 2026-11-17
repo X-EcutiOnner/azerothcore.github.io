@@ -1,16 +1,15 @@
 var a20601 =
 [
-    [ "npc_ulduar_hodir_shaman", "df/d43/a20601.html#a3277cda17d5409be3426bdaa61e092cd", null ],
-    [ "AttackStart", "df/d43/a20601.html#a933908d61afac33002411874060c0f74", null ],
-    [ "CanAIAttack", "df/d43/a20601.html#a8907c7300cef735a70b088de3c16cfb9", null ],
-    [ "DoAction", "df/d43/a20601.html#ae27325cc9b794a84d82faa0f410fa844", null ],
-    [ "EnterEvadeMode", "df/d43/a20601.html#afa6124e630cd878659172a06df68d39f", null ],
-    [ "JustDied", "df/d43/a20601.html#a08af85d3446c86443ff5a620b159d000", null ],
-    [ "MoveInLineOfSight", "df/d43/a20601.html#a29de52dcae485f00403dae8e28ff1395", null ],
-    [ "ScheduleAbilities", "df/d43/a20601.html#ab9aa67f07721c0bf60e9db75b5b3e888", null ],
-    [ "SpellHit", "df/d43/a20601.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
-    [ "SpellHitTarget", "df/d43/a20601.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
-    [ "UpdateAI", "df/d43/a20601.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
-    [ "_instance", "df/d43/a20601.html#aa09753bc9b54ea8dcc9b61a9ace77ae3", null ],
-    [ "events", "df/d43/a20601.html#a7e147f6f230513cfb666473c61ab4be4", null ]
+    [ "npc_ulduar_hodir_priest", "df/d43/a20601.html#af18269ae027e71f86796e723111227b4", null ],
+    [ "AttackStart", "df/d43/a20601.html#ad86f47516d9f245a4ae241bba26b37a4", null ],
+    [ "CanAIAttack", "df/d43/a20601.html#a8545bd2492bd32d333e8d144b3d548a5", null ],
+    [ "DoAction", "df/d43/a20601.html#a73f077b4436e06a13e59944cebd5cca0", null ],
+    [ "EnterEvadeMode", "df/d43/a20601.html#a9d3f3e950b0f9c9a7b85ba3835000a80", null ],
+    [ "JustDied", "df/d43/a20601.html#a3ac7967a61a774670e25aa3c0477d7ac", null ],
+    [ "MoveInLineOfSight", "df/d43/a20601.html#abc0c766a88dd64e8f5bbcc2afd883552", null ],
+    [ "ScheduleAbilities", "df/d43/a20601.html#a10b5f3575c2de311d54c15220c68f4b7", null ],
+    [ "SpellHit", "df/d43/a20601.html#a2dd6faeb45ba2278e1b4693d20550d4e", null ],
+    [ "UpdateAI", "df/d43/a20601.html#a450b21ab190ec335d910b38a6a2d9329", null ],
+    [ "_instance", "df/d43/a20601.html#adb189dbf0e536f469f1a0d82d42de6de", null ],
+    [ "events", "df/d43/a20601.html#a803e3f35c784716170f9fa8c4484b66c", null ]
 ];

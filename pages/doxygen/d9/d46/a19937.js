@@ -1,12 +1,8 @@
 var a19937 =
 [
-    [ "instance_nexus_InstanceMapScript", "d9/d46/a19937.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
-    [ "Initialize", "d9/d46/a19937.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
-    [ "KillAllFrayers", "d9/d46/a19937.html#a7c696467deba7a2f15d5175e3427bd20", null ],
-    [ "OnCreatureCreate", "d9/d46/a19937.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
-    [ "OnGameObjectCreate", "d9/d46/a19937.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
-    [ "OnGameObjectRemove", "d9/d46/a19937.html#ac148c67823484eee38ab6646dfb68530", null ],
-    [ "SetBossState", "d9/d46/a19937.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
-    [ "SetData", "d9/d46/a19937.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
-    [ "_frayerGUIDs", "d9/d46/a19937.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
+    [ "npc_crystal_spike", "d9/d46/a19937.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "d9/d46/a19937.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "d9/d46/a19937.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "d9/d46/a19937.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "d9/d46/a19937.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

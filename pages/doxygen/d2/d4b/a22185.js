@@ -1,6 +1,6 @@
 var a22185 =
 [
-    [ "npc_plaguehound_trackerAI", "df/da3/a22189.html", "df/da3/a22189" ],
-    [ "npc_plaguehound_tracker", "d2/d4b/a22185.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
-    [ "GetAI", "d2/d4b/a22185.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
+    [ "npc_attracted_reef_bullAI", "df/da3/a22189.html", "df/da3/a22189" ],
+    [ "npc_attracted_reef_bull", "d2/d4b/a22185.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
+    [ "GetAI", "d2/d4b/a22185.html#af705e2768cd41c955af7f944c670ac85", null ]
 ];

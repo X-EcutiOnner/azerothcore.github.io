@@ -1,10 +1,11 @@
 var a01793 =
 [
-    [ "QEmote", "d7/d08/a10106.html", "d7/d08/a10106" ],
-    [ "GossipTextOption", "d9/d77/a10110.html", "d9/d77/a10110" ],
-    [ "GossipText", "d4/d79/a10114.html", "d4/d79/a10114" ],
-    [ "PageTextLocale", "d6/d82/a10118.html", "d6/d82/a10118" ],
-    [ "NpcTextLocale", "d7/dfe/a10122.html", "d7/dfe/a10122" ],
-    [ "MAX_GOSSIP_TEXT_EMOTES", "d4/dc6/a01793.html#a705783094711e028814c1c59a16c2c4f", null ],
-    [ "MAX_GOSSIP_TEXT_OPTIONS", "d4/dc6/a01793.html#a114c9636000e930cd1dc1ef7e444814f", null ]
+    [ "SplineHandler", "da/d94/a09217.html", "da/d94/a09217" ],
+    [ "AuraMunchingQueue", "d9/ded/a09221.html", "d9/ded/a09221" ],
+    [ "ApplyMoveSpeedRates", "d4/dc6/a01793.html#af36a8812ababc4c432a430785293c5cf", null ],
+    [ "ApplyPercentModFloatVar", "d4/dc6/a01793.html#adcb1f2b25980bd4c71cb160030213f96", null ],
+    [ "createProcFlags", "d4/dc6/a01793.html#a7d920511c20f084098c0f68a75006159", null ],
+    [ "baseMoveSpeed", "d4/dc6/a01793.html#a8dfa2f38da75227699c2156368f188c7", null ],
+    [ "DefaultMoveSpeed", "d4/dc6/a01793.html#a6219f85d19a95528f12bb0aa45bbde22", null ],
+    [ "playerBaseMoveSpeed", "d4/dc6/a01793.html#a1df63baeb3d35dc44a3e9c429317087e", null ]
 ];

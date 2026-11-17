@@ -1,13 +1,11 @@
 var a21325 =
 [
-    [ "npc_ulduar_arachnopod_destroyer", "de/d5e/a21325.html#a13422abe59c4aa11bee16225d689c054", null ],
-    [ "AttackStart", "de/d5e/a21325.html#ac634717023bd5827e2b8b1f4c79c6084", null ],
-    [ "DamageTaken", "de/d5e/a21325.html#a80a63823a5ffb19fd84fe3da5e9e4659", null ],
-    [ "EnterEvadeMode", "de/d5e/a21325.html#acb089a5226af27005ac2356e84e976aa", null ],
-    [ "OnCharmed", "de/d5e/a21325.html#a3d24ff7efa6a822b5d5c6c762b026d75", null ],
-    [ "PassengerBoarded", "de/d5e/a21325.html#a1b15edb1527095dcac5f9c0ef183fb55", null ],
-    [ "Reset", "de/d5e/a21325.html#a7fa3aa16e4764b5ce4a93eef855010f8", null ],
-    [ "UpdateAI", "de/d5e/a21325.html#a87d4086066ac53697793152fdcebf841", null ],
-    [ "_spawnedMechanic", "de/d5e/a21325.html#ae781e2c258ac3ce268821b98ae310a0f", null ],
-    [ "events", "de/d5e/a21325.html#a7cb0d83e8b94808fa16539ea098e1a2f", null ]
+    [ "npc_ulduar_snow_mound", "de/d5e/a21325.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "de/d5e/a21325.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "PassengerBoarded", "de/d5e/a21325.html#a8c5be073d1901f98d602581d79d3dd68", null ],
+    [ "UpdateAI", "de/d5e/a21325.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "de/d5e/a21325.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "de/d5e/a21325.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "de/d5e/a21325.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "de/d5e/a21325.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

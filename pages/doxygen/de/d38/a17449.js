@@ -1,11 +1,8 @@
 var a17449 =
 [
-    [ "npc_ghostly_priest", "de/d38/a17449.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
-    [ "AttackStart", "de/d38/a17449.html#acbc2eb708773500136deebb8542d36aa", null ],
-    [ "DoAction", "de/d38/a17449.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
-    [ "EnterEvadeMode", "de/d38/a17449.html#ac944330e3834bd4c65e30c595752746c", null ],
-    [ "JustDied", "de/d38/a17449.html#ae7ef06904aa2039d3552a2a62b846042", null ],
-    [ "JustEngagedWith", "de/d38/a17449.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
-    [ "Reset", "de/d38/a17449.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
-    [ "UpdateAI", "de/d38/a17449.html#a3722469ea1445f7dbaf834853a9ed654", null ]
+    [ "npc_hor_leaderAI", "dd/d7f/a17453.html", "dd/d7f/a17453" ],
+    [ "npc_hor_leader", "de/d38/a17449.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
+    [ "GetAI", "de/d38/a17449.html#a55e7357aa6dff1efdff08541e88413e9", null ],
+    [ "OnGossipHello", "de/d38/a17449.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
+    [ "OnGossipSelect", "de/d38/a17449.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
 ];

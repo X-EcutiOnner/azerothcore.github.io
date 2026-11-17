@@ -1,4 +1,4 @@
 var a01979 =
 [
-    [ "InstanceHasScript", "d6/d8e/a01979.html#aad76768c8aee9ce3ac24657437adb0de", null ]
+    [ "ScriptRegistry< DatabaseScript >", "d6/d8e/a01979.html#aea9c85b8c04ac043bf7c7cb880a57d95", null ]
 ];

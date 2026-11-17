@@ -1,5 +1,11 @@
 var a01817 =
 [
-    [ "keyData", "d3/d56/a12385.html", "d3/d56/a12385" ],
-    [ "GetWardenActionStr", "d4/d29/a01817.html#a4e3c0063e5bf94a2e640c7b887fe14fc", null ]
+    [ "CombatReference", "da/d32/a08337.html", "da/d32/a08337" ],
+    [ "PvPCombatReference", "d9/de9/a08341.html", "d9/de9/a08341" ],
+    [ "CombatManager", "de/d91/a08345.html", "de/d91/a08345" ],
+    [ "EvadeState", "d4/d29/a01817.html#a330a2d238c7c7b5390c40e53436d0d74", [
+      [ "EVADE_STATE_NONE", "d4/d29/a01817.html#a330a2d238c7c7b5390c40e53436d0d74a742a27c0e47bf6cbe51ea3d3485e1ee6", null ],
+      [ "EVADE_STATE_COMBAT", "d4/d29/a01817.html#a330a2d238c7c7b5390c40e53436d0d74ac6bc3b656f0875f408ad159de8e47dab", null ],
+      [ "EVADE_STATE_HOME", "d4/d29/a01817.html#a330a2d238c7c7b5390c40e53436d0d74a7179da8d8fc2a4fb8897c5febb10b6d8", null ]
+    ] ]
 ];

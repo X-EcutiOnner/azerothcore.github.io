@@ -1,13 +1,7 @@
 var a05051 =
 [
-    [ "OutdoorPvPGH", "d9/dd0/a22749.html", "d9/dd0/a22749" ],
-    [ "OPvPCapturePointGH", "d5/de0/a22753.html", "d5/de0/a22753" ],
-    [ "OutdoorPvPGHenum", "d6/d32/a05051.html#a68fd4e51a6ab53a5f6bc93fe7800623b", [
-      [ "GH_ALLIANCE_DEFENSE_EVENT", "d6/d32/a05051.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3", null ],
-      [ "GH_HORDE_DEFENSE_EVENT", "d6/d32/a05051.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10", null ],
-      [ "GH_ZONE", "d6/d32/a05051.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f", null ],
-      [ "GH_QUEST_KEEP_EM_ON_THEIR_HEELS", "d6/d32/a05051.html#a68fd4e51a6ab53a5f6bc93fe7800623ba093fd7e4f043a87bac91a6d698f44b58", null ],
-      [ "GH_QUEST_KICK_EM_WHILE_THEYRE_DOWN", "d6/d32/a05051.html#a68fd4e51a6ab53a5f6bc93fe7800623bab570a16e35f63643cd666e8e9c67dce6", null ],
-      [ "GH_CREATURE_QUEST_BUNNY", "d6/d32/a05051.html#a68fd4e51a6ab53a5f6bc93fe7800623ba611910e455b02d10a37996956708a414", null ]
-    ] ]
+    [ "SQLQueryHolderBase", "da/dea/a06301.html", "da/dea/a06301" ],
+    [ "SQLQueryHolder< T >", "d5/d6e/a06145.html", "d5/d6e/a06145" ],
+    [ "SQLQueryHolderTask", "d6/dfb/a06305.html", "d6/dfb/a06305" ],
+    [ "SQLQueryHolderCallback", "de/d7d/a06309.html", "de/d7d/a06309" ]
 ];

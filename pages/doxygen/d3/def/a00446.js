@@ -1,17 +1,16 @@
 var a00446 =
 [
-    [ "FormatArgs", "d3/def/a00446.html#a300bea6aa9ed219f5f3636b900db3ac9", null ],
-    [ "FormatString", "d3/def/a00446.html#a32c972cafca136b88de5b298d6cba338", null ],
-    [ "FormatStringView", "d3/def/a00446.html#a9a310e3057a14b5ee0f7520e08cb0410", null ],
-    [ "AddSuffixIfNotExists", "d3/def/a00446.html#a712bea71ec99d750664fd46c690a1ad9", null ],
-    [ "format_as", "d3/def/a00446.html#aaa7f21af5991452196a22cd79e127825", null ],
-    [ "IsFormatEmptyOrNull", "d3/def/a00446.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
-    [ "IsFormatEmptyOrNull", "d3/def/a00446.html#a84459e91f517fc4f79414cc23370b9f1", null ],
-    [ "MakeFormatArgs", "d3/def/a00446.html#abd5773b7124dcbc8deb88f522cdcc86f", null ],
-    [ "StringFormat", "d3/def/a00446.html#a1b97349dfcb88c6974882d7e34c55895", null ],
-    [ "StringFormatTo", "d3/def/a00446.html#a7c53f407c3169d5a97d012ca3470880d", null ],
-    [ "StringVFormat", "d3/def/a00446.html#acc68f8d815604ae13c370c09fbb60efd", null ],
-    [ "StringVFormatTo", "d3/def/a00446.html#a17112c1b25595793b63f24de06f90081", null ],
-    [ "Trim", "d3/def/a00446.html#ad9cd9e0eab5d7794778d1270b2720337", null ],
-    [ "TrimRightInPlace", "d3/def/a00446.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
+    [ "MMAP::NavMeshDeleter", "d9/d09/a05373.html", "d9/d09/a05373" ],
+    [ "MMAP::NavMeshQueryDeleter", "de/d16/a05377.html", "de/d16/a05377" ],
+    [ "MMAP::MMapMgr", "da/d0c/a05381.html", "da/d0c/a05381" ],
+    [ "ManagedNavMeshQuery", "d3/def/a00446.html#aa9864ce68a669d59d8baee4cb742900b", null ],
+    [ "MMAP_LOAD_RESULT", "d3/def/a00446.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "d3/def/a00446.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d3/def/a00446.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d3/def/a00446.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88", null ]
+    ] ],
+    [ "dtCustomAlloc", "d3/def/a00446.html#a8c3ce5a3a39694b1e2f88333bcf5b8c7", null ],
+    [ "dtCustomFree", "d3/def/a00446.html#a2486cfb0dce2e78cd1bc4c379612e64b", null ],
+    [ "MAP_FILE_NAME_FORMAT", "d3/def/a00446.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "TILE_FILE_NAME_FORMAT", "d3/def/a00446.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
 ];

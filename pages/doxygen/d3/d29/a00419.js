@@ -1,6 +1,7 @@
 var a00419 =
 [
-    [ "mean", "d3/d29/a00419.html#a64ba279a3d3edca415239118167c0206", null ],
-    [ "median", "d3/d29/a00419.html#a4840fd449eb626bea901860e4c1be22a", null ],
-    [ "standard_deviation", "d3/d29/a00419.html#a60ce9c7718ec2901f037e2368f93026d", null ]
+    [ "VMAP::MeshTriangle", "d0/dee/a05497.html", "d0/dee/a05497" ],
+    [ "VMAP::WmoLiquid", "d2/d18/a05501.html", "d2/d18/a05501" ],
+    [ "VMAP::GroupModel", "d1/d13/a05505.html", "d1/d13/a05505" ],
+    [ "VMAP::WorldModel", "da/d38/a05509.html", "da/d38/a05509" ]
 ];

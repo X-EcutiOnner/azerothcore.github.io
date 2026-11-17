@@ -1,5 +1,4 @@
 var a02090 =
 [
-    [ "GetWeatherData", "d7/deb/a02090.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
-    [ "LoadWeatherData", "d7/deb/a02090.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ]
+    [ "ScriptRegistry< PlayerScript >", "d7/deb/a02090.html#a9c8e85c6181ce386db051bb0a0e6a533", null ]
 ];

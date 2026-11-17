@@ -1,17 +1,21 @@
 var a02153 =
 [
-    [ "DeleteSpellFromAllPlayers", "df/de9/a02153.html#af0dec25ac7c118b67a71a0356eb37877", null ],
-    [ "GetDiminishingReturnsGroupForSpell", "df/de9/a02153.html#a35697cceaf39daf069d06c53e8e3cdf7", null ],
-    [ "GetDiminishingReturnsGroupType", "df/de9/a02153.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1", null ],
-    [ "GetDiminishingReturnsLimitDuration", "df/de9/a02153.html#a2ba27d428865ac3f87bf6f6843271d3f", null ],
-    [ "GetDiminishingReturnsMaxLevel", "df/de9/a02153.html#ad621262d491c800fb5ddd016250dd46f", null ],
-    [ "InitTriggerAuraData", "df/de9/a02153.html#a70fb722e03fe637ce7c9979a00725a3c", null ],
-    [ "IsDiminishingReturnsGroupDurationLimited", "df/de9/a02153.html#a423a80c889a3456a2b55e0e9c22ad060", null ],
-    [ "IsPartOfSkillLine", "df/de9/a02153.html#a18102741b602d3b4473f75d4f619a09b", null ],
-    [ "IsPrimaryProfessionSkill", "df/de9/a02153.html#a09c4e23bd85fab812b67beafbbf1b7b3", null ],
-    [ "LoadPetDefaultSpells_helper", "df/de9/a02153.html#a26626d5f5404864fcd622872f5cd8af1", null ],
-    [ "isAlwaysTriggeredAura", "df/de9/a02153.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
-    [ "isTriggerAura", "df/de9/a02153.html#ad51bed43268eefcceebdda05d85c6a61", null ],
-    [ "procPrepared", "df/de9/a02153.html#a11410c456e972de7cfb44bbe17709cc4", null ],
-    [ "spellTypeMask", "df/de9/a02153.html#aacbfece2441a495ad1e709acd28bc9b7", null ]
+    [ "lfg::LfgQueueData", "d2/d55/a08481.html", "d2/d55/a08481" ],
+    [ "lfg::LfgWaitTime", "da/de9/a08485.html", "da/de9/a08485" ],
+    [ "lfg::LFGQueue", "d7/d3c/a08489.html", "d7/d3c/a08489" ],
+    [ "LfgCompatibleContainer", "df/de9/a02153.html#a96438cca4cead6c1fc5d31ef643129e9", null ],
+    [ "LfgQueueDataContainer", "df/de9/a02153.html#aa2afec59ce753c11c3d8fddf4fb33991", null ],
+    [ "LfgWaitTimesContainer", "df/de9/a02153.html#a58714a43cbdc03f4008681528fb20447", null ],
+    [ "LfgCompatibility", "df/de9/a02153.html#a33c5b3513de4cd3c5a525f31008618b6", [
+      [ "LFG_COMPATIBILITY_PENDING", "df/de9/a02153.html#a33c5b3513de4cd3c5a525f31008618b6a9bd6f6c66c07537c541c6cf47da9311a", null ],
+      [ "LFG_INCOMPATIBLES_WRONG_GROUP_SIZE", "df/de9/a02153.html#a33c5b3513de4cd3c5a525f31008618b6ab6f6918e09882dce7eb53394dc960123", null ],
+      [ "LFG_INCOMPATIBLES_TOO_MUCH_PLAYERS", "df/de9/a02153.html#a33c5b3513de4cd3c5a525f31008618b6aab66f0e7b36ded30473ed953e96346a1", null ],
+      [ "LFG_INCOMPATIBLES_MULTIPLE_LFG_GROUPS", "df/de9/a02153.html#a33c5b3513de4cd3c5a525f31008618b6a5c52733040385425e0b4fafbbe962c57", null ],
+      [ "LFG_INCOMPATIBLES_HAS_IGNORES", "df/de9/a02153.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b", null ],
+      [ "LFG_INCOMPATIBLES_NO_ROLES", "df/de9/a02153.html#a33c5b3513de4cd3c5a525f31008618b6ad009d10da76a97578ce600e26e253a63", null ],
+      [ "LFG_INCOMPATIBLES_NO_DUNGEONS", "df/de9/a02153.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33", null ],
+      [ "LFG_INCOMPATIBLES_REJECTED_BY_SCRIPT", "df/de9/a02153.html#a33c5b3513de4cd3c5a525f31008618b6ad9a68f4c00296cf1819fa4a4cd29a1f3", null ],
+      [ "LFG_COMPATIBLES_WITH_LESS_PLAYERS", "df/de9/a02153.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e", null ],
+      [ "LFG_COMPATIBLES_MATCH", "df/de9/a02153.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0", null ]
+    ] ]
 ];

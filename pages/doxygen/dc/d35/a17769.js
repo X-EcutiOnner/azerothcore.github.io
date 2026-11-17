@@ -1,11 +1,5 @@
 var a17769 =
 [
-    [ "boss_slad_ranAI", "dc/d35/a17769.html#ad85e2fd51d67739026a96bc757bc7801", null ],
-    [ "GetData", "dc/d35/a17769.html#a58e1188a418acdc1f327e7df90c5c122", null ],
-    [ "JustDied", "dc/d35/a17769.html#a636ca76497c33a5175986e80bbcda44a", null ],
-    [ "JustEngagedWith", "dc/d35/a17769.html#ac30b38805d0421b1be509c7d5609c648", null ],
-    [ "KilledUnit", "dc/d35/a17769.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
-    [ "Reset", "dc/d35/a17769.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
-    [ "SetData", "dc/d35/a17769.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
-    [ "_achievement", "dc/d35/a17769.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
+    [ "achievement_less_rabi", "dc/d35/a17769.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
+    [ "OnCheck", "dc/d35/a17769.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
 ];

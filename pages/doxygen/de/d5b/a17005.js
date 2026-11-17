@@ -1,6 +1,21 @@
 var a17005 =
 [
-    [ "npc_toc_druidAI", "df/d33/a17009.html", "df/d33/a17009" ],
-    [ "npc_toc_druid", "de/d5b/a17005.html#a07321d5ee164b8e47f652f9bad65216b", null ],
-    [ "GetAI", "de/d5b/a17005.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
+    [ "boss_faction_championsAI", "de/d5b/a17005.html#aec4455c8bdd8d0629b9c3f17178818b6", null ],
+    [ "AttackStart", "de/d5b/a17005.html#a465492574894303cbce6df2107b87252", null ],
+    [ "EnemiesInRange", "de/d5b/a17005.html#acbb166d6ac50f11eae591ddf1dbba917", null ],
+    [ "EnterEvadeMode", "de/d5b/a17005.html#a81f01bf15e7d7d647fa01da165ee0896", null ],
+    [ "EventMapGCD", "de/d5b/a17005.html#ad5d17a7895d0c92f8c63fe5689564569", null ],
+    [ "GetThreatMod", "de/d5b/a17005.html#aae5bc496f0f17c2167dd8a47c8ae40cd", null ],
+    [ "IsCCed", "de/d5b/a17005.html#a6df04b369e7a85e6779228f8a7657ba7", null ],
+    [ "JustDied", "de/d5b/a17005.html#aa8976d148ac4882063787f144ebeeea8", null ],
+    [ "JustEngagedWith", "de/d5b/a17005.html#a3c8e2e446e6325597f1687201698a2c6", null ],
+    [ "KilledUnit", "de/d5b/a17005.html#ac49f6c9994484a6d905362fd66ccf81e", null ],
+    [ "RecalculateThreat", "de/d5b/a17005.html#a435b28bf38824d8b36bc6cf105d2dcf2", null ],
+    [ "SelectEnemyCaster", "de/d5b/a17005.html#a81a318b636472e15624d01ecf3be65fb", null ],
+    [ "SelectTarget_MostHPLostFriendlyMissingBuff", "de/d5b/a17005.html#aea6f9e045fb3866cef15d890f63766d8", null ],
+    [ "UpdateAI", "de/d5b/a17005.html#a6c93329b33c0fa469b04622cff1aa517", null ],
+    [ "mAIType", "de/d5b/a17005.html#acff880f98ff81d25d02224931fe8ff93", null ],
+    [ "pInstance", "de/d5b/a17005.html#a546bff05f2ca0e8e4c8371bfd4d6ed79", null ],
+    [ "powerTimer", "de/d5b/a17005.html#a38394cc3ee369fb5bb580d3702792604", null ],
+    [ "threatTimer", "de/d5b/a17005.html#a6aa684c94874d3a3bcd7150b0d7cd04b", null ]
 ];

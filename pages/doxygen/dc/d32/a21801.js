@@ -1,6 +1,6 @@
 var a21801 =
 [
-    [ "HandleEffect", "dc/d32/a21801.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
-    [ "PrepareSpellScript", "dc/d32/a21801.html#aec199e9f9651267fac88bd86be326bb4", null ],
-    [ "Register", "dc/d32/a21801.html#a14bd854db86750704c8377d457dea360", null ]
+    [ "npc_hidden_cultistAI", "d7/d7f/a21805.html", "d7/d7f/a21805" ],
+    [ "npc_hidden_cultist", "dc/d32/a21801.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "dc/d32/a21801.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

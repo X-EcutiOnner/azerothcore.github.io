@@ -1,6 +1,7 @@
 var a25633 =
 [
-    [ "HandleCast", "df/dc8/a25633.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "df/dc8/a25633.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "df/dc8/a25633.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "EjectPassenger", "df/dc8/a25633.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "df/dc8/a25633.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "df/dc8/a25633.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "df/dc8/a25633.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

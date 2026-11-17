@@ -1,12 +1,11 @@
 var a00485 =
 [
-    [ "AC_COMPILER_BORLAND", "d6/d1a/a00485.html#ad92d7f8e69537bfc6f28bfce27856c1f", null ],
-    [ "AC_COMPILER_GNU", "d6/d1a/a00485.html#a8ffa78a105635ede693224673028c4ed", null ],
-    [ "AC_COMPILER_INTEL", "d6/d1a/a00485.html#a60132e229252e2d0020a2ba6fd0309c3", null ],
-    [ "AC_COMPILER_MICROSOFT", "d6/d1a/a00485.html#ac8ee3c2752751f98265e16c95cbaea47", null ],
-    [ "AC_PLATFORM", "d6/d1a/a00485.html#a490dd7a4e0c23e207dd9285027ae8b33", null ],
-    [ "AC_PLATFORM_APPLE", "d6/d1a/a00485.html#a4f72821a90afaf788ba291d1f6fb11b8", null ],
-    [ "AC_PLATFORM_INTEL", "d6/d1a/a00485.html#a2d79201ecf9fb7b1f6d0c131f9b7b8ba", null ],
-    [ "AC_PLATFORM_UNIX", "d6/d1a/a00485.html#a96b4a3022030f69221679448f34f1972", null ],
-    [ "AC_PLATFORM_WINDOWS", "d6/d1a/a00485.html#a15c00b0ab8f2f092270745de87d6bd8f", null ]
+    [ "VMAP::ModelPosition", "de/df6/a05437.html", "de/df6/a05437" ],
+    [ "VMAP::MapSpawns", "d2/dce/a05441.html", "d2/dce/a05441" ],
+    [ "VMAP::GroupModel_Raw", "d5/d95/a05445.html", "d5/d95/a05445" ],
+    [ "VMAP::WorldModel_Raw", "d9/de3/a05449.html", "d9/de3/a05449" ],
+    [ "VMAP::TileAssembler", "d4/d04/a05453.html", "d4/d04/a05453" ],
+    [ "MapData", "d6/d1a/a00485.html#a28dc2e567f8620fed1128b6c4cf5b749", null ],
+    [ "TileMap", "d6/d1a/a00485.html#abfe766a1b58bbf69ce3b17ff14d1c101", null ],
+    [ "UniqueEntryMap", "d6/d1a/a00485.html#a3424b44a092b5f3d8074649ae11ee481", null ]
 ];

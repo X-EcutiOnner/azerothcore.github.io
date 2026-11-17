@@ -1,4 +1,4 @@
 var a00350 =
 [
-    [ "EventEmitter< Signature >", "db/da8/a05901.html", "db/da8/a05901" ]
+    [ "Acore::Asio::Resolver", "dc/d46/a05293.html", "dc/d46/a05293" ]
 ];

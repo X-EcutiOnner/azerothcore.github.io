@@ -1,6 +1,6 @@
 var a28801 =
 [
-    [ "npc_locksmith", "d5/d21/a28801.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "d5/d21/a28801.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "d5/d21/a28801.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "npc_pet_trainerAI", "d1/d8a/a28805.html", "d1/d8a/a28805" ],
+    [ "npc_pet_trainer", "d5/d21/a28801.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "d5/d21/a28801.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

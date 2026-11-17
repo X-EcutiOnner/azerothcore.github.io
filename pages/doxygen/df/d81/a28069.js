@@ -1,8 +1,6 @@
 var a28069 =
 [
-    [ "CheckProc", "df/d81/a28069.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
-    [ "OnProc", "df/d81/a28069.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
-    [ "PrepareAuraScript", "df/d81/a28069.html#a8bf573bb900773d4669708536b0b8011", null ],
-    [ "Register", "df/d81/a28069.html#ae8ddcb6329088f904cbae3292ff92023", null ],
-    [ "Validate", "df/d81/a28069.html#a918c9334b7f20710c0d6448a33c94601", null ]
+    [ "HandleCast", "df/d81/a28069.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
+    [ "PrepareSpellScript", "df/d81/a28069.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "df/d81/a28069.html#a81bc86c83ffc70602410912870e61700", null ]
 ];

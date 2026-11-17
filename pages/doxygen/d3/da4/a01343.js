@@ -1,4 +1,5 @@
 var a01343 =
 [
-    [ "ScriptRegistry< UnitScript >", "d3/da4/a01343.html#aced42ee6099fa72848b9b4aef527ebc3", null ]
+    [ "Movement::Location", "d6/d51/a10633.html", "d6/d51/a10633" ],
+    [ "Movement::MoveSpline", "d6/d99/a10637.html", "d6/d99/a10637" ]
 ];

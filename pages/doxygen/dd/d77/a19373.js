@@ -1,6 +1,7 @@
 var a19373 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d7/db3/a19377.html", "d7/db3/a19377" ],
-    [ "npc_icc_skybreaker_hierophant", "dd/d77/a19373.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "dd/d77/a19373.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "HandleDummyLaunch", "dd/d77/a19373.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
+    [ "PrepareSpellScript", "dd/d77/a19373.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
+    [ "Register", "dd/d77/a19373.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
+    [ "Validate", "dd/d77/a19373.html#a577166695c1479e3730a70637bc18cf1", null ]
 ];

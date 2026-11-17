@@ -1,6 +1,6 @@
 var a17905 =
 [
-    [ "boss_blood_queen_lana_thelAI", "d1/d24/a17909.html", "d1/d24/a17909" ],
-    [ "boss_blood_queen_lana_thel", "de/d9d/a17905.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "de/d9d/a17905.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "PrepareSpellScript", "de/d9d/a17905.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "de/d9d/a17905.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "de/d9d/a17905.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

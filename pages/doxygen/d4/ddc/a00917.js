@@ -1,10 +1,7 @@
 var a00917 =
 [
-    [ "SavedAddonsList", "d4/ddc/a00917.html#afa468163a23ed58507a89e5724c06eac", null ],
-    [ "GetAddonInfo", "d4/ddc/a00917.html#a6edf9a462d4afcaff40e69da1e75cca5", null ],
-    [ "GetBannedAddons", "d4/ddc/a00917.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "d4/ddc/a00917.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "d4/ddc/a00917.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
-    [ "m_bannedAddons", "d4/ddc/a00917.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
-    [ "m_knownAddons", "d4/ddc/a00917.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
+    [ "AuraApplication", "d4/dcc/a11953.html", "d4/dcc/a11953" ],
+    [ "Aura", "d7/d43/a11957.html", "d7/d43/a11957" ],
+    [ "UnitAura", "d5/dcd/a11961.html", "d5/dcd/a11961" ],
+    [ "DynObjAura", "d2/dc6/a11965.html", "d2/dc6/a11965" ]
 ];

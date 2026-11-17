@@ -1,6 +1,5 @@
 var a21341 =
 [
-    [ "CheckRequirement", "de/d11/a21341.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
-    [ "PrepareSpellScript", "de/d11/a21341.html#a06e1b98a589717bdef6444912a7ad602", null ],
-    [ "Register", "de/d11/a21341.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "de/d11/a21341.html#ae1503a754a05a77991d9955a2fb74265", null ],
+    [ "OnTrigger", "de/d11/a21341.html#aa7aa93e00170313de251af4e562c422c", null ]
 ];

@@ -1,6 +1,11 @@
 var a29385 =
 [
-    [ "Id", "dc/d78/a29385.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "dc/d78/a29385.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "dc/d78/a29385.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "Displayid", "dc/d78/a29385.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
+    [ "filename", "dc/d78/a29385.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
+    [ "maxX", "dc/d78/a29385.html#a10563ae885d34e516825a18db95b40e7", null ],
+    [ "maxY", "dc/d78/a29385.html#a711286df6d2bd74246dee2170052c17a", null ],
+    [ "maxZ", "dc/d78/a29385.html#acb74e32790b2c60cca5faef1caa225e4", null ],
+    [ "minX", "dc/d78/a29385.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
+    [ "minY", "dc/d78/a29385.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
+    [ "minZ", "dc/d78/a29385.html#ac88aefc2530212b9dff10e018c4e9305", null ]
 ];
