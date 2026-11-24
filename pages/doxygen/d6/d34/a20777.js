@@ -1,22 +1,7 @@
 var a20777 =
 [
-    [ "npc_ulduar_vx001", "d6/d34/a20777.html#a1fbaef8e14a2fa2e7a946bcce751c3a9", null ],
-    [ "AttackStart", "d6/d34/a20777.html#a47d955c4db0c8ceb30ae770a82aaf424", null ],
-    [ "DamageTaken", "d6/d34/a20777.html#ad1d0ec1e6a3905f3ede091383ce02116", null ],
-    [ "DoAction", "d6/d34/a20777.html#ae988d7c48b11e72b5d8e02966fd432ed", null ],
-    [ "EnterEvadeMode", "d6/d34/a20777.html#a4f019ff2bb5897c0c088f417f8ba4d45", null ],
-    [ "JustSummoned", "d6/d34/a20777.html#a0f2e9e76f3ec457350a54925558fcd0b", null ],
-    [ "KilledUnit", "d6/d34/a20777.html#ab25d0f2a79708c86d798f83e68100d03", null ],
-    [ "MoveInLineOfSight", "d6/d34/a20777.html#a0f02c02bcc93afe1059152e72f981ffd", null ],
-    [ "PassengerBoarded", "d6/d34/a20777.html#a34837d8ab0335605d7bf61eae5c29c2a", null ],
-    [ "Reset", "d6/d34/a20777.html#a27f5a5fe661fd896a89e534b109fc329", null ],
-    [ "SetData", "d6/d34/a20777.html#a8ae4ce7110f8ad7f7b800924220133b0", null ],
-    [ "SpellHit", "d6/d34/a20777.html#a0e42a18462a1f33e679462c26efa20b7", null ],
-    [ "UpdateAI", "d6/d34/a20777.html#ab8f9d5f73674dd351731210f5e053fd9", null ],
-    [ "_events", "d6/d34/a20777.html#adc9d977da6b2d24230fdc242461217da", null ],
-    [ "_fighting", "d6/d34/a20777.html#a07d5508590e09dcd6ceab37dfd380d2a", null ],
-    [ "_isEvading", "d6/d34/a20777.html#acdb4d264fea9a15c62b32173d0b674a3", null ],
-    [ "_leftArm", "d6/d34/a20777.html#a5c15b3c1aad51569cc8b6fe3a371f0bb", null ],
-    [ "_phase", "d6/d34/a20777.html#a09d6c576c0edf23d46e53c3909a82b00", null ],
-    [ "instance", "d6/d34/a20777.html#a720b4fdc32d067cdb91589bdc1724299", null ]
+    [ "FilterTargets", "d6/d34/a20777.html#a4ea7a7ee257a74c7ae1da47b9a75f852", null ],
+    [ "HandleScript", "d6/d34/a20777.html#a3b5fa94cdc2da133ae0cfaab9f949a57", null ],
+    [ "PrepareSpellScript", "d6/d34/a20777.html#a9e29a54a0c4bbc32b5d9fffe6d34a41d", null ],
+    [ "Register", "d6/d34/a20777.html#a53f90eb4dc7cdeab5bee4ab1a21691ac", null ]
 ];

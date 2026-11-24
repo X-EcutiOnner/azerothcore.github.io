@@ -1,10 +1,7 @@
 var a18301 =
 [
-    [ "npc_cult_adherentAI", "db/da4/a18301.html#a1ea249a25b188a949213788614f4049e", null ],
-    [ "JustEngagedWith", "db/da4/a18301.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
-    [ "Reset", "db/da4/a18301.html#ab0b54e45468b5ebed0194c441cce434e", null ],
-    [ "SpellHit", "db/da4/a18301.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
-    [ "UpdateAI", "db/da4/a18301.html#ad89638cf5859615ba2e3a0deb6701751", null ],
-    [ "_instance", "db/da4/a18301.html#a970e99fba28d6e3e0cb759c87a866273", null ],
-    [ "events", "db/da4/a18301.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
+    [ "OnPeriodic", "db/da4/a18301.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
+    [ "PrepareAuraScript", "db/da4/a18301.html#a0e87dae1be4f69e6412129f14056eb79", null ],
+    [ "Register", "db/da4/a18301.html#a1b26d102252bf7e0fd480076820d343f", null ],
+    [ "Validate", "db/da4/a18301.html#a211d52aa385a874730abc43b083f2d22", null ]
 ];

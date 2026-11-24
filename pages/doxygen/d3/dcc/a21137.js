@@ -1,8 +1,6 @@
 var a21137 =
 [
-    [ "boss_yoggsaron_death_ray", "d3/dcc/a21137.html#a03a5a1845d217c2e59fc491f1f0a36a2", null ],
-    [ "IsSummonedBy", "d3/dcc/a21137.html#a631bb4727b876c0ce782c1d3d206ae13", null ],
-    [ "UpdateAI", "d3/dcc/a21137.html#a424f116aa76fa470cb393250e571c021", null ],
-    [ "_movementLegs", "d3/dcc/a21137.html#ac548ed487090506768236ff1519d4938", null ],
-    [ "events", "d3/dcc/a21137.html#af79f0ec03cc3eb6c803c4793842b0c71", null ]
+    [ "boss_yoggsaron_descend_portal", "d3/dcc/a21137.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "d3/dcc/a21137.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "d3/dcc/a21137.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

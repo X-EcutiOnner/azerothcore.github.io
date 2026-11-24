@@ -1,7 +1,8 @@
 var a25673 =
 [
-    [ "ModDest", "d5/d03/a25673.html#afe0fb68de61a657ce6900e71973e4d77", null ],
-    [ "ModifyCookingSkill", "d5/d03/a25673.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
-    [ "PrepareSpellScript", "d5/d03/a25673.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
-    [ "Register", "d5/d03/a25673.html#a6919079b43a816eb601a68c51ad39794", null ]
+    [ "HandleApply", "d5/d03/a25673.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "d5/d03/a25673.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "d5/d03/a25673.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "d5/d03/a25673.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "d5/d03/a25673.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

@@ -1,8 +1,5 @@
 var a17329 =
 [
-    [ "HandleEffectApply", "d0/d2b/a17329.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
-    [ "HandleEffectRemove", "d0/d2b/a17329.html#a04504220319ec562b1b6691f471c1b8d", null ],
-    [ "PrepareAuraScript", "d0/d2b/a17329.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
-    [ "Register", "d0/d2b/a17329.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
-    [ "Validate", "d0/d2b/a17329.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
+    [ "achievement_consumption_junction", "d0/d2b/a17329.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
+    [ "OnCheck", "d0/d2b/a17329.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
 ];

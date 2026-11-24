@@ -1,6 +1,7 @@
 var a21229 =
 [
-    [ "OnRemove", "d3/df4/a21229.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
-    [ "PrepareAuraScript", "d3/df4/a21229.html#a5fb0837417b915676549370cc76c477d", null ],
-    [ "Register", "d3/df4/a21229.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
+    [ "HandleScriptEffect", "d3/df4/a21229.html#a173ee086127655cdfcca507fd5b15b2e", null ],
+    [ "PrepareSpellScript", "d3/df4/a21229.html#a005d47b18a820c35ec596b5539db94eb", null ],
+    [ "Register", "d3/df4/a21229.html#a20a0d554e80707c1517422cb747f38e8", null ],
+    [ "Validate", "d3/df4/a21229.html#a5ca44686e26def56adc2b98d88145235", null ]
 ];

@@ -1,6 +1,6 @@
 var a22269 =
 [
-    [ "npc_llod_genericAI", "d1/df2/a22273.html", "d1/df2/a22273" ],
-    [ "npc_llod_generic", "d8/deb/a22269.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "d8/deb/a22269.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "npc_boneguard_footmanAI", "d8/deb/a22269.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "d8/deb/a22269.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "d8/deb/a22269.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

@@ -1,10 +1,8 @@
 var a22497 =
 [
-    [ "npc_time_lost_proto_drakeAI", "db/d39/a22497.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "ArmHiddenState", "db/d39/a22497.html#ac397eb8580e523214dec0cf9b15b18f5", null ],
-    [ "DoAction", "db/d39/a22497.html#a0357600a1ed7bc17cd5dfdf822c5296b", null ],
-    [ "JustEngagedWith", "db/d39/a22497.html#ab95266d60769aa4099ca0f1bf678f237", null ],
-    [ "JustRespawned", "db/d39/a22497.html#ac59dcf8cd9c19f2bf4a1bdba6f21b9d1", null ],
-    [ "Reset", "db/d39/a22497.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "UpdateAI", "db/d39/a22497.html#abb28428b77beada6a378541ba11d090b", null ]
+    [ "npc_freed_protodrakeAI", "db/d39/a22497.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "db/d39/a22497.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "db/d39/a22497.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "db/d39/a22497.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "db/d39/a22497.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

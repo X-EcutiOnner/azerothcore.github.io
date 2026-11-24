@@ -1,6 +1,9 @@
 var a21865 =
 [
-    [ "npc_mei_francis_mountAI", "d9/d02/a21869.html", "d9/d02/a21869" ],
-    [ "npc_mei_francis_mount", "de/dbf/a21865.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "de/dbf/a21865.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_mageguard_dalaranAI", "de/dbf/a21865.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "de/dbf/a21865.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "de/dbf/a21865.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "de/dbf/a21865.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "de/dbf/a21865.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "de/dbf/a21865.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

@@ -1,5 +1,6 @@
 var a28409 =
 [
-    [ "go_ethereum_stasis", "d2/df6/a28409.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
-    [ "OnGossipHello", "d2/df6/a28409.html#ac36da8dccbebcaee605a878df3904c60", null ]
+    [ "go_tadpole_cageAI", "d2/d62/a28413.html", "d2/d62/a28413" ],
+    [ "go_tadpole_cage", "d2/df6/a28409.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "d2/df6/a28409.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

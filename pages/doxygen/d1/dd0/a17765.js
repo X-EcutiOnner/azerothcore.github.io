@@ -1,6 +1,6 @@
 var a17765 =
 [
-    [ "HandlePeriodic", "d1/dd0/a17765.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
-    [ "PrepareAuraScript", "d1/dd0/a17765.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
-    [ "Register", "d1/dd0/a17765.html#a9753daf5cdc812e9027c1153b450686d", null ]
+    [ "instance_gundrak_InstanceMapScript", "dc/d35/a17769.html", "dc/d35/a17769" ],
+    [ "instance_gundrak", "d1/dd0/a17765.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
+    [ "GetInstanceScript", "d1/dd0/a17765.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
 ];

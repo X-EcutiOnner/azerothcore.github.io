@@ -1,9 +1,6 @@
 var a20173 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "da/d12/a20173.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "da/d12/a20173.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "da/d12/a20173.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "da/d12/a20173.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "da/d12/a20173.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "da/d12/a20173.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "d7/d09/a20177.html", "d7/d09/a20177" ],
+    [ "instance_halls_of_stone", "da/d12/a20173.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "da/d12/a20173.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

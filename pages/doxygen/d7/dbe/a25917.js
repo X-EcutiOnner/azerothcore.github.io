@@ -1,6 +1,6 @@
 var a25917 =
 [
-    [ "OnRemove", "d7/dbe/a25917.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
-    [ "PrepareAuraScript", "d7/dbe/a25917.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
-    [ "Register", "d7/dbe/a25917.html#aecd068248e174c4b676ff9f43dd0856f", null ]
+    [ "HandleStackDrop", "d7/dbe/a25917.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
+    [ "PrepareAuraScript", "d7/dbe/a25917.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
+    [ "Register", "d7/dbe/a25917.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
 ];

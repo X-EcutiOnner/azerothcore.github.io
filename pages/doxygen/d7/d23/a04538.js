@@ -1,10 +1,10 @@
 var a04538 =
 [
-    [ "boss_jaraxxus", "db/d9e/a17141.html", "db/d9e/a17141" ],
-    [ "npc_fel_infernal", "db/d51/a17145.html", "db/d51/a17145" ],
-    [ "npc_mistress_of_pain", "d3/d8c/a17149.html", "d3/d8c/a17149" ],
-    [ "spell_mistress_kiss_aura", "d7/db5/a17153.html", "d7/db5/a17153" ],
-    [ "spell_mistress_kiss_area", "dc/d52/a17157.html", "dc/d52/a17157" ],
+    [ "boss_jaraxxus", "d1/d8a/a17105.html", "d1/d8a/a17105" ],
+    [ "npc_fel_infernal", "d7/dee/a17109.html", "d7/dee/a17109" ],
+    [ "npc_mistress_of_pain", "d0/d9e/a17113.html", "d0/d9e/a17113" ],
+    [ "spell_mistress_kiss_aura", "d7/d28/a17117.html", "d7/d28/a17117" ],
+    [ "spell_mistress_kiss_area", "d6/df0/a17121.html", "d6/df0/a17121" ],
     [ "JaraxxusEvents", "d7/d23/a04538.html#a8720becd3353ce4c1eaf4b10f65c3bf3", [
       [ "EVENT_SPELL_FEL_FIREBALL", "d7/d23/a04538.html#a8720becd3353ce4c1eaf4b10f65c3bf3a9631463a0db16f2a5c6e611704b43508", null ],
       [ "EVENT_SPELL_FEL_LIGHTNING", "d7/d23/a04538.html#a8720becd3353ce4c1eaf4b10f65c3bf3a1de9015cbd472ec6adbb63af3e399005", null ],
@@ -30,7 +30,6 @@ var a04538 =
       [ "SPELL_LEGION_FLAME", "d7/d23/a04538.html#a0bdea2820b7a1fb8a7c14d71a00e6469aa406bcc5c080757175ce7795b2348c70", null ],
       [ "SPELL_SUMMON_VOLCANO", "d7/d23/a04538.html#a0bdea2820b7a1fb8a7c14d71a00e6469a60fe386e24f058eaff5363e9d4e0ac2c", null ],
       [ "SPELL_SUMMON_NETHER_PORTAL", "d7/d23/a04538.html#a0bdea2820b7a1fb8a7c14d71a00e6469ad5a8025e6e8f9cb91f856969245e08a7", null ],
-      [ "SPELL_SPELLSTEAL", "d7/d23/a04538.html#a0bdea2820b7a1fb8a7c14d71a00e6469a5d4e332bfb252b3f1f0ecee667bd2c24", null ],
       [ "SPELL_BERSERK", "d7/d23/a04538.html#a0bdea2820b7a1fb8a7c14d71a00e6469ad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
       [ "SPELL_LORD_JARAXXUS_HITTIN_YA", "d7/d23/a04538.html#a0bdea2820b7a1fb8a7c14d71a00e6469afcd45e6dc78293055dd6478794c59175", null ],
       [ "SPELL_LORD_JARAXXUS_HITTIN_YA_EFFECT", "d7/d23/a04538.html#a0bdea2820b7a1fb8a7c14d71a00e6469a359e195bd5251e1a7b1766ded79ee096", null ],

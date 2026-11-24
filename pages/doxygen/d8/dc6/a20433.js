@@ -1,7 +1,8 @@
 var a20433 =
 [
-    [ "OnPeriodic", "d8/dc6/a20433.html#a1dff4c7e181c86a9c6ac7df5304214c8", null ],
-    [ "PrepareAuraScript", "d8/dc6/a20433.html#a93b006b762bd757c606ed44da5178134", null ],
-    [ "Register", "d8/dc6/a20433.html#ac528c63dedbf16f1f88c3d6ffdb9ef69", null ],
-    [ "Validate", "d8/dc6/a20433.html#a2ee1dbb056430b9db5e9e3ead05014a5", null ]
+    [ "HandleOnEffectApply", "d8/dc6/a20433.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "d8/dc6/a20433.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "d8/dc6/a20433.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "d8/dc6/a20433.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "d8/dc6/a20433.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

@@ -1,8 +1,11 @@
 var a17449 =
 [
-    [ "npc_hor_leaderAI", "dd/d7f/a17453.html", "dd/d7f/a17453" ],
-    [ "npc_hor_leader", "de/d38/a17449.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "de/d38/a17449.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "de/d38/a17449.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "de/d38/a17449.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "npc_tortured_rifleman", "de/d38/a17449.html#a5ab42b048c14838b6992716f62200c57", null ],
+    [ "AttackStart", "de/d38/a17449.html#a82f84e5b66d8cbcb25267e0eeb5ce65c", null ],
+    [ "DoAction", "de/d38/a17449.html#aafd02b19ba0280db3eacc21b24d3ceaa", null ],
+    [ "EnterEvadeMode", "de/d38/a17449.html#a1eddbbfa45174c05a24ad01f200983e3", null ],
+    [ "JustDied", "de/d38/a17449.html#abb8349f4f1c19a60c7566f1801ae3087", null ],
+    [ "JustEngagedWith", "de/d38/a17449.html#ab60cf1d4e6a58613a032b25b043aceea", null ],
+    [ "Reset", "de/d38/a17449.html#a04210cb211db92a1be6de7bc28953953", null ],
+    [ "UpdateAI", "de/d38/a17449.html#aa794584f9a842f9725f1f926b4099181", null ]
 ];

@@ -1,7 +1,6 @@
 var a16977 =
 [
-    [ "npc_frost_sphere", "d9/d6e/a16977.html#ad33989871683168317e28d6fc9015ddf", null ],
-    [ "DamageTaken", "d9/d6e/a16977.html#abe4b84f328c3616dfa1d36bc61648b48", null ],
-    [ "SpellHit", "d9/d6e/a16977.html#a3a9836e1921e90778ab8d08111d90995", null ],
-    [ "UpdateAI", "d9/d6e/a16977.html#a1a6fe34e8c822b589b192bd7567a35bb", null ]
+    [ "npc_toc_shamanAI", "d6/dea/a16981.html", "d6/dea/a16981" ],
+    [ "npc_toc_shaman", "d9/d6e/a16977.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
+    [ "GetAI", "d9/d6e/a16977.html#a7102a3aec6c229a04b617c562512bf29", null ]
 ];

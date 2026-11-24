@@ -1,10 +1,10 @@
 var a17453 =
 [
-    [ "npc_hor_leaderAI", "dd/d7f/a17453.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
-    [ "DoAction", "dd/d7f/a17453.html#a610700732a6cc197a40106adef654a62", null ],
-    [ "Reset", "dd/d7f/a17453.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
-    [ "UpdateAI", "dd/d7f/a17453.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
-    [ "events", "dd/d7f/a17453.html#a94128223bddd84b8a678e49f3189cb75", null ],
-    [ "instance", "dd/d7f/a17453.html#aaf5ee73e8d3a52c51cbc64853843ed4e", null ],
-    [ "shortver", "dd/d7f/a17453.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
+    [ "boss_frostsworn_general", "dd/d7f/a17453.html#adae1b1d60e78a33b875ac08312a454cf", null ],
+    [ "EnterEvadeMode", "dd/d7f/a17453.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
+    [ "JustDied", "dd/d7f/a17453.html#a14741cafce857fa819418ec3208c62fc", null ],
+    [ "JustEngagedWith", "dd/d7f/a17453.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
+    [ "Reset", "dd/d7f/a17453.html#a1576562e5fe2247235b152029aa8edce", null ],
+    [ "UpdateAI", "dd/d7f/a17453.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
+    [ "instance", "dd/d7f/a17453.html#ab04347cee4d7542171d622cfde936cb1", null ]
 ];

@@ -1,9 +1,16 @@
 var a20253 =
 [
-    [ "CheckTargets", "de/dfa/a20253.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "de/dfa/a20253.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "de/dfa/a20253.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "de/dfa/a20253.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "de/dfa/a20253.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "de/dfa/a20253.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "boss_steelbreaker", "de/dfa/a20253.html#a724e315f9508b02cadc5560f6525afc7", null ],
+    [ "DoAction", "de/dfa/a20253.html#a2f945dac566b3d24009b486cb4e37cd3", null ],
+    [ "JustDied", "de/dfa/a20253.html#af69b423bd844f946dede44e136344077", null ],
+    [ "JustEngagedWith", "de/dfa/a20253.html#afa14e6571e7772d9c978d45a94a40afa", null ],
+    [ "JustReachedHome", "de/dfa/a20253.html#ad73d9abcfdf9a2fcf3345a024db1f653", null ],
+    [ "KilledUnit", "de/dfa/a20253.html#a153f72f75fc0758591b418fe82c2628d", null ],
+    [ "Reset", "de/dfa/a20253.html#a66e5f9c30d30ed7dc42b8ae3ef4f46b6", null ],
+    [ "SpellHit", "de/dfa/a20253.html#adf32e50b2fc6f8d373933cc0295c7d54", null ],
+    [ "UpdateAI", "de/dfa/a20253.html#ad96ac1dcde103ddf71b2ded15e757834", null ],
+    [ "UpdatePhase", "de/dfa/a20253.html#a42ab7be0d80ece19dd726ed29d425183", null ],
+    [ "_phase", "de/dfa/a20253.html#a1b94dfb3b76278475aae50720a2e85c0", null ],
+    [ "events", "de/dfa/a20253.html#add48973c02460691e0f32a3ae3897836", null ],
+    [ "pInstance", "de/dfa/a20253.html#acf1e2229be9f931d0825ce252116b499", null ]
 ];

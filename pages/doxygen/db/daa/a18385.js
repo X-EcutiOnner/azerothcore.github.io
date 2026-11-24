@@ -1,6 +1,6 @@
 var a18385 =
 [
-    [ "MalleableGooSelector", "db/daa/a18385.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
-    [ "operator()", "db/daa/a18385.html#adf73957539fdcc604f849944473e0015", null ],
-    [ "me", "db/daa/a18385.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
+    [ "npc_gas_cloudAI", "da/d1b/a18389.html", "da/d1b/a18389" ],
+    [ "npc_gas_cloud", "db/daa/a18385.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "db/daa/a18385.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

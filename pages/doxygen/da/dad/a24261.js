@@ -1,7 +1,6 @@
 var a24261 =
 [
-    [ "HandleDummy", "da/dad/a24261.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "da/dad/a24261.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "da/dad/a24261.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "da/dad/a24261.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_ancestral_wolfAI", "d7/d5a/a24265.html", "d7/d5a/a24265" ],
+    [ "npc_ancestral_wolf", "da/dad/a24261.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "da/dad/a24261.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

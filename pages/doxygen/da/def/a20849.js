@@ -1,6 +1,28 @@
 var a20849 =
 [
-    [ "HandlePeriodic", "da/def/a20849.html#ab3f6a58bcea3fc75ccbac99cd911e7f8", null ],
-    [ "PrepareAuraScript", "da/def/a20849.html#a09d6fccb19df088780c5baa0ef656da7", null ],
-    [ "Register", "da/def/a20849.html#abbf60dac3d36d0833e6509aac83f2b49", null ]
+    [ "boss_razorscale", "da/def/a20849.html#aa60eb42c00c6d801a7b716cea40412d2", null ],
+    [ "DamageTaken", "da/def/a20849.html#a7dc864d3e60c786cc8153121b39938c5", null ],
+    [ "DoAction", "da/def/a20849.html#a63e951ce71137869004732cfbecc6db3", null ],
+    [ "EnterEvadeMode", "da/def/a20849.html#acc55c1b00fbf1cdea8761eabe29a55d2", null ],
+    [ "GetData", "da/def/a20849.html#ae32fe4aba366d47133974787a250e9ac", null ],
+    [ "HandleMusic", "da/def/a20849.html#a997bbed5df4521b21b2749e47a2b8413", null ],
+    [ "Initialize", "da/def/a20849.html#abe14fe0e1c1afbfb9baa6c16b54a6191", null ],
+    [ "JustDied", "da/def/a20849.html#adad076aca788a317eb8085b22ae4d9ed", null ],
+    [ "JustEngagedWith", "da/def/a20849.html#ae30c01218215370bab7c5a139847c9dd", null ],
+    [ "JustSummoned", "da/def/a20849.html#a16cab59be86221b991f382529884b17e", null ],
+    [ "MovementInform", "da/def/a20849.html#a722509fba200d997e50dc586184019ec", null ],
+    [ "Reset", "da/def/a20849.html#a4fc8f1ff4490d419fd6fec0e4ed15a8b", null ],
+    [ "ScheduleAirEvents", "da/def/a20849.html#a809b1ee8e83d6de04f99b723b329c434", null ],
+    [ "ScheduleGroundEvents", "da/def/a20849.html#ac09d5428613218a18519c63e714c80ae", null ],
+    [ "SpellHit", "da/def/a20849.html#ad92c40cfcc483717bb8ca08214c22add", null ],
+    [ "SummonedCreatureDespawn", "da/def/a20849.html#aa8f214174dbf8730db2c39f94efb882e", null ],
+    [ "SummonedCreatureDies", "da/def/a20849.html#a678ba10c9ab7af662c0a8e2dd9de6904", null ],
+    [ "SummonMinions", "da/def/a20849.html#a5d059d9571a04896c27fde1b6c5db4ce", null ],
+    [ "UpdateAI", "da/def/a20849.html#ab86a057182e956b50dd6a3016f6e2ffe", null ],
+    [ "_defenderCnt", "da/def/a20849.html#aa8e48aff86695d3469c7600ee1899f03", null ],
+    [ "_engineersAlive", "da/def/a20849.html#aaa9392649e8116370aace87b5927adb7", null ],
+    [ "_flyCount", "da/def/a20849.html#a2c65bb16401d956cbdf56923ad345015", null ],
+    [ "_harpoonHits", "da/def/a20849.html#a11481dd5ffe2abc73d40b0aa291c6475", null ],
+    [ "_permaGround", "da/def/a20849.html#a410854c247c7b28d3a933ef496988cb8", null ],
+    [ "_trapperCnt", "da/def/a20849.html#adde8b13457bb6376ec48492e689026f3", null ]
 ];

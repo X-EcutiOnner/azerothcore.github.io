@@ -1,6 +1,8 @@
 var a20041 =
 [
-    [ "HandleDamageCalc", "de/dd3/a20041.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
-    [ "PrepareSpellScript", "de/dd3/a20041.html#a754da297cd5801616e24bf2d802d0b38", null ],
-    [ "Register", "de/dd3/a20041.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
+    [ "HandleEffectPeriodic", "de/dd3/a20041.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "de/dd3/a20041.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "de/dd3/a20041.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "de/dd3/a20041.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "de/dd3/a20041.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

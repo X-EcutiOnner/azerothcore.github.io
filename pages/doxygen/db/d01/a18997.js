@@ -1,9 +1,9 @@
 var a18997 =
 [
-    [ "DelayedCastEvent", "db/d01/a18997.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "db/d01/a18997.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "db/d01/a18997.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "db/d01/a18997.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "db/d01/a18997.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "db/d01/a18997.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "npc_green_dragon_combat_triggerAI", "db/d01/a18997.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "DoAction", "db/d01/a18997.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "JustEnteredCombat", "db/d01/a18997.html#ae25ca99139f8bb0082b97599cb924bd9", null ],
+    [ "JustExitedCombat", "db/d01/a18997.html#add8ce38b4a75947dc0170c7aba9c5589", null ],
+    [ "MoveInLineOfSight", "db/d01/a18997.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "db/d01/a18997.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ]
 ];

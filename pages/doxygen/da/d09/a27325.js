@@ -1,8 +1,7 @@
 var a27325 =
 [
-    [ "HandleDummy", "da/d09/a27325.html#a1afcd9c6ab96c87db8aa4899d0830899", null ],
-    [ "Load", "da/d09/a27325.html#a11d3cd0eccd4895f5cd9d2721bd3fd0c", null ],
-    [ "PrepareSpellScript", "da/d09/a27325.html#a252784bb4b438750db5ef7f905477140", null ],
-    [ "Register", "da/d09/a27325.html#ab93554e82cbed0c78452846c95247584", null ],
-    [ "Validate", "da/d09/a27325.html#a33404726f5e5986b263eb0a0beba9443", null ]
+    [ "HandleEffectApply", "da/d09/a27325.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "da/d09/a27325.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "da/d09/a27325.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "da/d09/a27325.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

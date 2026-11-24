@@ -1,8 +1,5 @@
 var a21081 =
 [
-    [ "CheckProc", "d8/d75/a21081.html#a2bbcd3aca15eb271759c2a64276bb9d3", null ],
-    [ "HandleProc", "d8/d75/a21081.html#a6761dd910808090d78c9b9ad88ba7bda", null ],
-    [ "PrepareAuraScript", "d8/d75/a21081.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60", null ],
-    [ "Register", "d8/d75/a21081.html#a430a5c4d0e3f77d4d966a4bf8f629e1e", null ],
-    [ "Validate", "d8/d75/a21081.html#a683a37c787ae5797d8c68aca1af0742a", null ]
+    [ "achievement_heartbreaker", "d8/d75/a21081.html#ad81925fc32d7cf914b7be44aabe49b39", null ],
+    [ "OnCheck", "d8/d75/a21081.html#ab3a2539ae5dc74743beb0dc0ea0147af", null ]
 ];

@@ -1,6 +1,11 @@
 var a23145 =
 [
-    [ "boss_reliquary_of_soulsAI", "d2/de6/a23149.html", "d2/de6/a23149" ],
-    [ "boss_reliquary_of_souls", "db/dbc/a23145.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "db/dbc/a23145.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "boss_essence_of_sufferingAI", "db/dbc/a23145.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
+    [ "DamageTaken", "db/dbc/a23145.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
+    [ "DoAction", "db/dbc/a23145.html#a08724d74523866969b12d13846eb4c1e", null ],
+    [ "JustEngagedWith", "db/dbc/a23145.html#aa2fce36768ad6e23a955cd215ca759db", null ],
+    [ "KilledUnit", "db/dbc/a23145.html#a3699b19f23cf15115ff8c92691a6d334", null ],
+    [ "MovementInform", "db/dbc/a23145.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
+    [ "Reset", "db/dbc/a23145.html#affa55b69784d8f881598189c361c986e", null ],
+    [ "UpdateAI", "db/dbc/a23145.html#abb60432720b3720832ccc83d454a3808", null ]
 ];

@@ -1,9 +1,6 @@
 var a19485 =
 [
-    [ "spell_trigger_spell_from_caster", "da/db4/a19485.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
-    [ "HandleTrigger", "da/db4/a19485.html#afc11c9408ea11cb04e476999a9bdf522", null ],
-    [ "PrepareSpellScript", "da/db4/a19485.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
-    [ "Register", "da/db4/a19485.html#ae44cc1a87267c1d08603d1aff2384957", null ],
-    [ "Validate", "da/db4/a19485.html#a3aace9a309bc848b887b03c949c921bd", null ],
-    [ "_triggerId", "da/db4/a19485.html#a29af52a9035f18936515a464889fefe5", null ]
+    [ "instance_icecrown_citadel_InstanceMapScript", "df/d5f/a19489.html", "df/d5f/a19489" ],
+    [ "instance_icecrown_citadel", "da/db4/a19485.html#a0901e23025cff08d1a7516bbef099ffa", null ],
+    [ "GetInstanceScript", "da/db4/a19485.html#a787c32626681f15f5515385a9ba6b848", null ]
 ];

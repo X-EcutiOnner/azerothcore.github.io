@@ -1,11 +1,8 @@
 var a17477 =
 [
-    [ "npc_tortured_rifleman", "d5/d2d/a17477.html#a5ab42b048c14838b6992716f62200c57", null ],
-    [ "AttackStart", "d5/d2d/a17477.html#a82f84e5b66d8cbcb25267e0eeb5ce65c", null ],
-    [ "DoAction", "d5/d2d/a17477.html#aafd02b19ba0280db3eacc21b24d3ceaa", null ],
-    [ "EnterEvadeMode", "d5/d2d/a17477.html#a1eddbbfa45174c05a24ad01f200983e3", null ],
-    [ "JustDied", "d5/d2d/a17477.html#abb8349f4f1c19a60c7566f1801ae3087", null ],
-    [ "JustEngagedWith", "d5/d2d/a17477.html#ab60cf1d4e6a58613a032b25b043aceea", null ],
-    [ "Reset", "d5/d2d/a17477.html#a04210cb211db92a1be6de7bc28953953", null ],
-    [ "UpdateAI", "d5/d2d/a17477.html#aa794584f9a842f9725f1f926b4099181", null ]
+    [ "npc_hor_raging_ghoul", "d5/d2d/a17477.html#a733d4ad92566a13ace3427aae6696bac", null ],
+    [ "JustDied", "d5/d2d/a17477.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
+    [ "Reset", "d5/d2d/a17477.html#aad6424be7dd53b59016963cefffe40e5", null ],
+    [ "UpdateAI", "d5/d2d/a17477.html#af4024393b318ca702c6652e042036b26", null ],
+    [ "leaped", "d5/d2d/a17477.html#a69dea538a87ae47de221768b6de42315", null ]
 ];

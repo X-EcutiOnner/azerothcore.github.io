@@ -1,19 +1,5 @@
 var a17493 =
 [
-    [ "npc_hor_lich_king", "d8/db1/a17493.html#a2d062432ca688b498c99b1a404939482", null ],
-    [ "DoAction", "d8/db1/a17493.html#ad6c3d39fa2762b82af94c75cb13e5293", null ],
-    [ "JustSummoned", "d8/db1/a17493.html#a616641dc2e0f46d3f0a86edc87a9a301", null ],
-    [ "MovementInform", "d8/db1/a17493.html#ae7f41d3aaa28699aee477dfada1a962f", null ],
-    [ "Reset", "d8/db1/a17493.html#a5c9512ccad51c881c9e8759341fd9d14", null ],
-    [ "SpellHitTarget", "d8/db1/a17493.html#a44b63fa387d05676c992cc100fb92806", null ],
-    [ "SummonedCreatureDespawn", "d8/db1/a17493.html#ac261de86ded5c319226867dfc3a5f42f", null ],
-    [ "SummonedCreatureDies", "d8/db1/a17493.html#a56b91c8d991778306bfea3702d94f1e7", null ],
-    [ "UpdateAI", "d8/db1/a17493.html#a0b5247d0e23ede8b867343803cec9774", null ],
-    [ "WallCompleted", "d8/db1/a17493.html#ad668e38cc7c651700686665d088d3a1d", null ],
-    [ "currentWall", "d8/db1/a17493.html#a5bac2be147e9725b68f56f056a341442", null ],
-    [ "div2", "d8/db1/a17493.html#af656d33ad0117378a75551d54d2a376f", null ],
-    [ "events", "d8/db1/a17493.html#acab01caba2cf66c21fe8a164f77491f1", null ],
-    [ "instance", "d8/db1/a17493.html#acaf28a6ecc646d551795bcb10d803923", null ],
-    [ "summons", "d8/db1/a17493.html#ad7c511cfa480c3b6801b63e63c0013c6", null ],
-    [ "summonsCount", "d8/db1/a17493.html#aa2e468e58f92cbdf7377805d5711c45e", null ]
+    [ "at_hor_battered_hilt_start", "d8/db1/a17493.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
+    [ "OnTrigger", "d8/db1/a17493.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
 ];

@@ -1,8 +1,6 @@
 var a21473 =
 [
-    [ "FilterTargets", "d6/dd0/a21473.html#a6f3d275e5ff06a6fc37f143d6394bf45", null ],
-    [ "HandleScript", "d6/dd0/a21473.html#aa97e0b2f4a8e33d412501f6625ab1504", null ],
-    [ "PrepareSpellScript", "d6/dd0/a21473.html#a0db5183ec1aa7f490202ac41cd00b153", null ],
-    [ "Register", "d6/dd0/a21473.html#acd4b270dbe27be417892e0a4183ffa0d", null ],
-    [ "Validate", "d6/dd0/a21473.html#abb3ca41a50087763d731d1f911065e14", null ]
+    [ "boss_svalaAI", "db/d08/a21477.html", "db/d08/a21477" ],
+    [ "boss_svala", "d6/dd0/a21473.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "d6/dd0/a21473.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

@@ -1,10 +1,6 @@
 var a24285 =
 [
-    [ "npc_wounded_blood_elfAI", "d4/d1d/a24285.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d4/d1d/a24285.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d4/d1d/a24285.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d4/d1d/a24285.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d4/d1d/a24285.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d4/d1d/a24285.html#a5affcb00e28a582f8926ab2226001cd0", null ],
-    [ "WaypointReached", "d4/d1d/a24285.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "go_beaconAI", "d1/dff/a24289.html", "d1/dff/a24289" ],
+    [ "go_beacon", "d4/d1d/a24285.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "d4/d1d/a24285.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

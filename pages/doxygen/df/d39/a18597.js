@@ -1,6 +1,7 @@
 var a18597 =
 [
-    [ "npc_ice_tombAI", "db/da7/a18601.html", "db/da7/a18601" ],
-    [ "npc_ice_tomb", "df/d39/a18597.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "df/d39/a18597.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "OnRemove", "df/d39/a18597.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "df/d39/a18597.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "df/d39/a18597.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "df/d39/a18597.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

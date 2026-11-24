@@ -1,8 +1,8 @@
 var a17377 =
 [
-    [ "npc_fos_corrupted_soul_fragment", "d9/d78/a17377.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
-    [ "Reset", "d9/d78/a17377.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
-    [ "UpdateAI", "d9/d78/a17377.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
-    [ "Instance", "d9/d78/a17377.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
-    [ "Timer", "d9/d78/a17377.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
+    [ "npc_fos_leaderAI", "d1/d35/a17381.html", "d1/d35/a17381" ],
+    [ "npc_fos_leader", "d9/d78/a17377.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "d9/d78/a17377.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "d9/d78/a17377.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "d9/d78/a17377.html#ae2f6b84b700dc930356e9bca6755fb8f", null ]
 ];

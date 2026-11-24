@@ -1,6 +1,6 @@
 var a18377 =
 [
-    [ "AbominationDespawner", "da/d4e/a18377.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "da/d4e/a18377.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "da/d4e/a18377.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "npc_volatile_oozeAI", "d1/d01/a18381.html", "d1/d01/a18381" ],
+    [ "npc_volatile_ooze", "da/d4e/a18377.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "da/d4e/a18377.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

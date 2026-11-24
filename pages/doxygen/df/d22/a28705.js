@@ -1,8 +1,8 @@
 var a28705 =
 [
-    [ "npc_riggle_bassbaitAI", "de/da1/a28709.html", "de/da1/a28709" ],
-    [ "npc_riggle_bassbait", "df/d22/a28705.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "df/d22/a28705.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "df/d22/a28705.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "df/d22/a28705.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "npc_training_dummy", "df/d22/a28705.html#a7cf3b633e444d67dfaea6308e3ed2dc1", null ],
+    [ "DamageTaken", "df/d22/a28705.html#accd7c39cd7b22b30e654288b034f1319", null ],
+    [ "JustEnteredCombat", "df/d22/a28705.html#a2dad51de23663e7b0bf6bcd2ce86a290", null ],
+    [ "UpdateAI", "df/d22/a28705.html#abd6941fcfd3bdff557b38017bc74e83c", null ],
+    [ "_combatTimer", "df/d22/a28705.html#a6e2ed26a35fecc3fe6e1957c3ed47124", null ]
 ];

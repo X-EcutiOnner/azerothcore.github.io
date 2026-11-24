@@ -1,8 +1,8 @@
 var a19721 =
 [
-    [ "boss_maexxna_webwrapAI", "d1/d03/a19721.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
-    [ "IsSummonedBy", "d1/d03/a19721.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
-    [ "JustDied", "d1/d03/a19721.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
-    [ "UpdateAI", "d1/d03/a19721.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
-    [ "victimGUID", "d1/d03/a19721.html#a54081ebfc0df639b7e18b5f079802c92", null ]
+    [ "HandleEffect", "d1/d03/a19721.html#a00e14e6b51b4480d0eded71465ea37dc", null ],
+    [ "PrepareSpellScript", "d1/d03/a19721.html#a37626ed12400a5babaa9959bd367d5ff", null ],
+    [ "Register", "d1/d03/a19721.html#a47e569a1a4b42b7b91becd3995820632", null ],
+    [ "SelectTargets", "d1/d03/a19721.html#a50546612d60912fb4d22ef361f32a353", null ],
+    [ "Validate", "d1/d03/a19721.html#a031ed59c05133bec8d158ea597fa3723", null ]
 ];

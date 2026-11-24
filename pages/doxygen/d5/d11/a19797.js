@@ -1,6 +1,5 @@
 var a19797 =
 [
-    [ "npc_teslaAI", "d4/dcb/a19801.html", "d4/dcb/a19801" ],
-    [ "npc_tesla", "d5/d11/a19797.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
-    [ "GetAI", "d5/d11/a19797.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
+    [ "npc_mr_bigglesworth", "d5/d11/a19797.html#a7c27b4fa8bca0533e3f18bd540c4c36c", null ],
+    [ "JustDied", "d5/d11/a19797.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

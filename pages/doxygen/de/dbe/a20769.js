@@ -1,30 +1,6 @@
 var a20769 =
 [
-    [ "boss_mimiron", "de/dbe/a20769.html#acb08d1e24173014a7c443dc2eaea76ce", null ],
-    [ "AttackStart", "de/dbe/a20769.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
-    [ "CloseDoorAndButton", "de/dbe/a20769.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
-    [ "EnterEvadeMode", "de/dbe/a20769.html#a9f39f9afa3f561115c4f7e630364f566", null ],
-    [ "GetActiveFlameCount", "de/dbe/a20769.html#a94aed57a03e4710e76338a1f7e20ea55", null ],
-    [ "GetData", "de/dbe/a20769.html#ab3aa6e8702c74ee27fa776c0a9bef77d", null ],
-    [ "JustEngagedWith", "de/dbe/a20769.html#ab9ce3920c2a06deb31bcf25f1b2947a8", null ],
-    [ "JustReachedHome", "de/dbe/a20769.html#a9e84d80c2e194c6d51b9d67d0c72db19", null ],
-    [ "MoveInLineOfSight", "de/dbe/a20769.html#a0b1497cf1fc3cca2db670b74eb4745ee", null ],
-    [ "RegisterFlame", "de/dbe/a20769.html#a879e2e2e8bd5662ec56ae68c9081e813", null ],
-    [ "Reset", "de/dbe/a20769.html#aec9cce9e0fcab78cfcf37e605cc6c08a", null ],
-    [ "ResetGameObjects", "de/dbe/a20769.html#ac3a10be85349fc62ef14ecd937159e61", null ],
-    [ "SetData", "de/dbe/a20769.html#aa9578fe08ab058a64e67935d262224ac", null ],
-    [ "SpellHit", "de/dbe/a20769.html#af4e88527fb72bcbc1dc0a57b6007a461", null ],
-    [ "UnregisterFlame", "de/dbe/a20769.html#a7605afe4b8a08512a7ea7b716e26ca25", null ],
-    [ "UpdateAI", "de/dbe/a20769.html#adea87e321b4c401109ab4c37e314aca2", null ],
-    [ "_achievBombBot", "de/dbe/a20769.html#a916517ab6ec6b4bfe0bcbb445312a9a0", null ],
-    [ "_achievProximityMine", "de/dbe/a20769.html#a1fe4524d60414c100e0489bb77396033", null ],
-    [ "_achievRocketStrike", "de/dbe/a20769.html#a406cf4b6b01e1fbd6e995173c5cade4a", null ],
-    [ "_activeFlames", "de/dbe/a20769.html#a92c7250287a9ba8d65cde3873189ff8d", null ],
-    [ "_allowedFlameSpreadTime", "de/dbe/a20769.html#a34e2409dc2384851746d04301b926fdb", null ],
-    [ "_berserk", "de/dbe/a20769.html#af85af0d10226de45a42a9d3317244e7a", null ],
-    [ "_changeAllowedFlameSpreadTime", "de/dbe/a20769.html#a7d56123e4cc29207b53c0673084ee79e", null ],
-    [ "_hardmode", "de/dbe/a20769.html#af4b21f8bb94becdd9082e39d81003a2b", null ],
-    [ "_isEvading", "de/dbe/a20769.html#aa46c9828cdd36bb353ae75bea6d205b3", null ],
-    [ "_minutesTalkNum", "de/dbe/a20769.html#a4dbed164732f74205cd248afbb2fb46e", null ],
-    [ "_outOfCombatTimer", "de/dbe/a20769.html#a73c2e0d120706ec09638bbc20bda81b6", null ]
+    [ "HandleDamage", "de/dbe/a20769.html#af2578478e83eb2f6c2de32a692e9be91", null ],
+    [ "PrepareSpellScript", "de/dbe/a20769.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
+    [ "Register", "de/dbe/a20769.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
 ];

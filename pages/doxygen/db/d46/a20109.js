@@ -1,6 +1,7 @@
 var a20109 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "dc/dc6/a20113.html", "dc/dc6/a20113" ],
-    [ "instance_halls_of_lightning", "db/d46/a20109.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "db/d46/a20109.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "HandleScript", "db/d46/a20109.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "db/d46/a20109.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "db/d46/a20109.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "db/d46/a20109.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

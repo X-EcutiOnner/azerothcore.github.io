@@ -1,6 +1,6 @@
 var a17621 =
 [
-    [ "npc_pos_icicle_triggerAI", "d0/ded/a17625.html", "d0/ded/a17625" ],
-    [ "npc_pos_icicle_trigger", "d8/de0/a17621.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
-    [ "GetAI", "d8/de0/a17621.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
+    [ "npc_pos_freed_slaveAI", "d8/de0/a17621.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d8/de0/a17621.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d8/de0/a17621.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

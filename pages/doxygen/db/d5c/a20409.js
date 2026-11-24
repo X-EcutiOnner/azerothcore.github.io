@@ -1,8 +1,8 @@
 var a20409 =
 [
-    [ "FilterTargets", "db/d5c/a20409.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "db/d5c/a20409.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "db/d5c/a20409.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "db/d5c/a20409.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "db/d5c/a20409.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "CheckCast", "db/d5c/a20409.html#a71566abe41cec09cbb414d4e1be53c8f", null ],
+    [ "PrepareSpellScript", "db/d5c/a20409.html#ab3c4e4c1ef59fda87cd2b1fb119882c8", null ],
+    [ "Register", "db/d5c/a20409.html#a403728403abd55efdbfe1c835e9799bb", null ],
+    [ "SelectAvailableSeat", "db/d5c/a20409.html#a71101aaf195d64a2fe6c821ad1d5379d", null ],
+    [ "SelectSeat", "db/d5c/a20409.html#a466691f96780f607b52b853c83ddbae4", null ]
 ];

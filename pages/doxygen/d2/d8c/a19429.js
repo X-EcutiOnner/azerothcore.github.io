@@ -1,9 +1,12 @@
 var a19429 =
 [
-    [ "npc_icc_severed_essenceAI", "d2/d8c/a19429.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "d2/d8c/a19429.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "d2/d8c/a19429.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "d2/d8c/a19429.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "d2/d8c/a19429.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "d2/d8c/a19429.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d2/d8c/a19429.html#a2e3abb6f8889b8df818e8260e6428375", null ],
+    [ "InitializeAI", "d2/d8c/a19429.html#ac39bb8074ebb7106b426f507b73b368e", null ],
+    [ "JustEngagedWith", "d2/d8c/a19429.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
+    [ "MoveInLineOfSight", "d2/d8c/a19429.html#a846fe2784308eb694f5f482133a33a7f", null ],
+    [ "MovementInform", "d2/d8c/a19429.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
+    [ "Reset", "d2/d8c/a19429.html#afbb260e4968865e7c4141e73a050e663", null ],
+    [ "UpdateAI", "d2/d8c/a19429.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
+    [ "_didWebBeam", "d2/d8c/a19429.html#a8772cf938d30ddcc439d3912db578dfa", null ],
+    [ "events", "d2/d8c/a19429.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
 ];

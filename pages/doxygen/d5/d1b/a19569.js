@@ -1,13 +1,6 @@
 var a19569 =
 [
-    [ "boss_anubrekhan", "d5/d1b/a19569.html#ad748de528ca78739236b9586ddaa19bd", null ],
-    [ "JustDied", "d5/d1b/a19569.html#a9dfb1b89c4f47235e463d90f17522113", null ],
-    [ "JustEngagedWith", "d5/d1b/a19569.html#a97d56653381e7a7f8c724263148cd61e", null ],
-    [ "JustSummoned", "d5/d1b/a19569.html#af1a01ff6c9790e1660619767c16cfd94", null ],
-    [ "KilledUnit", "d5/d1b/a19569.html#a73906e3681c767e5818d380e77525ba2", null ],
-    [ "MoveInLineOfSight", "d5/d1b/a19569.html#a9fcbc921973e0bd02867217d15efcc64", null ],
-    [ "Reset", "d5/d1b/a19569.html#a1a495fddf89c4c92136d1fd61fba6594", null ],
-    [ "SummonCryptGuards", "d5/d1b/a19569.html#a30d2e7464cffc6894882897ed0d66c6a", null ],
-    [ "SummonedCreatureDies", "d5/d1b/a19569.html#a12b4f2878b54f5bd34c470d2c7b40098", null ],
-    [ "_sayGreet", "d5/d1b/a19569.html#a7f61eb4aab4d0bf81480dea011b11f95", null ]
+    [ "boss_gluthAI", "de/db1/a19573.html", "de/db1/a19573" ],
+    [ "boss_gluth", "d5/d1b/a19569.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
+    [ "GetAI", "d5/d1b/a19569.html#a3b19c938aaecc897d6552715064be7f8", null ]
 ];

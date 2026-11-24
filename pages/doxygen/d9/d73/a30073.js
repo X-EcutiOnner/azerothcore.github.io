@@ -1,10 +1,11 @@
 var a30073 =
 [
-    [ "ThreatRecordingAI", "d9/d73/a30073.html#a4ada7698adeadbd8c1f5f53f63131354", null ],
-    [ "CalculateThreat", "d9/d73/a30073.html#aee0c1d77ac2a0723ee579235ee2fb711", null ],
-    [ "UpdateAI", "d9/d73/a30073.html#abb1fd30ade5f0d33ff58e6986b97cc1a", null ],
-    [ "Calls", "d9/d73/a30073.html#a734580a5a616f8f589c650aa13817176", null ],
-    [ "Factor", "d9/d73/a30073.html#a6aa05db0e9e959ddc89f2cacb70ef9d4", null ],
-    [ "LastThreat", "d9/d73/a30073.html#a5405a600de752b8b9178186eea262223", null ],
-    [ "LastUnit", "d9/d73/a30073.html#ac66a10f3d8087d7245634d7d7291017a", null ]
+    [ "SetUp", "d9/d73/a30073.html#a236c5547ff9855b39315642ec2e79c4e", null ],
+    [ "SimulateGmVisibleOff", "d9/d73/a30073.html#a9276b43219f395a537a0ee51ab00905c", null ],
+    [ "SimulateGmVisibleOn", "d9/d73/a30073.html#afc09b0c8806fbf445e25f8f194a8228b", null ],
+    [ "TearDown", "d9/d73/a30073.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
+    [ "originalWorld", "d9/d73/a30073.html#a8f7396466d2b20742f66e14462de96a4", null ],
+    [ "player", "d9/d73/a30073.html#a97049ae029c9354fdf3194be77f36dfa", null ],
+    [ "session", "d9/d73/a30073.html#a2f87ec522777defa8b023274b1d78c35", null ],
+    [ "worldMock", "d9/d73/a30073.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
 ];

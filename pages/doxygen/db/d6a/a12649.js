@@ -23,7 +23,6 @@ var a12649 =
     [ "HandleFreezeCommand", "db/d6a/a12649.html#ae63e89580f430cffe62afdf4fb2ff882", null ],
     [ "HandleGetDistanceCommand", "db/d6a/a12649.html#ad7a445556e92c64ab769cb2e3631a993", null ],
     [ "HandleGPSCommand", "db/d6a/a12649.html#a976eb9aeee44fb1fabd801b3a3b88903", null ],
-    [ "HandleGroupSummonCommand", "db/d6a/a12649.html#acb839c6d840c7a8f9b0c01435420b0ad", null ],
     [ "HandleGUIDCommand", "db/d6a/a12649.html#a893eed58f98ae465302ffb0ba5bd2aeb", null ],
     [ "HandleHelpCommand", "db/d6a/a12649.html#a7b504cc3fd2d0bdbea7682a05b73d883", null ],
     [ "HandleHideAreaCommand", "db/d6a/a12649.html#a9e7b862a123dde0893edf87bd3dfddda", null ],

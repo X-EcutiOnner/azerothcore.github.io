@@ -1,6 +1,6 @@
 var a18841 =
 [
-    [ "HandleScript", "da/dae/a18841.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
-    [ "PrepareSpellScript", "da/dae/a18841.html#add6b78f0396a34c36e0dff1928889e43", null ],
-    [ "Register", "da/dae/a18841.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
+    [ "npc_valkyr_shadowguardAI", "d0/dea/a18845.html", "d0/dea/a18845" ],
+    [ "npc_valkyr_shadowguard", "da/dae/a18841.html#a8ee90e21499eebf240c57419454c3829", null ],
+    [ "GetAI", "da/dae/a18841.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
 ];

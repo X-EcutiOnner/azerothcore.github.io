@@ -2,9 +2,9 @@ var searchData=
 [
   ['varian_5fsay_5fattack_5fend_0',['VARIAN_SAY_ATTACK_END',['../da/dd2/a04898.html#a53a532ebd19d40798352630318c0d996adc78083afe7c83dbd8c89b3d9dcef5a7',1,'scourge_invasion.h']]],
   ['vehicle_1',['Vehicle',['../d0/d79/a01766.html#abe8666ac87665ba963053cdd2b014750ad6af9c1eaff2a89ebd3f8d0c542be12b',1,'ObjectGuid.h']]],
-  ['vehicle_5fargent_5fbattleworg_2',['VEHICLE_ARGENT_BATTLEWORG',['../d0/dff/a04571.html#ac232df195976b46ecdd6d6f36eb3929da5d25cab83cbbe5f001565ff1d92de02d',1,'trial_of_the_champion.h']]],
-  ['vehicle_5fargent_5fwarhorse_3',['VEHICLE_ARGENT_WARHORSE',['../d0/dff/a04571.html#ac232df195976b46ecdd6d6f36eb3929dadd35c798d1cd95da5f6f771f6d44a6a3',1,'trial_of_the_champion.h']]],
-  ['vehicle_5fblack_5fknight_4',['VEHICLE_BLACK_KNIGHT',['../d0/dff/a04571.html#ac232df195976b46ecdd6d6f36eb3929da3670ab5c931264a97a3abf4811aed6ce',1,'trial_of_the_champion.h']]],
+  ['vehicle_5fargent_5fbattleworg_2',['VEHICLE_ARGENT_BATTLEWORG',['../d0/dff/a04571.html#aad8ccd1cb50c369b26777ea0ba6e748da5d25cab83cbbe5f001565ff1d92de02d',1,'trial_of_the_champion.h']]],
+  ['vehicle_5fargent_5fwarhorse_3',['VEHICLE_ARGENT_WARHORSE',['../d0/dff/a04571.html#aad8ccd1cb50c369b26777ea0ba6e748dadd35c798d1cd95da5f6f771f6d44a6a3',1,'trial_of_the_champion.h']]],
+  ['vehicle_5fblack_5fknight_4',['VEHICLE_BLACK_KNIGHT',['../d0/dff/a04571.html#aad8ccd1cb50c369b26777ea0ba6e748da3670ab5c931264a97a3abf4811aed6ce',1,'trial_of_the_champion.h']]],
   ['vehicle_5femote_5frepair_5',['VEHICLE_EMOTE_REPAIR',['../d4/d1e/a04745.html#aa80bce1d0ea05213c0d6c327126caf31abafa70640e433ae130c05badf6fc82bc',1,'boss_flame_leviathan.cpp']]],
   ['vehicle_5fflag_5fadjust_5faim_5fangle_6',['VEHICLE_FLAG_ADJUST_AIM_ANGLE',['../d6/d3d/a01784.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103',1,'VehicleDefines.h']]],
   ['vehicle_5fflag_5fadjust_5faim_5fpower_7',['VEHICLE_FLAG_ADJUST_AIM_POWER',['../d6/d3d/a01784.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5',1,'VehicleDefines.h']]],
@@ -14,9 +14,9 @@ var searchData=
   ['vehicle_5fflag_5ffullspeedturning_11',['VEHICLE_FLAG_FULLSPEEDTURNING',['../d6/d3d/a01784.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1',1,'VehicleDefines.h']]],
   ['vehicle_5fflag_5fno_5fjumping_12',['VEHICLE_FLAG_NO_JUMPING',['../d6/d3d/a01784.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f',1,'VehicleDefines.h']]],
   ['vehicle_5fflag_5fno_5fstrafe_13',['VEHICLE_FLAG_NO_STRAFE',['../d6/d3d/a01784.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b',1,'VehicleDefines.h']]],
-  ['vehicle_5fpos_5fleviathan_14',['VEHICLE_POS_LEVIATHAN',['../d4/dc3/a04706.html#a1b744e1c432c2a71a2d189d99b377a78a37586ea5113dbdf35f7d5f1ac8939a6e',1,'ulduar.h']]],
-  ['vehicle_5fpos_5fnone_15',['VEHICLE_POS_NONE',['../d4/dc3/a04706.html#a1b744e1c432c2a71a2d189d99b377a78a86bb473cdff2581c0b69cd1767657e06',1,'ulduar.h']]],
-  ['vehicle_5fpos_5fstart_16',['VEHICLE_POS_START',['../d4/dc3/a04706.html#a1b744e1c432c2a71a2d189d99b377a78aa42e0f5cd84525aa3ab0c90b00331de1',1,'ulduar.h']]],
+  ['vehicle_5fpos_5fleviathan_14',['VEHICLE_POS_LEVIATHAN',['../d4/dc3/a04706.html#aa4a5d3395ee045f88805f7f7fbb50e80a37586ea5113dbdf35f7d5f1ac8939a6e',1,'ulduar.h']]],
+  ['vehicle_5fpos_5fnone_15',['VEHICLE_POS_NONE',['../d4/dc3/a04706.html#aa4a5d3395ee045f88805f7f7fbb50e80a86bb473cdff2581c0b69cd1767657e06',1,'ulduar.h']]],
+  ['vehicle_5fpos_5fstart_16',['VEHICLE_POS_START',['../d4/dc3/a04706.html#aa4a5d3395ee045f88805f7f7fbb50e80aa42e0f5cd84525aa3ab0c90b00331de1',1,'ulduar.h']]],
   ['vehicle_5frespawn_5ftime_17',['VEHICLE_RESPAWN_TIME',['../d9/d7c/a01073.html#a3c5d18364f664b5ad98e2ad610875cb5a2909122222c6a5a133857e81fe102aeb',1,'BattlegroundIC.h']]],
   ['vehicle_5fseat_5fflag_5fallow_5fturning_18',['VEHICLE_SEAT_FLAG_ALLOW_TURNING',['../d5/d56/a05084.html#a1722a65e910763eaffb541de9d7001f5a8a1dbdd6db0a343d926243a68014cf8d',1,'DBCEnums.h']]],
   ['vehicle_5fseat_5fflag_5fallows_5finteraction_19',['VEHICLE_SEAT_FLAG_ALLOWS_INTERACTION',['../d5/d56/a05084.html#a1722a65e910763eaffb541de9d7001f5a39fac49b65d6d3f82e3877fe54cfa304',1,'DBCEnums.h']]],
@@ -89,6 +89,5 @@ var searchData=
   ['vmap_5fload_5fresult_5fignored_86',['VMAP_LOAD_RESULT_IGNORED',['../d5/d9c/a05152.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165',1,'VMAP']]],
   ['vmap_5fload_5fresult_5fok_87',['VMAP_LOAD_RESULT_OK',['../d5/d9c/a05152.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b',1,'VMAP']]],
   ['voice_5fsay_5fthrone_88',['VOICE_SAY_THRONE',['../de/de6/a03848.html#a62ce5749782debfb4b44ccd4f5b69fcea00780db40ab60b4a9e7042866a5a1bcb',1,'zone_undercity.cpp']]],
-  ['void_5fzone_5fvisual_89',['VOID_ZONE_VISUAL',['../d3/d24/a04589.html#a5bd342133be8c2137b831460acc9298ca5df32fcd69941eeba4aafb2097013c09',1,'instance_icecrown_citadel.cpp']]],
-  ['vrykul_90',['Vrykul',['../d3/d8f/a05099.html#a191923d1acd50a08f3503e3568f5fae3a339e2766b4947bafd0816af1d3b8dfc2',1,'SharedDefines.h']]]
+  ['vrykul_89',['Vrykul',['../d3/d8f/a05099.html#a191923d1acd50a08f3503e3568f5fae3a339e2766b4947bafd0816af1d3b8dfc2',1,'SharedDefines.h']]]
 ];

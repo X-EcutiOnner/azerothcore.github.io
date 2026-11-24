@@ -1,6 +1,6 @@
 var a21241 =
 [
-    [ "OnEffect", "db/d5e/a21241.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "db/d5e/a21241.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "db/d5e/a21241.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "FilterTargets", "db/d5e/a21241.html#a8303045991c638e87c72940174f69a7f", null ],
+    [ "PrepareSpellScript", "db/d5e/a21241.html#a18fdfdfa7f90a903086902d249678565", null ],
+    [ "Register", "db/d5e/a21241.html#af8d3f834e06a543a96065102fa78bc5c", null ]
 ];

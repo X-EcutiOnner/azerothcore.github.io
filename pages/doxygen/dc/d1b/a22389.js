@@ -1,12 +1,21 @@
 var a22389 =
 [
-    [ "npc_plague_cauldron_ghoul", "dc/d1b/a22389.html#af4548895d0f14f8634b3f1999fd5544c", null ],
-    [ "IsSummonedBy", "dc/d1b/a22389.html#aaf5e0deaf6e94d5dce6c54bfcec623c7", null ],
-    [ "JustEngagedWith", "dc/d1b/a22389.html#a10e84fc7b4f50d45b580f9088b0f9bf0", null ],
-    [ "Land", "dc/d1b/a22389.html#aceae56263f0fa2f1831971f473966b2f", null ],
-    [ "MovementInform", "dc/d1b/a22389.html#ac1875f2e63bf044b185a6292f4dc77d3", null ],
-    [ "Reset", "dc/d1b/a22389.html#a7e361b9b992040444b479cd2103fcea5", null ],
-    [ "SetData", "dc/d1b/a22389.html#a9ef9e6168e3f457d119884921ebf2d02", null ],
-    [ "UpdateAI", "dc/d1b/a22389.html#a4debe95cb729ccbdc69783ca96b7bace", null ],
-    [ "_jumpId", "dc/d1b/a22389.html#abac29a9e5c614dbf9440d71c6d12bf11", null ]
+    [ "npc_still_at_it_triggerAI", "dc/d1b/a22389.html#a4c8a9984ded254aac0df168e35d658e1", null ],
+    [ "CheckAction", "dc/d1b/a22389.html#ae52906e508ec3ea438c0dbde31a82197", null ],
+    [ "DamageTaken", "dc/d1b/a22389.html#abeae6e59731fb70848ba719dbc18727b", null ],
+    [ "GetManus", "dc/d1b/a22389.html#a1208132a9844369d0e1d87910a8576a7", null ],
+    [ "Reset", "dc/d1b/a22389.html#a51f7fae0fae84e12e27840c04dde65f8", null ],
+    [ "SpellHit", "dc/d1b/a22389.html#a41f2ef44c6ad7b9fff8e9ee90eebc759", null ],
+    [ "Start", "dc/d1b/a22389.html#ac707759eea2d1e3d538f89d013aa96c9", null ],
+    [ "UpdateAI", "dc/d1b/a22389.html#af6b279fbc562bbb702ea17eb892471d4", null ],
+    [ "currentstep", "dc/d1b/a22389.html#a3206f3946f1f9a3e230c39f3370642cd", null ],
+    [ "expectedaction", "dc/d1b/a22389.html#a3aa9f7db1b56bb186678455026e4d193", null ],
+    [ "playeraction", "dc/d1b/a22389.html#af018e010bb709b73eec229615f401966", null ],
+    [ "playerGUID", "dc/d1b/a22389.html#a3385d9f57a52914378fe2c1126600af5", null ],
+    [ "running", "dc/d1b/a22389.html#a81100e14bbfdd5d31d61cef76b4c0a7f", null ],
+    [ "stepcount", "dc/d1b/a22389.html#abd3273fe4758b494153c91362b01a587", null ],
+    [ "success", "dc/d1b/a22389.html#a4e4d83f7b8e084f5051498f47cd57448", null ],
+    [ "tensecstimer", "dc/d1b/a22389.html#a8774bbe4630b518f45508996710d006a", null ],
+    [ "thunderbrewGUID", "dc/d1b/a22389.html#ac55098fa6034fe3b7efabdfaf72d083a", null ],
+    [ "timer", "dc/d1b/a22389.html#a818549f4fd33d6d07e874705b09416e6", null ]
 ];

@@ -1,5 +1,6 @@
 var a23937 =
 [
-    [ "at_shattered_halls_execution", "d0/d43/a23937.html#a73f1d1f03960acd070b7996257f7a526", null ],
-    [ "OnTrigger", "d0/d43/a23937.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
+    [ "npc_warden_mellicharAI", "de/d43/a23941.html", "de/d43/a23941" ],
+    [ "npc_warden_mellichar", "d0/d43/a23937.html#aba5c3d005097430941bd40bbbb0d3562", null ],
+    [ "GetAI", "d0/d43/a23937.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
 ];

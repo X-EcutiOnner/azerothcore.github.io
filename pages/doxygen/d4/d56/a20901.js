@@ -1,10 +1,6 @@
 var a20901 =
 [
-    [ "npc_razorscale_dark_rune_watcher", "d4/d56/a20901.html#aff56f4cadfeb72f6a96f8ac86b27a6a1", null ],
-    [ "CanAIAttack", "d4/d56/a20901.html#a68ef8f2c7014850c5107cc22deff8658", null ],
-    [ "JustEngagedWith", "d4/d56/a20901.html#a303994b6f5e2ae6e4d6f0e44d9eb60a9", null ],
-    [ "Reset", "d4/d56/a20901.html#aaab4be32140991366f1a004622bf3b31", null ],
-    [ "UpdateAI", "d4/d56/a20901.html#a8d1518f80cc6427d0334770a5aaf130a", null ],
-    [ "_events", "d4/d56/a20901.html#a15fa73dea3b9b86a6d1b42f9d1296d6e", null ],
-    [ "_instance", "d4/d56/a20901.html#ac08ba6b60827408aeb1b63a48a57fa9e", null ]
+    [ "go_razorscale_mole_machineAI", "d6/dfe/a20905.html", "d6/dfe/a20905" ],
+    [ "go_razorscale_mole_machine", "d4/d56/a20901.html#a94d4c7900c139202cd0e57489ecb5a02", null ],
+    [ "GetAI", "d4/d56/a20901.html#a56de10f80d50b667bfae81994a618304", null ]
 ];

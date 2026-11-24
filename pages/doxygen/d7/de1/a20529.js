@@ -1,6 +1,8 @@
 var a20529 =
 [
-    [ "HandleSurge", "d7/de1/a20529.html#a669a46f3583518664462b4ee915be2da", null ],
-    [ "PrepareSpellScript", "d7/de1/a20529.html#adead1c7e506e9dc8d6b9cc04f2331a58", null ],
-    [ "Register", "d7/de1/a20529.html#a7f29f72897e2e175044a49b05d2994d7", null ]
+    [ "npc_ulduar_saronite_animus", "d7/de1/a20529.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
+    [ "JustDied", "d7/de1/a20529.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
+    [ "UpdateAI", "d7/de1/a20529.html#afc7899752e25669b37ab04b50fb2d604", null ],
+    [ "_instance", "d7/de1/a20529.html#a6f2bf52c82185365efe88941b7922504", null ],
+    [ "timer", "d7/de1/a20529.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
 ];

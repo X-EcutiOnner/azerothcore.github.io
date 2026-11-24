@@ -1,6 +1,6 @@
 var a17653 =
 [
-    [ "npc_pos_leader_secondAI", "da/d38/a17657.html", "da/d38/a17657" ],
-    [ "npc_pos_leader_second", "da/d74/a17653.html#ac4758674cc97eae0937264fa028e6da5", null ],
-    [ "GetAI", "da/d74/a17653.html#ac403cfc86247990d78c9cf4179df8b87", null ]
+    [ "HandleEffectPeriodic", "da/d74/a17653.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
+    [ "PrepareAuraScript", "da/d74/a17653.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
+    [ "Register", "da/d74/a17653.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
 ];

@@ -1,6 +1,6 @@
 var a19753 =
 [
-    [ "boss_razuvious_minionAI", "dd/d05/a19757.html", "dd/d05/a19757" ],
-    [ "boss_razuvious_minion", "d1/d11/a19753.html#ae23d51c9ebfe31f624a749578d27252c", null ],
-    [ "GetAI", "d1/d11/a19753.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
+    [ "boss_thaddiusAI", "dd/d05/a19757.html", "dd/d05/a19757" ],
+    [ "boss_thaddius", "d1/d11/a19753.html#aff97b030b861feb646e1b22f60ee3605", null ],
+    [ "GetAI", "d1/d11/a19753.html#acf841c6897396f517a74932fc3480e69", null ]
 ];

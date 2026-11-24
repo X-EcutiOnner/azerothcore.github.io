@@ -1,8 +1,9 @@
 var a20825 =
 [
-    [ "HandleEffectApply", "d9/d36/a20825.html#a9b4ef881ded9d7b1e4cbdf61af70cdeb", null ],
-    [ "HandleEffectPeriodic", "d9/d36/a20825.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
-    [ "HandleEffectRemove", "d9/d36/a20825.html#a5750666947a5899d7ef46678eadb4872", null ],
-    [ "PrepareAuraScript", "d9/d36/a20825.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
-    [ "Register", "d9/d36/a20825.html#a524c071390365b7dab59bc7a79b50f15", null ]
+    [ "npc_ulduar_rocket_strike_trigger", "d9/d36/a20825.html#a14fc5830fe192856bd7c99f78de91070", null ],
+    [ "InitializeAI", "d9/d36/a20825.html#a50b4312f060d62e1c4e3ff144add48d8", null ],
+    [ "SetData", "d9/d36/a20825.html#a9d896f09483369fcca2a45223514f855", null ],
+    [ "SpellHitTarget", "d9/d36/a20825.html#ad4a438c5143a6de2b469baa28f0893c5", null ],
+    [ "UpdateAI", "d9/d36/a20825.html#af5e5dec908f6e0f79a7f4a508d4c4403", null ],
+    [ "_events", "d9/d36/a20825.html#acdd7bdda1ecc5d6e5c18f1306153200a", null ]
 ];

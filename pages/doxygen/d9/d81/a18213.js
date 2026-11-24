@@ -1,6 +1,6 @@
 var a18213 =
 [
-    [ "IgbTeleportOnVictoryCheck", "d9/d81/a18213.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "d9/d81/a18213.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "d9/d81/a18213.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "BurningPitchFilterCheck", "d9/d81/a18213.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "d9/d81/a18213.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "d9/d81/a18213.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

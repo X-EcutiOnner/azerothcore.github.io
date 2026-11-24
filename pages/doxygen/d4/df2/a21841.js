@@ -1,8 +1,5 @@
 var a21841 =
 [
-    [ "npc_dusk", "d4/df2/a21841.html#ab142eb266e64af625a8a38d3234ded72", null ],
-    [ "MovementInform", "d4/df2/a21841.html#a49cade56e631668c946edb6753172c87", null ],
-    [ "PassengerBoarded", "d4/df2/a21841.html#aaff19f52995db17f4dab953e2e928c68", null ],
-    [ "WaypointReached", "d4/df2/a21841.html#ac8f70426313aa6834285905e94f1d0d9", null ],
-    [ "_ejected", "d4/df2/a21841.html#a4f749f98c178a32b211bbd38b9447607", null ]
+    [ "npc_steam_powered_auctioneerAI", "d4/df2/a21841.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d4/df2/a21841.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

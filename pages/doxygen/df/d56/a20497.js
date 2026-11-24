@@ -1,7 +1,5 @@
 var a20497 =
 [
-    [ "boss_freya_iron_root", "df/d56/a20497.html#af35a268c89c025d95c13ea8c87d6516e", null ],
-    [ "JustDied", "df/d56/a20497.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ],
-    [ "OnDespawn", "df/d56/a20497.html#abd0258796a696e6665ecd51b27cc0b1e", null ],
-    [ "ReleaseRootedPlayer", "df/d56/a20497.html#a87fe9f9e32bcc44e8692fd317ab864db", null ]
+    [ "achievement_freya_getting_back_to_nature", "df/d56/a20497.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "df/d56/a20497.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

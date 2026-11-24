@@ -1,5 +1,7 @@
 var a20477 =
 [
-    [ "achievement_flame_leviathan_unbroken", "d4/d2a/a20477.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "d4/d2a/a20477.html#a4c2053f2e6d384f6d9cd7005a2a48121", null ]
+    [ "boss_freya_iron_root", "d4/d2a/a20477.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "d4/d2a/a20477.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ],
+    [ "OnDespawn", "d4/d2a/a20477.html#abd0258796a696e6665ecd51b27cc0b1e", null ],
+    [ "ReleaseRootedPlayer", "d4/d2a/a20477.html#a87fe9f9e32bcc44e8692fd317ab864db", null ]
 ];

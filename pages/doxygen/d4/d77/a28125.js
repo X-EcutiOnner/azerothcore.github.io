@@ -1,7 +1,6 @@
 var a28125 =
 [
-    [ "HandleEffect", "d4/d77/a28125.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
-    [ "PrepareSpellScript", "d4/d77/a28125.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
-    [ "Register", "d4/d77/a28125.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
-    [ "Validate", "d4/d77/a28125.html#ab6d78ecb650f13df3376baced8c40a63", null ]
+    [ "CalculateAmount", "d4/d77/a28125.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "d4/d77/a28125.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "d4/d77/a28125.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

@@ -1,13 +1,11 @@
 var a17433 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d2/d9a/a17433.html#ae39e116a01c17592037e12185a03201a", null ],
-    [ "CheckAchievementCriteriaMeet", "d2/d9a/a17433.html#a534c7f97e7425160f9a2b1e555d0aa29", null ],
-    [ "HandleOutro", "d2/d9a/a17433.html#aadf4a99e89f354901ff63c600725b07f", null ],
-    [ "OnCreatureCreate", "d2/d9a/a17433.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
-    [ "OnPlayerEnter", "d2/d9a/a17433.html#aac223f0ae25071d3323052c52c887636", null ],
-    [ "SetBossState", "d2/d9a/a17433.html#a76241f1358b8e6c7660f76c98e1556e7", null ],
-    [ "GuardFirstGUID", "d2/d9a/a17433.html#ae2e33eee94f285b9d4c2c747dec52714", null ],
-    [ "GuardSecondGUID", "d2/d9a/a17433.html#a68c2495f80ac2b53c8f46c857472709c", null ],
-    [ "LeaderFirstGUID", "d2/d9a/a17433.html#acaa05485af70315b1d091e5c9bbb7217", null ],
-    [ "LeaderSecondGUID", "d2/d9a/a17433.html#a165f784f54e178b51ac899aff6f12747", null ]
+    [ "npc_phantom_mage", "d2/d9a/a17433.html#a96702110e1bd587aaa88a076773cac72", null ],
+    [ "AttackStart", "d2/d9a/a17433.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
+    [ "DoAction", "d2/d9a/a17433.html#a8adf87e600eeab3678f369ab48b73927", null ],
+    [ "EnterEvadeMode", "d2/d9a/a17433.html#a270f664ad9545f672405d051d1a8932a", null ],
+    [ "JustDied", "d2/d9a/a17433.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
+    [ "JustEngagedWith", "d2/d9a/a17433.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
+    [ "Reset", "d2/d9a/a17433.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
+    [ "UpdateAI", "d2/d9a/a17433.html#a919416fd6b52060e271e79afaaf14085", null ]
 ];

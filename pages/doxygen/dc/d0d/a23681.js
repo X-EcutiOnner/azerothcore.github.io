@@ -1,7 +1,6 @@
 var a23681 =
 [
-    [ "HandleScript", "dc/d0d/a23681.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "dc/d0d/a23681.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "dc/d0d/a23681.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "dc/d0d/a23681.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d0/de1/a23685.html", "d0/de1/a23685" ],
+    [ "instance_the_underbog", "dc/d0d/a23681.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "dc/d0d/a23681.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

@@ -1,6 +1,8 @@
 var a22021 =
 [
-    [ "GhoulTargetCheck", "d4/d04/a22021.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "d4/d04/a22021.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "d4/d04/a22021.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_q24545_vegardAI", "d4/d04/a22021.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "d4/d04/a22021.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "d4/d04/a22021.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "d4/d04/a22021.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "d4/d04/a22021.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

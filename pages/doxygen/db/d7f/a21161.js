@@ -1,6 +1,11 @@
 var a21161 =
 [
-    [ "boss_yoggsaron_influence_tentacle", "db/d7f/a21161.html#ac5908d64a4749303a08d352d470995dd", null ],
-    [ "DamageTaken", "db/d7f/a21161.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
-    [ "JustDied", "db/d7f/a21161.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
+    [ "boss_yoggsaron_voice", "db/d7f/a21161.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
+    [ "DoAction", "db/d7f/a21161.html#a094522e81d1d19de660b75fb06ea4224", null ],
+    [ "Reset", "db/d7f/a21161.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
+    [ "SpellHitTarget", "db/d7f/a21161.html#aae3b82dbb871f0f297bdacf975958492", null ],
+    [ "UpdateAI", "db/d7f/a21161.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
+    [ "_current", "db/d7f/a21161.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
+    [ "_targets", "db/d7f/a21161.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
+    [ "events", "db/d7f/a21161.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
 ];

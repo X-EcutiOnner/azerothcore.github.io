@@ -1,6 +1,5 @@
 var a22705 =
 [
-    [ "npc_released_offspring_harkoaAI", "df/dd7/a22705.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "df/dd7/a22705.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "df/dd7/a22705.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "go_scourge_enclosure", "df/dd7/a22705.html#a3611232cb735f336087d4d3c90f66b8d", null ],
+    [ "OnGossipHello", "df/dd7/a22705.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
 ];

@@ -1,7 +1,11 @@
 var a20965 =
 [
-    [ "boss_thorim_trap", "d7/db5/a20965.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
-    [ "Reset", "d7/db5/a20965.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
-    [ "UpdateAI", "d7/db5/a20965.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
-    [ "_checkTimer", "d7/db5/a20965.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
+    [ "boss_thorim_runic_colossus", "d7/db5/a20965.html#a3beda3351911803a0c0ea719256c4514", null ],
+    [ "JustDied", "d7/db5/a20965.html#a9682ccf2c6109888385fd621ecac16a4", null ],
+    [ "JustEngagedWith", "d7/db5/a20965.html#ad18388379fc026c1bf707eee8fae9826", null ],
+    [ "Reset", "d7/db5/a20965.html#a5a6d3e8c1e756fe9a982c6be215a0577", null ],
+    [ "SpellHit", "d7/db5/a20965.html#a9787e064886ddee55bc2434c6d4f1927", null ],
+    [ "UpdateAI", "d7/db5/a20965.html#a470b0571db91075603504d91fb13721c", null ],
+    [ "_checkTarget", "d7/db5/a20965.html#a16c4b7194f1db8710732b35189823efe", null ],
+    [ "events", "d7/db5/a20965.html#a859e1d83f4002c8017d5d8f8fdf34a1e", null ]
 ];

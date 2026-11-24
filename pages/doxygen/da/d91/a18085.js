@@ -1,7 +1,6 @@
 var a18085 =
 [
-    [ "DelayedMovementEvent", "da/d91/a18085.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "da/d91/a18085.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "da/d91/a18085.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "da/d91/a18085.html#a046942728282a997068de447271f3cbe", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "d2/d7f/a18089.html", "d2/d7f/a18089" ],
+    [ "npc_muradin_bronzebeard_igb", "da/d91/a18085.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "da/d91/a18085.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

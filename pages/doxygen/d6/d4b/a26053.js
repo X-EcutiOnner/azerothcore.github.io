@@ -1,6 +1,7 @@
 var a26053 =
 [
-    [ "OnBaseRemove", "d6/d4b/a26053.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "PrepareAuraScript", "d6/d4b/a26053.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "d6/d4b/a26053.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "HandleDummy", "d6/d4b/a26053.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
+    [ "HandleScriptEffect", "d6/d4b/a26053.html#a30d760a8708b49a185eb000249a9a5eb", null ],
+    [ "PrepareSpellScript", "d6/d4b/a26053.html#a102d8493d285757c789cbba4a1bdc688", null ],
+    [ "Register", "d6/d4b/a26053.html#ab4031ddb745995128854c149f7706045", null ]
 ];

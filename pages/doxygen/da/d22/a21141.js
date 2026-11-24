@@ -1,9 +1,6 @@
 var a21141 =
 [
-    [ "boss_yoggsaron_crusher_tentacle", "da/d22/a21141.html#a1649412beffbc87ce046a591775b02b2", null ],
-    [ "DamageTaken", "da/d22/a21141.html#aa38dbd7050000d3aab774a7b719912f4", null ],
-    [ "DoAction", "da/d22/a21141.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
-    [ "Reset", "da/d22/a21141.html#aba082f8d2fa200eca9c52336df544221", null ],
-    [ "UpdateAI", "da/d22/a21141.html#ae22a12401dc98534da1cb771468a58ce", null ],
-    [ "_diminishReady", "da/d22/a21141.html#af8d417c56918cf59dfe3d8429c4cf239", null ]
+    [ "boss_yoggsaron_influence_tentacle", "da/d22/a21141.html#ac5908d64a4749303a08d352d470995dd", null ],
+    [ "DamageTaken", "da/d22/a21141.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "da/d22/a21141.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

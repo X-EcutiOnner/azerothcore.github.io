@@ -1,6 +1,5 @@
 var a22597 =
 [
-    [ "HandleEffectRemove", "d8/d22/a22597.html#a08c55501b95d4c92971fd5c95aaef1a7", null ],
-    [ "PrepareAuraScript", "d8/d22/a22597.html#aa0df1c7c112cf44fbe5a89894a1292b3", null ],
-    [ "Register", "d8/d22/a22597.html#a6f6ae6c012090337eb3f9ca4fd39749d", null ]
+    [ "npc_wg_spirit_guideAI", "d8/d22/a22597.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d8/d22/a22597.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

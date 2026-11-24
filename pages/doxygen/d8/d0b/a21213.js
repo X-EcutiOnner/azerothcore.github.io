@@ -1,6 +1,6 @@
 var a21213 =
 [
-    [ "FilterTargets", "d8/d0b/a21213.html#a7efa78a7991b7ca859c7d622f973265d", null ],
-    [ "PrepareSpellScript", "d8/d0b/a21213.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
-    [ "Register", "d8/d0b/a21213.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
+    [ "ModSanityStacks", "d8/d0b/a21213.html#a38b8425689f91b91e23096d658b462cf", null ],
+    [ "PrepareSpellScript", "d8/d0b/a21213.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
+    [ "Register", "d8/d0b/a21213.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
 ];

@@ -1,8 +1,11 @@
 var a21309 =
 [
-    [ "npc_ulduar_keeperAI", "d6/d4a/a21313.html", "d6/d4a/a21313" ],
-    [ "npc_ulduar_keeper", "de/df5/a21309.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "GetAI", "de/df5/a21309.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
-    [ "OnGossipHello", "de/df5/a21309.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "de/df5/a21309.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "npc_ulduar_storm_tempered_keeper", "de/df5/a21309.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
+    [ "JustDied", "de/df5/a21309.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
+    [ "JustEngagedWith", "de/df5/a21309.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
+    [ "JustSummoned", "de/df5/a21309.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
+    [ "Reset", "de/df5/a21309.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
+    [ "UpdateAI", "de/df5/a21309.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
+    [ "events", "de/df5/a21309.html#a4a79bd561fa63230a52730da20d7143c", null ],
+    [ "otherGUID", "de/df5/a21309.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
 ];

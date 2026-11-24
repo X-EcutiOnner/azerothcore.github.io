@@ -1,8 +1,7 @@
 var a22073 =
 [
-    [ "AfterApply", "da/d7d/a22073.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "da/d7d/a22073.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "da/d7d/a22073.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "da/d7d/a22073.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "da/d7d/a22073.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "HandlePeriodic", "da/d7d/a22073.html#a39e103c4bd60ce54eb7ecbdb37013e04", null ],
+    [ "PrepareAuraScript", "da/d7d/a22073.html#ac198489764c878822e38a1ea225ab287", null ],
+    [ "Register", "da/d7d/a22073.html#a66933e6f4b5689b0b05de63aa7402354", null ],
+    [ "Validate", "da/d7d/a22073.html#a0db3843573837c53aeeaca69a6019d06", null ]
 ];

@@ -1,5 +1,7 @@
 var a22417 =
 [
-    [ "go_pressure_valve", "dc/d91/a22417.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
-    [ "OnGossipHello", "dc/d91/a22417.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
+    [ "npc_engineer_heliceAI", "d8/d5d/a22421.html", "d8/d5d/a22421" ],
+    [ "npc_engineer_helice", "dc/d91/a22417.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
+    [ "GetAI", "dc/d91/a22417.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
+    [ "OnQuestAccept", "dc/d91/a22417.html#abd345111463ce2ac635ad7fc6f891fb7", null ]
 ];

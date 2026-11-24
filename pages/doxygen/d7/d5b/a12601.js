@@ -8,5 +8,6 @@ var a12601 =
     [ "HandleGroupLeaderCommand", "d7/d5b/a12601.html#a899858a63add3c68e0e1446d29216c00", null ],
     [ "HandleGroupListCommand", "d7/d5b/a12601.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
     [ "HandleGroupRemoveCommand", "d7/d5b/a12601.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
-    [ "HandleGroupReviveCommand", "d7/d5b/a12601.html#a13968d61ec037aacc8070bc675290f94", null ]
+    [ "HandleGroupReviveCommand", "d7/d5b/a12601.html#a13968d61ec037aacc8070bc675290f94", null ],
+    [ "HandleGroupSummonCommand", "d7/d5b/a12601.html#a3baad869cff45f674895903cadae281e", null ]
 ];

@@ -1,7 +1,15 @@
 var a21693 =
 [
-    [ "npc_azure_raider", "da/df7/a21693.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
-    [ "Reset", "da/df7/a21693.html#a3579986a1769467cb17d3b15242e0551", null ],
-    [ "UpdateAI", "da/df7/a21693.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
-    [ "_events", "da/df7/a21693.html#a8d25c785974cb8c50b55b547b982b06f", null ]
+    [ "npc_azure_saboteur", "da/df7/a21693.html#a051e99f11de367f810d9404a723173fd", null ],
+    [ "FinishPointReached", "da/df7/a21693.html#a451777273b76e4651b1f4309e8477c9f", null ],
+    [ "InitializeAI", "da/df7/a21693.html#acf28368986b940b571f493bd663e8e09", null ],
+    [ "MoveInLineOfSight", "da/df7/a21693.html#a1a65d5100befd33a104a13eef0800ae7", null ],
+    [ "UpdateAI", "da/df7/a21693.html#af5cf21e08a62b09793e99a92df1ef1b7", null ],
+    [ "WaypointReached", "da/df7/a21693.html#a7c6f44f0dcdb0d5abc18e304383d3b96", null ],
+    [ "WaypointReached", "da/df7/a21693.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_boss", "da/df7/a21693.html#ab23d685ca979bba79a3d9a14117350f8", null ],
+    [ "_count", "da/df7/a21693.html#aa431780ab6b90976494058a602377825", null ],
+    [ "_events", "da/df7/a21693.html#a7ee513b49f09971f5fea099e8c9b7bc7", null ],
+    [ "_instance", "da/df7/a21693.html#ab220c76d2fd72df36b5b92ee897d9d14", null ],
+    [ "_isOpening", "da/df7/a21693.html#a59ecc6687f1d5d948c6988d14f577ffd", null ]
 ];

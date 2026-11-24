@@ -1,10 +1,10 @@
 var a04892 =
 [
-    [ "npc_prof_alchemy", "d7/d93/a28629.html", "d7/d93/a28629" ],
-    [ "npc_prof_blacksmith", "db/df2/a28633.html", "db/df2/a28633" ],
-    [ "npc_prof_leather", "db/d51/a28637.html", "db/d51/a28637" ],
-    [ "npc_prof_tailor", "d8/d0c/a28641.html", "d8/d0c/a28641" ],
-    [ "go_evil_book_for_dummies", "d6/d4f/a28645.html", "d6/d4f/a28645" ],
+    [ "npc_prof_alchemy", "dc/d1c/a28621.html", "dc/d1c/a28621" ],
+    [ "npc_prof_blacksmith", "da/d71/a28625.html", "da/d71/a28625" ],
+    [ "npc_prof_leather", "d7/d93/a28629.html", "d7/d93/a28629" ],
+    [ "npc_prof_tailor", "db/df2/a28633.html", "db/df2/a28633" ],
+    [ "go_evil_book_for_dummies", "db/d51/a28637.html", "db/d51/a28637" ],
     [ "BOX_LEARN_ENGIN_SPEC", "db/d9e/a04892.html#acfda6f8765d038ad07388078d3242c47", null ],
     [ "BOX_UNLEARN_ALCHEMY_SPEC", "db/d9e/a04892.html#a3c6725cfafc91c379f0cb5c4e524a1bd", null ],
     [ "BOX_UNLEARN_ARMORORWEAPON", "db/d9e/a04892.html#a3c0bbd141b0ae46377b5d769349c3ceb", null ],
@@ -49,6 +49,9 @@ var a04892 =
     [ "TALK_SWORD_LEARN", "db/d9e/a04892.html#ab6ac9548a3a00c5b4ea0ba73dbf7bf60", null ],
     [ "TALK_SWORD_UNLEARN", "db/d9e/a04892.html#add5fdcf9862a57aed21ac937a4a50ebf", null ],
     [ "Gossips", "db/d9e/a04892.html#a482f31893e512222b2812fb2e025019d", [
+      [ "GOSSIP_MENU_LEADER", "de/d38/a04316.html#a482f31893e512222b2812fb2e025019da88139c46de67ee47aae87ff15d198339", null ],
+      [ "GOSSIP_JAINA_INTRO", "de/d38/a04316.html#a482f31893e512222b2812fb2e025019daeabc9e58ce71bf1458070b38b1032092", null ],
+      [ "GOSSIP_SYLVANAS_INTRO", "de/d38/a04316.html#a482f31893e512222b2812fb2e025019da250d759ceebbfd339d2c609768d342e7", null ],
       [ "GOSSIP_MENU_SYLVANAS", "dd/deb/a04304.html#a482f31893e512222b2812fb2e025019da5c7dfcba805ad95672703283387dca3a", null ],
       [ "GOSISP_MENU_JAINA", "dd/deb/a04304.html#a482f31893e512222b2812fb2e025019daa56a8ecaddc59cfb1185b268f279171a", null ],
       [ "GOSSIP_OPTION_START", "dd/deb/a04304.html#a482f31893e512222b2812fb2e025019da38ec399ecfd73857e6ac074ad74c6abc", null ],

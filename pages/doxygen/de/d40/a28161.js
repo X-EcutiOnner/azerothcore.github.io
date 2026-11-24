@@ -1,6 +1,6 @@
 var a28161 =
 [
-    [ "CheckProc", "de/d40/a28161.html#a957f8837b5613a3bfd8200ded3529c54", null ],
-    [ "PrepareAuraScript", "de/d40/a28161.html#a37950bfd846e1c2c550a108461941a26", null ],
-    [ "Register", "de/d40/a28161.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
+    [ "HandleOnHit", "de/d40/a28161.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "de/d40/a28161.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "de/d40/a28161.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

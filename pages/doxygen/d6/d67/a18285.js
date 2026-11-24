@@ -1,22 +1,12 @@
 var a18285 =
 [
-    [ "boss_lady_deathwhisperAI", "d6/d67/a18285.html#a277180410090d1857bcc8962e22d965d", null ],
-    [ "AttackStart", "d6/d67/a18285.html#a95268fc3088ecb1e0689bc502389eed1", null ],
-    [ "DamageTaken", "d6/d67/a18285.html#a929dea6ce420f201341a20ab5d9273ed", null ],
-    [ "DoAction", "d6/d67/a18285.html#a563f30e5e2a46c514cb114ef72dfa9e8", null ],
-    [ "EmpowerCultist", "d6/d67/a18285.html#afc8a2df592e16bbac65a7aee4e6c7c95", null ],
-    [ "JustDied", "d6/d67/a18285.html#a974094ecbdc1149ca3d1eec9211438df", null ],
-    [ "JustEngagedWith", "d6/d67/a18285.html#ac56045f2aa26423bd69e97d8f279cf5e", null ],
-    [ "JustSummoned", "d6/d67/a18285.html#a6ab4dc86911debb47e9d1784cb65dbb8", null ],
-    [ "KilledUnit", "d6/d67/a18285.html#a325834b73d181e0506e1ea40380cddac", null ],
-    [ "Reset", "d6/d67/a18285.html#a7eec8900602522cf39dd3a8dba733649", null ],
-    [ "SpellHitTarget", "d6/d67/a18285.html#a868b18df67744868a8f694e7df7f1e66", null ],
-    [ "Summon", "d6/d67/a18285.html#ae5000dbf09948dd63dbcb057430a2b7e", null ],
-    [ "SummonedCreatureDespawn", "d6/d67/a18285.html#aa630ff1884cf1ebaa189c094d2278a1f", null ],
-    [ "SummonWaveP1", "d6/d67/a18285.html#ad0cf8e10b041409868b8b75558f07e1b", null ],
-    [ "SummonWaveP2", "d6/d67/a18285.html#a72971bdfe394da6fe94ce340143ab060", null ],
-    [ "UpdateAI", "d6/d67/a18285.html#af602295a448fca10719861983a567d99", null ],
-    [ "_darnavanGUID", "d6/d67/a18285.html#af4f251406b3a4ae3db32e83005993dfa", null ],
-    [ "_introDone", "d6/d67/a18285.html#a162870aad6c99276f760b2e37b42c6c9", null ],
-    [ "_waveCounter", "d6/d67/a18285.html#ab2819e4ade2c7a07d1d0a67d86063f16", null ]
+    [ "npc_vengeful_shadeAI", "d6/d67/a18285.html#acd3961c7c81f88a341cb71888c55c882", null ],
+    [ "AttackStart", "d6/d67/a18285.html#afbd441c5ebf2207d37da1a905be1a247", null ],
+    [ "EnterEvadeMode", "d6/d67/a18285.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
+    [ "MoveInLineOfSight", "d6/d67/a18285.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
+    [ "Reset", "d6/d67/a18285.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
+    [ "SpellHitTarget", "d6/d67/a18285.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
+    [ "UpdateAI", "d6/d67/a18285.html#a3a353d677b469d750474a7497c5224a7", null ],
+    [ "targetGUID", "d6/d67/a18285.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
+    [ "unroot_timer", "d6/d67/a18285.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
 ];

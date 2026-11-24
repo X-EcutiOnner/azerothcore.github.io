@@ -1,6 +1,7 @@
 var a21253 =
 [
-    [ "CheckCast", "d5/d9b/a21253.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d5/d9b/a21253.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d5/d9b/a21253.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "HandleProc", "d5/d9b/a21253.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "d5/d9b/a21253.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "d5/d9b/a21253.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "d5/d9b/a21253.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

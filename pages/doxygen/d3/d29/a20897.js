@@ -1,6 +1,7 @@
 var a20897 =
 [
-    [ "npc_razorscale_devouring_flame", "d3/d29/a20897.html#a86c3d4cdf0d9757612264f62fd9e283e", null ],
-    [ "EnterEvadeMode", "d3/d29/a20897.html#a7d32fe90b53b3d681627d84bf3825bc2", null ],
-    [ "Reset", "d3/d29/a20897.html#adb6acc83d528f71a69e854e46b2405c3", null ]
+    [ "go_razorscale_harpoonAI", "d3/d29/a20897.html#afff12f330538843c477f75500f731ea3", null ],
+    [ "Reset", "d3/d29/a20897.html#aae5f0f7ff2b206872c02bd7da90afdc0", null ],
+    [ "UpdateAI", "d3/d29/a20897.html#a906b14e1bc6b71f95aa2fcde83846f0a", null ],
+    [ "_scheduler", "d3/d29/a20897.html#a6f6e325b1b1599f90173e8c8a68c7956", null ]
 ];

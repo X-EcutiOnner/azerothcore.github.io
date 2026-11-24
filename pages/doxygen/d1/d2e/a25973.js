@@ -1,7 +1,6 @@
 var a25973 =
 [
-    [ "HandlePeriodic", "d1/d2e/a25973.html#a990b88f97dbbcd68d0df8989414d08bc", null ],
-    [ "PrepareAuraScript", "d1/d2e/a25973.html#a4c8214e2fc72ceacc5822bfdec6e8380", null ],
-    [ "Register", "d1/d2e/a25973.html#ab2da1b1433184a0dd4c6dd93b798890c", null ],
-    [ "Validate", "d1/d2e/a25973.html#a55720e74edaf5eedf074738846ba6dd8", null ]
+    [ "HandleFinish", "d1/d2e/a25973.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
+    [ "PrepareSpellScript", "d1/d2e/a25973.html#a62920503172dc58ac864a23e90a98dd9", null ],
+    [ "Register", "d1/d2e/a25973.html#ab40419508a1903869aa2b36a590301ba", null ]
 ];

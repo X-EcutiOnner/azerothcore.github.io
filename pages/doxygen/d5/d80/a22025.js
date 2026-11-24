@@ -1,7 +1,6 @@
 var a22025 =
 [
-    [ "FilterTargets", "d5/d80/a22025.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "d5/d80/a22025.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "d5/d80/a22025.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "d5/d80/a22025.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_spiritual_insightAI", "df/d39/a22029.html", "df/d39/a22029" ],
+    [ "npc_spiritual_insight", "d5/d80/a22025.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "d5/d80/a22025.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

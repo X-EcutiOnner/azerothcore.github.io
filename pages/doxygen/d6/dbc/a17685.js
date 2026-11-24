@@ -1,5 +1,6 @@
 var a17685 =
 [
-    [ "at_tyrannus_event_starter", "d6/dbc/a17685.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
-    [ "OnTrigger", "d6/dbc/a17685.html#adccf396220ef7de47e7afeca791de894", null ]
+    [ "boss_drakkari_elementalAI", "d2/d41/a17689.html", "d2/d41/a17689" ],
+    [ "boss_drakkari_elemental", "d6/dbc/a17685.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "d6/dbc/a17685.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

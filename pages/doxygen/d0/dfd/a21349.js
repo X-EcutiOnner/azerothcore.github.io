@@ -1,6 +1,7 @@
 var a21349 =
 [
-    [ "CheckRequirement", "d0/dfd/a21349.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
-    [ "PrepareSpellScript", "d0/dfd/a21349.html#a06e1b98a589717bdef6444912a7ad602", null ],
-    [ "Register", "d0/dfd/a21349.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
+    [ "HandleEffectPeriodic", "d0/dfd/a21349.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "d0/dfd/a21349.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "d0/dfd/a21349.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "d0/dfd/a21349.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

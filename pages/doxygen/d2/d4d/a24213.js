@@ -1,7 +1,6 @@
 var a24213 =
 [
-    [ "OnPeriodic", "d2/d4d/a24213.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d2/d4d/a24213.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d2/d4d/a24213.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d2/d4d/a24213.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "npc_daranelleAI", "d1/dc3/a24217.html", "d1/dc3/a24217" ],
+    [ "npc_daranelle", "d2/d4d/a24213.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "d2/d4d/a24213.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

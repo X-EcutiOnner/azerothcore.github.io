@@ -1,6 +1,8 @@
 var a18065 =
 [
-    [ "npc_stinky_iccAI", "d6/d97/a18069.html", "d6/d97/a18069" ],
-    [ "npc_stinky_icc", "dc/d69/a18065.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "dc/d69/a18065.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "ResetEncounterEvent", "dc/d69/a18065.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "dc/d69/a18065.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "dc/d69/a18065.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "dc/d69/a18065.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "dc/d69/a18065.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

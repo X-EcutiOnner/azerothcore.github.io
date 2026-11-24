@@ -1,6 +1,7 @@
 var a24141 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d7/d3f/a24145.html", "d7/d3f/a24145" ],
-    [ "instance_the_eye", "dc/dbd/a24141.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "dc/dbd/a24141.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "boss_gatewatcher_iron_hand", "dc/dbd/a24141.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "dc/dbd/a24141.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "dc/dbd/a24141.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "dc/dbd/a24141.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

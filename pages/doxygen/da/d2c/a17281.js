@@ -1,10 +1,7 @@
 var a17281 =
 [
-    [ "boss_dredAI", "da/d2c/a17281.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "da/d2c/a17281.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "da/d2c/a17281.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "da/d2c/a17281.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "ScheduleTasks", "da/d2c/a17281.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
-    [ "SetData", "da/d2c/a17281.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "_raptorCount", "da/d2c/a17281.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "HandleScript", "da/d2c/a17281.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
+    [ "PrepareSpellScript", "da/d2c/a17281.html#a71b28156c628aacbc6cb481038c0e76c", null ],
+    [ "Register", "da/d2c/a17281.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
+    [ "Validate", "da/d2c/a17281.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
 ];

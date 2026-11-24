@@ -73,6 +73,7 @@ var a03914 =
       [ "NPC_ROOK_A", "de/d7e/a03914.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a22e7cbbbdc7616cc11958aa8e1ebd8c1", null ],
       [ "NPC_KING_H", "de/d7e/a03914.html#a4f1bba96c1d3e59d0d65c02d9154b8f5acf6fc4aa5a222834b555ab8aa8e56d31", null ],
       [ "NPC_KING_A", "de/d7e/a03914.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a2c0bd5a88b5fc6411c9c9276acf583bb", null ],
+      [ "NPC_CHESS_STATUS_BAR", "de/d7e/a03914.html#a4f1bba96c1d3e59d0d65c02d9154b8f5ac3edcde6f74f4327fffdd6491c3d2dff", null ],
       [ "NPC_CHESS_EVENT_MEDIVH_CHEAT_FIRES", "de/d7e/a03914.html#a4f1bba96c1d3e59d0d65c02d9154b8f5aed3483d9cd42f38c8d3b457f61bbd467", null ],
       [ "NPC_INFERNAL_TARGET", "de/d7e/a03914.html#a4f1bba96c1d3e59d0d65c02d9154b8f5afb06eb2aad12bf1c4a5e323a5e5714f5", null ],
       [ "NPC_INFERNAL_RELAY", "de/d7e/a03914.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a1f4a7517190f8aabb37ea209e3aa8292", null ],

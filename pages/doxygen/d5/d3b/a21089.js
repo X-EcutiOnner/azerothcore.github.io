@@ -1,6 +1,6 @@
 var a21089 =
 [
-    [ "HandleScript", "d5/d3b/a21089.html#aade3cab1f80d1762bfad48407f4b91cc", null ],
-    [ "PrepareSpellScript", "d5/d3b/a21089.html#ab20e548d7c0a837ee4cb7198c09e53ee", null ],
-    [ "Register", "d5/d3b/a21089.html#a48a0a37b8e6f799ee9035bb766fd6db2", null ]
+    [ "x", "d5/d3b/a21089.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "d5/d3b/a21089.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "d5/d3b/a21089.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

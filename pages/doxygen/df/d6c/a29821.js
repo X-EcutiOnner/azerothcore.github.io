@@ -1,15 +1,16 @@
 var a29821 =
 [
-    [ "DamageInfoStubBuilder", "df/d6c/a29821.html#a282b4f92722f9cf12358a9f603df6902", null ],
-    [ "Build", "df/d6c/a29821.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
-    [ "WithAbsorb", "df/d6c/a29821.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
-    [ "WithAttackType", "df/d6c/a29821.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
-    [ "WithBlock", "df/d6c/a29821.html#a81381d471627ddd6e86678551ca4ab5b", null ],
-    [ "WithDamage", "df/d6c/a29821.html#abf9d30cde831f2094a181a312bcfe9df", null ],
-    [ "WithHitMask", "df/d6c/a29821.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
-    [ "WithOriginalDamage", "df/d6c/a29821.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
-    [ "WithResist", "df/d6c/a29821.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
-    [ "WithSchoolMask", "df/d6c/a29821.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
-    [ "WithSpellInfo", "df/d6c/a29821.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
-    [ "_stub", "df/d6c/a29821.html#abf06c6b638dcd9489fa0e3d755433514", null ]
+    [ "CreateTestCreature", "df/d6c/a29821.html#a617fd4d9d90187bc2f73d4b3ae7fe2e9", null ],
+    [ "CreateTestPlayer", "df/d6c/a29821.html#a6419bf25da27ee490712daa877adbd72", null ],
+    [ "EnsureFactionTemplates", "df/d6c/a29821.html#a83a02366f7bf6726e14b9f3237e2b545", null ],
+    [ "GetTestMap", "df/d6c/a29821.html#ae4ec7240a978801c7b0e680bd8072289", null ],
+    [ "GetWorldMock", "df/d6c/a29821.html#af142aa528b5add94d80218bfb87673d2", null ],
+    [ "SetUp", "df/d6c/a29821.html#a8ae97cc2fe6cec6678fc68828bb78311", null ],
+    [ "TearDown", "df/d6c/a29821.html#abd9650e94915e9c9b2c00d0f5883012a", null ],
+    [ "_originalWorld", "df/d6c/a29821.html#a68d71c2f6f685757f78855a65dfea247", null ],
+    [ "_ownedCreatureTemplates", "df/d6c/a29821.html#a14a887c379c1bab8270e4e447d6d3710", null ],
+    [ "_testMap", "df/d6c/a29821.html#a71376b2bd9b26c15bdc5a377c918df4f", null ],
+    [ "_trackedCreatures", "df/d6c/a29821.html#ab782034dea584c12fcc6167f08cb1c2e", null ],
+    [ "_trackedPlayers", "df/d6c/a29821.html#abebf5ed00a2531d755c905b0fca011d6", null ],
+    [ "_worldMock", "df/d6c/a29821.html#a7cef42e42607cf7c562b20827a0df766", null ]
 ];

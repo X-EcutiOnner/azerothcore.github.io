@@ -1,7 +1,9 @@
 var a21777 =
 [
-    [ "npc_mootoo_the_youngerAI", "d3/d1e/a21781.html", "d3/d1e/a21781" ],
-    [ "npc_mootoo_the_younger", "d0/d12/a21777.html#a91e10489ed6a98cfa764fd4de8448317", null ],
-    [ "GetAI", "d0/d12/a21777.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
-    [ "OnQuestAccept", "d0/d12/a21777.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
+    [ "npc_warmage_coldarraAI", "d0/d12/a21777.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "d0/d12/a21777.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "d0/d12/a21777.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "d0/d12/a21777.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "d0/d12/a21777.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "d0/d12/a21777.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

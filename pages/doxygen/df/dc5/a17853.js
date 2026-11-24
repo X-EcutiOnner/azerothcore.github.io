@@ -1,6 +1,6 @@
 var a17853 =
 [
-    [ "npc_kinetic_bombAI", "d0/d66/a17857.html", "d0/d66/a17857" ],
-    [ "npc_kinetic_bomb", "df/dc5/a17853.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
-    [ "GetAI", "df/dc5/a17853.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
+    [ "ModAuraStack", "df/dc5/a17853.html#a7535ef148e047e32a5f7a1944585e396", null ],
+    [ "PrepareSpellScript", "df/dc5/a17853.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
+    [ "Register", "df/dc5/a17853.html#ab44b362197e74b98b3ffeb98eff52742", null ]
 ];

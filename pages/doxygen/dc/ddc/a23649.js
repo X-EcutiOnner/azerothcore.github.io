@@ -1,5 +1,6 @@
 var a23649 =
 [
-    [ "at_underbog_ghazan", "dc/ddc/a23649.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "dc/ddc/a23649.html#a82d82a14a3d5c5125c331df126b9006a", null ]
+    [ "HandlePeriodic", "dc/ddc/a23649.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
+    [ "PrepareAuraScript", "dc/ddc/a23649.html#a75515896f3d94d227963a3c5258e2d0d", null ],
+    [ "Register", "dc/ddc/a23649.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
 ];

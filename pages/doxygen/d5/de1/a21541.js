@@ -1,6 +1,7 @@
 var a21541 =
 [
-    [ "boss_archavonAI", "da/df9/a21545.html", "da/df9/a21545" ],
-    [ "boss_archavon", "d5/de1/a21541.html#a44e20480f8d86cf763afe67de49c6c33", null ],
-    [ "GetAI", "d5/de1/a21541.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
+    [ "HandlePeriodicDummy", "d5/de1/a21541.html#a295f37cddccc696d450a0c4380d43c29", null ],
+    [ "PrepareAuraScript", "d5/de1/a21541.html#a9453aa189ba53de3d89bbab183927cfc", null ],
+    [ "Register", "d5/de1/a21541.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
+    [ "Validate", "d5/de1/a21541.html#a475480c072aaccde7b00cf28aedff3ec", null ]
 ];

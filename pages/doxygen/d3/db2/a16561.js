@@ -1,7 +1,13 @@
 var a16561 =
 [
-    [ "HandleEffectRemove", "d3/db2/a16561.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "d3/db2/a16561.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "d3/db2/a16561.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "d3/db2/a16561.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "spell_hadronox_summon_periodic_aura", "d3/db2/a16561.html#ac61aaa16a5c0c7b28520d688d23d8c5c", null ],
+    [ "HandlePeriodic", "d3/db2/a16561.html#a7f34f81ea8d710dc6d5e002a2e34ab1b", null ],
+    [ "OnApply", "d3/db2/a16561.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "d3/db2/a16561.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "d3/db2/a16561.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "d3/db2/a16561.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "d3/db2/a16561.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
+    [ "_lowerDoorSpellEntry", "d3/db2/a16561.html#aa9c6171b2b4a8cc34888c80f1ad7a602", null ],
+    [ "_spellEntry", "d3/db2/a16561.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ],
+    [ "SUMMON_PERIOD", "d3/db2/a16561.html#a7922f9fe5ceea635beea6037be7c4d14", null ]
 ];

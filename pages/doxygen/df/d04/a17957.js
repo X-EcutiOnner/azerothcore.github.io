@@ -1,6 +1,8 @@
 var a17957 =
 [
-    [ "HandleScript", "df/d04/a17957.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "df/d04/a17957.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "df/d04/a17957.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "d6/d45/a17961.html", "d6/d45/a17961" ],
+    [ "npc_muradin_bronzebeard_icc", "df/d04/a17957.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
+    [ "GetAI", "df/d04/a17957.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
+    [ "OnGossipHello", "df/d04/a17957.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
+    [ "OnGossipSelect", "df/d04/a17957.html#a46c4893be723a848d985ff55e28d55a2", null ]
 ];

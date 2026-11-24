@@ -342,10 +342,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  356</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d8/d18/a12193.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;ToPlayer())</div>
 <div class="line"><span class="lineno">  357</span>            <a class="code hl_function" href="../../d8/d18/a12193.html#afe631d7dac9971919237be37b6693fdb">ModStackAmount</a>(5);</div>
 <div class="line"><span class="lineno">  358</span>    }</div>
-<div class="ttc" id="aa12193_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d8/d18/a12193.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1043</div></div>
-<div class="ttc" id="aa12193_html_afe631d7dac9971919237be37b6693fdb"><div class="ttname"><a href="../../d8/d18/a12193.html#afe631d7dac9971919237be37b6693fdb">AuraScript::ModStackAmount</a></div><div class="ttdeci">bool ModStackAmount(int32 num, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1148</div></div>
+<div class="ttc" id="aa12193_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d8/d18/a12193.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1072</div></div>
+<div class="ttc" id="aa12193_html_afe631d7dac9971919237be37b6693fdb"><div class="ttname"><a href="../../d8/d18/a12193.html#afe631d7dac9971919237be37b6693fdb">AuraScript::ModStackAmount</a></div><div class="ttdeci">bool ModStackAmount(int32 num, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1177</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01043">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l01148">AuraScript::ModStackAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01072">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l01177">AuraScript::ModStackAmount()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00360">Register()</a>.</p>
 
@@ -404,14 +404,14 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  361</span>    {</div>
 <div class="line"><span class="lineno">  362</span>        <a class="code hl_variable" href="../../d8/d18/a12193.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../dc/d2c/a00893.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../d9/d08/a14061.html#a53fceaa5187f6dbc93f4d0d589086ca9">spell_spell_fury_aura::OnApply</a>, <a class="code hl_enumvalue" href="../../d3/d8f/a05099.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d3/dd1/a00914.html#a538cdc259460b365f406fe0b3a981799af034ae8de320204d3de55be2f4eb6919">SPELL_AURA_MOD_CASTING_SPEED_NOT_STACK</a>, <a class="code hl_enumvalue" href="../../d3/dd1/a00914.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
 <div class="line"><span class="lineno">  363</span>    }</div>
-<div class="ttc" id="aa00893_html_ac47070c5a13a5436cc5d204a1445c993"><div class="ttname"><a href="../../dc/d2c/a00893.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a></div><div class="ttdeci">#define AuraEffectApplyFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:744</div></div>
+<div class="ttc" id="aa00893_html_ac47070c5a13a5436cc5d204a1445c993"><div class="ttname"><a href="../../dc/d2c/a00893.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a></div><div class="ttdeci">#define AuraEffectApplyFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:751</div></div>
 <div class="ttc" id="aa00914_html_a538cdc259460b365f406fe0b3a981799af034ae8de320204d3de55be2f4eb6919"><div class="ttname"><a href="../../d3/dd1/a00914.html#a538cdc259460b365f406fe0b3a981799af034ae8de320204d3de55be2f4eb6919">SPELL_AURA_MOD_CASTING_SPEED_NOT_STACK</a></div><div class="ttdeci">@ SPELL_AURA_MOD_CASTING_SPEED_NOT_STACK</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:128</div></div>
 <div class="ttc" id="aa00914_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../d3/dd1/a00914.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aa05099_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d3/d8f/a05099.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
-<div class="ttc" id="aa12193_html_af325738f50fb9df450999e5e04ea65ed"><div class="ttname"><a href="../../d8/d18/a12193.html#af325738f50fb9df450999e5e04ea65ed">AuraScript::OnEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectApply</div><div class="ttdef"><b>Definition:</b> SpellScript.h:739</div></div>
+<div class="ttc" id="aa12193_html_af325738f50fb9df450999e5e04ea65ed"><div class="ttname"><a href="../../d8/d18/a12193.html#af325738f50fb9df450999e5e04ea65ed">AuraScript::OnEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectApply</div><div class="ttdef"><b>Definition:</b> SpellScript.h:746</div></div>
 <div class="ttc" id="aa14061_html_a53fceaa5187f6dbc93f4d0d589086ca9"><div class="ttname"><a href="../../d9/d08/a14061.html#a53fceaa5187f6dbc93f4d0d589086ca9">spell_spell_fury_aura::OnApply</a></div><div class="ttdeci">void OnApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:354</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00744">AuraEffectApplyFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00354">OnApply()</a>, <a class="el" href="../../#l00739">AuraScript::OnEffectApply</a>, and <a class="el" href="../../#l00128">SPELL_AURA_MOD_CASTING_SPEED_NOT_STACK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00751">AuraEffectApplyFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00354">OnApply()</a>, <a class="el" href="../../#l00746">AuraScript::OnEffectApply</a>, and <a class="el" href="../../#l00128">SPELL_AURA_MOD_CASTING_SPEED_NOT_STACK</a>.</p>
 
 </div>
 </div>
@@ -421,7 +421,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d08/a14061.html">spell_spell_fury_aura</a></li>
-    <li class="footer">Generated on Tue Nov 17 2026 03:06:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Nov 24 2026 04:58:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

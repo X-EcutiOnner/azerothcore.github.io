@@ -1,6 +1,7 @@
 var a21665 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "d5/df7/a21669.html", "d5/df7/a21669" ],
-    [ "instance_violet_hold", "da/d83/a21665.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "da/d83/a21665.html#ab459840bcb0c8bcc58d20e658be0f63a", null ]
+    [ "npc_azure_binder", "da/d83/a21665.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
+    [ "Reset", "da/d83/a21665.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
+    [ "UpdateAI", "da/d83/a21665.html#add9f304212a1a10267e564cd939f3751", null ],
+    [ "_events", "da/d83/a21665.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
 ];

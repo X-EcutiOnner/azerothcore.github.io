@@ -90,6 +90,7 @@ var a04139 =
       [ "GO_CHEST_NORMAL", "d9/d4e/a04307.html#a11b4fe9f4efc221e06a058a1b6650e3da08c1000751dc013d6504b540c510ec53", null ],
       [ "GO_CHEST_HEROIC", "d9/d4e/a04307.html#a11b4fe9f4efc221e06a058a1b6650e3da1f107d73fafba0c45a8d9754d038f792", null ],
       [ "GO_PORTAL_TO_DALARAN", "d9/d4e/a04307.html#a11b4fe9f4efc221e06a058a1b6650e3da1da1d512918d1732cc81b35fb728f07a", null ],
+      [ "GO_SARONITE_ROCK", "d2/d6b/a04334.html#a11b4fe9f4efc221e06a058a1b6650e3da2ac001856e01c362c049523348770be1", null ],
       [ "GO_ALTAR_OF_SLAD_RAN", "d9/d36/a04430.html#a11b4fe9f4efc221e06a058a1b6650e3dac7835783e711cbdd0ec14ecff9164497", null ],
       [ "GO_STATUE_OF_SLAD_RAN", "d9/d36/a04430.html#a11b4fe9f4efc221e06a058a1b6650e3daa2b97cc34eed984fec16fa4d812c3d6a", null ],
       [ "GO_ALTAR_OF_DRAKKARI", "d9/d36/a04430.html#a11b4fe9f4efc221e06a058a1b6650e3da708eff4357e588975cad5c3536b994e5", null ],
@@ -107,9 +108,6 @@ var a04139 =
     ] ],
     [ "MiscData", "d4/d3a/a04139.html#a1df2a0c7338a4dff24c5b303ccaf2e8b", [
       [ "SPELL_STONED", "d4/d3a/a04139.html#a1df2a0c7338a4dff24c5b303ccaf2e8baf94f02d8e9b9db817d1d6af1f8f31a12", null ],
-      [ "EQUIP_ID_SWORD", "d2/d6b/a04334.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba1f70e04a5bf31c2db2dab09485d107d4", null ],
-      [ "EQUIP_ID_MACE", "d2/d6b/a04334.html#a1df2a0c7338a4dff24c5b303ccaf2e8bac5bb4cab7e2d37bb3b76b6e16a3cfd9f", null ],
-      [ "GO_SARONITE_ROCK", "d2/d6b/a04334.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba2ac001856e01c362c049523348770be1", null ],
       [ "MUSIC_ENCOUNTER", "da/d34/a04592.html#a1df2a0c7338a4dff24c5b303ccaf2e8bae0a0a55162940594b69ea0be303ef9f1", null ],
       [ "LIGHT_SNOWSTORM", "dd/dec/a04595.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba967fb816432d73e72a935b03d3fdf287", null ],
       [ "LIGHT_SOULSTORM", "dd/dec/a04595.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba03c59cf1b5f07362dc8b3aeb2e072cf6", null ],

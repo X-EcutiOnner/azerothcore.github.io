@@ -1,8 +1,7 @@
 var a17077 =
 [
-    [ "npc_toc_boomkinAI", "da/dac/a17077.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "da/dac/a17077.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "da/dac/a17077.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "da/dac/a17077.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "da/dac/a17077.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "npc_toc_retro_paladinAI", "da/dac/a17077.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "da/dac/a17077.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "da/dac/a17077.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "da/dac/a17077.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

@@ -1,12 +1,7 @@
 var a20485 =
 [
-    [ "boss_freya_elder_stonebark", "df/de4/a20485.html#ad379afe772ff29d689bc763786d28793", null ],
-    [ "DamageTaken", "df/de4/a20485.html#a1a6b9897ffff95b29de351d02411f216", null ],
-    [ "JustDied", "df/de4/a20485.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
-    [ "JustEngagedWith", "df/de4/a20485.html#a363a639d65fb746cca3410427f8a1e10", null ],
-    [ "KilledUnit", "df/de4/a20485.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
-    [ "Reset", "df/de4/a20485.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
-    [ "UpdateAI", "df/de4/a20485.html#a913cd147d5a88189e183d817357946e3", null ],
-    [ "_chargesCount", "df/de4/a20485.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
-    [ "events", "df/de4/a20485.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
+    [ "boss_freya_healthy_spore", "df/de4/a20485.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "df/de4/a20485.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "df/de4/a20485.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "df/de4/a20485.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

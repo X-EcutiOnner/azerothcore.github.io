@@ -1,12 +1,6 @@
 var a18133 =
 [
-    [ "gunship_npc_AI", "d5/d62/a18133.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "d5/d62/a18133.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "d5/d62/a18133.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "d5/d62/a18133.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "d5/d62/a18133.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "d5/d62/a18133.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "d5/d62/a18133.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "d5/d62/a18133.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "d5/d62/a18133.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "npc_gunship_mageAI", "d8/d66/a18137.html", "d8/d66/a18137" ],
+    [ "npc_gunship_mage", "d5/d62/a18133.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
+    [ "GetAI", "d5/d62/a18133.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
 ];

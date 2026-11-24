@@ -1,6 +1,6 @@
 var a18465 =
 [
-    [ "HandleScript", "d3/dbe/a18465.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
-    [ "PrepareSpellScript", "d3/dbe/a18465.html#a50560d754709e6b9ec6863142c1ffce3", null ],
-    [ "Register", "d3/dbe/a18465.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
+    [ "FilterTargetsInitial", "d3/dbe/a18465.html#a92cc71f268793c616bed66d9a489a145", null ],
+    [ "PrepareSpellScript", "d3/dbe/a18465.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
+    [ "Register", "d3/dbe/a18465.html#a91b96940a9e72e632989b49f7e475dba", null ]
 ];

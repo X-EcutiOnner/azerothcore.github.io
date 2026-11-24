@@ -1,7 +1,6 @@
 var a22585 =
 [
-    [ "HandleScript", "de/d15/a22585.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
-    [ "PrepareSpellScript", "de/d15/a22585.html#a8400fb2e0955444aee21b994d78b78c3", null ],
-    [ "Register", "de/d15/a22585.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
-    [ "Validate", "de/d15/a22585.html#aa9c2280cbb38db2620db9869e4959153", null ]
+    [ "npc_warbear_matriarch", "de/d15/a22585.html#a4c9ff3d9d400e84c7dd24e7a942882af", null ],
+    [ "AttackStart", "de/d15/a22585.html#aa9e2d044a1a17007d30dd81e0040bfac", null ],
+    [ "UpdateAI", "de/d15/a22585.html#a22c3e329157d670017dc8c717feea5b9", null ]
 ];

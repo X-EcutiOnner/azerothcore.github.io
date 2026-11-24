@@ -1,8 +1,7 @@
 var a17053 =
 [
-    [ "npc_toc_warlockAI", "d4/d79/a17053.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "d4/d79/a17053.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "d4/d79/a17053.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "d4/d79/a17053.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "d4/d79/a17053.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "npc_toc_dkAI", "d4/d79/a17053.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
+    [ "myCanCast", "d4/d79/a17053.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
+    [ "UpdateAI", "d4/d79/a17053.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
+    [ "events", "d4/d79/a17053.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
 ];

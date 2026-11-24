@@ -1,9 +1,13 @@
 var a19409 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "de/d17/a19409.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "de/d17/a19409.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "de/d17/a19409.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "de/d17/a19409.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "de/d17/a19409.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "de/d17/a19409.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "npc_icc_spire_frostwyrm", "de/d17/a19409.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
+    [ "CanAIAttack", "de/d17/a19409.html#ab3364130aacf675602317651a244ae2c", null ],
+    [ "DoAction", "de/d17/a19409.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
+    [ "JustEngagedWith", "de/d17/a19409.html#abfc762cea6b7e40aaaff50b933410127", null ],
+    [ "JustReachedHome", "de/d17/a19409.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
+    [ "MovementInform", "de/d17/a19409.html#a8e7f148580d91d42959e972ef18b271b", null ],
+    [ "Reset", "de/d17/a19409.html#a572add30e78af15a8d5d6918169802da", null ],
+    [ "UpdateAI", "de/d17/a19409.html#ad193a9355e11ea25792e6285d375a488", null ],
+    [ "_canResetFlyingEffects", "de/d17/a19409.html#a262d843fcb13a444ae377729135ca14d", null ],
+    [ "_scheduler", "de/d17/a19409.html#a822096df7b1803d92e05ca27d544bd26", null ]
 ];

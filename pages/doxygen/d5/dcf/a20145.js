@@ -1,6 +1,9 @@
 var a20145 =
 [
-    [ "boss_sjonnirAI", "dc/de7/a20149.html", "dc/de7/a20149" ],
-    [ "boss_sjonnir", "d5/dcf/a20145.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d5/dcf/a20145.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "d5/dcf/a20145.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "d5/dcf/a20145.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "d5/dcf/a20145.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "d5/dcf/a20145.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "d5/dcf/a20145.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "d5/dcf/a20145.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

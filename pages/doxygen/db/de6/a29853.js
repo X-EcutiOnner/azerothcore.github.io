@@ -1,5 +1,6 @@
 var a29853 =
 [
-    [ "auraHasDisableProcAttr", "db/de6/a29853.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
-    [ "triggeringSpellIsProcDisabled", "db/de6/a29853.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
+    [ "conditionsMet", "db/de6/a29853.html#ade58814e6b27763d1bb6c1f730ef53e0", null ],
+    [ "hasConditions", "db/de6/a29853.html#a160ac902a994fdaaa36b66dbaa4c8282", null ],
+    [ "sourceType", "db/de6/a29853.html#abbfa5f40abb5713e15311f8259d70dc6", null ]
 ];

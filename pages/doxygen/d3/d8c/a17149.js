@@ -1,8 +1,6 @@
 var a17149 =
 [
-    [ "npc_mistress_of_pain", "d3/d8c/a17149.html#a3311d05b0b692e4d70de95ded21df23a", null ],
-    [ "EnterEvadeMode", "d3/d8c/a17149.html#a7d2e4cb30dbcf4993dbffd9bdd7b2db3", null ],
-    [ "JustDied", "d3/d8c/a17149.html#aa34fc8f7625f31fc872edd15d3c48686", null ],
-    [ "Reset", "d3/d8c/a17149.html#a0205ff2af278a7d6e44f0bfc179b022e", null ],
-    [ "UpdateAI", "d3/d8c/a17149.html#a5a6edfb39ee3fb710cd42311dc10b034", null ]
+    [ "boss_acidmawAI", "d7/db5/a17153.html", "d7/db5/a17153" ],
+    [ "boss_acidmaw", "d3/d8c/a17149.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
+    [ "GetAI", "d3/d8c/a17149.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
 ];

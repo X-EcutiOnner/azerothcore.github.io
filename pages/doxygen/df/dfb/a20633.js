@@ -1,6 +1,7 @@
 var a20633 =
 [
-    [ "FilterTargets", "df/dfb/a20633.html#a16c036791c9dc94490d0504d6e530bad", null ],
-    [ "PrepareSpellScript", "df/dfb/a20633.html#a0c1a162a3dfb2b508f9efaebe478ca74", null ],
-    [ "Register", "df/dfb/a20633.html#a061c3091e981f09d20016c4f523f3c17", null ]
+    [ "HandleEffectPeriodic", "df/dfb/a20633.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "df/dfb/a20633.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "df/dfb/a20633.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "df/dfb/a20633.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

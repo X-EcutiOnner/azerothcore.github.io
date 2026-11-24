@@ -1,9 +1,10 @@
 var a20881 =
 [
-    [ "npc_expedition_trapper", "d8/d77/a20881.html#ac924a9b9e23624de1460b0cdfe8c8a1b", null ],
-    [ "DoAction", "d8/d77/a20881.html#a094ecbf1a719223d50c7d070989aa782", null ],
-    [ "MovementInform", "d8/d77/a20881.html#ae2a0c15b4a7d59f4222e818d0fcf303b", null ],
-    [ "SetData", "d8/d77/a20881.html#a11241b1513209a9964569ab29eb5dc64", null ],
-    [ "UpdateAI", "d8/d77/a20881.html#a16a39f855263ebde21ddb03d4fe60460", null ],
-    [ "_idx", "d8/d77/a20881.html#ae24ec016a0f29f7bcb41935e1991f9fa", null ]
+    [ "npc_razorscale_dark_rune_watcher", "d8/d77/a20881.html#aff56f4cadfeb72f6a96f8ac86b27a6a1", null ],
+    [ "CanAIAttack", "d8/d77/a20881.html#a68ef8f2c7014850c5107cc22deff8658", null ],
+    [ "JustEngagedWith", "d8/d77/a20881.html#a303994b6f5e2ae6e4d6f0e44d9eb60a9", null ],
+    [ "Reset", "d8/d77/a20881.html#aaab4be32140991366f1a004622bf3b31", null ],
+    [ "UpdateAI", "d8/d77/a20881.html#a8d1518f80cc6427d0334770a5aaf130a", null ],
+    [ "_events", "d8/d77/a20881.html#a15fa73dea3b9b86a6d1b42f9d1296d6e", null ],
+    [ "_instance", "d8/d77/a20881.html#ac08ba6b60827408aeb1b63a48a57fa9e", null ]
 ];

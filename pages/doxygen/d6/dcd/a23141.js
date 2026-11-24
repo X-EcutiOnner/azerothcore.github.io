@@ -1,7 +1,6 @@
 var a23141 =
 [
-    [ "SuckBackEvent", "d6/dcd/a23141.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "d6/dcd/a23141.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "d6/dcd/a23141.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "d6/dcd/a23141.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "boss_essence_of_sufferingAI", "db/dbc/a23145.html", "db/dbc/a23145" ],
+    [ "boss_essence_of_suffering", "d6/dcd/a23141.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d6/dcd/a23141.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

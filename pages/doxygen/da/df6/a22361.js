@@ -1,6 +1,7 @@
 var a22361 =
 [
-    [ "npc_frostbrood_skytalonAI", "dd/dda/a22365.html", "dd/dda/a22365" ],
-    [ "npc_frostbrood_skytalon", "da/df6/a22361.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "da/df6/a22361.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_plague_cauldron_target", "da/df6/a22361.html#a467eba24101174a35965170529317af5", null ],
+    [ "GetBunnyEntry", "da/df6/a22361.html#a93d3146ff102b88ff981ea30c2107d9e", null ],
+    [ "SpellHit", "da/df6/a22361.html#a4796e5f2e621d85e62a858949c318516", null ],
+    [ "SummonedCreatureDespawn", "da/df6/a22361.html#a49ed3c6558cac869929c30fba73ea1c6", null ]
 ];

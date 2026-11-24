@@ -1,8 +1,7 @@
 var a23049 =
 [
-    [ "FilterTargets", "dc/d5d/a23049.html#a4d4ebe332e9b9f9592e34327b6b62385", null ],
-    [ "HandleDummy", "dc/d5d/a23049.html#af349d524bb8e66455b842c7557750ba8", null ],
-    [ "PrepareSpellScript", "dc/d5d/a23049.html#ac9da1a6dc020533a867a03f99dc0bb4c", null ],
-    [ "Register", "dc/d5d/a23049.html#afd0c00470206a86ee42f85c8fa2ecf7b", null ],
-    [ "Validate", "dc/d5d/a23049.html#a67b02473ac0c7c014fc489b531eb3e1c", null ]
+    [ "VerasEnvenom", "dc/d5d/a23049.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "dc/d5d/a23049.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "dc/d5d/a23049.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "dc/d5d/a23049.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

@@ -1,6 +1,6 @@
 var a19065 =
 [
-    [ "npc_suppresserAI", "dc/de6/a19069.html", "dc/de6/a19069" ],
-    [ "npc_suppresser", "d4/d05/a19065.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "d4/d05/a19065.html#a48869515abbac1491337a93b987231da", null ]
+    [ "HandleScript", "d4/d05/a19065.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
+    [ "PrepareSpellScript", "d4/d05/a19065.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
+    [ "Register", "d4/d05/a19065.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
 ];

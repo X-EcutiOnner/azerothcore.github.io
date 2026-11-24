@@ -1,11 +1,7 @@
 var a20785 =
 [
-    [ "npc_ulduar_proximity_mine", "d3/dee/a20785.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
-    [ "AttackStart", "d3/dee/a20785.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "d3/dee/a20785.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "d3/dee/a20785.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "d3/dee/a20785.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "_exploded", "d3/dee/a20785.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
-    [ "_timer", "d3/dee/a20785.html#afe009de55826305826105bd29458d0eb", null ],
-    [ "_timer2", "d3/dee/a20785.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
+    [ "PrepareSpellScript", "d3/dee/a20785.html#afae92a0d4e41fc2fd00b1fd0b6b11a22", null ],
+    [ "PreventSummon", "d3/dee/a20785.html#a57fcc7a0e078c344e50863ba1951f244", null ],
+    [ "Register", "d3/dee/a20785.html#a3813bf7e198f5f3c146b4639fa83a067", null ],
+    [ "SetDest", "d3/dee/a20785.html#a4d49ebdf1dab3b4952e4f4c7c50ca16b", null ]
 ];

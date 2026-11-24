@@ -1,9 +1,14 @@
 var a22365 =
 [
-    [ "npc_frostbrood_skytalonAI", "dd/dda/a22365.html#afc14c60466f9f0f1b20062758f18c00d", null ],
-    [ "IsSummonedBy", "dd/dda/a22365.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
-    [ "MovementInform", "dd/dda/a22365.html#ae763333503176eb7e8ce407868243958", null ],
-    [ "SpellHit", "dd/dda/a22365.html#a24bb49f47dcf85c95039d0495a89e126", null ],
-    [ "UpdateAI", "dd/dda/a22365.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
-    [ "events", "dd/dda/a22365.html#a8575d258d63e28626cffd7fc2160bee6", null ]
+    [ "npc_plague_cauldron_bunny", "dd/dda/a22365.html#a03ea0305eeb7f430784fe39b6ce7bf37", null ],
+    [ "AddFluid", "dd/dda/a22365.html#a1445a56651767cfdc289b13f08cd84d4", null ],
+    [ "DoAction", "dd/dda/a22365.html#a0ad887ebe9013967f68fcc0c296b9af1", null ],
+    [ "EndEvent", "dd/dda/a22365.html#a6a855899aa4d5ba7cee07d00bb38dff6", null ],
+    [ "GetDoser", "dd/dda/a22365.html#ab9012465c5a92e432746ffee59dd4ecc", null ],
+    [ "IsSummonedBy", "dd/dda/a22365.html#af1939d64dc4c33c8026dbc37334469dc", null ],
+    [ "RollWaveGroup", "dd/dda/a22365.html#ae37fe303bce2309d2130d098ecf19d6b", null ],
+    [ "SetGUID", "dd/dda/a22365.html#acca6a5aeec8874b569b5e044601a3f05", null ],
+    [ "SummonWave", "dd/dda/a22365.html#aa40e121847aff78b700aba99ffee67eb", null ],
+    [ "UpdateAI", "dd/dda/a22365.html#a099abb9e237d824e1b989a34322e141e", null ],
+    [ "_doserGUID", "dd/dda/a22365.html#ad764c5481c9efc1485c2ae4f0f38a4c1", null ]
 ];

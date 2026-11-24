@@ -1,10 +1,8 @@
 var a17481 =
 [
-    [ "boss_frostsworn_general", "d2/d17/a17481.html#adae1b1d60e78a33b875ac08312a454cf", null ],
-    [ "EnterEvadeMode", "d2/d17/a17481.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
-    [ "JustDied", "d2/d17/a17481.html#a14741cafce857fa819418ec3208c62fc", null ],
-    [ "JustEngagedWith", "d2/d17/a17481.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
-    [ "Reset", "d2/d17/a17481.html#a1576562e5fe2247235b152029aa8edce", null ],
-    [ "UpdateAI", "d2/d17/a17481.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
-    [ "instance", "d2/d17/a17481.html#ab04347cee4d7542171d622cfde936cb1", null ]
+    [ "npc_hor_risen_witch_doctor", "d2/d17/a17481.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "d2/d17/a17481.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "d2/d17/a17481.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "d2/d17/a17481.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "d2/d17/a17481.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

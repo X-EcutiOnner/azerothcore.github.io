@@ -1308,7 +1308,9 @@ var a02288 =
       [ "LANG_ITEM_RESTORE_IN_BUYBACK", "dc/d1a/a02288.html#af9ee42b1cf006ecb2d2e74fe71c0761aa8dba891c3cc01368803334dfab2dae59", null ],
       [ "LANG_COMMAND_INST_BIND_NOT_FOUND", "dc/d1a/a02288.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6a2cb765c46550c970be648829e096cc", null ],
       [ "LANG_COMMAND_INST_BIND_ALREADY_BOUND", "dc/d1a/a02288.html#af9ee42b1cf006ecb2d2e74fe71c0761aa99bffa14c33db2d8dde7e80f17ba144e", null ],
-      [ "LANG_COMMAND_INST_BIND_SUCCESS", "dc/d1a/a02288.html#af9ee42b1cf006ecb2d2e74fe71c0761aa95b1d864af90a6093133d10c83272cd9", null ]
+      [ "LANG_COMMAND_INST_BIND_SUCCESS", "dc/d1a/a02288.html#af9ee42b1cf006ecb2d2e74fe71c0761aa95b1d864af90a6093133d10c83272cd9", null ],
+      [ "LANG_CANNOT_SUMMON_PLAYER_TO_INST", "dc/d1a/a02288.html#af9ee42b1cf006ecb2d2e74fe71c0761aaad2cb8f8248751a974f2057f2b168b83", null ],
+      [ "LANG_CANNOT_SUMMON_BG_RAID_TO_INST", "dc/d1a/a02288.html#af9ee42b1cf006ecb2d2e74fe71c0761aa48d0852aa81a8438a95935899e1fc058", null ]
     ] ],
     [ "BroadcastTextIds", "dc/d1a/a02288.html#a5f8319e7341931a4c397a6917ca820f6", [
       [ "BROADCAST_TEXT_ACHIEVEMENT_EARNED", "dc/d1a/a02288.html#a5f8319e7341931a4c397a6917ca820f6a92e90d9d24b6459082d3d5bd86a2ac83", null ],

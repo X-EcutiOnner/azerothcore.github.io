@@ -1,6 +1,6 @@
 var a28717 =
 [
-    [ "npc_target_dummy", "db/d0c/a28717.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
-    [ "Reset", "db/d0c/a28717.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
-    [ "UpdateAI", "db/d0c/a28717.html#a32e9e139a54375b336c112deee3687cd", null ]
+    [ "npc_air_force_botsAI", "dd/dd8/a28721.html", "dd/dd8/a28721" ],
+    [ "npc_air_force_bots", "db/d0c/a28717.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "db/d0c/a28717.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

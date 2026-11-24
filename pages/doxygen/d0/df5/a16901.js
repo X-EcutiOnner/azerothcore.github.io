@@ -1,6 +1,5 @@
 var a16901 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "d7/d1a/a16905.html", "d7/d1a/a16905" ],
-    [ "npc_black_knight_skeletal_gryphon", "d0/df5/a16901.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
-    [ "GetAI", "d0/df5/a16901.html#aad244f95877a208b56a2b6544984d724", null ]
+    [ "criteriaId", "d0/df5/a16901.html#a7b068dcdbf6318f9157ecdf3d0a1aa8c", null ],
+    [ "memoryEntry", "d0/df5/a16901.html#a0d5e331208d24888a987a533d36970b1", null ]
 ];

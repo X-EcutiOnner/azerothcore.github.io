@@ -1,6 +1,8 @@
 var a26549 =
 [
-    [ "PrepareSpellScript", "d2/dbb/a26549.html#a8127429829afd4b82395a821a4bea19c", null ],
-    [ "Register", "d2/dbb/a26549.html#a73717914aa23764fa16c8a2965798a6a", null ],
-    [ "SecondaryEffect", "d2/dbb/a26549.html#a6150d8615c7f579aadd50e28aba0d569", null ]
+    [ "HandleScript", "d2/dbb/a26549.html#a181434606474535b5ed8dc6ee7c2dc29", null ],
+    [ "Load", "d2/dbb/a26549.html#aee35eb07631e991dc019a2b716894237", null ],
+    [ "PrepareSpellScript", "d2/dbb/a26549.html#a4c28987223d55f31aa6c5f3e349b62b7", null ],
+    [ "Register", "d2/dbb/a26549.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb", null ],
+    [ "Validate", "d2/dbb/a26549.html#a1541ff95bfa6ddc98748381cc2cb99f6", null ]
 ];

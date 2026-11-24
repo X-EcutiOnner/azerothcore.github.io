@@ -1,6 +1,5 @@
 var a19893 =
 [
-    [ "ChargeRifts", "db/dd0/a19893.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "db/dd0/a19893.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "db/dd0/a19893.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "achievement_intense_cold", "db/dd0/a19893.html#a2377357d6bfc03e5b91354428d3da3de", null ],
+    [ "OnCheck", "db/dd0/a19893.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
 ];

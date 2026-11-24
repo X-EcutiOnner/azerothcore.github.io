@@ -1,6 +1,10 @@
 var a20889 =
 [
-    [ "npc_razorscale_spawner", "d2/d72/a20889.html#afbc71f46d2ac919dae274c7581357d34", null ],
-    [ "Reset", "d2/d72/a20889.html#afdfee27c6933d00f3e8d8fb1d8381e19", null ],
-    [ "UpdateAI", "d2/d72/a20889.html#a0de302ea1ace44cc2f065cae130166cb", null ]
+    [ "npc_razorscale_dark_rune_sentinel", "d2/d72/a20889.html#ab05b135a3c4cc45c132b3bb38127494c", null ],
+    [ "CanAIAttack", "d2/d72/a20889.html#a99f74f401c846f56f6adf70a755e5a84", null ],
+    [ "JustEngagedWith", "d2/d72/a20889.html#afdba7ecd994d92484a75444387bffaee", null ],
+    [ "Reset", "d2/d72/a20889.html#ad83e4b28dc7562a627f9d1330c3bb2fc", null ],
+    [ "UpdateAI", "d2/d72/a20889.html#a621e7a4804a74ce74717a9b0212ab8a3", null ],
+    [ "_events", "d2/d72/a20889.html#a5dc9139c7d2897b6f1a9e9d86a5f663a", null ],
+    [ "_instance", "d2/d72/a20889.html#a83f67be54dde276f3ed5efd867450756", null ]
 ];

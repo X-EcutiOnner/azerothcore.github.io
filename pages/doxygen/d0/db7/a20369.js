@@ -1,9 +1,7 @@
 var a20369 =
 [
-    [ "npc_freya_ward_summon", "d0/db7/a20369.html#ad88b954bbbb68988915ec165ccb0a3dd", null ],
-    [ "CanAIAttack", "d0/db7/a20369.html#a6b91ab899f11e3d6f9907b73476fa61f", null ],
-    [ "IsSummonedBy", "d0/db7/a20369.html#ab6c7cab698470dafd14a0ed2ddd94eca", null ],
-    [ "JustEngagedWith", "d0/db7/a20369.html#a52ca4242be249900f94d918dbc4df6c3", null ],
-    [ "Reset", "d0/db7/a20369.html#ae2e600ad8cae543bdb4b7f7b9c4c626a", null ],
-    [ "UpdateAI", "d0/db7/a20369.html#a175d2ca7a28ab998860fdce324c48c7e", null ]
+    [ "npc_storm_beacon_spawn", "d0/db7/a20369.html#a999b6421a0ef6eec2987716a60352a5e", null ],
+    [ "UpdateAI", "d0/db7/a20369.html#a93dbd7a26d6333f18329142280cc743d", null ],
+    [ "_amount", "d0/db7/a20369.html#acb5d1f2b6590da32f36882339729c4e9", null ],
+    [ "_checkTimer", "d0/db7/a20369.html#a9717b52f26045707fd852b955d29a5e6", null ]
 ];

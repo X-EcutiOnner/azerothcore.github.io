@@ -1,5 +1,6 @@
 var a24681 =
 [
-    [ "npc_pet_pri_lightwell", "d2/da6/a24681.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "d2/da6/a24681.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "FilterTargets", "d2/da6/a24681.html#adab73c94c659d7421c9c6887d956cd83", null ],
+    [ "PrepareSpellScript", "d2/da6/a24681.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
+    [ "Register", "d2/da6/a24681.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
 ];

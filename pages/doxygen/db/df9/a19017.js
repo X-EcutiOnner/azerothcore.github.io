@@ -1,6 +1,6 @@
 var a19017 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "de/de5/a19021.html", "de/de5/a19021" ],
-    [ "npc_green_dragon_combat_trigger", "db/df9/a19017.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "db/df9/a19017.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "npc_valithria_portalAI", "de/de5/a19021.html", "de/de5/a19021" ],
+    [ "npc_valithria_portal", "db/df9/a19017.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "db/df9/a19017.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

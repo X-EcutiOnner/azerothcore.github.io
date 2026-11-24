@@ -1,6 +1,8 @@
 var a18885 =
 [
-    [ "HandleScript", "d3/d8d/a18885.html#a9489c3454830d3826cb077c95947bf2d", null ],
-    [ "PrepareSpellScript", "d3/d8d/a18885.html#a19492e616ac6e69187bca4499175071e", null ],
-    [ "Register", "d3/d8d/a18885.html#a3446174d3308f535c27581b63ade9e8a", null ]
+    [ "Load", "d3/d8d/a18885.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
+    [ "OnRemove", "d3/d8d/a18885.html#a43b23e5c53cca872a26737d790f2893d", null ],
+    [ "PrepareAuraScript", "d3/d8d/a18885.html#ae51bcb37894240c6fd064cd329698a55", null ],
+    [ "Register", "d3/d8d/a18885.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
+    [ "Validate", "d3/d8d/a18885.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
 ];

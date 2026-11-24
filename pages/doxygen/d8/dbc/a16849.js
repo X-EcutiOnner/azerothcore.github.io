@@ -1,6 +1,7 @@
 var a16849 =
 [
-    [ "boss_eadricAI", "df/d1e/a16853.html", "df/d1e/a16853" ],
-    [ "boss_eadric", "d8/dbc/a16849.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
-    [ "GetAI", "d8/dbc/a16849.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
+    [ "npc_memory", "d8/dbc/a16849.html#a57f4ab7c0c8ce0b1b0ed284811822a17", null ],
+    [ "JustDied", "d8/dbc/a16849.html#a54a5b9a048fc6b0c8ac523a1fde6cbde", null ],
+    [ "UpdateAI", "d8/dbc/a16849.html#a64a66dd25bf0aae692d2abdc8474d1dc", null ],
+    [ "_instance", "d8/dbc/a16849.html#a04045c37535a063b5e157ba5b12cd8d1", null ]
 ];

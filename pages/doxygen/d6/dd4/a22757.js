@@ -1,7 +1,10 @@
 var a22757 =
 [
-    [ "OutdoorPvPGH", "d6/dd4/a22757.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "HandleKill", "d6/dd4/a22757.html#a78cf572faf727c302f9be496d91004e0", null ],
-    [ "SendRemoveWorldStates", "d6/dd4/a22757.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "d6/dd4/a22757.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "OPvPCapturePointHP", "d6/dd4/a22757.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
+    [ "ChangeState", "d6/dd4/a22757.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
+    [ "FillInitialWorldStates", "d6/dd4/a22757.html#aa8d725422951485970d9106450fb6a38", null ],
+    [ "HandlePlayerEnter", "d6/dd4/a22757.html#ad9738c621df084d5a3f0070c80403642", null ],
+    [ "HandlePlayerLeave", "d6/dd4/a22757.html#a86e849e5387383a6c751e69350ffa07c", null ],
+    [ "SendChangePhase", "d6/dd4/a22757.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
+    [ "m_TowerType", "d6/dd4/a22757.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
 ];

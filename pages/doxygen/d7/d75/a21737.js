@@ -1,6 +1,10 @@
 var a21737 =
 [
-    [ "npc_khunok_the_behemothAI", "db/da5/a21741.html", "db/da5/a21741" ],
-    [ "npc_khunok_the_behemoth", "d7/d75/a21737.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "d7/d75/a21737.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "npc_lurgglbrAI", "d7/d75/a21737.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "d7/d75/a21737.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "d7/d75/a21737.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "d7/d75/a21737.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "WaypointReached", "d7/d75/a21737.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IntroPhase", "d7/d75/a21737.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "d7/d75/a21737.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

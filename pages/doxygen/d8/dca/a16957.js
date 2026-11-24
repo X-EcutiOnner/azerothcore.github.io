@@ -1,8 +1,7 @@
 var a16957 =
 [
-    [ "npc_announcer_toc5AI", "d7/d08/a16961.html", "d7/d08/a16961" ],
-    [ "npc_announcer_toc5", "d8/dca/a16957.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
-    [ "GetAI", "d8/dca/a16957.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
-    [ "OnGossipHello", "d8/dca/a16957.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
-    [ "OnGossipSelect", "d8/dca/a16957.html#a9017488c652fd75882db75914f4a2db2", null ]
+    [ "HandleEffectPeriodic", "d8/dca/a16957.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "d8/dca/a16957.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "d8/dca/a16957.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "d8/dca/a16957.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

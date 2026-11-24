@@ -1,8 +1,11 @@
 var a21601 =
 [
-    [ "npc_frozen_orbAI", "da/d41/a21601.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "da/d41/a21601.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "da/d41/a21601.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "da/d41/a21601.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "da/d41/a21601.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "boss_cyanigosa", "da/d41/a21601.html#af85a0c366de8785cd89d14f7990bfb54", null ],
+    [ "EnterEvadeMode", "da/d41/a21601.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
+    [ "ExecuteEvent", "da/d41/a21601.html#a694dda590c17a03534f8744838ac3176", null ],
+    [ "JustDied", "da/d41/a21601.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
+    [ "JustEngagedWith", "da/d41/a21601.html#a2432aa3610747c52f6ec3de1def55f18", null ],
+    [ "KilledUnit", "da/d41/a21601.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
+    [ "MoveInLineOfSight", "da/d41/a21601.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
+    [ "SpellHitTarget", "da/d41/a21601.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
 ];

@@ -1,5 +1,8 @@
 var a19261 =
 [
-    [ "npc_darkfallen_noble", "d1/d67/a19261.html#a566c1938cadfb6fd9d171f84529e9495", null ],
-    [ "ScheduleSpells", "d1/d67/a19261.html#a0f7de7ee2cf7d4eacccd42bd63b8cf6f", null ]
+    [ "OnApply", "d1/d67/a19261.html#ab36c99093a1659e65cd7e41524fdeeff", null ],
+    [ "OnRemove", "d1/d67/a19261.html#a433df999703d10b8d5001af75e8b2c97", null ],
+    [ "PrepareAuraScript", "d1/d67/a19261.html#af6c809fb292cafd052b22b345df23b7f", null ],
+    [ "Register", "d1/d67/a19261.html#ad116dbd8b69a1f7e8951a170b1872d97", null ],
+    [ "Validate", "d1/d67/a19261.html#a9d122f2335fdab34791e2eedff022aef", null ]
 ];

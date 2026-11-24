@@ -1,7 +1,5 @@
 var a17389 =
 [
-    [ "HandlePeriodicTick", "d7/dd2/a17389.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
-    [ "PrepareAuraScript", "d7/dd2/a17389.html#a93e894c642101160dd51f30952c82d24", null ],
-    [ "Register", "d7/dd2/a17389.html#a49172ede0f888e391b9b4a835475220a", null ],
-    [ "Validate", "d7/dd2/a17389.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
+    [ "npc_fos_leader_secondAI", "d7/dd2/a17389.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "d7/dd2/a17389.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

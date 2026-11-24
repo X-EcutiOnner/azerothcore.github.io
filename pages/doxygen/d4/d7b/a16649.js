@@ -1,7 +1,10 @@
 var a16649 =
 [
-    [ "DelayedTalk", "d4/d7b/a16649.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "d4/d7b/a16649.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "d4/d7b/a16649.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "d4/d7b/a16649.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d4/d7b/a16649.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "d4/d7b/a16649.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "d4/d7b/a16649.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "d4/d7b/a16649.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "OnPlayerLeave", "d4/d7b/a16649.html#a293c30b03dce5a7aaebd04a9830e976f", null ],
+    [ "m_uiPortalGUID", "d4/d7b/a16649.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "portalCount", "d4/d7b/a16649.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

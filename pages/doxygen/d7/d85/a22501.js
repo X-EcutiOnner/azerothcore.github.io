@@ -1,7 +1,8 @@
 var a22501 =
 [
-    [ "HandleDummy", "d7/d85/a22501.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "d7/d85/a22501.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "d7/d85/a22501.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "d7/d85/a22501.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_hyldsmeet_protodrake", "d7/d85/a22501.html#a409a5f5eace583ef874421819c975ed8", null ],
+    [ "PassengerBoarded", "d7/d85/a22501.html#a0067d3b394c967946e329ea25c2dc315", null ],
+    [ "UpdateAI", "d7/d85/a22501.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
+    [ "_accessoryInstalled", "d7/d85/a22501.html#af9a5984f66eb3a1a26e8c1640bcf7597", null ],
+    [ "_accessoryRespawnTimer", "d7/d85/a22501.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
 ];

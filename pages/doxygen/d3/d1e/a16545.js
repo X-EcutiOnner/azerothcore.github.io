@@ -1,6 +1,9 @@
 var a16545 =
 [
-    [ "npc_anub_ar_crusher_champion", "d3/d1e/a16545.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
-    [ "DoEngagedWith", "d3/d1e/a16545.html#a2dcef4fe57880ba725dff52455a7a428", null ],
-    [ "DoEvent", "d3/d1e/a16545.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
+    [ "npc_anub_ar_crusher", "d3/d1e/a16545.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
+    [ "DamageTaken", "d3/d1e/a16545.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
+    [ "DoEngagedWith", "d3/d1e/a16545.html#a70238afe4b9ae58b99067581db6734c8", null ],
+    [ "DoEvent", "d3/d1e/a16545.html#ac20630563a1869f56f538968cb8bb1ea", null ],
+    [ "JustDied", "d3/d1e/a16545.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
+    [ "_hadFrenzy", "d3/d1e/a16545.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
 ];

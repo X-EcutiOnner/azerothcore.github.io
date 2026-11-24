@@ -1,6 +1,14 @@
 var a17681 =
 [
-    [ "HandleEffectPeriodic", "d1/ddc/a17681.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
-    [ "PrepareAuraScript", "d1/ddc/a17681.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
-    [ "Register", "d1/ddc/a17681.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
+    [ "boss_drakkari_colossusAI", "d1/ddc/a17681.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
+    [ "DoAction", "d1/ddc/a17681.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
+    [ "JustReachedHome", "d1/ddc/a17681.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
+    [ "JustSummoned", "d1/ddc/a17681.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
+    [ "MoveInLineOfSight", "d1/ddc/a17681.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
+    [ "Reset", "d1/ddc/a17681.html#a5e9c6da15df58a206533a7c718056c3e", null ],
+    [ "ScheduleTasks", "d1/ddc/a17681.html#afefbba70f93142110dcf9d7940d91d2c", null ],
+    [ "SummonedCreatureDespawn", "d1/ddc/a17681.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
+    [ "SummonedCreatureDies", "d1/ddc/a17681.html#a59f9efbc2964eec057606d69458b4402", null ],
+    [ "UpdateAI", "d1/ddc/a17681.html#afc816b7d1c2705675560ddd13ecce22d", null ],
+    [ "_secondEmerge", "d1/ddc/a17681.html#a2e97f8f1f5c53efba04afc213f410870", null ]
 ];

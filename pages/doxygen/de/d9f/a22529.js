@@ -1,6 +1,14 @@
 var a22529 =
 [
-    [ "HandleScriptEffect", "de/d9f/a22529.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "de/d9f/a22529.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "de/d9f/a22529.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_wild_wyrm", "de/d9f/a22529.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
+    [ "DamageTaken", "de/d9f/a22529.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
+    [ "DoAction", "de/d9f/a22529.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
+    [ "InitSpellsForPhase", "de/d9f/a22529.html#adcc805b0880d95c185af4a587474c2d2", null ],
+    [ "MovementInform", "de/d9f/a22529.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
+    [ "PassengerBoarded", "de/d9f/a22529.html#a362052015873c615448bec978d744c9e", null ],
+    [ "Reset", "de/d9f/a22529.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
+    [ "SpellHit", "de/d9f/a22529.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
+    [ "UpdateAI", "de/d9f/a22529.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
+    [ "_phase", "de/d9f/a22529.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
+    [ "_playerGuid", "de/d9f/a22529.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
 ];

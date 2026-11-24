@@ -1,5 +1,6 @@
 var a20829 =
 [
-    [ "go_ulduar_do_not_push_this_button", "d6/d52/a20829.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "d6/d52/a20829.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "HandlePeriodic", "d6/d52/a20829.html#ab3f6a58bcea3fc75ccbac99cd911e7f8", null ],
+    [ "PrepareAuraScript", "d6/d52/a20829.html#a09d6fccb19df088780c5baa0ef656da7", null ],
+    [ "Register", "d6/d52/a20829.html#abbf60dac3d36d0833e6509aac83f2b49", null ]
 ];

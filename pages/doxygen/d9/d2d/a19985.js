@@ -1,6 +1,10 @@
 var a19985 =
 [
-    [ "boss_varosAI", "d6/d69/a19989.html", "d6/d69/a19989" ],
-    [ "boss_varos", "d9/d2d/a19985.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "d9/d2d/a19985.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "npc_oculus_drakegiverAI", "d9/d2d/a19985.html#a4bba380256a0ede70b8d90611249b444", null ],
+    [ "MovementInform", "d9/d2d/a19985.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
+    [ "UpdateAI", "d9/d2d/a19985.html#a652a8c364687d51de62356964f6f33f9", null ],
+    [ "m_pInstance", "d9/d2d/a19985.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
+    [ "moved", "d9/d2d/a19985.html#a069e202a84d99cd757862bd1a43b5562", null ],
+    [ "resetPosition", "d9/d2d/a19985.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
+    [ "timer", "d9/d2d/a19985.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
 ];

@@ -1,6 +1,9 @@
 var a24281 =
 [
-    [ "npc_wounded_blood_elfAI", "d4/d1d/a24285.html", "d4/d1d/a24285" ],
-    [ "npc_wounded_blood_elf", "dc/dad/a24281.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "dc/dad/a24281.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "npc_fel_guard_houndAI", "dc/dad/a24281.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "dc/dad/a24281.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "dc/dad/a24281.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "dc/dad/a24281.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "dc/dad/a24281.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "dc/dad/a24281.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

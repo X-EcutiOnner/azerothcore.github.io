@@ -1,7 +1,7 @@
 var a04676 =
 [
-    [ "boss_bjarngrim", "da/dab/a20073.html", "da/dab/a20073" ],
-    [ "npc_stormforged_lieutenant", "db/d19/a20077.html", "db/d19/a20077" ],
+    [ "boss_bjarngrim", "df/d53/a20053.html", "df/d53/a20053" ],
+    [ "npc_stormforged_lieutenant", "d0/daf/a20057.html", "d0/daf/a20057" ],
     [ "BjarngrimEvents", "d5/def/a04676.html#aa8c3e344bed87b5cb609d644244a84dc", [
       [ "EVENT_BJARNGRIM_CHANGE_STANCE", "d5/def/a04676.html#aa8c3e344bed87b5cb609d644244a84dca86c4301f1389fc68ef05ba6f2fcec688", null ],
       [ "EVENT_BJARNGRIM_REFLECTION", "d5/def/a04676.html#aa8c3e344bed87b5cb609d644244a84dca248b5d28ba71eaca7bebb2db0e87af8b", null ],
@@ -233,6 +233,7 @@ var a04676 =
       [ "SAY_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b", null ],
       [ "SAY_DEATH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "EMOTE_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
+      [ "EMOTE_TOUCH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a21153f10565e5f32475502bd21b079bd", null ],
       [ "SAY_AGGRO", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_KILL", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5", null ],
       [ "SAY_DEATH", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],

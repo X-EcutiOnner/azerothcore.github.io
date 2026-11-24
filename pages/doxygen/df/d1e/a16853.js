@@ -1,13 +1,15 @@
 var a16853 =
 [
-    [ "boss_eadricAI", "df/d1e/a16853.html#a461043fe1bff0f5478e2a57504e7477c", null ],
-    [ "DamageTaken", "df/d1e/a16853.html#a440899ffdeda7794ef4fa5530638eecc", null ],
-    [ "JustEngagedWith", "df/d1e/a16853.html#a09a0cebcdffb00e37e9d60111c582669", null ],
-    [ "KilledUnit", "df/d1e/a16853.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
-    [ "MovementInform", "df/d1e/a16853.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
-    [ "Reset", "df/d1e/a16853.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
-    [ "SpellHit", "df/d1e/a16853.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
-    [ "UpdateAI", "df/d1e/a16853.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
-    [ "events", "df/d1e/a16853.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
-    [ "pInstance", "df/d1e/a16853.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
+    [ "npc_argent_soldier", "df/d1e/a16853.html#a1a1b307348c068f88549a1f4703407fe", null ],
+    [ "DamageTaken", "df/d1e/a16853.html#a83377ee8610fda266a6f83eba8950dba", null ],
+    [ "JustDied", "df/d1e/a16853.html#a0aaf3096f93eda0806dc320d2c6028df", null ],
+    [ "JustEngagedWith", "df/d1e/a16853.html#ae8a8dc0e3496d742e16cfdb903e7cdbe", null ],
+    [ "Reset", "df/d1e/a16853.html#aa2fbe3897541a651445687db97194fbf", null ],
+    [ "SetData", "df/d1e/a16853.html#a2e329763fdaaef884c257789fb80b109", null ],
+    [ "UpdateAI", "df/d1e/a16853.html#af3e7e169f3d635130b4d7dbe0decbe11", null ],
+    [ "WaypointReached", "df/d1e/a16853.html#a6aaf793c5a9d89c763d705121dbccc75", null ],
+    [ "WaypointReached", "df/d1e/a16853.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_finalMeditation", "df/d1e/a16853.html#a73046c7a51a5316f87da918a6abebcba", null ],
+    [ "_instance", "df/d1e/a16853.html#aa3fc5e27a5dbafbfd6db168cc008ce6a", null ],
+    [ "_waypoint", "df/d1e/a16853.html#ae333c1eb8b8b2ee7f72bf161e7bce808", null ]
 ];

@@ -1,6 +1,6 @@
 var a21509 =
 [
-    [ "HandleDummyEffect", "d2/d05/a21509.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "d2/d05/a21509.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "d2/d05/a21509.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "db/ddd/a21513.html", "db/ddd/a21513" ],
+    [ "instance_utgarde_pinnacle", "d2/d05/a21509.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "d2/d05/a21509.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

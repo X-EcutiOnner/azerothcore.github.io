@@ -1,11 +1,8 @@
 var a20689 =
 [
-    [ "npc_ulduar_iron_construct", "d5/d82/a20689.html#ab44bf86ea4a50f365e37ba888d0b2f6d", null ],
-    [ "JustDied", "d5/d82/a20689.html#ae102f4c7b9bc4246e0720287739e419a", null ],
-    [ "JustReachedHome", "d5/d82/a20689.html#a77609f7939725001d7a31c4d92f00358", null ],
-    [ "MoveInLineOfSight", "d5/d82/a20689.html#a6f8bfc52f6f8b6fbd4b8fb01bc827b8a", null ],
-    [ "Reset", "d5/d82/a20689.html#a2fcec0917d5266b286cbb0995ef6ee34", null ],
-    [ "SpellHit", "d5/d82/a20689.html#a0c786f44d9f255464fadb1c53b6fc004", null ],
-    [ "UpdateAI", "d5/d82/a20689.html#afc56384db98a225a223c9214414508ea", null ],
-    [ "timer", "d5/d82/a20689.html#a397277972454f710d7236ba36a67c977", null ]
+    [ "CheckProc", "d5/d82/a20689.html#ad609f81da8229b5f8c219b3dce4e7602", null ],
+    [ "HandleProc", "d5/d82/a20689.html#aa3fae300f8738edeb5d68de2608462ab", null ],
+    [ "PrepareAuraScript", "d5/d82/a20689.html#a21c070876fa64fa8d65db71c90c73747", null ],
+    [ "Register", "d5/d82/a20689.html#a3aa412142b1809933cc9c2616f9b4ce5", null ],
+    [ "Validate", "d5/d82/a20689.html#a930130b75796d42866e0459832e7841b", null ]
 ];

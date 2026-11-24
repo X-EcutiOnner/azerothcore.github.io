@@ -1,6 +1,6 @@
 var a26869 =
 [
-    [ "HandleRemove", "db/de1/a26869.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "db/de1/a26869.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "db/de1/a26869.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "CalculateAmount", "db/de1/a26869.html#acc2c4cea16dfa30c49387ac166cef560", null ],
+    [ "PrepareAuraScript", "db/de1/a26869.html#a8d7e840994ba5034a249171dbfc016a6", null ],
+    [ "Register", "db/de1/a26869.html#a018d2a8a106a621730fcaa1d500df7b1", null ]
 ];

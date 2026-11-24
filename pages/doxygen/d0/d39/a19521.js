@@ -1,9 +1,10 @@
 var a19521 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d0/d39/a19521.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
-    [ "JustDied", "d0/d39/a19521.html#a88390da94298bea9c445bb422a806d23", null ],
-    [ "SpellHit", "d0/d39/a19521.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
-    [ "UpdateAI", "d0/d39/a19521.html#a81c039a2a230b261967842161757b6f8", null ],
-    [ "events", "d0/d39/a19521.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
-    [ "faction", "d0/d39/a19521.html#aca941c070a97278c8ec27d7e6b4edede", null ]
+    [ "boss_isle_of_conquestAI", "d0/d39/a19521.html#a7880ea86e7a03f5b14875065a83a206a", null ],
+    [ "CheckRageBuff", "d0/d39/a19521.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
+    [ "JustEngagedWith", "d0/d39/a19521.html#a878635ef0673325943e6026ad76c2b06", null ],
+    [ "Reset", "d0/d39/a19521.html#add59669e5f6c3c882ac008c720349573", null ],
+    [ "UpdateAI", "d0/d39/a19521.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
+    [ "events", "d0/d39/a19521.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
+    [ "rage", "d0/d39/a19521.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
 ];

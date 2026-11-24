@@ -1,6 +1,6 @@
 var a17025 =
 [
-    [ "npc_toc_paladinAI", "d2/d7b/a17029.html", "d2/d7b/a17029" ],
-    [ "npc_toc_paladin", "d9/d42/a17025.html#af11025a2a4be2b2c982ad31241d47180", null ],
-    [ "GetAI", "d9/d42/a17025.html#a15766ea4414701040c738251302177af", null ]
+    [ "npc_toc_hunterAI", "d2/d7b/a17029.html", "d2/d7b/a17029" ],
+    [ "npc_toc_hunter", "d9/d42/a17025.html#a73d4113df71626af7b8294e08373965e", null ],
+    [ "GetAI", "d9/d42/a17025.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
 ];

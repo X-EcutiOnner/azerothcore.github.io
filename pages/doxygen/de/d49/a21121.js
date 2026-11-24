@@ -1,8 +1,9 @@
 var a21121 =
 [
-    [ "boss_yoggsaron_guardian_of_ys", "de/d49/a21121.html#ad66fab16b309b62895578d46e8a2e730", null ],
-    [ "JustDied", "de/d49/a21121.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
-    [ "Reset", "de/d49/a21121.html#ac803a9da5223db459b9ec48435e59c30", null ],
-    [ "UpdateAI", "de/d49/a21121.html#a573576eaff2cbd4f779675e19ad53dea", null ],
-    [ "_spellTimer", "de/d49/a21121.html#a5922d21c4606ab9a41e20948dc926cea", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "de/d49/a21121.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "de/d49/a21121.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "de/d49/a21121.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "de/d49/a21121.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "de/d49/a21121.html#ae22a12401dc98534da1cb771468a58ce", null ],
+    [ "_diminishReady", "de/d49/a21121.html#af8d417c56918cf59dfe3d8429c4cf239", null ]
 ];

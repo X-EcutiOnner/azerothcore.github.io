@@ -1,6 +1,6 @@
 var a16917 =
 [
-    [ "HandleSpellHit", "d3/dd8/a16917.html#a8c801b92f6e405668edae54989dd58e8", null ],
-    [ "PrepareSpellScript", "d3/dd8/a16917.html#abae02a74f626b890f61df551318dcc81", null ],
-    [ "Register", "d3/dd8/a16917.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
+    [ "HideNpcEvent", "d3/dd8/a16917.html#ab454295aab0f5d4586740140232e96eb", null ],
+    [ "Execute", "d3/dd8/a16917.html#aecfbbbcac3fd98675913a6381c891a59", null ],
+    [ "_owner", "d3/dd8/a16917.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
 ];

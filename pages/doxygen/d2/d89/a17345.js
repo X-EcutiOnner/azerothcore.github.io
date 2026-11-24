@@ -1,7 +1,14 @@
 var a17345 =
 [
-    [ "HandleScriptEffect", "d2/d89/a17345.html#a62cef31900cd61167823f3e66aa2d64b", null ],
-    [ "PrepareSpellScript", "d2/d89/a17345.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
-    [ "Register", "d2/d89/a17345.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
-    [ "Validate", "d2/d89/a17345.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
+    [ "boss_bronjahm", "d2/d89/a17345.html#a44666a47b298efe48c4e86b8677d9845", null ],
+    [ "DamageTaken", "d2/d89/a17345.html#ab89333e2ee43ad384bdc71ac6f83c92e", null ],
+    [ "EnterEvadeMode", "d2/d89/a17345.html#a5d515921e780974e2a70937ada8b232d", null ],
+    [ "JustDied", "d2/d89/a17345.html#ad50a7aee4ebf9d0d5d9141b96e154996", null ],
+    [ "JustEngagedWith", "d2/d89/a17345.html#a767d4a601d7f912cd71823a51b31af1f", null ],
+    [ "JustReachedHome", "d2/d89/a17345.html#af2146b1ddb8cdc3e27d1cf573fe65df0", null ],
+    [ "JustSummoned", "d2/d89/a17345.html#a47c7a8a8413b139cf2d217d33f39aa3d", null ],
+    [ "KilledUnit", "d2/d89/a17345.html#aaaf64571ce6a542be93c6efe105278e8", null ],
+    [ "Reset", "d2/d89/a17345.html#a313bd4510e18ecb529b6358d28a3dc3f", null ],
+    [ "SpellHitTarget", "d2/d89/a17345.html#a3be47710012bd75a71574f7a4c69f678", null ],
+    [ "UpdateAI", "d2/d89/a17345.html#a6d60b720210a9f196b1c006b557e7d25", null ]
 ];

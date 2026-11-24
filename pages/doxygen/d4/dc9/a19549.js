@@ -1,7 +1,6 @@
 var a19549 =
 [
-    [ "OnRemove", "d4/dc9/a19549.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d4/dc9/a19549.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d4/dc9/a19549.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d4/dc9/a19549.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "boss_faerlinaAI", "df/d60/a19553.html", "df/d60/a19553" ],
+    [ "boss_faerlina", "d4/dc9/a19549.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
+    [ "GetAI", "d4/dc9/a19549.html#aed8214323ff5b792d9bd6aae478e7848", null ]
 ];

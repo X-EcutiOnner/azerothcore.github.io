@@ -1,6 +1,6 @@
 var a22485 =
 [
-    [ "npc_iron_watcherAI", "d9/ddf/a22489.html", "d9/ddf/a22489" ],
-    [ "npc_iron_watcher", "d9/dbf/a22485.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
-    [ "GetAI", "d9/dbf/a22485.html#af3b80b838e192737762ceed599b0be9a", null ]
+    [ "npc_brunnhildar_prisonerAI", "d9/ddf/a22489.html", "d9/ddf/a22489" ],
+    [ "npc_brunnhildar_prisoner", "d9/dbf/a22485.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
+    [ "GetAI", "d9/dbf/a22485.html#aa2a1787849c74a5163a39137c9d03d57", null ]
 ];

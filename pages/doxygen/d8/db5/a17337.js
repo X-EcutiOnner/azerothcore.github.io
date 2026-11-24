@@ -1,6 +1,7 @@
 var a17337 =
 [
-    [ "boss_trollgoreAI", "d0/df1/a17341.html", "d0/df1/a17341" ],
-    [ "boss_trollgore", "d8/db5/a17337.html#a95102f1fae6c667e0780b8b388fc156b", null ],
-    [ "GetAI", "d8/db5/a17337.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
+    [ "HandleEffectRemove", "d8/db5/a17337.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d8/db5/a17337.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d8/db5/a17337.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d8/db5/a17337.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

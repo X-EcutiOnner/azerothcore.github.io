@@ -1,8 +1,6 @@
 var a19865 =
 [
-    [ "Load", "d4/daf/a19865.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
-    [ "OnRemove", "d4/daf/a19865.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
-    [ "PrepareAuraScript", "d4/daf/a19865.html#aae6c3a215b09fd2270976190600e2cc4", null ],
-    [ "Register", "d4/daf/a19865.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
-    [ "Validate", "d4/daf/a19865.html#ae4ac76269793280335d76a78e5dced91", null ]
+    [ "HandleScript", "d4/daf/a19865.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "d4/daf/a19865.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "d4/daf/a19865.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

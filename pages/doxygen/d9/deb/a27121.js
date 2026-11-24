@@ -1,6 +1,8 @@
 var a27121 =
 [
-    [ "HandleEffectScriptEffect", "d9/deb/a27121.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
-    [ "PrepareSpellScript", "d9/deb/a27121.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
-    [ "Register", "d9/deb/a27121.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
+    [ "CalculateAmount", "d9/deb/a27121.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
+    [ "PrepareAuraScript", "d9/deb/a27121.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
+    [ "ReflectDamage", "d9/deb/a27121.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
+    [ "Register", "d9/deb/a27121.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
+    [ "Validate", "d9/deb/a27121.html#af2936ba4a29fc8735a3cabe805c77355", null ]
 ];

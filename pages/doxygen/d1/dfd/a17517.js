@@ -1,7 +1,9 @@
 var a17517 =
 [
-    [ "HandleEffectPeriodic", "d1/dfd/a17517.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
-    [ "PrepareAuraScript", "d1/dfd/a17517.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
-    [ "Register", "d1/dfd/a17517.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
-    [ "Validate", "d1/dfd/a17517.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
+    [ "FilterTargets", "d1/dfd/a17517.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "d1/dfd/a17517.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "d1/dfd/a17517.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "d1/dfd/a17517.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "d1/dfd/a17517.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "_targetList", "d1/dfd/a17517.html#ae96fabdf4d42f9357918cbf0babf4717", null ]
 ];

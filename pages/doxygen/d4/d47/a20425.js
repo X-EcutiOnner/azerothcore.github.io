@@ -1,7 +1,6 @@
 var a20425 =
 [
-    [ "HandleScript", "d4/d47/a20425.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
-    [ "PrepareSpellScript", "d4/d47/a20425.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
-    [ "Register", "d4/d47/a20425.html#a04a5b3a4f768200d74f4641508633d35", null ],
-    [ "Validate", "d4/d47/a20425.html#a78074b5b64b1ee5dfaab812f6c72bb9b", null ]
+    [ "CheckAreaTarget", "d4/d47/a20425.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "d4/d47/a20425.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "d4/d47/a20425.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

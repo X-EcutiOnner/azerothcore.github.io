@@ -1,5 +1,7 @@
 var a19277 =
 [
-    [ "npc_darkfallen_tactician", "da/daa/a19277.html#a946ccdf41d93a3477204e303c3404c5c", null ],
-    [ "ScheduleSpells", "da/daa/a19277.html#a26dcb830533771faf8ebc90995ea010b", null ]
+    [ "HandleScript", "da/daa/a19277.html#ace11e192a27b2da98ff62c4eee7980ba", null ],
+    [ "PrepareSpellScript", "da/daa/a19277.html#a8a6351b7f87101ac8328b6e76784978c", null ],
+    [ "Register", "da/daa/a19277.html#ad57068b21218492078e2d2bfe76cc3c9", null ],
+    [ "Validate", "da/daa/a19277.html#af6f1dd22aef0595315460c149d920dff", null ]
 ];

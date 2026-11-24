@@ -1,5 +1,6 @@
 var a17693 =
 [
-    [ "entry", "d2/d0b/a17693.html#a44c7a625896d6fddc15da39988e0b042", null ],
-    [ "pathId", "d2/d0b/a17693.html#accd6af0ddfa248a972612d802a1e641e", null ]
+    [ "npc_living_mojoAI", "db/d9b/a17697.html", "db/d9b/a17697" ],
+    [ "npc_living_mojo", "d2/d0b/a17693.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d2/d0b/a17693.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

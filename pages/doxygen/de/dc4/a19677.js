@@ -1,6 +1,13 @@
 var a19677 =
 [
-    [ "boss_kelthuzad_minionAI", "d8/d26/a19681.html", "d8/d26/a19681" ],
-    [ "boss_kelthuzad_minion", "de/dc4/a19677.html#a4c6d430035c964b4063139c0cda6bfff", null ],
-    [ "GetAI", "de/dc4/a19677.html#ab951068fedced148653ebf9124ba5e3d", null ]
+    [ "boss_loathebAI", "de/dc4/a19677.html#a60256114947b0e9c01f5308108485935", null ],
+    [ "IsInRoom", "de/dc4/a19677.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
+    [ "JustDied", "de/dc4/a19677.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
+    [ "JustEngagedWith", "de/dc4/a19677.html#a1abcf157e05eeb634f8e857a2de35538", null ],
+    [ "JustSummoned", "de/dc4/a19677.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
+    [ "KilledUnit", "de/dc4/a19677.html#a4dac78bba24069050dd9df729dd58b45", null ],
+    [ "Reset", "de/dc4/a19677.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
+    [ "SummonedCreatureDies", "de/dc4/a19677.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
+    [ "UpdateAI", "de/dc4/a19677.html#ab009008f892493b822e5ea5491c58525", null ],
+    [ "doomCounter", "de/dc4/a19677.html#aed5c631ede2eea27451a74ae21221325", null ]
 ];

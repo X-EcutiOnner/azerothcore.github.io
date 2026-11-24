@@ -1,7 +1,9 @@
 var a22941 =
 [
-    [ "HandleOnHit", "de/dad/a22941.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "de/dad/a22941.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "de/dad/a22941.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "de/dad/a22941.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "de/dad/a22941.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "de/dad/a22941.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "de/dad/a22941.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "de/dad/a22941.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "de/dad/a22941.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "de/dad/a22941.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

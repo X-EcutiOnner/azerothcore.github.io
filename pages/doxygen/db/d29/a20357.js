@@ -1,13 +1,16 @@
 var a20357 =
 [
-    [ "boss_flame_leviathan_defense_turret", "db/d29/a20357.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
-    [ "CanAIAttack", "db/d29/a20357.html#a17020dc7facabb0cacac3209277a73f7", null ],
-    [ "DamageTaken", "db/d29/a20357.html#ac15aadce1954d827b7e833ed761faf10", null ],
-    [ "EnterEvadeMode", "db/d29/a20357.html#aeb9fe92f81b3734512106aa73c983a35", null ],
-    [ "JustDied", "db/d29/a20357.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
-    [ "JustEnteredCombat", "db/d29/a20357.html#a3e31c489f5bb4928cb9a3bc996940cd1", null ],
-    [ "KilledUnit", "db/d29/a20357.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
-    [ "UpdateAI", "db/d29/a20357.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
-    [ "_instance", "db/d29/a20357.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
-    [ "_setHealth", "db/d29/a20357.html#a413187aa01c119d088846a216f093baa", null ]
+    [ "npc_mimirons_inferno", "db/d29/a20357.html#aedcded9302c0cb9e29475f471bd0612e", null ],
+    [ "AttackStart", "db/d29/a20357.html#a43a03388c06ef38ab29a1b4d5bc701c6", null ],
+    [ "DoAction", "db/d29/a20357.html#ade97188bb54f7b5a15a8a596355e4170", null ],
+    [ "JustSummoned", "db/d29/a20357.html#a77ddb0fbd9f0c2334df122d91913300b", null ],
+    [ "MoveInLineOfSight", "db/d29/a20357.html#acc2e756af50ebde8300c46ec6f369760", null ],
+    [ "Reset", "db/d29/a20357.html#afbd0bcdbb24bf1dbdaacecf4b602922b", null ],
+    [ "SummonedCreatureDespawn", "db/d29/a20357.html#a9b5176d6f1712d36283b0ebeeddee5b2", null ],
+    [ "UpdateAI", "db/d29/a20357.html#afd800c3a1430fe19edf6fe21763b15d8", null ],
+    [ "WaypointReached", "db/d29/a20357.html#a13cda9fcb49493477e4a4111d9858ec1", null ],
+    [ "WaypointReached", "db/d29/a20357.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_recastTimer", "db/d29/a20357.html#ac74ee90383d6ac140d6187c6115716ed", null ],
+    [ "_spellTimer", "db/d29/a20357.html#a0683c956325801b63e7e31b8485f35bd", null ],
+    [ "summons", "db/d29/a20357.html#a7a0be8291200404285277c3689c54106", null ]
 ];

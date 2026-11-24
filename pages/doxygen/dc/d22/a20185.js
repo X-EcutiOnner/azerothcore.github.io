@@ -1,7 +1,29 @@
 var a20185 =
 [
-    [ "HandleEffectRemove", "dc/d22/a20185.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "dc/d22/a20185.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "dc/d22/a20185.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "dc/d22/a20185.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "boss_algalon_the_observer", "dc/d22/a20185.html#a245eb1b0814cca589e07320dea7e236b", null ],
+    [ "AttackStart", "dc/d22/a20185.html#af61dc178b3c0f5757d5dfce067b5d07f", null ],
+    [ "CallConstellations", "dc/d22/a20185.html#ad5851cc0f7fc5a7dcfd9986b6b26579a", null ],
+    [ "DamageTaken", "dc/d22/a20185.html#abbd0be74c681da6606d79a1b6a210ffa", null ],
+    [ "DoAction", "dc/d22/a20185.html#ab9deffb6af78a88e000b206632e801f9", null ],
+    [ "DoCheckHeraldOfTheTitans", "dc/d22/a20185.html#a05ae39332df494cd98c60d54211510fc", null ],
+    [ "EnterEvadeMode", "dc/d22/a20185.html#a77920c90e56ecc8166085690e4daced0", null ],
+    [ "FailEncounter", "dc/d22/a20185.html#ab42f51740da894481df59b4bbb7f8b89", null ],
+    [ "GetData", "dc/d22/a20185.html#ae8b810a6495b7c2fb8bba59252655b76", null ],
+    [ "IsInRoom", "dc/d22/a20185.html#ae1f987efb9b167719520ff9e560da568", null ],
+    [ "IsValidHeraldItem", "dc/d22/a20185.html#ad30f5828be9d38a9473b93ff780a196d", null ],
+    [ "JustEngagedWith", "dc/d22/a20185.html#a6b0408e45fda19e394c7f59032c9b660", null ],
+    [ "JustReachedHome", "dc/d22/a20185.html#a2ea08602c55f3bca4a6d39eb6ccb1f53", null ],
+    [ "JustSummoned", "dc/d22/a20185.html#a969adb280ab53ffec6d7b3f3fa1cb2cc", null ],
+    [ "KilledUnit", "dc/d22/a20185.html#aa1a53d920464a31a22612e5463187da0", null ],
+    [ "MovementInform", "dc/d22/a20185.html#aca6ba41d820682a7af80d5f6e492bd80", null ],
+    [ "Reset", "dc/d22/a20185.html#ad2bdc1d3cd5fbbda4cf0c504b6c024b7", null ],
+    [ "UpdateAI", "dc/d22/a20185.html#a049475d557c3d6269fa0d34210072890", null ],
+    [ "_fedOnTears", "dc/d22/a20185.html#a9523f5eb6a9465f8ffcd7c8abf2c6c87", null ],
+    [ "_fightWon", "dc/d22/a20185.html#a01a09a0b57378f01faa7c9a28c7fbe15", null ],
+    [ "_firstPull", "dc/d22/a20185.html#afff79a02e3ac0a6755e071589d3616e9", null ],
+    [ "_heraldOfTheTitans", "dc/d22/a20185.html#ace0156d62013cf93afb9eda7ce511570", null ],
+    [ "_instance", "dc/d22/a20185.html#abd66b84088263188a45f62a0ca285e22", null ],
+    [ "_phaseTwo", "dc/d22/a20185.html#aa291c5d670ba6e69fa7c6cf4cf899e41", null ],
+    [ "events", "dc/d22/a20185.html#aed6084e6c8f289905675d0c908653855", null ],
+    [ "summons", "dc/d22/a20185.html#a8f4703505b8f00327fe0405c1d7010eb", null ]
 ];

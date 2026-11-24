@@ -1,12 +1,11 @@
 var a17441 =
 [
-    [ "boss_marwyn", "d6/de0/a17441.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd", null ],
-    [ "DoAction", "d6/de0/a17441.html#a7bd848b407d33942f05b48b6284506bb", null ],
-    [ "EnterEvadeMode", "d6/de0/a17441.html#a93849e995d62ba5a220e08157d8758fa", null ],
-    [ "JustDied", "d6/de0/a17441.html#a89fd620d0e74675d671cb69cc917d024", null ],
-    [ "JustEngagedWith", "d6/de0/a17441.html#a038ed3e1a8c9f3f3bc7f7eca584ad5cd", null ],
-    [ "KilledUnit", "d6/de0/a17441.html#aad4dd7a1fb79c704c7e59581f938d2e9", null ],
-    [ "Reset", "d6/de0/a17441.html#a0e25c5d894b7e20c6a1781410847c1fa", null ],
-    [ "UpdateAI", "d6/de0/a17441.html#ae8d1b8908983af8bff1f13641472817f", null ],
-    [ "_startingFight", "d6/de0/a17441.html#aee335b57c5249ecd4ce843e0f1694e80", null ]
+    [ "npc_shadowy_mercenary", "d6/de0/a17441.html#ae4e26a15f7ee0ba768a5ad6c18c8bc40", null ],
+    [ "AttackStart", "d6/de0/a17441.html#a2851972b1fa6e3de4f79433e1308dd11", null ],
+    [ "DoAction", "d6/de0/a17441.html#afba6e6565c04fe0b325a1ecf9d65ae80", null ],
+    [ "EnterEvadeMode", "d6/de0/a17441.html#a71290c72bff2a91d7c5cc8d661f28bf9", null ],
+    [ "JustDied", "d6/de0/a17441.html#a88cde525eb5d8db9fb2ffc30f18ddf61", null ],
+    [ "JustEngagedWith", "d6/de0/a17441.html#aab9ac47fa72e7a7a6941aad190a18ebb", null ],
+    [ "Reset", "d6/de0/a17441.html#aeedf803d4d6747ef505c11bb035c2c05", null ],
+    [ "UpdateAI", "d6/de0/a17441.html#af36c113ac34b5e2db382c6d5f9d546e4", null ]
 ];

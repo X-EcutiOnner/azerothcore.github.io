@@ -1,13 +1,8 @@
 var a17437 =
 [
-    [ "boss_falric", "da/d04/a17437.html#ad157b74477a84d13ab1a5bd5d9275d17", null ],
-    [ "DoAction", "da/d04/a17437.html#a9acd7854d725b07df53ae60538df27b1", null ],
-    [ "EnterEvadeMode", "da/d04/a17437.html#addda2f3fe13801f533069c8e5b83cdbd", null ],
-    [ "JustDied", "da/d04/a17437.html#a4ade4a16095031988e2ae50602cd0da8", null ],
-    [ "JustEngagedWith", "da/d04/a17437.html#a68c6b3012bbb1e7542c9b4db2f596463", null ],
-    [ "KilledUnit", "da/d04/a17437.html#aa53d57dee3482ac2d186ecfdf4fa232d", null ],
-    [ "Reset", "da/d04/a17437.html#aa8c392ab5c6463e4061e381d2a6586ab", null ],
-    [ "UpdateAI", "da/d04/a17437.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a", null ],
-    [ "_hopelessnessCount", "da/d04/a17437.html#aaf36f9748993381c39b6b26bdfa33dca", null ],
-    [ "_startingFight", "da/d04/a17437.html#a099280eb7f2b40df3fbecfa9fe35fac4", null ]
+    [ "npc_phantom_hallucination", "da/d04/a17437.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
+    [ "EnterEvadeMode", "da/d04/a17437.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
+    [ "JustDied", "da/d04/a17437.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
+    [ "UpdateAI", "da/d04/a17437.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
+    [ "numOfUpd", "da/d04/a17437.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
 ];

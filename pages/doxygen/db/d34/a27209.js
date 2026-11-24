@@ -1,6 +1,6 @@
 var a27209 =
 [
-    [ "CheckDummy", "db/d34/a27209.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
-    [ "PrepareAuraScript", "db/d34/a27209.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
-    [ "Register", "db/d34/a27209.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
+    [ "CheckCast", "db/d34/a27209.html#a624ee45c92b37da12204dcc95dc815ca", null ],
+    [ "PrepareSpellScript", "db/d34/a27209.html#acdbb427ed3ebe9e2b8089a5bb50489a9", null ],
+    [ "Register", "db/d34/a27209.html#abc4e276c4759bad63b692a467f2f88f2", null ]
 ];

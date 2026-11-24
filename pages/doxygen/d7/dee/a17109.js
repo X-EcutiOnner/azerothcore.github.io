@@ -1,7 +1,8 @@
 var a17109 =
 [
-    [ "npc_toc_enh_shamanAI", "d7/dee/a17109.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "d7/dee/a17109.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "d7/dee/a17109.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "d7/dee/a17109.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "npc_fel_infernal", "d7/dee/a17109.html#a4d8f956193efd148948b48892fb47240", null ],
+    [ "EnterEvadeMode", "d7/dee/a17109.html#a3a8ed8a9636f1002de3ef896575e033d", null ],
+    [ "JustDied", "d7/dee/a17109.html#ac4dbf210111940e8e88b4112252d1a61", null ],
+    [ "Reset", "d7/dee/a17109.html#a5618a5a696352d802bc1ec200768bd4f", null ],
+    [ "UpdateAI", "d7/dee/a17109.html#a06f75ff314cd55b307f5c00a6254b409", null ]
 ];

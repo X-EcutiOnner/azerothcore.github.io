@@ -1,6 +1,6 @@
 var a17789 =
 [
-    [ "instance_gundrak_InstanceMapScript", "d1/dc1/a17793.html", "d1/dc1/a17793" ],
-    [ "instance_gundrak", "dc/ddb/a17789.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
-    [ "GetInstanceScript", "dc/ddb/a17789.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
+    [ "boss_prince_taldaramAI", "d1/dc1/a17793.html", "d1/dc1/a17793" ],
+    [ "boss_prince_taldaram_icc", "dc/ddb/a17789.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "dc/ddb/a17789.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

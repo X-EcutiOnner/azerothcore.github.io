@@ -1,6 +1,8 @@
 var a19217 =
 [
-    [ "npc_frostwing_vrykulAI", "db/d63/a19221.html", "db/d63/a19221" ],
-    [ "npc_frostwing_vrykul", "de/d47/a19217.html#ab915aa094ddebd9201a1c626e6427409", null ],
-    [ "GetAI", "de/d47/a19217.html#a11678e59b6db9a41c7b6a575339995fd", null ]
+    [ "npc_arthas_teleport_visualAI", "de/d47/a19217.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "de/d47/a19217.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "de/d47/a19217.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "de/d47/a19217.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "de/d47/a19217.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

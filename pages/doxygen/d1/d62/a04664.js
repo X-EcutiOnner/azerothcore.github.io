@@ -1,8 +1,8 @@
 var a04664 =
 [
-    [ "boss_ionar", "db/d02/a20081.html", "db/d02/a20081" ],
-    [ "npc_spark_of_ionar", "d6/dca/a20085.html", "d6/dca/a20085" ],
-    [ "spell_ionar_static_overload", "d1/d16/a20089.html", "d1/d16/a20089" ],
+    [ "boss_ionar", "d8/dd2/a20061.html", "d8/dd2/a20061" ],
+    [ "npc_spark_of_ionar", "d4/dfa/a20065.html", "d4/dfa/a20065" ],
+    [ "spell_ionar_static_overload", "d7/d86/a20069.html", "d7/d86/a20069" ],
     [ "IonarEvents", "d1/d62/a04664.html#a55c0c07978cfe70c0de268fffe25dc01", [
       [ "EVENT_BALL_LIGHTNING", "d1/d62/a04664.html#a55c0c07978cfe70c0de268fffe25dc01a78c3786c67000c32de404a9427b52b06", null ],
       [ "EVENT_STATIC_OVERLOAD", "d1/d62/a04664.html#a55c0c07978cfe70c0de268fffe25dc01ae3a111aaab2ee8146af4226e5480bd76", null ],
@@ -212,6 +212,7 @@ var a04664 =
       [ "SAY_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b", null ],
       [ "SAY_DEATH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "EMOTE_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
+      [ "EMOTE_TOUCH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a21153f10565e5f32475502bd21b079bd", null ],
       [ "SAY_AGGRO", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_KILL", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5", null ],
       [ "SAY_DEATH", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],

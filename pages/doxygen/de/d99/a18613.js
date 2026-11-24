@@ -1,6 +1,5 @@
 var a18613 =
 [
-    [ "FilterTargets", "de/d99/a18613.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
-    [ "PrepareSpellScript", "de/d99/a18613.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
-    [ "Register", "de/d99/a18613.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
+    [ "operator()", "de/d99/a18613.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
+    [ "operator()", "de/d99/a18613.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
 ];

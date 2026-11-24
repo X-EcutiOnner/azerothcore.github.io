@@ -1,7 +1,7 @@
 var a22545 =
 [
-    [ "HandleOnEffectHit", "db/ded/a22545.html#a909ec44339061a114697cacee5fba5b2", null ],
-    [ "PrepareSpellScript", "db/ded/a22545.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
-    [ "Register", "db/ded/a22545.html#aa241c97b4e895d07fe89d03edca29912", null ],
-    [ "Validate", "db/ded/a22545.html#aa84f4c29ca00789bb47661267549cda6", null ]
+    [ "HandleScript", "db/ded/a22545.html#ad38771460ddf0f95783718775690d1f0", null ],
+    [ "PrepareSpellScript", "db/ded/a22545.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
+    [ "Register", "db/ded/a22545.html#a3ba23fd54c35c2d2866db647811c948d", null ],
+    [ "Validate", "db/ded/a22545.html#a6a58808356785c25032c2befd429ff2b", null ]
 ];

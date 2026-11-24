@@ -1,12 +1,15 @@
 var a21653 =
 [
-    [ "boss_xevozz", "dc/df9/a21653.html#aea402ffbe689ca65e29b30899862a8bc", null ],
-    [ "EnterEvadeMode", "dc/df9/a21653.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
-    [ "ExecuteEvent", "dc/df9/a21653.html#af5b37fc643f2b22468a38655fce63d25", null ],
-    [ "JustDied", "dc/df9/a21653.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
-    [ "JustEngagedWith", "dc/df9/a21653.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
-    [ "JustSummoned", "dc/df9/a21653.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
-    [ "KilledUnit", "dc/df9/a21653.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
-    [ "MoveInLineOfSight", "dc/df9/a21653.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
-    [ "SummonedCreatureDespawn", "dc/df9/a21653.html#a1493a5acdfcca7d01446564db622239e", null ]
+    [ "npc_vh_teleportation_portal", "dc/df9/a21653.html#ae4ed2aebf39ab2593c07ba3098341c91", null ],
+    [ "JustDied", "dc/df9/a21653.html#af86eefc8c9e4187e52c4dd88c41cbc38", null ],
+    [ "JustSummoned", "dc/df9/a21653.html#ad3606d29d814232a492e9e3e85048bd7", null ],
+    [ "SummonedMobDied", "dc/df9/a21653.html#aa58672b2022e44b90adc8bf331ee84fc", null ],
+    [ "UpdateAI", "dc/df9/a21653.html#a3bb6021855bed917fdd2ef47f8ddca29", null ],
+    [ "_addValue", "dc/df9/a21653.html#ad71dd5636c683cfac15423375c0dcc6d", null ],
+    [ "_events", "dc/df9/a21653.html#a1eb415b24f794c8cbb0d01084eb09669", null ],
+    [ "_instance", "dc/df9/a21653.html#acf09515827ae926fe83ffc87a7e35ac5", null ],
+    [ "_isKeeperOrGuardian", "dc/df9/a21653.html#a7483553634133f980929aaeef39bd6a6", null ],
+    [ "_listOfMobs", "dc/df9/a21653.html#a8856350d299bfb25a4e77bb8753afa14", null ],
+    [ "_spawned", "dc/df9/a21653.html#ac89ccf4030e5dffe15d0b24b991176de", null ],
+    [ "_wave", "dc/df9/a21653.html#a0d82b870a2f6bc0de62502f02fd8c1b4", null ]
 ];

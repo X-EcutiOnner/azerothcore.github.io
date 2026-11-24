@@ -1,6 +1,7 @@
 var a21769 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d3/dd4/a21773.html", "d3/dd4/a21773" ],
-    [ "npc_imprisoned_beryl_sorcerer", "d9/dcc/a21769.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
-    [ "GetAI", "d9/dcc/a21769.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d9/dcc/a21769.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "d9/dcc/a21769.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "d9/dcc/a21769.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "d9/dcc/a21769.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

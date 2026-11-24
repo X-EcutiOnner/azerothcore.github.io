@@ -1,6 +1,7 @@
 var a22185 =
 [
-    [ "npc_attracted_reef_bullAI", "df/da3/a22189.html", "df/da3/a22189" ],
-    [ "npc_attracted_reef_bull", "d2/d4b/a22185.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
-    [ "GetAI", "d2/d4b/a22185.html#af705e2768cd41c955af7f944c670ac85", null ]
+    [ "HandleScriptEffect", "d2/d4b/a22185.html#a7b0fca053f225beda41942d8fee86383", null ],
+    [ "PrepareSpellScript", "d2/d4b/a22185.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
+    [ "Register", "d2/d4b/a22185.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
+    [ "Validate", "d2/d4b/a22185.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
 ];

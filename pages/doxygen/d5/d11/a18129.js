@@ -1,6 +1,6 @@
 var a18129 =
 [
-    [ "npc_igb_ship_crewAI", "d5/d11/a18129.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "d5/d11/a18129.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "d5/d11/a18129.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "npc_gunship_boarding_add_realAI", "d5/d11/a18129.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
+    [ "UpdateAI", "d5/d11/a18129.html#a33ac355c8f61907574a0736a24cbee82", null ],
+    [ "_events", "d5/d11/a18129.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
 ];

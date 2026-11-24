@@ -1,13 +1,6 @@
 var a19433 =
 [
-    [ "npc_icc_spire_frostwyrm", "da/da6/a19433.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
-    [ "CanAIAttack", "da/da6/a19433.html#ab3364130aacf675602317651a244ae2c", null ],
-    [ "DoAction", "da/da6/a19433.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
-    [ "JustEngagedWith", "da/da6/a19433.html#abfc762cea6b7e40aaaff50b933410127", null ],
-    [ "JustReachedHome", "da/da6/a19433.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
-    [ "MovementInform", "da/da6/a19433.html#a8e7f148580d91d42959e972ef18b271b", null ],
-    [ "Reset", "da/da6/a19433.html#a572add30e78af15a8d5d6918169802da", null ],
-    [ "UpdateAI", "da/da6/a19433.html#ad193a9355e11ea25792e6285d375a488", null ],
-    [ "_canResetFlyingEffects", "da/da6/a19433.html#a262d843fcb13a444ae377729135ca14d", null ],
-    [ "_scheduler", "da/da6/a19433.html#a822096df7b1803d92e05ca27d544bd26", null ]
+    [ "npc_icc_gauntlet_controllerAI", "d6/d4a/a19437.html", "d6/d4a/a19437" ],
+    [ "npc_icc_gauntlet_controller", "da/da6/a19433.html#a5fc4c941842e25bc3da93686e588627b", null ],
+    [ "GetAI", "da/da6/a19433.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
 ];

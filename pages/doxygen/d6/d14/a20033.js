@@ -1,7 +1,6 @@
 var a20033 =
 [
-    [ "CalcDamage", "d6/d14/a20033.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "d6/d14/a20033.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "d6/d14/a20033.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "d6/d14/a20033.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "HandlePeriodic", "d6/d14/a20033.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
+    [ "PrepareAuraScript", "d6/d14/a20033.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
+    [ "Register", "d6/d14/a20033.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
 ];

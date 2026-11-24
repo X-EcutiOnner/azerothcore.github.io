@@ -1,6 +1,7 @@
 var a17317 =
 [
-    [ "boss_tharon_jaAI", "de/d8c/a17321.html", "de/d8c/a17321" ],
-    [ "boss_tharon_ja", "da/d45/a17317.html#ac34f8f33ea75dc0107222d3720788f7a", null ],
-    [ "GetAI", "da/d45/a17317.html#ab24612418cb66ed0c1e64fba5ebaa50f", null ]
+    [ "HandleScriptEffect", "da/d45/a17317.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "da/d45/a17317.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "da/d45/a17317.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "da/d45/a17317.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

@@ -1,7 +1,6 @@
 var a17781 =
 [
-    [ "HandlePeriodic", "dd/d3d/a17781.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "dd/d3d/a17781.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "dd/d3d/a17781.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "dd/d3d/a17781.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "boss_prince_kelesethAI", "d9/d94/a17785.html", "d9/d94/a17785" ],
+    [ "boss_prince_keleseth_icc", "dd/d3d/a17781.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "dd/d3d/a17781.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

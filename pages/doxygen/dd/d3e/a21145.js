@@ -1,9 +1,16 @@
 var a21145 =
 [
-    [ "boss_yoggsaron_corruptor_tentacle", "dd/d3e/a21145.html#afc092be8079630b1214c98b8896a22c3", null ],
-    [ "DoAction", "dd/d3e/a21145.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
-    [ "JustEngagedWith", "dd/d3e/a21145.html#a9f4f2791d8a65303332fead986dfb377", null ],
-    [ "Reset", "dd/d3e/a21145.html#aaa49aab0068c520a6039b7ea9c19aa20", null ],
-    [ "SelectCorruptionTarget", "dd/d3e/a21145.html#a8b868941372af612e269e013594a5c14", null ],
-    [ "UpdateAI", "dd/d3e/a21145.html#a14ae968505923f98ee6b29f608b11fa4", null ]
+    [ "boss_yoggsaron_immortal_guardian", "dd/d3e/a21145.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "dd/d3e/a21145.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "EngageFromStasis", "dd/d3e/a21145.html#af9717bb7058b8a51dd30dc9edacd66e7", null ],
+    [ "JustEngagedWith", "dd/d3e/a21145.html#a7583d6058cf805fa1c36cd98b9e9e7d2", null ],
+    [ "MoveInLineOfSight", "dd/d3e/a21145.html#acbf73ba53c74b1e663eccb6866828134", null ],
+    [ "Reset", "dd/d3e/a21145.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "dd/d3e/a21145.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "dd/d3e/a21145.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spawnStasis", "dd/d3e/a21145.html#a7de7c5e60cc888d5729273e63495e382", null ],
+    [ "DRAIN_LIFE_HEALTH_CHECK", "dd/d3e/a21145.html#afc8d67d6a482a20638e17d30b58c5c8b", null ],
+    [ "DRAIN_LIFE_INTERVAL", "dd/d3e/a21145.html#a1a4c5a3f9261b4da86f9bc0476216dee", null ],
+    [ "SPAWN_STASIS_TIME", "dd/d3e/a21145.html#a5d8549b48c63168c205d5e126209ee66", null ],
+    [ "SPAWN_VISUAL_DELAY", "dd/d3e/a21145.html#a0db02bb21ba048c236a432421c009250", null ]
 ];

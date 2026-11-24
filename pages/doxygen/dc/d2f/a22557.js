@@ -1,6 +1,7 @@
 var a22557 =
 [
-    [ "HandleScript", "dc/d2f/a22557.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "dc/d2f/a22557.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "dc/d2f/a22557.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "HandleDummy", "dc/d2f/a22557.html#acdf98990ad575fec751a541cac3bcffa", null ],
+    [ "PrepareSpellScript", "dc/d2f/a22557.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
+    [ "Register", "dc/d2f/a22557.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
+    [ "Validate", "dc/d2f/a22557.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
 ];

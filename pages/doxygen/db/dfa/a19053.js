@@ -1,11 +1,8 @@
 var a19053 =
 [
-    [ "npc_valithria_cloudAI", "db/dfa/a19053.html#a5b550d0154f302cecc509fbd868a53bb", null ],
-    [ "AttackStart", "db/dfa/a19053.html#a5835d5ba19e1480016e585c1e49489c9", null ],
-    [ "EnterEvadeMode", "db/dfa/a19053.html#a346fd998d41451d7d1e605afdb13b65c", null ],
-    [ "MoveInLineOfSight", "db/dfa/a19053.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
-    [ "Reset", "db/dfa/a19053.html#abca34d7285ef23c062006df8f8ae6d53", null ],
-    [ "UpdateAI", "db/dfa/a19053.html#a6908f5731915bf7d15bb4921c960aa30", null ],
-    [ "_events", "db/dfa/a19053.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
-    [ "_instance", "db/dfa/a19053.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
+    [ "npc_blistering_zombieAI", "db/dfa/a19053.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "db/dfa/a19053.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "db/dfa/a19053.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "db/dfa/a19053.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "db/dfa/a19053.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

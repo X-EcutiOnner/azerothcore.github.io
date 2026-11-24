@@ -1,7 +1,8 @@
 var a22097 =
 [
-    [ "npc_emilyAI", "d1/d2a/a22101.html", "d1/d2a/a22101" ],
-    [ "npc_emily", "d1/d9f/a22097.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "d1/d9f/a22097.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "d1/d9f/a22097.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "npc_ravenous_worgAI", "d1/d9f/a22097.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d1/d9f/a22097.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d1/d9f/a22097.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d1/d9f/a22097.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d1/d9f/a22097.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

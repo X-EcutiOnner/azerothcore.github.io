@@ -1,9 +1,7 @@
 var a17633 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d7/d3f/a17633.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
-    [ "SpellHitTarget", "d7/d3f/a17633.html#aea107ede3b11726b3f7caae590edaf52", null ],
-    [ "UpdateAI", "d7/d3f/a17633.html#ade416a422e67ce61e8874320cce7143b", null ],
-    [ "pInstance", "d7/d3f/a17633.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
-    [ "timer1", "d7/d3f/a17633.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
-    [ "timer2", "d7/d3f/a17633.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
+    [ "HandleEffectPeriodic", "d7/d3f/a17633.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
+    [ "PrepareAuraScript", "d7/d3f/a17633.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
+    [ "Register", "d7/d3f/a17633.html#a5a44978cec95fef30c9ea4308bda2508", null ],
+    [ "Validate", "d7/d3f/a17633.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
 ];

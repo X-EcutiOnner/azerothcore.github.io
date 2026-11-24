@@ -1,8 +1,7 @@
 var a23117 =
 [
-    [ "boss_mother_shahraz", "de/d9a/a23117.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "de/d9a/a23117.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "de/d9a/a23117.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "de/d9a/a23117.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "de/d9a/a23117.html#ab9e4162ac92e786b84b6497c37251386", null ]
+    [ "CheckProc", "de/d9a/a23117.html#a0968b7b32f2d2bef6035e030f544088a", null ],
+    [ "PrepareAuraScript", "de/d9a/a23117.html#ac424e41948196a6e60b790ebcf40783f", null ],
+    [ "Register", "de/d9a/a23117.html#a06bdac68e36b43ee534e937ffd974086", null ],
+    [ "Update", "de/d9a/a23117.html#af6c228840f6af96e353ba964fdd01e54", null ]
 ];

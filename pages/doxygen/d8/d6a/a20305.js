@@ -1,6 +1,12 @@
 var a20305 =
 [
-    [ "achievement_assembly_of_iron", "d8/d6a/a20305.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "d8/d6a/a20305.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "d8/d6a/a20305.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "npc_auriaya_feral_defender", "d8/d6a/a20305.html#a84425204b0ad06789edb331ed8495774", null ],
+    [ "DamageTaken", "d8/d6a/a20305.html#aaebbf27345a546bf66e4ab7ed8eae556", null ],
+    [ "DoAction", "d8/d6a/a20305.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
+    [ "JustDied", "d8/d6a/a20305.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
+    [ "JustEngagedWith", "d8/d6a/a20305.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
+    [ "JustSummoned", "d8/d6a/a20305.html#acea3175bcd4df4cf88dc9561c01bee64", null ],
+    [ "Reset", "d8/d6a/a20305.html#a02b09b7dfdd4036827bb474a57296491", null ],
+    [ "UpdateAI", "d8/d6a/a20305.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
+    [ "_summons", "d8/d6a/a20305.html#a0b7960f590ba76068c377cf08291ce35", null ]
 ];

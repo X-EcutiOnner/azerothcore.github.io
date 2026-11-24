@@ -1,12 +1,7 @@
 var a20893 =
 [
-    [ "npc_razorscale_harpoon_fire_state", "d2/d5a/a20893.html#a5bcb95382dc80bae1f4f05c306fb52bf", null ],
-    [ "DoAction", "d2/d5a/a20893.html#aa7a12bae703c1a7d215dc0181f9ad532", null ],
-    [ "GetData", "d2/d5a/a20893.html#ae552669fbd1a66a457cc30a2ed13c8fd", null ],
-    [ "RemovePart", "d2/d5a/a20893.html#a94b0d5a0d04b78633fc6fb354392649c", null ],
-    [ "Reset", "d2/d5a/a20893.html#aad5f2d32fffaacec3485b0743f4267aa", null ],
-    [ "_gunGUID", "d2/d5a/a20893.html#a28aa10fbd9bf6c14c69c49bc2b038934", null ],
-    [ "_index", "d2/d5a/a20893.html#a6d41e56fe86b818a78188bbd58b4a702", null ],
-    [ "_propGUID", "d2/d5a/a20893.html#aee12db66c438a5f4e798fe7a51bc4156", null ],
-    [ "_repairProgress", "d2/d5a/a20893.html#af1c14d6762f9fc9f3a78f040a544bde4", null ]
+    [ "go_razorscale_harpoonAI", "d3/d29/a20897.html", "d3/d29/a20897" ],
+    [ "go_razorscale_harpoon", "d2/d5a/a20893.html#a68e5414333ca5ed4ec2de2da5f1756d4", null ],
+    [ "GetAI", "d2/d5a/a20893.html#a89a25716733ed0f589ce50eab8466453", null ],
+    [ "OnGossipHello", "d2/d5a/a20893.html#ac6ea67384010725c56daab8c4f58c7ff", null ]
 ];

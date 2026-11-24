@@ -1,6 +1,6 @@
 var a21233 =
 [
-    [ "ModSanityStacks", "d0/dcd/a21233.html#a38b8425689f91b91e23096d658b462cf", null ],
-    [ "PrepareSpellScript", "d0/dcd/a21233.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
-    [ "Register", "d0/dcd/a21233.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
+    [ "CheckCast", "d0/dcd/a21233.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "d0/dcd/a21233.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "d0/dcd/a21233.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

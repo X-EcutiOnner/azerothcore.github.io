@@ -1,6 +1,8 @@
 var a21009 =
 [
-    [ "OnPeriodic", "df/d91/a21009.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "df/d91/a21009.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "df/d91/a21009.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "npc_scrapbot", "df/d91/a21009.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
+    [ "Reset", "df/d91/a21009.html#a2dca509a6e2b46674165e5559717f69c", null ],
+    [ "UpdateAI", "df/d91/a21009.html#ade90c75baf598900adaa300cef28cb6a", null ],
+    [ "_instance", "df/d91/a21009.html#afb8296b4d9105ee99abc534656289ae2", null ],
+    [ "_scheduler", "df/d91/a21009.html#a4deb841588ea244e4290bb8ffb69b483", null ]
 ];

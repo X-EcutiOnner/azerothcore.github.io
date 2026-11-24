@@ -205,13 +205,13 @@ Static Public Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  265</span> </div>
 <div class="line"><span class="lineno">  266</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> pair = bounds.first; pair != bounds.second; ++pair)</div>
 <div class="line"><span class="lineno">  267</span>        {</div>
-<div class="line"><span class="lineno">  268</span>            <a class="code hl_struct" href="../../d2/d94/a29561.html">SkillLineEntry</a> <span class="keyword">const</span>* skill = <a class="code hl_variable" href="../../d9/dce/a00944.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a>.LookupEntry(pair-&gt;second-&gt;SkillLine);</div>
+<div class="line"><span class="lineno">  268</span>            <a class="code hl_struct" href="../../d4/d18/a29553.html">SkillLineEntry</a> <span class="keyword">const</span>* skill = <a class="code hl_variable" href="../../d9/dce/a00944.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a>.LookupEntry(pair-&gt;second-&gt;SkillLine);</div>
 <div class="line"><span class="lineno">  269</span>            <span class="keywordflow">if</span> (!skill)</div>
 <div class="line"><span class="lineno">  270</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  271</span> </div>
 <div class="line"><span class="lineno">  272</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/dee/a00383.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d9/de6/a00404.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
 <div class="line"><span class="lineno">  273</span>            {</div>
-<div class="line"><span class="lineno">  274</span>                std::string_view skillName = skill-&gt;<a class="code hl_variable" href="../../d2/d94/a29561.html#afb5e77ab4f6faa132ca62f7664dce116">name</a>[i];</div>
+<div class="line"><span class="lineno">  274</span>                std::string_view skillName = skill-&gt;<a class="code hl_variable" href="../../d4/d18/a29553.html#afb5e77ab4f6faa132ca62f7664dce116">name</a>[i];</div>
 <div class="line"><span class="lineno">  275</span>                std::string_view spellName = info-&gt;SpellName[i];</div>
 <div class="line"><span class="lineno">  276</span>                <span class="comment">// alternate form [Skill Name: Spell Name]</span></div>
 <div class="line"><span class="lineno">  277</span>                <span class="keywordflow">if</span> ((text.length() == (skillName.length() + 2 + spellName.length())) &amp;&amp;</div>
@@ -229,8 +229,8 @@ Static Public Member Functions</h2></td></tr>
 <div class="ttc" id="aa00890_html_ac821b7d2d8a9effd8fafef038528e877"><div class="ttname"><a href="../../d7/d46/a00890.html#ac821b7d2d8a9effd8fafef038528e877">SkillLineAbilityMapBounds</a></div><div class="ttdeci">std::pair&lt; SkillLineAbilityMap::const_iterator, SkillLineAbilityMap::const_iterator &gt; SkillLineAbilityMapBounds</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:595</div></div>
 <div class="ttc" id="aa00944_html_ab4bb35cde6511a56d8b9d23f4290f8e7"><div class="ttname"><a href="../../d9/dce/a00944.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a></div><div class="ttdeci">DBCStorage&lt; SkillLineEntry &gt; sSkillLineStore(SkillLinefmt)</div></div>
 <div class="ttc" id="aa08217_html"><div class="ttname"><a href="../../d2/daf/a08217.html">LinkValidator</a></div><div class="ttdef"><b>Definition:</b> Hyperlinks.cpp:118</div></div>
-<div class="ttc" id="aa29561_html"><div class="ttname"><a href="../../d2/d94/a29561.html">SkillLineEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1619</div></div>
-<div class="ttc" id="aa29561_html_afb5e77ab4f6faa132ca62f7664dce116"><div class="ttname"><a href="../../d2/d94/a29561.html#afb5e77ab4f6faa132ca62f7664dce116">SkillLineEntry::name</a></div><div class="ttdeci">char const  * name[16]</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1623</div></div>
+<div class="ttc" id="aa29553_html"><div class="ttname"><a href="../../d4/d18/a29553.html">SkillLineEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1619</div></div>
+<div class="ttc" id="aa29553_html_afb5e77ab4f6faa132ca62f7664dce116"><div class="ttname"><a href="../../d4/d18/a29553.html#afb5e77ab4f6faa132ca62f7664dce116">SkillLineEntry::name</a></div><div class="ttdeci">char const  * name[16]</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1623</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l01623">SkillLineEntry::name</a>, <a class="el" href="../../#l00407">SpellInfo::SpellName</a>, <a class="el" href="../../d9/dce/a00944.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a>, <a class="el" href="../../#l00851">sSpellMgr</a>, and <a class="el" href="../../#l00137">TOTAL_LOCALES</a>.</p>
 
@@ -242,7 +242,7 @@ Static Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d1b/a08237.html">LinkValidator&lt; LinkTags::enchant &gt;</a></li>
-    <li class="footer">Generated on Tue Nov 17 2026 03:06:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Nov 24 2026 04:58:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

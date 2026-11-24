@@ -1,6 +1,6 @@
 var a17009 =
 [
-    [ "npc_toc_druidAI", "d2/dda/a17013.html", "d2/dda/a17013" ],
-    [ "npc_toc_druid", "df/d33/a17009.html#a07321d5ee164b8e47f652f9bad65216b", null ],
-    [ "GetAI", "df/d33/a17009.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
+    [ "npc_toc_warlockAI", "d2/dda/a17013.html", "d2/dda/a17013" ],
+    [ "npc_toc_warlock", "df/d33/a17009.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "df/d33/a17009.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

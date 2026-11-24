@@ -1,7 +1,7 @@
 var a04688 =
 [
-    [ "boss_maiden_of_grief", "d4/d32/a20137.html", "d4/d32/a20137" ],
-    [ "boss_maiden_of_grief::boss_maiden_of_griefAI", "d4/d5f/a20141.html", "d4/d5f/a20141" ],
+    [ "boss_maiden_of_grief", "d1/da9/a20117.html", "d1/da9/a20117" ],
+    [ "boss_maiden_of_grief::boss_maiden_of_griefAI", "d8/d3b/a20121.html", "d8/d3b/a20121" ],
     [ "maidenEvents", "df/d72/a04688.html#aea422c10a74cba6e6b02928aed3498fa", [
       [ "EVENT_NONE", "df/d72/a04688.html#aea422c10a74cba6e6b02928aed3498faa939a6cc6d749a232a23ff324dca6d48c", null ],
       [ "EVENT_STORM", "df/d72/a04688.html#aea422c10a74cba6e6b02928aed3498faab8f407096c5f3f605cb87401cd5dd01e", null ],
@@ -218,6 +218,7 @@ var a04688 =
       [ "SAY_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b", null ],
       [ "SAY_DEATH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "EMOTE_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
+      [ "EMOTE_TOUCH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a21153f10565e5f32475502bd21b079bd", null ],
       [ "SAY_AGGRO", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_KILL", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5", null ],
       [ "SAY_DEATH", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],

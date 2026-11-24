@@ -1,7 +1,6 @@
 var a19365 =
 [
-    [ "HandleEffectPeriodic", "dd/dd2/a19365.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "dd/dd2/a19365.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "dd/dd2/a19365.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "dd/dd2/a19365.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "da/da4/a19369.html", "da/da4/a19369" ],
+    [ "npc_icc_skybreaker_marksman", "dd/dd2/a19365.html#a1d870b78e1acf2d17782265e28698d1c", null ],
+    [ "GetAI", "dd/dd2/a19365.html#a374017d37da15705d51ab8edc75683ff", null ]
 ];

@@ -1,7 +1,8 @@
 var a24325 =
 [
-    [ "npc_kurenai_captiveAI", "dc/dc0/a24329.html", "dc/dc0/a24329" ],
-    [ "npc_kurenai_captive", "db/d98/a24325.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
-    [ "GetAI", "db/d98/a24325.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
-    [ "OnQuestAccept", "db/d98/a24325.html#a5e87cd850d0fc6272d89dd3c7901af5f", null ]
+    [ "npc_captain_saeedAI", "dc/dc0/a24329.html", "dc/dc0/a24329" ],
+    [ "npc_captain_saeed", "db/d98/a24325.html#a8a5bee9f908b10451b8d4720dff85670", null ],
+    [ "GetAI", "db/d98/a24325.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
+    [ "OnGossipHello", "db/d98/a24325.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
+    [ "OnGossipSelect", "db/d98/a24325.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
 ];

@@ -1,6 +1,6 @@
 var a19213 =
 [
-    [ "npc_captain_rupertAI", "d6/d84/a19213.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "d6/d84/a19213.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "d6/d84/a19213.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "npc_arthas_teleport_visualAI", "de/d47/a19217.html", "de/d47/a19217" ],
+    [ "npc_arthas_teleport_visual", "d6/d84/a19213.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "d6/d84/a19213.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

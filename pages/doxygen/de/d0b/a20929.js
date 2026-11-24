@@ -1,6 +1,5 @@
 var a20929 =
 [
-    [ "HandleHit", "de/d0b/a20929.html#adbb57403c65e84ab217788ee3a9261b7", null ],
-    [ "PrepareSpellScript", "de/d0b/a20929.html#a324717ff0843627151dd23fe565a80ab", null ],
-    [ "Register", "de/d0b/a20929.html#a30c67c5c533add48412d6a9e1f6fc6b0", null ]
+    [ "achievement_iron_dwarf_medium_rare", "de/d0b/a20929.html#afb3716aab7693ba0493db24999e4b1ee", null ],
+    [ "OnCheck", "de/d0b/a20929.html#aabef3a345057265ac70c6cc0c98d552d", null ]
 ];

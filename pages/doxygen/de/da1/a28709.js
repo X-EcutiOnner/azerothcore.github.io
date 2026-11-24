@@ -1,7 +1,6 @@
 var a28709 =
 [
-    [ "npc_riggle_bassbaitAI", "de/da1/a28709.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "de/da1/a28709.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "de/da1/a28709.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "de/da1/a28709.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "npc_target_dummy", "de/da1/a28709.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
+    [ "Reset", "de/da1/a28709.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
+    [ "UpdateAI", "de/da1/a28709.html#a32e9e139a54375b336c112deee3687cd", null ]
 ];

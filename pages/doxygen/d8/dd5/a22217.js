@@ -1,7 +1,13 @@
 var a22217 =
 [
-    [ "HandleScript", "d8/dd5/a22217.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
-    [ "PrepareSpellScript", "d8/dd5/a22217.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
-    [ "Register", "d8/dd5/a22217.html#a9b8efef83b515f2250bda500ff741aa3", null ],
-    [ "Validate", "d8/dd5/a22217.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
+    [ "npc_sorlof", "d8/dd5/a22217.html#afdac1cfc891e8cfda3506022e5f79204", null ],
+    [ "JustDied", "d8/dd5/a22217.html#a53440692c7e64f03e601dc9ab65bc3cb", null ],
+    [ "MovementInform", "d8/dd5/a22217.html#a0128234c450bcef8e3c9ebc6fee0c578", null ],
+    [ "MoveToNextNode", "d8/dd5/a22217.html#a6a80487d0c5e55d9216efb63dbdd598e", null ],
+    [ "Reset", "d8/dd5/a22217.html#a6b34547c0ae6b588a788e57353b933c8", null ],
+    [ "SetData", "d8/dd5/a22217.html#a388be22752dc524735459e62a97fe510", null ],
+    [ "UpdateAI", "d8/dd5/a22217.html#a1165631ba6c172930691766cfb73eda8", null ],
+    [ "_advancePath", "d8/dd5/a22217.html#aa731d85060b9280ef172a2e15614aaf9", null ],
+    [ "_pathId", "d8/dd5/a22217.html#ab3d9b633e7304d65fda49890b5c9672e", null ],
+    [ "_pathNode", "d8/dd5/a22217.html#a33fa8fa6c768335887daaab226b8cff2", null ]
 ];

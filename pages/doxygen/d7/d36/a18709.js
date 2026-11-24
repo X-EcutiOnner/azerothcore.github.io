@@ -1,6 +1,5 @@
 var a18709 =
 [
-    [ "HandleScript", "d7/d36/a18709.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "d7/d36/a18709.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "d7/d36/a18709.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "FrozenThroneResetWorker", "d7/d36/a18709.html#afd21e9c1449d4e391713256e197bc92b", null ],
+    [ "operator()", "d7/d36/a18709.html#a7119548d30d760ae817a87cacf712cf6", null ]
 ];

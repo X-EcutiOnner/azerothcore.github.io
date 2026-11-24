@@ -1,9 +1,17 @@
 var a16541 =
 [
-    [ "npc_anub_ar_crusher", "da/d0e/a16541.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
-    [ "DamageTaken", "da/d0e/a16541.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
-    [ "DoEngagedWith", "da/d0e/a16541.html#a70238afe4b9ae58b99067581db6734c8", null ],
-    [ "DoEvent", "da/d0e/a16541.html#ac20630563a1869f56f538968cb8bb1ea", null ],
-    [ "JustDied", "da/d0e/a16541.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
-    [ "_hadFrenzy", "da/d0e/a16541.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
+    [ "npc_hadronox_crusherPackAI", "da/d0e/a16541.html#a87d2baf69aecf42ad9b40ff993462e2c", null ],
+    [ "DoAction", "da/d0e/a16541.html#a37b0af619fe374f809c0a41d340e5772", null ],
+    [ "DoEngagedWith", "da/d0e/a16541.html#a4a6a7b835357fa63d3fc95b3676a5451", null ],
+    [ "DoEvent", "da/d0e/a16541.html#a7ed620b7288a89f83150f49f0883f38b", null ],
+    [ "GetData", "da/d0e/a16541.html#ae6a622e916a8e957eb3a4bf1b6563736", null ],
+    [ "JustEngagedWith", "da/d0e/a16541.html#abc2842315c49bad32ea04b0d67e7d903", null ],
+    [ "MoveInLineOfSight", "da/d0e/a16541.html#a1801b218fe0ad79b8e8710f2ffd177ad", null ],
+    [ "MovementInform", "da/d0e/a16541.html#a810f890a7c57811e683f063f4c9fdcf4", null ],
+    [ "SetData", "da/d0e/a16541.html#a99c1bcd23e068cba7e663fba2953b059", null ],
+    [ "UpdateAI", "da/d0e/a16541.html#a0c84d3d559791416cdbc316cc3e8edfc", null ],
+    [ "_doFacing", "da/d0e/a16541.html#a522540365169c2e73aa69914c350cbd0", null ],
+    [ "_instance", "da/d0e/a16541.html#a050359a9f4a7556c6793337d7f654543", null ],
+    [ "_myPack", "da/d0e/a16541.html#a4c297d590ec5e7e1efb079a61d34d437", null ],
+    [ "_positions", "da/d0e/a16541.html#a811105fc340ac25bdc61ede98387e430", null ]
 ];

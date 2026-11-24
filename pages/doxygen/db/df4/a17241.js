@@ -1,5 +1,6 @@
 var a17241 =
 [
-    [ "boss_fjolaAI", "db/df4/a17241.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "db/df4/a17241.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "HandleDummy", "db/df4/a17241.html#a05056e458f01c9378bbb919b26137bf2", null ],
+    [ "PrepareSpellScript", "db/df4/a17241.html#adf4398f2e7fa49d35c8f90350a629001", null ],
+    [ "Register", "db/df4/a17241.html#afd516448c2dadfa05d393c25c2ce72ba", null ]
 ];

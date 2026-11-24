@@ -1,5 +1,9 @@
 var a20861 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_12", "d2/daf/a20861.html#adc7f5769894c59710fa70604878b1e2c", null ],
-    [ "OnCheck", "d2/daf/a20861.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
+    [ "npc_expedition_trapper", "d2/daf/a20861.html#ac924a9b9e23624de1460b0cdfe8c8a1b", null ],
+    [ "DoAction", "d2/daf/a20861.html#a094ecbf1a719223d50c7d070989aa782", null ],
+    [ "MovementInform", "d2/daf/a20861.html#ae2a0c15b4a7d59f4222e818d0fcf303b", null ],
+    [ "SetData", "d2/daf/a20861.html#a11241b1513209a9964569ab29eb5dc64", null ],
+    [ "UpdateAI", "d2/daf/a20861.html#a16a39f855263ebde21ddb03d4fe60460", null ],
+    [ "_idx", "d2/daf/a20861.html#ae24ec016a0f29f7bcb41935e1991f9fa", null ]
 ];

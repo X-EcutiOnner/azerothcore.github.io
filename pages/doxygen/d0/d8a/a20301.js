@@ -1,8 +1,8 @@
 var a20301 =
 [
-    [ "OnPeriodic", "d0/d8a/a20301.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "d0/d8a/a20301.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "d0/d8a/a20301.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "d0/d8a/a20301.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "d0/d8a/a20301.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "CatsTargetSelector", "d0/d8a/a20301.html#a48068e5fb4d835303d1d0fbbc4a7e66e", null ],
+    [ "operator()", "d0/d8a/a20301.html#a86e65be219bb8f1fdbebba21ba16884a", null ],
+    [ "_maxDist", "d0/d8a/a20301.html#a569a1fc697a16c55ef0d087993461a01", null ],
+    [ "_me", "d0/d8a/a20301.html#a510937836db06bf70f2bd3737efa4369", null ],
+    [ "_minDist", "d0/d8a/a20301.html#a28f5ca413d51073294888cfc97c21b04", null ]
 ];

@@ -1,7 +1,6 @@
 var a20793 =
 [
-    [ "FilterTargets", "d0/d83/a20793.html#a16f739f70b052f71293846903aab8fdd", null ],
-    [ "HandleDummy", "d0/d83/a20793.html#a4290c0e73254fead6e0f1e4abf7d39f4", null ],
-    [ "PrepareSpellScript", "d0/d83/a20793.html#a430d44a79daa53fd492a0f9506bbbcc7", null ],
-    [ "Register", "d0/d83/a20793.html#af3a1324237de67b4fa507e626def7743", null ]
+    [ "ModDest", "d0/d83/a20793.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
+    [ "PrepareSpellScript", "d0/d83/a20793.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
+    [ "Register", "d0/d83/a20793.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
 ];

@@ -1,5 +1,6 @@
 var a18985 =
 [
-    [ "achievement_been_waiting_long_time", "d7/dcd/a18985.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "d7/dcd/a18985.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "boss_valithria_dreamwalkerAI", "db/dbf/a18989.html", "db/dbf/a18989" ],
+    [ "boss_valithria_dreamwalker", "d7/dcd/a18985.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
+    [ "GetAI", "d7/dcd/a18985.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
 ];

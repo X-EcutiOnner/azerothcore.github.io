@@ -1,6 +1,7 @@
 var a28773 =
 [
-    [ "npc_guardianAI", "de/d64/a28777.html", "de/d64/a28777" ],
-    [ "npc_guardian", "d7/d03/a28773.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "d7/d03/a28773.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "npc_sayge", "d7/d03/a28773.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
+    [ "OnGossipHello", "d7/d03/a28773.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
+    [ "OnGossipSelect", "d7/d03/a28773.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
+    [ "SendAction", "d7/d03/a28773.html#aed1988335672423d024546654aa95298", null ]
 ];

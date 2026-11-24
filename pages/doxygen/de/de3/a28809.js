@@ -1,6 +1,6 @@
 var a28809 =
 [
-    [ "npc_locksmith", "de/de3/a28809.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "de/de3/a28809.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "de/de3/a28809.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "npc_fireworkAI", "d4/da8/a28813.html", "d4/da8/a28813" ],
+    [ "npc_firework", "de/de3/a28809.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "de/de3/a28809.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

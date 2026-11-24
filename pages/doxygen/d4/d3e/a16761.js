@@ -1,10 +1,10 @@
 var a16761 =
 [
-    [ "spell_halion_marks_aura", "d4/d3e/a16761.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "d4/d3e/a16761.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "d4/d3e/a16761.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "d4/d3e/a16761.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "d4/d3e/a16761.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "d4/d3e/a16761.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "d4/d3e/a16761.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "spell_halion_damage_aoe_summon", "d4/d3e/a16761.html#a599704717fdee721fb5c6d5519eb4892", null ],
+    [ "HandleSummon", "d4/d3e/a16761.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
+    [ "PrepareSpellScript", "d4/d3e/a16761.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
+    [ "Register", "d4/d3e/a16761.html#aa1f9239a2910d53c85539abba6333893", null ],
+    [ "Validate", "d4/d3e/a16761.html#acb359257b29354b5962d9865e06137e7", null ],
+    [ "_auraSpellId", "d4/d3e/a16761.html#a5e9ca9582364847963f23bad33701b75", null ],
+    [ "_explosionSpellId", "d4/d3e/a16761.html#a8af2f6e25dc4247e7589ccd54e5ba021", null ]
 ];

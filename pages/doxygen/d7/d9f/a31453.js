@@ -1,27 +1,8 @@
 var a31453 =
 [
-    [ "TEMPLATE_CONFIG_OPTION", "d7/d9f/a31453.html#a88481e3afc1a3d0cced9a0eb22ef52c4", null ],
-    [ "AddKey", "d7/d9f/a31453.html#ab573c6a7facb635d7c4787e5b6f346fa", null ],
-    [ "ApplyPolicyFromArgs", "d7/d9f/a31453.html#ad5290ec15cd0d01b27b4b790608bd7d8", null ],
-    [ "ApplyPolicyString", "d7/d9f/a31453.html#a460c53fb7c529e6bdc783f8dc72d1948", null ],
-    [ "ConfigMgr::GetValueDefault< std::string >", "d7/d9f/a31453.html#a7096a6c65872ca33d8f44bdd841eaa31", null ],
-    [ "EnvVarForIniKey", "d7/d9f/a31453.html#a4b39ee4aeace82542c39141c4c052417", null ],
-    [ "GetEnvFromCache", "d7/d9f/a31453.html#aa22b6bcf6d5dd7e02cab1b0aea10bbee", null ],
-    [ "GetEnvVarName", "d7/d9f/a31453.html#a037f48efd9ff4f980901dc23f9062cfe", null ],
-    [ "IniKeyToEnvVarKey", "d7/d9f/a31453.html#ab1ffb5b5ec6ef364da691218a1f840ed", null ],
-    [ "IsAppConfig", "d7/d9f/a31453.html#ac70d5ef108e0df78183c2c28431f34cc", null ],
-    [ "IsLoggingSystemOptions", "d7/d9f/a31453.html#a874bf90eeee29a9e6e9348805c0b8ca8", null ],
-    [ "LoadFile", "d7/d9f/a31453.html#a04d7cd62693d073b89d11aab4ba3342d", null ],
-    [ "LogWithSeverity", "d7/d9f/a31453.html#ac95d8b9816bc49f2a39d0e8bb421a97b", null ],
-    [ "ParseFile", "d7/d9f/a31453.html#af25d36c8039da7689a28ce9c1334b70f", null ],
-    [ "ParseSeverity", "d7/d9f/a31453.html#a46a7f61e5998cdcc46e28a3b0e7d0d1b", null ],
-    [ "PrintError", "d7/d9f/a31453.html#a31b53ef96726f745da939de555373737", null ],
-    [ "_additonalFiles", "d7/d9f/a31453.html#ac4608b63b3297653b81c9c4196c12141", null ],
-    [ "_args", "d7/d9f/a31453.html#aa324820f5ede7eec5a4d8eefc77298f4", null ],
-    [ "_configLock", "d7/d9f/a31453.html#a96e361ca2d2603bb0a5689262ac6787a", null ],
-    [ "_configOptions", "d7/d9f/a31453.html#a4c4d5bd9313e617a40ed0f27d79dbae9", null ],
-    [ "_criticalConfigOptions", "d7/d9f/a31453.html#aa7b3c6eff57b110ceeec72757d37ce1a", null ],
-    [ "_envVarCache", "d7/d9f/a31453.html#a4e8b4d4501c2038b56b2692bbd6adb72", null ],
-    [ "_filename", "d7/d9f/a31453.html#a8bfa20db83fbdc4e649e394ea8d05d0d", null ],
-    [ "_policy", "d7/d9f/a31453.html#ae2b763457feff4f3c7a7969e89e11f7d", null ]
+    [ "DBCFile", "d8/d89/a30397.html", "d8/d89/a30397" ],
+    [ "DBCFile::Exception", "d1/d54/a30401.html", "d1/d54/a30401" ],
+    [ "DBCFile::NotFound", "db/d4b/a30405.html", "db/d4b/a30405" ],
+    [ "DBCFile::Record", "d8/d77/a30409.html", "d8/d77/a30409" ],
+    [ "DBCFile::Iterator", "d9/df3/a30413.html", "d9/df3/a30413" ]
 ];

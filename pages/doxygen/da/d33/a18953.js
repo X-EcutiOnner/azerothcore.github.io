@@ -1,6 +1,6 @@
 var a18953 =
 [
-    [ "npc_icc_lk_checktargetAI", "d4/d36/a18957.html", "d4/d36/a18957" ],
-    [ "npc_icc_lk_checktarget", "da/d33/a18953.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "da/d33/a18953.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "npc_lk_wicked_spiritAI", "d4/d36/a18957.html", "d4/d36/a18957" ],
+    [ "npc_lk_wicked_spirit", "da/d33/a18953.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "da/d33/a18953.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

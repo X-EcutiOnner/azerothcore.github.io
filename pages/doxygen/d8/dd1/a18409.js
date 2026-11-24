@@ -1,6 +1,6 @@
 var a18409 =
 [
-    [ "npc_gas_cloudAI", "d4/d22/a18413.html", "d4/d22/a18413" ],
-    [ "npc_gas_cloud", "d8/dd1/a18409.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "d8/dd1/a18409.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "HandleScript", "d8/dd1/a18409.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
+    [ "PrepareSpellScript", "d8/dd1/a18409.html#a68c0462bd108b04621f8288328f78b18", null ],
+    [ "Register", "d8/dd1/a18409.html#aedaec0afc414800bc481a434592ffb5d", null ]
 ];

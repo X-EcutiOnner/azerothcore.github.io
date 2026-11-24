@@ -1,9 +1,6 @@
 var a22953 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "df/d59/a22953.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "df/d59/a22953.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "df/d59/a22953.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "df/d59/a22953.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "df/d59/a22953.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "df/d59/a22953.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "FilterTargets", "df/d59/a22953.html#abd3fafc2120b7069790dd9822cd62adc", null ],
+    [ "PrepareSpellScript", "df/d59/a22953.html#aebc0441481a2c458fc904175df931a9e", null ],
+    [ "Register", "df/d59/a22953.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
 ];

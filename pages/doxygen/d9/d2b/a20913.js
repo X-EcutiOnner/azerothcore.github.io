@@ -1,7 +1,7 @@
 var a20913 =
 [
-    [ "go_razorscale_harpoonAI", "dc/d7e/a20917.html", "dc/d7e/a20917" ],
-    [ "go_razorscale_harpoon", "d9/d2b/a20913.html#a68e5414333ca5ed4ec2de2da5f1756d4", null ],
-    [ "GetAI", "d9/d2b/a20913.html#a89a25716733ed0f589ce50eab8466453", null ],
-    [ "OnGossipHello", "d9/d2b/a20913.html#ac6ea67384010725c56daab8c4f58c7ff", null ]
+    [ "HandleScript", "d9/d2b/a20913.html#ab2cfe77248b3e0e3d04c203635f2f4fa", null ],
+    [ "PrepareSpellScript", "d9/d2b/a20913.html#a07041d1278d7c12ca40e341fdf0a0b4e", null ],
+    [ "Register", "d9/d2b/a20913.html#af75bed8e253cb372f1bceb0ae1e54e1a", null ],
+    [ "Validate", "d9/d2b/a20913.html#aa2d5bae5c41f6975aecc4d951a565e81", null ]
 ];

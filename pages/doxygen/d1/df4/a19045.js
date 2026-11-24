@@ -1,7 +1,8 @@
 var a19045 =
 [
-    [ "npc_valithria_portalAI", "d1/df4/a19045.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "d1/df4/a19045.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "d1/df4/a19045.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "d1/df4/a19045.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "npc_suppresserAI", "d1/df4/a19045.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "d1/df4/a19045.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "d1/df4/a19045.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "d1/df4/a19045.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "d1/df4/a19045.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

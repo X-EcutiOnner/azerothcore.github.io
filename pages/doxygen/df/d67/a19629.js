@@ -1,12 +1,6 @@
 var a19629 =
 [
-    [ "npc_gothik_triggerAI", "df/d67/a19629.html#ae45c6de238755eb069e0c182943da58c", null ],
-    [ "DamageTaken", "df/d67/a19629.html#ada8e501edfadbb55162532f081a4b48b", null ],
-    [ "EnterEvadeMode", "df/d67/a19629.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
-    [ "JustEngagedWith", "df/d67/a19629.html#ab5403383f1fcd539cacf975dffbe2817", null ],
-    [ "JustSummoned", "df/d67/a19629.html#a35be0135b77a3e62ac8d421910cf0674", null ],
-    [ "SelectRandomSkullPile", "df/d67/a19629.html#aeafc63047c9059afdf668b8c22d2937f", null ],
-    [ "SpellHit", "df/d67/a19629.html#a18a8135ab0395991afc4896950783ae5", null ],
-    [ "SummonedCreatureDespawn", "df/d67/a19629.html#ad7ed092509dd41fddd44a4024c011364", null ],
-    [ "UpdateAI", "df/d67/a19629.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
+    [ "FilterTargets", "df/d67/a19629.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "df/d67/a19629.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "df/d67/a19629.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

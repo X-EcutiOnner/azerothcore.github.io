@@ -1,6 +1,6 @@
 var a24129 =
 [
-    [ "HandleScriptEffect", "de/dc5/a24129.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
-    [ "PrepareSpellScript", "de/dc5/a24129.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
-    [ "Register", "de/dc5/a24129.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
+    [ "instance_the_eye_InstanceMapScript", "d3/d1c/a24133.html", "d3/d1c/a24133" ],
+    [ "instance_the_eye", "de/dc5/a24129.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "de/dc5/a24129.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

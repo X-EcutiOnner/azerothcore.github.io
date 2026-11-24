@@ -1,6 +1,6 @@
 var a17845 =
 [
-    [ "npc_ball_of_flameAI", "de/db2/a17849.html", "de/db2/a17849" ],
-    [ "npc_ball_of_flame", "de/d2f/a17845.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
-    [ "GetAI", "de/d2f/a17845.html#ac0309668f9f0ca85a644d4928966e577", null ]
+    [ "HandleScript", "de/d2f/a17845.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
+    [ "PrepareSpellScript", "de/d2f/a17845.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
+    [ "Register", "de/d2f/a17845.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
 ];

@@ -1,6 +1,6 @@
 var a18093 =
 [
-    [ "npc_gunshipAI", "dc/dda/a18097.html", "dc/dda/a18097" ],
-    [ "npc_gunship", "df/db6/a18093.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
-    [ "GetAI", "df/db6/a18093.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
+    [ "npc_zafod_boomboxAI", "dc/dda/a18097.html", "dc/dda/a18097" ],
+    [ "npc_zafod_boombox", "df/db6/a18093.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "df/db6/a18093.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

@@ -1,6 +1,7 @@
 var a21813 =
 [
-    [ "npc_bloodmage_laurithAI", "d3/d01/a21817.html", "d3/d01/a21817" ],
-    [ "npc_bloodmage_laurith", "dd/dee/a21813.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "dd/dee/a21813.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "HandleScriptEffect", "dd/dee/a21813.html#adc89459d7b6c073b8a60e08a9e3281cf", null ],
+    [ "PrepareSpellScript", "dd/dee/a21813.html#a8f15bf27d9e54c1ee6c84f99f1f83d48", null ],
+    [ "Register", "dd/dee/a21813.html#a86ef787e1db46e578a10ca25ac84ba87", null ],
+    [ "Validate", "dd/dee/a21813.html#abeb8baf7dabf2d3acea4df79535770d2", null ]
 ];

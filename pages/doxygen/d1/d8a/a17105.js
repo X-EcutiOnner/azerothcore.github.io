@@ -1,6 +1,12 @@
 var a17105 =
 [
-    [ "npc_toc_enh_shamanAI", "d7/dee/a17109.html", "d7/dee/a17109" ],
-    [ "npc_toc_enh_shaman", "d1/d8a/a17105.html#ac328b63a988d2cd8640237b250c338a8", null ],
-    [ "GetAI", "d1/d8a/a17105.html#a4501c9289a06750d8f153f89565b12f3", null ]
+    [ "boss_jaraxxus", "d1/d8a/a17105.html#a86082ca12767e4d04bd24c0b3bec3176", null ],
+    [ "EnterEvadeMode", "d1/d8a/a17105.html#a5e11dff4d8fc0820f60044ddcfdc6ab5", null ],
+    [ "JustDied", "d1/d8a/a17105.html#a87fcb2c9ca26b498a17138459ea45e7a", null ],
+    [ "JustEngagedWith", "d1/d8a/a17105.html#adc9cd34f103c026a9d91f5b7b076ac02", null ],
+    [ "JustSummoned", "d1/d8a/a17105.html#ab5b9ac68b23be5833e3e061f2623ee37", null ],
+    [ "MoveInLineOfSight", "d1/d8a/a17105.html#a86a9d40e9fabd693dd936758ccdb8a9a", null ],
+    [ "Reset", "d1/d8a/a17105.html#ab41962c64bd1a4b0e93bc83ae5f62889", null ],
+    [ "SpellHit", "d1/d8a/a17105.html#a486dd679f70237e9764a021303d4ad56", null ],
+    [ "UpdateAI", "d1/d8a/a17105.html#a0d598a20f10a0f3187ad9dfe6405cf13", null ]
 ];

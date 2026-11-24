@@ -1,6 +1,5 @@
 var a21269 =
 [
-    [ "OnRemove", "d2/d24/a21269.html#a3cac25c6136b5dce491b24b7fb0ed33a", null ],
-    [ "PrepareAuraScript", "d2/d24/a21269.html#a2afc759693aa4dfbd0ac33b1b770e995", null ],
-    [ "Register", "d2/d24/a21269.html#a8fbcf904caf526f37d4a7984791d9fd0", null ]
+    [ "achievement_yogg_saron_kiss_and_make_up", "d2/d24/a21269.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
+    [ "OnCheck", "d2/d24/a21269.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
 ];

@@ -1,6 +1,7 @@
 var a17217 =
 [
-    [ "HandleLeapBack", "d9/dd7/a17217.html#a1515071290963ea88b2f8f3efd944068", null ],
-    [ "PrepareSpellScript", "d9/dd7/a17217.html#a4e309e82e471d5f2a6e9be73e1e926aa", null ],
-    [ "Register", "d9/dd7/a17217.html#ae2185f1272746c4d3d8cdbcb8cca1eba", null ]
+    [ "HandleAfterApply", "d9/dd7/a17217.html#a9dbc9361f083d217de4f9a9e39c6d873", null ],
+    [ "HandleEffectPeriodic", "d9/dd7/a17217.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "d9/dd7/a17217.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "d9/dd7/a17217.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

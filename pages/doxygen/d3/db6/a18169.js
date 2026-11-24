@@ -1,10 +1,11 @@
 var a18169 =
 [
-    [ "npc_gunship_gunnerAI", "d3/db6/a18169.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
-    [ "AttackStart", "d3/db6/a18169.html#ac21b90c1892c15882794384517ef9fd2", null ],
-    [ "CanAIAttack", "d3/db6/a18169.html#aef351305ef34fa316809697125a3bc9a", null ],
-    [ "MovementInform", "d3/db6/a18169.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
-    [ "UpdateAI", "d3/db6/a18169.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
-    [ "anyValid", "d3/db6/a18169.html#a00c7dc23618c60826241133a0067c1c4", null ],
-    [ "checkTimer", "d3/db6/a18169.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
+    [ "CountTargets", "d3/db6/a18169.html#a54f6526359fba124a988ba35c2876fd1", null ],
+    [ "Load", "d3/db6/a18169.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
+    [ "PrepareSpellScript", "d3/db6/a18169.html#a4991d88429ea951c55ef08a90f364d31", null ],
+    [ "Register", "d3/db6/a18169.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
+    [ "TeleportPlayer", "d3/db6/a18169.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
+    [ "TriggerWipe", "d3/db6/a18169.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
+    [ "Validate", "d3/db6/a18169.html#ad2e586d688b413f9ef9a5688d203106a", null ],
+    [ "_playerCount", "d3/db6/a18169.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
 ];

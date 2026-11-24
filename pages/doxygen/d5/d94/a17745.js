@@ -1,7 +1,5 @@
 var a17745 =
 [
-    [ "HandleApplyAura", "d5/d94/a17745.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "d5/d94/a17745.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "d5/d94/a17745.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "d5/d94/a17745.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "achievement_less_rabi", "d5/d94/a17745.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
+    [ "OnCheck", "d5/d94/a17745.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
 ];

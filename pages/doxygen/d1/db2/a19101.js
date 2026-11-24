@@ -1,6 +1,5 @@
 var a19101 =
 [
-    [ "PeriodicTick", "d1/db2/a19101.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
-    [ "PrepareAuraScript", "d1/db2/a19101.html#a0767ac60151517b803e871a0fcb25967", null ],
-    [ "Register", "d1/db2/a19101.html#afd1e28b224035aef5ac109f38d7e118d", null ]
+    [ "achievement_portal_jockey", "d1/db2/a19101.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
+    [ "OnCheck", "d1/db2/a19101.html#a2695b1fee353be7340f319c632a43efc", null ]
 ];

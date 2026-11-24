@@ -1,7 +1,9 @@
 var a18053 =
 [
-    [ "HandleScript", "d0/dac/a18053.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "d0/dac/a18053.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "d0/dac/a18053.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "d0/dac/a18053.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "BattleExperienceEvent", "d0/dac/a18053.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "d0/dac/a18053.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "d0/dac/a18053.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "d0/dac/a18053.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "d0/dac/a18053.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "d0/dac/a18053.html#af682cc246c7fdae39cc2a1e57110badc", null ]
 ];

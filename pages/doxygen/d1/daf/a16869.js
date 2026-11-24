@@ -1,9 +1,16 @@
 var a16869 =
 [
-    [ "npc_memoryAI", "d1/daf/a16869.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "d1/daf/a16869.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "d1/daf/a16869.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "d1/daf/a16869.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "d1/daf/a16869.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "d1/daf/a16869.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "boss_black_knight", "d1/daf/a16869.html#a3cc8e1390c44645ca1ceee2bf1c66315", null ],
+    [ "DamageTaken", "d1/daf/a16869.html#a8e86ed7006e3578278efd6d78c50a622", null ],
+    [ "DoAction", "d1/daf/a16869.html#a90420a13e1a3702db8e84666aca76031", null ],
+    [ "EnterEvadeMode", "d1/daf/a16869.html#afab11df5f509d94f5c02036be5bdb659", null ],
+    [ "JustDied", "d1/daf/a16869.html#ac965a66efd8862e2c4f4a34b52837137", null ],
+    [ "JustSummoned", "d1/daf/a16869.html#a6383435df29325a8c72a5580f1d2a9e8", null ],
+    [ "KilledUnit", "d1/daf/a16869.html#a98dc836477661d8cb1c965da09204e69", null ],
+    [ "Reset", "d1/daf/a16869.html#a46b6c2a53b4eb3e8a3431323c18b1c92", null ],
+    [ "SchedulePhaseOneAbilities", "d1/daf/a16869.html#ada252bc47302495140c1d20738f78783", null ],
+    [ "SchedulePhaseThreeAbilities", "d1/daf/a16869.html#a42e9f2e8b1c7e2bba61165d1f8dda1ba", null ],
+    [ "SchedulePhaseTwoAbilities", "d1/daf/a16869.html#a218c791041a9a9345fdf31858dcc1f3e", null ],
+    [ "SpellHitTarget", "d1/daf/a16869.html#a837d3a6102bf77d51c5848d79d218ee8", null ],
+    [ "_phase", "d1/daf/a16869.html#a33c02ef0b13c9838befcd0e96c551927", null ]
 ];

@@ -1,8 +1,6 @@
 var a21645 =
 [
-    [ "boss_moragg", "d8/d35/a21645.html#a42d2508369286e5e635d47cce0b939f4", null ],
-    [ "EnterEvadeMode", "d8/d35/a21645.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
-    [ "ExecuteEvent", "d8/d35/a21645.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
-    [ "JustEngagedWith", "d8/d35/a21645.html#a29da7214373c1919b65f3512655c8bc3", null ],
-    [ "MoveInLineOfSight", "d8/d35/a21645.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
+    [ "instance_violet_hold_InstanceMapScript", "d4/d71/a21649.html", "d4/d71/a21649" ],
+    [ "instance_violet_hold", "d8/d35/a21645.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "d8/d35/a21645.html#ab459840bcb0c8bcc58d20e658be0f63a", null ]
 ];

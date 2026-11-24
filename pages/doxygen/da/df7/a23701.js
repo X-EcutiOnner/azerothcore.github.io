@@ -1,8 +1,10 @@
 var a23701 =
 [
-    [ "npc_underbat", "da/df7/a23701.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "da/df7/a23701.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "da/df7/a23701.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "da/df7/a23701.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "da/df7/a23701.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "boss_gruul", "da/df7/a23701.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
+    [ "JustDied", "da/df7/a23701.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
+    [ "JustEngagedWith", "da/df7/a23701.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
+    [ "KilledUnit", "da/df7/a23701.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
+    [ "Reset", "da/df7/a23701.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
+    [ "UpdateAI", "da/df7/a23701.html#a3503b84f4fb896d439ccd49a997e4087", null ],
+    [ "_caveInTimer", "da/df7/a23701.html#a66766f93a5ff543bbb0c9b805aaf253c", null ]
 ];

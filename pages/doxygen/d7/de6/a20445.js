@@ -1,6 +1,6 @@
 var a20445 =
 [
-    [ "CheckAreaTarget", "d7/de6/a20445.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "d7/de6/a20445.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "d7/de6/a20445.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "achievement_flame_leviathan_towers", "d7/de6/a20445.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "d7/de6/a20445.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "d7/de6/a20445.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

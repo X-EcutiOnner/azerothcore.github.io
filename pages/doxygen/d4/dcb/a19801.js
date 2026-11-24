@@ -1,8 +1,5 @@
 var a19801 =
 [
-    [ "npc_teslaAI", "d4/dcb/a19801.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d4/dcb/a19801.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d4/dcb/a19801.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d4/dcb/a19801.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d4/dcb/a19801.html#a962745569b07e368067ee483d2379840", null ]
+    [ "npc_living_poison", "d4/dcb/a19801.html#a5adb61dc282ff26b04f6071965ca4ced", null ],
+    [ "UpdateAI", "d4/dcb/a19801.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
 ];

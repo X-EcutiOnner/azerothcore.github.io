@@ -1,8 +1,11 @@
 var a20973 =
 [
-    [ "boss_thorim_pillar", "d5/d30/a20973.html#aec2fc6e420499c9ce991753b912bef1e", null ],
-    [ "Reset", "d5/d30/a20973.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
-    [ "SpellHit", "d5/d30/a20973.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
-    [ "UpdateAI", "d5/d30/a20973.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
-    [ "_resetTimer", "d5/d30/a20973.html#ac9c8ef8622496593b5f91611d22120b3", null ]
+    [ "boss_thorim_arena_npcs", "d5/d30/a20973.html#a849567e412254aa8d0d7da33b6b1522f", null ],
+    [ "CanAIAttack", "d5/d30/a20973.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
+    [ "JustEngagedWith", "d5/d30/a20973.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
+    [ "Reset", "d5/d30/a20973.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
+    [ "SelectT", "d5/d30/a20973.html#a3fa38189c886a486aabb39a372834938", null ],
+    [ "UpdateAI", "d5/d30/a20973.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
+    [ "_isCaster", "d5/d30/a20973.html#abfd184437df3983659a9ae21a13638fb", null ],
+    [ "events", "d5/d30/a20973.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
 ];

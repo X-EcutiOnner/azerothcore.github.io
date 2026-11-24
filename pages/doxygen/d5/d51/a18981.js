@@ -1,8 +1,7 @@
 var a18981 =
 [
-    [ "npc_lk_wicked_spiritAI", "d5/d51/a18981.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
-    [ "CanAIAttack", "d5/d51/a18981.html#ae094420b1a6e134632baa0b086c806c6", null ],
-    [ "JustDied", "d5/d51/a18981.html#adf153fab1c8639b2b5790ed418afb85d", null ],
-    [ "JustRespawned", "d5/d51/a18981.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
-    [ "Reset", "d5/d51/a18981.html#a8b15079251b6855679d738a342126006", null ]
+    [ "ValithriaDespawner", "d5/d51/a18981.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d5/d51/a18981.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d5/d51/a18981.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d5/d51/a18981.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

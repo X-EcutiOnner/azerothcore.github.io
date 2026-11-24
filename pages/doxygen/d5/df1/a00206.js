@@ -1,7 +1,7 @@
 var a00206 =
 [
-    [ "anonymous_namespace{CombatManagerTest.cpp}::CombatManagerIntegrationTest", "d7/d94/a30057.html", "d7/d94/a30057" ],
-    [ "anonymous_namespace{CombatManagerTest.cpp}::CombatManagerPvPDeathTest", "dc/dae/a30061.html", "dc/dae/a30061" ],
+    [ "anonymous_namespace{CombatManagerTest.cpp}::CombatManagerIntegrationTest", "db/d59/a30049.html", "db/d59/a30049" ],
+    [ "anonymous_namespace{CombatManagerTest.cpp}::CombatManagerPvPDeathTest", "de/d5f/a30053.html", "de/d5f/a30053" ],
     [ "TEST_F", "d5/df1/a00206.html#a4e884ffb1e5260843671aa55d5c74077", null ],
     [ "TEST_F", "d5/df1/a00206.html#a57bd84ef74a905a79bd6fc66669e95f3", null ],
     [ "TEST_F", "d5/df1/a00206.html#a734ff1f0a5561e9df1eb4ee2ca5a9e06", null ],

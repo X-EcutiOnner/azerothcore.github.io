@@ -1,6 +1,6 @@
 var a18873 =
 [
-    [ "ModDestHeight", "d5/dfc/a18873.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "d5/dfc/a18873.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "d5/dfc/a18873.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "ModDestHeight", "d5/dfc/a18873.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "d5/dfc/a18873.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "d5/dfc/a18873.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

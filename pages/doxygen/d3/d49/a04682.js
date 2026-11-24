@@ -1,9 +1,9 @@
 var a04682 =
 [
-    [ "boss_krystallus", "d8/d3b/a20121.html", "d8/d3b/a20121" ],
-    [ "boss_krystallus::boss_krystallusAI", "d6/d7a/a20125.html", "d6/d7a/a20125" ],
-    [ "spell_krystallus_shatter", "d4/d80/a20129.html", "d4/d80/a20129" ],
-    [ "spell_krystallus_shatter_effect", "dd/dda/a20133.html", "dd/dda/a20133" ],
+    [ "boss_krystallus", "df/d89/a20101.html", "df/d89/a20101" ],
+    [ "boss_krystallus::boss_krystallusAI", "db/d06/a20105.html", "db/d06/a20105" ],
+    [ "spell_krystallus_shatter", "db/d46/a20109.html", "db/d46/a20109" ],
+    [ "spell_krystallus_shatter_effect", "dc/dc6/a20113.html", "dc/dc6/a20113" ],
     [ "events", "d3/d49/a04682.html#ad29858f6d8ab73f2970f41cb21a76b84", [
       [ "EVENT_SARTURA_WHIRLWIND", "dc/d0a/a03125.html#ad29858f6d8ab73f2970f41cb21a76b84ab9ca33cc16c2b82d1ff2f4361607d180", null ],
       [ "EVENT_SARTURA_WHIRLWIND_RANDOM", "dc/d0a/a03125.html#ad29858f6d8ab73f2970f41cb21a76b84a0963f59968bcf20bcda9da76e151f691", null ],
@@ -231,6 +231,7 @@ var a04682 =
       [ "SAY_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b", null ],
       [ "SAY_DEATH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "EMOTE_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
+      [ "EMOTE_TOUCH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a21153f10565e5f32475502bd21b079bd", null ],
       [ "SAY_AGGRO", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_KILL", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5", null ],
       [ "SAY_DEATH", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],

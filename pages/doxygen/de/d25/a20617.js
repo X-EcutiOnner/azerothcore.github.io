@@ -1,7 +1,5 @@
 var a20617 =
 [
-    [ "HandleEffectPeriodic", "de/d25/a20617.html#acddafc5100d667e8fcc034815204f8ce", null ],
-    [ "PrepareAuraScript", "de/d25/a20617.html#aeee4eeb0d55d084630bf850c0af165a9", null ],
-    [ "Register", "de/d25/a20617.html#acc96d2a38e4da19e6cd6c72037a24202", null ],
-    [ "Validate", "de/d25/a20617.html#acacf8df2d00899bed640c1be0d4287f2", null ]
+    [ "FlashFreezeCheck", "de/d25/a20617.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "de/d25/a20617.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

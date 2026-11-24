@@ -1,8 +1,6 @@
 var a17133 =
 [
-    [ "npc_toc_pet_hunterAI", "d5/db5/a17133.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
-    [ "EnterEvadeMode", "d5/db5/a17133.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
-    [ "myCanCast", "d5/db5/a17133.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
-    [ "UpdateAI", "d5/db5/a17133.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
-    [ "events", "d5/db5/a17133.html#ade038312363f976b34868ed2cbebb58d", null ]
+    [ "boss_gormokAI", "db/d60/a17137.html", "db/d60/a17137" ],
+    [ "boss_gormok", "d5/db5/a17133.html#a86ce0681be4370198c44dde5aa98a593", null ],
+    [ "GetAI", "d5/db5/a17133.html#a45cff2e7ee0525de37382cf09b116a32", null ]
 ];

@@ -38,7 +38,8 @@ var a05145 =
     ] ],
     [ "PlayerCommand", "d5/d37/a05237.html", [
       [ "HandleLearnSpellCommand", "d5/d37/a05237.html#acbe37f872cbc981a27671ebdf10904de", null ],
-      [ "HandleUnlearnSpellCommand", "d5/d37/a05237.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
+      [ "HandleUnlearnSpellCommand", "d5/d37/a05237.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ],
+      [ "SummonOnlinePlayer", "d5/d37/a05237.html#a1b20c5f7d660bb1c84fe676c48d24aa0", null ]
     ] ],
     [ "SpellScripts", "d3/dbd/a05213.html", [
       [ "is_AuraScript", "d3/dbd/a05213.html#a08facc7292565931370e1cc514f726e1", null ],
@@ -213,7 +214,7 @@ var a05145 =
     [ "WorldObjectSpellTrajTargetCheck", "d9/d21/a12029.html", "d9/d21/a12029" ],
     [ "WorldObjectWorker", "d2/d25/a09749.html", "d2/d25/a09749" ],
     [ "WorldWorldTextBuilder", "d6/db3/a12473.html", "d6/db3/a12473" ],
-    [ "AnyTypeList", "db/d1b/a30602.html", null ],
+    [ "AnyTypeList", "d0/d8d/a30594.html", null ],
     [ "find_type_if_t", "d3/d60/a05145.html#a7d2aaeefa69dc846a6b27937f8213fab", null ],
     [ "FormatArgs", "d3/d60/a05145.html#a300bea6aa9ed219f5f3636b900db3ac9", null ],
     [ "FormatString", "d3/d60/a05145.html#a32c972cafca136b88de5b298d6cba338", null ],

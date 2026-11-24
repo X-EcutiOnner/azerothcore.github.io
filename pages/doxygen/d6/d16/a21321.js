@@ -1,6 +1,5 @@
 var a21321 =
 [
-    [ "HandleEffectPeriodic", "d6/d16/a21321.html#a35ad284954a023da2ed50d010fcf8946", null ],
-    [ "PrepareAuraScript", "d6/d16/a21321.html#a6835238f872248a76e386ded28340c81", null ],
-    [ "Register", "d6/d16/a21321.html#aba7eea4dbaff16d49f30165cdd29a3d4", null ]
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "d6/d16/a21321.html#ae1503a754a05a77991d9955a2fb74265", null ],
+    [ "OnTrigger", "d6/d16/a21321.html#aa7aa93e00170313de251af4e562c422c", null ]
 ];

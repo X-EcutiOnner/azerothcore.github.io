@@ -1,6 +1,6 @@
 var a17033 =
 [
-    [ "npc_toc_priestAI", "d3/daa/a17037.html", "d3/daa/a17037" ],
-    [ "npc_toc_priest", "d8/ded/a17033.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "d8/ded/a17033.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "npc_toc_boomkinAI", "d3/daa/a17037.html", "d3/daa/a17037" ],
+    [ "npc_toc_boomkin", "d8/ded/a17033.html#a17274ff748cd364592a551ad2c547eac", null ],
+    [ "GetAI", "d8/ded/a17033.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
 ];

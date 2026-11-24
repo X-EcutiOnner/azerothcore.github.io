@@ -1,6 +1,9 @@
 var a21857 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d4/d59/a21861.html", "d4/d59/a21861" ],
-    [ "npc_steam_powered_auctioneer", "d1/d55/a21857.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "d1/d55/a21857.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "npc_archmage_landalockAI", "d1/d55/a21857.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
+    [ "GetImageEntry", "d1/d55/a21857.html#ae09841969253c0baf72cc235b6fa058e", null ],
+    [ "JustSummoned", "d1/d55/a21857.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
+    [ "UpdateAI", "d1/d55/a21857.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
+    [ "_summonGUID", "d1/d55/a21857.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
+    [ "_switchImageTimer", "d1/d55/a21857.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
 ];

@@ -1,5 +1,7 @@
 var a18061 =
 [
-    [ "achievement_flu_shot_shortage", "d0/dc9/a18061.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "d0/dc9/a18061.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "DelayedMovementEvent", "d0/dc9/a18061.html#a21241cde30f66ae42edb311542f7405c", null ],
+    [ "Execute", "d0/dc9/a18061.html#a8287761226ee671905151891779b6efb", null ],
+    [ "_dest", "d0/dc9/a18061.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
+    [ "_owner", "d0/dc9/a18061.html#a046942728282a997068de447271f3cbe", null ]
 ];

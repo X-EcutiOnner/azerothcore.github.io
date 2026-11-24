@@ -1,5 +1,7 @@
 var a21745 =
 [
-    [ "npc_nerubar_victim", "d8/dce/a21745.html#a218a0091d3dd5c237f49f7b2797c54d7", null ],
-    [ "JustDied", "d8/dce/a21745.html#a969b3f15d0017978e77d34131815c7e4", null ]
+    [ "HandleScriptEffect", "d8/dce/a21745.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
+    [ "PrepareSpellScript", "d8/dce/a21745.html#a73b5af95ee4f593337c3803574d190db", null ],
+    [ "Register", "d8/dce/a21745.html#a930de2343532feb50b86304f32269e4c", null ],
+    [ "Validate", "d8/dce/a21745.html#ae9bfedf7e89487217ad927459e259c04", null ]
 ];

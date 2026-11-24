@@ -1,9 +1,6 @@
 var a30133 =
 [
-    [ "CountQuestOnCreature", "d5/ded/a30133.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "d5/ded/a30133.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "d5/ded/a30133.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "d5/ded/a30133.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "d5/ded/a30133.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "d5/ded/a30133.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "TestDestructGroupScript", "d5/ded/a30133.html#ab9610abc650275135161e4491c0bdf28", null ],
+    [ "OnDestructGroup", "d5/ded/a30133.html#ae4267dafbf2157fd55e11e1c75825ee8", null ],
+    [ "CallCount", "d5/ded/a30133.html#aa4741f1c2d75bb7e5ad1e4f11ce62909", null ]
 ];

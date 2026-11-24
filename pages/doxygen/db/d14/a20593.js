@@ -1,8 +1,15 @@
 var a20593 =
 [
-    [ "npc_ulduar_flash_freeze", "db/d14/a20593.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
-    [ "DamageTaken", "db/d14/a20593.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "db/d14/a20593.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "_instance", "db/d14/a20593.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
-    [ "timer", "db/d14/a20593.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "npc_ulduar_hodir_mage", "db/d14/a20593.html#a1f16ae119ae7819348b3013bac867b68", null ],
+    [ "AttackStart", "db/d14/a20593.html#aa486b501aefeb70beb325feece5ec34c", null ],
+    [ "CanAIAttack", "db/d14/a20593.html#afe11d15da8769f50db470460cf759c2d", null ],
+    [ "DoAction", "db/d14/a20593.html#abe5801b4b042dbc363dacbb3290b43e1", null ],
+    [ "EnterEvadeMode", "db/d14/a20593.html#a7c942a1ad420731a6e57ede7720d164b", null ],
+    [ "JustDied", "db/d14/a20593.html#a411b6a3b456fb216f96a9426a13e3369", null ],
+    [ "MoveInLineOfSight", "db/d14/a20593.html#aab476b5a585b30d429bdcae64a18424c", null ],
+    [ "ScheduleAbilities", "db/d14/a20593.html#add40de5492e4ec9bd19260669b4bbb22", null ],
+    [ "SpellHit", "db/d14/a20593.html#af35bcc1ee03dd8128ff0fe7329eb980d", null ],
+    [ "UpdateAI", "db/d14/a20593.html#ae9aa4904f3deaa6cae56853f8541eb40", null ],
+    [ "_instance", "db/d14/a20593.html#a75528e6ce772183e63a9a415932b05cf", null ],
+    [ "events", "db/d14/a20593.html#a8c89348ce80bc9e4ac72dec41855db8a", null ]
 ];

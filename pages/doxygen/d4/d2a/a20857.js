@@ -1,5 +1,10 @@
 var a20857 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "d4/d2a/a20857.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "d4/d2a/a20857.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "npc_expedition_defender", "d4/d2a/a20857.html#aa476e8cdb18fce94b7517caf7ec751c8", null ],
+    [ "CanAIAttack", "d4/d2a/a20857.html#aa223ec9592dcc5f8890cc7de0c8e4230", null ],
+    [ "DoAction", "d4/d2a/a20857.html#adbd3f69f46e33537786505a0bb2955d5", null ],
+    [ "MovementInform", "d4/d2a/a20857.html#acfa015071d54e353e4397c806fcab0a5", null ],
+    [ "Reset", "d4/d2a/a20857.html#ae5da35cb689ada77a00d545e0f795af7", null ],
+    [ "SetData", "d4/d2a/a20857.html#ab8d8681d244c13e51709c3ad446c8805", null ],
+    [ "_idx", "d4/d2a/a20857.html#ae50289231fcaac124f78246774dda01e", null ]
 ];

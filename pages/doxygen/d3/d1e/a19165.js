@@ -1,6 +1,7 @@
 var a19165 =
 [
-    [ "npc_crok_scourgebaneAI", "da/df0/a19169.html", "da/df0/a19169" ],
-    [ "npc_crok_scourgebane", "d3/d1e/a19165.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "d3/d1e/a19165.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "npc_captain_arnathAI", "d3/d1e/a19165.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "d3/d1e/a19165.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "d3/d1e/a19165.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "d3/d1e/a19165.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

@@ -1,7 +1,5 @@
 var a20925 =
 [
-    [ "go_razorscale_mole_machineAI", "dc/d6d/a20925.html#af648942b5794adf77d51d581aa6edeee", null ],
-    [ "Reset", "dc/d6d/a20925.html#ac2b96d741950c7ee1bde296a78bd5c01", null ],
-    [ "UpdateAI", "dc/d6d/a20925.html#acff2bc016f10597b37e868a99da03f0d", null ],
-    [ "_scheduler", "dc/d6d/a20925.html#aa29309e3d94e1f19cfc1557e75bb70de", null ]
+    [ "achievement_quick_shave", "dc/d6d/a20925.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
+    [ "OnCheck", "dc/d6d/a20925.html#a151c479da3d4cec05999ad8a249b100c", null ]
 ];

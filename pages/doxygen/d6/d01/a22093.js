@@ -1,7 +1,6 @@
 var a22093 =
 [
-    [ "HandlePeriodic", "d6/d01/a22093.html#a39e103c4bd60ce54eb7ecbdb37013e04", null ],
-    [ "PrepareAuraScript", "d6/d01/a22093.html#ac198489764c878822e38a1ea225ab287", null ],
-    [ "Register", "d6/d01/a22093.html#a66933e6f4b5689b0b05de63aa7402354", null ],
-    [ "Validate", "d6/d01/a22093.html#a0db3843573837c53aeeaca69a6019d06", null ]
+    [ "npc_ravenous_worgAI", "d1/d9f/a22097.html", "d1/d9f/a22097" ],
+    [ "npc_ravenous_worg", "d6/d01/a22093.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "d6/d01/a22093.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

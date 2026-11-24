@@ -1,9 +1,6 @@
 var a20077 =
 [
-    [ "npc_stormforged_lieutenant", "db/d19/a20077.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "db/d19/a20077.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "db/d19/a20077.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "db/d19/a20077.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "db/d19/a20077.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "db/d19/a20077.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "CalculateDamage", "db/d19/a20077.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "db/d19/a20077.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "db/d19/a20077.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

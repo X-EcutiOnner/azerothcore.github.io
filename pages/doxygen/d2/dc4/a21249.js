@@ -1,7 +1,6 @@
 var a21249 =
 [
-    [ "HandleScriptEffect", "d2/dc4/a21249.html#a173ee086127655cdfcca507fd5b15b2e", null ],
-    [ "PrepareSpellScript", "d2/dc4/a21249.html#a005d47b18a820c35ec596b5539db94eb", null ],
-    [ "Register", "d2/dc4/a21249.html#a20a0d554e80707c1517422cb747f38e8", null ],
-    [ "Validate", "d2/dc4/a21249.html#a5ca44686e26def56adc2b98d88145235", null ]
+    [ "OnRemove", "d2/dc4/a21249.html#a3cac25c6136b5dce491b24b7fb0ed33a", null ],
+    [ "PrepareAuraScript", "d2/dc4/a21249.html#a2afc759693aa4dfbd0ac33b1b770e995", null ],
+    [ "Register", "d2/dc4/a21249.html#a8fbcf904caf526f37d4a7984791d9fd0", null ]
 ];

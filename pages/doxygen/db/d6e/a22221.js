@@ -1,7 +1,5 @@
 var a22221 =
 [
-    [ "HandleScript", "db/d6e/a22221.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
-    [ "PrepareSpellScript", "db/d6e/a22221.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
-    [ "Register", "db/d6e/a22221.html#a713b82bc3d82a8324ce4dd090059f463", null ],
-    [ "Validate", "db/d6e/a22221.html#ac8e362d9f76350da106e128138737c5c", null ]
+    [ "go_sister_mercy", "db/d6e/a22221.html#a3c29ef699afe163b9a505f472709a795", null ],
+    [ "EventInform", "db/d6e/a22221.html#a5ad9020e2717ef93d97a742ec16b14e6", null ]
 ];

@@ -335,9 +335,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  315</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d8/d18/a12193.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>() &amp;&amp; <a class="code hl_function" href="../../d8/d18/a12193.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d3/d53/a08893.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>();</div>
 <div class="line"><span class="lineno">  316</span>    }</div>
 <div class="ttc" id="aa08893_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../d3/d53/a08893.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition:</b> Object.h:211</div></div>
-<div class="ttc" id="aa12193_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d8/d18/a12193.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1026</div></div>
+<div class="ttc" id="aa12193_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d8/d18/a12193.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1055</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01026">AuraScript::GetCaster()</a>, and <a class="el" href="../../#l00211">Object::IsCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01055">AuraScript::GetCaster()</a>, and <a class="el" href="../../#l00211">Object::IsCreature()</a>.</p>
 
 </div>
 </div>
@@ -383,9 +383,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa06641_html_a165d336cb3423f9665ed612d2dec76ed"><div class="ttname"><a href="../../df/d2f/a06641.html#a165d336cb3423f9665ed612d2dec76ed">UnitAI::DoAction</a></div><div class="ttdeci">virtual void DoAction(int32)</div><div class="ttdef"><b>Definition:</b> UnitAI.h:217</div></div>
 <div class="ttc" id="aa08505_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../da/d0f/a08505.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition:</b> Creature.h:143</div></div>
 <div class="ttc" id="aa08893_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../d3/d53/a08893.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:212</div></div>
-<div class="ttc" id="aa12193_html_a29e48f1dc7011926160e2ed80ebf2f8e"><div class="ttname"><a href="../../d8/d18/a12193.html#a29e48f1dc7011926160e2ed80ebf2f8e">AuraScript::GetTargetApplication</a></div><div class="ttdeci">AuraApplication const * GetTargetApplication() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1207</div></div>
+<div class="ttc" id="aa12193_html_a29e48f1dc7011926160e2ed80ebf2f8e"><div class="ttname"><a href="../../d8/d18/a12193.html#a29e48f1dc7011926160e2ed80ebf2f8e">AuraScript::GetTargetApplication</a></div><div class="ttdeci">AuraApplication const * GetTargetApplication() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1236</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00057">ACTION_STORM_EXPIRE</a>, <a class="el" href="../../#l00143">Creature::AI()</a>, <a class="el" href="../../#l00395">AURA_REMOVE_BY_EXPIRE</a>, <a class="el" href="../../#l00217">UnitAI::DoAction()</a>, <a class="el" href="../../#l01026">AuraScript::GetCaster()</a>, <a class="el" href="../../#l01207">AuraScript::GetTargetApplication()</a>, and <a class="el" href="../../#l00212">Object::ToCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00057">ACTION_STORM_EXPIRE</a>, <a class="el" href="../../#l00143">Creature::AI()</a>, <a class="el" href="../../#l00395">AURA_REMOVE_BY_EXPIRE</a>, <a class="el" href="../../#l00217">UnitAI::DoAction()</a>, <a class="el" href="../../#l01055">AuraScript::GetCaster()</a>, <a class="el" href="../../#l01236">AuraScript::GetTargetApplication()</a>, and <a class="el" href="../../#l00212">Object::ToCreature()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00324">Register()</a>.</p>
 
@@ -444,14 +444,14 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  325</span>    {</div>
 <div class="line"><span class="lineno">  326</span>        <a class="code hl_variable" href="../../d8/d18/a12193.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/d2c/a00893.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../dd/d42/a14457.html#ad4044dcd8c88eba88d032a96ca79dc4c">spell_electrial_storm::OnRemove</a>, <a class="code hl_enumvalue" href="../../d3/d8f/a05099.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d3/dd1/a00914.html#a538cdc259460b365f406fe0b3a981799afdf00dd634aaa25017ad329f58bd6cfd">SPELL_AURA_MOD_STUN</a>, <a class="code hl_enumvalue" href="../../d3/dd1/a00914.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
 <div class="line"><span class="lineno">  327</span>    }</div>
-<div class="ttc" id="aa00893_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../dc/d2c/a00893.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:755</div></div>
+<div class="ttc" id="aa00893_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../dc/d2c/a00893.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:762</div></div>
 <div class="ttc" id="aa00914_html_a538cdc259460b365f406fe0b3a981799afdf00dd634aaa25017ad329f58bd6cfd"><div class="ttname"><a href="../../d3/dd1/a00914.html#a538cdc259460b365f406fe0b3a981799afdf00dd634aaa25017ad329f58bd6cfd">SPELL_AURA_MOD_STUN</a></div><div class="ttdeci">@ SPELL_AURA_MOD_STUN</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:75</div></div>
 <div class="ttc" id="aa00914_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../d3/dd1/a00914.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aa05099_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d3/d8f/a05099.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
-<div class="ttc" id="aa12193_html_a2bfb775dfbe8cfc3cff876469c78ddcf"><div class="ttname"><a href="../../d8/d18/a12193.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AuraScript::AfterEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectRemove</div><div class="ttdef"><b>Definition:</b> SpellScript.h:754</div></div>
+<div class="ttc" id="aa12193_html_a2bfb775dfbe8cfc3cff876469c78ddcf"><div class="ttname"><a href="../../d8/d18/a12193.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AuraScript::AfterEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectRemove</div><div class="ttdef"><b>Definition:</b> SpellScript.h:761</div></div>
 <div class="ttc" id="aa14457_html_ad4044dcd8c88eba88d032a96ca79dc4c"><div class="ttname"><a href="../../dd/d42/a14457.html#ad4044dcd8c88eba88d032a96ca79dc4c">spell_electrial_storm::OnRemove</a></div><div class="ttdeci">void OnRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_akilzon.cpp:318</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00754">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00755">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00318">OnRemove()</a>, and <a class="el" href="../../#l00075">SPELL_AURA_MOD_STUN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00761">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00762">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00318">OnRemove()</a>, and <a class="el" href="../../#l00075">SPELL_AURA_MOD_STUN</a>.</p>
 
 </div>
 </div>
@@ -461,7 +461,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d42/a14457.html">spell_electrial_storm</a></li>
-    <li class="footer">Generated on Tue Nov 17 2026 03:06:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Nov 24 2026 04:58:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

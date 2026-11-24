@@ -1,6 +1,12 @@
 var a19993 =
 [
-    [ "instance_oculus_InstanceMapScript", "db/d18/a19997.html", "db/d18/a19997" ],
-    [ "instance_oculus", "df/d15/a19993.html#a404205ea7106531ea57307c40b9589bb", null ],
-    [ "GetInstanceScript", "df/d15/a19993.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
+    [ "npc_oculus_drakeAI", "df/d15/a19993.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "df/d15/a19993.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "df/d15/a19993.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "df/d15/a19993.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "df/d15/a19993.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "df/d15/a19993.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "df/d15/a19993.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "df/d15/a19993.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "df/d15/a19993.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

@@ -1,6 +1,7 @@
 var a18009 =
 [
-    [ "PrepareAuraScript", "d8/d10/a18009.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
-    [ "RecalculateHook", "d8/d10/a18009.html#a829e96cabbb565922f7183adb3edf13c", null ],
-    [ "Register", "d8/d10/a18009.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
+    [ "HandleProc", "d8/d10/a18009.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
+    [ "PrepareAuraScript", "d8/d10/a18009.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
+    [ "Register", "d8/d10/a18009.html#acc0881cf7379525a0841426867d2d850", null ],
+    [ "Validate", "d8/d10/a18009.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
 ];

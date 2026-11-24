@@ -1,9 +1,6 @@
 var a18941 =
 [
-    [ "npc_spirit_wardenAI", "d1/d03/a18941.html#a3391168478345d8b5c1fee151f6e9f04", null ],
-    [ "JustDied", "d1/d03/a18941.html#aa762c0bea6361107312e8231508dc655", null ],
-    [ "Reset", "d1/d03/a18941.html#ad6076663f65f43874feb0ecfc57718a4", null ],
-    [ "UpdateAI", "d1/d03/a18941.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
-    [ "_events", "d1/d03/a18941.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
-    [ "_instance", "d1/d03/a18941.html#a58ebb8e42e77add79fc888248013eb24", null ]
+    [ "npc_lk_spirit_bombAI", "dc/da0/a18945.html", "dc/da0/a18945" ],
+    [ "npc_lk_spirit_bomb", "d1/d03/a18941.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "d1/d03/a18941.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

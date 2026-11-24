@@ -1,6 +1,7 @@
 var a17121 =
 [
-    [ "npc_toc_pet_warlockAI", "dc/d41/a17125.html", "dc/d41/a17125" ],
-    [ "npc_toc_pet_warlock", "d6/df0/a17121.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "d6/df0/a17121.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "FilterTargets", "d6/df0/a17121.html#a304da18e36ff67c34b80ab39583f8c96", null ],
+    [ "HandleScript", "d6/df0/a17121.html#adf99670bcf862288f513d2a26cbc256a", null ],
+    [ "PrepareSpellScript", "d6/df0/a17121.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
+    [ "Register", "d6/df0/a17121.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
 ];

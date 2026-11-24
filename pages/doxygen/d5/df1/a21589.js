@@ -1,6 +1,6 @@
 var a21589 =
 [
-    [ "boss_toravonAI", "da/d8f/a21593.html", "da/d8f/a21593" ],
-    [ "boss_toravon", "d5/df1/a21589.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
-    [ "GetAI", "d5/df1/a21589.html#a6db140b1d232312300e20155830cb249", null ]
+    [ "npc_frozen_orb_stalkerAI", "d5/df1/a21589.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d5/df1/a21589.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d5/df1/a21589.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

@@ -1,8 +1,16 @@
 var a23137 =
 [
-    [ "FilterTargets", "db/d86/a23137.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
-    [ "HandleDummy", "db/d86/a23137.html#ab89ab441f022ee017548ba49d128b92e", null ],
-    [ "PrepareSpellScript", "db/d86/a23137.html#aa8578390d7d9379328c02ceb209e94ed", null ],
-    [ "Register", "db/d86/a23137.html#a486387d707b7ad66ecb443ab2bb60778", null ],
-    [ "Validate", "db/d86/a23137.html#ad5d695978794d796eb7139fce1530d57", null ]
+    [ "boss_reliquary_of_soulsAI", "db/d86/a23137.html#abee29aab1d28a168be3b381d0765a804", null ],
+    [ "AttackStart", "db/d86/a23137.html#af59a9972dfdb264248e78206ea0d834c", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "db/d86/a23137.html#a67343cecd292c2dc40f8c5a275d95fdf", null ],
+    [ "DoAction", "db/d86/a23137.html#aa281dd9c7dc0c6f15c2bfcbf60384006", null ],
+    [ "JustDied", "db/d86/a23137.html#a6e19cb7d94579a70ac11f7173cf930c6", null ],
+    [ "JustEngagedWith", "db/d86/a23137.html#a88eef17a5f475b38a37b0e1adcc0cbbc", null ],
+    [ "JustEnteredCombat", "db/d86/a23137.html#a8e14f9bd4ca3c1099424fc997c238522", null ],
+    [ "JustSummoned", "db/d86/a23137.html#ad3c7679c2341951bbeb49aafad7196cd", null ],
+    [ "MoveInLineOfSight", "db/d86/a23137.html#a315a0ad69f566ff63b06fd0d47ce32d8", null ],
+    [ "PhaseTransitionSpawns", "db/d86/a23137.html#a96235ed84a30458eb5f76d87ed47dc89", null ],
+    [ "Reset", "db/d86/a23137.html#a5dc6ec0521e2ddfb63a6818ad2de0d8b", null ],
+    [ "SummonedCreatureDies", "db/d86/a23137.html#a51ac7df8689bf899eaaf4cde566d8202", null ],
+    [ "UpdateAI", "db/d86/a23137.html#a4289e678a69e35db5e4ea75fddd7e8e4", null ]
 ];

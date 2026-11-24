@@ -1,6 +1,5 @@
 var a18305 =
 [
-    [ "npc_vengeful_shadeAI", "d3/d8e/a18309.html", "d3/d8e/a18309" ],
-    [ "npc_vengeful_shade", "d9/d04/a18305.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "d9/d04/a18305.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "at_lady_deathwhisper_entrance", "d9/d04/a18305.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
+    [ "OnTrigger", "d9/d04/a18305.html#a769c838c94a88af5492057909d88f3de", null ]
 ];

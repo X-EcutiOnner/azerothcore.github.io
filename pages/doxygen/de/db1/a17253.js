@@ -1,9 +1,10 @@
 var a17253 =
 [
-    [ "npc_concentrated_ballAI", "de/db1/a17253.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "de/db1/a17253.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "de/db1/a17253.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "de/db1/a17253.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "de/db1/a17253.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "de/db1/a17253.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "boss_dredAI", "de/db1/a17253.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "de/db1/a17253.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "de/db1/a17253.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "de/db1/a17253.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "ScheduleTasks", "de/db1/a17253.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
+    [ "SetData", "de/db1/a17253.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "_raptorCount", "de/db1/a17253.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

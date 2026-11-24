@@ -1,6 +1,9 @@
 var a20789 =
 [
-    [ "HandleDamage", "dc/de2/a20789.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "dc/de2/a20789.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "dc/de2/a20789.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "npc_ulduar_bot_summon_trigger", "dc/de2/a20789.html#a16d36c154b6851c0081cc05f838b0fed", null ],
+    [ "DoAction", "dc/de2/a20789.html#a776782a85892d2d674773573be25bfa0", null ],
+    [ "Reset", "dc/de2/a20789.html#a4ec8487028b188347cf0c9a080076fe6", null ],
+    [ "UpdateAI", "dc/de2/a20789.html#a788d3eaba382e3af897678f6709a0242", null ],
+    [ "_option", "dc/de2/a20789.html#a39c909b67fcdc81542470b6e96256fd5", null ],
+    [ "_timer", "dc/de2/a20789.html#a2530742a19275efe92eeded4dce67567", null ]
 ];

@@ -1,7 +1,6 @@
 var a21789 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "da/dc5/a21789.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "da/dc5/a21789.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "da/dc5/a21789.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "da/dc5/a21789.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "HandleEffect", "da/dc5/a21789.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "da/dc5/a21789.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "da/dc5/a21789.html#a14bd854db86750704c8377d457dea360", null ]
 ];

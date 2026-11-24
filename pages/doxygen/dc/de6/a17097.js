@@ -1,6 +1,7 @@
 var a17097 =
 [
-    [ "npc_toc_rogueAI", "d8/d43/a17101.html", "d8/d43/a17101" ],
-    [ "npc_toc_rogue", "dc/de6/a17097.html#a925840be9698e381358235a827c20b8a", null ],
-    [ "GetAI", "dc/de6/a17097.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
+    [ "HandleDispel", "dc/de6/a17097.html#a7b24f38bbb7813826520f928b22d30aa", null ],
+    [ "PrepareAuraScript", "dc/de6/a17097.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
+    [ "Register", "dc/de6/a17097.html#a2bf6921550da3c13730fd98bded2c927", null ],
+    [ "Validate", "dc/de6/a17097.html#ad8b0bb389d232c74acf106b711414fa1", null ]
 ];

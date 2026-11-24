@@ -1,7 +1,7 @@
 var a17101 =
 [
-    [ "npc_toc_rogueAI", "d8/d43/a17101.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "d8/d43/a17101.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "d8/d43/a17101.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "d8/d43/a17101.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "HandleDummy", "d8/d43/a17101.html#a302bd1508a713ea1d046dd84725678a6", null ],
+    [ "PrepareSpellScript", "d8/d43/a17101.html#ad6e1d38e0df26684c8295b452015e55e", null ],
+    [ "Register", "d8/d43/a17101.html#a9f7953a570bf6b0a498cbba81042c2bd", null ],
+    [ "Validate", "d8/d43/a17101.html#a0367147eec19341b6decfa3da8da5cef", null ]
 ];

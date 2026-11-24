@@ -1,6 +1,7 @@
 var a25281 =
 [
-    [ "CheckProc", "dc/d9d/a25281.html#ad1678a96784add01965d67c3d86bcd77", null ],
-    [ "PrepareAuraScript", "dc/d9d/a25281.html#a6e164a8e3482b566b776c5ffeeb1b6ac", null ],
-    [ "Register", "dc/d9d/a25281.html#a148f3fe7ee4bdc8e148fe71100779e56", null ]
+    [ "HandleEffectRemove", "dc/d9d/a25281.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
+    [ "PrepareAuraScript", "dc/d9d/a25281.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
+    [ "Register", "dc/d9d/a25281.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
+    [ "AuraEffectHandleModes", "dc/d9d/a25281.html#a97370dd3f7c3e58a719090176c397386", null ]
 ];

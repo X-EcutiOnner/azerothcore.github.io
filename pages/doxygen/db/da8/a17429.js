@@ -1,6 +1,11 @@
 var a17429 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d2/d9a/a17433.html", "d2/d9a/a17433" ],
-    [ "instance_forge_of_souls", "db/da8/a17429.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "db/da8/a17429.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "npc_ghostly_priest", "db/da8/a17429.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
+    [ "AttackStart", "db/da8/a17429.html#acbc2eb708773500136deebb8542d36aa", null ],
+    [ "DoAction", "db/da8/a17429.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
+    [ "EnterEvadeMode", "db/da8/a17429.html#ac944330e3834bd4c65e30c595752746c", null ],
+    [ "JustDied", "db/da8/a17429.html#ae7ef06904aa2039d3552a2a62b846042", null ],
+    [ "JustEngagedWith", "db/da8/a17429.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
+    [ "Reset", "db/da8/a17429.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
+    [ "UpdateAI", "db/da8/a17429.html#a3722469ea1445f7dbaf834853a9ed654", null ]
 ];

@@ -1,7 +1,7 @@
 var a04667 =
 [
-    [ "boss_volkhan", "df/d89/a20101.html", "df/d89/a20101" ],
-    [ "npc_molten_golem", "db/d06/a20105.html", "db/d06/a20105" ],
+    [ "boss_volkhan", "db/d02/a20081.html", "db/d02/a20081" ],
+    [ "npc_molten_golem", "d6/dca/a20085.html", "d6/dca/a20085" ],
     [ "VolkahnSpells", "da/d19/a04667.html#a3d8eeb9f7fe68b166b8a2f065a81d72d", [
       [ "SPELL_HEAT", "da/d19/a04667.html#a3d8eeb9f7fe68b166b8a2f065a81d72da9329da13a5cbfa0d7dad14d7aeceeac7", null ],
       [ "SPELL_SHATTERING_STOMP", "da/d19/a04667.html#a3d8eeb9f7fe68b166b8a2f065a81d72daec9ae5b4353163fe5840d94c9371bd80", null ],
@@ -216,6 +216,7 @@ var a04667 =
       [ "SAY_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b", null ],
       [ "SAY_DEATH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "EMOTE_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
+      [ "EMOTE_TOUCH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a21153f10565e5f32475502bd21b079bd", null ],
       [ "SAY_AGGRO", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_KILL", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5", null ],
       [ "SAY_DEATH", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],

@@ -1,9 +1,6 @@
 var a24277 =
 [
-    [ "npc_ancestral_wolfAI", "d0/d64/a24277.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "d0/d64/a24277.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "d0/d64/a24277.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "d0/d64/a24277.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "WaypointReached", "d0/d64/a24277.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "ryga", "d0/d64/a24277.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "npc_fel_guard_houndAI", "dc/dad/a24281.html", "dc/dad/a24281" ],
+    [ "npc_fel_guard_hound", "d0/d64/a24277.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d0/d64/a24277.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

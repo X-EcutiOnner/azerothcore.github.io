@@ -1,6 +1,6 @@
 var a17333 =
 [
-    [ "HandleScript", "da/db4/a17333.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "da/db4/a17333.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "da/db4/a17333.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "instance_drak_tharon_keep", "da/db4/a17333.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
+    [ "OnGameObjectCreate", "da/db4/a17333.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
+    [ "OnGameObjectRemove", "da/db4/a17333.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
 ];

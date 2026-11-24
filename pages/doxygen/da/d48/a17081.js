@@ -1,6 +1,6 @@
 var a17081 =
 [
-    [ "npc_toc_warriorAI", "d3/d20/a17085.html", "d3/d20/a17085" ],
-    [ "npc_toc_warrior", "da/d48/a17081.html#a3e969be07603ef59389106769010660c", null ],
-    [ "GetAI", "da/d48/a17081.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
+    [ "npc_toc_pet_warlockAI", "d3/d20/a17085.html", "d3/d20/a17085" ],
+    [ "npc_toc_pet_warlock", "da/d48/a17081.html#a4703f506d677d7e490c6813c6d9b060b", null ],
+    [ "GetAI", "da/d48/a17081.html#aebcaff82726508a14028cb22a1ef944b", null ]
 ];

@@ -1,6 +1,9 @@
 var a22345 =
 [
-    [ "npc_tournament_training_dummyAI", "d3/dce/a22349.html", "d3/dce/a22349" ],
-    [ "npc_tournament_training_dummy", "dc/dc7/a22345.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
-    [ "GetAI", "dc/dc7/a22345.html#a31257c155c3a49c69771156800cf6340", null ]
+    [ "npc_frostbrood_skytalonAI", "dc/dc7/a22345.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "dc/dc7/a22345.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "dc/dc7/a22345.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "dc/dc7/a22345.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "dc/dc7/a22345.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "dc/dc7/a22345.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

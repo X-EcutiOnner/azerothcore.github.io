@@ -1,11 +1,9 @@
 var a21177 =
 [
-    [ "boss_yoggsaron_neltharion", "d0/d40/a21177.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
-    [ "NextStep", "d0/d40/a21177.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
-    [ "Reset", "d0/d40/a21177.html#ab26d57690c1d2477678dc9759aefeab2", null ],
-    [ "Say", "d0/d40/a21177.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
-    [ "UpdateAI", "d0/d40/a21177.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
-    [ "_checkTimer", "d0/d40/a21177.html#a2adcf3f46d4003ae2044eda474e51983", null ],
-    [ "_running", "d0/d40/a21177.html#acd807afae6aa88c2e385765231a56a86", null ],
-    [ "_step", "d0/d40/a21177.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
+    [ "HandleOnEffectApply", "d0/d40/a21177.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
+    [ "OnPeriodic", "d0/d40/a21177.html#a49ad44eba19416743bd26252d1b40d71", null ],
+    [ "PrepareAuraScript", "d0/d40/a21177.html#ae0c475babb67cebb245d6d85b50cd694", null ],
+    [ "Register", "d0/d40/a21177.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
+    [ "Validate", "d0/d40/a21177.html#ab383a0a207aa78b7efcd400765ad0838", null ],
+    [ "_targetGUID", "d0/d40/a21177.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
 ];

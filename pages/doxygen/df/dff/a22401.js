@@ -1,6 +1,5 @@
 var a22401 =
 [
-    [ "HandleHealPct", "df/dff/a22401.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "df/dff/a22401.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "df/dff/a22401.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "go_brazier", "df/dff/a22401.html#a432a07256fde679a889de7ba0f64f092", null ],
+    [ "OnGossipHello", "df/dff/a22401.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
 ];

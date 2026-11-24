@@ -1,7 +1,6 @@
 var a23273 =
 [
-    [ "FilterTargets", "d2/d40/a23273.html#a3e71f9280d4e1581db25edf84a02d120", null ],
-    [ "HandleDummy", "d2/d40/a23273.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
-    [ "PrepareSpellScript", "d2/d40/a23273.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
-    [ "Register", "d2/d40/a23273.html#a972574075c86c32593982add71dc893f", null ]
+    [ "instance_black_temple_InstanceMapScript", "d5/d77/a23277.html", "d5/d77/a23277" ],
+    [ "instance_black_temple", "d2/d40/a23273.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d2/d40/a23273.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

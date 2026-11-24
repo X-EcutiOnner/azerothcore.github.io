@@ -1,6 +1,8 @@
 var a21049 =
 [
-    [ "FilterTargets", "d3/d3f/a21049.html#a766440359968faf85f60f987b5da8c70", null ],
-    [ "PrepareSpellScript", "d3/d3f/a21049.html#a3f53d4e7fa30e53a1e05803a60c8b09b", null ],
-    [ "Register", "d3/d3f/a21049.html#adbcc19da817ecdfad19543b70afd9e56", null ]
+    [ "npc_xt_toy_pile", "d3/d3f/a21049.html#a843e7d05cf62baa5c006077f8dad107d", null ],
+    [ "SpellHit", "d3/d3f/a21049.html#a82af3830eaf524c587334e8eb193925f", null ],
+    [ "_lastSummonTime", "d3/d3f/a21049.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
+    [ "SummonCooldown", "d3/d3f/a21049.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
+    [ "SummonDistance", "d3/d3f/a21049.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
 ];

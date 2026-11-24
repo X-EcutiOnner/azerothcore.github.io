@@ -1,6 +1,6 @@
 var a17813 =
 [
-    [ "boss_prince_taldaramAI", "d2/dbd/a17817.html", "d2/dbd/a17817" ],
-    [ "boss_prince_taldaram_icc", "d0/d2d/a17813.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "d0/d2d/a17813.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "npc_dark_nucleusAI", "d2/dbd/a17817.html", "d2/dbd/a17817" ],
+    [ "npc_dark_nucleus", "d0/d2d/a17813.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "d0/d2d/a17813.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

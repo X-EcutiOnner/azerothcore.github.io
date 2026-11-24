@@ -1,7 +1,8 @@
 var a23021 =
 [
-    [ "OnPeriodic", "df/db1/a23021.html#aa5d2f7530277a6a4d4a85ec5d244b9bc", null ],
-    [ "PrepareAuraScript", "df/db1/a23021.html#a973ccf17f6499bc84306a18b07fcef7b", null ],
-    [ "Register", "df/db1/a23021.html#a07b3b1df6626a9fb657270eb1d9f386a", null ],
-    [ "Validate", "df/db1/a23021.html#a006d67e9e82cce68930b90b00d3555a4", null ]
+    [ "Load", "df/db1/a23021.html#a4ff26763f05b07d882cd8d209464910e", null ],
+    [ "OnPeriodic", "df/db1/a23021.html#a3e3bb503a6b5f90741a4df668851accf", null ],
+    [ "PrepareAuraScript", "df/db1/a23021.html#a4126d35669859963f10ed1425a054298", null ],
+    [ "Register", "df/db1/a23021.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
+    [ "Validate", "df/db1/a23021.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
 ];

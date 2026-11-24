@@ -1,19 +1,12 @@
 var a20073 =
 [
-    [ "boss_bjarngrim", "da/dab/a20073.html#a1bf90864479939ba3f251c38b173e23a", null ],
-    [ "InitializeWaypoints", "da/dab/a20073.html#a87eab2b27b48d98b94a030936722781e", null ],
-    [ "JustDied", "da/dab/a20073.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
-    [ "JustEngagedWith", "da/dab/a20073.html#ad150ab7d9837861e8c4673a78978bb11", null ],
-    [ "JustRespawned", "da/dab/a20073.html#ab698e8ea0de311b167d95c01ef1bee69", null ],
-    [ "KilledUnit", "da/dab/a20073.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
-    [ "RemoveStanceAura", "da/dab/a20073.html#a55a695e27192313c6cbe263a739e669e", null ],
-    [ "Reset", "da/dab/a20073.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
-    [ "RollStance", "da/dab/a20073.html#acd511435f9d77aa4839e1c856382ea51", null ],
-    [ "UpdateEscortAI", "da/dab/a20073.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
-    [ "WaypointReached", "da/dab/a20073.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
-    [ "WaypointReached", "da/dab/a20073.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "events", "da/dab/a20073.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
-    [ "m_pInstance", "da/dab/a20073.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
-    [ "m_uiStance", "da/dab/a20073.html#aec11755c71f056c8294a8af1c1084353", null ],
-    [ "summons", "da/dab/a20073.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
+    [ "boss_loken", "da/dab/a20073.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
+    [ "JustDied", "da/dab/a20073.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
+    [ "JustEngagedWith", "da/dab/a20073.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
+    [ "KilledUnit", "da/dab/a20073.html#a85ae3094927f7484216b44582f9a2bf6", null ],
+    [ "MoveInLineOfSight", "da/dab/a20073.html#ac9f3115629e5595d06c213d3e04afa68", null ],
+    [ "OnAuraRemove", "da/dab/a20073.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
+    [ "Reset", "da/dab/a20073.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
+    [ "ScheduleTasks", "da/dab/a20073.html#a600e211be40226679212a7078b26f3ed", null ],
+    [ "_introDone", "da/dab/a20073.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
 ];

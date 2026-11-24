@@ -1,6 +1,6 @@
 var a16813 =
 [
-    [ "npc_living_infernoAI", "d5/d85/a16817.html", "d5/d85/a16817" ],
-    [ "npc_living_inferno", "d8/d14/a16813.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "d8/d14/a16813.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "boss_saviana_ragefireAI", "d5/d85/a16817.html", "d5/d85/a16817" ],
+    [ "boss_saviana_ragefire", "d8/d14/a16813.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "d8/d14/a16813.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

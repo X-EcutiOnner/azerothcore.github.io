@@ -1,6 +1,7 @@
 var a18005 =
 [
-    [ "ModAuraValue", "d2/dac/a18005.html#a359453c6253beb6f729209c6d3d79af7", null ],
-    [ "PrepareSpellScript", "d2/dac/a18005.html#a4f916abef69782be10cc6be9ba0124f5", null ],
-    [ "Register", "d2/dac/a18005.html#a4a387df07c88144288c4327ce86b730a", null ]
+    [ "npc_icc_blood_beastAI", "d2/dac/a18005.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "d2/dac/a18005.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "d2/dac/a18005.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "d2/dac/a18005.html#a1074059162f818088808795119f081be", null ]
 ];

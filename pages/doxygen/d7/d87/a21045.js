@@ -1,7 +1,9 @@
 var a21045 =
 [
-    [ "npc_xt_void_zone", "d7/d87/a21045.html#ac392b70098ff8a486d1eb42c4dcd1551", null ],
-    [ "Reset", "d7/d87/a21045.html#a72b02a51f71370f83b58d3fdb32dccd2", null ],
-    [ "UpdateAI", "d7/d87/a21045.html#a7b49046e49cdf6b94ed6368197daeace", null ],
-    [ "_scheduler", "d7/d87/a21045.html#acfd9e9a23c88e74ad96a14f8fb560612", null ]
+    [ "GetRandomToyPile", "d7/d87/a21045.html#a4e119696b212c6a57f11b284c2bb0c82", null ],
+    [ "HandleScript", "d7/d87/a21045.html#a62eb106c6a55406adc682b372a94aaef", null ],
+    [ "PrepareSpellScript", "d7/d87/a21045.html#acb19b4f65324ce419004e969274c4816", null ],
+    [ "Register", "d7/d87/a21045.html#aba572e339d50b51cb33d04270d29b733", null ],
+    [ "Validate", "d7/d87/a21045.html#a59acb2775caa76c05797d7c8dfd0f3fb", null ],
+    [ "ToyPileSearchDistance", "d7/d87/a21045.html#aa7c7f5e7298e89e431464105d5d8bbdf", null ]
 ];

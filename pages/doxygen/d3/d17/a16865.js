@@ -1,6 +1,7 @@
 var a16865 =
 [
-    [ "npc_memoryAI", "d1/daf/a16869.html", "d1/daf/a16869" ],
-    [ "npc_memory", "d3/d17/a16865.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "d3/d17/a16865.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "HandleAfterEffectAbsorb", "d3/d17/a16865.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d3/d17/a16865.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d3/d17/a16865.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d3/d17/a16865.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

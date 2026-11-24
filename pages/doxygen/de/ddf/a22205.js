@@ -1,7 +1,7 @@
 var a22205 =
 [
-    [ "HandleScriptEffect", "de/ddf/a22205.html#a7b0fca053f225beda41942d8fee86383", null ],
-    [ "PrepareSpellScript", "de/ddf/a22205.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
-    [ "Register", "de/ddf/a22205.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
-    [ "Validate", "de/ddf/a22205.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
+    [ "HandleDummy", "de/ddf/a22205.html#a2b903398db78b07e6315a582c2f0a38d", null ],
+    [ "PrepareSpellScript", "de/ddf/a22205.html#ae86e65e975f464527f71f70ac8b14213", null ],
+    [ "Register", "de/ddf/a22205.html#a390c378d25b5892679b0253f50c2c145", null ],
+    [ "Validate", "de/ddf/a22205.html#a79170e1b6f472df2c0427e7009209228", null ]
 ];

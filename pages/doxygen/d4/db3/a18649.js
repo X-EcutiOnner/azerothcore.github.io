@@ -1,9 +1,15 @@
 var a18649 =
 [
-    [ "AfterApply", "d4/db3/a18649.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
-    [ "ExtraRemoveEffect", "d4/db3/a18649.html#a9f427761fcca9029eb75d586e5876fcd", null ],
-    [ "PeriodicTick", "d4/db3/a18649.html#a82430399e44001343f322b2c3b7769a5", null ],
-    [ "PrepareAuraScript", "d4/db3/a18649.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
-    [ "Register", "d4/db3/a18649.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
-    [ "Validate", "d4/db3/a18649.html#ae20873e93fbace6272a793993fb45349", null ]
+    [ "npc_spinestalkerAI", "d4/db3/a18649.html#ad758068ccfc12cead2e3a6b646bea374", null ],
+    [ "DoAction", "d4/db3/a18649.html#a263d897b4c94c71fe6597c0753722ce8", null ],
+    [ "InitializeAI", "d4/db3/a18649.html#ab87abc1a65e48325c31a52517477297b", null ],
+    [ "JustDied", "d4/db3/a18649.html#ada5ab1c21b13acc0aee4e7a4907d76d9", null ],
+    [ "JustReachedHome", "d4/db3/a18649.html#a56e9b760fd28219bee8a3aa604010d07", null ],
+    [ "JustRespawned", "d4/db3/a18649.html#a6ae99a71f8517055acc6e637b54c78d0", null ],
+    [ "MovementInform", "d4/db3/a18649.html#aebb6606d219bd6ee59c01718374576e9", null ],
+    [ "Reset", "d4/db3/a18649.html#a892d973ca4e04138eda70b09e16c9b2a", null ],
+    [ "UpdateAI", "d4/db3/a18649.html#a94ad98a558ed8df7c17f75a0a6c0ec26", null ],
+    [ "_events", "d4/db3/a18649.html#a45d8828fc3324d91387a26c560cf725b", null ],
+    [ "_instance", "d4/db3/a18649.html#a73dfcbf2ea0162cfb69f1ec169f659d4", null ],
+    [ "_summoned", "d4/db3/a18649.html#a324cd480e056750c61318446c97df48d", null ]
 ];

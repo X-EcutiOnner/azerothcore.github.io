@@ -1,14 +1,8 @@
 var a21377 =
 [
-    [ "boss_dalronn_the_controller", "d7/db6/a21377.html#a57718e928fa273bba3c40a05d5888a3d", null ],
-    [ "DoAction", "d7/db6/a21377.html#ad11e43d40a61f093b5e51482437467b8", null ],
-    [ "JustDied", "d7/db6/a21377.html#a28a669b56392b599e124573778e33134", null ],
-    [ "JustEngagedWith", "d7/db6/a21377.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
-    [ "JustSummoned", "d7/db6/a21377.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
-    [ "KilledUnit", "d7/db6/a21377.html#a96a173e30ad81c77217b0693d1d15839", null ],
-    [ "Reset", "d7/db6/a21377.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
-    [ "UpdateAI", "d7/db6/a21377.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
-    [ "events", "d7/db6/a21377.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
-    [ "pInstance", "d7/db6/a21377.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
-    [ "summons", "d7/db6/a21377.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
+    [ "CheckProc", "d7/db6/a21377.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
+    [ "HandleProc", "d7/db6/a21377.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
+    [ "PrepareAuraScript", "d7/db6/a21377.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
+    [ "Register", "d7/db6/a21377.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
+    [ "Validate", "d7/db6/a21377.html#ad4176f188412053b9205820fb6183d38", null ]
 ];

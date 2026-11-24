@@ -1,6 +1,6 @@
 var a27821 =
 [
-    [ "PeriodicTick", "dc/d8f/a27821.html#a8765e8f662c4279669c955108ff356e3", null ],
-    [ "PrepareAuraScript", "dc/d8f/a27821.html#a15f077618950e4526ffcee9ee172d89f", null ],
-    [ "Register", "dc/d8f/a27821.html#aeeca3a2be368025147702c4aa8c518ce", null ]
+    [ "HandleProc", "dc/d8f/a27821.html#a933975b17f340d9f458dc95b77aa43ac", null ],
+    [ "PrepareAuraScript", "dc/d8f/a27821.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
+    [ "Register", "dc/d8f/a27821.html#a54dd9a2a6646282897cabec00f092525", null ]
 ];

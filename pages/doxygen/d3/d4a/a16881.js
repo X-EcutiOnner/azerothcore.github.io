@@ -1,6 +1,6 @@
 var a16881 =
 [
-    [ "FilterTargets", "d3/d4a/a16881.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "d3/d4a/a16881.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "d3/d4a/a16881.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "HandleSpellHit", "d3/d4a/a16881.html#a8c801b92f6e405668edae54989dd58e8", null ],
+    [ "PrepareSpellScript", "d3/d4a/a16881.html#abae02a74f626b890f61df551318dcc81", null ],
+    [ "Register", "d3/d4a/a16881.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
 ];

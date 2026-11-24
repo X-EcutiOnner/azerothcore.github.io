@@ -1,6 +1,6 @@
 var a19693 =
 [
-    [ "HandleAfterHit", "d5/d09/a19693.html#a4f9ee2b8830fc812a78154f8b54a0a47", null ],
-    [ "PrepareSpellScript", "d5/d09/a19693.html#a75d2e4bc16170348893654d53c1bb6d7", null ],
-    [ "Register", "d5/d09/a19693.html#a5e33a371d519c2fdc8561f2ac8d9dd82", null ]
+    [ "boss_maexxna_webwrapAI", "d0/d47/a19697.html", "d0/d47/a19697" ],
+    [ "boss_maexxna_webwrap", "d5/d09/a19693.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
+    [ "GetAI", "d5/d09/a19693.html#a6d86d58a86b831a219ecc598044be4f3", null ]
 ];

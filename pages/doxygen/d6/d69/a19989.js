@@ -1,15 +1,6 @@
 var a19989 =
 [
-    [ "boss_varosAI", "d6/d69/a19989.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
-    [ "EnterEvadeMode", "d6/d69/a19989.html#a0b7eeef4529b47357d729852cdeab002", null ],
-    [ "JustDied", "d6/d69/a19989.html#a2724167a66a059e1c0ca1612d8405d68", null ],
-    [ "JustEngagedWith", "d6/d69/a19989.html#a2f25555ca2884f6bffb289d209e87740", null ],
-    [ "JustSummoned", "d6/d69/a19989.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
-    [ "MoveInLineOfSight", "d6/d69/a19989.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
-    [ "Reset", "d6/d69/a19989.html#aef24d04954a26bb6381c860403e84288", null ],
-    [ "UpdateAI", "d6/d69/a19989.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
-    [ "events", "d6/d69/a19989.html#a36746118770c936e7606962365e102d8", null ],
-    [ "pInstance", "d6/d69/a19989.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
-    [ "step", "d6/d69/a19989.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
-    [ "ZapAngle", "d6/d69/a19989.html#aef225fcf580c5e500d3242ac4be24260", null ]
+    [ "npc_oculus_drakeAI", "df/d15/a19993.html", "df/d15/a19993" ],
+    [ "npc_oculus_drake", "d6/d69/a19989.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "d6/d69/a19989.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

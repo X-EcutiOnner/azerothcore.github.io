@@ -1,7 +1,7 @@
 var a22177 =
 [
-    [ "HandleScript", "d2/d33/a22177.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "d2/d33/a22177.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "d2/d33/a22177.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "d2/d33/a22177.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_plaguehound_trackerAI", "d2/d33/a22177.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d2/d33/a22177.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d2/d33/a22177.html#a67c345f49572cde76d9109a1baff6788", null ],
+    [ "WaypointReached", "d2/d33/a22177.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

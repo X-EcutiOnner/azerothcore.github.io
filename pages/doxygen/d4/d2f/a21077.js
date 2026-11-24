@@ -1,7 +1,5 @@
 var a21077 =
 [
-    [ "FilterTargets", "d4/d2f/a21077.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "d4/d2f/a21077.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "d4/d2f/a21077.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "d4/d2f/a21077.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "achievement_nerf_engineering", "d4/d2f/a21077.html#ad8e1eadd635c7a5025e545053b52904f", null ],
+    [ "OnCheck", "d4/d2f/a21077.html#aefe01bfba3347be8a01bf5a398865cb6", null ]
 ];

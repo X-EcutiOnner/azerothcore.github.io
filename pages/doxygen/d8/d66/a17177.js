@@ -1,6 +1,7 @@
 var a17177 =
 [
-    [ "HandleRemove", "d8/d66/a17177.html#a299077c537b7b78390649b36fdda738f", null ],
-    [ "PrepareAuraScript", "d8/d66/a17177.html#ae4591520913f56b9d369ec937f5cb71b", null ],
-    [ "Register", "d8/d66/a17177.html#a33c5574523b15b00976164ad38bcbf13", null ]
+    [ "HandleScriptEffect", "d8/d66/a17177.html#aea6862494c2baf92d52ef41634465142", null ],
+    [ "PrepareSpellScript", "d8/d66/a17177.html#ad2149b598db19eabd39ef3e0b0bd68e3", null ],
+    [ "Register", "d8/d66/a17177.html#a1d1df68a416c6a1367f2872ecf9e5ebd", null ],
+    [ "Validate", "d8/d66/a17177.html#ad5edce4270cd0619d749730618236312", null ]
 ];

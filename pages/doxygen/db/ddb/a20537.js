@@ -1,6 +1,7 @@
 var a20537 =
 [
-    [ "FilterTargets", "db/ddb/a20537.html#a977f0687005cdbd585be0704e5ce20d8", null ],
-    [ "PrepareSpellScript", "db/ddb/a20537.html#a96f279fbc08f23f0b7e7f807dc0ddd7a", null ],
-    [ "Register", "db/ddb/a20537.html#a1038ca2384a31671dab1d72e1232cfe1", null ]
+    [ "HandleEffectPeriodic", "db/ddb/a20537.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
+    [ "PrepareAuraScript", "db/ddb/a20537.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
+    [ "Register", "db/ddb/a20537.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
+    [ "Validate", "db/ddb/a20537.html#a16c536c913d003826ef4b86c7a497fec", null ]
 ];

@@ -1,6 +1,6 @@
 var a19645 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d6/dd1/a19649.html", "d6/dd1/a19649" ],
-    [ "boss_grobbulus_poison_cloud", "d9/d14/a19645.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
-    [ "GetAI", "d9/d14/a19645.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
+    [ "boss_kelthuzadAI", "d6/dd1/a19649.html", "d6/dd1/a19649" ],
+    [ "boss_kelthuzad", "d9/d14/a19645.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
+    [ "GetAI", "d9/d14/a19645.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
 ];

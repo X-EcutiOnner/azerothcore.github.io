@@ -1,5 +1,5 @@
 var a20577 =
 [
-    [ "achievement_shadowdodger", "d3/dd2/a20577.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
-    [ "OnCheck", "d3/dd2/a20577.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
+    [ "npc_ulduar_toasty_fire", "d3/dd2/a20577.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
+    [ "DoAction", "d3/dd2/a20577.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ]
 ];

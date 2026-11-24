@@ -1,7 +1,6 @@
 var a24389 =
 [
-    [ "HandleEffectApply", "d6/de5/a24389.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "d6/de5/a24389.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "d6/de5/a24389.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "d6/de5/a24389.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "npc_infernal_attackerAI", "d4/d1c/a24393.html", "d4/d1c/a24393" ],
+    [ "npc_infernal_attacker", "d6/de5/a24389.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d6/de5/a24389.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

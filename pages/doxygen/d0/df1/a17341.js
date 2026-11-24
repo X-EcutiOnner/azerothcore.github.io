@@ -1,12 +1,7 @@
 var a17341 =
 [
-    [ "boss_trollgoreAI", "d0/df1/a17341.html#a958deb54a8460cc2dc61958bd9acb338", null ],
-    [ "CheckInRoom", "d0/df1/a17341.html#a6428a1c4fc7d3da4e016ed17ea3684df", null ],
-    [ "JustDied", "d0/df1/a17341.html#a32a309084b6b7c4b4e5db10d9c8a95bd", null ],
-    [ "JustEngagedWith", "d0/df1/a17341.html#a25414dc1b13aa1372e397c5cb11afdaa", null ],
-    [ "JustSummoned", "d0/df1/a17341.html#abd2199877e0e1465a7e5783b80ad2a44", null ],
-    [ "KilledUnit", "d0/df1/a17341.html#aa65d03d8879c6177753b8316c1343ad4", null ],
-    [ "Reset", "d0/df1/a17341.html#a4fe22aebe6e814196ac1914d158a62de", null ],
-    [ "UpdateAI", "d0/df1/a17341.html#a3fa3247442edb81136647f7fdf5834cf", null ],
-    [ "events2", "d0/df1/a17341.html#a94e8c9616ac332f33f2b976c074092af", null ]
+    [ "HandleScriptEffect", "d0/df1/a17341.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "d0/df1/a17341.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "d0/df1/a17341.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "d0/df1/a17341.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

@@ -1,21 +1,21 @@
 var a04550 =
 [
-    [ "npc_snobold_vassal", "dc/d57/a17161.html", "dc/d57/a17161" ],
-    [ "npc_snobold_vassal::npc_snobold_vassalAI", "dc/de1/a17165.html", "dc/de1/a17165" ],
-    [ "boss_gormok", "d3/df9/a17169.html", "d3/df9/a17169" ],
-    [ "boss_gormok::boss_gormokAI", "d2/d0a/a17173.html", "d2/d0a/a17173" ],
-    [ "spell_gormok_jump_to_hand", "d8/d66/a17177.html", "d8/d66/a17177" ],
-    [ "boss_jormungarAI", "d3/d59/a17181.html", "d3/d59/a17181" ],
-    [ "boss_acidmaw", "d3/d8d/a17185.html", "d3/d8d/a17185" ],
-    [ "boss_acidmaw::boss_acidmawAI", "de/df3/a17189.html", "de/df3/a17189" ],
-    [ "boss_dreadscale", "d6/d36/a17193.html", "d6/d36/a17193" ],
-    [ "boss_dreadscale::boss_dreadscaleAI", "dc/d78/a17197.html", "dc/d78/a17197" ],
-    [ "spell_jormungars_paralytic_toxin_aura", "d5/db5/a17201.html", "d5/db5/a17201" ],
-    [ "boss_icehowl", "d2/d8d/a17205.html", "d2/d8d/a17205" ],
-    [ "boss_icehowl::boss_icehowlAI", "d0/da9/a17209.html", "d0/da9/a17209" ],
-    [ "spell_icehowl_arctic_breath", "d1/dd7/a17213.html", "d1/dd7/a17213" ],
-    [ "spell_icehowl_jump_back", "d9/dd7/a17217.html", "d9/dd7/a17217" ],
-    [ "spell_icehowl_massive_crash", "dc/d51/a17221.html", "dc/d51/a17221" ],
+    [ "npc_snobold_vassal", "dc/d41/a17125.html", "dc/d41/a17125" ],
+    [ "npc_snobold_vassal::npc_snobold_vassalAI", "db/d96/a17129.html", "db/d96/a17129" ],
+    [ "boss_gormok", "d5/db5/a17133.html", "d5/db5/a17133" ],
+    [ "boss_gormok::boss_gormokAI", "db/d60/a17137.html", "db/d60/a17137" ],
+    [ "spell_gormok_jump_to_hand", "db/d9e/a17141.html", "db/d9e/a17141" ],
+    [ "boss_jormungarAI", "db/d51/a17145.html", "db/d51/a17145" ],
+    [ "boss_acidmaw", "d3/d8c/a17149.html", "d3/d8c/a17149" ],
+    [ "boss_acidmaw::boss_acidmawAI", "d7/db5/a17153.html", "d7/db5/a17153" ],
+    [ "boss_dreadscale", "dc/d52/a17157.html", "dc/d52/a17157" ],
+    [ "boss_dreadscale::boss_dreadscaleAI", "dc/d57/a17161.html", "dc/d57/a17161" ],
+    [ "spell_jormungars_paralytic_toxin_aura", "dc/de1/a17165.html", "dc/de1/a17165" ],
+    [ "boss_icehowl", "d3/df9/a17169.html", "d3/df9/a17169" ],
+    [ "boss_icehowl::boss_icehowlAI", "d2/d0a/a17173.html", "d2/d0a/a17173" ],
+    [ "spell_icehowl_arctic_breath", "d8/d66/a17177.html", "d8/d66/a17177" ],
+    [ "spell_icehowl_jump_back", "d3/d59/a17181.html", "d3/d59/a17181" ],
+    [ "spell_icehowl_massive_crash", "d3/d8d/a17185.html", "d3/d8d/a17185" ],
     [ "GormokActions", "d2/df8/a04550.html#a0def6d6c58a0d849af9617312f36c5d5", [
       [ "ACTION_GORMOK_DIED", "d2/df8/a04550.html#a0def6d6c58a0d849af9617312f36c5d5a83dd722143e45d4373592ae85902b41c", null ],
       [ "ACTION_SNOBOLD_MISSED", "d2/df8/a04550.html#a0def6d6c58a0d849af9617312f36c5d5aea583c8a6090ef0cfc639278a4c74f2b", null ]
@@ -76,6 +76,10 @@ var a04550 =
       [ "SPELL_STAGGERED_DAZE", "d2/df8/a04550.html#a1383eb6f6f4528abcd4a18007aef1bbbae283ea2efb36288f52b03f5fc44a5d31", null ],
       [ "SPELL_BERSERK", "d2/df8/a04550.html#a1383eb6f6f4528abcd4a18007aef1bbbad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
       [ "SPELL_SURGE_OF_ADRENALINE", "d2/df8/a04550.html#a1383eb6f6f4528abcd4a18007aef1bbbabe2dbfd43fe9a5f667e97bbe9af7af40", null ]
+    ] ],
+    [ "JormungarActions", "d2/df8/a04550.html#ab5922a5fa8e3e9c3304fa8069e7d7d96", [
+      [ "ACTION_PARTNER_SUBMERGED", "d2/df8/a04550.html#ab5922a5fa8e3e9c3304fa8069e7d7d96a588976b4b029ff3a1fc3ad7affac64e3", null ],
+      [ "ACTION_PARTNER_DIED", "d2/df8/a04550.html#ab5922a5fa8e3e9c3304fa8069e7d7d96aff76e0994cdcd3d1ebd0549504ba99b8", null ]
     ] ],
     [ "JormungarEvents", "d2/df8/a04550.html#a20526ec3ab955a91bc3f1e4bff419914", [
       [ "EVENT_SUBMERGE", "d2/df8/a04550.html#a20526ec3ab955a91bc3f1e4bff419914ac03b7f1947bf9753f19061f508b61a73", null ],
@@ -310,6 +314,7 @@ var a04550 =
       [ "SAY_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b", null ],
       [ "SAY_DEATH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "EMOTE_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
+      [ "EMOTE_TOUCH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a21153f10565e5f32475502bd21b079bd", null ],
       [ "SAY_AGGRO", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_KILL", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5", null ],
       [ "SAY_DEATH", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],

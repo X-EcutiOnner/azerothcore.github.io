@@ -1,6 +1,6 @@
 var a00065 =
 [
-    [ "BinarySpellDetectionTest", "db/dc1/a30149.html", "db/dc1/a30149" ],
+    [ "BinarySpellDetectionTest", "d6/d75/a30141.html", "d6/d75/a30141" ],
     [ "ShouldMarkBinary", "de/de1/a00065.html#ab2154405a408271aa60863454b0303fe", null ],
     [ "TEST_F", "de/de1/a00065.html#ae8ecca79d16f8a89b183cf4611dad5d0", null ],
     [ "TEST_F", "de/de1/a00065.html#afb1918ddefeb036bd6be1fbde953b78b", null ],

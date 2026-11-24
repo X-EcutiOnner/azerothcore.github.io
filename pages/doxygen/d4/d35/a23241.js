@@ -1,12 +1,7 @@
 var a23241 =
 [
-    [ "boss_teron_gorefiend", "d4/d35/a23241.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
-    [ "JustDied", "d4/d35/a23241.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
-    [ "JustEngagedWith", "d4/d35/a23241.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
-    [ "JustSummoned", "d4/d35/a23241.html#a71db567c5be7396add349e2f1b455a50", null ],
-    [ "KilledUnit", "d4/d35/a23241.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
-    [ "Reset", "d4/d35/a23241.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
-    [ "SetData", "d4/d35/a23241.html#a139c351471a3f19c7e59cf8e40913820", null ],
-    [ "UpdateAI", "d4/d35/a23241.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
-    [ "_intro", "d4/d35/a23241.html#a99c62157084373e8eddd4497360cc047", null ]
+    [ "CalculateAmount", "d4/d35/a23241.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "d4/d35/a23241.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "d4/d35/a23241.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "d4/d35/a23241.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

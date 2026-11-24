@@ -1,7 +1,6 @@
 var a21837 =
 [
-    [ "HandleDummy", "d4/d56/a21837.html#a476c55695b54e6f6756d9f795dbeeb07", null ],
-    [ "PrepareSpellScript", "d4/d56/a21837.html#ae3af1398dec6d6f5faac8e026a6966df", null ],
-    [ "Register", "d4/d56/a21837.html#a693522c8a05e2d86837bf16ef2a777b4", null ],
-    [ "Validate", "d4/d56/a21837.html#ae1a2cdf4819859e11d6a70104c6d431a", null ]
+    [ "npc_steam_powered_auctioneerAI", "d4/df2/a21841.html", "d4/df2/a21841" ],
+    [ "npc_steam_powered_auctioneer", "d4/d56/a21837.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "d4/d56/a21837.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

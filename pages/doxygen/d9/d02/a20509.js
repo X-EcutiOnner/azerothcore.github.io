@@ -1,14 +1,6 @@
 var a20509 =
 [
-    [ "boss_freya_summons", "d9/d02/a20509.html#a1d53e3d32307347532f96ca2b27734cb", null ],
-    [ "IsSummonedBy", "d9/d02/a20509.html#a631605e67e488590d8d96d4807d13cd2", null ],
-    [ "JustDied", "d9/d02/a20509.html#a15d9b71a31a840917b449c0094049e00", null ],
-    [ "JustEngagedWith", "d9/d02/a20509.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
-    [ "Reset", "d9/d02/a20509.html#af7e842a7bc2be806816a942026670d71", null ],
-    [ "ReviveWithAllies", "d9/d02/a20509.html#acec319d89a49da510093411f681fb950", null ],
-    [ "UpdateAI", "d9/d02/a20509.html#abc3634dce208478e82d3c9bb19d222df", null ],
-    [ "_hasDied", "d9/d02/a20509.html#a145f46cfda95e50fa30c98581a30de9e", null ],
-    [ "_isTrio", "d9/d02/a20509.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
-    [ "_setId", "d9/d02/a20509.html#a3898bc77baa92fd0031aea5bbef5eb80", null ],
-    [ "events", "d9/d02/a20509.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
+    [ "HandleSurge", "d9/d02/a20509.html#a669a46f3583518664462b4ee915be2da", null ],
+    [ "PrepareSpellScript", "d9/d02/a20509.html#adead1c7e506e9dc8d6b9cc04f2331a58", null ],
+    [ "Register", "d9/d02/a20509.html#a7f29f72897e2e175044a49b05d2994d7", null ]
 ];

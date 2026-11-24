@@ -1,6 +1,7 @@
 var a24373 =
 [
-    [ "CheckCast", "db/d5a/a24373.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "db/d5a/a24373.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "db/d5a/a24373.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "HandleScriptEffect", "db/d5a/a24373.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "db/d5a/a24373.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "db/d5a/a24373.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "db/d5a/a24373.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

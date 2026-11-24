@@ -1,6 +1,8 @@
 var a19533 =
 [
-    [ "npc_ioc_gunship_captainAI", "db/dda/a19537.html", "db/dda/a19537" ],
-    [ "npc_ioc_gunship_captain", "d4/d2e/a19533.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
-    [ "GetAI", "d4/d2e/a19533.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
+    [ "HandleScript", "d4/d2e/a19533.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
+    [ "HandleScript2", "d4/d2e/a19533.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
+    [ "Load", "d4/d2e/a19533.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
+    [ "PrepareSpellScript", "d4/d2e/a19533.html#a2d1dbae570206b358878020879708000", null ],
+    [ "Register", "d4/d2e/a19533.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
 ];

@@ -1,8 +1,26 @@
 var a17145 =
 [
-    [ "npc_fel_infernal", "db/d51/a17145.html#a4d8f956193efd148948b48892fb47240", null ],
-    [ "EnterEvadeMode", "db/d51/a17145.html#a3a8ed8a9636f1002de3ef896575e033d", null ],
-    [ "JustDied", "db/d51/a17145.html#ac4dbf210111940e8e88b4112252d1a61", null ],
-    [ "Reset", "db/d51/a17145.html#a5618a5a696352d802bc1ec200768bd4f", null ],
-    [ "UpdateAI", "db/d51/a17145.html#a06f75ff314cd55b307f5c00a6254b409", null ]
+    [ "boss_jormungarAI", "db/d51/a17145.html#ab5291ccd06b4a0601e3426a89a86d99d", null ],
+    [ "AttackStart", "db/d51/a17145.html#acabeffd2f9978b25a0b27abfbb3f5220", null ],
+    [ "DoAction", "db/d51/a17145.html#a5ce0f99d3889933633e1d88b4bacee88", null ],
+    [ "EnterEvadeMode", "db/d51/a17145.html#aa3cd34a173b92dd2b54a28bb1b17fae7", null ],
+    [ "IsSummonedBy", "db/d51/a17145.html#af4ba4cb07dec00f147c5571f381a46ae", null ],
+    [ "JustDied", "db/d51/a17145.html#a2a9278b547776c84b756b6fb2fc89e67", null ],
+    [ "JustEngagedWith", "db/d51/a17145.html#af5a266b577c5bb8ef8f7bbd7fddc163e", null ],
+    [ "JustReachedHome", "db/d51/a17145.html#afd345729b079d2dacd8f37f4481968f1", null ],
+    [ "MovementInform", "db/d51/a17145.html#af262f0613d0ba62883411408d7c8f666", null ],
+    [ "ScheduleEvents", "db/d51/a17145.html#a6fd24ecd0be5692e9e389833a6134de5", null ],
+    [ "UpdateAI", "db/d51/a17145.html#ad8e5bf4176dfa37c3af476f6f71e699e", null ],
+    [ "_MODEL_MOBILE", "db/d51/a17145.html#a4be09bf0ae4c96d77edd5b1577b8aa28", null ],
+    [ "_MODEL_STATIONARY", "db/d51/a17145.html#adb7d8c493523dadcd0168899621cd246", null ],
+    [ "_SPELL_BITE", "db/d51/a17145.html#a604bcb56112044c4e437a9c447f0db51", null ],
+    [ "_SPELL_SPEW", "db/d51/a17145.html#af8f47b7cbad0adb835c1bdcf40ca5288", null ],
+    [ "_SPELL_SPIT", "db/d51/a17145.html#a4bdfcadfd0ebcc98b0a2c221b3a387b2", null ],
+    [ "_SPELL_SPRAY", "db/d51/a17145.html#ac73edc1b85cd78b045657279335a7564", null ],
+    [ "_TYPE_OTHER", "db/d51/a17145.html#a4c341523dfc63b6c9b73f9e3a49ce854", null ],
+    [ "bIsStationary", "db/d51/a17145.html#a16e42748b51576e6acb7cb30794b47bf", null ],
+    [ "BurrowDest", "db/d51/a17145.html#a65ab09c0349d30da7d9e3f354ee0d8d8", null ],
+    [ "events", "db/d51/a17145.html#a08cfa4cc7bf270926bf1d3fc8089318f", null ],
+    [ "pInstance", "db/d51/a17145.html#a981495f258c2fdeec9d0139ab02cf044", null ],
+    [ "Submerged", "db/d51/a17145.html#afc3042265ef2d7f3b1dd347ae4f4fcf2", null ]
 ];

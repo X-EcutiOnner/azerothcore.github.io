@@ -1,10 +1,10 @@
 var a23521 =
 [
-    [ "Spells", "d3/db9/a23521.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "d3/db9/a23521.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "d3/db9/a23521.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "d3/db9/a23521.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "d3/db9/a23521.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "d3/db9/a23521.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "npc_frozen_core", "d3/db9/a23521.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
+    [ "DoAction", "d3/db9/a23521.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
+    [ "Initialize", "d3/db9/a23521.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
+    [ "JustDied", "d3/db9/a23521.html#a476e086b0379e0cef3a44d250b020d6a", null ],
+    [ "UpdateAI", "d3/db9/a23521.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
+    [ "_events", "d3/db9/a23521.html#a3a5efec3279644ef713722e1556a3c84", null ],
+    [ "_instance", "d3/db9/a23521.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
 ];

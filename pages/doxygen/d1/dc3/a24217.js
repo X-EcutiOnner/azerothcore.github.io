@@ -1,6 +1,7 @@
 var a24217 =
 [
-    [ "npc_nether_drakeAI", "de/d91/a24221.html", "de/d91/a24221" ],
-    [ "npc_nether_drake", "d1/dc3/a24217.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "d1/dc3/a24217.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "npc_daranelleAI", "d1/dc3/a24217.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d1/dc3/a24217.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d1/dc3/a24217.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d1/dc3/a24217.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

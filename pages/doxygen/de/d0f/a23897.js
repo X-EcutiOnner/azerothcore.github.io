@@ -1,6 +1,13 @@
 var a23897 =
 [
-    [ "boss_porung", "de/d0f/a23897.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "de/d0f/a23897.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "de/d0f/a23897.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "boss_warbringer_omrogg", "de/d0f/a23897.html#a20f790595640cd41d636ad43c8837cda", null ],
+    [ "HandleHeadTalk", "de/d0f/a23897.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
+    [ "JustDied", "de/d0f/a23897.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
+    [ "JustEngagedWith", "de/d0f/a23897.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
+    [ "KilledUnit", "de/d0f/a23897.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
+    [ "ScheduleBurningPhase", "de/d0f/a23897.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
+    [ "ScheduleNonBurningPhase", "de/d0f/a23897.html#a176217a0767e8153d07996461ac68f60", null ],
+    [ "SetData", "de/d0f/a23897.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
+    [ "UpdateAI", "de/d0f/a23897.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
+    [ "_headTalk", "de/d0f/a23897.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
 ];

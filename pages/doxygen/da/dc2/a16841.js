@@ -1,20 +1,10 @@
 var a16841 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "da/dc2/a16841.html#a98a097bfa32aedc3fe1d6600f147c94f", null ],
-    [ "FillInitialWorldStates", "da/dc2/a16841.html#a92cf11c73a596e0be141d9626ff10d3d", null ],
-    [ "GetGuidData", "da/dc2/a16841.html#aaee1be892a411ed2fe720aff91c1dbbe", null ],
-    [ "OnCreatureCreate", "da/dc2/a16841.html#a18f4f8286f7ca85b1a366b1ca3ffe6b3", null ],
-    [ "OnGameObjectCreate", "da/dc2/a16841.html#a27c4858d5972471ef91a269c11fc0494", null ],
-    [ "OnGameObjectRemove", "da/dc2/a16841.html#ac53fa1af91c66a264fdd016abe40168c", null ],
-    [ "OnPlayerEnter", "da/dc2/a16841.html#a74b01d2d0b48e95f758a1143fccf40ae", null ],
-    [ "SetBossState", "da/dc2/a16841.html#a3542b2f1f54fc25720bba1b4f2d12e5f", null ],
-    [ "BaltharusTheWarbornGUID", "da/dc2/a16841.html#a99cb15668a0eb037fc7edd6a2340ca33", null ],
-    [ "FlameRingGUID", "da/dc2/a16841.html#a52256dd98ae786bfe9bfc86ce036a060", null ],
-    [ "GeneralZarithrianGUID", "da/dc2/a16841.html#ad92ac599589bdd8b7c3aa055b451f0cf", null ],
-    [ "HalionControllerGUID", "da/dc2/a16841.html#a52144a0152a2ea00066c0d24bdee0b74", null ],
-    [ "HalionGUID", "da/dc2/a16841.html#a0b824e7cf269619220329aecba08e448", null ],
-    [ "OrbCarrierGUID", "da/dc2/a16841.html#a723b8a7384d0b9455b3a99172a903868", null ],
-    [ "TwilightHalionGUID", "da/dc2/a16841.html#a165f776c123fa595b6424be666fa8570", null ],
-    [ "XerestraszaGUID", "da/dc2/a16841.html#aefcf3beb1d5da118c80d3af9eb21ec99", null ],
-    [ "ZarithrianSpawnStalkerGUID", "da/dc2/a16841.html#a5e28d815149507f4bc6a30e42d4034a4", null ]
+    [ "boss_eadric", "da/dc2/a16841.html#a9b61c86372b66bc7968b843f344e6adf", null ],
+    [ "DamageTaken", "da/dc2/a16841.html#a815cc4b630a53ad7f614e850660bd0c6", null ],
+    [ "JustEngagedWith", "da/dc2/a16841.html#a5ede7ec9e8d6b4e63fc1ac94ad431f53", null ],
+    [ "KilledUnit", "da/dc2/a16841.html#a603f5a50dcd5da4eb7b4fd21f5628b48", null ],
+    [ "MovementInform", "da/dc2/a16841.html#a08730e99b49e54b601569b3f3778034a", null ],
+    [ "Reset", "da/dc2/a16841.html#a886bd894d7b57f9416fbd8a9de166041", null ],
+    [ "SpellHit", "da/dc2/a16841.html#a54c3f0eb0c16d15026936c8de1092e65", null ]
 ];

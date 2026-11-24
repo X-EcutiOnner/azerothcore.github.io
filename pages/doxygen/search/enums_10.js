@@ -28,7 +28,7 @@ var searchData=
   ['questgiverstatus_25',['QuestGiverStatus',['../d0/d82/a00857.html#a791e99128513b95b59f65c7f0a8fad6c',1,'QuestDef.h']]],
   ['questids_26',['QuestIds',['../da/d8d/a03158.html#a7b242f799a19891d37b493147655ef47',1,'QuestIds():&#160;the_black_morass.h'],['../da/d9d/a04751.html#a7b242f799a19891d37b493147655ef47',1,'QuestIds():&#160;zone_wintergrasp.cpp']]],
   ['questmisc_27',['QuestMisc',['../de/de6/a03848.html#a62ce5749782debfb4b44ccd4f5b69fce',1,'zone_undercity.cpp']]],
-  ['quests_28',['Quests',['../d9/d79/a03809.html#a2f2591166460d6d958c50f3317939e22',1,'Quests():&#160;childrens_week.cpp'],['../dc/dd8/a03755.html#a2f2591166460d6d958c50f3317939e22',1,'Quests():&#160;love_in_air.cpp'],['../d1/d44/a03074.html#a2f2591166460d6d958c50f3317939e22',1,'Quests():&#160;zone_winterspring.cpp']]],
+  ['quests_28',['Quests',['../d9/d79/a03809.html#a2f2591166460d6d958c50f3317939e22',1,'Quests():&#160;childrens_week.cpp'],['../dc/dd8/a03755.html#a2f2591166460d6d958c50f3317939e22',1,'Quests():&#160;love_in_air.cpp'],['../d1/d44/a03074.html#a2f2591166460d6d958c50f3317939e22',1,'Quests():&#160;zone_winterspring.cpp'],['../d5/d25/a04322.html#a2f2591166460d6d958c50f3317939e22',1,'Quests():&#160;boss_devourer_of_souls.cpp']]],
   ['quests6124_5f6129data_29',['Quests6124_6129Data',['../d4/db9/a02918.html#aeac2ef79da71bd8a10482ab4253e49ad',1,'spell_quest.cpp']]],
   ['questsharemessages_30',['QuestShareMessages',['../d0/d82/a00857.html#ac0edcb86ea5fca813b3c69e348fe74c0',1,'QuestDef.h']]],
   ['questshyrotam_31',['QuestShyRotam',['../d4/db9/a02918.html#af57af37ce3e616f0df8c97a5c520e70b',1,'spell_quest.cpp']]],

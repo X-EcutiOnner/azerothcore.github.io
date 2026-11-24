@@ -1,6 +1,6 @@
 var a24169 =
 [
-    [ "HandleDummy", "d6/d7a/a24169.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "d6/d7a/a24169.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "d6/d7a/a24169.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "HandlePeriodic", "d6/d7a/a24169.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
+    [ "PrepareAuraScript", "d6/d7a/a24169.html#a438425f3002028a0978e0dbab580ca03", null ],
+    [ "Register", "d6/d7a/a24169.html#af4b26607e8838b7bbbe8777f57601341", null ]
 ];

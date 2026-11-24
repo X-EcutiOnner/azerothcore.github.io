@@ -1,10 +1,8 @@
 var a17321 =
 [
-    [ "boss_tharon_jaAI", "de/d8c/a17321.html#a03025fa529e932f23479ff19b0cd8238", null ],
-    [ "DoAction", "de/d8c/a17321.html#a655fd83c2d671847fea9ae393c132fb9", null ],
-    [ "JustDied", "de/d8c/a17321.html#a7928b5db061f1073e1decc2d40601195", null ],
-    [ "JustEngagedWith", "de/d8c/a17321.html#aab194a8f802eeb625d1a74960acbe154", null ],
-    [ "KilledUnit", "de/d8c/a17321.html#a41e929a3768768eb06bafdee3269fd24", null ],
-    [ "Reset", "de/d8c/a17321.html#a272e8565a9b00a27505b301d52814eee", null ],
-    [ "UpdateAI", "de/d8c/a17321.html#a6f482cabcb0bd56711878a5ea297b950", null ]
+    [ "HandleRemove", "de/d8c/a17321.html#a362b16f69a19adae6b673bd9ead55a83", null ],
+    [ "PeriodicTick", "de/d8c/a17321.html#aa432052d61dc48066433b41b84ffbe5f", null ],
+    [ "PrepareAuraScript", "de/d8c/a17321.html#a3ffbd618820adf77b2c64a29816f5204", null ],
+    [ "Register", "de/d8c/a17321.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
+    [ "Validate", "de/d8c/a17321.html#abed6574398a7d005e95feba6b54243a1", null ]
 ];

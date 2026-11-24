@@ -1,6 +1,12 @@
 var a17413 =
 [
-    [ "npc_fos_leader_secondAI", "da/dc5/a17417.html", "da/dc5/a17417" ],
-    [ "npc_fos_leader_second", "dc/d10/a17413.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
-    [ "GetAI", "dc/d10/a17413.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
+    [ "boss_marwyn", "dc/d10/a17413.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd", null ],
+    [ "DoAction", "dc/d10/a17413.html#a7bd848b407d33942f05b48b6284506bb", null ],
+    [ "EnterEvadeMode", "dc/d10/a17413.html#a93849e995d62ba5a220e08157d8758fa", null ],
+    [ "JustDied", "dc/d10/a17413.html#a89fd620d0e74675d671cb69cc917d024", null ],
+    [ "JustEngagedWith", "dc/d10/a17413.html#a038ed3e1a8c9f3f3bc7f7eca584ad5cd", null ],
+    [ "KilledUnit", "dc/d10/a17413.html#aad4dd7a1fb79c704c7e59581f938d2e9", null ],
+    [ "Reset", "dc/d10/a17413.html#a0e25c5d894b7e20c6a1781410847c1fa", null ],
+    [ "UpdateAI", "dc/d10/a17413.html#ae8d1b8908983af8bff1f13641472817f", null ],
+    [ "_startingFight", "dc/d10/a17413.html#aee335b57c5249ecd4ce843e0f1694e80", null ]
 ];

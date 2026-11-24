@@ -1,7 +1,6 @@
 var a18501 =
 [
-    [ "HandleProc", "dc/d2c/a18501.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
-    [ "PrepareAuraScript", "dc/d2c/a18501.html#a5eace3a973165eb82ae95b8052bb9476", null ],
-    [ "Register", "dc/d2c/a18501.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
-    [ "Validate", "dc/d2c/a18501.html#ad2a7488006b16840e02b450cc9150289", null ]
+    [ "npc_big_oozeAI", "d2/d5c/a18505.html", "d2/d5c/a18505" ],
+    [ "npc_big_ooze", "dc/d2c/a18501.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "dc/d2c/a18501.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

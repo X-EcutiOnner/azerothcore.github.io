@@ -1,5 +1,5 @@
 var a19473 =
 [
-    [ "at_icc_gauntlet_event", "d7/da0/a19473.html#ae8790bad655661aeda887f56b9393847", null ],
-    [ "OnTrigger", "d7/da0/a19473.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
+    [ "CreatureEntry", "d7/da0/a19473.html#af6032aeb5c42a43c48f2bc7d9b48b035", null ],
+    [ "QuestId", "d7/da0/a19473.html#a00f6b1f121f8d64f5d190cffa0cd1e51", null ]
 ];

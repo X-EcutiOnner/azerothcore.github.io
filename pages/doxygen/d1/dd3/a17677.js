@@ -1,7 +1,6 @@
 var a17677 =
 [
-    [ "HandleEffectPeriodic", "d1/dd3/a17677.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "d1/dd3/a17677.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "d1/dd3/a17677.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "d1/dd3/a17677.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "boss_drakkari_colossusAI", "d1/ddc/a17681.html", "d1/ddc/a17681" ],
+    [ "boss_drakkari_colossus", "d1/dd3/a17677.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
+    [ "GetAI", "d1/dd3/a17677.html#a75c6c9c56fe11342dd8aece031059e77", null ]
 ];

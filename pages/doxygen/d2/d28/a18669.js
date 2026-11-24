@@ -1,6 +1,6 @@
 var a18669 =
 [
-    [ "npc_spinestalkerAI", "df/d30/a18673.html", "df/d30/a18673" ],
-    [ "npc_spinestalker", "d2/d28/a18669.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "d2/d28/a18669.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "npc_sindragosa_trashAI", "df/d30/a18673.html", "df/d30/a18673" ],
+    [ "npc_sindragosa_trash", "d2/d28/a18669.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "d2/d28/a18669.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

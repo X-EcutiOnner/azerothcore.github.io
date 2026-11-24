@@ -1,6 +1,6 @@
 var a20181 =
 [
-    [ "HandleScript", "d4/d90/a20181.html#a992dbad02eab01824d870bdd3fca93d0", null ],
-    [ "PrepareSpellScript", "d4/d90/a20181.html#a0e6b4d1f59896a255929556baa943bdb", null ],
-    [ "Register", "d4/d90/a20181.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
+    [ "CosmicSmashDamageEvent", "d4/d90/a20181.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "d4/d90/a20181.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "d4/d90/a20181.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

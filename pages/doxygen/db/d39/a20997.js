@@ -1,5 +1,5 @@
 var a20997 =
 [
-    [ "go_thorim_lever", "db/d39/a20997.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "db/d39/a20997.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "achievement_thorim_lose_your_illusion", "db/d39/a20997.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
+    [ "OnCheck", "db/d39/a20997.html#a322df4f30445a84085615925f74a8a6b", null ]
 ];

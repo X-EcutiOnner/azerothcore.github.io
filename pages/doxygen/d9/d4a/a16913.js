@@ -1,10 +1,10 @@
 var a16913 =
 [
-    [ "npc_black_knight_ghoulAI", "d9/d4a/a16913.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
-    [ "JustEngagedWith", "d9/d4a/a16913.html#a8353dea0de91017223c7624a5a96ebec", null ],
-    [ "Reset", "d9/d4a/a16913.html#a8a33efa0719063a9565bc07143f8ad83", null ],
-    [ "SpellHit", "d9/d4a/a16913.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
-    [ "UpdateAI", "d9/d4a/a16913.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
-    [ "events", "d9/d4a/a16913.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
-    [ "pInstance", "d9/d4a/a16913.html#a35b8375f1b3407f5cee653ee118e0697", null ]
+    [ "npc_announcer_toc5", "d9/d4a/a16913.html#ad4f770946160dd3e261a7fa820b38030", null ],
+    [ "DamageTaken", "d9/d4a/a16913.html#acf407e5a1bbd2733c8f087bc83acfe3f", null ],
+    [ "MovementInform", "d9/d4a/a16913.html#a3d50d999f669f40fe6340641b72626f0", null ],
+    [ "Reset", "d9/d4a/a16913.html#a13180d759583844d0acc0224da6db3f6", null ],
+    [ "sGossipSelect", "d9/d4a/a16913.html#aecded12b382559915803800e43f39dcc", null ],
+    [ "UpdateAI", "d9/d4a/a16913.html#a17b8c69a46c60d4c014afae5ffa24a4e", null ],
+    [ "_instance", "d9/d4a/a16913.html#aeba42edd6952b18eeb21b763549017b2", null ]
 ];

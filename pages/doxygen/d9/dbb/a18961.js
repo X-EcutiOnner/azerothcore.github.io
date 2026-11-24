@@ -1,6 +1,5 @@
 var a18961 =
 [
-    [ "HandleScript", "d9/dbb/a18961.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
-    [ "PrepareSpellScript", "d9/dbb/a18961.html#a2c6acef52962f606130d643cbd93104b", null ],
-    [ "Register", "d9/dbb/a18961.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
+    [ "achievement_been_waiting_long_time", "d9/dbb/a18961.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "d9/dbb/a18961.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

@@ -1,6 +1,6 @@
 var a28349 =
 [
-    [ "npc_spirit_shadeAI", "dc/d61/a28353.html", "dc/d61/a28353" ],
-    [ "npc_spirit_shade", "d1/d19/a28349.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d1/d19/a28349.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "boss_emerissAI", "dc/d61/a28353.html", "dc/d61/a28353" ],
+    [ "boss_emeriss", "d1/d19/a28349.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d1/d19/a28349.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

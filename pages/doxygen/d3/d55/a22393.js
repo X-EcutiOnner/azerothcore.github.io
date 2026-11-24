@@ -1,6 +1,6 @@
 var a22393 =
 [
-    [ "HandleExpire", "d3/d55/a22393.html#a48579791e42b7bd979ac1ce508f5b007", null ],
-    [ "PrepareAuraScript", "d3/d55/a22393.html#a025a3d796274f4b827af46ec1f322c88", null ],
-    [ "Register", "d3/d55/a22393.html#ab4dfa17886e5b9440671d79131102419", null ]
+    [ "npc_mcmanus", "d3/d55/a22393.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "d3/d55/a22393.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "d3/d55/a22393.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

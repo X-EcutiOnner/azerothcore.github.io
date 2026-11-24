@@ -6,6 +6,5 @@ var searchData=
   ['npc_5fdarnavan_3',['NPC_DARNAVAN',['../d9/d98/a04610.html#a99d980cb928a58f70d5be37aa7433c0b',1,'boss_lady_deathwhisper.cpp']]],
   ['npc_5fdarnavan_5fcredit_4',['NPC_DARNAVAN_CREDIT',['../d9/d98/a04610.html#a145f0a50d8d1ca5e67375b3abb8fe8d4',1,'boss_lady_deathwhisper.cpp']]],
   ['npcflag_5fcount_5',['NPCFLAG_COUNT',['../d3/d1b/a03227.html#afc1ed6083684621f30fbabb23d2986c0',1,'cs_npc.cpp']]],
-  ['num_5fclient_5fobject_5ftypes_6',['NUM_CLIENT_OBJECT_TYPES',['../d0/d79/a01766.html#ae616985e1e68f294e055e2bced156ada',1,'ObjectGuid.h']]],
-  ['num_5fof_5ftrash_7',['NUM_OF_TRASH',['../d9/d4e/a04307.html#a00eca5db139942c79e12425a1f7ba3b6',1,'halls_of_reflection.h']]]
+  ['num_5fclient_5fobject_5ftypes_6',['NUM_CLIENT_OBJECT_TYPES',['../d0/d79/a01766.html#ae616985e1e68f294e055e2bced156ada',1,'ObjectGuid.h']]]
 ];

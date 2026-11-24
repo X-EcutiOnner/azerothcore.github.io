@@ -1,6 +1,6 @@
 var a18341 =
 [
-    [ "npc_coldflameAI", "db/d9c/a18345.html", "db/d9c/a18345" ],
-    [ "npc_coldflame", "d4/d06/a18341.html#a573b887358e2ba2281c4c119a267c33f", null ],
-    [ "GetAI", "d4/d06/a18341.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
+    [ "HandleScriptEffect", "d4/d06/a18341.html#ac6017cbe86b328aef00f707051c67e5f", null ],
+    [ "PrepareSpellScript", "d4/d06/a18341.html#a3e21794652b0ffea67571f9b294b4961", null ],
+    [ "Register", "d4/d06/a18341.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
 ];

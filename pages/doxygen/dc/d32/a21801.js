@@ -1,6 +1,6 @@
 var a21801 =
 [
-    [ "npc_hidden_cultistAI", "d7/d7f/a21805.html", "d7/d7f/a21805" ],
-    [ "npc_hidden_cultist", "dc/d32/a21801.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "dc/d32/a21801.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "PrepareSpellScript", "dc/d32/a21801.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "dc/d32/a21801.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "dc/d32/a21801.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

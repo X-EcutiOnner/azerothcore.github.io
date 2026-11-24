@@ -1,7 +1,7 @@
 var a25965 =
 [
-    [ "HandleProc", "d0/d01/a25965.html#a67fd28d9426ed4825db86bf155d8d395", null ],
-    [ "PrepareAuraScript", "d0/d01/a25965.html#aba5b549d9a3b9fecdc16270732e3a5d7", null ],
-    [ "Register", "d0/d01/a25965.html#a50f5c5e00a327325da2e49ab0ab2bcb6", null ],
-    [ "Validate", "d0/d01/a25965.html#a769737b9f5971b684f52289873970930", null ]
+    [ "HandlePeriodic", "d0/d01/a25965.html#a990b88f97dbbcd68d0df8989414d08bc", null ],
+    [ "PrepareAuraScript", "d0/d01/a25965.html#a4c8214e2fc72ceacc5822bfdec6e8380", null ],
+    [ "Register", "d0/d01/a25965.html#ab2da1b1433184a0dd4c6dd93b798890c", null ],
+    [ "Validate", "d0/d01/a25965.html#a55720e74edaf5eedf074738846ba6dd8", null ]
 ];

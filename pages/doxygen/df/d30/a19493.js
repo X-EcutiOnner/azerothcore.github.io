@@ -1,5 +1,6 @@
 var a19493 =
 [
-    [ "at_frozen_throne_teleport", "df/d30/a19493.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "df/d30/a19493.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "npc_isle_of_conquest_turretAI", "d3/dae/a19497.html", "d3/dae/a19497" ],
+    [ "npc_isle_of_conquest_turret", "df/d30/a19493.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "df/d30/a19493.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

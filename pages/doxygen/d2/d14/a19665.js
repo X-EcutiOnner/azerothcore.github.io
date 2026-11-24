@@ -1,15 +1,7 @@
 var a19665 =
 [
-    [ "boss_heigan", "d2/d14/a19665.html#a402b76bd927dd738bdbdf7faff93394c", null ],
-    [ "CheckSafetyDance", "d2/d14/a19665.html#a378397cc91408b812c76f657a96285e1", null ],
-    [ "JustDied", "d2/d14/a19665.html#a259c99e12b92ccb99af16949e37b5c48", null ],
-    [ "JustEngagedWith", "d2/d14/a19665.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
-    [ "KilledUnit", "d2/d14/a19665.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
-    [ "Reset", "d2/d14/a19665.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
-    [ "StartFightPhase", "d2/d14/a19665.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
-    [ "UpdateAI", "d2/d14/a19665.html#a36c0bc5abff61b435f2a8163687b122a", null ],
-    [ "_currentPhase", "d2/d14/a19665.html#a1065c6221b30536344e7d4d0779abd17", null ],
-    [ "_currentSection", "d2/d14/a19665.html#adcf2448a0868ea3e900609c8e7e34154", null ],
-    [ "_eruptionScheduler", "d2/d14/a19665.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
-    [ "_moveRight", "d2/d14/a19665.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
+    [ "HandleScript", "d2/d14/a19665.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "d2/d14/a19665.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "d2/d14/a19665.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "d2/d14/a19665.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

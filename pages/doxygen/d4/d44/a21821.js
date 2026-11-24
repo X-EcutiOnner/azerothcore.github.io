@@ -1,6 +1,8 @@
 var a21821 =
 [
-    [ "PrepareSpellScript", "d4/d44/a21821.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "d4/d44/a21821.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "d4/d44/a21821.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "npc_dusk", "d4/d44/a21821.html#ab142eb266e64af625a8a38d3234ded72", null ],
+    [ "MovementInform", "d4/d44/a21821.html#a49cade56e631668c946edb6753172c87", null ],
+    [ "PassengerBoarded", "d4/d44/a21821.html#aaff19f52995db17f4dab953e2e928c68", null ],
+    [ "WaypointReached", "d4/d44/a21821.html#ac8f70426313aa6834285905e94f1d0d9", null ],
+    [ "_ejected", "d4/d44/a21821.html#a4f749f98c178a32b211bbd38b9447607", null ]
 ];

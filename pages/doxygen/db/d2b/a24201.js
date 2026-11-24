@@ -1,14 +1,7 @@
 var a24201 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "db/d2b/a24201.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
-    [ "Initialize", "db/d2b/a24201.html#a187340b00067f2f65a7e48845a6edaba", null ],
-    [ "JustSummoned", "db/d2b/a24201.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
-    [ "Reset", "db/d2b/a24201.html#a92a6cbe0515752440284d18bae0adf66", null ],
-    [ "SpellHit", "db/d2b/a24201.html#a517f7412208de83604d0d6806fbc0b34", null ],
-    [ "UpdateAI", "db/d2b/a24201.html#ab4fb75f1b84c2722f936387a6942028b", null ],
-    [ "CannonGUID", "db/d2b/a24201.html#a220e111467cfb6f02e996f012123e09b", null ],
-    [ "count", "db/d2b/a24201.html#ac78f94033239dcf247be9a48d0535081", null ],
-    [ "events", "db/d2b/a24201.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
-    [ "PartyTime", "db/d2b/a24201.html#a1780c656fb539be6dcd74e271cea4c53", null ],
-    [ "PlayerGUID", "db/d2b/a24201.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
+    [ "OnPeriodic", "db/d2b/a24201.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "db/d2b/a24201.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "db/d2b/a24201.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "db/d2b/a24201.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

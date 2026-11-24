@@ -1,10 +1,7 @@
 var a22441 =
 [
-    [ "npc_engineer_heliceAI", "d6/d63/a22441.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
-    [ "JustDied", "d6/d63/a22441.html#aba224727b86a2bfc39a47b70b424ccef", null ],
-    [ "Reset", "d6/d63/a22441.html#ade3f7f526dd8973c155aafb939db3778", null ],
-    [ "UpdateAI", "d6/d63/a22441.html#a1c333511dd6e82cd22af111e12a701c4", null ],
-    [ "WaypointReached", "d6/d63/a22441.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
-    [ "WaypointReached", "d6/d63/a22441.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "m_uiChatTimer", "d6/d63/a22441.html#aa305bc2b5711d0745650f80275204ea8", null ]
+    [ "HandleSendEvent", "d6/d63/a22441.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "d6/d63/a22441.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "d6/d63/a22441.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "d6/d63/a22441.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

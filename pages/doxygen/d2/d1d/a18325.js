@@ -1,7 +1,6 @@
 var a18325 =
 [
-    [ "OnPeriodic", "d2/d1d/a18325.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "d2/d1d/a18325.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "d2/d1d/a18325.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "d2/d1d/a18325.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "npc_bone_spikeAI", "d3/dea/a18329.html", "d3/dea/a18329" ],
+    [ "npc_bone_spike", "d2/d1d/a18325.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "d2/d1d/a18325.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

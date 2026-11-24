@@ -1,14 +1,9 @@
 var a17373 =
 [
-    [ "boss_bronjahm", "dd/dc9/a17373.html#a44666a47b298efe48c4e86b8677d9845", null ],
-    [ "DamageTaken", "dd/dc9/a17373.html#ab89333e2ee43ad384bdc71ac6f83c92e", null ],
-    [ "EnterEvadeMode", "dd/dc9/a17373.html#a5d515921e780974e2a70937ada8b232d", null ],
-    [ "JustDied", "dd/dc9/a17373.html#ad50a7aee4ebf9d0d5d9141b96e154996", null ],
-    [ "JustEngagedWith", "dd/dc9/a17373.html#a767d4a601d7f912cd71823a51b31af1f", null ],
-    [ "JustReachedHome", "dd/dc9/a17373.html#af2146b1ddb8cdc3e27d1cf573fe65df0", null ],
-    [ "JustSummoned", "dd/dc9/a17373.html#a47c7a8a8413b139cf2d217d33f39aa3d", null ],
-    [ "KilledUnit", "dd/dc9/a17373.html#aaaf64571ce6a542be93c6efe105278e8", null ],
-    [ "Reset", "dd/dc9/a17373.html#a313bd4510e18ecb529b6358d28a3dc3f", null ],
-    [ "SpellHitTarget", "dd/dc9/a17373.html#a3be47710012bd75a71574f7a4c69f678", null ],
-    [ "UpdateAI", "dd/dc9/a17373.html#a6d60b720210a9f196b1c006b557e7d25", null ]
+    [ "HandlePeriodicTick", "dd/dc9/a17373.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "dd/dc9/a17373.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "dd/dc9/a17373.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "dd/dc9/a17373.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "dd/dc9/a17373.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "_direction", "dd/dc9/a17373.html#a4d955a97416e5a59dcb1fbc922e83732", null ]
 ];

@@ -1,7 +1,6 @@
 var a28777 =
 [
-    [ "npc_guardianAI", "de/d64/a28777.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "de/d64/a28777.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "de/d64/a28777.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "de/d64/a28777.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "npc_steam_tonkAI", "d0/dcf/a28781.html", "d0/dcf/a28781" ],
+    [ "npc_steam_tonk", "de/d64/a28777.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "de/d64/a28777.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

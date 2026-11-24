@@ -1,7 +1,7 @@
 var a21701 =
 [
-    [ "npc_azure_spellbreaker", "da/da6/a21701.html#ae884adc9619d3458d81a2029bd490893", null ],
-    [ "Reset", "da/da6/a21701.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
-    [ "UpdateAI", "da/da6/a21701.html#a938a93a71490bb42158e2215d125509f", null ],
-    [ "_events", "da/da6/a21701.html#a9f526cff54cb949cc68046e7816c3c89", null ]
+    [ "npc_violet_hold_defense_system", "da/da6/a21701.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "da/da6/a21701.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "da/da6/a21701.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
+    [ "_tickCount", "da/da6/a21701.html#a4a7504069b05480428278fd09d5e59ba", null ]
 ];

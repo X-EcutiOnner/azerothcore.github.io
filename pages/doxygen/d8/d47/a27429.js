@@ -1,6 +1,6 @@
 var a27429 =
 [
-    [ "HandleDummy", "d8/d47/a27429.html#a73628636431d3549d6e3530c6ef23c08", null ],
-    [ "PrepareSpellScript", "d8/d47/a27429.html#ab90d3031b356e8004fa62c9562f1ba1f", null ],
-    [ "Register", "d8/d47/a27429.html#a7f42cf47831d3c8544453530a1454ddc", null ]
+    [ "HandleDummy", "d8/d47/a27429.html#a86ec9b4606ae92b070edd4ca863fe93e", null ],
+    [ "PrepareSpellScript", "d8/d47/a27429.html#a4411e4317053450a0ac5217d546952b2", null ],
+    [ "Register", "d8/d47/a27429.html#a9eea8631e0723555a9c328bdfc1e30b7", null ]
 ];

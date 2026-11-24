@@ -337,9 +337,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa03122_html_a5bd342133be8c2137b831460acc9298ca8b97edb0c4beeee35801924697a04cb6"><div class="ttname"><a href="../../d8/dfb/a03122.html#a5bd342133be8c2137b831460acc9298ca8b97edb0c4beeee35801924697a04cb6">SPELL_DIGESTIVE_ACID</a></div><div class="ttdeci">@ SPELL_DIGESTIVE_ACID</div><div class="ttdef"><b>Definition:</b> boss_cthun.cpp:63</div></div>
 <div class="ttc" id="aa08505_html"><div class="ttname"><a href="../../da/d0f/a08505.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
 <div class="ttc" id="aa10205_html"><div class="ttname"><a href="../../dc/d72/a10205.html">InstanceScript</a></div><div class="ttdef"><b>Definition:</b> InstanceScript.h:143</div></div>
-<div class="ttc" id="aa12193_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d8/d18/a12193.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1043</div></div>
+<div class="ttc" id="aa12193_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d8/d18/a12193.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1072</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">DATA_CTHUN</a>, <a class="el" href="../../#l01043">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l00063">SPELL_DIGESTIVE_ACID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00036">DATA_CTHUN</a>, <a class="el" href="../../#l01072">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l00063">SPELL_DIGESTIVE_ACID</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00858">Register()</a>.</p>
 
@@ -398,13 +398,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  859</span>    {</div>
 <div class="line"><span class="lineno">  860</span>        <a class="code hl_variable" href="../../d8/d18/a12193.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/d2c/a00893.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d3/d8b/a15793.html#a08dce8b98afadc134166a615b4496151">spell_cthun_digestive_acid::OnPeriodic</a>, <a class="code hl_enumvalue" href="../../d3/d8f/a05099.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d3/dd1/a00914.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a>);</div>
 <div class="line"><span class="lineno">  861</span>    }</div>
-<div class="ttc" id="aa00893_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../dc/d2c/a00893.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:761</div></div>
+<div class="ttc" id="aa00893_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../dc/d2c/a00893.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:768</div></div>
 <div class="ttc" id="aa00914_html_a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad"><div class="ttname"><a href="../../d3/dd1/a00914.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:66</div></div>
 <div class="ttc" id="aa05099_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d3/d8f/a05099.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
-<div class="ttc" id="aa12193_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d8/d18/a12193.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition:</b> SpellScript.h:760</div></div>
+<div class="ttc" id="aa12193_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d8/d18/a12193.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition:</b> SpellScript.h:767</div></div>
 <div class="ttc" id="aa15793_html_a08dce8b98afadc134166a615b4496151"><div class="ttname"><a href="../../d3/d8b/a15793.html#a08dce8b98afadc134166a615b4496151">spell_cthun_digestive_acid::OnPeriodic</a></div><div class="ttdeci">void OnPeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition:</b> boss_cthun.cpp:851</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00761">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00760">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l00851">OnPeriodic()</a>, and <a class="el" href="../../#l00066">SPELL_AURA_PERIODIC_DAMAGE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00768">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00767">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l00851">OnPeriodic()</a>, and <a class="el" href="../../#l00066">SPELL_AURA_PERIODIC_DAMAGE</a>.</p>
 
 </div>
 </div>
@@ -414,7 +414,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d8b/a15793.html">spell_cthun_digestive_acid</a></li>
-    <li class="footer">Generated on Tue Nov 17 2026 03:06:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Nov 24 2026 04:58:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

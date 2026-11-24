@@ -1,16 +1,7 @@
 var a21165 =
 [
-    [ "boss_yoggsaron_immortal_guardian", "dd/d7c/a21165.html#a14839f96771d185718e88a4e371b31f6", null ],
-    [ "DamageTaken", "dd/d7c/a21165.html#a9bf936d6a501e53ce98786f043562a71", null ],
-    [ "EngageFromStasis", "dd/d7c/a21165.html#af9717bb7058b8a51dd30dc9edacd66e7", null ],
-    [ "JustEngagedWith", "dd/d7c/a21165.html#a7583d6058cf805fa1c36cd98b9e9e7d2", null ],
-    [ "MoveInLineOfSight", "dd/d7c/a21165.html#acbf73ba53c74b1e663eccb6866828134", null ],
-    [ "Reset", "dd/d7c/a21165.html#a1173d401233670a45b31040b8e5d98cb", null ],
-    [ "SpellHit", "dd/d7c/a21165.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
-    [ "UpdateAI", "dd/d7c/a21165.html#adaae7e2cd52951095cb82819d9874426", null ],
-    [ "_spawnStasis", "dd/d7c/a21165.html#a7de7c5e60cc888d5729273e63495e382", null ],
-    [ "DRAIN_LIFE_HEALTH_CHECK", "dd/d7c/a21165.html#afc8d67d6a482a20638e17d30b58c5c8b", null ],
-    [ "DRAIN_LIFE_INTERVAL", "dd/d7c/a21165.html#a1a4c5a3f9261b4da86f9bc0476216dee", null ],
-    [ "SPAWN_STASIS_TIME", "dd/d7c/a21165.html#a5d8549b48c63168c205d5e126209ee66", null ],
-    [ "SPAWN_VISUAL_DELAY", "dd/d7c/a21165.html#a0db02bb21ba048c236a432421c009250", null ]
+    [ "OnRemove", "dd/d7c/a21165.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "dd/d7c/a21165.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "dd/d7c/a21165.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "dd/d7c/a21165.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

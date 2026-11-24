@@ -1,10 +1,6 @@
 var a20877 =
 [
-    [ "npc_expedition_defender", "dc/d28/a20877.html#aa476e8cdb18fce94b7517caf7ec751c8", null ],
-    [ "CanAIAttack", "dc/d28/a20877.html#aa223ec9592dcc5f8890cc7de0c8e4230", null ],
-    [ "DoAction", "dc/d28/a20877.html#adbd3f69f46e33537786505a0bb2955d5", null ],
-    [ "MovementInform", "dc/d28/a20877.html#acfa015071d54e353e4397c806fcab0a5", null ],
-    [ "Reset", "dc/d28/a20877.html#ae5da35cb689ada77a00d545e0f795af7", null ],
-    [ "SetData", "dc/d28/a20877.html#ab8d8681d244c13e51709c3ad446c8805", null ],
-    [ "_idx", "dc/d28/a20877.html#ae50289231fcaac124f78246774dda01e", null ]
+    [ "npc_razorscale_devouring_flame", "dc/d28/a20877.html#a86c3d4cdf0d9757612264f62fd9e283e", null ],
+    [ "EnterEvadeMode", "dc/d28/a20877.html#a7d32fe90b53b3d681627d84bf3825bc2", null ],
+    [ "Reset", "dc/d28/a20877.html#adb6acc83d528f71a69e854e46b2405c3", null ]
 ];

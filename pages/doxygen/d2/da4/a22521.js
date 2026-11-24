@@ -1,8 +1,6 @@
 var a22521 =
 [
-    [ "npc_hyldsmeet_protodrake", "d2/da4/a22521.html#a409a5f5eace583ef874421819c975ed8", null ],
-    [ "PassengerBoarded", "d2/da4/a22521.html#a0067d3b394c967946e329ea25c2dc315", null ],
-    [ "UpdateAI", "d2/da4/a22521.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
-    [ "_accessoryInstalled", "d2/da4/a22521.html#af9a5984f66eb3a1a26e8c1640bcf7597", null ],
-    [ "_accessoryRespawnTimer", "d2/da4/a22521.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
+    [ "CheckCast", "d2/da4/a22521.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "d2/da4/a22521.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "d2/da4/a22521.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

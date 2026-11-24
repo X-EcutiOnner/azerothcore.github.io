@@ -1,7 +1,6 @@
 var a18809 =
 [
-    [ "OnRemove", "db/d36/a18809.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "db/d36/a18809.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "db/d36/a18809.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "db/d36/a18809.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "npc_icc_ice_sphereAI", "d0/d28/a18813.html", "d0/d28/a18813" ],
+    [ "npc_icc_ice_sphere", "db/d36/a18809.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
+    [ "GetAI", "db/d36/a18809.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
 ];

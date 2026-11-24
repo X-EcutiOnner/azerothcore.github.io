@@ -1,8 +1,7 @@
 var a20317 =
 [
-    [ "npc_auriaya_sanctum_sentry", "d0/d83/a20317.html#ae5ed159c476c8b4569de7e2730edf447", null ],
-    [ "JustDied", "d0/d83/a20317.html#a553aa98a00fd8999578d71911f231bb2", null ],
-    [ "JustEngagedWith", "d0/d83/a20317.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
-    [ "Reset", "d0/d83/a20317.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
-    [ "UpdateAI", "d0/d83/a20317.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
+    [ "HandleOnHit", "d0/d83/a20317.html#a3a0f411a652a5753a543f57433212425", null ],
+    [ "PrepareSpellScript", "d0/d83/a20317.html#a93008907295d79e9c98747bc416b6b5a", null ],
+    [ "Register", "d0/d83/a20317.html#a858cc1c717a7cadc9eac41b89738d7e1", null ],
+    [ "Validate", "d0/d83/a20317.html#a56f021a02c261dfb694e57af35c0ca14", null ]
 ];

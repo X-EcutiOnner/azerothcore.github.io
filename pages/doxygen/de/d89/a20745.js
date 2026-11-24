@@ -1,6 +1,5 @@
 var a20745 =
 [
-    [ "HandleInstaKill", "de/d89/a20745.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "de/d89/a20745.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "de/d89/a20745.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "achievement_kologarn_with_open_arms", "de/d89/a20745.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "de/d89/a20745.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

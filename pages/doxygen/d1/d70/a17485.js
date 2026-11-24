@@ -1,9 +1,8 @@
 var a17485 =
 [
-    [ "npc_hor_spiritual_reflection", "d1/d70/a17485.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
-    [ "EnterEvadeMode", "d1/d70/a17485.html#a3973e83b013df723849939635071324f", null ],
-    [ "JustDied", "d1/d70/a17485.html#a913d17e1534a5940b7841e38eae246f7", null ],
-    [ "JustEngagedWith", "d1/d70/a17485.html#ad47d12654c88cc94b7c17906e4096115", null ],
-    [ "Reset", "d1/d70/a17485.html#aa7dad28bbe53286ec298ba5480717e69", null ],
-    [ "UpdateAI", "d1/d70/a17485.html#a5093b6502bca95c22b2b0f0117f86047", null ]
+    [ "npc_hor_lumbering_abomination", "d1/d70/a17485.html#a08ae4bc9025a4bfbe91d39d256e34060", null ],
+    [ "JustDied", "d1/d70/a17485.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61", null ],
+    [ "JustEngagedWith", "d1/d70/a17485.html#a5380771abba095749e1e0b30fe070a73", null ],
+    [ "Reset", "d1/d70/a17485.html#afd56b698fac5f7f13e718d645608213f", null ],
+    [ "UpdateAI", "d1/d70/a17485.html#a79e99c86f54a4fc7cbcf98e2a08e62ed", null ]
 ];

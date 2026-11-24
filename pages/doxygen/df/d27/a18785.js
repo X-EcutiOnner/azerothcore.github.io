@@ -1,7 +1,7 @@
 var a18785 =
 [
-    [ "HandleScript", "df/d27/a18785.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "df/d27/a18785.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "df/d27/a18785.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "df/d27/a18785.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "OnRemove", "df/d27/a18785.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "df/d27/a18785.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "df/d27/a18785.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "df/d27/a18785.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

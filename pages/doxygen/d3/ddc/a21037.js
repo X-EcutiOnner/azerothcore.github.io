@@ -1,10 +1,8 @@
 var a21037 =
 [
-    [ "npc_boombot", "d3/ddc/a21037.html#a6747aef56fd6710020c8aa5b4d96e0a1", null ],
-    [ "DamageTaken", "d3/ddc/a21037.html#a9f657c3f979b1f35f1cd5129474b33f1", null ],
-    [ "Reset", "d3/ddc/a21037.html#af47d7810bfe4f4ad7185ec7167cd49bf", null ],
-    [ "UpdateAI", "d3/ddc/a21037.html#a11b997bea629230932a1e01e89a556f2", null ],
-    [ "_boomed", "d3/ddc/a21037.html#a3e08d47064301a42e71fa33f9d58a5a3", null ],
-    [ "_instance", "d3/ddc/a21037.html#aeacd93855b35591fbfc54a8c1f622621", null ],
-    [ "_scheduler", "d3/ddc/a21037.html#af45ea755ec5c6a16b2b1fde7ef0e93f8", null ]
+    [ "OnPeriodic", "d3/ddc/a21037.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
+    [ "OnRemove", "d3/ddc/a21037.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
+    [ "PrepareAuraScript", "d3/ddc/a21037.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
+    [ "Register", "d3/ddc/a21037.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
+    [ "Validate", "d3/ddc/a21037.html#aa56622a1e57c157260940023a6c70a35", null ]
 ];

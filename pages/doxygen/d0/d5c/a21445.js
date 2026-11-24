@@ -1,5 +1,7 @@
 var a21445 =
 [
-    [ "go_palehoof_sphere", "d0/d5c/a21445.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "d0/d5c/a21445.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "FilterTargets", "d0/d5c/a21445.html#aacfc70299b20cfef5b2feac954779f1c", null ],
+    [ "HandleDamageCalc", "d0/d5c/a21445.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
+    [ "PrepareSpellScript", "d0/d5c/a21445.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
+    [ "Register", "d0/d5c/a21445.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
 ];

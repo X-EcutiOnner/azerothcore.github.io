@@ -1,6 +1,6 @@
 var a23493 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d8/d2c/a23497.html", "d8/d2c/a23497" ],
-    [ "instance_serpent_shrine", "db/d53/a23493.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "db/d53/a23493.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "HandleEffectRemove", "db/d53/a23493.html#ac74d25501690970c607a146eec02ab24", null ],
+    [ "PrepareAuraScript", "db/d53/a23493.html#a858929800089fee1a06948bda1c8806f", null ],
+    [ "Register", "db/d53/a23493.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
 ];

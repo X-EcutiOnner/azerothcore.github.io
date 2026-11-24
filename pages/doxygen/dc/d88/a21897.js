@@ -1,14 +1,18 @@
 var a21897 =
 [
-    [ "npc_dalaran_mageAI", "dc/d88/a21897.html#ae896a065d2975c5f4d0a125261796215", null ],
-    [ "Initialize", "dc/d88/a21897.html#a8ede1e1e4599f288f5a8c20c40c11236", null ],
-    [ "JustEngagedWith", "dc/d88/a21897.html#a05e9c672ab73029c70fa3d2605b6174d", null ],
-    [ "Reset", "dc/d88/a21897.html#adee723525f46e5476e135e3043f5feb9", null ],
-    [ "UpdateAI", "dc/d88/a21897.html#ab3d5812e38c1fcc1c01af3fdbd27a61e", null ],
-    [ "blink_timer", "dc/d88/a21897.html#ae888e0e5d3302e0a47b6e3d41f166c67", null ],
-    [ "blizzard_timer", "dc/d88/a21897.html#a5da62a7ee9abf7a94c2543076d6479a6", null ],
-    [ "CoC_Timer", "dc/d88/a21897.html#a8a86c02e2c3759ec1f64087943d37b26", null ],
-    [ "frostfire_timer", "dc/d88/a21897.html#ab91070d41571e0070a7c92bf0694f4cc", null ],
-    [ "frostnova_timer", "dc/d88/a21897.html#a77e9a7686cece7ee97236ce6386f82bf", null ],
-    [ "restoremana_timer", "dc/d88/a21897.html#a33da20a649faa6ee7e61db79846ac4a7", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "dc/d88/a21897.html#af2a8c43537cac96be12e6dc8d7874cec", null ],
+    [ "DespawnOachanoa", "dc/d88/a21897.html#ac9c4473578ba8a19b280548b4257bafa", null ],
+    [ "GetOachanoa", "dc/d88/a21897.html#acf992e311bb8ab91683556036b0fbe86", null ],
+    [ "GetPlayer", "dc/d88/a21897.html#aec678cda5d636e66907593d8b3f952f4", null ],
+    [ "NextStep", "dc/d88/a21897.html#ae66ac194b89e761808cd3e226fc7e495", null ],
+    [ "Reset", "dc/d88/a21897.html#af52e16097889f80d02ab2362f5578257", null ],
+    [ "Start", "dc/d88/a21897.html#ad34d850e1f11da93dc461995d9f00115", null ],
+    [ "UpdateAI", "dc/d88/a21897.html#aa47d7c8a0c34fc2cf4a7b1d31d21cd4a", null ],
+    [ "canjump", "dc/d88/a21897.html#a6705fda3183602c11573735e0ac536a8", null ],
+    [ "oachanoaGUID", "dc/d88/a21897.html#a32c351c44121629bccea71f2fd27cf9c", null ],
+    [ "pGUID", "dc/d88/a21897.html#aabca8fe8385fe88d6ed6ad7ae6da0261", null ],
+    [ "running", "dc/d88/a21897.html#a62e33501656b57698b19d8fec44afa37", null ],
+    [ "secondpart", "dc/d88/a21897.html#a98e6aaa14d458228e97ced45e553c2bf", null ],
+    [ "step", "dc/d88/a21897.html#ab8f80e5b25f58028abdd2077c2e9de7f", null ],
+    [ "timer", "dc/d88/a21897.html#a694c235ee9a23b30ac0aa7b15ee8db3c", null ]
 ];

@@ -1,6 +1,8 @@
 var a22593 =
 [
-    [ "HandleSummon", "d3/d42/a22593.html#a98c5df8b6c561a5aa7d766b639f3c2c8", null ],
-    [ "PrepareSpellScript", "d3/d42/a22593.html#ab5605e1d401d7a762fc8b5a530ecd640", null ],
-    [ "Register", "d3/d42/a22593.html#a9c9a0fd43758a6441a086860e8276cc0", null ]
+    [ "npc_wg_spirit_guideAI", "d8/d22/a22597.html", "d8/d22/a22597" ],
+    [ "npc_wg_spirit_guide", "d3/d42/a22593.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "d3/d42/a22593.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "d3/d42/a22593.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "d3/d42/a22593.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

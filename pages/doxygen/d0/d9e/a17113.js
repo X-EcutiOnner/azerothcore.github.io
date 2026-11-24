@@ -1,6 +1,8 @@
 var a17113 =
 [
-    [ "npc_toc_retro_paladinAI", "d7/d28/a17117.html", "d7/d28/a17117" ],
-    [ "npc_toc_retro_paladin", "d0/d9e/a17113.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
-    [ "GetAI", "d0/d9e/a17113.html#a1213c99792aa4362275bc827aa2f037e", null ]
+    [ "npc_mistress_of_pain", "d0/d9e/a17113.html#a3311d05b0b692e4d70de95ded21df23a", null ],
+    [ "EnterEvadeMode", "d0/d9e/a17113.html#a7d2e4cb30dbcf4993dbffd9bdd7b2db3", null ],
+    [ "JustDied", "d0/d9e/a17113.html#aa34fc8f7625f31fc872edd15d3c48686", null ],
+    [ "Reset", "d0/d9e/a17113.html#a0205ff2af278a7d6e44f0bfc179b022e", null ],
+    [ "UpdateAI", "d0/d9e/a17113.html#a5a6edfb39ee3fb710cd42311dc10b034", null ]
 ];

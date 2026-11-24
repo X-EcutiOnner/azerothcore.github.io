@@ -1,7 +1,7 @@
 var a03473 =
 [
-    [ "boss_ghazan", "d6/db7/a23645.html", "d6/db7/a23645" ],
-    [ "at_underbog_ghazan", "dc/ddc/a23649.html", "dc/ddc/a23649" ],
+    [ "boss_ghazan", "d0/d8c/a23633.html", "d0/d8c/a23633" ],
+    [ "at_underbog_ghazan", "d6/d2a/a23637.html", "d6/d2a/a23637" ],
     [ "eBlackStalker", "d2/d50/a03473.html#afbee42c6927db9ad2cf9d9096eeac954", [
       [ "SPELL_ACID_BREATH", "d2/d50/a03473.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c", null ],
       [ "SPELL_ACID_SPIT", "d2/d50/a03473.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806", null ],

@@ -1,6 +1,6 @@
 var a22173 =
 [
-    [ "HandleOnEffectRemove", "d6/d66/a22173.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d6/d66/a22173.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d6/d66/a22173.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_plaguehound_trackerAI", "d2/d33/a22177.html", "d2/d33/a22177" ],
+    [ "npc_plaguehound_tracker", "d6/d66/a22173.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "d6/d66/a22173.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

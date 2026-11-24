@@ -1,6 +1,7 @@
 var a22077 =
 [
-    [ "HandleScriptEffect", "d0/d6c/a22077.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
-    [ "PrepareSpellScript", "d0/d6c/a22077.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
-    [ "Register", "d0/d6c/a22077.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
+    [ "npc_emilyAI", "d2/d49/a22081.html", "d2/d49/a22081" ],
+    [ "npc_emily", "d0/d6c/a22077.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d0/d6c/a22077.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d0/d6c/a22077.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

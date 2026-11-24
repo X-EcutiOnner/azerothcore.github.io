@@ -1,7 +1,14 @@
 var a20293 =
 [
-    [ "OnRemove", "dc/d8f/a20293.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "dc/d8f/a20293.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "dc/d8f/a20293.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "dc/d8f/a20293.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "boss_auriaya", "dc/d8f/a20293.html#a2d946ada185a29bf00dc49d28089e64e", null ],
+    [ "DespawnFormationMembers", "dc/d8f/a20293.html#a46dcb873d4101174687b4189d0494403", null ],
+    [ "DoAction", "dc/d8f/a20293.html#aa58503020e3382e0c541047b233945a7", null ],
+    [ "ExecuteEvent", "dc/d8f/a20293.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
+    [ "GetData", "dc/d8f/a20293.html#a44781b758392f8f519b9684617757620", null ],
+    [ "JustDied", "dc/d8f/a20293.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
+    [ "JustEngagedWith", "dc/d8f/a20293.html#ac80d7bbc334e20df9e85540556b8714e", null ],
+    [ "KilledUnit", "dc/d8f/a20293.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
+    [ "Reset", "dc/d8f/a20293.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
+    [ "_feralDied", "dc/d8f/a20293.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
+    [ "_nineLives", "dc/d8f/a20293.html#a26d80573eda1aa1005e1bc5453c182af", null ]
 ];

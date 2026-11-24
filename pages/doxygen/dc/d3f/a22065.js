@@ -1,6 +1,7 @@
 var a22065 =
 [
-    [ "npc_torturer_lecraftAI", "dc/d7b/a22069.html", "dc/d7b/a22069" ],
-    [ "npc_torturer_lecraft", "dc/d3f/a22065.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "dc/d3f/a22065.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "HandleScriptEffect", "dc/d3f/a22065.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
+    [ "PrepareSpellScript", "dc/d3f/a22065.html#adf6593e47a5766c40e7e3859fce00f81", null ],
+    [ "Register", "dc/d3f/a22065.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
+    [ "Validate", "dc/d3f/a22065.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
 ];

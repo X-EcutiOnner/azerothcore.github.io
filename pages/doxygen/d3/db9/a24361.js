@@ -1,9 +1,6 @@
 var a24361 =
 [
-    [ "npc_bessyAI", "d3/db9/a24361.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d3/db9/a24361.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d3/db9/a24361.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d3/db9/a24361.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d3/db9/a24361.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
-    [ "WaypointReached", "d3/db9/a24361.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "CheckCast", "d3/db9/a24361.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "d3/db9/a24361.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "d3/db9/a24361.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

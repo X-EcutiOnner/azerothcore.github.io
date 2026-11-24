@@ -1,6 +1,7 @@
 var a19525 =
 [
-    [ "npc_four_car_garageAI", "dd/d18/a19529.html", "dd/d18/a19529" ],
-    [ "npc_four_car_garage", "d2/d64/a19525.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
-    [ "GetAI", "d2/d64/a19525.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
+    [ "OnRemove", "d2/d64/a19525.html#a4e6a66934a01d01c50208459f6771353", null ],
+    [ "PrepareAuraScript", "d2/d64/a19525.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
+    [ "Register", "d2/d64/a19525.html#a4890d35f2b0889156a437c95e49f528c", null ],
+    [ "Validate", "d2/d64/a19525.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
 ];

@@ -1,5 +1,5 @@
 var a22717 =
 [
-    [ "go_scourge_enclosure", "de/d87/a22717.html#a3611232cb735f336087d4d3c90f66b8d", null ],
-    [ "OnGossipHello", "de/d87/a22717.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "de/d87/a22717.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "de/d87/a22717.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

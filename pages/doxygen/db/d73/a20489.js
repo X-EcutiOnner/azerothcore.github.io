@@ -1,10 +1,14 @@
 var a20489 =
 [
-    [ "boss_freya_elder_brightleaf", "db/d73/a20489.html#a7454f4dec1f1ccc471f42eeee513f272", null ],
-    [ "JustDied", "db/d73/a20489.html#a98aed4b2a4ebf10c807d9bb54c65a273", null ],
-    [ "JustEngagedWith", "db/d73/a20489.html#ad0f003e5b57b7c7df4b860df2f8e1e85", null ],
-    [ "KilledUnit", "db/d73/a20489.html#a3c45c1c87f793cb4dbd447065b09d108", null ],
-    [ "Reset", "db/d73/a20489.html#ae9687c330856da6d5e7bed9bccbe8e52", null ],
-    [ "UpdateAI", "db/d73/a20489.html#aa53a5a5ada35c8717c58553b397d58d9", null ],
-    [ "events", "db/d73/a20489.html#aaa459ae8f2e0f83330359d45259d9f79", null ]
+    [ "boss_freya_summons", "db/d73/a20489.html#a1d53e3d32307347532f96ca2b27734cb", null ],
+    [ "IsSummonedBy", "db/d73/a20489.html#a631605e67e488590d8d96d4807d13cd2", null ],
+    [ "JustDied", "db/d73/a20489.html#a15d9b71a31a840917b449c0094049e00", null ],
+    [ "JustEngagedWith", "db/d73/a20489.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
+    [ "Reset", "db/d73/a20489.html#af7e842a7bc2be806816a942026670d71", null ],
+    [ "ReviveWithAllies", "db/d73/a20489.html#acec319d89a49da510093411f681fb950", null ],
+    [ "UpdateAI", "db/d73/a20489.html#abc3634dce208478e82d3c9bb19d222df", null ],
+    [ "_hasDied", "db/d73/a20489.html#a145f46cfda95e50fa30c98581a30de9e", null ],
+    [ "_isTrio", "db/d73/a20489.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
+    [ "_setId", "db/d73/a20489.html#a3898bc77baa92fd0031aea5bbef5eb80", null ],
+    [ "events", "db/d73/a20489.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
 ];

@@ -1,7 +1,15 @@
 var a19877 =
 [
-    [ "FilterTargets", "d9/d3e/a19877.html#a6beccd163ab8442a1ed39c553716cb73", null ],
-    [ "Load", "d9/d3e/a19877.html#a5df67c2dbd14a75435f68939240daae6", null ],
-    [ "PrepareSpellScript", "d9/d3e/a19877.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
-    [ "Register", "d9/d3e/a19877.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
+    [ "boss_anomalus", "d9/d3e/a19877.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d9/d3e/a19877.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "d9/d3e/a19877.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "d9/d3e/a19877.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "d9/d3e/a19877.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "d9/d3e/a19877.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "d9/d3e/a19877.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "d9/d3e/a19877.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "d9/d3e/a19877.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "_empowered", "d9/d3e/a19877.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
+    [ "achievement", "d9/d3e/a19877.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "d9/d3e/a19877.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

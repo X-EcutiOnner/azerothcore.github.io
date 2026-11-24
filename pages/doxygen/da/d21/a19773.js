@@ -1,6 +1,8 @@
 var a19773 =
 [
-    [ "boss_thaddiusAI", "df/d8c/a19777.html", "df/d8c/a19777" ],
-    [ "boss_thaddius", "da/d21/a19773.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "da/d21/a19773.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "HandleAfterCast", "da/d21/a19773.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "da/d21/a19773.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "da/d21/a19773.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "da/d21/a19773.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "da/d21/a19773.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

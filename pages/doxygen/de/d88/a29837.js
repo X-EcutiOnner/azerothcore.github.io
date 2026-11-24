@@ -1,8 +1,7 @@
 var a29837 =
 [
-    [ "auraHasCanProcFromProcs", "de/d88/a29837.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
-    [ "isTriggered", "de/d88/a29837.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
-    [ "procAuraSpellId", "de/d88/a29837.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
-    [ "spellHasNotAProc", "de/d88/a29837.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
-    [ "triggeredByAuraSpellId", "de/d88/a29837.html#ad62562e342e1d090e3f26f7c40a35795", null ]
+    [ "flatModifier", "de/d88/a29837.html#a781485dfaede63716eddba66971600e3", null ],
+    [ "hasSpellModOwner", "de/d88/a29837.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
+    [ "hasSpellProto", "de/d88/a29837.html#a96607da311b5774eeaa01674d32ab22e", null ],
+    [ "pctModifier", "de/d88/a29837.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
 ];

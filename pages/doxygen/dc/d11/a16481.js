@@ -1,6 +1,12 @@
 var a16481 =
 [
-    [ "ModDestHeight", "dc/d11/a16481.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "dc/d11/a16481.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "dc/d11/a16481.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "npc_twilight_volunteer", "dc/d11/a16481.html#a3062041fcabf972e0a3d4753363c37b3", null ],
+    [ "AttackStart", "dc/d11/a16481.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
+    [ "DoAction", "dc/d11/a16481.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
+    [ "EnterEvadeMode", "dc/d11/a16481.html#abd88e6fe0565babb92ccae17df0421d6", null ],
+    [ "MovementInform", "dc/d11/a16481.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
+    [ "UpdateAI", "dc/d11/a16481.html#a93288a45982b172c201e2442a4c91114", null ],
+    [ "events", "dc/d11/a16481.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
+    [ "isSacraficeTarget", "dc/d11/a16481.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
+    [ "pInstance", "dc/d11/a16481.html#ad58453e078520fa23238a96115e5f38f", null ]
 ];

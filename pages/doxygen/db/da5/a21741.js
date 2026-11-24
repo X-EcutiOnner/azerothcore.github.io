@@ -1,5 +1,10 @@
 var a21741 =
 [
-    [ "npc_khunok_the_behemothAI", "db/da5/a21741.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "db/da5/a21741.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "npc_jenny", "db/da5/a21741.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "db/da5/a21741.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "db/da5/a21741.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "db/da5/a21741.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "db/da5/a21741.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "db/da5/a21741.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "db/da5/a21741.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

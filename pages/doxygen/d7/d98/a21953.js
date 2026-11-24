@@ -1,6 +1,6 @@
 var a21953 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d7/d98/a21953.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "d7/d98/a21953.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "d7/d98/a21953.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_heated_battleAI", "d7/d8d/a21957.html", "d7/d8d/a21957" ],
+    [ "npc_heated_battle", "d7/d98/a21953.html#aceafde04a60940c1027a6e838ffdc137", null ],
+    [ "GetAI", "d7/d98/a21953.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
 ];

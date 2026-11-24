@@ -1,9 +1,6 @@
 var a20513 =
 [
-    [ "boss_freya_nature_bomb", "d3/d7c/a20513.html#a050672942ab467557d21a930ab22827c", null ],
-    [ "Reset", "d3/d7c/a20513.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
-    [ "UpdateAI", "d3/d7c/a20513.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
-    [ "_explodeTimer", "d3/d7c/a20513.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
-    [ "_goGUID", "d3/d7c/a20513.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
-    [ "Timer", "d3/d7c/a20513.html#affadb797817ddf512209d1d71097baf3", null ]
+    [ "FilterTargets", "d3/d7c/a20513.html#a3ebface91881b903886ea9a10041da70", null ],
+    [ "PrepareSpellScript", "d3/d7c/a20513.html#a50d5f046f75c431f9323e225ed795ea3", null ],
+    [ "Register", "d3/d7c/a20513.html#aa037424d0f72823d0651f84c6d2c7449", null ]
 ];

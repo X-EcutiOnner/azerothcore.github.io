@@ -1,6 +1,6 @@
 var a18585 =
 [
-    [ "LastPhaseIceTombTargetSelector", "df/d77/a18585.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
-    [ "operator()", "df/d77/a18585.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
-    [ "_source", "df/d77/a18585.html#ab10d10dd0de7717078d31ac026d4c933", null ]
+    [ "UnchainedMagicTargetSelector", "df/d77/a18585.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "df/d77/a18585.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "df/d77/a18585.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

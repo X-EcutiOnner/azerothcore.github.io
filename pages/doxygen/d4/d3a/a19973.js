@@ -1,15 +1,6 @@
 var a19973 =
 [
-    [ "boss_eregosAI", "d4/d3a/a19973.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
-    [ "DamageTaken", "d4/d3a/a19973.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
-    [ "JustDied", "d4/d3a/a19973.html#ade16be2804b857fc8e93a62d4be42380", null ],
-    [ "JustEngagedWith", "d4/d3a/a19973.html#a1544782732beba5d7114c3bb70419ae1", null ],
-    [ "JustSummoned", "d4/d3a/a19973.html#a33ef5a080e457f4e08e7997b467b0974", null ],
-    [ "KilledUnit", "d4/d3a/a19973.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
-    [ "MoveInLineOfSight", "d4/d3a/a19973.html#ac622481abb0190bdc7654b383766a9ed", null ],
-    [ "Reset", "d4/d3a/a19973.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
-    [ "UpdateAI", "d4/d3a/a19973.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
-    [ "events", "d4/d3a/a19973.html#ae6f1f2e3146525596c3dbb646283b744", null ],
-    [ "pInstance", "d4/d3a/a19973.html#abf0b366d7b0931ccc30711a33736dda8", null ],
-    [ "shiftNumber", "d4/d3a/a19973.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
+    [ "instance_oculus_InstanceMapScript", "d0/d19/a19977.html", "d0/d19/a19977" ],
+    [ "instance_oculus", "d4/d3a/a19973.html#a404205ea7106531ea57307c40b9589bb", null ],
+    [ "GetInstanceScript", "d4/d3a/a19973.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
 ];

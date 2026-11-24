@@ -1,6 +1,6 @@
 var a17881 =
 [
-    [ "HandleStackDrop", "dc/d09/a17881.html#a5c1064d764a6bfa4b3fde8bf57316e44", null ],
-    [ "PrepareAuraScript", "dc/d09/a17881.html#a294db521fc56c4fe5e50317fedd8a86d", null ],
-    [ "Register", "dc/d09/a17881.html#a45b1fd2c1896023d71a0916100376e57", null ]
+    [ "PrepareSpellScript", "dc/d09/a17881.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "dc/d09/a17881.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "dc/d09/a17881.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

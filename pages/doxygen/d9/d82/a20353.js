@@ -1,15 +1,9 @@
 var a20353 =
 [
-    [ "boss_flame_leviathan_seat", "d9/d82/a20353.html#a2fc2adc846b2939cf633bf47b4307896", null ],
-    [ "ActivateTurret", "d9/d82/a20353.html#a444d5abcb47488ffedd5d3a6737e7f2c", null ],
-    [ "ActivateTurrets", "d9/d82/a20353.html#abb69910faf565fc1b484baa1ad9d5f11", null ],
-    [ "AttackStart", "d9/d82/a20353.html#a88d8a972e5f079c0111c0f189d599e8c", null ],
-    [ "EnterEvadeMode", "d9/d82/a20353.html#ac0f5d43d4be0773fdae62d0ab433713f", null ],
-    [ "PassengerBoarded", "d9/d82/a20353.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],
-    [ "Reset", "d9/d82/a20353.html#aec34fec1a6a3857ea7895a2762bf82d0", null ],
-    [ "UpdateAI", "d9/d82/a20353.html#a303c50b5684410013f95b0202ea33c8e", null ],
-    [ "_despawnCheckTimer", "d9/d82/a20353.html#ad902023776db0a5d846168167974f694", null ],
-    [ "_pending10ManDespawn", "d9/d82/a20353.html#a147da457d02a4977439c635fb150f005", null ],
-    [ "DESPAWN_DELAY_10MAN", "d9/d82/a20353.html#a1bda734e377ce71dd3c7f1257ab89d20", null ],
-    [ "vehicle", "d9/d82/a20353.html#a9772b52283f16120dbefb5d218844c38", null ]
+    [ "npc_hodirs_fury", "d9/d82/a20353.html#abda902842d76a0a5a17196a11654f5ab", null ],
+    [ "MovementInform", "d9/d82/a20353.html#a4d82007c5b70edad74b461948629b9fb", null ],
+    [ "Reset", "d9/d82/a20353.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
+    [ "UpdateAI", "d9/d82/a20353.html#a58a8b1664bb00b930cce86e856facb8b", null ],
+    [ "_switchTargetTimer", "d9/d82/a20353.html#a9736332e6f3d163f04aa12cbd6829670", null ],
+    [ "_timeToHit", "d9/d82/a20353.html#a611d171dc27bd78d298040eabfc00e5f", null ]
 ];

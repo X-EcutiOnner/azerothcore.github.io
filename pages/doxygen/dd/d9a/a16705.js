@@ -1,6 +1,6 @@
 var a16705 =
 [
-    [ "SendEncounterUnit", "dd/d9a/a16705.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "dd/d9a/a16705.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "dd/d9a/a16705.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "boss_halionAI", "db/dfc/a16709.html", "db/dfc/a16709" ],
+    [ "boss_halion", "dd/d9a/a16705.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
+    [ "GetAI", "dd/d9a/a16705.html#a142314efb4f45ec146ab0225271d29b1", null ]
 ];

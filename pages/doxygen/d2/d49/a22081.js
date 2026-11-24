@@ -1,8 +1,11 @@
 var a22081 =
 [
-    [ "OnRemove", "d2/d49/a22081.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "d2/d49/a22081.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "d2/d49/a22081.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "d2/d49/a22081.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "d2/d49/a22081.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "npc_emilyAI", "d2/d49/a22081.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d2/d49/a22081.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d2/d49/a22081.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d2/d49/a22081.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d2/d49/a22081.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "WaypointReached", "d2/d49/a22081.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_mrfloppyGUID", "d2/d49/a22081.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d2/d49/a22081.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

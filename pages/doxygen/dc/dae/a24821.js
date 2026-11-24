@@ -1,7 +1,7 @@
 var a24821 =
 [
-    [ "CheckCast", "dc/dae/a24821.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "dc/dae/a24821.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "dc/dae/a24821.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "dc/dae/a24821.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "CalcDamage", "dc/dae/a24821.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
+    [ "PrepareSpellScript", "dc/dae/a24821.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
+    [ "Register", "dc/dae/a24821.html#a857a010e6426e931ca872f66803b99b9", null ],
+    [ "Validate", "dc/dae/a24821.html#ab64625ce305efb9dc92780c945b4fd62", null ]
 ];

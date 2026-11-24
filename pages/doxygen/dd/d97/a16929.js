@@ -1,8 +1,8 @@
 var a16929 =
 [
-    [ "npc_toc5_player_vehicleAI", "dd/d97/a16929.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "dd/d97/a16929.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "dd/d97/a16929.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "dd/d97/a16929.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "dd/d97/a16929.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "npc_frost_sphere", "dd/d97/a16929.html#ad33989871683168317e28d6fc9015ddf", null ],
+    [ "DamageTaken", "dd/d97/a16929.html#abe4b84f328c3616dfa1d36bc61648b48", null ],
+    [ "Land", "dd/d97/a16929.html#a902eb3526e1e70192798cfb0e05beb6a", null ],
+    [ "MovementInform", "dd/d97/a16929.html#a3269adf5da171e0d37697484124ad2b8", null ],
+    [ "SpellHit", "dd/d97/a16929.html#a3a9836e1921e90778ab8d08111d90995", null ]
 ];

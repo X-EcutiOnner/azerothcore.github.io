@@ -1,8 +1,7 @@
 var a17349 =
 [
-    [ "HandleRemove", "db/de1/a17349.html#a362b16f69a19adae6b673bd9ead55a83", null ],
-    [ "PeriodicTick", "db/de1/a17349.html#aa432052d61dc48066433b41b84ffbe5f", null ],
-    [ "PrepareAuraScript", "db/de1/a17349.html#a3ffbd618820adf77b2c64a29816f5204", null ],
-    [ "Register", "db/de1/a17349.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
-    [ "Validate", "db/de1/a17349.html#abed6574398a7d005e95feba6b54243a1", null ]
+    [ "npc_fos_corrupted_soul_fragment", "db/de1/a17349.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
+    [ "Reset", "db/de1/a17349.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
+    [ "UpdateAI", "db/de1/a17349.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
+    [ "_instance", "db/de1/a17349.html#a9bc1189813d55564f547260629d0799b", null ]
 ];

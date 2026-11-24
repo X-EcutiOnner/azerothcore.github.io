@@ -1,6 +1,8 @@
 var a19397 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "df/df1/a19401.html", "df/df1/a19401" ],
-    [ "npc_icc_skybreaker_vicar", "d1/d3c/a19397.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
-    [ "GetAI", "d1/d3c/a19397.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
+    [ "Class", "d1/d3c/a19397.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "d1/d3c/a19397.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
+    [ "id", "d1/d3c/a19397.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "d1/d3c/a19397.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "d1/d3c/a19397.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

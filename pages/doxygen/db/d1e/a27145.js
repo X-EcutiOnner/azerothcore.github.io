@@ -1,6 +1,7 @@
 var a27145 =
 [
-    [ "HandleDamage", "db/d1e/a27145.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "db/d1e/a27145.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "db/d1e/a27145.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "HandleApplyEffect", "db/d1e/a27145.html#af95120b26a165196e0310956c245f36f", null ],
+    [ "HandleRemoveEffect", "db/d1e/a27145.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
+    [ "PrepareAuraScript", "db/d1e/a27145.html#ae19e002407db1466f0655db3d14fe0d7", null ],
+    [ "Register", "db/d1e/a27145.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
 ];

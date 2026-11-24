@@ -1,5 +1,6 @@
 var a19269 =
 [
-    [ "npc_darkfallen_archmage", "d3/d9f/a19269.html#a8d21215aba6a282cf6d6450551876813", null ],
-    [ "ScheduleSpells", "d3/d9f/a19269.html#a9a0e12d3d69a7c409d5c32ec68c51f60", null ]
+    [ "OnRemove", "d3/d9f/a19269.html#a748868eb89f1fb3ccfec5ea9f8603168", null ],
+    [ "PrepareAuraScript", "d3/d9f/a19269.html#a9033a0ef5963800d13b898f7c02ff7b2", null ],
+    [ "Register", "d3/d9f/a19269.html#a7ac0cff5f8f918e7a61bbc600419d3c3", null ]
 ];

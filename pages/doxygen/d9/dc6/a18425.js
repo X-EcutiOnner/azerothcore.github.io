@@ -1,6 +1,7 @@
 var a18425 =
 [
-    [ "PrepareSpellScript", "d9/dc6/a18425.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "d9/dc6/a18425.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "d9/dc6/a18425.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "HandleDummy", "d9/dc6/a18425.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "d9/dc6/a18425.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "d9/dc6/a18425.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "d9/dc6/a18425.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

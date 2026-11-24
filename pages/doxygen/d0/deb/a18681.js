@@ -1,17 +1,8 @@
 var a18681 =
 [
-    [ "npc_rimefangAI", "d0/deb/a18681.html#ae89b397bafdcb06e94fa94c18ef0d2c8", null ],
-    [ "DoAction", "d0/deb/a18681.html#a79d34453b3ace5c1f80b12b862890e3c", null ],
-    [ "InitializeAI", "d0/deb/a18681.html#ae515d0b1d383c48e40fa4795edd1b247", null ],
-    [ "JustDied", "d0/deb/a18681.html#ab3cd1550cda44cecf889f4bf28f976ba", null ],
-    [ "JustEngagedWith", "d0/deb/a18681.html#ad161bb0a6c76d223b1e687a1cc604375", null ],
-    [ "JustReachedHome", "d0/deb/a18681.html#a7b15a9c6db1a48c3766afcb41d66b61f", null ],
-    [ "JustRespawned", "d0/deb/a18681.html#a47ed52a4a0511d7b1e3eb4bd5da409ca", null ],
-    [ "MovementInform", "d0/deb/a18681.html#aacd146fbfac94b8f82b3971ff74644cc", null ],
-    [ "Reset", "d0/deb/a18681.html#a8956324e2806393d26bf146f4e2c48b0", null ],
-    [ "UpdateAI", "d0/deb/a18681.html#a00872042199924a14089c1057c479ff7", null ],
-    [ "_events", "d0/deb/a18681.html#ade0c279565236eb3fd59fd43eef4c3e1", null ],
-    [ "_icyBlastCounter", "d0/deb/a18681.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9", null ],
-    [ "_instance", "d0/deb/a18681.html#ad12541907c439117cf8c8a6741c07445", null ],
-    [ "_summoned", "d0/deb/a18681.html#aa27dd1e338145a65915262a8d44f7519", null ]
+    [ "FilterTargets", "d0/deb/a18681.html#a14e392760361b95578bc95de10cdd8aa", null ],
+    [ "HandleForcedCast", "d0/deb/a18681.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
+    [ "PrepareSpellScript", "d0/deb/a18681.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
+    [ "Register", "d0/deb/a18681.html#ac2105e66f692c6a991ac9190b1901505", null ],
+    [ "Validate", "d0/deb/a18681.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
 ];

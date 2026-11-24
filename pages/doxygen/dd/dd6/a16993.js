@@ -1,6 +1,6 @@
 var a16993 =
 [
-    [ "HandlePeriodic", "dd/dd6/a16993.html#a2c95ec0de50654e8ab6cd4eca640bb82", null ],
-    [ "PrepareAuraScript", "dd/dd6/a16993.html#ae8f7e094f79aea2532590bb30977a942", null ],
-    [ "Register", "dd/dd6/a16993.html#a25f20f3958d6c7de608df198643d9708", null ]
+    [ "npc_toc_priestAI", "d2/d61/a16997.html", "d2/d61/a16997" ],
+    [ "npc_toc_priest", "dd/dd6/a16993.html#a0e360a2cc053434d2f76826683da8eee", null ],
+    [ "GetAI", "dd/dd6/a16993.html#a6056a81bef962a02537d525f07d1c302", null ]
 ];

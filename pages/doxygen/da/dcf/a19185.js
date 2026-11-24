@@ -1,6 +1,6 @@
 var a19185 =
 [
-    [ "npc_captain_arnathAI", "da/dbd/a19189.html", "da/dbd/a19189" ],
-    [ "npc_captain_arnath", "da/dcf/a19185.html#ab96afce64a7714ea84bab932f80c9302", null ],
-    [ "GetAI", "da/dcf/a19185.html#a302ec007389e677011334d78f410207b", null ]
+    [ "npc_captain_rupertAI", "da/dbd/a19189.html", "da/dbd/a19189" ],
+    [ "npc_captain_rupert", "da/dcf/a19185.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
+    [ "GetAI", "da/dcf/a19185.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
 ];

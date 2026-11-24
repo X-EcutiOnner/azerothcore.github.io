@@ -1,6 +1,9 @@
 var a21133 =
 [
-    [ "boss_yoggsaron_death_orb", "d7/d3f/a21133.html#a8e967885da35381db767d941a2174a82", null ],
-    [ "IsSummonedBy", "d7/d3f/a21133.html#a86965a290bf5714fe5e81577ae80775a", null ],
-    [ "JustSummoned", "d7/d3f/a21133.html#a916588e3cdd0520fe5c1947a797c0042", null ]
+    [ "boss_yoggsaron_keeper", "d7/d3f/a21133.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "Activate", "d7/d3f/a21133.html#a54edd78e856dbf519a0e2d76ae781ab8", null ],
+    [ "DoAction", "d7/d3f/a21133.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustSummoned", "d7/d3f/a21133.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "d7/d3f/a21133.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "d7/d3f/a21133.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

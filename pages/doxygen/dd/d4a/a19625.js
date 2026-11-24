@@ -1,6 +1,9 @@
 var a19625 =
 [
-    [ "npc_gothik_triggerAI", "df/d67/a19629.html", "df/d67/a19629" ],
-    [ "npc_gothik_trigger", "dd/d4a/a19625.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
-    [ "GetAI", "dd/d4a/a19625.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
+    [ "boss_grobbulus_poison_cloudAI", "dd/d4a/a19625.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "dd/d4a/a19625.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "dd/d4a/a19625.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "dd/d4a/a19625.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "dd/d4a/a19625.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "dd/d4a/a19625.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

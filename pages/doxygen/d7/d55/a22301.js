@@ -1,7 +1,6 @@
 var a22301 =
 [
-    [ "GetSeatNumber", "d7/d55/a22301.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "d7/d55/a22301.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "d7/d55/a22301.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "d7/d55/a22301.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_infra_green_bomber_genericAI", "de/d54/a22305.html", "de/d54/a22305" ],
+    [ "npc_infra_green_bomber_generic", "d7/d55/a22301.html#a39134a09376c35f15e99377cd28ac6ff", null ],
+    [ "GetAI", "d7/d55/a22301.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
 ];

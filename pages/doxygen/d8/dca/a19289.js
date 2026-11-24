@@ -1,8 +1,6 @@
 var a19289 =
 [
-    [ "OnApply", "d8/dca/a19289.html#addeb4f3b2a06666b36f4dee1874b6e8d", null ],
-    [ "OnRemove", "d8/dca/a19289.html#ae4ecf698d999969aceca3c307b44d9bd", null ],
-    [ "PrepareAuraScript", "d8/dca/a19289.html#a74a552ea94c56fd22b8fea792617a537", null ],
-    [ "Register", "d8/dca/a19289.html#a90041bb6ad83973a894638630642dd62", null ],
-    [ "Validate", "d8/dca/a19289.html#a051c1544da173e50ae6642b1b14c923e", null ]
+    [ "HandleEvent", "d8/dca/a19289.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "d8/dca/a19289.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "d8/dca/a19289.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

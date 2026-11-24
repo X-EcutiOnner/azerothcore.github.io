@@ -1,8 +1,10 @@
 var a25113 =
 [
-    [ "CheckProc", "dd/d86/a25113.html#a44d845f5cbfaf0fd33409ffd16fd4396", null ],
-    [ "HandleProc", "dd/d86/a25113.html#a946cb56cf0a525c0a44b638b28e5b3ad", null ],
-    [ "PrepareAuraScript", "dd/d86/a25113.html#a01c53cd13316af74cfe27603e70ab468", null ],
-    [ "Register", "dd/d86/a25113.html#a5bb2ca31f2e4477640578a305593bcb3", null ],
-    [ "Validate", "dd/d86/a25113.html#a307274a8f4e55ad15efc08711a7b8e8f", null ]
+    [ "CheckProc", "dd/d86/a25113.html#a1afbc5f8e86e0382be43c947e88306b3", null ],
+    [ "HandleProc", "dd/d86/a25113.html#a9fbfe3fba6283362bab181fcd15611b3", null ],
+    [ "PrepareAuraScript", "dd/d86/a25113.html#aa060ed89bc5e3c80d6402c8e79baa597", null ],
+    [ "Register", "dd/d86/a25113.html#a43cc9387ce5b1665147dcfecb1476c22", null ],
+    [ "Validate", "dd/d86/a25113.html#ad167a260f9a3d1f71a5a11b0bab6161c", null ],
+    [ "_lunarProcCooldownEnd", "dd/d86/a25113.html#a9fd6d9c34dba5cb302010df4d5c560c2", null ],
+    [ "_solarProcCooldownEnd", "dd/d86/a25113.html#a6f50d14abee53eb06f50edbcc78628c4", null ]
 ];

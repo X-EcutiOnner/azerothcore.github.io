@@ -1,7 +1,6 @@
 var a20501 =
 [
-    [ "boss_freya_lifebinder", "da/db7/a20501.html#a1784d6e975192a7442cabb14f688737d", null ],
-    [ "Reset", "da/db7/a20501.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
-    [ "UpdateAI", "da/db7/a20501.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
-    [ "_scheduler", "da/db7/a20501.html#a5c19f04cec9cd899feee7ce2878563cf", null ]
+    [ "achievement_freya_knock_on_wood", "da/db7/a20501.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "da/db7/a20501.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "da/db7/a20501.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

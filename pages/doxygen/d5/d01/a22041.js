@@ -1,8 +1,7 @@
 var a22041 =
 [
-    [ "npc_q24545_vegardAI", "d5/d01/a22041.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "d5/d01/a22041.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "d5/d01/a22041.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "d5/d01/a22041.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "d5/d01/a22041.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "HandleDummy", "d5/d01/a22041.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
+    [ "PrepareSpellScript", "d5/d01/a22041.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
+    [ "Register", "d5/d01/a22041.html#a45f80e0436f93a597deb4653852df6a1", null ],
+    [ "Validate", "d5/d01/a22041.html#ad13fdade1fb7455485bfd68687de53c5", null ]
 ];

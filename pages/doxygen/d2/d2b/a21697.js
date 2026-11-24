@@ -1,7 +1,6 @@
 var a21697 =
 [
-    [ "npc_azure_stalker", "d2/d2b/a21697.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
-    [ "Reset", "d2/d2b/a21697.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
-    [ "UpdateAI", "d2/d2b/a21697.html#a22352aad7c55a4d454b9732469395139", null ],
-    [ "_events", "d2/d2b/a21697.html#ad83249d787d2f763ac2d01723ff305ef", null ]
+    [ "HandleEffectPeriodic", "d2/d2b/a21697.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "d2/d2b/a21697.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "d2/d2b/a21697.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

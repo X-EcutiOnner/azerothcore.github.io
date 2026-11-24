@@ -1,6 +1,6 @@
 var a27509 =
 [
-    [ "HandleScript", "d4/dbb/a27509.html#a54c724bd8786c894ecaa584c164c2e53", null ],
-    [ "PrepareSpellScript", "d4/dbb/a27509.html#a4505b9196609ae9339fe7e5948963663", null ],
-    [ "Register", "d4/dbb/a27509.html#ae293d6a2a477f716f357516781246069", null ]
+    [ "HandlePeriodic", "d4/dbb/a27509.html#a6fdf93580d860712943bbff07e273fef", null ],
+    [ "PrepareAuraScript", "d4/dbb/a27509.html#ac64daca8467814398251ec8e590f8281", null ],
+    [ "Register", "d4/dbb/a27509.html#ad0e68442f3d12cb58781e5e2d39b49ec", null ]
 ];

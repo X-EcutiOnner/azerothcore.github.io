@@ -1,6 +1,11 @@
 var a23153 =
 [
-    [ "boss_essence_of_sufferingAI", "d7/df2/a23157.html", "d7/df2/a23157" ],
-    [ "boss_essence_of_suffering", "d1/d21/a23153.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d1/d21/a23153.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "boss_essence_of_desireAI", "d1/d21/a23153.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "d1/d21/a23153.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "d1/d21/a23153.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "d1/d21/a23153.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "d1/d21/a23153.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "d1/d21/a23153.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "d1/d21/a23153.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "d1/d21/a23153.html#af348a1b996a8e7704ba55185ef79fe7d", null ]
 ];

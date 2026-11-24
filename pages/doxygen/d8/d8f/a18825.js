@@ -1,7 +1,12 @@
 var a18825 =
 [
-    [ "CheckTargetCount", "d8/d8f/a18825.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "d8/d8f/a18825.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "d8/d8f/a18825.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "d8/d8f/a18825.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "npc_raging_spiritAI", "d8/d8f/a18825.html#a1c85351ae62d5f45381214373e64aec4", null ],
+    [ "AttackStart", "d8/d8f/a18825.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
+    [ "CanAIAttack", "d8/d8f/a18825.html#a64fa46f05861d8736d881aa3687f4320", null ],
+    [ "IsSummonedBy", "d8/d8f/a18825.html#aceba6a8eca00b41c42e2481a652c4d14", null ],
+    [ "JustDied", "d8/d8f/a18825.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
+    [ "Reset", "d8/d8f/a18825.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
+    [ "UpdateAI", "d8/d8f/a18825.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
+    [ "_events", "d8/d8f/a18825.html#af5783316983b622f20d8c677f2858111", null ],
+    [ "_instance", "d8/d8f/a18825.html#aaa9b5728fcdb379849434385b3501251", null ]
 ];

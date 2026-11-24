@@ -1,30 +1,40 @@
 var a04547 =
 [
-    [ "boss_twin_valkyrAI", "df/dd6/a17225.html", "df/dd6/a17225" ],
-    [ "boss_eydis", "d1/d9c/a17229.html", "d1/d9c/a17229" ],
-    [ "boss_eydis::boss_eydisAI", "d0/d01/a17233.html", "d0/d01/a17233" ],
-    [ "boss_fjola", "d8/d12/a17237.html", "d8/d12/a17237" ],
-    [ "boss_fjola::boss_fjolaAI", "db/df4/a17241.html", "db/df4/a17241" ],
-    [ "npc_essence_of_twin", "dd/d8e/a17245.html", "dd/d8e/a17245" ],
-    [ "npc_concentrated_ball", "d8/d6d/a17249.html", "d8/d6d/a17249" ],
-    [ "npc_concentrated_ball::npc_concentrated_ballAI", "de/db1/a17253.html", "de/db1/a17253" ],
-    [ "spell_valkyr_essence_aura", "d2/dc3/a17257.html", "d2/dc3/a17257" ],
-    [ "spell_valkyr_touch_aura", "dc/ded/a17261.html", "dc/ded/a17261" ],
-    [ "spell_valkyr_ball_periodic_dummy_aura", "da/d42/a17265.html", "da/d42/a17265" ],
-    [ "spell_valkyr_clear_auras", "d4/dcb/a17269.html", "d4/dcb/a17269" ],
+    [ "boss_twin_valkyrAI", "de/df3/a17189.html", "de/df3/a17189" ],
+    [ "boss_eydis", "d6/d36/a17193.html", "d6/d36/a17193" ],
+    [ "boss_eydis::boss_eydisAI", "dc/d78/a17197.html", "dc/d78/a17197" ],
+    [ "boss_fjola", "d5/db5/a17201.html", "d5/db5/a17201" ],
+    [ "boss_fjola::boss_fjolaAI", "d2/d8d/a17205.html", "d2/d8d/a17205" ],
+    [ "npc_concentrated_ball", "d0/da9/a17209.html", "d0/da9/a17209" ],
+    [ "spell_valkyr_essence_aura", "d1/dd7/a17213.html", "d1/dd7/a17213" ],
+    [ "spell_valkyr_touch_aura", "d9/dd7/a17217.html", "d9/dd7/a17217" ],
+    [ "spell_valkyr_ball_passive", "dc/d51/a17221.html", "dc/d51/a17221" ],
+    [ "spell_valkyr_bullet_controller", "df/dd6/a17225.html", "df/dd6/a17225" ],
+    [ "spell_valkyr_bullet_summon_trigger", "d1/d9c/a17229.html", "d1/d9c/a17229" ],
+    [ "spell_valkyr_clear_auras", "d0/d01/a17233.html", "d0/d01/a17233" ],
+    [ "spell_valkyr_uber_spell_controller", "d8/d12/a17237.html", "d8/d12/a17237" ],
+    [ "spell_valkyr_special_2_dummy_cooldown", "db/df4/a17241.html", "db/df4/a17241" ],
     [ "Equipment", "d0/da8/a04547.html#ab54b6488a522ae9b5f65cdd7f02708bc", [
       [ "EQUIP_MAIN_1", "d0/da8/a04547.html#ab54b6488a522ae9b5f65cdd7f02708bcae4818bceef8e7f8183d71ce60d9aae2f", null ],
       [ "EQUIP_OFFHAND_1", "d0/da8/a04547.html#ab54b6488a522ae9b5f65cdd7f02708bca54433e9a751af0ab0d925e2f44ae0287", null ],
       [ "EQUIP_RANGED_1", "d0/da8/a04547.html#ab54b6488a522ae9b5f65cdd7f02708bca1df5647e3edfc4c024cf633980869524", null ],
       [ "EQUIP_MAIN_2", "d0/da8/a04547.html#ab54b6488a522ae9b5f65cdd7f02708bca7d747f0b8eddd6b9ef9634aa05b008f5", null ],
       [ "EQUIP_OFFHAND_2", "d0/da8/a04547.html#ab54b6488a522ae9b5f65cdd7f02708bca43ad13d019d11f11e9b4593f467b732d", null ],
-      [ "EQUIP_RANGED_2", "d0/da8/a04547.html#ab54b6488a522ae9b5f65cdd7f02708bcaabd39cb30e00d10e5adfdf4b0183723d", null ]
+      [ "EQUIP_RANGED_2", "d0/da8/a04547.html#ab54b6488a522ae9b5f65cdd7f02708bcaabd39cb30e00d10e5adfdf4b0183723d", null ],
+      [ "EQUIP_ID_SWORD", "d2/d6b/a04334.html#ab54b6488a522ae9b5f65cdd7f02708bca1f70e04a5bf31c2db2dab09485d107d4", null ],
+      [ "EQUIP_ID_MACE", "d2/d6b/a04334.html#ab54b6488a522ae9b5f65cdd7f02708bcac5bb4cab7e2d37bb3b76b6e16a3cfd9f", null ]
+    ] ],
+    [ "ValkyrActions", "d0/da8/a04547.html#a7a360dd354628abc61bc07b42f70dbc4", [
+      [ "ACTION_TWIN_POWER", "d0/da8/a04547.html#a7a360dd354628abc61bc07b42f70dbc4a2b930f6a80a9242ecd5dd840ab089505", null ],
+      [ "ACTION_SPECIAL", "d0/da8/a04547.html#a7a360dd354628abc61bc07b42f70dbc4a642a5ca446b41b131e7f7cbfd2c47344", null ]
+    ] ],
+    [ "ValkyrBullets", "d0/da8/a04547.html#a763eb69f74089e3630428bfd5aef4b50", [
+      [ "BULLET_CONTROLLER_ORB_CAP", "d0/da8/a04547.html#a763eb69f74089e3630428bfd5aef4b50afc644ba2c5a857d4aa67087ceab5b2da", null ],
+      [ "POINT_BULLET_STALKER", "d0/da8/a04547.html#a763eb69f74089e3630428bfd5aef4b50a47393a0b100c05936d60a4c34576c457", null ]
     ] ],
     [ "ValkyrEvents", "d0/da8/a04547.html#ae4d724917f8fbdcaf577d00bab19e805", [
       [ "EVENT_BERSERK", "d0/da8/a04547.html#ae4d724917f8fbdcaf577d00bab19e805a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SUMMON_BALLS_1", "d0/da8/a04547.html#ae4d724917f8fbdcaf577d00bab19e805a04e523250a002a95f38cb9532876e87d", null ],
-      [ "EVENT_SUMMON_BALLS_2", "d0/da8/a04547.html#ae4d724917f8fbdcaf577d00bab19e805adbc8af7c9d401de85b7c4011f0534969", null ],
-      [ "EVENT_SUMMON_BALLS_3", "d0/da8/a04547.html#ae4d724917f8fbdcaf577d00bab19e805ae8dbffe988cb73fdd98c0effd197bfcd", null ],
+      [ "EVENT_BULLET_BURST", "d0/da8/a04547.html#ae4d724917f8fbdcaf577d00bab19e805a5043e6ab05ff49f594f710289e5b64ef", null ],
       [ "EVENT_SPELL_SPIKE", "d0/da8/a04547.html#ae4d724917f8fbdcaf577d00bab19e805a417c64c26878bef40e537a0c305af5cb", null ],
       [ "EVENT_SPELL_TOUCH", "d0/da8/a04547.html#ae4d724917f8fbdcaf577d00bab19e805a7dd691971a85acdca2e1c4062b8fb40c", null ],
       [ "EVENT_SPECIAL", "d0/da8/a04547.html#ae4d724917f8fbdcaf577d00bab19e805a23f12f795736a646034072280e121a1d", null ],
@@ -33,8 +43,9 @@ var a04547 =
     [ "ValkyrNPCs", "d0/da8/a04547.html#a170a13b76f6ce4207855ca10337d6204", [
       [ "NPC_DARK_ESSENCE", "d0/da8/a04547.html#a170a13b76f6ce4207855ca10337d6204a7856b7938de2e6a89176fb130bb602db", null ],
       [ "NPC_LIGHT_ESSENCE", "d0/da8/a04547.html#a170a13b76f6ce4207855ca10337d6204a509cdeac646fa02986988467e7fdaed4", null ],
-      [ "NPC_CONCENTRATED_DARK", "d0/da8/a04547.html#a170a13b76f6ce4207855ca10337d6204a72f5fc28ca8250b2ff0d4767808371bf", null ],
-      [ "NPC_CONCENTRATED_LIGHT", "d0/da8/a04547.html#a170a13b76f6ce4207855ca10337d6204a8a7aff98e443da9bf05b24611779948e", null ]
+      [ "NPC_BULLET_STALKER_DARK", "d0/da8/a04547.html#a170a13b76f6ce4207855ca10337d6204a1ef62f8f2af6612e424bc90b26a111e3", null ],
+      [ "NPC_BULLET_STALKER_LIGHT", "d0/da8/a04547.html#a170a13b76f6ce4207855ca10337d6204a95c2073c347f4034b77e862e7045b134", null ],
+      [ "NPC_BULLET_CONTROLLER", "d0/da8/a04547.html#a170a13b76f6ce4207855ca10337d6204aa6e80085e8a096516f7bbc432da40ae5", null ]
     ] ],
     [ "ValkyrSpells", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844", [
       [ "SPELL_LIGHT_ESSENCE", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a9702895b75c6b1a2a67b177f84eea0fe", null ],
@@ -59,12 +70,29 @@ var a04547 =
       [ "SPELL_DARK_TWIN_PACT", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844aa3ed6fe39c5120ef03bc4f3bd21bf6f6", null ],
       [ "SPELL_DARK_VORTEX", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a99aa5d1b1c94029995d34cdc8782682f", null ],
       [ "SPELL_DARK_TOUCH", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a7e30a5043c59d6fd6cc39e301f7d1cc2", null ],
-      [ "SPELL_TWIN_POWER", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844ab968e63f01897839c2a557db40865f22", null ],
+      [ "SPELL_TWIN_POWER_LIGHT", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a4f96aca5591fe8bb25b9943d7a3f786c", null ],
+      [ "SPELL_TWIN_POWER_DARK", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a81f893fc8b7a3a2f41ef4227eea6259d", null ],
       [ "SPELL_BERSERK", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844ad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
+      [ "SPELL_BERSERK_TWIN", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844ae893229584aced25c2527ebf269e6354", null ],
       [ "SPELL_TWIN_EMPATHY_DARK", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a7e012640ecc314eee96ed8ad481fe712", null ],
       [ "SPELL_TWIN_EMPATHY_LIGHT", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844af204f4c2da44b9fdb56676e9ea269ff5", null ],
       [ "SPELL_CLEAR_VALKYR_ESSENCE", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a720ad8b5873dfb6465c57a15057bd01b", null ],
-      [ "SPELL_CLEAR_VALKYR_TOUCH", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a8c420a522a120bbd9efa89e0e2714bde", null ]
+      [ "SPELL_CLEAR_VALKYR_TOUCH", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a8c420a522a120bbd9efa89e0e2714bde", null ],
+      [ "SPELL_INSTAKILL_DARK_VALKYR", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a839d71d4f96bde6042fb6fb114ac9cc8", null ],
+      [ "SPELL_INSTAKILL_LIGHT_VALKYR", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a022db670275b77fabc4f8a3c43553c7e", null ],
+      [ "SPELL_HITTIN_YA", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844ac891ba5ed4821c0d10b48cbfe870695c", null ],
+      [ "SPELL_UBER_SPELL_CONTROLLER", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a56861e99a2a649f3b3ff6157b7f4244d", null ],
+      [ "SPELL_AURA_STATE_VULNERABLE", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a7697c6af6cd1340362a17c5ad7fcc27f", null ],
+      [ "SPELL_AURA_STATE_RAID_ENCOUNTER", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a6665a58d41d93133f18462b5a000b939", null ],
+      [ "SPELL_SPECIAL_2_DUMMY_COOLDOWN", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a528a6870b915e8e2eee494a773274515", null ],
+      [ "SPELL_BULLET_CONTROLLER_PERIODIC", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a9926d99e62074a9bde4cffc1d05637a0", null ],
+      [ "SPELL_BULLET_CONTROLLER_SUMMON_LIGHT", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a92b31a0af5e9e9e5214fe3df245d746a", null ],
+      [ "SPELL_BULLET_CONTROLLER_SUMMON_DARK", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a3b88a97f8900660a034bd69586e4f190", null ],
+      [ "SPELL_BULLET_SUMMON_TRIGGER", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844ac5fd14522eaf1f68ee189cda54ced730", null ],
+      [ "SPELL_LIGHT_BALL_PASSIVE", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a56bcf7a1b6ddfa36ad3e15b1ffdd5906", null ],
+      [ "SPELL_DARK_BALL_PASSIVE", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a5999a0cf2c083b4e00268323f92a2c62", null ],
+      [ "SPELL_LIGHT_BALL_PASSIVE_TRIGGER", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844a66ad76a230f66729d16e71806e18c7c9", null ],
+      [ "SPELL_DARK_BALL_PASSIVE_TRIGGER", "d0/da8/a04547.html#a9bda0503dd65e2db0a293e5155db6844aca5686b77dda1a97e57cb9b8b7847c71", null ]
     ] ],
     [ "Yells", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "SAY_AGGRO", "de/d6a/a03833.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],
@@ -252,6 +280,7 @@ var a04547 =
       [ "SAY_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b", null ],
       [ "SAY_DEATH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "EMOTE_BERSERK", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3ad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
+      [ "EMOTE_TOUCH", "d0/da8/a04547.html#a34a1b224b8db54cacd01d75b910f04e3a21153f10565e5f32475502bd21b079bd", null ],
       [ "SAY_AGGRO", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_KILL", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5", null ],
       [ "SAY_DEATH", "db/daf/a04412.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],

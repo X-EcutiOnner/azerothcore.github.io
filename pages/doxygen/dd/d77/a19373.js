@@ -1,7 +1,6 @@
 var a19373 =
 [
-    [ "HandleDummyLaunch", "dd/d77/a19373.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "dd/d77/a19373.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "dd/d77/a19373.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "dd/d77/a19373.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d7/db3/a19377.html", "d7/db3/a19377" ],
+    [ "npc_icc_skybreaker_vicar", "dd/d77/a19373.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
+    [ "GetAI", "dd/d77/a19373.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
 ];

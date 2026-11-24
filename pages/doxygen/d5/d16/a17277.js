@@ -1,6 +1,6 @@
 var a17277 =
 [
-    [ "boss_dredAI", "da/d2c/a17281.html", "da/d2c/a17281" ],
-    [ "boss_dred", "d5/d16/a17277.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "d5/d16/a17277.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "HandleEffectApply", "d5/d16/a17277.html#aaea2c3733dadc19072c81774468e345a", null ],
+    [ "PrepareAuraScript", "d5/d16/a17277.html#a3848997e9f775add50d40342b6211ff0", null ],
+    [ "Register", "d5/d16/a17277.html#a775b1cf494049ed13d149ca6318142c3", null ]
 ];

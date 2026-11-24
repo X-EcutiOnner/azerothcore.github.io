@@ -1,9 +1,7 @@
 var a19841 =
 [
-    [ "npc_nexus_lord", "d0/d45/a19841.html#ab66ba12059e8a028972d21afc11fb309", null ],
-    [ "AttackStart", "d0/d45/a19841.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
-    [ "JustDied", "d0/d45/a19841.html#ae97f816c5fcb71343d8483345723c300", null ],
-    [ "JustEngagedWith", "d0/d45/a19841.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
-    [ "UpdateAI", "d0/d45/a19841.html#acdd7954382f0de84e90d329ec0720a6d", null ],
-    [ "timer", "d0/d45/a19841.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
+    [ "HandleScript", "d0/d45/a19841.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
+    [ "Load", "d0/d45/a19841.html#a94661c7652572b1671a611b35c8f68a7", null ],
+    [ "PrepareSpellScript", "d0/d45/a19841.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
+    [ "Register", "d0/d45/a19841.html#a09352bd458fe3dbeacea38c5104656ff", null ]
 ];

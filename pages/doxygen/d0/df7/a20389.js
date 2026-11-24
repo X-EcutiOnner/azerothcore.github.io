@@ -1,7 +1,8 @@
 var a20389 =
 [
-    [ "npc_storm_beacon_spawn", "d0/df7/a20389.html#a999b6421a0ef6eec2987716a60352a5e", null ],
-    [ "UpdateAI", "d0/df7/a20389.html#a93dbd7a26d6333f18329142280cc743d", null ],
-    [ "_amount", "d0/df7/a20389.html#acb5d1f2b6590da32f36882339729c4e9", null ],
-    [ "_checkTimer", "d0/df7/a20389.html#a9717b52f26045707fd852b955d29a5e6", null ]
+    [ "FilterTargets", "d0/df7/a20389.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "d0/df7/a20389.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "d0/df7/a20389.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "d0/df7/a20389.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "d0/df7/a20389.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

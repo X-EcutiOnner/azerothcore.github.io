@@ -1,8 +1,6 @@
 var a22869 =
 [
-    [ "npc_yor", "de/d2c/a22869.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "de/d2c/a22869.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "de/d2c/a22869.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "de/d2c/a22869.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "de/d2c/a22869.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "d4/d2a/a22873.html", "d4/d2a/a22873" ],
+    [ "instance_mana_tombs", "de/d2c/a22869.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "de/d2c/a22869.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

@@ -1,11 +1,6 @@
 var a28685 =
 [
-    [ "npc_franklinAI", "df/de1/a28685.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
-    [ "DamageTaken", "df/de1/a28685.html#afa494098126ce3291e234cfc2b36336f", null ],
-    [ "JustEngagedWith", "df/de1/a28685.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
-    [ "Reset", "df/de1/a28685.html#a51a260460facf06ec6bb1486f434d885", null ],
-    [ "ScheduleEncounterStart", "df/de1/a28685.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
-    [ "SpellHit", "df/de1/a28685.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
-    [ "UpdateAI", "df/de1/a28685.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
-    [ "events", "df/de1/a28685.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
+    [ "npc_taxi", "df/de1/a28685.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "df/de1/a28685.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "df/de1/a28685.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

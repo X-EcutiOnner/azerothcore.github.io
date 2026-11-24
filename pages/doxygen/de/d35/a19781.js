@@ -1,6 +1,8 @@
 var a19781 =
 [
-    [ "boss_thaddius_summonAI", "d0/dc0/a19785.html", "d0/dc0/a19785" ],
-    [ "boss_thaddius_summon", "de/d35/a19781.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
-    [ "GetAI", "de/d35/a19781.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
+    [ "npc_teslaAI", "de/d35/a19781.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "de/d35/a19781.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "de/d35/a19781.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "de/d35/a19781.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "de/d35/a19781.html#a962745569b07e368067ee483d2379840", null ]
 ];

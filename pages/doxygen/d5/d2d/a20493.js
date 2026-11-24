@@ -1,10 +1,9 @@
 var a20493 =
 [
-    [ "boss_freya_elder_ironbranch", "d5/d2d/a20493.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
-    [ "JustDied", "d5/d2d/a20493.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
-    [ "JustEngagedWith", "d5/d2d/a20493.html#a34d87135b8dac114a8783941dba69559", null ],
-    [ "KilledUnit", "d5/d2d/a20493.html#a20b5a622ac233d1280169f54942c894f", null ],
-    [ "Reset", "d5/d2d/a20493.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
-    [ "UpdateAI", "d5/d2d/a20493.html#a00dade8af24a2240187fb4e52138c0d1", null ],
-    [ "events", "d5/d2d/a20493.html#a8693a800da6890004f3ae82fd9898480", null ]
+    [ "boss_freya_nature_bomb", "d5/d2d/a20493.html#a050672942ab467557d21a930ab22827c", null ],
+    [ "Reset", "d5/d2d/a20493.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
+    [ "UpdateAI", "d5/d2d/a20493.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
+    [ "_explodeTimer", "d5/d2d/a20493.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
+    [ "_goGUID", "d5/d2d/a20493.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
+    [ "Timer", "d5/d2d/a20493.html#affadb797817ddf512209d1d71097baf3", null ]
 ];

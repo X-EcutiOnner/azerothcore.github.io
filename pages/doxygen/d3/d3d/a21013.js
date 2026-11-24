@@ -1,5 +1,8 @@
 var a21013 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "d3/d3d/a21013.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "d3/d3d/a21013.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "npc_pummeller", "d3/d3d/a21013.html#a0c67bf3781fde8d4580aad093bf87291", null ],
+    [ "Reset", "d3/d3d/a21013.html#abdb3f0984c03780aee9dd55496fc7835", null ],
+    [ "UpdateAI", "d3/d3d/a21013.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
+    [ "_instance", "d3/d3d/a21013.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
+    [ "_scheduler", "d3/d3d/a21013.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
 ];

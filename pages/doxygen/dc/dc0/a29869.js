@@ -1,13 +1,6 @@
 var a29869 =
 [
-    [ "AuraConfig", "d9/d55/a29873.html", "d9/d55/a29873" ],
-    [ "ProcRecord", "db/d86/a29877.html", "db/d86/a29877" ],
-    [ "ProcChainGuardSimulator", "dc/dc0/a29869.html#ad729e5f44922b9b6c44c9a4d732818e7", null ],
-    [ "CanProc", "dc/dc0/a29869.html#a267703c4a51bf3e8020e3298c85b74b3", null ],
-    [ "GetProcDeep", "dc/dc0/a29869.html#afe8e4320a882c474f883347860ad4d47", null ],
-    [ "GetRecords", "dc/dc0/a29869.html#ae21baa9f43fb78e30dedfc6608684e9e", null ],
-    [ "SetCantProc", "dc/dc0/a29869.html#ab479d1a30e547ce04775abe397cfea14", null ],
-    [ "SimulateTriggerAurasProc", "dc/dc0/a29869.html#ab0a0af1461f0f94a87273f468bc5454d", null ],
-    [ "_procDeep", "dc/dc0/a29869.html#a5fd0de564b32520971082df9620d40b4", null ],
-    [ "_records", "dc/dc0/a29869.html#abdecfb4d1da86f5a5d4cd7c92c228617", null ]
+    [ "canProcDuringTrigger", "dc/dc0/a29869.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
+    [ "procDeepDuringTrigger", "dc/dc0/a29869.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
+    [ "spellId", "dc/dc0/a29869.html#ac63803a380695f311a39cd62a4f298b4", null ]
 ];

@@ -1,6 +1,11 @@
 var a18497 =
 [
-    [ "ExtraEffect", "db/d53/a18497.html#a10dfb36a835589208482e1c8833d8f46", null ],
-    [ "PrepareSpellScript", "db/d53/a18497.html#a972ff2bdc7d3660820e05326600be6f6", null ],
-    [ "Register", "db/d53/a18497.html#ae337e67a220b72b44878d02be33e3888", null ]
+    [ "npc_little_oozeAI", "db/d53/a18497.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "db/d53/a18497.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "db/d53/a18497.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "db/d53/a18497.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "db/d53/a18497.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "db/d53/a18497.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "db/d53/a18497.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "db/d53/a18497.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

@@ -1,13 +1,19 @@
 var a21433 =
 [
-    [ "npc_ravenous_furbolgAI", "d0/d10/a21433.html#a3e2a0cac8a02d2d6105b06b5c21f1628", null ],
-    [ "DoAction", "d0/d10/a21433.html#a837b442d7812b0c5708995d35c0d45f6", null ],
-    [ "JustDied", "d0/d10/a21433.html#a03e5dd969fcc2e3dcebc714247e18bf2", null ],
-    [ "JustEngagedWith", "d0/d10/a21433.html#a003eb350a11f3f5c2355a58958633f36", null ],
-    [ "JustReachedHome", "d0/d10/a21433.html#a09fc5ba4680c1e5a7a49a81c50cee540", null ],
-    [ "MoveInLineOfSight", "d0/d10/a21433.html#a0b4db9708b9b0288ddb1be2f2205e03a", null ],
-    [ "Reset", "d0/d10/a21433.html#aca5ae47050590ec22e6e929f44e09276", null ],
-    [ "UpdateAI", "d0/d10/a21433.html#ad044c04381a8d61a8fefc55129453ddf", null ],
-    [ "events", "d0/d10/a21433.html#a8bf068c63d7ae10c6edf0af3aab1a6c3", null ],
-    [ "m_pInstance", "d0/d10/a21433.html#aeb0a7644ada4d44e649b4ae45e0d2dc2", null ]
+    [ "boss_skadiAI", "d0/d10/a21433.html#a4e9708950b0dda44bd70d77ee9f9de52", null ],
+    [ "DoAction", "d0/d10/a21433.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
+    [ "EnterEvadeMode", "d0/d10/a21433.html#ab6cf2f709b4888b1b4e17c6022d7091f", null ],
+    [ "JustDied", "d0/d10/a21433.html#af963eda18854869f3a73cb22f48b0230", null ],
+    [ "JustEngagedWith", "d0/d10/a21433.html#a2853d557da48decede7baa4845f5573f", null ],
+    [ "JustSummoned", "d0/d10/a21433.html#ac61c732b17b39bdbedf18742b8403c5d", null ],
+    [ "KilledUnit", "d0/d10/a21433.html#af82c5edf85466d9dd5e1dee666231687", null ],
+    [ "Reset", "d0/d10/a21433.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
+    [ "SpawnFirstWave", "d0/d10/a21433.html#af65d4bfff98b239f96e50c868b90e08a", null ],
+    [ "UpdateAI", "d0/d10/a21433.html#a05690f147e2c2a584179c19b0a84a1b0", null ],
+    [ "_encounterStarted", "d0/d10/a21433.html#a37c907c5136097497bcb30da4c70d121", null ],
+    [ "_events", "d0/d10/a21433.html#af7fbc8d2c28052f43463897bcb846b25", null ],
+    [ "_firstWaveSummoned", "d0/d10/a21433.html#a1af2048d0d48e8670cdb4957e191f172", null ],
+    [ "_instance", "d0/d10/a21433.html#a34a422dcee2353a888deaac3bab983a4", null ],
+    [ "_phase", "d0/d10/a21433.html#a64808a1b0cee00069a69c050eeb0240e", null ],
+    [ "_summons", "d0/d10/a21433.html#ae02eac33cf9fa64a2d2e20b5e4d8a591", null ]
 ];

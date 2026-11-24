@@ -1,6 +1,6 @@
 var a22317 =
 [
-    [ "HandleDummy", "df/db6/a22317.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "df/db6/a22317.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "df/db6/a22317.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_guardian_pavilionAI", "d9/dc0/a22321.html", "d9/dc0/a22321" ],
+    [ "npc_guardian_pavilion", "df/db6/a22317.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "df/db6/a22317.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

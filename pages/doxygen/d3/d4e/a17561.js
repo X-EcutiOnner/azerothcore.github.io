@@ -1,8 +1,6 @@
 var a17561 =
 [
-    [ "boss_krickAI", "d3/d4e/a17561.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "d3/d4e/a17561.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "d3/d4e/a17561.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "d3/d4e/a17561.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "d3/d4e/a17561.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "npc_pos_leaderAI", "dc/d19/a17565.html", "dc/d19/a17565" ],
+    [ "npc_pos_leader", "d3/d4e/a17561.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "d3/d4e/a17561.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

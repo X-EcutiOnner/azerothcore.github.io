@@ -1,6 +1,8 @@
 var a27905 =
 [
-    [ "CheckCast", "df/d3c/a27905.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "df/d3c/a27905.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "df/d3c/a27905.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "CalcPeriodic", "df/d3c/a27905.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "df/d3c/a27905.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "df/d3c/a27905.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "df/d3c/a27905.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "df/d3c/a27905.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

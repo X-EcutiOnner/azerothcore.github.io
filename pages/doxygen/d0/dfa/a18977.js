@@ -1,6 +1,7 @@
 var a18977 =
 [
-    [ "npc_lk_wicked_spiritAI", "d5/d51/a18981.html", "d5/d51/a18981" ],
-    [ "npc_lk_wicked_spirit", "d0/dfa/a18977.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "d0/dfa/a18977.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "AuraRemoveEvent", "d0/dfa/a18977.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "d0/dfa/a18977.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "d0/dfa/a18977.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "d0/dfa/a18977.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

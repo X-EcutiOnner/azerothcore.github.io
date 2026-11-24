@@ -1,7 +1,6 @@
 var a21961 =
 [
-    [ "CheckCast", "de/d1f/a21961.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "de/d1f/a21961.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "de/d1f/a21961.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "de/d1f/a21961.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "HandleSendEvent", "de/d1f/a21961.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "de/d1f/a21961.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "de/d1f/a21961.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

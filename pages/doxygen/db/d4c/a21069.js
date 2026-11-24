@@ -1,8 +1,6 @@
 var a21069 =
 [
-    [ "npc_xt_toy_pile", "db/d4c/a21069.html#a843e7d05cf62baa5c006077f8dad107d", null ],
-    [ "SpellHit", "db/d4c/a21069.html#a82af3830eaf524c587334e8eb193925f", null ],
-    [ "_lastSummonTime", "db/d4c/a21069.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
-    [ "SummonCooldown", "db/d4c/a21069.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
-    [ "SummonDistance", "db/d4c/a21069.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
+    [ "HandleScript", "db/d4c/a21069.html#aade3cab1f80d1762bfad48407f4b91cc", null ],
+    [ "PrepareSpellScript", "db/d4c/a21069.html#ab20e548d7c0a837ee4cb7198c09e53ee", null ],
+    [ "Register", "db/d4c/a21069.html#a48a0a37b8e6f799ee9035bb766fd6db2", null ]
 ];

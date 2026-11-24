@@ -1,11 +1,8 @@
 var a29905 =
 [
-    [ "AddToWorld", "d7/d50/a29905.html#a3b5a3472d4a5ca1cff7dc0dbed0b04c7", null ],
-    [ "ForceInitValues", "d7/d50/a29905.html#adb765e8464642610eeebf25c5fa17edd", null ],
-    [ "Player", "d7/d50/a29905.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
-    [ "RemoveFromWorld", "d7/d50/a29905.html#aa69937d52e60e235f35a48e9d80d65ce", null ],
-    [ "SaveToDB", "d7/d50/a29905.html#a21d71f7f913da0213b98cfe2e0d1b832", null ],
-    [ "SaveToDB", "d7/d50/a29905.html#a74818d35eddf0c5ccea7693ba455cff2", null ],
-    [ "TestSelectCharmedAIGroupTarget", "d7/d50/a29905.html#a31b19bcaa3a3006da6f7b8074c23500d", null ],
-    [ "UpdateObjectVisibility", "d7/d50/a29905.html#a35487432f2af544c20bc3c45f8ba1602", null ]
+    [ "bp0", "d7/d50/a29905.html#ada8e047c960181610ff1942cbdfa2e27", null ],
+    [ "bp1", "d7/d50/a29905.html#aaf81afde542db481bde1e26fcc21b945", null ],
+    [ "bp2", "d7/d50/a29905.html#a36b28d1bc821bfd3970b6af0f38a9f10", null ],
+    [ "spellId", "d7/d50/a29905.html#a3f8e88d4761c5247c2cb9bff94d548aa", null ],
+    [ "triggered", "d7/d50/a29905.html#a0ee8feba0856c5497612e15128ba8273", null ]
 ];

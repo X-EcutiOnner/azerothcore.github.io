@@ -1,6 +1,11 @@
 var a21157 =
 [
-    [ "boss_yoggsaron_descend_portal", "d5/deb/a21157.html#aa64788351819e9c7f5505c929818770d", null ],
-    [ "OnSpellClick", "d5/deb/a21157.html#af72e8c3611b5e134e39ab9695405e08e", null ],
-    [ "_instance", "d5/deb/a21157.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
+    [ "boss_yoggsaron_neltharion", "d5/deb/a21157.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
+    [ "NextStep", "d5/deb/a21157.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
+    [ "Reset", "d5/deb/a21157.html#ab26d57690c1d2477678dc9759aefeab2", null ],
+    [ "Say", "d5/deb/a21157.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
+    [ "UpdateAI", "d5/deb/a21157.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
+    [ "_checkTimer", "d5/deb/a21157.html#a2adcf3f46d4003ae2044eda474e51983", null ],
+    [ "_running", "d5/deb/a21157.html#acd807afae6aa88c2e385765231a56a86", null ],
+    [ "_step", "d5/deb/a21157.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
 ];

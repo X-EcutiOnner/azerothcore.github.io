@@ -1,7 +1,6 @@
 var a25921 =
 [
-    [ "HandleProc", "d7/deb/a25921.html#a68f17c864f8b2138c73a2fea42b8a252", null ],
-    [ "PrepareAuraScript", "d7/deb/a25921.html#a3722c927cf522685c08886338433964d", null ],
-    [ "Register", "d7/deb/a25921.html#a38985baeb0c24c948747492bf1d1f546", null ],
-    [ "Validate", "d7/deb/a25921.html#ac8bdbf36f0ccfa77de664d630540957d", null ]
+    [ "CheckCast", "d7/deb/a25921.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
+    [ "PrepareSpellScript", "d7/deb/a25921.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
+    [ "Register", "d7/deb/a25921.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
 ];

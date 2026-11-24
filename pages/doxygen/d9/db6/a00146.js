@@ -1,6 +1,6 @@
 var a00146 =
 [
-    [ "UlduarVehicleScaleTest", "de/d7d/a30305.html", null ],
+    [ "UlduarVehicleScaleTest", "d1/d0c/a30297.html", null ],
     [ "CalcScaledVehicleValue", "d9/db6/a00146.html#aa21e2162e63f4227effb0e9524258f2d", null ],
     [ "CalcUlduarVehicleScale", "d9/db6/a00146.html#acdecfc5cf74175c6a000957c02da9cc4", null ],
     [ "CalcUlduarVehicleScaleAmount", "d9/db6/a00146.html#a7bee56888580618bb23f42cc8f9edc92", null ],

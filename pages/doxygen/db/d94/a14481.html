@@ -338,10 +338,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa05099_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d3/d8f/a05099.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa09229_html_a1c6f02de66ffa847c09d19922b02bc20"><div class="ttname"><a href="../../da/d3c/a09229.html#a1c6f02de66ffa847c09d19922b02bc20">DispelInfo::GetDispeller</a></div><div class="ttdeci">Unit * GetDispeller() const</div><div class="ttdef"><b>Definition:</b> Unit.h:315</div></div>
 <div class="ttc" id="aa09273_html"><div class="ttname"><a href="../../da/dd9/a09273.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:670</div></div>
-<div class="ttc" id="aa12193_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d8/d18/a12193.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1026</div></div>
-<div class="ttc" id="aa12193_html_a80b4589d9fb316ef3e53ffdc811738b4"><div class="ttname"><a href="../../d8/d18/a12193.html#a80b4589d9fb316ef3e53ffdc811738b4">AuraScript::GetEffect</a></div><div class="ttdeci">AuraEffect * GetEffect(uint8 effIndex) const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1168</div></div>
+<div class="ttc" id="aa12193_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d8/d18/a12193.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1055</div></div>
+<div class="ttc" id="aa12193_html_a80b4589d9fb316ef3e53ffdc811738b4"><div class="ttname"><a href="../../d8/d18/a12193.html#a80b4589d9fb316ef3e53ffdc811738b4">AuraScript::GetEffect</a></div><div class="ttdeci">AuraEffect * GetEffect(uint8 effIndex) const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1197</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01026">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00315">DispelInfo::GetDispeller()</a>, <a class="el" href="../../#l01168">AuraScript::GetEffect()</a>, and <a class="el" href="../../#l00104">SPELL_WL_UNSTABLE_AFFL_DISPEL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01055">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00315">DispelInfo::GetDispeller()</a>, <a class="el" href="../../#l01197">AuraScript::GetEffect()</a>, and <a class="el" href="../../#l00104">SPELL_WL_UNSTABLE_AFFL_DISPEL</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00474">Register()</a>.</p>
 
@@ -400,11 +400,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  475</span>    {</div>
 <div class="line"><span class="lineno">  476</span>        <a class="code hl_variable" href="../../d8/d18/a12193.html#abbfd3de68cd278d4dcc99e0a5f5b4822">AfterDispel</a> += <a class="code hl_define" href="../../dc/d2c/a00893.html#af2fd7627b33028274141d6e790134ccc">AuraDispelFn</a>(<a class="code hl_function" href="../../db/d94/a14481.html#a415977576283972ce4a1050c70826d7c">spell_hexlord_unstable_affliction::HandleDispel</a>);</div>
 <div class="line"><span class="lineno">  477</span>    }</div>
-<div class="ttc" id="aa00893_html_af2fd7627b33028274141d6e790134ccc"><div class="ttname"><a href="../../dc/d2c/a00893.html#af2fd7627b33028274141d6e790134ccc">AuraDispelFn</a></div><div class="ttdeci">#define AuraDispelFn(F)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:733</div></div>
-<div class="ttc" id="aa12193_html_abbfd3de68cd278d4dcc99e0a5f5b4822"><div class="ttname"><a href="../../d8/d18/a12193.html#abbfd3de68cd278d4dcc99e0a5f5b4822">AuraScript::AfterDispel</a></div><div class="ttdeci">HookList&lt; AuraDispelHandler &gt; AfterDispel</div><div class="ttdef"><b>Definition:</b> SpellScript.h:732</div></div>
+<div class="ttc" id="aa00893_html_af2fd7627b33028274141d6e790134ccc"><div class="ttname"><a href="../../dc/d2c/a00893.html#af2fd7627b33028274141d6e790134ccc">AuraDispelFn</a></div><div class="ttdeci">#define AuraDispelFn(F)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:740</div></div>
+<div class="ttc" id="aa12193_html_abbfd3de68cd278d4dcc99e0a5f5b4822"><div class="ttname"><a href="../../d8/d18/a12193.html#abbfd3de68cd278d4dcc99e0a5f5b4822">AuraScript::AfterDispel</a></div><div class="ttdeci">HookList&lt; AuraDispelHandler &gt; AfterDispel</div><div class="ttdef"><b>Definition:</b> SpellScript.h:739</div></div>
 <div class="ttc" id="aa14481_html_a415977576283972ce4a1050c70826d7c"><div class="ttname"><a href="../../db/d94/a14481.html#a415977576283972ce4a1050c70826d7c">spell_hexlord_unstable_affliction::HandleDispel</a></div><div class="ttdeci">void HandleDispel(DispelInfo *dispelInfo)</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:468</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00732">AuraScript::AfterDispel</a>, <a class="el" href="../../#l00733">AuraDispelFn</a>, and <a class="el" href="../../#l00468">HandleDispel()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00739">AuraScript::AfterDispel</a>, <a class="el" href="../../#l00740">AuraDispelFn</a>, and <a class="el" href="../../#l00468">HandleDispel()</a>.</p>
 
 </div>
 </div>
@@ -448,7 +448,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d94/a14481.html">spell_hexlord_unstable_affliction</a></li>
-    <li class="footer">Generated on Tue Nov 17 2026 03:06:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Nov 24 2026 04:58:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

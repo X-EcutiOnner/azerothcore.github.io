@@ -1,10 +1,8 @@
 var a20001 =
 [
-    [ "npc_oculus_drakegiverAI", "da/d78/a20005.html", "da/d78/a20005" ],
-    [ "npc_oculus_drakegiver", "d1/de4/a20001.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "d1/de4/a20001.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "d1/de4/a20001.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "d1/de4/a20001.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "d1/de4/a20001.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "d1/de4/a20001.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
+    [ "npc_centrifuge_constructAI", "d1/de4/a20001.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "d1/de4/a20001.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "d1/de4/a20001.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "d1/de4/a20001.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "d1/de4/a20001.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

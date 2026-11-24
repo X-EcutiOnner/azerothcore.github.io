@@ -1,22 +1,13 @@
 var a20781 =
 [
-    [ "npc_ulduar_aerial_command_unit", "d9/d8b/a20781.html#a7db419befea7054118ebd2b1d7835a38", null ],
-    [ "AttackStart", "d9/d8b/a20781.html#a215a0b1f8fdf50f3968289f78aa964c5", null ],
-    [ "DamageTaken", "d9/d8b/a20781.html#a63f7b08da3b96b12fb93e2366c4617b7", null ],
-    [ "DoAction", "d9/d8b/a20781.html#ac23cf431ec7b3f933631a2683329d0b5", null ],
-    [ "EnterEvadeMode", "d9/d8b/a20781.html#a5c3643f96efcfbc0272d906b083ef7a3", null ],
-    [ "JustSummoned", "d9/d8b/a20781.html#abfa255cbdd7b16a3586117fa16bb3f13", null ],
-    [ "KilledUnit", "d9/d8b/a20781.html#aeda020ce8ad0806463e2a06b9f054faf", null ],
-    [ "MoveInLineOfSight", "d9/d8b/a20781.html#a39e1f0e199f43e3c2018e49ef77cec4c", null ],
-    [ "Reset", "d9/d8b/a20781.html#a51a2ad26cba213816a207f7f69591b4a", null ],
-    [ "SetData", "d9/d8b/a20781.html#ab6fec2895372afbfed7cbba2e3a463d6", null ],
-    [ "SpellHit", "d9/d8b/a20781.html#a7dc2920a7ff1a7d8ad346626dafeb18b", null ],
-    [ "SummonedCreatureDespawn", "d9/d8b/a20781.html#a429da72273b2126452eef1e9b724b40b", null ],
-    [ "UpdateAI", "d9/d8b/a20781.html#a4ae899da49e9f03f3ea23559ccc2e561", null ],
-    [ "_events", "d9/d8b/a20781.html#a4832f888cc77613d99ff165e5bf47022", null ],
-    [ "_isDefeated", "d9/d8b/a20781.html#a8272d619675b54d454b825efdf1357e6", null ],
-    [ "_isEvading", "d9/d8b/a20781.html#a6976c445331a25cd2735e963a102157c", null ],
-    [ "_phase", "d9/d8b/a20781.html#a7947005a05430e9734db3cf14eac0d17", null ],
-    [ "_summons", "d9/d8b/a20781.html#ac961aedcde178320276eeaf0fa8a8675", null ],
-    [ "instance", "d9/d8b/a20781.html#a36f7e3b4228aca4adf092c14827fa072", null ]
+    [ "npc_ulduar_mimiron_rocket", "d9/d8b/a20781.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
+    [ "GetGUID", "d9/d8b/a20781.html#ad8415989fc73f29462ee1787508ec033", null ],
+    [ "InitializeAI", "d9/d8b/a20781.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "d9/d8b/a20781.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetGUID", "d9/d8b/a20781.html#aa9945bc616b99d242a4f8ec1320f8612", null ],
+    [ "UpdateAI", "d9/d8b/a20781.html#a20a914900db345aa00a9e640bc5b1baf", null ],
+    [ "_events", "d9/d8b/a20781.html#a823d53f96e82b0a89a62c57d84eaad29", null ],
+    [ "_strikeTrigger", "d9/d8b/a20781.html#a9da436d0769e8ae067a523bc2e4551cc", null ],
+    [ "_strikeVictim", "d9/d8b/a20781.html#a550ce28cd2fe93e262633c9c686c8b7f", null ],
+    [ "_travelMs", "d9/d8b/a20781.html#a2740bdfe8f7f6909e9fcdf1e800d4eb3", null ]
 ];

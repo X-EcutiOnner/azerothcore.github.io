@@ -1,9 +1,9 @@
 var a29281 =
 [
-    [ "HolidayWorldStateId", "db/dcb/a29281.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
-    [ "id", "db/dcb/a29281.html#a52f7840f9247d2af63062dd280b37341", null ],
-    [ "mapid", "db/dcb/a29281.html#a11e1326eeb24b436b10db53acc323c13", null ],
-    [ "maxGroupSize", "db/dcb/a29281.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
-    [ "name", "db/dcb/a29281.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
-    [ "type", "db/dcb/a29281.html#a647669b97599d7edf02b5a38dd1d5116", null ]
+    [ "BaseSection", "db/dcb/a29281.html#a218d178327a97a16f0a38fe8f5e887df", null ],
+    [ "ColorIndex", "db/dcb/a29281.html#a55c0d2ffba5bb3462796e863da19568b", null ],
+    [ "Flags", "db/dcb/a29281.html#a666d68526db28defdfb5bf63248ec360", null ],
+    [ "RaceID", "db/dcb/a29281.html#a23b6456d6bf9ce651dc52e953aa775ca", null ],
+    [ "SexID", "db/dcb/a29281.html#a9d4674f6177acc4d1dbda3b574f14c10", null ],
+    [ "VariationIndex", "db/dcb/a29281.html#aa817db158cc623bb33152d2a79b4bef2", null ]
 ];

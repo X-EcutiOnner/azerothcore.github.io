@@ -1,6 +1,6 @@
 var a20525 =
 [
-    [ "HandleScript", "d6/d76/a20525.html#a269167ff78ae3110193f7cfe4b4c0ef4", null ],
-    [ "PrepareSpellScript", "d6/d76/a20525.html#a79975a7f3e523c0feb87d3e084f98808", null ],
-    [ "Register", "d6/d76/a20525.html#aec017333dfc19701472dad3987538e69", null ]
+    [ "npc_ulduar_saronite_vapors", "d6/d76/a20525.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
+    [ "JustDied", "d6/d76/a20525.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
+    [ "_instance", "d6/d76/a20525.html#ad304110ff1bfc33066cd17f04cf40181", null ]
 ];

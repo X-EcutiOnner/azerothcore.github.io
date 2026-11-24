@@ -1,8 +1,7 @@
 var a26737 =
 [
-    [ "Absorb", "de/d95/a26737.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
-    [ "CalculateAmount", "de/d95/a26737.html#a20d5b4776ebeb859b0641af640e41d80", null ],
-    [ "PrepareAuraScript", "de/d95/a26737.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
-    [ "Register", "de/d95/a26737.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
-    [ "Validate", "de/d95/a26737.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
+    [ "CalculateAmount", "de/d95/a26737.html#a0934aa8eaf442314aa6050d85304c15b", null ],
+    [ "CalculateSpellAmount", "de/d95/a26737.html#a4ec8eb1000a32fe3909e0ce32f5a83cd", null ],
+    [ "PrepareAuraScript", "de/d95/a26737.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
+    [ "Register", "de/d95/a26737.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
 ];
